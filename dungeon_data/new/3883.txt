@@ -1,0 +1,78 @@
+***** - Ticket Festival-Master
+
+stage 0
+
+5226 - ***** @ level 10
+クリーミーチーズ
+810 Damage - Change Random to Light, Deal 90% damage (50% chance)
+香ばしい2枚のビーフパティ
+900 Damage - Deal 100% damage (2 hits, 50% each) (50% chance)
+
+5227 - ***** @ level 10
+食べごたえビッグ
+810 Damage - Change Random to Dark, Deal 90% damage (50% chance)
+おいしさの決め手特製ソース
+900 Damage - Deal 100% damage (2 hits, 50% each) (50% chance)
+
+stage 1
+
+5223 - ***** @ level 10
+コクのある味わい
+810 Damage - Change Random to Fire, Deal 90% damage (50% chance)
+シャキシャキレタス
+900 Damage - Deal 100% damage (2 hits, 50% each) (50% chance)
+
+5224 - ***** @ level 10
+中はしっとりふっくら
+810 Damage - Change Random to Water, Deal 90% damage (50% chance)
+外はサクサク
+900 Damage - Deal 100% damage (2 hits, 50% each) (50% chance)
+
+stage 2
+
+5224 - ***** @ level 10
+中はしっとりふっくら
+810 Damage - Change Random to Water, Deal 90% damage (50% chance)
+外はサクサク
+900 Damage - Deal 100% damage (2 hits, 50% each) (50% chance)
+
+5225 - ***** @ level 10
+ベーコンとレタスのハーモニー
+810 Damage - Change Random to Wood, Deal 90% damage (50% chance)
+まろやかチーズとマスタード
+900 Damage - Deal 100% damage (2 hits, 50% each) (50% chance)
+
+stage 3
+
+5229 - ***** @ level 10
+みんなで楽しく食べよう♪
+Change all orbs to Fire, Water, Wood, Light, Dark, Heal (Preemptive)
+一緒に食べるとおいしいね♪
+0 Damage - Spawn random 1 Fire, Water, Wood, Light, Dark orbs, Deal 95% damage (33% chance)
+これがお気に入り♪
+0 Damage - Spawn random 5 Light orbs, Deal 90% damage (33% chance)
+ぜーんぶ大好きー♪
+0 Damage - Deal 105% damage (3 hits, 35% each) (34% chance)
+----- HP < 10 -----
+食べたらお片付けしようね♪
+0 Damage - Deal 200% damage (5 hits, 40% each)
+
+stage 4
+
+5223 - ***** @ level 10
+コクのある味わい
+810 Damage - Change Random to Fire, Deal 90% damage (50% chance)
+シャキシャキレタス
+900 Damage - Deal 100% damage (2 hits, 50% each) (50% chance)
+
+5225 - ***** @ level 10
+ベーコンとレタスのハーモニー
+810 Damage - Change Random to Wood, Deal 90% damage (50% chance)
+まろやかチーズとマスタード
+900 Damage - Deal 100% damage (2 hits, 50% each) (50% chance)
+
+stage 5
+
+3529 - REMDra @ level 50
+Basic attacks (1)
+

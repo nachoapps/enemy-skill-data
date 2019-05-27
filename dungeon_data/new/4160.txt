@@ -1,0 +1,138 @@
+Skill Level Up Dungeon Shaman King - ★6 Characters
+
+stage 0
+
+5237 - Yoh Asakura @ level 1
+Basic attacks (1)
+
+stage 1
+
+5240 - Anna Kyoyama @ level 1
+Basic attacks (1)
+
+stage 2
+
+5243 - Tao Ren @ level 1
+Basic attacks (2)
+
+stage 3
+
+5246 - Iron Maiden, Jeanne @ level 1
+RRMMB + Let there be peace on earth.
+Change all orbs to Fire + Bind awoken skills for 3 turns (Preemptive)
+Instruments of Torture:
+Gibbet
+142 Damage - Bind active skills for 1 turns, Deal 100% damage (50% chance)
+To banish evil from this world!
+127 Damage - Bind 2 subs for 1~2 turns, Deal 90% damage (50% chance)
+----- HP < 50 -----
+----- Turn 1 -----
+It is proof of my resolve.
+Player -75% HP
+----- HP <= 15 -----
+Verdict: Death
+284 Damage - Deal 200% damage
+
+stage 4
+
+5249 - Hao @ level 1
+Basic attacks (2)
+
+Skill Level Up Dungeon Shaman King - ★5 Characters
+
+stage 0
+
+5252 - Ryunosuke Umemiya @ level 1
+My mana burns with passion.
+Spawn random 3 Wood, Dark orbs (Preemptive)
+You're gonna get hurt!
+Player -25% HP (25% chance) (every 2 turns)
+Wanna dance punk?
+100 Damage - Change Random to Dark, Deal 90% damage (33% chance)
+Hmph! Hmph! Hmph!
+117 Damage - Deal 105% damage (3 hits, 35% each) (33% chance)
+This is really gonna hurt.
+112 Damage - Delay active skills by 1 turns, Deal 100% damage (34% chance)
+----- HP < 50 -----
+----- Turn 1 -----
+Are you ready?
+Increase damage to 150% for the next 5 turns
+
+stage 1
+
+5254 - Faust VIII @ level 1
+Shall we, Eliza?
+Movetime -1s for 3 turns (Preemptive)
+----- Turn 1 -----
+I will allow no one to harm him.
+Reduce damage from all sources by 50% for 4 turns
+----- Turn 2 -----
+Scalpel!
+She will carve the skins from her enemies.
+100 Damage - Change Random to Dark, Deal 90% damage
+----- Turn 3 -----
+Forceps! Grasp their flesh.
+117 Damage - Deal 105% damage (3 hits, 35% each)
+----- Turn 4 -----
+Probes! Penetrate their organs.
+112 Damage - Blind all orbs on the board, Deal 100% damage
+----- HP <= 100 -----
+Syringe! And vaccinate them!!
+106 Damage - Spawn random 6 Light orbs, Deal 95% damage
+
+stage 2
+
+5256 - Horohoro @ level 1
+Basic attacks (2)
+
+stage 3
+
+5258 - Joco @ level 1
+Basic attacks (2)
+
+stage 4
+
+5260 - Lyserg Diethel @ level 1
+I'm pleased to make your acquaintance.
+Absorb combo <= 3 damage for 3 turns (Preemptive)
+Homing Pendulum
+112 Damage - Fix orb movement starting point to random position on the board, Deal 100% damage (33% chance)
+I have to put them to the test.
+100 Damage - Random 1 orbs change every 2.0s for 1 turns, Deal 90% damage (33% chance)
+You'll have to fight me whether
+you want to or not!
+117 Damage - Deal 105% damage (3 hits, 35% each) (34% chance)
+----- HP < 50 -----
+----- Turn 1 -----
+Now I'm going to get serious!
+Increase damage to 150% for the next 5 turns
+----- HP <= 15 -----
+Take this!! + Big Ben Wire Frame!!!
+Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs + Deal 200% damage (5 hits, 40% each)
+
+stage 5
+
+5262 - Marco @ level 1
+You will face me.
+Voids status ailments for 5 turns (Preemptive)
+I am the most serious now.
+112 Damage - Delay active skills by 2 turns, Deal 100% damage (33% chance)
+Witness my justice!!!
+100 Damage - Change Random to Light, Deal 90% damage (33% chance)
+I'm not finished yet!
+106 Damage - Change 2nd row to Light orbs, Deal 95% damage (34% chance)
+----- HP <= 50 -----
+I entrust the future in their hands!
+134 Damage - Deal 120% damage (4 hits, 30% each) (50% chance)
+I am the most serious now.
+112 Damage - Delay active skills by 2 turns, Deal 100% damage (33% chance)
+Witness my justice!!!
+100 Damage - Change Random to Light, Deal 90% damage (33% chance)
+I'm not finished yet!
+106 Damage - Change 2nd row to Light orbs, Deal 95% damage (34% chance)
+
+stage 6
+
+5264 - Opacho @ level 1
+Basic attacks (1)
+

@@ -1,0 +1,495 @@
+Shaman King Quest - Lv10-Fixed Team
+
+stage 0
+
+5250 - Hao, the Future King @ level 10
+Weaklings.
+Absorb combo <= 5 damage for 10 turns (Preemptive)
+I'll destroy you next.
+8801 Damage - Deal 105% damage (3 hits, 35% each) (50% chance)
+I've already been to hell. Boring...
+7962 Damage - Spawn random 4 Fire, Dark orbs, Deal 95% damage (50% chance)
+----- HP < 50 -----
+----- Turn 1 -----
+The rest of you can live a little longer.
+Player -99% HP
+----- HP < 15 -----
+It's a feast. + Spirit of Fire
+Delay active skills by 1~3 turns + Change Random to Jammer, Deal 200% damage
+
+Shaman King Quest - Lv9-Fixed Team
+
+stage 0
+
+5238 - Spirit of the Sword, Yoh Asakura @ level 9
+Let's do it, Amidamaru.
+Specific orbs change every 1.0s for 5 turns (Preemptive)
+If you hurt people, they'll hurt you back.
+6733 Damage - Deal 110% damage (2 hits, 55% each) (50% chance)
+I can't lose anymore.
+6121 Damage - Spawn random 4 Wood, Light orbs, Deal 100% damage (50% chance)
+----- HP < 50 -----
+----- Turn 1 -----
+I'm gonna use force. + Shamanic Oracle
+Increase damage to 150% for the next 5 turns + Absorb combo <= 5 damage for 5 turns
+----- HP <= 20 -----
+----- Turn 2 -----
+All right. One more try.
+Reduce damage from all sources by 50% for 1 turns (1 time use)
+Here I go. + Amida-Style Halo Giant Blade
+Blind all orbs on the board + Deal 200% damage (5 hits, 40% each)
+
+Shaman King Quest - Lv8-Fixed Team
+
+stage 0
+
+5244 - Super Bushin, Tao Ren @ level 8
+I am strong.
+Reduce damage from all sources by 50% for 10 turns (Preemptive)
+----- Turn 1 -----
+Four-Flash Blade Paradise
+Increase damage to 150% for the next 5 turns
+----- Turn 2 -----
+Spears!!
+4523 Damage - Deal 108% damage (6 hits, 18% each)
+----- Turn 3 -----
+Swords!
+4188 Damage - Delay active skills by 2 turns, Deal 100% damage
+----- Turn 4 -----
+Halberds!!
+3978 Damage - Bind 1 subs for 1~2 turns, Deal 95% damage
+----- Turn 5 -----
+Multiple Blades!!!
+4397 Damage - Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 105% damage
+----- HP <= 100 -----
+Take this!! + Blade Paradise!!
+Movetime -1s for 5 turns + Deal 170% damage (10 hits, 17% each)
+
+Shaman King Quest - Lv7-Fixed Team
+
+stage 0
+
+5256 - Horohoro @ level 7
+Mososo Kruppe
+4304 Damage - Change 5th row to Water orbs, Deal 95% damage (Preemptive)
+Mososo Kruppe
+4304 Damage - Change 5th row to Water orbs, Deal 95% damage (50% chance)
+Kawkaw Puri-Wenpe
+4530 Damage - Spawn random 4 Water orbs, Deal 100% damage (50% chance)
+----- HP <= 50 -----
+----- Execute repeatedly. Turn 1 -----
+You're in my world now, + and here I'm the fittest.
+Change 1st, 3rd, 5th column to Water orbs, Deal 55% damage + Lock all Water orbs, Deal 55% damage (every 3 turns)
+----- Loop to 1 after. Turn 2-3 -----
+Mososo Kruppe
+4304 Damage - Change 5th row to Water orbs, Deal 95% damage (50% chance)
+Kawkaw Puri-Wenpe
+4530 Damage - Spawn random 4 Water orbs, Deal 100% damage (50% chance)
+----- HP < 20 -----
+----- Turn 1 -----
+This is my last offerring.
+Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs
+Neike Fuike Kiroro
+11326 Damage - Change 3rd row to Water orbs, Deal 250% damage
+
+Shaman King Quest - Lv6-Fixed Team
+
+stage 0
+
+5258 - Joco @ level 6
+I guess it's time for me to do my trick.
+Absorb combo <= 4 damage for 5 turns (Preemptive)
+----- Execute repeatedly. Turn 1-2 -----
+I am the Jaguar!
+2423 Damage - Blind all orbs on the board, Deal 100% damage (50% chance)
+SLICE
+2544 Damage - Deal 105% damage (3 hits, 35% each) (50% chance)
+----- Turn 3 -----
+C'mon
+Delay active skills by 3 turns
+----- Loop to 1 after. Turn 4 -----
+Over Soul + Ayers Rock!!!
+Do nothing + Change 4th, 5th row to Light orbs, Deal 250% damage
+
+Shaman King Quest - Lv5
+
+stage 0
+
+5246 - Iron Maiden, Jeanne @ level 5
+RRMMB + Let there be peace on earth.
+Change all orbs to Fire + Bind awoken skills for 3 turns (Preemptive)
+Instruments of Torture:
+Gibbet
+1974 Damage - Bind active skills for 1 turns, Deal 100% damage (50% chance)
+To banish evil from this world!
+1777 Damage - Bind 2 subs for 1~2 turns, Deal 90% damage (50% chance)
+----- HP < 50 -----
+----- Turn 1 -----
+It is proof of my resolve.
+Player -75% HP
+----- HP <= 15 -----
+Verdict: Death
+3949 Damage - Deal 200% damage
+
+Shaman King Quest - Lv4
+
+stage 0
+
+5262 - Marco @ level 4
+You will face me.
+Voids status ailments for 5 turns (Preemptive)
+I am the most serious now.
+1027 Damage - Delay active skills by 2 turns, Deal 100% damage (33% chance)
+Witness my justice!!!
+924 Damage - Change Random to Light, Deal 90% damage (33% chance)
+I'm not finished yet!
+976 Damage - Change 2nd row to Light orbs, Deal 95% damage (34% chance)
+----- HP <= 50 -----
+I entrust the future in their hands!
+1232 Damage - Deal 120% damage (4 hits, 30% each) (50% chance)
+I am the most serious now.
+1027 Damage - Delay active skills by 2 turns, Deal 100% damage (33% chance)
+Witness my justice!!!
+924 Damage - Change Random to Light, Deal 90% damage (33% chance)
+I'm not finished yet!
+976 Damage - Change 2nd row to Light orbs, Deal 95% damage (34% chance)
+
+Shaman King Quest - Lv3
+
+stage 0
+
+5260 - Lyserg Diethel @ level 3
+I'm pleased to make your acquaintance.
+Absorb combo <= 3 damage for 3 turns (Preemptive)
+Homing Pendulum
+667 Damage - Fix orb movement starting point to random position on the board, Deal 100% damage (33% chance)
+I have to put them to the test.
+600 Damage - Random 1 orbs change every 2.0s for 1 turns, Deal 90% damage (33% chance)
+You'll have to fight me whether
+you want to or not!
+700 Damage - Deal 105% damage (3 hits, 35% each) (34% chance)
+----- HP < 50 -----
+----- Turn 1 -----
+Now I'm going to get serious!
+Increase damage to 150% for the next 5 turns
+----- HP <= 15 -----
+Take this!! + Big Ben Wire Frame!!!
+Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs + Deal 200% damage (5 hits, 40% each)
+
+Shaman King Quest - Lv2
+
+stage 0
+
+5254 - Faust VIII @ level 2
+Shall we, Eliza?
+Movetime -1s for 3 turns (Preemptive)
+----- Turn 1 -----
+I will allow no one to harm him.
+Reduce damage from all sources by 50% for 4 turns
+----- Turn 2 -----
+Scalpel!
+She will carve the skins from her enemies.
+340 Damage - Change Random to Dark, Deal 90% damage
+----- Turn 3 -----
+Forceps! Grasp their flesh.
+397 Damage - Deal 105% damage (3 hits, 35% each)
+----- Turn 4 -----
+Probes! Penetrate their organs.
+378 Damage - Blind all orbs on the board, Deal 100% damage
+----- HP <= 100 -----
+Syringe! And vaccinate them!!
+359 Damage - Spawn random 6 Light orbs, Deal 95% damage
+
+Shaman King Quest - Lv1
+
+stage 0
+
+5252 - Ryunosuke Umemiya @ level 1
+My mana burns with passion.
+Spawn random 3 Wood, Dark orbs (Preemptive)
+You're gonna get hurt!
+Player -25% HP (25% chance) (every 2 turns)
+Wanna dance punk?
+100 Damage - Change Random to Dark, Deal 90% damage (33% chance)
+Hmph! Hmph! Hmph!
+117 Damage - Deal 105% damage (3 hits, 35% each) (33% chance)
+This is really gonna hurt.
+112 Damage - Delay active skills by 1 turns, Deal 100% damage (34% chance)
+----- HP < 50 -----
+----- Turn 1 -----
+Are you ready?
+Increase damage to 150% for the next 5 turns
+
+Shaman King Quest - Shaman Fight Tournament-Mythical
+
+stage 0
+
+5258 - Joco @ level 10
+I guess it's time for me to do my trick.
+Absorb combo <= 4 damage for 5 turns (Preemptive)
+----- Execute repeatedly. Turn 1-2 -----
+I am the Jaguar!
+12300 Damage - Blind all orbs on the board, Deal 100% damage (50% chance)
+SLICE
+12915 Damage - Deal 105% damage (3 hits, 35% each) (50% chance)
+----- Turn 3 -----
+C'mon
+Delay active skills by 3 turns
+----- Loop to 1 after. Turn 4 -----
+Over Soul + Ayers Rock!!!
+Do nothing + Change 4th, 5th row to Light orbs, Deal 250% damage
+
+stage 1
+
+5256 - Horohoro @ level 10
+Mososo Kruppe
+12806 Damage - Change 5th row to Water orbs, Deal 95% damage (Preemptive)
+Mososo Kruppe
+12806 Damage - Change 5th row to Water orbs, Deal 95% damage (50% chance)
+Kawkaw Puri-Wenpe
+13480 Damage - Spawn random 4 Water orbs, Deal 100% damage (50% chance)
+----- HP <= 50 -----
+----- Execute repeatedly. Turn 1 -----
+You're in my world now, + and here I'm the fittest.
+Change 1st, 3rd, 5th column to Water orbs, Deal 55% damage + Lock all Water orbs, Deal 55% damage (every 3 turns)
+----- Loop to 1 after. Turn 2-3 -----
+Mososo Kruppe
+12806 Damage - Change 5th row to Water orbs, Deal 95% damage (50% chance)
+Kawkaw Puri-Wenpe
+13480 Damage - Spawn random 4 Water orbs, Deal 100% damage (50% chance)
+----- HP < 20 -----
+----- Turn 1 -----
+This is my last offerring.
+Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs
+Neike Fuike Kiroro
+33700 Damage - Change 3rd row to Water orbs, Deal 250% damage
+
+stage 2
+
+5243 - Tao Ren @ level 10
+I will be
+12474 Damage - Bind 2 subs for 2~3 turns, Deal 90% damage (Preemptive)
+----- Turn 1 -----
+Vorpal Dance
+12474 Damage - Change 4th column to Dark orbs, Deal 90% damage
+----- HP <= 100 -----
+100 percent Integration Vorpal Dance
+13860 Damage - Delay active skills by 2 turns, Deal 100% damage
+----- HP <= 50 -----
+----- Turn 1 -----
+You will perish.
+Bind active skills for 5 turns (1 time use)
+Vorpal Dance
+12474 Damage - Change 4th column to Dark orbs, Deal 90% damage
+Super Golden Vorpal Dance
+15246 Damage - Deal 110% damage (5 hits, 22% each) (50% chance)
+100 percent Integration Vorpal Dance
+13860 Damage - Delay active skills by 2 turns, Deal 100% damage
+----- HP < 20 -----
+----- Execute repeatedly. Turn 1 -----
+Secret Super Power
+Increase damage to 150% for the next 1 turns
+----- Loop to 1 after. Turn 2 -----
+Perfect Reenactment
+of the Vorpal Dance
+23562 Damage - Deal 170% damage (10 hits, 17% each)
+
+stage 3
+
+5247 - Holy Girl Iron Maiden, Jeanne @ level 10
+Why must you continue to sin?!
+Movetime -1s for 3 turns (Preemptive)
+----- Turn 1 -----
+Over Soul Instruments of Torture:
+Interrogation Chair
+14120 Damage - Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 100% damage (1 time use)
+----- HP <= 100 -----
+Shamash make them tighter.
+13414 Damage - Bind 1 subs for 2 turns, Deal 95% damage (33% chance)
+Now beg forgiveness.
+12708 Damage - Spawn random 6 Light orbs, Deal 90% damage (33% chance)
+You must repent.
+14826 Damage - Deal 105% damage (3 hits, 35% each) (34% chance)
+----- HP < 50 -----
+----- Turn 2 -----
+I am saddened and disappointed.
+Bind awoken skills for 1 turns
+Over Soul Instruments of Torture:
+Statue of Apega
+21180 Damage - Spawn random 10 Fire orbs, Deal 150% damage
+----- HP < 20 -----
+I am saddened and disappointed.
+Bind awoken skills for 1 turns
+Over Soul Instruments of Torture:
+Guillotine
+35300 Damage - Deal 250% damage
+
+stage 4
+
+5249 - Hao @ level 10
+All right.
+Reduce damage from all sources by 50% for 5 turns (Preemptive)
+Fools. I told you to fight me all at once.
+15076 Damage - Bind 1 subs for 5 turns, Deal 95% damage (33% chance)
+Your sacrifices will all be in vain.
+15870 Damage - Delay active skills by 2 turns, Deal 100% damage (33% chance)
+Be careful how you speak.
+14283 Damage - Spawn random 8 Jammer orbs, Deal 90% damage (34% chance)
+----- HP < 50 -----
+----- Turn 1 -----
+Weaklings.
+Absorb combo <= 5 damage for 10 turns
+----- HP <= 20 -----
+I didn't mean to upset you.
+38088 Damage - Deal 240% damage (8 hits, 30% each)
+
+Shaman King Quest - Shaman Fight Tournament-Master
+
+stage 0
+
+5258 - Joco @ level 4
+I guess it's time for me to do my trick.
+Absorb combo <= 4 damage for 5 turns (Preemptive)
+----- Execute repeatedly. Turn 1-2 -----
+I am the Jaguar!
+4236 Damage - Blind all orbs on the board, Deal 100% damage (50% chance)
+SLICE
+4448 Damage - Deal 105% damage (3 hits, 35% each) (50% chance)
+----- Turn 3 -----
+C'mon
+Delay active skills by 3 turns
+----- Loop to 1 after. Turn 4 -----
+Over Soul + Ayers Rock!!!
+Do nothing + Change 4th, 5th row to Light orbs, Deal 250% damage
+
+stage 1
+
+5256 - Horohoro @ level 4
+Mososo Kruppe
+4410 Damage - Change 5th row to Water orbs, Deal 95% damage (Preemptive)
+Mososo Kruppe
+4410 Damage - Change 5th row to Water orbs, Deal 95% damage (50% chance)
+Kawkaw Puri-Wenpe
+4642 Damage - Spawn random 4 Water orbs, Deal 100% damage (50% chance)
+----- HP <= 50 -----
+----- Execute repeatedly. Turn 1 -----
+You're in my world now, + and here I'm the fittest.
+Change 1st, 3rd, 5th column to Water orbs, Deal 55% damage + Lock all Water orbs, Deal 55% damage (every 3 turns)
+----- Loop to 1 after. Turn 2-3 -----
+Mososo Kruppe
+4410 Damage - Change 5th row to Water orbs, Deal 95% damage (50% chance)
+Kawkaw Puri-Wenpe
+4642 Damage - Spawn random 4 Water orbs, Deal 100% damage (50% chance)
+----- HP < 20 -----
+----- Turn 1 -----
+This is my last offerring.
+Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs
+Neike Fuike Kiroro
+11606 Damage - Change 3rd row to Water orbs, Deal 250% damage
+
+stage 2
+
+5243 - Tao Ren @ level 4
+I will be
+4296 Damage - Bind 2 subs for 2~3 turns, Deal 90% damage (Preemptive)
+----- Turn 1 -----
+Vorpal Dance
+4296 Damage - Change 4th column to Dark orbs, Deal 90% damage
+----- HP <= 100 -----
+100 percent Integration Vorpal Dance
+4774 Damage - Delay active skills by 2 turns, Deal 100% damage
+----- HP <= 50 -----
+----- Turn 1 -----
+You will perish.
+Bind active skills for 5 turns (1 time use)
+Vorpal Dance
+4296 Damage - Change 4th column to Dark orbs, Deal 90% damage
+Super Golden Vorpal Dance
+5251 Damage - Deal 110% damage (5 hits, 22% each) (50% chance)
+100 percent Integration Vorpal Dance
+4774 Damage - Delay active skills by 2 turns, Deal 100% damage
+----- HP < 20 -----
+----- Execute repeatedly. Turn 1 -----
+Secret Super Power
+Increase damage to 150% for the next 1 turns
+----- Loop to 1 after. Turn 2 -----
+Perfect Reenactment
+of the Vorpal Dance
+8115 Damage - Deal 170% damage (10 hits, 17% each)
+
+stage 3
+
+5247 - Holy Girl Iron Maiden, Jeanne @ level 4
+Why must you continue to sin?!
+Movetime -1s for 3 turns (Preemptive)
+----- Turn 1 -----
+Over Soul Instruments of Torture:
+Interrogation Chair
+4863 Damage - Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 100% damage (1 time use)
+----- HP <= 100 -----
+Shamash make them tighter.
+4620 Damage - Bind 1 subs for 2 turns, Deal 95% damage (33% chance)
+Now beg forgiveness.
+4377 Damage - Spawn random 6 Light orbs, Deal 90% damage (33% chance)
+You must repent.
+5106 Damage - Deal 105% damage (3 hits, 35% each) (34% chance)
+----- HP < 50 -----
+----- Turn 2 -----
+I am saddened and disappointed.
+Bind awoken skills for 1 turns
+Over Soul Instruments of Torture:
+Statue of Apega
+7295 Damage - Spawn random 10 Fire orbs, Deal 150% damage
+----- HP < 20 -----
+I am saddened and disappointed.
+Bind awoken skills for 1 turns
+Over Soul Instruments of Torture:
+Guillotine
+12158 Damage - Deal 250% damage
+
+stage 4
+
+5249 - Hao @ level 4
+All right.
+Reduce damage from all sources by 50% for 5 turns (Preemptive)
+Fools. I told you to fight me all at once.
+5192 Damage - Bind 1 subs for 5 turns, Deal 95% damage (33% chance)
+Your sacrifices will all be in vain.
+5466 Damage - Delay active skills by 2 turns, Deal 100% damage (33% chance)
+Be careful how you speak.
+4919 Damage - Spawn random 8 Jammer orbs, Deal 90% damage (34% chance)
+----- HP < 50 -----
+----- Turn 1 -----
+Weaklings.
+Absorb combo <= 5 damage for 10 turns
+----- HP <= 20 -----
+I didn't mean to upset you.
+13118 Damage - Deal 240% damage (8 hits, 30% each)
+
+Shaman King Quest - Shaman Fight Tournament-Int
+
+stage 0
+
+5258 - Joco @ level 1
+Basic attacks (2)
+
+stage 1
+
+5256 - Horohoro @ level 1
+Basic attacks (2)
+
+stage 2
+
+5243 - Tao Ren @ level 1
+Basic attacks (2)
+
+stage 3
+
+5247 - Holy Girl Iron Maiden, Jeanne @ level 1
+Basic attacks (2)
+
+stage 4
+
+5249 - Hao @ level 1
+Basic attacks (2)
+

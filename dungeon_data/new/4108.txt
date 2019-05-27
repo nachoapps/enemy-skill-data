@@ -1,0 +1,597 @@
+Scheherazade Descended! - Quiet Night Storyteller-Annihilation
+
+stage 0
+
+1836 - Medjedra @ level 10
+Medjetic Eye
+Lock all Poison, Mortal Poison orbs (Preemptive)
+Medjetic Eye
+Bind awoken skills for 2 turns (Preemptive)
+----- Execute repeatedly. Turn 1 -----
+Medje Kick
+23670 Damage - Lock 1 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 100% damage (every 2 turns)
+----- Loop to 1 after. Turn 2 -----
+Medje Tackle
+18936 Damage - Delay active skills by 1 turns, Deal 80% damage
+----- HP < 50 -----
+----- Turn 1 -----
+Medjellusion
+Leader changes to random sub for 3 turns
+----- HP < 15 -----
+----- Turn 2 -----
+Maga Maga
+Bind active skills for 5 turns
+Medje The End
+56808 Damage - Deal 240% damage (3 hits, 80% each)
+
+2335 - Thunder Armor Dragon, Albireo @ level 30
+Paralyze Breath
+13203 Damage - Bind own leader for 2 turns, Deal 60% damage (Preemptive)
+Peaky Lightning
+26406 Damage - Lock all Light orbs, Deal 120% damage (40% chance)
+Gold Pulse
+22005 Damage - Spawn random 5 Light orbs, Deal 100% damage (40% chance)
+Thunder Poison
+17604 Damage - Change Light to Poison, Deal 80% damage (20% chance)
+----- HP < 80 -----
+----- Turn 1 -----
+Absorption
+Delay active skills by 1 turns (1 time use)
+----- HP < 10 -----
+Limit Burst
+220055 Damage - Deal 1000% damage (2 hits, 500% each)
+----- When 1 enemy remains -----
+Follow Repair
+Enemy ally recover 45% hp
+
+stage 1
+
+101465 - Alt. Awoken Thoth @ level 12
+Ability
+Survive attacks with 1 HP when HP > 80%
+Creation of the Hieroglyphs
+Delay active skills by 5 turns (Preemptive)
+----- Execute repeatedly. Turn 1 -----
+Protector of the Night
+25816 Damage - Change Random to Jammer, Deal 50% damage
+----- Turn 2 -----
+Leaf of the Ished Tree
+25816 Damage - Change Random 4 to Poison, Deal 50% damage
+----- Loop to 1 after. Turn 3 -----
+Time Mastery
+25816 Damage - Bind 1 subs for 4 turns, Deal 50% damage
+----- HP < 20 -----
+Creation's Judgement
+103264 Damage - Deal 200% damage (4 hits, 50% each)
+
+stage 2
+
+2670 - Jade Jewel Princess, Cameo @ level 10
+Shell Shield
+Reduce damage from all sources by 75% for 6 turns (Preemptive)
+----- Turn 1 -----
+Metal Tackle
+29520 Damage - Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 100% damage
+----- Turn 2 -----
+Lava Breeze
+Increase damage to 250% for the next 3 turns
+----- Turn 3-5 -----
+Intaglio Punch
+29520 Damage - Deal 100% damage
+----- Turn 6 -----
+Acrylic Absorption + Stoneware
+Absorb combo <= 7 damage for 99 turns + Increase damage to 150% for the next 99 turns
+----- HP <= 100 -----
+Metal Tackle
+29520 Damage - Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 100% damage (50% chance)
+Intaglio Punch
+29520 Damage - Deal 100% damage (50% chance)
+
+stage 3
+
+1000 - Abyssal Hell Deity Jackal, Anubis @ level 10
+Dark Wolf Trial
+Absorb combo <= 7 damage for 10 turns (Preemptive)
+----- When HP is full -----
+Death Curse
+9585 Damage - Change all orbs to Poison, Deal 25% damage
+----- When HP is not full -----
+Path to the Underworld
+38340 Damage - Spawn random 2 Heal, Jammer, Mortal Poison orbs, Deal 100% damage
+----- HP < 50 -----
+----- Turn 1 -----
+Dark Wolf Howl
+Increase damage to 1000% for the next 999 turns (1 time use)
+
+stage 4
+
+995 - Blazing Deity Falcon, Horus @ level 10
+Ability
+Survive attacks with 1 HP when HP > 50%
+Dhu Yahtariq Jadar + Sama' Shams Sakhr + Zalaam Dakhil Sataa Dhu
+Voids status ailments for 999 turns + Rcv 50% for 4 turns + Blind random 25 orbs for 4 turns, Deal 150% damage (Preemptive)
+----- When player has any buff -----
+Kl Yufqid Falash
+36080 Damage - Voids player buff effects, Deal 110% damage
+----- HP <= 100 -----
+Kalb Aintahaz Zufur
+Player -99% HP (50% chance) (every 2 turns)
+Zil Yudi' Shams
+32800 Damage - Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 100% damage (50% chance)
+Mukathaf Zufur Hajma
+34440 Damage - Deal 105% damage (3 hits, 35% each) (50% chance)
+----- HP < 50 -----
+----- Turn 1 -----
+Zalaam Dakhil Sataa Dhu
+49200 Damage - Blind random 25 orbs for 4 turns, Deal 150% damage
+----- HP < 10 -----
+Ramad Taghyir Shaeila
+98400 Damage - Change all orbs to Fire, Jammer, Deal 300% damage
+----- Enemy is defeated -----
+----- Turn 1 -----
+Sata Shola Ganaf + Mukathaf Zufur Hajma
+Absorb combo <= 7 damage for 99 turns + Deal 105% damage (3 hits, 35% each)
+
+stage 5
+
+5173 - Quiet Night Storyteller, Scheherazade @ level 10
+Ability
+Survive attacks with 1 HP when HP > 90%
+Will you listen to me? + This is my spun story + That I mysteriously invite you to
+Voids status ailments for 999 turns + Void damage >= 60000000 for 999 turns + Specific orbs change every 1.0s for 99 turns (Preemptive)
+----- Turn 1 -----
+The beginning is one thought + So old, everyone has forgotten
+2x2 cloud appear for 3 turns at random location + Movetime -3s for 3 turns, Deal 100% damage
+----- Turn 2 -----
+From many seas swirling together + The world was born
+Locked random skyfall +50% for 5 turns + Deal 120% damage (3 hits, 40% each)
+----- Turn 3 -----
+The strongest of us remaining for aeons + Pushed down into hell
+Bind 4 random subs for 5 turns + Delay active skills by 4~6 turns, Deal 110% damage
+----- Turn 4 -----
+Inside a complex cage + Truth hidden behind a colorful lie
+Absorb Light, Dark damage for 3 turns + Specific orbs change every 1.0s for 1 turns, Deal 60% damage
+----- Turn 5 -----
+Then, we became people... + As if it were from the beginning
+Increase damage to 150% for the next 3 turns + Bind active skills for 5 turns, Deal 100% damage
+----- Turn 6 -----
+Time flows again... + And I could dream
+Reduce damage from all sources by 50% for 5 turns + Change Random to Jammer, Deal 100% damage
+----- Turn 7 -----
+Outside this wide cage I grasped thoughts + And pursued a visible truth
+Absorb combo <= 6 damage for 5 turns + Change own attribute to random one of Fire, Water, Wood, Light, Dark, Deal 100% damage
+----- Turn 8 -----
+Much knowledge clouds the eyes + You can't escape the invisible chains
+Poison skyfall +15% for 5 turns + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 120% damage
+----- Turn 9 -----
+Would you want to hear it again?
+Seal 1st, 5th row for 1 turns (1 time use)
+----- Turn 10 -----
+The beginning is one thought + So old, everyone has forgotten
+2x2 cloud appear for 3 turns at random location + Movetime -3s for 3 turns, Deal 100% damage
+----- Turn 11 -----
+From many seas swirling together + The world was born
+Locked random skyfall +50% for 5 turns + Deal 120% damage (3 hits, 40% each)
+----- Turn 12 -----
+The strongest of us remaining for aeons + Pushed down into hell
+Bind 4 random subs for 5 turns + Delay active skills by 4~6 turns, Deal 110% damage
+----- Turn 13 -----
+Inside a complex cage + Truth hidden behind a colorful lie
+Absorb Light, Dark damage for 3 turns + Specific orbs change every 1.0s for 1 turns, Deal 60% damage
+----- Turn 14 -----
+Then, we became people... + As if it were from the beginning
+Increase damage to 150% for the next 3 turns + Bind active skills for 5 turns, Deal 100% damage
+----- Turn 15 -----
+Time flows again... + And I could dream
+Reduce damage from all sources by 50% for 5 turns + Change Random to Jammer, Deal 100% damage
+----- Turn 16 -----
+Outside this wide cage I grasped thoughts + And pursued a visible truth
+Absorb combo <= 6 damage for 5 turns + Change own attribute to random one of Fire, Water, Wood, Light, Dark, Deal 100% damage
+----- Turn 17 -----
+Much knowledge clouds the eyes + You can't escape the invisible chains
+Poison skyfall +15% for 5 turns + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 120% damage
+----- HP <= 100 -----
+The night is over so that's all for now. + Let's continue tomorrow
+Bind awoken skills for 1 turns + Deal 1500% damage (5 hits, 300% each)
+----- Enemy is defeated -----
+One Thousand and One Nights
+Enemy recover 100% hp
+
+Scheherazade Descended! - Quiet Night Storyteller-Mythical Plus
+
+stage 0
+
+1836 - Medjedra @ level 8
+Medjetic Eye
+Lock all Poison, Mortal Poison orbs (Preemptive)
+Medjetic Eye
+Bind awoken skills for 2 turns (Preemptive)
+----- Execute repeatedly. Turn 1 -----
+Medje Kick
+18585 Damage - Lock 1 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 100% damage (every 2 turns)
+----- Loop to 1 after. Turn 2 -----
+Medje Tackle
+14868 Damage - Delay active skills by 1 turns, Deal 80% damage
+----- HP < 50 -----
+----- Turn 1 -----
+Medjellusion
+Leader changes to random sub for 3 turns
+----- HP < 15 -----
+----- Turn 2 -----
+Maga Maga
+Bind active skills for 5 turns
+Medje The End
+44604 Damage - Deal 240% damage (3 hits, 80% each)
+
+2335 - Thunder Armor Dragon, Albireo @ level 20
+Paralyze Breath
+8698 Damage - Bind own leader for 2 turns, Deal 60% damage (Preemptive)
+Peaky Lightning
+17397 Damage - Lock all Light orbs, Deal 120% damage (40% chance)
+Gold Pulse
+14497 Damage - Spawn random 5 Light orbs, Deal 100% damage (40% chance)
+Thunder Poison
+11598 Damage - Change Light to Poison, Deal 80% damage (20% chance)
+----- HP < 80 -----
+----- Turn 1 -----
+Absorption
+Delay active skills by 1 turns (1 time use)
+----- HP < 10 -----
+Limit Burst
+144977 Damage - Deal 1000% damage (2 hits, 500% each)
+----- When 1 enemy remains -----
+Follow Repair
+Enemy ally recover 45% hp
+
+stage 1
+
+101465 - Alt. Awoken Thoth @ level 10
+Ability
+Survive attacks with 1 HP when HP > 80%
+Creation of the Hieroglyphs
+Delay active skills by 5 turns (Preemptive)
+----- Execute repeatedly. Turn 1 -----
+Protector of the Night
+21190 Damage - Change Random to Jammer, Deal 50% damage
+----- Turn 2 -----
+Leaf of the Ished Tree
+21190 Damage - Change Random 4 to Poison, Deal 50% damage
+----- Loop to 1 after. Turn 3 -----
+Time Mastery
+21190 Damage - Bind 1 subs for 4 turns, Deal 50% damage
+----- HP < 20 -----
+Creation's Judgement
+84760 Damage - Deal 200% damage (4 hits, 50% each)
+
+stage 2
+
+2670 - Jade Jewel Princess, Cameo @ level 8
+Shell Shield
+Reduce damage from all sources by 75% for 6 turns (Preemptive)
+----- Turn 1 -----
+Metal Tackle
+23178 Damage - Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 100% damage
+----- Turn 2 -----
+Lava Breeze
+Increase damage to 250% for the next 3 turns
+----- Turn 3-5 -----
+Intaglio Punch
+23178 Damage - Deal 100% damage
+----- Turn 6 -----
+Acrylic Absorption + Stoneware
+Absorb combo <= 7 damage for 99 turns + Increase damage to 150% for the next 99 turns
+----- HP <= 100 -----
+Metal Tackle
+23178 Damage - Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 100% damage (50% chance)
+Intaglio Punch
+23178 Damage - Deal 100% damage (50% chance)
+
+stage 3
+
+1000 - Abyssal Hell Deity Jackal, Anubis @ level 8
+Dark Wolf Trial
+Absorb combo <= 7 damage for 10 turns (Preemptive)
+----- When HP is full -----
+Death Curse
+7526 Damage - Change all orbs to Poison, Deal 25% damage
+----- When HP is not full -----
+Path to the Underworld
+30104 Damage - Spawn random 2 Heal, Jammer, Mortal Poison orbs, Deal 100% damage
+----- HP < 50 -----
+----- Turn 1 -----
+Dark Wolf Howl
+Increase damage to 1000% for the next 999 turns (1 time use)
+
+stage 4
+
+995 - Blazing Deity Falcon, Horus @ level 8
+Ability
+Survive attacks with 1 HP when HP > 50%
+Dhu Yahtariq Jadar + Sama' Shams Sakhr + Zalaam Dakhil Sataa Dhu
+Voids status ailments for 999 turns + Rcv 50% for 4 turns + Blind random 25 orbs for 4 turns, Deal 150% damage (Preemptive)
+----- When player has any buff -----
+Kl Yufqid Falash
+28328 Damage - Voids player buff effects, Deal 110% damage
+----- HP <= 100 -----
+Kalb Aintahaz Zufur
+Player -99% HP (50% chance) (every 2 turns)
+Zil Yudi' Shams
+25753 Damage - Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 100% damage (50% chance)
+Mukathaf Zufur Hajma
+27041 Damage - Deal 105% damage (3 hits, 35% each) (50% chance)
+----- HP < 50 -----
+----- Turn 1 -----
+Zalaam Dakhil Sataa Dhu
+38630 Damage - Blind random 25 orbs for 4 turns, Deal 150% damage
+----- HP < 10 -----
+Ramad Taghyir Shaeila
+77260 Damage - Change all orbs to Fire, Jammer, Deal 300% damage
+----- Enemy is defeated -----
+----- Turn 1 -----
+Sata Shola Ganaf + Mukathaf Zufur Hajma
+Absorb combo <= 7 damage for 99 turns + Deal 105% damage (3 hits, 35% each)
+
+stage 5
+
+5173 - Quiet Night Storyteller, Scheherazade @ level 8
+Ability
+Survive attacks with 1 HP when HP > 90%
+Will you listen to me? + This is my spun story + That I mysteriously invite you to
+Voids status ailments for 999 turns + Void damage >= 60000000 for 999 turns + Specific orbs change every 1.0s for 99 turns (Preemptive)
+----- Turn 1 -----
+The beginning is one thought + So old, everyone has forgotten
+2x2 cloud appear for 3 turns at random location + Movetime -3s for 3 turns, Deal 100% damage
+----- Turn 2 -----
+From many seas swirling together + The world was born
+Locked random skyfall +50% for 5 turns + Deal 120% damage (3 hits, 40% each)
+----- Turn 3 -----
+The strongest of us remaining for aeons + Pushed down into hell
+Bind 4 random subs for 5 turns + Delay active skills by 4~6 turns, Deal 110% damage
+----- Turn 4 -----
+Inside a complex cage + Truth hidden behind a colorful lie
+Absorb Light, Dark damage for 3 turns + Specific orbs change every 1.0s for 1 turns, Deal 60% damage
+----- Turn 5 -----
+Then, we became people... + As if it were from the beginning
+Increase damage to 150% for the next 3 turns + Bind active skills for 5 turns, Deal 100% damage
+----- Turn 6 -----
+Time flows again... + And I could dream
+Reduce damage from all sources by 50% for 5 turns + Change Random to Jammer, Deal 100% damage
+----- Turn 7 -----
+Outside this wide cage I grasped thoughts + And pursued a visible truth
+Absorb combo <= 6 damage for 5 turns + Change own attribute to random one of Fire, Water, Wood, Light, Dark, Deal 100% damage
+----- Turn 8 -----
+Much knowledge clouds the eyes + You can't escape the invisible chains
+Poison skyfall +15% for 5 turns + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 120% damage
+----- Turn 9 -----
+Would you want to hear it again?
+Seal 1st, 5th row for 1 turns (1 time use)
+----- Turn 10 -----
+The beginning is one thought + So old, everyone has forgotten
+2x2 cloud appear for 3 turns at random location + Movetime -3s for 3 turns, Deal 100% damage
+----- Turn 11 -----
+From many seas swirling together + The world was born
+Locked random skyfall +50% for 5 turns + Deal 120% damage (3 hits, 40% each)
+----- Turn 12 -----
+The strongest of us remaining for aeons + Pushed down into hell
+Bind 4 random subs for 5 turns + Delay active skills by 4~6 turns, Deal 110% damage
+----- Turn 13 -----
+Inside a complex cage + Truth hidden behind a colorful lie
+Absorb Light, Dark damage for 3 turns + Specific orbs change every 1.0s for 1 turns, Deal 60% damage
+----- Turn 14 -----
+Then, we became people... + As if it were from the beginning
+Increase damage to 150% for the next 3 turns + Bind active skills for 5 turns, Deal 100% damage
+----- Turn 15 -----
+Time flows again... + And I could dream
+Reduce damage from all sources by 50% for 5 turns + Change Random to Jammer, Deal 100% damage
+----- Turn 16 -----
+Outside this wide cage I grasped thoughts + And pursued a visible truth
+Absorb combo <= 6 damage for 5 turns + Change own attribute to random one of Fire, Water, Wood, Light, Dark, Deal 100% damage
+----- Turn 17 -----
+Much knowledge clouds the eyes + You can't escape the invisible chains
+Poison skyfall +15% for 5 turns + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 120% damage
+----- HP <= 100 -----
+The night is over so that's all for now. + Let's continue tomorrow
+Bind awoken skills for 1 turns + Deal 1500% damage (5 hits, 300% each)
+----- Enemy is defeated -----
+One Thousand and One Nights
+Enemy recover 100% hp
+
+Scheherazade Descended! - Quiet Night Storyteller-Mythical
+
+stage 0
+
+1836 - Medjedra @ level 5
+Medjetic Eye
+Lock all Poison, Mortal Poison orbs (Preemptive)
+Medjetic Eye
+Bind awoken skills for 2 turns (Preemptive)
+----- Execute repeatedly. Turn 1 -----
+Medje Kick
+8766 Damage - Lock 1 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 100% damage (every 2 turns)
+----- Loop to 1 after. Turn 2 -----
+Medje Tackle
+7013 Damage - Delay active skills by 1 turns, Deal 80% damage
+----- HP < 50 -----
+----- Turn 1 -----
+Medjellusion
+Leader changes to random sub for 3 turns
+----- HP < 15 -----
+----- Turn 2 -----
+Maga Maga
+Bind active skills for 5 turns
+Medje The End
+21040 Damage - Deal 240% damage (3 hits, 80% each)
+
+2335 - Thunder Armor Dragon, Albireo @ level 10
+Paralyze Breath
+3355 Damage - Bind own leader for 2 turns, Deal 60% damage (Preemptive)
+Peaky Lightning
+6710 Damage - Lock all Light orbs, Deal 120% damage (40% chance)
+Gold Pulse
+5592 Damage - Spawn random 5 Light orbs, Deal 100% damage (40% chance)
+Thunder Poison
+4473 Damage - Change Light to Poison, Deal 80% damage (20% chance)
+----- HP < 80 -----
+----- Turn 1 -----
+Absorption
+Delay active skills by 1 turns (1 time use)
+----- HP < 10 -----
+Limit Burst
+55920 Damage - Deal 1000% damage (2 hits, 500% each)
+----- When 1 enemy remains -----
+Follow Repair
+Enemy ally recover 45% hp
+
+stage 1
+
+101465 - Alt. Awoken Thoth @ level 7
+Ability
+Survive attacks with 1 HP when HP > 80%
+Creation of the Hieroglyphs
+Delay active skills by 5 turns (Preemptive)
+----- Execute repeatedly. Turn 1 -----
+Protector of the Night
+11400 Damage - Change Random to Jammer, Deal 50% damage
+----- Turn 2 -----
+Leaf of the Ished Tree
+11400 Damage - Change Random 4 to Poison, Deal 50% damage
+----- Loop to 1 after. Turn 3 -----
+Time Mastery
+11400 Damage - Bind 1 subs for 4 turns, Deal 50% damage
+----- HP < 20 -----
+Creation's Judgement
+45603 Damage - Deal 200% damage (4 hits, 50% each)
+
+stage 2
+
+2670 - Jade Jewel Princess, Cameo @ level 5
+Shell Shield
+Reduce damage from all sources by 75% for 6 turns (Preemptive)
+----- Turn 1 -----
+Metal Tackle
+10933 Damage - Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 100% damage
+----- Turn 2 -----
+Lava Breeze
+Increase damage to 250% for the next 3 turns
+----- Turn 3-5 -----
+Intaglio Punch
+10933 Damage - Deal 100% damage
+----- Turn 6 -----
+Acrylic Absorption + Stoneware
+Absorb combo <= 7 damage for 99 turns + Increase damage to 150% for the next 99 turns
+----- HP <= 100 -----
+Metal Tackle
+10933 Damage - Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 100% damage (50% chance)
+Intaglio Punch
+10933 Damage - Deal 100% damage (50% chance)
+
+stage 3
+
+1000 - Abyssal Hell Deity Jackal, Anubis @ level 5
+Dark Wolf Trial
+Absorb combo <= 7 damage for 10 turns (Preemptive)
+----- When HP is full -----
+Death Curse
+3550 Damage - Change all orbs to Poison, Deal 25% damage
+----- When HP is not full -----
+Path to the Underworld
+14200 Damage - Spawn random 2 Heal, Jammer, Mortal Poison orbs, Deal 100% damage
+----- HP < 50 -----
+----- Turn 1 -----
+Dark Wolf Howl
+Increase damage to 1000% for the next 999 turns (1 time use)
+
+stage 4
+
+995 - Blazing Deity Falcon, Horus @ level 5
+Ability
+Survive attacks with 1 HP when HP > 50%
+Dhu Yahtariq Jadar + Sama' Shams Sakhr + Zalaam Dakhil Sataa Dhu
+Voids status ailments for 999 turns + Rcv 50% for 4 turns + Blind random 25 orbs for 4 turns, Deal 150% damage (Preemptive)
+----- When player has any buff -----
+Kl Yufqid Falash
+13361 Damage - Voids player buff effects, Deal 110% damage
+----- HP <= 100 -----
+Kalb Aintahaz Zufur
+Player -99% HP (50% chance) (every 2 turns)
+Zil Yudi' Shams
+12146 Damage - Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 100% damage (50% chance)
+Mukathaf Zufur Hajma
+12754 Damage - Deal 105% damage (3 hits, 35% each) (50% chance)
+----- HP < 50 -----
+----- Turn 1 -----
+Zalaam Dakhil Sataa Dhu
+18220 Damage - Blind random 25 orbs for 4 turns, Deal 150% damage
+----- HP < 10 -----
+Ramad Taghyir Shaeila
+36440 Damage - Change all orbs to Fire, Jammer, Deal 300% damage
+----- Enemy is defeated -----
+----- Turn 1 -----
+Sata Shola Ganaf + Mukathaf Zufur Hajma
+Absorb combo <= 7 damage for 99 turns + Deal 105% damage (3 hits, 35% each)
+
+stage 5
+
+5173 - Quiet Night Storyteller, Scheherazade @ level 5
+Ability
+Survive attacks with 1 HP when HP > 90%
+Will you listen to me? + This is my spun story + That I mysteriously invite you to
+Voids status ailments for 999 turns + Void damage >= 60000000 for 999 turns + Specific orbs change every 1.0s for 99 turns (Preemptive)
+----- Turn 1 -----
+The beginning is one thought + So old, everyone has forgotten
+2x2 cloud appear for 3 turns at random location + Movetime -3s for 3 turns, Deal 100% damage
+----- Turn 2 -----
+From many seas swirling together + The world was born
+Locked random skyfall +50% for 5 turns + Deal 120% damage (3 hits, 40% each)
+----- Turn 3 -----
+The strongest of us remaining for aeons + Pushed down into hell
+Bind 4 random subs for 5 turns + Delay active skills by 4~6 turns, Deal 110% damage
+----- Turn 4 -----
+Inside a complex cage + Truth hidden behind a colorful lie
+Absorb Light, Dark damage for 3 turns + Specific orbs change every 1.0s for 1 turns, Deal 60% damage
+----- Turn 5 -----
+Then, we became people... + As if it were from the beginning
+Increase damage to 150% for the next 3 turns + Bind active skills for 5 turns, Deal 100% damage
+----- Turn 6 -----
+Time flows again... + And I could dream
+Reduce damage from all sources by 50% for 5 turns + Change Random to Jammer, Deal 100% damage
+----- Turn 7 -----
+Outside this wide cage I grasped thoughts + And pursued a visible truth
+Absorb combo <= 6 damage for 5 turns + Change own attribute to random one of Fire, Water, Wood, Light, Dark, Deal 100% damage
+----- Turn 8 -----
+Much knowledge clouds the eyes + You can't escape the invisible chains
+Poison skyfall +15% for 5 turns + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 120% damage
+----- Turn 9 -----
+Would you want to hear it again?
+Seal 1st, 5th row for 1 turns (1 time use)
+----- Turn 10 -----
+The beginning is one thought + So old, everyone has forgotten
+2x2 cloud appear for 3 turns at random location + Movetime -3s for 3 turns, Deal 100% damage
+----- Turn 11 -----
+From many seas swirling together + The world was born
+Locked random skyfall +50% for 5 turns + Deal 120% damage (3 hits, 40% each)
+----- Turn 12 -----
+The strongest of us remaining for aeons + Pushed down into hell
+Bind 4 random subs for 5 turns + Delay active skills by 4~6 turns, Deal 110% damage
+----- Turn 13 -----
+Inside a complex cage + Truth hidden behind a colorful lie
+Absorb Light, Dark damage for 3 turns + Specific orbs change every 1.0s for 1 turns, Deal 60% damage
+----- Turn 14 -----
+Then, we became people... + As if it were from the beginning
+Increase damage to 150% for the next 3 turns + Bind active skills for 5 turns, Deal 100% damage
+----- Turn 15 -----
+Time flows again... + And I could dream
+Reduce damage from all sources by 50% for 5 turns + Change Random to Jammer, Deal 100% damage
+----- Turn 16 -----
+Outside this wide cage I grasped thoughts + And pursued a visible truth
+Absorb combo <= 6 damage for 5 turns + Change own attribute to random one of Fire, Water, Wood, Light, Dark, Deal 100% damage
+----- Turn 17 -----
+Much knowledge clouds the eyes + You can't escape the invisible chains
+Poison skyfall +15% for 5 turns + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 120% damage
+----- HP <= 100 -----
+The night is over so that's all for now. + Let's continue tomorrow
+Bind awoken skills for 1 turns + Deal 1500% damage (5 hits, 300% each)
+----- Enemy is defeated -----
+One Thousand and One Nights
+Enemy recover 100% hp
+
