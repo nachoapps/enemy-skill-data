@@ -174,7 +174,7 @@ Almighty Gods' Majesty + Divine King's Imperial Lightning
 Voids player buff effects + Deal 200% damage
 ----- HP <= 6 -----
 ----- Turn 1 -----
-Almighty Gods' Fighting Spirit​
+Almighty Gods' Fighting Spirit
 Increase damage to 500% for the next 99 turns
 Divine King's Wave + Divine King's Imperial Lightning
 Bind awoken skills for 1 turns + Deal 200% damage
@@ -839,7 +839,7 @@ stage 6
 515 - Princess Valkyrie @ level 9
 Ability
 Survive attacks with 1 HP when HP > 50%
-White Valkyrie Shield + Fylgja Fur + Discerning Lifechains 
+White Valkyrie Shield + Fylgja Fur + Discerning Lifechains
 Voids status ailments for 999 turns + Void damage >= 10000000 for 999 turns + Rcv 50% for 20 turns (Preemptive)
 Sweeping Spirit Garments + Saintly Valkyrie Blade
 Change own attribute to random one of Fire, Water, Wood, Light, Dark + Deal 4000%~5000% damage (4~5 hits, 1000% each)

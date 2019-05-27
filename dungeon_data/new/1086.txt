@@ -39,7 +39,7 @@ Delay active skills by 2 turns (Preemptive)
 TAMA!
 10370 Damage - Deal 1000% damage
 
-2210 - Latent TAMADRA (Auto-Heal) @ level 7
+2210 - Latent TAMADRA (Auto-RCV) @ level 7
 Pleased to meet you-TAMA!
 Delay active skills by 2 turns (Preemptive)
 TAMA!
@@ -130,7 +130,7 @@ Delay active skills by 2 turns (Preemptive)
 TAMA!
 10370 Damage - Deal 1000% damage
 
-2210 - Latent TAMADRA (Auto-Heal) @ level 7
+2210 - Latent TAMADRA (Auto-RCV) @ level 7
 Pleased to meet you-TAMA!
 Delay active skills by 2 turns (Preemptive)
 TAMA!
@@ -224,7 +224,7 @@ Delay active skills by 2 turns (Preemptive)
 TAMA!
 7083 Damage - Deal 1000% damage
 
-2210 - Latent TAMADRA (Auto-Heal) @ level 5
+2210 - Latent TAMADRA (Auto-RCV) @ level 5
 Pleased to meet you-TAMA!
 Delay active skills by 2 turns (Preemptive)
 TAMA!

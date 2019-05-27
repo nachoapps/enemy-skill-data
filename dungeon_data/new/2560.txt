@@ -368,84 +368,7 @@ Meteorite
 stage 6
 
 3725 - Dark Orb Dragon, Eyro @ level 12
-Black Smokescreen + Timed Explosion
-Blind orbs in specific positions for 1 turns + Spawn random 6 locked Bomb orbs (Preemptive)
------ Turn 1 -----
-Darkened Scale Armor + Usurper's Divine Protection
-Reduce damage from all sources by 75% for 4 turns + Locked random skyfall +25% for 7 turns (every 4 turns)
------ Turn 2 -----
-Anarchy
-18603 Damage - Change Jammer to Poison, Deal 150% damage
-Anarchy
-13642 Damage - Change Random 4 to Poison, Deal 110% damage
------ Turn 3 -----
-Gnawing Fangs
-16122 Damage - Change Poison to Jammer, Deal 130% damage
-Gnawing Fangs
-16122 Damage - Change Heal to Jammer, Deal 130% damage
-Black Tempered Bow
-12402 Damage - Lock all Jammer orbs, Deal 100% damage
-Black Tempered Bow
-Player -90% HP
------ Turn 4 -----
-Anarchy
-18603 Damage - Change Jammer to Poison, Deal 150% damage
-Anarchy
-13642 Damage - Change Random 4 to Poison, Deal 110% damage
------ Turn 5 -----
-Resentful Stare
-Increase damage to 150% for the next 999 turns (every 4 turns)
------ Turn 6 -----
-Gnawing Fangs
-16122 Damage - Change Poison to Jammer, Deal 130% damage
-Gnawing Fangs
-16122 Damage - Change Heal to Jammer, Deal 130% damage
-Black Tempered Bow
-12402 Damage - Lock all Jammer orbs, Deal 100% damage
-Black Tempered Bow
-Player -90% HP
------ Turn 7 -----
-Anarchy
-18603 Damage - Change Jammer to Poison, Deal 150% damage
-Anarchy
-13642 Damage - Change Random 4 to Poison, Deal 110% damage
------ Turn 8 -----
-Gnawing Fangs
-16122 Damage - Change Poison to Jammer, Deal 130% damage
-Gnawing Fangs
-16122 Damage - Change Heal to Jammer, Deal 130% damage
-Black Tempered Bow
-12402 Damage - Lock all Jammer orbs, Deal 100% damage
-Black Tempered Bow
-Player -90% HP
------ Turn 9 -----
-Darkened Scale Armor
-Reduce damage from all sources by 75% for 4 turns (every 4 turns)
------ HP <= 100 -----
------ Execute repeatedly. Turn 1 -----
-Anarchy
-18603 Damage - Change Jammer to Poison, Deal 150% damage
-Anarchy
-13642 Damage - Change Random 4 to Poison, Deal 110% damage
------ Loop to 1 after. Turn 2 -----
-Gnawing Fangs
-16122 Damage - Change Poison to Jammer, Deal 130% damage
-Gnawing Fangs
-16122 Damage - Change Heal to Jammer, Deal 130% damage
-Black Tempered Bow
-12402 Damage - Lock all Jammer orbs, Deal 100% damage
-Black Tempered Bow
-Player -90% HP
------ HP < 70 -----
------ Turn 1 -----
-Darkened Scale Armor + Fortuitous Yin and Yang
-Reduce damage from all sources by 75% for 4 turns + Heal, Jammer skyfall +20% for 7 turns (every 4 turns)
------ HP < 20 -----
------ Turn 1 -----
-Extreme Dragon Eyes
-Change all orbs to Jammer
-Darklight Calamity
-372066 Damage - Change all orbs to Dark, Jammer, Deal 3000% damage
+Basic attacks (1)
 
 Dark Orb Dragon - Dark Orb Dragon-Mythical
 
@@ -817,84 +740,7 @@ Meteorite
 stage 6
 
 3725 - Dark Orb Dragon, Eyro @ level 10
-Black Smokescreen + Timed Explosion
-Blind orbs in specific positions for 1 turns + Spawn random 6 locked Bomb orbs (Preemptive)
------ Turn 1 -----
-Darkened Scale Armor + Usurper's Divine Protection
-Reduce damage from all sources by 75% for 4 turns + Locked random skyfall +25% for 7 turns (every 4 turns)
------ Turn 2 -----
-Anarchy
-15300 Damage - Change Jammer to Poison, Deal 150% damage
-Anarchy
-11220 Damage - Change Random 4 to Poison, Deal 110% damage
------ Turn 3 -----
-Gnawing Fangs
-13260 Damage - Change Poison to Jammer, Deal 130% damage
-Gnawing Fangs
-13260 Damage - Change Heal to Jammer, Deal 130% damage
-Black Tempered Bow
-10200 Damage - Lock all Jammer orbs, Deal 100% damage
-Black Tempered Bow
-Player -90% HP
------ Turn 4 -----
-Anarchy
-15300 Damage - Change Jammer to Poison, Deal 150% damage
-Anarchy
-11220 Damage - Change Random 4 to Poison, Deal 110% damage
------ Turn 5 -----
-Resentful Stare
-Increase damage to 150% for the next 999 turns (every 4 turns)
------ Turn 6 -----
-Gnawing Fangs
-13260 Damage - Change Poison to Jammer, Deal 130% damage
-Gnawing Fangs
-13260 Damage - Change Heal to Jammer, Deal 130% damage
-Black Tempered Bow
-10200 Damage - Lock all Jammer orbs, Deal 100% damage
-Black Tempered Bow
-Player -90% HP
------ Turn 7 -----
-Anarchy
-15300 Damage - Change Jammer to Poison, Deal 150% damage
-Anarchy
-11220 Damage - Change Random 4 to Poison, Deal 110% damage
------ Turn 8 -----
-Gnawing Fangs
-13260 Damage - Change Poison to Jammer, Deal 130% damage
-Gnawing Fangs
-13260 Damage - Change Heal to Jammer, Deal 130% damage
-Black Tempered Bow
-10200 Damage - Lock all Jammer orbs, Deal 100% damage
-Black Tempered Bow
-Player -90% HP
------ Turn 9 -----
-Darkened Scale Armor
-Reduce damage from all sources by 75% for 4 turns (every 4 turns)
------ HP <= 100 -----
------ Execute repeatedly. Turn 1 -----
-Anarchy
-15300 Damage - Change Jammer to Poison, Deal 150% damage
-Anarchy
-11220 Damage - Change Random 4 to Poison, Deal 110% damage
------ Loop to 1 after. Turn 2 -----
-Gnawing Fangs
-13260 Damage - Change Poison to Jammer, Deal 130% damage
-Gnawing Fangs
-13260 Damage - Change Heal to Jammer, Deal 130% damage
-Black Tempered Bow
-10200 Damage - Lock all Jammer orbs, Deal 100% damage
-Black Tempered Bow
-Player -90% HP
------ HP < 70 -----
------ Turn 1 -----
-Darkened Scale Armor + Fortuitous Yin and Yang
-Reduce damage from all sources by 75% for 4 turns + Heal, Jammer skyfall +20% for 7 turns (every 4 turns)
------ HP < 20 -----
------ Turn 1 -----
-Extreme Dragon Eyes
-Change all orbs to Jammer
-Darklight Calamity
-306000 Damage - Change all orbs to Dark, Jammer, Deal 3000% damage
+Basic attacks (1)
 
 Dark Orb Dragon - Dark Orb Dragon-Legend
 
@@ -1230,84 +1076,7 @@ Meteorite
 stage 6
 
 3725 - Dark Orb Dragon, Eyro @ level 7
-Black Smokescreen + Timed Explosion
-Blind orbs in specific positions for 1 turns + Spawn random 6 locked Bomb orbs (Preemptive)
------ Turn 1 -----
-Darkened Scale Armor + Usurper's Divine Protection
-Reduce damage from all sources by 75% for 4 turns + Locked random skyfall +25% for 7 turns (every 4 turns)
------ Turn 2 -----
-Anarchy
-10344 Damage - Change Jammer to Poison, Deal 150% damage
-Anarchy
-7586 Damage - Change Random 4 to Poison, Deal 110% damage
------ Turn 3 -----
-Gnawing Fangs
-8965 Damage - Change Poison to Jammer, Deal 130% damage
-Gnawing Fangs
-8965 Damage - Change Heal to Jammer, Deal 130% damage
-Black Tempered Bow
-6896 Damage - Lock all Jammer orbs, Deal 100% damage
-Black Tempered Bow
-Player -90% HP
------ Turn 4 -----
-Anarchy
-10344 Damage - Change Jammer to Poison, Deal 150% damage
-Anarchy
-7586 Damage - Change Random 4 to Poison, Deal 110% damage
------ Turn 5 -----
-Resentful Stare
-Increase damage to 150% for the next 999 turns (every 4 turns)
------ Turn 6 -----
-Gnawing Fangs
-8965 Damage - Change Poison to Jammer, Deal 130% damage
-Gnawing Fangs
-8965 Damage - Change Heal to Jammer, Deal 130% damage
-Black Tempered Bow
-6896 Damage - Lock all Jammer orbs, Deal 100% damage
-Black Tempered Bow
-Player -90% HP
------ Turn 7 -----
-Anarchy
-10344 Damage - Change Jammer to Poison, Deal 150% damage
-Anarchy
-7586 Damage - Change Random 4 to Poison, Deal 110% damage
------ Turn 8 -----
-Gnawing Fangs
-8965 Damage - Change Poison to Jammer, Deal 130% damage
-Gnawing Fangs
-8965 Damage - Change Heal to Jammer, Deal 130% damage
-Black Tempered Bow
-6896 Damage - Lock all Jammer orbs, Deal 100% damage
-Black Tempered Bow
-Player -90% HP
------ Turn 9 -----
-Darkened Scale Armor
-Reduce damage from all sources by 75% for 4 turns (every 4 turns)
------ HP <= 100 -----
------ Execute repeatedly. Turn 1 -----
-Anarchy
-10344 Damage - Change Jammer to Poison, Deal 150% damage
-Anarchy
-7586 Damage - Change Random 4 to Poison, Deal 110% damage
------ Loop to 1 after. Turn 2 -----
-Gnawing Fangs
-8965 Damage - Change Poison to Jammer, Deal 130% damage
-Gnawing Fangs
-8965 Damage - Change Heal to Jammer, Deal 130% damage
-Black Tempered Bow
-6896 Damage - Lock all Jammer orbs, Deal 100% damage
-Black Tempered Bow
-Player -90% HP
------ HP < 70 -----
------ Turn 1 -----
-Darkened Scale Armor + Fortuitous Yin and Yang
-Reduce damage from all sources by 75% for 4 turns + Heal, Jammer skyfall +20% for 7 turns (every 4 turns)
------ HP < 20 -----
------ Turn 1 -----
-Extreme Dragon Eyes
-Change all orbs to Jammer
-Darklight Calamity
-206900 Damage - Change all orbs to Dark, Jammer, Deal 3000% damage
+Basic attacks (1)
 
 Dark Orb Dragon - Dark Orb Dragon-Master
 
@@ -1610,84 +1379,7 @@ Meteorite
 stage 6
 
 3725 - Dark Orb Dragon, Eyro @ level 4
-Black Smokescreen + Timed Explosion
-Blind orbs in specific positions for 1 turns + Spawn random 6 locked Bomb orbs (Preemptive)
------ Turn 1 -----
-Darkened Scale Armor + Usurper's Divine Protection
-Reduce damage from all sources by 75% for 4 turns + Locked random skyfall +25% for 7 turns (every 4 turns)
------ Turn 2 -----
-Anarchy
-5390 Damage - Change Jammer to Poison, Deal 150% damage
-Anarchy
-3952 Damage - Change Random 4 to Poison, Deal 110% damage
------ Turn 3 -----
-Gnawing Fangs
-4671 Damage - Change Poison to Jammer, Deal 130% damage
-Gnawing Fangs
-4671 Damage - Change Heal to Jammer, Deal 130% damage
-Black Tempered Bow
-3593 Damage - Lock all Jammer orbs, Deal 100% damage
-Black Tempered Bow
-Player -90% HP
------ Turn 4 -----
-Anarchy
-5390 Damage - Change Jammer to Poison, Deal 150% damage
-Anarchy
-3952 Damage - Change Random 4 to Poison, Deal 110% damage
------ Turn 5 -----
-Resentful Stare
-Increase damage to 150% for the next 999 turns (every 4 turns)
------ Turn 6 -----
-Gnawing Fangs
-4671 Damage - Change Poison to Jammer, Deal 130% damage
-Gnawing Fangs
-4671 Damage - Change Heal to Jammer, Deal 130% damage
-Black Tempered Bow
-3593 Damage - Lock all Jammer orbs, Deal 100% damage
-Black Tempered Bow
-Player -90% HP
------ Turn 7 -----
-Anarchy
-5390 Damage - Change Jammer to Poison, Deal 150% damage
-Anarchy
-3952 Damage - Change Random 4 to Poison, Deal 110% damage
------ Turn 8 -----
-Gnawing Fangs
-4671 Damage - Change Poison to Jammer, Deal 130% damage
-Gnawing Fangs
-4671 Damage - Change Heal to Jammer, Deal 130% damage
-Black Tempered Bow
-3593 Damage - Lock all Jammer orbs, Deal 100% damage
-Black Tempered Bow
-Player -90% HP
------ Turn 9 -----
-Darkened Scale Armor
-Reduce damage from all sources by 75% for 4 turns (every 4 turns)
------ HP <= 100 -----
------ Execute repeatedly. Turn 1 -----
-Anarchy
-5390 Damage - Change Jammer to Poison, Deal 150% damage
-Anarchy
-3952 Damage - Change Random 4 to Poison, Deal 110% damage
------ Loop to 1 after. Turn 2 -----
-Gnawing Fangs
-4671 Damage - Change Poison to Jammer, Deal 130% damage
-Gnawing Fangs
-4671 Damage - Change Heal to Jammer, Deal 130% damage
-Black Tempered Bow
-3593 Damage - Lock all Jammer orbs, Deal 100% damage
-Black Tempered Bow
-Player -90% HP
------ HP < 70 -----
------ Turn 1 -----
-Darkened Scale Armor + Fortuitous Yin and Yang
-Reduce damage from all sources by 75% for 4 turns + Heal, Jammer skyfall +20% for 7 turns (every 4 turns)
------ HP < 20 -----
------ Turn 1 -----
-Extreme Dragon Eyes
-Change all orbs to Jammer
-Darklight Calamity
-107800 Damage - Change all orbs to Dark, Jammer, Deal 3000% damage
+Basic attacks (1)
 
 Dark Orb Dragon - Dark Orb Dragon-Expert
 
@@ -1779,7 +1471,7 @@ Basic attacks (2)
 stage 5
 
 3725 - Dark Orb Dragon, Eyro @ level 2
-Basic attacks (2)
+Basic attacks (1)
 
 Dark Orb Dragon - Dark Orb Dragon-Int
 
@@ -1856,5 +1548,5 @@ Do nothing (20% chance)
 stage 5
 
 3725 - Dark Orb Dragon, Eyro @ level 1
-Basic attacks (2)
+Basic attacks (1)
 

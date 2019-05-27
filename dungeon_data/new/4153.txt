@@ -1,4 +1,4 @@
-Fresh Start Support Quest - Lv10
+GungHo Festival Quest - Lv10
 
 stage 0
 
@@ -84,7 +84,7 @@ Last Song
 I'll get serious from now!
 Enemy recover 19% hp
 
-Fresh Start Support Quest - Lv9-7x6 Board/No RCV
+GungHo Festival Quest - Lv9-7x6 Board/No RCV
 
 stage 0
 
@@ -121,7 +121,7 @@ Too bad, but come again
 That was a great combo!
 Reduce self HP to 0, (if >=10 combos last turn)
 
-Fresh Start Support Quest - Lv8
+GungHo Festival Quest - Lv8
 
 stage 0
 
@@ -204,7 +204,7 @@ You're a nuisance!
 Let's finish it!
 35668 Damage - Deal 700% damage (7 hits, 100% each)
 
-Fresh Start Support Quest - Lv7
+GungHo Festival Quest - Lv7
 
 stage 0
 
@@ -266,7 +266,7 @@ It's not over yet!
 Enough for today. See you tomorrow!
 8283 Damage - Deal 270% damage (3 hits, 90% each)
 
-Fresh Start Support Quest - Lv6
+GungHo Festival Quest - Lv6
 
 stage 0
 
@@ -363,7 +363,7 @@ Reduce damage from all sources by 75% for 3 turns + Increase damage to 200% for 
 Undisciplined Burst
 18540 Damage - Deal 900% damage (3 hits, 300% each)
 
-Fresh Start Support Quest - Lv5
+GungHo Festival Quest - Lv5
 
 stage 0
 
@@ -457,7 +457,7 @@ Absorb damage >= 8000000 damage for 10 turns (1 time use)
 That's all for today!
 8930 Damage - Blind orbs in specific positions for 1 turns, Deal 600% damage
 
-Fresh Start Support Quest - Lv4
+GungHo Festival Quest - Lv4
 
 stage 0
 
@@ -540,7 +540,7 @@ It's all burned...
 I'm done! + I cooked too much!
 Delay active skills by 5 turns + Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Deal 150% damage
 
-Fresh Start Support Quest - Lv3
+GungHo Festival Quest - Lv3
 
 stage 0
 
@@ -598,7 +598,7 @@ Concentrate!
 Pick up everything!
 946 Damage - Deal 150% damage (5 hits, 30% each)
 
-Fresh Start Support Quest - Lv2
+GungHo Festival Quest - Lv2
 
 stage 0
 
@@ -659,7 +659,7 @@ Light skyfall +25% for 5 turns (Preemptive)
 I'll be late!
 2719 Damage - Change Random to Light, Deal 500% damage
 
-Fresh Start Support Quest - Lv1
+GungHo Festival Quest - Lv1
 
 stage 0
 

@@ -28,7 +28,16 @@ Basic attacks (1)
 stage 5
 
 5131 - Crimson Lotus Warrior, Echidna - Sara @ level 1
-Basic attacks (1)
+紅蓮の舞 + 追い打ち
+Player -50% HP + Deal 50% damage (Preemptive)
+紅蓮の舞 + 追い打ち
+Player -50% HP + Deal 50% damage
+----- HP < 50 -----
+紅蓮華の舞 + 追い打ち
+Player -75% HP + Deal 50% damage
+----- HP < 20 -----
+フレアルージュ
+188 Damage - Deal 800% damage (8 hits, 100% each)
 
 Skill Leveling Dungeon Godfest - Fire Attribute Monsters 2
 

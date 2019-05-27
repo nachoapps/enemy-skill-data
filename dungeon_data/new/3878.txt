@@ -71,7 +71,7 @@ stage 3
 1750 - Red Ring Sorceress, Theurgia @ level 7
 Ability
 Reduce damage from Light, Dark by 50%
-Solomon's Little Key
+Lesser Key of Solomon
 Voids status ailments for 999 turns (Preemptive)
 Grimoire of Flame
 8174 Damage - Change Heal to Fire, Deal 50% damage (30% chance)
@@ -221,7 +221,7 @@ stage 3
 1750 - Red Ring Sorceress, Theurgia @ level 5
 Ability
 Reduce damage from Light, Dark by 50%
-Solomon's Little Key
+Lesser Key of Solomon
 Voids status ailments for 999 turns (Preemptive)
 Grimoire of Flame
 5583 Damage - Change Heal to Fire, Deal 50% damage (30% chance)

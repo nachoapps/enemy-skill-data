@@ -40,7 +40,7 @@ stage 2
 1752 - Blue Time Sorceress, Ars Paulina @ level 6
 Ability
 Reduce damage from Light, Dark by 50%
-Solomon's Little Key
+Lesser Key of Solomon
 Voids status ailments for 999 turns (Preemptive)
 Grimoire of Water
 6878 Damage - Change Heal to Water, Deal 50% damage (30% chance)
@@ -179,7 +179,7 @@ stage 2
 1752 - Blue Time Sorceress, Ars Paulina @ level 4
 Ability
 Reduce damage from Light, Dark by 50%
-Solomon's Little Key
+Lesser Key of Solomon
 Voids status ailments for 999 turns (Preemptive)
 Grimoire of Water
 4288 Damage - Change Heal to Water, Deal 50% damage (30% chance)

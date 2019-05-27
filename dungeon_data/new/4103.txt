@@ -5,11 +5,11 @@ stage 0
 5093 - Sakura Kasugano @ level 1
 Uh-oh Pleased to meet you!
 Locked random skyfall +10% for 5 turns (Preemptive)
-Haru Kaze + Yoisho!  + Sakura Otoshi
+Haru Kaze + Yoisho! + Sakura Otoshi
 Lock 1 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs + Do nothing + Deal 105% damage (3 hits, 35% each) (33% chance)
-Haru Kaze + Yoisho!  + Oukakyaku
+Haru Kaze + Yoisho! + Oukakyaku
 Lock 1 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs + Do nothing + Change Random to Fire, Deal 100% damage (33% chance)
-Haru Kaze + Yoisho!  + Kashinfu
+Haru Kaze + Yoisho! + Kashinfu
 Lock 1 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs + Do nothing + Bind 1 subs for 1 turns, Deal 95% damage (34% chance)
 ----- HP < 50 -----
 ----- Turn 1 -----
@@ -85,7 +85,7 @@ stage 2
 
 5081 - Chun-Li @ level 1
 Want to see my Kung-Fu?
-I'll  show you.
+I'll show you.
 Absorb combo <= 5 damage for 5 turns (Preemptive)
 Rankyaku + Yosokyaku
 Deal 80% damage + Deal 105% damage (3 hits, 35% each) (33% chance)
@@ -95,7 +95,7 @@ Kikoken + Disable Skill + Spinning Bird Kick
 Change 3rd row to Water orbs, Deal 40% damage + Deal 100% damage + Change Random to Water, Deal 40% damage (34% chance)
 ----- HP < 50 -----
 ----- Turn 1 -----
-Renkiko +  I won't let up on you!
+Renkiko + I won't let up on you!
 Increase damage to 150% for the next 10 turns + Do nothing (1 time use)
 ----- HP <= 15 -----
 Hoyokusen
@@ -128,7 +128,7 @@ Shinku Hadoken
 81 Damage - Deal 350% damage
 ----- HP < 50 -----
 ----- Turn 1 -----
-Denjin Renki + Now the fight's begun! 
+Denjin Renki + Now the fight's begun!
 Increase damage to 150% for the next 10 turns + Do nothing (1 time use)
 Collarbone Breaker + Disable Skill + Ooo!
 Deal 50% damage (2 hits, 25% each) + Deal 100% damage + Change 3rd row to Light orbs, Deal 45% damage (50% chance)

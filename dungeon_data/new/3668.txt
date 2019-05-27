@@ -144,7 +144,32 @@ Skill Leveling Dungeon Gungho Collab GF - Wood Attribute Monsters
 stage 0
 
 3751 - Awoken Cronus @ level 1
-Basic attacks (1)
+乗り越えてみろ + 王の試練 + 王の勅令
+Voids status ailments for 999 turns + Absorb combo <= 6 damage for 1 turns + Movetime 25% for 1 turns (Preemptive)
+----- When HP is full -----
+----- Turn 1 -----
+その程度か？
+Bind awoken skills for 10 turns
+ジャッジメントアダマス
+23 Damage - Change 3rd row to Wood, Jammer orbs, Deal 95% damage (33% chance)
+ブレイクスワロー
+24 Damage - Delay active skills by 2 turns, Deal 100% damage (33% chance)
+キラーサイズ
+27 Damage - Deal 110% damage (2 hits, 55% each) (34% chance)
+----- When HP is not full -----
+----- Turn 1 -----
+少しはできるようだな
+Reduce damage from all sources by 75% for 10 turns
+----- HP < 50 -----
+----- Turn 2 -----
+少し物足りないな + これで楽しめそうだな
+Locked random skyfall +20% for 10 turns + Jammer skyfall +15% for 10 turns
+----- HP < 20 -----
+----- Turn 2 -----
+もう十分だ + 終わらせよう
+Bind awoken skills for 1 turns + Change player HP to 1000 for 1 turns
+バニッシュメントアダマス
+79 Damage - Deal 320% damage (4 hits, 80% each)
 
 stage 1
 
@@ -280,7 +305,7 @@ Almighty Gods' Majesty + Divine King's Imperial Lightning
 Voids player buff effects + Deal 200% damage
 ----- HP <= 6 -----
 ----- Turn 1 -----
-Almighty Gods' Fighting Spirit​
+Almighty Gods' Fighting Spirit
 Increase damage to 500% for the next 99 turns
 Divine King's Wave + Divine King's Imperial Lightning
 Bind awoken skills for 1 turns + Deal 200% damage

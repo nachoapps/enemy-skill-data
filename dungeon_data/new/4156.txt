@@ -911,7 +911,7 @@ stage 3
 1750 - Red Ring Sorceress, Theurgia @ level 7
 Ability
 Reduce damage from Light, Dark by 50%
-Solomon's Little Key
+Lesser Key of Solomon
 Voids status ailments for 999 turns (Preemptive)
 Grimoire of Flame
 8174 Damage - Change Heal to Fire, Deal 50% damage (30% chance)
@@ -1943,56 +1943,7 @@ June Quest Dungeon-Expert - Challenge Lv10-Orb move time 4 sec
 stage 0
 
 3722 - Water Orb Dragon, Senja @ level 15
-Abyssal Scales + Vehement Sea Fog + Oceanic Obstruction
-Reduce damage from all sources by 50% for 5 turns + 6x2 cloud appear for 1 turns at 3rd row, 1st column + Spawn random 11 Jammer orbs (Preemptive)
------ Turn 1 -----
-Mariner's Divine Protection + Outbreak
-Absorb combo <= 6 damage for 10 turns + Change Jammer to Poison, Deal 250% damage (every 4 turns)
------ Turn 2 -----
-Roaring Deluge
-23023 Damage - Delay active skills by 2 turns, Deal 120% damage
------ Turn 3 -----
-Bubble Bloom
-24942 Damage - Change Heal to Water, Deal 130% damage
-Depth Charge
-Player -90% HP
------ Turn 4 -----
-Roaring Deluge
-23023 Damage - Delay active skills by 2 turns, Deal 120% damage
------ Turn 5 -----
-Resentful Stare
-Increase damage to 150% for the next 999 turns (every 4 turns)
------ Turn 6 -----
-Bubble Bloom
-24942 Damage - Change Heal to Water, Deal 130% damage
-Depth Charge
-Player -90% HP
------ Turn 7 -----
-Roaring Deluge
-23023 Damage - Delay active skills by 2 turns, Deal 120% damage
------ Turn 8 -----
-Bubble Bloom
-24942 Damage - Change Heal to Water, Deal 130% damage
-Depth Charge
-Player -90% HP
------ Turn 9 -----
-Abyssal Scales
-Reduce damage from all sources by 75% for 4 turns (every 4 turns)
------ HP <= 100 -----
------ Execute repeatedly. Turn 1 -----
-Roaring Deluge
-23023 Damage - Delay active skills by 2 turns, Deal 120% damage
------ Loop to 1 after. Turn 2 -----
-Bubble Bloom
-24942 Damage - Change Heal to Water, Deal 130% damage
-Depth Charge
-Player -90% HP
------ HP < 20 -----
------ Turn 1 -----
-Senja Sight
-Bind awoken skills for 5 turns
-Raging River Peal
-575599 Damage - Change all orbs to Water, Jammer, Deal 3000% damage
+Basic attacks (1)
 
 stage 1
 
@@ -2068,6 +2019,10 @@ Blind all orbs on the board, Deal 100% damage + Spawn random 3 Fire, Water, Wood
 ----- Loop to 1 after. Turn 2 -----
 It's pitch black + Take this!
 Blind all orbs on the board, Deal 100% damage + Spawn random 3 Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs
+----- HP < 50 -----
+----- Turn 2 -----
+I'll give you more!
+Jammer, Poison skyfall +15% for 10 turns
 ----- HP < 10 -----
 I don't need all this anymore
 127651 Damage - Change all orbs to Water, Dark, Deal 500% damage
@@ -2339,60 +2294,7 @@ Grovel before me!
 stage 3
 
 3721 - Fire Orb Dragon, Kajin @ level 6
-One-Eyed Hellfire + Seething Fire
-Change 4th, 5th, 6th column to Fire, Jammer orbs, Deal 140% damage + Absorb combo <= 6 damage for 1 turns (Preemptive)
------ When HP is full -----
------ Turn 1 -----
-Insulating Firescales + Brave Warrior's Divine Protection
-Reduce damage from all sources by 75% for 4 turns + Voids status ailments for 10 turns (every 4 turns)
------ Turn 2 -----
-Raging Flash Wildfire
-8008 Damage - Change 3rd row to Jammer orbs, Deal 130% damage
------ Turn 3 -----
-Inferno Claw
-8008 Damage - Change Heal to Fire, Deal 130% damage
-Incinerator Charge
-Player -90% HP
------ Turn 4 -----
-Raging Flash Wildfire
-8008 Damage - Change 3rd row to Jammer orbs, Deal 130% damage
------ Turn 5 -----
-Resentful Stare
-Increase damage to 150% for the next 999 turns (every 4 turns)
------ Turn 6 -----
-Inferno Claw
-8008 Damage - Change Heal to Fire, Deal 130% damage
-Incinerator Charge
-Player -90% HP
------ Turn 7 -----
-Raging Flash Wildfire
-8008 Damage - Change 3rd row to Jammer orbs, Deal 130% damage
------ Turn 8 -----
-Inferno Claw
-8008 Damage - Change Heal to Fire, Deal 130% damage
-Incinerator Charge
-Player -90% HP
------ Turn 9 -----
-Insulating Firescales
-Reduce damage from all sources by 75% for 4 turns (every 4 turns)
------ Execute repeatedly. Turn 1 -----
-Raging Flash Wildfire
-8008 Damage - Change 3rd row to Jammer orbs, Deal 130% damage
------ Loop to 1 after. Turn 2 -----
-Inferno Claw
-8008 Damage - Change Heal to Fire, Deal 130% damage
-Incinerator Charge
-Player -90% HP
------ When HP is not full -----
------ Turn 1 -----
-Insulating Firescales + Exalted Flame
-Reduce damage from all sources by 75% for 4 turns + Movetime 150% for 5 turns (every 4 turns)
------ HP < 20 -----
------ Turn 1 -----
-Glare of the Fire Dragon
-Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs
-Final Burning Devotion
-184800 Damage - Change all orbs to Fire, Jammer, Deal 3000% damage
+Basic attacks (1)
 
 stage 4
 

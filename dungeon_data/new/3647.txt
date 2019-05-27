@@ -682,7 +682,7 @@ stage 3
 1752 - Blue Time Sorceress, Ars Paulina @ level 6
 Ability
 Reduce damage from Light, Dark by 50%
-Solomon's Little Key
+Lesser Key of Solomon
 Voids status ailments for 999 turns (Preemptive)
 Grimoire of Water
 6878 Damage - Change Heal to Water, Deal 50% damage (30% chance)
@@ -1092,7 +1092,7 @@ stage 3
 1750 - Red Ring Sorceress, Theurgia @ level 7
 Ability
 Reduce damage from Light, Dark by 50%
-Solomon's Little Key
+Lesser Key of Solomon
 Voids status ailments for 999 turns (Preemptive)
 Grimoire of Flame
 8174 Damage - Change Heal to Fire, Deal 50% damage (30% chance)
@@ -2364,84 +2364,7 @@ January Quest Dungeon-Expert - Challenge Lv9-Orb move time 4 sec
 stage 0
 
 3725 - Dark Orb Dragon, Eyro @ level 11
-Black Smokescreen + Timed Explosion
-Blind orbs in specific positions for 1 turns + Spawn random 6 locked Bomb orbs (Preemptive)
------ Turn 1 -----
-Darkened Scale Armor + Usurper's Divine Protection
-Reduce damage from all sources by 75% for 4 turns + Locked random skyfall +25% for 7 turns (every 4 turns)
------ Turn 2 -----
-Anarchy
-16951 Damage - Change Jammer to Poison, Deal 150% damage
-Anarchy
-12431 Damage - Change Random 4 to Poison, Deal 110% damage
------ Turn 3 -----
-Gnawing Fangs
-14691 Damage - Change Poison to Jammer, Deal 130% damage
-Gnawing Fangs
-14691 Damage - Change Heal to Jammer, Deal 130% damage
-Black Tempered Bow
-11301 Damage - Lock all Jammer orbs, Deal 100% damage
-Black Tempered Bow
-Player -90% HP
------ Turn 4 -----
-Anarchy
-16951 Damage - Change Jammer to Poison, Deal 150% damage
-Anarchy
-12431 Damage - Change Random 4 to Poison, Deal 110% damage
------ Turn 5 -----
-Resentful Stare
-Increase damage to 150% for the next 999 turns (every 4 turns)
------ Turn 6 -----
-Gnawing Fangs
-14691 Damage - Change Poison to Jammer, Deal 130% damage
-Gnawing Fangs
-14691 Damage - Change Heal to Jammer, Deal 130% damage
-Black Tempered Bow
-11301 Damage - Lock all Jammer orbs, Deal 100% damage
-Black Tempered Bow
-Player -90% HP
------ Turn 7 -----
-Anarchy
-16951 Damage - Change Jammer to Poison, Deal 150% damage
-Anarchy
-12431 Damage - Change Random 4 to Poison, Deal 110% damage
------ Turn 8 -----
-Gnawing Fangs
-14691 Damage - Change Poison to Jammer, Deal 130% damage
-Gnawing Fangs
-14691 Damage - Change Heal to Jammer, Deal 130% damage
-Black Tempered Bow
-11301 Damage - Lock all Jammer orbs, Deal 100% damage
-Black Tempered Bow
-Player -90% HP
------ Turn 9 -----
-Darkened Scale Armor
-Reduce damage from all sources by 75% for 4 turns (every 4 turns)
------ HP <= 100 -----
------ Execute repeatedly. Turn 1 -----
-Anarchy
-16951 Damage - Change Jammer to Poison, Deal 150% damage
-Anarchy
-12431 Damage - Change Random 4 to Poison, Deal 110% damage
------ Loop to 1 after. Turn 2 -----
-Gnawing Fangs
-14691 Damage - Change Poison to Jammer, Deal 130% damage
-Gnawing Fangs
-14691 Damage - Change Heal to Jammer, Deal 130% damage
-Black Tempered Bow
-11301 Damage - Lock all Jammer orbs, Deal 100% damage
-Black Tempered Bow
-Player -90% HP
------ HP < 70 -----
------ Turn 1 -----
-Darkened Scale Armor + Fortuitous Yin and Yang
-Reduce damage from all sources by 75% for 4 turns + Heal, Jammer skyfall +20% for 7 turns (every 4 turns)
------ HP < 20 -----
------ Turn 1 -----
-Extreme Dragon Eyes
-Change all orbs to Jammer
-Darklight Calamity
-339033 Damage - Change all orbs to Dark, Jammer, Deal 3000% damage
+Basic attacks (1)
 
 stage 1
 

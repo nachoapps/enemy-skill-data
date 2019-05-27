@@ -471,56 +471,7 @@ Brinicle
 stage 2
 
 3722 - Water Orb Dragon, Senja @ level 9
-Abyssal Scales + Vehement Sea Fog + Oceanic Obstruction
-Reduce damage from all sources by 50% for 5 turns + 6x2 cloud appear for 1 turns at 3rd row, 1st column + Spawn random 11 Jammer orbs (Preemptive)
------ Turn 1 -----
-Mariner's Divine Protection + Outbreak
-Absorb combo <= 6 damage for 10 turns + Change Jammer to Poison, Deal 250% damage (every 4 turns)
------ Turn 2 -----
-Roaring Deluge
-11138 Damage - Delay active skills by 2 turns, Deal 120% damage
------ Turn 3 -----
-Bubble Bloom
-12066 Damage - Change Heal to Water, Deal 130% damage
-Depth Charge
-Player -90% HP
------ Turn 4 -----
-Roaring Deluge
-11138 Damage - Delay active skills by 2 turns, Deal 120% damage
------ Turn 5 -----
-Resentful Stare
-Increase damage to 150% for the next 999 turns (every 4 turns)
------ Turn 6 -----
-Bubble Bloom
-12066 Damage - Change Heal to Water, Deal 130% damage
-Depth Charge
-Player -90% HP
------ Turn 7 -----
-Roaring Deluge
-11138 Damage - Delay active skills by 2 turns, Deal 120% damage
------ Turn 8 -----
-Bubble Bloom
-12066 Damage - Change Heal to Water, Deal 130% damage
-Depth Charge
-Player -90% HP
------ Turn 9 -----
-Abyssal Scales
-Reduce damage from all sources by 75% for 4 turns (every 4 turns)
------ HP <= 100 -----
------ Execute repeatedly. Turn 1 -----
-Roaring Deluge
-11138 Damage - Delay active skills by 2 turns, Deal 120% damage
------ Loop to 1 after. Turn 2 -----
-Bubble Bloom
-12066 Damage - Change Heal to Water, Deal 130% damage
-Depth Charge
-Player -90% HP
------ HP < 20 -----
------ Turn 1 -----
-Senja Sight
-Bind awoken skills for 5 turns
-Raging River Peal
-278466 Damage - Change all orbs to Water, Jammer, Deal 3000% damage
+Basic attacks (1)
 
 stage 3
 
@@ -1207,60 +1158,7 @@ Enlightened Dragon Stream
 stage 11
 
 3723 - Wood Orb Dragon, Fukin @ level 10
-Samsara Arabesque + Wind Jewel
-Random 2 orbs change every 1.0s for 3 turns + Absorb combo <= 6 damage for 1 turns (Preemptive)
------ When HP is full -----
------ Turn 1 -----
-Scaly Stronghold + Mithril Dragon's Divine Protection
-Reduce damage from all sources by 75% for 4 turns + Absorb Light, Dark damage for 4 turns (every 4 turns)
------ Turn 2 -----
-Tree Tusk Incarceration
-38160 Damage - Lock 9 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 120% damage
------ Turn 3 -----
-Hushed Windweaver
-41340 Damage - Change Heal to Wood, Deal 130% damage
-Splintering Windblast
-Player -90% HP
------ Turn 4 -----
-Tree Tusk Incarceration
-38160 Damage - Lock 9 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 120% damage
------ Turn 5 -----
-Resentful Stare
-Increase damage to 150% for the next 999 turns (every 4 turns)
------ Turn 6 -----
-Hushed Windweaver
-41340 Damage - Change Heal to Wood, Deal 130% damage
-Splintering Windblast
-Player -90% HP
------ Turn 7 -----
-Tree Tusk Incarceration
-38160 Damage - Lock 9 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 120% damage
------ Turn 8 -----
-Hushed Windweaver
-41340 Damage - Change Heal to Wood, Deal 130% damage
-Splintering Windblast
-Player -90% HP
------ Turn 9 -----
-Scaly Stronghold
-Reduce damage from all sources by 75% for 4 turns (every 4 turns)
------ Execute repeatedly. Turn 1 -----
-Tree Tusk Incarceration
-38160 Damage - Lock 9 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 120% damage
------ Loop to 1 after. Turn 2 -----
-Hushed Windweaver
-41340 Damage - Change Heal to Wood, Deal 130% damage
-Splintering Windblast
-Player -90% HP
------ When HP is not full -----
------ Turn 1 -----
-Scaly Stronghold + Lush Green
-Reduce damage from all sources by 75% for 4 turns + Wood skyfall +25% for 99 turns (every 4 turns)
------ HP < 20 -----
------ Turn 1 -----
-Eye of the Storm Dragon
-Movetime 50% for 5 turns
-Valiant Gale
-954000 Damage - Change all orbs to Wood, Jammer, Deal 3000% damage
+Basic attacks (1)
 
 stage 12
 

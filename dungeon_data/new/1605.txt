@@ -33,7 +33,7 @@ stage 2
 1754 - Green Essence Sorceress, Almadel @ level 6
 Ability
 Reduce damage from Light, Dark by 50%
-Solomon's Little Key
+Lesser Key of Solomon
 Voids status ailments for 999 turns (Preemptive)
 Grimoire of Earth
 6878 Damage - Change Heal to Wood, Deal 50% damage (30% chance)
@@ -228,7 +228,7 @@ stage 2
 1754 - Green Essence Sorceress, Almadel @ level 6
 Ability
 Reduce damage from Light, Dark by 50%
-Solomon's Little Key
+Lesser Key of Solomon
 Voids status ailments for 999 turns (Preemptive)
 Grimoire of Earth
 6878 Damage - Change Heal to Wood, Deal 50% damage (30% chance)

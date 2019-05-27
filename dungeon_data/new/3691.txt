@@ -276,7 +276,7 @@ stage 2
 1752 - Blue Time Sorceress, Ars Paulina @ level 6
 Ability
 Reduce damage from Light, Dark by 50%
-Solomon's Little Key
+Lesser Key of Solomon
 Voids status ailments for 999 turns (Preemptive)
 Grimoire of Water
 6878 Damage - Change Heal to Water, Deal 50% damage (30% chance)
@@ -696,7 +696,7 @@ stage 6
 1750 - Red Ring Sorceress, Theurgia @ level 5
 Ability
 Reduce damage from Light, Dark by 50%
-Solomon's Little Key
+Lesser Key of Solomon
 Voids status ailments for 999 turns (Preemptive)
 Grimoire of Flame
 5583 Damage - Change Heal to Fire, Deal 50% damage (30% chance)
@@ -722,7 +722,7 @@ Burning Blizzard
 1752 - Blue Time Sorceress, Ars Paulina @ level 5
 Ability
 Reduce damage from Light, Dark by 50%
-Solomon's Little Key
+Lesser Key of Solomon
 Voids status ailments for 999 turns (Preemptive)
 Grimoire of Water
 5583 Damage - Change Heal to Water, Deal 50% damage (30% chance)
@@ -748,7 +748,7 @@ Tidal Hurricane
 1754 - Green Essence Sorceress, Almadel @ level 5
 Ability
 Reduce damage from Light, Dark by 50%
-Solomon's Little Key
+Lesser Key of Solomon
 Voids status ailments for 999 turns (Preemptive)
 Grimoire of Earth
 5583 Damage - Change Heal to Wood, Deal 50% damage (30% chance)
@@ -1676,58 +1676,7 @@ Player recover 100% hp (Preemptive)
 stage 2
 
 3724 - Light Orb Dragon, Yobi @ level 7
-Radiant Blond Hair + Light Pulse
-Lock all Light, Heal orbs + Change all orbs to Jammer, Deal 100% damage (Preemptive)
------ Turn 1 -----
-Beautiful Nebulous Glow
-30408 Damage - Change Jammer to Heal, Deal 280% damage (every 4 turns)
-Pure White Silk Scales + Songstress's Divine Protection
-Reduce damage from all sources by 35% for 10 turns + Voids status ailments for 10 turns (every 4 turns)
------ Turn 2 -----
-Chiming Rings
-14118 Damage - Rcv 50% for 2 turns, Deal 130% damage
------ Turn 3 -----
-Golden Flower Thorns
-11946 Damage - Spawn random 3 Mortal Poison orbs, Deal 110% damage
-Brutal Wisp Fangs
-Player -90% HP
------ Turn 4 -----
-Chiming Rings
-14118 Damage - Rcv 50% for 2 turns, Deal 130% damage
------ Turn 5 -----
-Resentful Stare
-Increase damage to 150% for the next 999 turns (every 4 turns)
------ Turn 6 -----
-Golden Flower Thorns
-11946 Damage - Spawn random 3 Mortal Poison orbs, Deal 110% damage
-Brutal Wisp Fangs
-Player -90% HP
------ Turn 7 -----
-Chiming Rings
-14118 Damage - Rcv 50% for 2 turns, Deal 130% damage
------ Turn 8 -----
-Golden Flower Thorns
-11946 Damage - Spawn random 3 Mortal Poison orbs, Deal 110% damage
-Brutal Wisp Fangs
-Player -90% HP
------ Turn 9 -----
-Pure White Damask Scales
-Absorb damage >= 1000000 damage for 4 turns (every 4 turns)
------ HP <= 100 -----
------ Execute repeatedly. Turn 1 -----
-Chiming Rings
-14118 Damage - Rcv 50% for 2 turns, Deal 130% damage
------ Loop to 1 after. Turn 2 -----
-Golden Flower Thorns
-11946 Damage - Spawn random 3 Mortal Poison orbs, Deal 110% damage
-Brutal Wisp Fangs
-Player -90% HP
------ HP < 20 -----
------ Turn 1 -----
-Glazed Dragon Eyes
-Delay active skills by 5 turns
-Scattered Gleam of Bewitching Beauty
-325800 Damage - Change all orbs to Light, Jammer, Deal 3000% damage
+Basic attacks (1)
 
 stage 3
 

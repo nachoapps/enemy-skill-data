@@ -39,7 +39,7 @@ stage 2
 201750 - Red Ring Sorceress, Theurgia @ level 5
 Ability
 Reduce damage from Light, Dark by 50%
-Solomon's Little Key
+Lesser Key of Solomon
 Voids status ailments for 999 turns (Preemptive)
 Grimoire of Flame
 5583 Damage - Change Heal to Fire, Deal 50% damage (30% chance)
@@ -65,7 +65,7 @@ Burning Blizzard
 201752 - Blue Time Sorceress, Ars Paulina @ level 5
 Ability
 Reduce damage from Light, Dark by 50%
-Solomon's Little Key
+Lesser Key of Solomon
 Voids status ailments for 999 turns (Preemptive)
 Grimoire of Water
 5583 Damage - Change Heal to Water, Deal 50% damage (30% chance)
@@ -91,7 +91,7 @@ Tidal Hurricane
 201754 - Green Essence Sorceress, Armadel @ level 5
 Ability
 Reduce damage from Light, Dark by 50%
-Solomon's Little Key
+Lesser Key of Solomon
 Voids status ailments for 999 turns (Preemptive)
 Grimoire of Earth
 5583 Damage - Change Heal to Wood, Deal 50% damage (30% chance)

@@ -361,56 +361,7 @@ Meteorite
 stage 6
 
 3722 - Water Orb Dragon, Senja @ level 12
-Abyssal Scales + Vehement Sea Fog + Oceanic Obstruction
-Reduce damage from all sources by 50% for 5 turns + 6x2 cloud appear for 1 turns at 3rd row, 1st column + Spawn random 11 Jammer orbs (Preemptive)
------ Turn 1 -----
-Mariner's Divine Protection + Outbreak
-Absorb combo <= 6 damage for 10 turns + Change Jammer to Poison, Deal 250% damage (every 4 turns)
------ Turn 2 -----
-Roaring Deluge
-15162 Damage - Delay active skills by 2 turns, Deal 120% damage
------ Turn 3 -----
-Bubble Bloom
-16426 Damage - Change Heal to Water, Deal 130% damage
-Depth Charge
-Player -90% HP
------ Turn 4 -----
-Roaring Deluge
-15162 Damage - Delay active skills by 2 turns, Deal 120% damage
------ Turn 5 -----
-Resentful Stare
-Increase damage to 150% for the next 999 turns (every 4 turns)
------ Turn 6 -----
-Bubble Bloom
-16426 Damage - Change Heal to Water, Deal 130% damage
-Depth Charge
-Player -90% HP
------ Turn 7 -----
-Roaring Deluge
-15162 Damage - Delay active skills by 2 turns, Deal 120% damage
------ Turn 8 -----
-Bubble Bloom
-16426 Damage - Change Heal to Water, Deal 130% damage
-Depth Charge
-Player -90% HP
------ Turn 9 -----
-Abyssal Scales
-Reduce damage from all sources by 75% for 4 turns (every 4 turns)
------ HP <= 100 -----
------ Execute repeatedly. Turn 1 -----
-Roaring Deluge
-15162 Damage - Delay active skills by 2 turns, Deal 120% damage
------ Loop to 1 after. Turn 2 -----
-Bubble Bloom
-16426 Damage - Change Heal to Water, Deal 130% damage
-Depth Charge
-Player -90% HP
------ HP < 20 -----
------ Turn 1 -----
-Senja Sight
-Bind awoken skills for 5 turns
-Raging River Peal
-379066 Damage - Change all orbs to Water, Jammer, Deal 3000% damage
+Basic attacks (1)
 
 Water Orb Dragon - Water Orb Dragon-Mythical
 
@@ -786,56 +737,7 @@ Meteorite
 stage 6
 
 3722 - Water Orb Dragon, Senja @ level 10
-Abyssal Scales + Vehement Sea Fog + Oceanic Obstruction
-Reduce damage from all sources by 50% for 5 turns + 6x2 cloud appear for 1 turns at 3rd row, 1st column + Spawn random 11 Jammer orbs (Preemptive)
------ Turn 1 -----
-Mariner's Divine Protection + Outbreak
-Absorb combo <= 6 damage for 10 turns + Change Jammer to Poison, Deal 250% damage (every 4 turns)
------ Turn 2 -----
-Roaring Deluge
-12480 Damage - Delay active skills by 2 turns, Deal 120% damage
------ Turn 3 -----
-Bubble Bloom
-13520 Damage - Change Heal to Water, Deal 130% damage
-Depth Charge
-Player -90% HP
------ Turn 4 -----
-Roaring Deluge
-12480 Damage - Delay active skills by 2 turns, Deal 120% damage
------ Turn 5 -----
-Resentful Stare
-Increase damage to 150% for the next 999 turns (every 4 turns)
------ Turn 6 -----
-Bubble Bloom
-13520 Damage - Change Heal to Water, Deal 130% damage
-Depth Charge
-Player -90% HP
------ Turn 7 -----
-Roaring Deluge
-12480 Damage - Delay active skills by 2 turns, Deal 120% damage
------ Turn 8 -----
-Bubble Bloom
-13520 Damage - Change Heal to Water, Deal 130% damage
-Depth Charge
-Player -90% HP
------ Turn 9 -----
-Abyssal Scales
-Reduce damage from all sources by 75% for 4 turns (every 4 turns)
------ HP <= 100 -----
------ Execute repeatedly. Turn 1 -----
-Roaring Deluge
-12480 Damage - Delay active skills by 2 turns, Deal 120% damage
------ Loop to 1 after. Turn 2 -----
-Bubble Bloom
-13520 Damage - Change Heal to Water, Deal 130% damage
-Depth Charge
-Player -90% HP
------ HP < 20 -----
------ Turn 1 -----
-Senja Sight
-Bind awoken skills for 5 turns
-Raging River Peal
-312000 Damage - Change all orbs to Water, Jammer, Deal 3000% damage
+Basic attacks (1)
 
 Water Orb Dragon - Water Orb Dragon-Legend
 
@@ -1211,56 +1113,7 @@ Meteorite
 stage 6
 
 3722 - Water Orb Dragon, Senja @ level 7
-Abyssal Scales + Vehement Sea Fog + Oceanic Obstruction
-Reduce damage from all sources by 50% for 5 turns + 6x2 cloud appear for 1 turns at 3rd row, 1st column + Spawn random 11 Jammer orbs (Preemptive)
------ Turn 1 -----
-Mariner's Divine Protection + Outbreak
-Absorb combo <= 6 damage for 10 turns + Change Jammer to Poison, Deal 250% damage (every 4 turns)
------ Turn 2 -----
-Roaring Deluge
-8455 Damage - Delay active skills by 2 turns, Deal 120% damage
------ Turn 3 -----
-Bubble Bloom
-9160 Damage - Change Heal to Water, Deal 130% damage
-Depth Charge
-Player -90% HP
------ Turn 4 -----
-Roaring Deluge
-8455 Damage - Delay active skills by 2 turns, Deal 120% damage
------ Turn 5 -----
-Resentful Stare
-Increase damage to 150% for the next 999 turns (every 4 turns)
------ Turn 6 -----
-Bubble Bloom
-9160 Damage - Change Heal to Water, Deal 130% damage
-Depth Charge
-Player -90% HP
------ Turn 7 -----
-Roaring Deluge
-8455 Damage - Delay active skills by 2 turns, Deal 120% damage
------ Turn 8 -----
-Bubble Bloom
-9160 Damage - Change Heal to Water, Deal 130% damage
-Depth Charge
-Player -90% HP
------ Turn 9 -----
-Abyssal Scales
-Reduce damage from all sources by 75% for 4 turns (every 4 turns)
------ HP <= 100 -----
------ Execute repeatedly. Turn 1 -----
-Roaring Deluge
-8455 Damage - Delay active skills by 2 turns, Deal 120% damage
------ Loop to 1 after. Turn 2 -----
-Bubble Bloom
-9160 Damage - Change Heal to Water, Deal 130% damage
-Depth Charge
-Player -90% HP
------ HP < 20 -----
------ Turn 1 -----
-Senja Sight
-Bind awoken skills for 5 turns
-Raging River Peal
-211400 Damage - Change all orbs to Water, Jammer, Deal 3000% damage
+Basic attacks (1)
 
 Water Orb Dragon - Water Orb Dragon-Master
 
@@ -1615,56 +1468,7 @@ Meteorite
 stage 6
 
 3722 - Water Orb Dragon, Senja @ level 4
-Abyssal Scales + Vehement Sea Fog + Oceanic Obstruction
-Reduce damage from all sources by 50% for 5 turns + 6x2 cloud appear for 1 turns at 3rd row, 1st column + Spawn random 11 Jammer orbs (Preemptive)
------ Turn 1 -----
-Mariner's Divine Protection + Outbreak
-Absorb combo <= 6 damage for 10 turns + Change Jammer to Poison, Deal 250% damage (every 4 turns)
------ Turn 2 -----
-Roaring Deluge
-4431 Damage - Delay active skills by 2 turns, Deal 120% damage
------ Turn 3 -----
-Bubble Bloom
-4801 Damage - Change Heal to Water, Deal 130% damage
-Depth Charge
-Player -90% HP
------ Turn 4 -----
-Roaring Deluge
-4431 Damage - Delay active skills by 2 turns, Deal 120% damage
------ Turn 5 -----
-Resentful Stare
-Increase damage to 150% for the next 999 turns (every 4 turns)
------ Turn 6 -----
-Bubble Bloom
-4801 Damage - Change Heal to Water, Deal 130% damage
-Depth Charge
-Player -90% HP
------ Turn 7 -----
-Roaring Deluge
-4431 Damage - Delay active skills by 2 turns, Deal 120% damage
------ Turn 8 -----
-Bubble Bloom
-4801 Damage - Change Heal to Water, Deal 130% damage
-Depth Charge
-Player -90% HP
------ Turn 9 -----
-Abyssal Scales
-Reduce damage from all sources by 75% for 4 turns (every 4 turns)
------ HP <= 100 -----
------ Execute repeatedly. Turn 1 -----
-Roaring Deluge
-4431 Damage - Delay active skills by 2 turns, Deal 120% damage
------ Loop to 1 after. Turn 2 -----
-Bubble Bloom
-4801 Damage - Change Heal to Water, Deal 130% damage
-Depth Charge
-Player -90% HP
------ HP < 20 -----
------ Turn 1 -----
-Senja Sight
-Bind awoken skills for 5 turns
-Raging River Peal
-110800 Damage - Change all orbs to Water, Jammer, Deal 3000% damage
+Basic attacks (1)
 
 Water Orb Dragon - Water Orb Dragon-Expert
 
@@ -1756,7 +1560,7 @@ Basic attacks (2)
 stage 5
 
 3722 - Water Orb Dragon, Senja @ level 2
-Basic attacks (2)
+Basic attacks (1)
 
 Water Orb Dragon - Water Orb Dragon-Int
 
@@ -1842,5 +1646,5 @@ Basic attacks (2)
 stage 5
 
 3722 - Water Orb Dragon, Senja @ level 1
-Basic attacks (2)
+Basic attacks (1)
 

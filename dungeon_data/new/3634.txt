@@ -1,7 +1,5 @@
 Skill Leveling Dungeon - ★6 Characters
 
-Skill Leveling Dungeon - ★5 Characters
-
 stage 0
 
 2457 - Inuyasha @ level 1
@@ -32,7 +30,7 @@ stage 5
 4817 - ***** @ level 1
 Basic attacks (1)
 
-Skill Leveling Dungeon - ★4 Characters
+Skill Leveling Dungeon - ★5 Characters 2
 
 stage 0
 
@@ -62,5 +60,96 @@ Basic attacks (1)
 stage 5
 
 4819 - ***** @ level 1
+Basic attacks (1)
+
+Skill Leveling Dungeon - ★5 Characters 1
+
+stage 0
+
+2462 - Lum @ level 1
+Basic attacks (1)
+
+stage 1
+
+2468 - Hanabishi Recca @ level 1
+Basic attacks (1)
+
+stage 2
+
+2845 - Kurei @ level 1
+Basic attacks (1)
+
+stage 3
+
+2472 - Aladdin @ level 1
+Basic attacks (1)
+
+stage 4
+
+2474 - Alibaba @ level 1
+Basic attacks (1)
+
+stage 5
+
+2843 - Hyou @ level 1
+Basic attacks (1)
+
+Skill Leveling Dungeon - ★4 Characters 2
+
+stage 0
+
+2466 - Inasa Kirio & Kuin @ level 1
+Basic attacks (1)
+
+stage 1
+
+2470 - Kirisawa Fuko @ level 1
+Basic attacks (1)
+
+stage 2
+
+2847 - Kyoza Meguri @ level 1
+Basic attacks (1)
+
+stage 3
+
+2849 - Koganei Kaoru @ level 1
+Basic attacks (1)
+
+stage 4
+
+2851 - Ishijima Domon @ level 1
+Basic attacks (1)
+
+stage 5
+
+3438 - ***** @ level 1
+Basic attacks (1)
+
+Skill Leveling Dungeon - ★4 Characters 1
+
+stage 0
+
+2460 - Higurashi Kagome @ level 1
+Basic attacks (1)
+
+stage 1
+
+2841 - Kikyo @ level 1
+Basic attacks (1)
+
+stage 2
+
+2476 - Morgiana @ level 1
+Basic attacks (1)
+
+stage 3
+
+2855 - Ren Hakuryuu @ level 1
+Basic attacks (1)
+
+stage 4
+
+2857 - Ren Kougyoku @ level 1
 Basic attacks (1)
 

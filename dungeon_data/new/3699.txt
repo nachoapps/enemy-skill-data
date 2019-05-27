@@ -235,60 +235,7 @@ Paryavasaanam
 stage 3
 
 3721 - Fire Orb Dragon, Kajin @ level 10
-One-Eyed Hellfire + Seething Fire
-Change 4th, 5th, 6th column to Fire, Jammer orbs, Deal 140% damage + Absorb combo <= 6 damage for 1 turns (Preemptive)
------ When HP is full -----
------ Turn 1 -----
-Insulating Firescales + Brave Warrior's Divine Protection
-Reduce damage from all sources by 75% for 4 turns + Voids status ailments for 10 turns (every 4 turns)
------ Turn 2 -----
-Raging Flash Wildfire
-14040 Damage - Change 3rd row to Jammer orbs, Deal 130% damage
------ Turn 3 -----
-Inferno Claw
-14040 Damage - Change Heal to Fire, Deal 130% damage
-Incinerator Charge
-Player -90% HP
------ Turn 4 -----
-Raging Flash Wildfire
-14040 Damage - Change 3rd row to Jammer orbs, Deal 130% damage
------ Turn 5 -----
-Resentful Stare
-Increase damage to 150% for the next 999 turns (every 4 turns)
------ Turn 6 -----
-Inferno Claw
-14040 Damage - Change Heal to Fire, Deal 130% damage
-Incinerator Charge
-Player -90% HP
------ Turn 7 -----
-Raging Flash Wildfire
-14040 Damage - Change 3rd row to Jammer orbs, Deal 130% damage
------ Turn 8 -----
-Inferno Claw
-14040 Damage - Change Heal to Fire, Deal 130% damage
-Incinerator Charge
-Player -90% HP
------ Turn 9 -----
-Insulating Firescales
-Reduce damage from all sources by 75% for 4 turns (every 4 turns)
------ Execute repeatedly. Turn 1 -----
-Raging Flash Wildfire
-14040 Damage - Change 3rd row to Jammer orbs, Deal 130% damage
------ Loop to 1 after. Turn 2 -----
-Inferno Claw
-14040 Damage - Change Heal to Fire, Deal 130% damage
-Incinerator Charge
-Player -90% HP
------ When HP is not full -----
------ Turn 1 -----
-Insulating Firescales + Exalted Flame
-Reduce damage from all sources by 75% for 4 turns + Movetime 150% for 5 turns (every 4 turns)
------ HP < 20 -----
------ Turn 1 -----
-Glare of the Fire Dragon
-Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs
-Final Burning Devotion
-324000 Damage - Change all orbs to Fire, Jammer, Deal 3000% damage
+Basic attacks (1)
 
 3838 - Light Warchief Dragon, Koko @ level 10
 Electrified Golden Fur + Lightning Order
@@ -458,56 +405,7 @@ Evil Crest
 Increase damage to 250% for the next 1 turns (every 4 turns)
 
 3722 - Water Orb Dragon, Senja @ level 10
-Abyssal Scales + Vehement Sea Fog + Oceanic Obstruction
-Reduce damage from all sources by 50% for 5 turns + 6x2 cloud appear for 1 turns at 3rd row, 1st column + Spawn random 11 Jammer orbs (Preemptive)
------ Turn 1 -----
-Mariner's Divine Protection + Outbreak
-Absorb combo <= 6 damage for 10 turns + Change Jammer to Poison, Deal 250% damage (every 4 turns)
------ Turn 2 -----
-Roaring Deluge
-12480 Damage - Delay active skills by 2 turns, Deal 120% damage
------ Turn 3 -----
-Bubble Bloom
-13520 Damage - Change Heal to Water, Deal 130% damage
-Depth Charge
-Player -90% HP
------ Turn 4 -----
-Roaring Deluge
-12480 Damage - Delay active skills by 2 turns, Deal 120% damage
------ Turn 5 -----
-Resentful Stare
-Increase damage to 150% for the next 999 turns (every 4 turns)
------ Turn 6 -----
-Bubble Bloom
-13520 Damage - Change Heal to Water, Deal 130% damage
-Depth Charge
-Player -90% HP
------ Turn 7 -----
-Roaring Deluge
-12480 Damage - Delay active skills by 2 turns, Deal 120% damage
------ Turn 8 -----
-Bubble Bloom
-13520 Damage - Change Heal to Water, Deal 130% damage
-Depth Charge
-Player -90% HP
------ Turn 9 -----
-Abyssal Scales
-Reduce damage from all sources by 75% for 4 turns (every 4 turns)
------ HP <= 100 -----
------ Execute repeatedly. Turn 1 -----
-Roaring Deluge
-12480 Damage - Delay active skills by 2 turns, Deal 120% damage
------ Loop to 1 after. Turn 2 -----
-Bubble Bloom
-13520 Damage - Change Heal to Water, Deal 130% damage
-Depth Charge
-Player -90% HP
------ HP < 20 -----
------ Turn 1 -----
-Senja Sight
-Bind awoken skills for 5 turns
-Raging River Peal
-312000 Damage - Change all orbs to Water, Jammer, Deal 3000% damage
+Basic attacks (1)
 
 stage 8
 

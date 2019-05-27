@@ -81,19 +81,7 @@ Basic attacks (1)
 stage 1
 
 3840 - Awoken Sanada Yukimura @ level 1
-It is time to reclaim
-what is rightfully ours.
-Blind all orbs on the board (Preemptive)
-Sly Tactics
-33 Damage - Seal 1st column for 1 turns, Deal 100% damage (30% chance)
-Astral Deception
-Change 1st column to Poison orbs, 6th column to Jammer orbs (30% chance)
-Black Magic
-39 Damage - Change 3rd column to Light orbs, 4th column to Dark orbs, Deal 120% damage (40% chance)
------ HP < 40 -----
------ Turn 1 -----
-Gathering Quintessence
-Enemy recover 50% hp (1 time use)
+Basic attacks (1)
 
 stage 2
 
@@ -423,18 +411,7 @@ Basic attacks (1)
 stage 1
 
 3842 - Awoken Ishida Mitsunari @ level 1
-Target Confirmed + Lock-On
-Voids status ailments for 3 turns + Fix orb movement starting point to random position on the board (Preemptive)
------ Execute repeatedly. Turn 1 -----
-Focused Laser
-Player -99% HP (every 3 turns)
------ Loop to 1 after. Turn 2-3 -----
-Spread Laser
-38 Damage - Deal 120% damage (3 hits, 40% each)
------ HP < 50 -----
------ Turn 1 -----
-Safety Mode Activated
-Reduce damage from all sources by 75% for 1 turns
+Basic attacks (1)
 
 stage 2
 
