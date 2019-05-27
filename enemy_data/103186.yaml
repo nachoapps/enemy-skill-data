@@ -1,0 +1,169 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 103186
+monster_name_en: Scorched Forest Blade, Samurai Troll
+monster_name_jp: not yet populated
+reviewed_by: unreviewed
+warnings: []
+
+############################################################
+### Data @ 1
+############################################################
+!SkillRecordListing
+level: 1
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Voids status ailments for 999 turns + Reduce damage from all sources by
+    75% for 10 turns (Preemptive)
+  desc_jp: Voids status ailments for 999 turns + Reduce damage from all sources by
+    75% for 10 turns (Preemptive)
+  max_atk_pct: null
+  name_en: Swordsman's Resolution + Dual Blade Type
+  name_jp: 剣士の覚悟 + 二刀の型
+  one_time: 8
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  desc_jp: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  name_jp: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Movetime 25% for 2 turns + Fix orb movement starting point to random position
+    on the board, Deal 100% damage
+  desc_jp: Movetime 25% for 2 turns + Fix orb movement starting point to random position
+    on the board, Deal 100% damage
+  max_atk_pct: null
+  name_en: Syncronised Battle + Sword's Back Strike
+  name_jp: 同刻の戦い + 峰打ち
+  one_time: 4
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  desc_jp: ''
+  max_atk_pct: null
+  name_en: Turn 2
+  name_jp: Turn 2
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Bind awoken skills for 1 turns + Blind all orbs on the board, Deal 100%
+    damage
+  desc_jp: Bind awoken skills for 1 turns + Blind all orbs on the board, Deal 100%
+    damage
+  max_atk_pct: null
+  name_en: Imminent Battle + Surprise Attack
+  name_jp: 切迫した戦い + 闇討ち
+  one_time: 2
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  desc_jp: ''
+  max_atk_pct: null
+  name_en: Turn 3
+  name_jp: Turn 3
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Increase damage to 200% for the next 999 turns
+  desc_jp: Increase damage to 200% for the next 999 turns
+  max_atk_pct: null
+  name_en: Sheath Torn to Pieces
+  name_jp: 鯉口を切り裂く
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  desc_jp: ''
+  max_atk_pct: null
+  name_en: HP <= 100
+  name_jp: HP <= 100
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Change 4th column to Fire orbs, Deal 100% damage
+  desc_jp: Change 4th column to Fire orbs, Deal 100% damage
+  max_atk_pct: 100
+  name_en: One Swing of Fire
+  name_jp: 炎の一振り
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 33
+- !SkillRecord
+  desc_en: Change 3rd row to Wood orbs, Deal 100% damage
+  desc_jp: Change 3rd row to Wood orbs, Deal 100% damage
+  max_atk_pct: 100
+  name_en: One Stroke of Wind
+  name_jp: 風の一太刀
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 33
+- !SkillRecord
+  desc_en: Deal 105% damage (3 hits, 35% each)
+  desc_jp: Deal 105% damage (3 hits, 35% each)
+  max_atk_pct: 105
+  name_en: Swiftness Sword Technique
+  name_jp: 神速の剣技
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 34
+
+############################################################
+### ES Modifiers
+############################################################
+# [9] 5 - monster size?
+# [52] true - use new AI
+# [53] 15 - starting/max counter
+# [54] 0 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESPreemptive(49:318) -> ESPreemptive
+# Enable preempt if level 1
+# [2] SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 8)
+# 	[0] ESStatusShield(20:12948) -> Swordsman's Resolution
+# 	Voids status ailments for 999 turns
+# 	[1] ESDamageShield(74:12949) -> Dual Blade Type
+# 	Reduce damage from all sources by 75% for 10 turns
+# [3] SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 4)
+# 	[0] ESDebuffMovetime(39:12951) -> Syncronised Battle
+# 	Movetime 25% for 2 turns
+# 	[1] ESFixedStart(101:12952) -> Sword's Back Strike
+# 	Fix orb movement starting point to random position on the board, Deal 100% damage
+# [4] SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
+# 	[0] ESBindAwoken(88:12954) -> Imminent Battle
+# 	Bind awoken skills for 1 turns
+# 	[1] ESBlind(62:12955) -> Surprise Attack
+# 	Blind all orbs on the board, Deal 100% damage
+# [5] ESAttackUPRemainingEnemies(17:12956) -> Sheath Torn to Pieces
+# 	Condition: One-time use, when <= 1 enemies remain (ai:100 rnd:0) (one-time: 1)
+# Increase damage to 200% for the next 999 turns
+# [6] ESColumnSpawnMulti(77:12957) -> One Swing of Fire
+# 	Condition: 33% chance (ai:0 rnd:33)
+# Change 4th column to Fire orbs, Deal 100% damage
+# [7] ESRowSpawnMulti(79:12958) -> One Stroke of Wind
+# 	Condition: 33% chance (ai:0 rnd:33)
+# Change 3rd row to Wood orbs, Deal 100% damage
+# [8] ESAttackMultihit(15:12959) -> Swiftness Sword Technique
+# 	Condition: 34% chance (ai:0 rnd:34)
+# Deal 105% damage (3 hits, 35% each)
+# [9] ESEndPath(36:26) -> ESEndPath
+# end_turn
