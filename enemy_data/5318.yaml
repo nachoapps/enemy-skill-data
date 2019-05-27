@@ -1,0 +1,996 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 5318
+monster_name_en: 惑乱の狂女神・エリス
+monster_name_jp: not yet populated
+reviewed_by: unreviewed
+warnings:
+- Found 2 unused actions
+
+############################################################
+### Data @ 1
+############################################################
+!SkillRecordListing
+level: 1
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Voids status ailments for 999 turns + Void damage >= 20000000 for 999 turns
+    + unknown (Preemptive)
+  desc_jp: Voids status ailments for 999 turns + Void damage >= 20000000 for 999 turns
+    + unknown (Preemptive)
+  max_atk_pct: null
+  name_en: 不和の侮蔑 + 災炎の神躯 + 錯乱の惹起
+  name_jp: 不和の侮蔑 + 災炎の神躯 + 錯乱の惹起
+  one_time: 0
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  desc_jp: ''
+  max_atk_pct: null
+  name_en: When player has any buff
+  name_jp: When player has any buff
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Voids player buff effects, Deal 200% damage
+  desc_jp: Voids player buff effects, Deal 200% damage
+  max_atk_pct: 200
+  name_en: 神火の息吹
+  name_jp: 神火の息吹
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 10
+- !SkillRecord
+  desc_en: ''
+  desc_jp: ''
+  max_atk_pct: null
+  name_en: HP <= 100
+  name_jp: HP <= 100
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  desc_jp: ''
+  max_atk_pct: null
+  name_en: Turn 1-9
+  name_jp: Turn 1-9
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Spawn locked Bomb orbs in the specified positions + Fix orb movement starting
+    point to random position on the board, Deal 200% damage
+  desc_jp: Spawn locked Bomb orbs in the specified positions + Fix orb movement starting
+    point to random position on the board, Deal 200% damage
+  max_atk_pct: null
+  name_en: 不和の果実 + アグリィカンペティション
+  name_jp: 不和の果実 + アグリィカンペティション
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 30
+- !SkillRecord
+  desc_en: Spawn random 4 Jammer, Poison orbs + Bind 3 subs for 2 turns, Deal 190%
+    damage
+  desc_jp: Spawn random 4 Jammer, Poison orbs + Bind 3 subs for 2 turns, Deal 190%
+    damage
+  max_atk_pct: null
+  name_en: ニューマラスインシネレート + クルーエルディスピュート
+  name_jp: ニューマラスインシネレート + クルーエルディスピュート
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 30
+- !SkillRecord
+  desc_en: Deal 120% damage (3 hits, 40% each) + Delay active skills by 2 turns, Deal
+    100% damage
+  desc_jp: Deal 120% damage (3 hits, 40% each) + Delay active skills by 2 turns, Deal
+    100% damage
+  max_atk_pct: null
+  name_en: ヘイトリッドラッシュ + ホールドアグラッジ
+  name_jp: ヘイトリッドラッシュ + ホールドアグラッジ
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 30
+- !SkillRecord
+  desc_en: Deal 1000% damage (5 hits, 200% each)
+  desc_jp: Deal 1000% damage (5 hits, 200% each)
+  max_atk_pct: 1000
+  name_en: レイジイラプション
+  name_jp: レイジイラプション
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  desc_jp: ''
+  max_atk_pct: null
+  name_en: HP < 80
+  name_jp: HP < 80
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  desc_jp: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  name_jp: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: unknown + Absorb combo <= 6 damage for 5 turns
+  desc_jp: unknown + Absorb combo <= 6 damage for 5 turns
+  max_atk_pct: null
+  name_en: 錯乱の惹起 + 軋轢の合戦
+  name_jp: 錯乱の惹起 + 軋轢の合戦
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  desc_jp: ''
+  max_atk_pct: null
+  name_en: Turn 2-10
+  name_jp: Turn 2-10
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Spawn locked Bomb orbs in the specified positions + Fix orb movement starting
+    point to random position on the board, Deal 100% damage
+  desc_jp: Spawn locked Bomb orbs in the specified positions + Fix orb movement starting
+    point to random position on the board, Deal 100% damage
+  max_atk_pct: null
+  name_en: 不和の果実 + アグリィカンペティション
+  name_jp: 不和の果実 + アグリィカンペティション
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 30
+- !SkillRecord
+  desc_en: Spawn random 4 Jammer, Poison orbs + Bind 3 subs for 2 turns, Deal 95%
+    damage
+  desc_jp: Spawn random 4 Jammer, Poison orbs + Bind 3 subs for 2 turns, Deal 95%
+    damage
+  max_atk_pct: null
+  name_en: ニューマラスインシネレート + クルーエルディスピュート
+  name_jp: ニューマラスインシネレート + クルーエルディスピュート
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 30
+- !SkillRecord
+  desc_en: Deal 60% damage (3 hits, 20% each) + Delay active skills by 2 turns, Deal
+    50% damage
+  desc_jp: Deal 60% damage (3 hits, 20% each) + Delay active skills by 2 turns, Deal
+    50% damage
+  max_atk_pct: null
+  name_en: ヘイトリッドラッシュ + ホールドアグラッジ
+  name_jp: ヘイトリッドラッシュ + ホールドアグラッジ
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 30
+- !SkillRecord
+  desc_en: ''
+  desc_jp: ''
+  max_atk_pct: null
+  name_en: HP < 70
+  name_jp: HP < 70
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  desc_jp: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  name_jp: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: unknown + Player -99% HP
+  desc_jp: unknown + Player -99% HP
+  max_atk_pct: null
+  name_en: 錯乱の惹起 + 絶えぬ火種
+  name_jp: 錯乱の惹起 + 絶えぬ火種
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  desc_jp: ''
+  max_atk_pct: null
+  name_en: Turn 2
+  name_jp: Turn 2
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Blind random 10 orbs for 1 turns
+  desc_jp: Blind random 10 orbs for 1 turns
+  max_atk_pct: null
+  name_en: 光を奪う陰り
+  name_jp: 光を奪う陰り
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  desc_jp: ''
+  max_atk_pct: null
+  name_en: Turn 4
+  name_jp: Turn 4
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Blind random 10 orbs for 1 turns
+  desc_jp: Blind random 10 orbs for 1 turns
+  max_atk_pct: null
+  name_en: 光を奪う陰り
+  name_jp: 光を奪う陰り
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  desc_jp: ''
+  max_atk_pct: null
+  name_en: Turn 6
+  name_jp: Turn 6
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Blind random 10 orbs for 1 turns
+  desc_jp: Blind random 10 orbs for 1 turns
+  max_atk_pct: null
+  name_en: 光を奪う陰り
+  name_jp: 光を奪う陰り
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  desc_jp: ''
+  max_atk_pct: null
+  name_en: Turn 8
+  name_jp: Turn 8
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Blind random 10 orbs for 1 turns
+  desc_jp: Blind random 10 orbs for 1 turns
+  max_atk_pct: null
+  name_en: 光を奪う陰り
+  name_jp: 光を奪う陰り
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  desc_jp: ''
+  max_atk_pct: null
+  name_en: Turn 10
+  name_jp: Turn 10
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Blind random 10 orbs for 1 turns
+  desc_jp: Blind random 10 orbs for 1 turns
+  max_atk_pct: null
+  name_en: 光を奪う陰り
+  name_jp: 光を奪う陰り
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  desc_jp: ''
+  max_atk_pct: null
+  name_en: HP < 50
+  name_jp: HP < 50
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  desc_jp: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  name_jp: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Reduce damage from all sources by 75% for 99 turns + unknown
+  desc_jp: Reduce damage from all sources by 75% for 99 turns + unknown
+  max_atk_pct: null
+  name_en: 女神の障壁 + 錯乱の惹起
+  name_jp: 女神の障壁 + 錯乱の惹起
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Random 2 orbs change every 1.0s for 2 turns, Deal 130% damage
+  desc_jp: Random 2 orbs change every 1.0s for 2 turns, Deal 130% damage
+  max_atk_pct: 130
+  name_en: 目まぐるしい変化
+  name_jp: 目まぐるしい変化
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 45
+- !SkillRecord
+  desc_en: Spawn locked Bomb orbs in the specified positions + Fix orb movement starting
+    point to random position on the board, Deal 125% damage
+  desc_jp: Spawn locked Bomb orbs in the specified positions + Fix orb movement starting
+    point to random position on the board, Deal 125% damage
+  max_atk_pct: null
+  name_en: 不和の果実 + アグリィカンペティション
+  name_jp: 不和の果実 + アグリィカンペティション
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 15
+- !SkillRecord
+  desc_en: Spawn random 4 Jammer, Poison orbs + Bind 3 subs for 2 turns, Deal 120%
+    damage
+  desc_jp: Spawn random 4 Jammer, Poison orbs + Bind 3 subs for 2 turns, Deal 120%
+    damage
+  max_atk_pct: null
+  name_en: ニューマラスインシネレート + クルーエルディスピュート
+  name_jp: ニューマラスインシネレート + クルーエルディスピュート
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 15
+- !SkillRecord
+  desc_en: Deal 75% damage (3 hits, 25% each) + Delay active skills by 2 turns, Deal
+    55% damage
+  desc_jp: Deal 75% damage (3 hits, 25% each) + Delay active skills by 2 turns, Deal
+    55% damage
+  max_atk_pct: null
+  name_en: ヘイトリッドラッシュ + ホールドアグラッジ
+  name_jp: ヘイトリッドラッシュ + ホールドアグラッジ
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 15
+- !SkillRecord
+  desc_en: ''
+  desc_jp: ''
+  max_atk_pct: null
+  name_en: HP < 15
+  name_jp: HP < 15
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  desc_jp: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  name_jp: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Bind awoken skills for 5 turns + Increase damage to 200% for the next 999
+    turns
+  desc_jp: Bind awoken skills for 5 turns + Increase damage to 200% for the next 999
+    turns
+  max_atk_pct: null
+  name_en: スケアスクリーム + マッドスローター
+  name_jp: スケアスクリーム + マッドスローター
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### Data @ 6
+############################################################
+!SkillRecordListing
+level: 6
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Voids status ailments for 999 turns + Void damage >= 20000000 for 999 turns
+    + unknown (Preemptive)
+  desc_jp: Voids status ailments for 999 turns + Void damage >= 20000000 for 999 turns
+    + unknown (Preemptive)
+  max_atk_pct: null
+  name_en: 不和の侮蔑 + 災炎の神躯 + 錯乱の惹起
+  name_jp: 不和の侮蔑 + 災炎の神躯 + 錯乱の惹起
+  one_time: 0
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  desc_jp: ''
+  max_atk_pct: null
+  name_en: When player has any buff
+  name_jp: When player has any buff
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Voids player buff effects, Deal 200% damage
+  desc_jp: Voids player buff effects, Deal 200% damage
+  max_atk_pct: 200
+  name_en: 神火の息吹
+  name_jp: 神火の息吹
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 10
+- !SkillRecord
+  desc_en: ''
+  desc_jp: ''
+  max_atk_pct: null
+  name_en: HP <= 100
+  name_jp: HP <= 100
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  desc_jp: ''
+  max_atk_pct: null
+  name_en: Turn 1-9
+  name_jp: Turn 1-9
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Spawn locked Bomb orbs in the specified positions + Fix orb movement starting
+    point to random position on the board, Deal 200% damage
+  desc_jp: Spawn locked Bomb orbs in the specified positions + Fix orb movement starting
+    point to random position on the board, Deal 200% damage
+  max_atk_pct: null
+  name_en: 不和の果実 + アグリィカンペティション
+  name_jp: 不和の果実 + アグリィカンペティション
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 30
+- !SkillRecord
+  desc_en: Spawn random 4 Jammer, Poison orbs + Bind 3 subs for 2 turns, Deal 190%
+    damage
+  desc_jp: Spawn random 4 Jammer, Poison orbs + Bind 3 subs for 2 turns, Deal 190%
+    damage
+  max_atk_pct: null
+  name_en: ニューマラスインシネレート + クルーエルディスピュート
+  name_jp: ニューマラスインシネレート + クルーエルディスピュート
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 30
+- !SkillRecord
+  desc_en: Deal 120% damage (3 hits, 40% each) + Delay active skills by 2 turns, Deal
+    100% damage
+  desc_jp: Deal 120% damage (3 hits, 40% each) + Delay active skills by 2 turns, Deal
+    100% damage
+  max_atk_pct: null
+  name_en: ヘイトリッドラッシュ + ホールドアグラッジ
+  name_jp: ヘイトリッドラッシュ + ホールドアグラッジ
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 30
+- !SkillRecord
+  desc_en: Deal 1000% damage (5 hits, 200% each)
+  desc_jp: Deal 1000% damage (5 hits, 200% each)
+  max_atk_pct: 1000
+  name_en: レイジイラプション
+  name_jp: レイジイラプション
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  desc_jp: ''
+  max_atk_pct: null
+  name_en: HP < 80
+  name_jp: HP < 80
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  desc_jp: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  name_jp: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: unknown + Absorb combo <= 6 damage for 10 turns
+  desc_jp: unknown + Absorb combo <= 6 damage for 10 turns
+  max_atk_pct: null
+  name_en: 錯乱の惹起 + 軋轢の合戦
+  name_jp: 錯乱の惹起 + 軋轢の合戦
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  desc_jp: ''
+  max_atk_pct: null
+  name_en: Turn 2-10
+  name_jp: Turn 2-10
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Spawn locked Bomb orbs in the specified positions + Fix orb movement starting
+    point to random position on the board, Deal 100% damage
+  desc_jp: Spawn locked Bomb orbs in the specified positions + Fix orb movement starting
+    point to random position on the board, Deal 100% damage
+  max_atk_pct: null
+  name_en: 不和の果実 + アグリィカンペティション
+  name_jp: 不和の果実 + アグリィカンペティション
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 30
+- !SkillRecord
+  desc_en: Spawn random 4 Jammer, Poison orbs + Bind 3 subs for 2 turns, Deal 95%
+    damage
+  desc_jp: Spawn random 4 Jammer, Poison orbs + Bind 3 subs for 2 turns, Deal 95%
+    damage
+  max_atk_pct: null
+  name_en: ニューマラスインシネレート + クルーエルディスピュート
+  name_jp: ニューマラスインシネレート + クルーエルディスピュート
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 30
+- !SkillRecord
+  desc_en: Deal 60% damage (3 hits, 20% each) + Delay active skills by 2 turns, Deal
+    50% damage
+  desc_jp: Deal 60% damage (3 hits, 20% each) + Delay active skills by 2 turns, Deal
+    50% damage
+  max_atk_pct: null
+  name_en: ヘイトリッドラッシュ + ホールドアグラッジ
+  name_jp: ヘイトリッドラッシュ + ホールドアグラッジ
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 30
+- !SkillRecord
+  desc_en: ''
+  desc_jp: ''
+  max_atk_pct: null
+  name_en: HP < 70
+  name_jp: HP < 70
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  desc_jp: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  name_jp: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: unknown + Player -99% HP
+  desc_jp: unknown + Player -99% HP
+  max_atk_pct: null
+  name_en: 錯乱の惹起 + 絶えぬ火種
+  name_jp: 錯乱の惹起 + 絶えぬ火種
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  desc_jp: ''
+  max_atk_pct: null
+  name_en: Turn 2
+  name_jp: Turn 2
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Blind random 10 orbs for 1 turns
+  desc_jp: Blind random 10 orbs for 1 turns
+  max_atk_pct: null
+  name_en: 光を奪う陰り
+  name_jp: 光を奪う陰り
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  desc_jp: ''
+  max_atk_pct: null
+  name_en: Turn 4
+  name_jp: Turn 4
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Blind random 10 orbs for 1 turns
+  desc_jp: Blind random 10 orbs for 1 turns
+  max_atk_pct: null
+  name_en: 光を奪う陰り
+  name_jp: 光を奪う陰り
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  desc_jp: ''
+  max_atk_pct: null
+  name_en: Turn 6
+  name_jp: Turn 6
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Blind random 10 orbs for 1 turns
+  desc_jp: Blind random 10 orbs for 1 turns
+  max_atk_pct: null
+  name_en: 光を奪う陰り
+  name_jp: 光を奪う陰り
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  desc_jp: ''
+  max_atk_pct: null
+  name_en: Turn 8
+  name_jp: Turn 8
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Blind random 10 orbs for 1 turns
+  desc_jp: Blind random 10 orbs for 1 turns
+  max_atk_pct: null
+  name_en: 光を奪う陰り
+  name_jp: 光を奪う陰り
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  desc_jp: ''
+  max_atk_pct: null
+  name_en: Turn 10
+  name_jp: Turn 10
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Blind random 10 orbs for 1 turns
+  desc_jp: Blind random 10 orbs for 1 turns
+  max_atk_pct: null
+  name_en: 光を奪う陰り
+  name_jp: 光を奪う陰り
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  desc_jp: ''
+  max_atk_pct: null
+  name_en: HP < 50
+  name_jp: HP < 50
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  desc_jp: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  name_jp: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Reduce damage from all sources by 75% for 99 turns + unknown
+  desc_jp: Reduce damage from all sources by 75% for 99 turns + unknown
+  max_atk_pct: null
+  name_en: 女神の障壁 + 錯乱の惹起
+  name_jp: 女神の障壁 + 錯乱の惹起
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Random 2 orbs change every 1.0s for 2 turns, Deal 130% damage
+  desc_jp: Random 2 orbs change every 1.0s for 2 turns, Deal 130% damage
+  max_atk_pct: 130
+  name_en: 目まぐるしい変化
+  name_jp: 目まぐるしい変化
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 45
+- !SkillRecord
+  desc_en: Spawn locked Bomb orbs in the specified positions + Fix orb movement starting
+    point to random position on the board, Deal 125% damage
+  desc_jp: Spawn locked Bomb orbs in the specified positions + Fix orb movement starting
+    point to random position on the board, Deal 125% damage
+  max_atk_pct: null
+  name_en: 不和の果実 + アグリィカンペティション
+  name_jp: 不和の果実 + アグリィカンペティション
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 15
+- !SkillRecord
+  desc_en: Spawn random 4 Jammer, Poison orbs + Bind 3 subs for 2 turns, Deal 120%
+    damage
+  desc_jp: Spawn random 4 Jammer, Poison orbs + Bind 3 subs for 2 turns, Deal 120%
+    damage
+  max_atk_pct: null
+  name_en: ニューマラスインシネレート + クルーエルディスピュート
+  name_jp: ニューマラスインシネレート + クルーエルディスピュート
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 15
+- !SkillRecord
+  desc_en: Deal 75% damage (3 hits, 25% each) + Delay active skills by 2 turns, Deal
+    55% damage
+  desc_jp: Deal 75% damage (3 hits, 25% each) + Delay active skills by 2 turns, Deal
+    55% damage
+  max_atk_pct: null
+  name_en: ヘイトリッドラッシュ + ホールドアグラッジ
+  name_jp: ヘイトリッドラッシュ + ホールドアグラッジ
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 15
+- !SkillRecord
+  desc_en: ''
+  desc_jp: ''
+  max_atk_pct: null
+  name_en: HP < 15
+  name_jp: HP < 15
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  desc_jp: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  name_jp: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Bind awoken skills for 5 turns + Increase damage to 200% for the next 999
+    turns
+  desc_jp: Bind awoken skills for 5 turns + Increase damage to 200% for the next 999
+    turns
+  max_atk_pct: null
+  name_en: スケアスクリーム + マッドスローター
+  name_jp: スケアスクリーム + マッドスローター
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### Unused Actions
+############################################################
+# ESDispel(6:13500) -> 神火の息吹
+# 	Condition: 10% chance (ai:0 rnd:10)
+# Voids player buff effects, Deal 100% damage
+# ESDispel(6:13522) -> 神火の息吹
+# 	Condition: 10% chance (ai:0 rnd:10)
+# Voids player buff effects, Deal 125% damage
+############################################################
+### ES Modifiers
+############################################################
+# [9] 5 - monster size?
+# [52] true - use new AI
+# [53] 1 - starting/max counter
+# [54] 1 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESPreemptive(49:318) -> ESPreemptive
+# Enable preempt if level 1
+# [2] ESBranchFlag(43:10) -> ESBranchFlag
+# Branch on flag & 1, target rnd 6
+# [3] ESFlagOperation(22:12) -> ESFlagOperation
+# flag SET 0b1
+# [4] SkillSet:
+# 	[0] ESStatusShield(20:13481) -> 不和の侮蔑
+# 	Voids status ailments for 999 turns
+# 	[1] ESVoidShield(71:13482) -> 災炎の神躯
+# 	Void damage >= 20000000 for 999 turns
+# 	[2] EnemySkillUnknown(125:13483) -> 錯乱の惹起
+# 	unknown
+# [5] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [6] ESBranchHP(28:18) -> ESBranchHP
+# Branch on hp < 15, target rnd 61
+# [7] ESSetCounter(26:16) -> ESSetCounter
+# counter + 1
+# [8] ESBranchHP(28:18) -> ESBranchHP
+# Branch on hp < 50, target rnd 43
+# [9] ESBranchFlag(43:10) -> ESBranchFlag
+# Branch on flag & 8, target rnd 43
+# [10] ESBranchHP(28:18) -> ESBranchHP
+# Branch on hp < 70, target rnd 32
+# [11] ESBranchFlag(43:10) -> ESBranchFlag
+# Branch on flag & 4, target rnd 32
+# [12] ESBranchHP(28:18) -> ESBranchHP
+# Branch on hp < 80, target rnd 20
+# [13] ESBranchFlag(43:10) -> ESBranchFlag
+# Branch on flag & 2, target rnd 20
+# [14] ESBranchCounter(32:22) -> ESBranchCounter
+# Branch on counter > 10, target rnd 64
+# [15] ESDispel(6:13487) -> 神火の息吹
+# 	Condition: 10% chance (ai:0 rnd:10)
+# Voids player buff effects, Deal 200% damage
+# [16] SkillSet:
+# 	Condition: 30% chance (ai:0 rnd:30)
+# 	[0] ESBombFixedSpawn(103:13488) -> 不和の果実
+# 	Spawn locked Bomb orbs in the specified positions
+# 	[1] ESFixedStart(101:13489) -> アグリィカンペティション
+# 	Fix orb movement starting point to random position on the board, Deal 200% damage
+# [17] SkillSet:
+# 	Condition: 30% chance (ai:0 rnd:30)
+# 	[0] ESRandomSpawn(92:13490) -> ニューマラスインシネレート
+# 	Spawn random 4 Jammer, Poison orbs
+# 	[1] ESBindAttack(63:13491) -> クルーエルディスピュート
+# 	Bind 3 subs for 2 turns, Deal 190% damage
+# [18] SkillSet:
+# 	Condition: 30% chance (ai:0 rnd:30)
+# 	[0] ESAttackMultihit(15:13492) -> ヘイトリッドラッシュ
+# 	Deal 120% damage (3 hits, 40% each)
+# 	[1] ESSkillDelay(89:13493) -> ホールドアグラッジ
+# 	Delay active skills by 2 turns, Deal 100% damage
+# [19] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [20] ESBranchFlag(43:10) -> ESBranchFlag
+# Branch on flag & 2, target rnd 26
+# [21] ESFlagOperation(22:12) -> ESFlagOperation
+# flag SET 0b11
+# [22] ESSetCounter(25:15) -> ESSetCounter
+# counter = 0
+# [23] ESBranchLevel(35:25) -> ESBranchLevel
+# Branch on level > 6, target rnd 25
+# [24] SkillSet:
+# 	[0] EnemySkillUnknown(125:13495) -> 錯乱の惹起
+# 	unknown
+# 	[1] ESAbsorbCombo(67:13534) -> 軋轢の合戦
+# 	Absorb combo <= 6 damage for 5 turns
+# [25] SkillSet:
+# 	[0] EnemySkillUnknown(125:13495) -> 錯乱の惹起
+# 	unknown
+# 	[1] ESAbsorbCombo(67:13496) -> 軋轢の合戦
+# 	Absorb combo <= 6 damage for 10 turns
+# [26] ESBranchCounter(32:22) -> ESBranchCounter
+# Branch on counter > 10, target rnd 64
+# [27] ESDispel(6:13500) -> 神火の息吹
+# 	Condition: 10% chance (ai:0 rnd:10)
+# Voids player buff effects, Deal 100% damage
+# [28] SkillSet:
+# 	Condition: 30% chance (ai:0 rnd:30)
+# 	[0] ESBombFixedSpawn(103:13501) -> 不和の果実
+# 	Spawn locked Bomb orbs in the specified positions
+# 	[1] ESFixedStart(101:13502) -> アグリィカンペティション
+# 	Fix orb movement starting point to random position on the board, Deal 100% damage
+# [29] SkillSet:
+# 	Condition: 30% chance (ai:0 rnd:30)
+# 	[0] ESRandomSpawn(92:13503) -> ニューマラスインシネレート
+# 	Spawn random 4 Jammer, Poison orbs
+# 	[1] ESBindAttack(63:13504) -> クルーエルディスピュート
+# 	Bind 3 subs for 2 turns, Deal 95% damage
+# [30] SkillSet:
+# 	Condition: 30% chance (ai:0 rnd:30)
+# 	[0] ESAttackMultihit(15:13505) -> ヘイトリッドラッシュ
+# 	Deal 60% damage (3 hits, 20% each)
+# 	[1] ESSkillDelay(89:13506) -> ホールドアグラッジ
+# 	Delay active skills by 2 turns, Deal 50% damage
+# [31] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [32] ESBranchFlag(43:10) -> ESBranchFlag
+# Branch on flag & 4, target rnd 36
+# [33] ESFlagOperation(22:12) -> ESFlagOperation
+# flag SET 0b111
+# [34] ESSetCounter(25:15) -> ESSetCounter
+# counter = 0
+# [35] SkillSet:
+# 	[0] EnemySkillUnknown(125:13508) -> 錯乱の惹起
+# 	unknown
+# 	[1] ESGravity(50:13509) -> 絶えぬ火種
+# 	Player -99% HP
+# [36] ESBranchCounter(32:22) -> ESBranchCounter
+# Branch on counter > 10, target rnd 64
+# [37] ESBlindStickyRandom(97:13510) -> 光を奪う陰り
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
+# Blind random 10 orbs for 1 turns
+# [38] ESDispel(6:13500) -> 神火の息吹
+# 	Condition: 10% chance (ai:0 rnd:10)
+# Voids player buff effects, Deal 100% damage
+# [39] SkillSet:
+# 	Condition: 30% chance (ai:0 rnd:30)
+# 	[0] ESBombFixedSpawn(103:13501) -> 不和の果実
+# 	Spawn locked Bomb orbs in the specified positions
+# 	[1] ESFixedStart(101:13502) -> アグリィカンペティション
+# 	Fix orb movement starting point to random position on the board, Deal 100% damage
+# [40] SkillSet:
+# 	Condition: 30% chance (ai:0 rnd:30)
+# 	[0] ESRandomSpawn(92:13503) -> ニューマラスインシネレート
+# 	Spawn random 4 Jammer, Poison orbs
+# 	[1] ESBindAttack(63:13504) -> クルーエルディスピュート
+# 	Bind 3 subs for 2 turns, Deal 95% damage
+# [41] SkillSet:
+# 	Condition: 30% chance (ai:0 rnd:30)
+# 	[0] ESAttackMultihit(15:13505) -> ヘイトリッドラッシュ
+# 	Deal 60% damage (3 hits, 20% each)
+# 	[1] ESSkillDelay(89:13506) -> ホールドアグラッジ
+# 	Delay active skills by 2 turns, Deal 50% damage
+# [42] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [43] ESBranchFlag(43:10) -> ESBranchFlag
+# Branch on flag & 8, target rnd 47
+# [44] ESFlagOperation(22:12) -> ESFlagOperation
+# flag SET 0b1111
+# [45] ESSetCounter(25:15) -> ESSetCounter
+# counter = 0
+# [46] SkillSet:
+# 	[0] ESDamageShield(74:13512) -> 女神の障壁
+# 	Reduce damage from all sources by 75% for 99 turns
+# 	[1] EnemySkillUnknown(125:13513) -> 錯乱の惹起
+# 	unknown
+# [47] ESBranchCounter(32:22) -> ESBranchCounter
+# Branch on counter > 3, target rnd 54
+# [48] ESSpinnersRandom(109:13518) -> 目まぐるしい変化
+# 	Condition: One-time use (ai:0 rnd:45) (one-time: 1)
+# Random 2 orbs change every 1.0s for 2 turns, Deal 130% damage
+# [49] ESDispel(6:13522) -> 神火の息吹
+# 	Condition: 10% chance (ai:0 rnd:10)
+# Voids player buff effects, Deal 125% damage
+# [50] SkillSet:
+# 	Condition: 15% chance (ai:0 rnd:15)
+# 	[0] ESBombFixedSpawn(103:13523) -> 不和の果実
+# 	Spawn locked Bomb orbs in the specified positions
+# 	[1] ESFixedStart(101:13524) -> アグリィカンペティション
+# 	Fix orb movement starting point to random position on the board, Deal 125% damage
+# [51] SkillSet:
+# 	Condition: 15% chance (ai:0 rnd:15)
+# 	[0] ESRandomSpawn(92:13525) -> ニューマラスインシネレート
+# 	Spawn random 4 Jammer, Poison orbs
+# 	[1] ESBindAttack(63:13526) -> クルーエルディスピュート
+# 	Bind 3 subs for 2 turns, Deal 120% damage
+# [52] SkillSet:
+# 	Condition: 15% chance (ai:0 rnd:15)
+# 	[0] ESAttackMultihit(15:13527) -> ヘイトリッドラッシュ
+# 	Deal 75% damage (3 hits, 25% each)
+# 	[1] ESSkillDelay(89:13528) -> ホールドアグラッジ
+# 	Delay active skills by 2 turns, Deal 55% damage
+# [53] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [54] ESSetCounter(25:15) -> ESSetCounter
+# counter = 0
+# [55] EnemySkillUnknown(125:13513) -> 錯乱の惹起
+# unknown
+# [56] EnemySkillUnknown(125:13514) -> 錯乱の惹起
+# unknown
+# [57] EnemySkillUnknown(125:13515) -> 錯乱の惹起
+# unknown
+# [58] EnemySkillUnknown(125:13516) -> 錯乱の惹起
+# unknown
+# [59] EnemySkillUnknown(125:13517) -> 錯乱の惹起
+# unknown
+# [60] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [61] ESBranchFlag(43:10) -> ESBranchFlag
+# Branch on flag & 16, target rnd 64
+# [62] ESFlagOperation(22:12) -> ESFlagOperation
+# flag SET 0b11111
+# [63] SkillSet:
+# 	[0] ESBindAwoken(88:13530) -> スケアスクリーム
+# 	Bind awoken skills for 5 turns
+# 	[1] ESAttackUPRemainingEnemies(17:13531) -> マッドスローター
+# 	Increase damage to 200% for the next 999 turns
+# [64] ESAttackMultihit(15:13532) -> レイジイラプション
+# Deal 1000% damage (5 hits, 200% each)

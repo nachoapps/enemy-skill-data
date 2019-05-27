@@ -1,0 +1,85 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 3602
+monster_name_en: Amenominakanushi
+monster_name_jp: not yet populated
+reviewed_by: unreviewed
+warnings:
+- Found 1 unused actions
+
+############################################################
+### Data @ 1
+############################################################
+!SkillRecordListing
+level: 1
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Change Dark to Water, Deal 90% damage (Preemptive)
+  desc_jp: Change Dark to Water, Deal 90% damage (Preemptive)
+  max_atk_pct: 90
+  name_en: 界繕ノ剣
+  name_jp: 界繕ノ剣
+  one_time: 0
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Change Dark to Water, Deal 90% damage
+  desc_jp: Change Dark to Water, Deal 90% damage
+  max_atk_pct: 90
+  name_en: 界繕ノ剣
+  name_jp: 界繕ノ剣
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  desc_jp: ''
+  max_atk_pct: null
+  name_en: HP < 20
+  name_jp: HP < 20
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Deal 160% damage (2 hits, 80% each)
+  desc_jp: Deal 160% damage (2 hits, 80% each)
+  max_atk_pct: 160
+  name_en: 天怒晃拷
+  name_jp: 天怒晃拷
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### Unused Actions
+############################################################
+# ESAbsorbCombo(67:13420) -> 天道奉上ノ神輿
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
+# Absorb combo <= 11 damage for 1 turns
+############################################################
+### ES Modifiers
+############################################################
+# [9] 5 - monster size?
+# [52] true - use new AI
+# [53] 0 - starting/max counter
+# [54] 0 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESPreemptive(49:318) -> ESPreemptive
+# Enable preempt if level 1
+# [2] ESAbsorbCombo(67:13420) -> 天道奉上ノ神輿
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
+# Absorb combo <= 11 damage for 1 turns
+# [3] ESAttackMultihit(15:13422) -> 天怒晃拷
+# 	Condition: When < 20% hp (ai:100 rnd:0)
+# Deal 160% damage (2 hits, 80% each)
+# [4] ESOrbChangeAttack(48:13421) -> 界繕ノ剣
+# Change Dark to Water, Deal 90% damage
+# [5] ESEndPath(36:26) -> ESEndPath
+# end_turn
