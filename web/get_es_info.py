@@ -30,13 +30,13 @@ def parse_args():
 
 def run_dump(args):
     esd.set_data_dir(args.es_input_dir)
+    monster_id = int(args.monster_id)
 
     db = database.Database('na', args.raw_input_dir)
-    print('loading')
     db.load_database(skip_skills=True, skip_bonus=True, skip_extra=True)
-    card = db.raw_card_by_id(args.monster_id)
+    card = db.raw_card_by_id(monster_id)
 
-    summary = esd.load_summary(args.monster_id)
+    summary = esd.load_summary(monster_id)
     info = yaml.dump(summary.info, default_flow_style=False, allow_unicode=True)
     levels = {}
 
