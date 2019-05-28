@@ -27,6 +27,7 @@ $script = realpath("get_es_info.py");
 
 $cmd = "python3 " . $script
     . " --monster_id=" . $monster_id
+    . " --raw_input_dir=" . $raw_dir
     . " --es_input_dir=" . $es_dir;
 
 $final_cmd = $encoding . ";" . $pypath . ";" . $cmd;
