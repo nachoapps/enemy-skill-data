@@ -23,7 +23,7 @@ $es_dir = $es_home . "/enemy_data";
 
 $encoding = "export PYTHONIOENCODING=utf-8";
 $pypath = "export PYTHONPATH=" . $api_home;
-$script = "print_dungeon.py";
+$script = realpath("get_es_info.py");
 
 $cmd = "python3 " . $script
     . " --monster_id=" . $monster_id
