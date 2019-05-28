@@ -21,15 +21,15 @@ $processed_dir = $data_home . "/processed";
 $es_dir = $es_home . "/enemy_data";
 
 
-$encoding = "export PYTHONIOENCODING=utf-8;"
-$pypath = "export PYTHONPATH=" . $api_home . ";"
+$encoding = "export PYTHONIOENCODING=utf-8";
+$pypath = "export PYTHONPATH=" . $api_home;
 $script = "print_dungeon.py";
 
 $cmd = "python3 " . $script
     . " --monster_id=" . $monster_id
     . " --es_input_dir=" . $es_dir;
 
-$final_cmd = $encoding . $pypath . $cmd;
+$final_cmd = $encoding . ";" . $pypath . ";" . $cmd;
 passthru($final_cmd, $err);
 
 ?>
