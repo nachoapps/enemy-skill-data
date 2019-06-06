@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Enemy Skillset</title>
+    <link rel="stylesheet" type="text/css" href="./es_edit.css">
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/3.13.1/js-yaml.min.js"></script>
+    <script src="./es_edit.js"></script>
+</head>
+
+<body>
+    <div id="enemy_select">
+        <span>Enemy ID: </span>
+        <input type="text" name="enemy_id" id="enemy_id" value="1000">
+        <span>Level: </span>
+        <select id="enemy_level_select"></select>
+        <button id="reload">Reload</button>
+    </div>
+    <div id="status_msg">Loading...</div>
+    <form id="enemy_editor"></form>
+</body>
+
+</html>

@@ -1,0 +1,44 @@
+body *{
+    margin: 0 0;
+    padding: 0 0;
+}
+#enemy_select, #enemy_editor, #status_msg{
+    width: 80vw;
+    min-height: 2em;
+    margin: 0 auto;
+}
+#status_msg{
+    display: none;
+}
+#enemy_select > *{
+    display: block;
+    float: left;
+}
+#enemy_id, #enemy_level_select{
+    width: 25%
+}
+#panel-info{
+    width: 100%
+}
+.panel h2{
+    background-color:silver;
+    padding: 4px;
+}
+.raw{
+    border: solid 1px gray;
+}
+.record{
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    margin: 2px;
+    border: solid 1px gainsboro;
+    cursor: move;
+    background-color: white;
+}
+.record > *{
+    display: block;
+}
+.record-type{
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
