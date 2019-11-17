@@ -5,7 +5,6 @@
 comments: null
 monster_id: 2396
 monster_name_en: Awoken Loki
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -23,7 +22,6 @@ records:
     3 turns (Preemptive)
   max_atk_pct: null
   name_en: Let's take it easy for now, eh? + Sly Prank
-  name_jp: さあ、ゆっくり楽しもうよ + 狡猾な悪戯
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -32,7 +30,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: When afflicted by delay/poison
-  name_jp: When afflicted by delay/poison
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -41,7 +38,6 @@ records:
   desc_jp: Increase damage to 200% for the next 999 turns
   max_atk_pct: null
   name_en: Trickster's Trap
-  name_jp: トリックスターの羂
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -50,7 +46,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -59,7 +54,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -68,7 +62,6 @@ records:
   desc_jp: Jammer, Poison skyfall +8% for 5 turns + Player -98% HP
   max_atk_pct: null
   name_en: Shadow of Jörmungandr! Unleash chaos! + Deathline Rune
-  name_jp: ヨルムンガンドの影よ、混沌を齎せ + 死線のルーン
   one_time: 4
   record_type_name: ACTION
   usage_pct: 100
@@ -77,7 +70,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1-4
-  name_jp: Execute repeatedly. Turn 1-4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -88,7 +80,6 @@ records:
     damage
   max_atk_pct: null
   name_en: Blessings of the Trickster God + Fake Spear Gungnir
-  name_jp: 狡知神の恵み + 贋槍グングニール
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -99,7 +90,6 @@ records:
     100% damage
   max_atk_pct: null
   name_en: Blessings of the Trickster God + Fake Ring Draupnir
-  name_jp: 狡知神の恵み + 贋輪ドラウプニル
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
@@ -110,7 +100,6 @@ records:
     Dark orbs, Deal 100% damage
   max_atk_pct: null
   name_en: Blessings of the Trickster God + Fake Hammer Mjölnir
-  name_jp: 狡知神の恵み + 贋槌ミョルニル
   one_time: 0
   record_type_name: ACTION
   usage_pct: 34
@@ -121,7 +110,6 @@ records:
     100% damage
   max_atk_pct: null
   name_en: Blessings of the Trickster God + Fake Blade Lævateinn
-  name_jp: 狡知神の恵み + 贋剣レーヴァテイン
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -130,7 +118,6 @@ records:
   desc_jp: Spawn random 3 Jammer, Poison orbs + Player -99% HP
   max_atk_pct: null
   name_en: Blessings of the Trickster God + Fake Ship Skidbladnir
-  name_jp: 狡知神の恵み + 贋船スキーズブラズニル
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -139,7 +126,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 5
-  name_jp: Loop to 1 after. Turn 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -148,7 +134,6 @@ records:
   desc_jp: Change all orbs to Jammer, Mortal Poison
   max_atk_pct: null
   name_en: World Serpent's Coil
-  name_jp: 世界蛇の蜷局
   one_time: 4
   record_type_name: ACTION
   usage_pct: 100
@@ -157,7 +142,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 75
-  name_jp: HP < 75
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -166,7 +150,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -175,7 +158,6 @@ records:
   desc_jp: Rcv 50% for 99 turns + Player -99% HP
   max_atk_pct: null
   name_en: Shadow of Hel! Extinguish all life! + Deathland Rune
-  name_jp: ヘルの影よ、命を蝕め + 死地のルーン
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -184,7 +166,6 @@ records:
   desc_jp: Lock all Poison, Mortal Poison orbs, Deal 150% damage
   max_atk_pct: 150
   name_en: Dead Judgment
-  name_jp: デッドジャッジメント
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -195,7 +176,6 @@ records:
     damage
   max_atk_pct: null
   name_en: Blessings of the Trickster God + Fake Spear Gungnir
-  name_jp: 狡知神の恵み + 贋槍グングニール
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -206,7 +186,6 @@ records:
     100% damage
   max_atk_pct: null
   name_en: Blessings of the Trickster God + Fake Ring Draupnir
-  name_jp: 狡知神の恵み + 贋輪ドラウプニル
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
@@ -217,7 +196,6 @@ records:
     Dark orbs, Deal 100% damage
   max_atk_pct: null
   name_en: Blessings of the Trickster God + Fake Hammer Mjölnir
-  name_jp: 狡知神の恵み + 贋槌ミョルニル
   one_time: 0
   record_type_name: ACTION
   usage_pct: 34
@@ -228,7 +206,6 @@ records:
     100% damage
   max_atk_pct: null
   name_en: Blessings of the Trickster God + Fake Blade Lævateinn
-  name_jp: 狡知神の恵み + 贋剣レーヴァテイン
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -237,7 +214,6 @@ records:
   desc_jp: Spawn random 3 Jammer, Poison orbs + Player -99% HP
   max_atk_pct: null
   name_en: Blessings of the Trickster God + Fake Ship Skidbladnir
-  name_jp: 狡知神の恵み + 贋船スキーズブラズニル
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -246,7 +222,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -255,7 +230,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -264,7 +238,6 @@ records:
   desc_jp: 4x2 cloud appear for 10 turns at 1st row, 2nd column + Player -100% HP
   max_atk_pct: null
   name_en: Shadow of Fenrir! Seal the heavens! + Death Rune
-  name_jp: フェンリルの影よ、天を閉ざせ + 死のルーン
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -273,7 +246,6 @@ records:
   desc_jp: Spawn random 1 Dark orbs, Deal 150% damage
   max_atk_pct: 150
   name_en: Chain Crunch
-  name_jp: チェインクランチ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -284,7 +256,6 @@ records:
     damage
   max_atk_pct: null
   name_en: Blessings of the Trickster God + Fake Spear Gungnir
-  name_jp: 狡知神の恵み + 贋槍グングニール
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -295,7 +266,6 @@ records:
     100% damage
   max_atk_pct: null
   name_en: Blessings of the Trickster God + Fake Ring Draupnir
-  name_jp: 狡知神の恵み + 贋輪ドラウプニル
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
@@ -306,7 +276,6 @@ records:
     Dark orbs, Deal 100% damage
   max_atk_pct: null
   name_en: Blessings of the Trickster God + Fake Hammer Mjölnir
-  name_jp: 狡知神の恵み + 贋槌ミョルニル
   one_time: 0
   record_type_name: ACTION
   usage_pct: 34
@@ -317,7 +286,6 @@ records:
     100% damage
   max_atk_pct: null
   name_en: Blessings of the Trickster God + Fake Blade Lævateinn
-  name_jp: 狡知神の恵み + 贋剣レーヴァテイン
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -326,7 +294,6 @@ records:
   desc_jp: Spawn random 3 Jammer, Poison orbs + Player -99% HP
   max_atk_pct: null
   name_en: Blessings of the Trickster God + Fake Ship Skidbladnir
-  name_jp: 狡知神の恵み + 贋船スキーズブラズニル
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -335,7 +302,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
-  name_jp: HP < 20
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -344,7 +310,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -356,7 +321,6 @@ records:
   max_atk_pct: null
   name_en: Hold on! It's not your turn yet! + Oh, fine... I'll let you have your fun
     + Can you erase all the Jammers?
-  name_jp: こら、まだお前の出番じゃないだろう + 仕方ない、少し遊んであげるか + お邪魔ドロップ、全部消せるかな？
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -365,7 +329,6 @@ records:
   desc_jp: Change Jammer to Dark, Deal 1000% damage
   max_atk_pct: 1000
   name_en: Nope, guess not!
-  name_jp: ブッブー、ダメだね
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -374,7 +337,6 @@ records:
   desc_jp: Do nothing + Reduce self HP to 0
   max_atk_pct: null
   name_en: Guess now's as good a time as any + Well then, if you'll excuse me...
-  name_jp: さて、そろそろ頃合いかな + それじゃあお先に失礼するよ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

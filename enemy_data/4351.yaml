@@ -5,7 +5,6 @@
 comments: null
 monster_id: 4351
 monster_name_en: Brainy Student, Ferow
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Reduce damage from all sources by 90% for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: We are rivals!
-  name_jp: 我らが相手だ！
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -39,7 +36,6 @@ records:
   desc_jp: Enemy ally recover 100% hp
   max_atk_pct: null
   name_en: Stand up!
-  name_jp: 立ち上がれ！
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -48,7 +44,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -57,7 +52,6 @@ records:
   desc_jp: Random 1 orbs change every 1.0s for 1 turns, Deal 80% damage
   max_atk_pct: 80
   name_en: Black Drill
-  name_jp: ブラックドリル
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -66,7 +60,6 @@ records:
   desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: Spin Kick
-  name_jp: 回し蹴り
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

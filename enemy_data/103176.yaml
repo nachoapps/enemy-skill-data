@@ -5,7 +5,6 @@
 comments: null
 monster_id: 103176
 monster_name_en: Yamitsukami-no-miko, Kaminue
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -23,7 +22,6 @@ records:
     (Preemptive)
   max_atk_pct: null
   name_en: Ripening of the Land + Second Hand's Limited Time
-  name_jp: 大地の実り + 限られた時の秒針
   one_time: 2
   record_type_name: PREEMPT
   usage_pct: 100
@@ -32,7 +30,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -41,7 +38,6 @@ records:
   desc_jp: Fire skyfall +20% for 1 turns + Lock all Fire orbs, Deal 130% damage
   max_atk_pct: null
   name_en: Landing Ground + Freedom Exploitation
-  name_jp: 降り立つ大地 + 収奪する自由
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -50,7 +46,6 @@ records:
   desc_jp: Water skyfall +20% for 1 turns + Lock all Water orbs, Deal 130% damage
   max_atk_pct: null
   name_en: Landing Ground + Freedom Exploitation
-  name_jp: 降り立つ大地 + 収奪する自由
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -59,7 +54,6 @@ records:
   desc_jp: Wood skyfall +20% for 1 turns + Lock all Wood orbs, Deal 130% damage
   max_atk_pct: null
   name_en: Landing Ground + Freedom Exploitation
-  name_jp: 降り立つ大地 + 収奪する自由
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -68,7 +62,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -77,7 +70,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -86,7 +78,6 @@ records:
   desc_jp: Fire skyfall +20% for 1 turns + Lock all Fire orbs, Deal 130% damage
   max_atk_pct: null
   name_en: Landing Ground + Freedom Exploitation
-  name_jp: 降り立つ大地 + 収奪する自由
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -95,7 +86,6 @@ records:
   desc_jp: Water skyfall +20% for 1 turns + Lock all Water orbs, Deal 130% damage
   max_atk_pct: null
   name_en: Landing Ground + Freedom Exploitation
-  name_jp: 降り立つ大地 + 収奪する自由
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -104,7 +94,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
-  name_jp: Loop to 1 after. Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -113,7 +102,6 @@ records:
   desc_jp: Fire skyfall +20% for 1 turns + Lock all Fire orbs, Deal 130% damage
   max_atk_pct: null
   name_en: Landing Ground + Freedom Exploitation
-  name_jp: 降り立つ大地 + 収奪する自由
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -122,7 +110,6 @@ records:
   desc_jp: Wood skyfall +20% for 1 turns + Lock all Wood orbs, Deal 130% damage
   max_atk_pct: null
   name_en: Landing Ground + Freedom Exploitation
-  name_jp: 降り立つ大地 + 収奪する自由
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -131,7 +118,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -140,7 +126,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -151,7 +136,6 @@ records:
     skyfall +100% for 20 turns
   max_atk_pct: null
   name_en: Settling Down + World-Wrecking Rumble
-  name_jp: 身を固める + 天地鳴動
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -160,7 +144,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -169,7 +152,6 @@ records:
   desc_jp: Fire skyfall +20% for 1 turns + Lock all Fire orbs, Deal 130% damage
   max_atk_pct: null
   name_en: Landing Ground + Freedom Exploitation
-  name_jp: 降り立つ大地 + 収奪する自由
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -178,7 +160,6 @@ records:
   desc_jp: Water skyfall +20% for 1 turns + Lock all Water orbs, Deal 130% damage
   max_atk_pct: null
   name_en: Landing Ground + Freedom Exploitation
-  name_jp: 降り立つ大地 + 収奪する自由
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -187,7 +168,6 @@ records:
   desc_jp: Wood skyfall +20% for 1 turns + Lock all Wood orbs, Deal 130% damage
   max_atk_pct: null
   name_en: Landing Ground + Freedom Exploitation
-  name_jp: 降り立つ大地 + 収奪する自由
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -196,7 +176,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 15
-  name_jp: HP < 15
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -205,7 +184,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -214,7 +192,6 @@ records:
   desc_jp: Bind awoken skills for 1 turns
   max_atk_pct: null
   name_en: Tiger Snake Roar
-  name_jp: 虎蛇咆哮
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -223,7 +200,6 @@ records:
   desc_jp: Deal 600% damage (6 hits, 100% each)
   max_atk_pct: 600
   name_en: Claw & Fang Double Strike
-  name_jp: 爪牙双連撃
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

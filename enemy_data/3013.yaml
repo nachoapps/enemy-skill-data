@@ -5,7 +5,6 @@
 comments: null
 monster_id: 3013
 monster_name_en: Stone Scales Dragon Emperor, Deightros
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Survive attacks with 1 HP when HP > 75%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Reduce damage from all sources by 75% for 3 turns (Preemptive)
   max_atk_pct: null
   name_en: Shell Scales
-  name_jp: シェルスケール
   one_time: 4
   record_type_name: PREEMPT
   usage_pct: 100
@@ -39,7 +36,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -50,7 +46,6 @@ records:
     each)
   max_atk_pct: null
   name_en: Poison Swirl + Cyclone
-  name_jp: ポイズンスワール + サイクロン
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -59,7 +54,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -72,7 +66,6 @@ records:
     Deal 140% damage
   max_atk_pct: null
   name_en: Flash Induction + Sharptooth
-  name_jp: フラッシュインダクション + シャープトゥース
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -81,7 +74,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -90,7 +82,6 @@ records:
   desc_jp: Absorb Wood, Dark damage for 3 turns
   max_atk_pct: null
   name_en: Deep Sea
-  name_jp: ディープシー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -99,7 +90,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
-  name_jp: Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -110,7 +100,6 @@ records:
     each)
   max_atk_pct: null
   name_en: Poison Swirl + Cyclone
-  name_jp: ポイズンスワール + サイクロン
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -119,7 +108,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
-  name_jp: Turn 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -132,7 +120,6 @@ records:
     Deal 140% damage
   max_atk_pct: null
   name_en: Flash Induction + Sharptooth
-  name_jp: フラッシュインダクション + シャープトゥース
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -141,7 +128,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 6
-  name_jp: Loop to 1 after. Turn 6
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -150,7 +136,6 @@ records:
   desc_jp: Reduce damage from all sources by 75% for 3 turns
   max_atk_pct: null
   name_en: Shell Scales
-  name_jp: シェルスケール
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -159,7 +144,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 70
-  name_jp: HP < 70
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -168,7 +152,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -177,7 +160,6 @@ records:
   desc_jp: Movetime -1s for 3 turns + Player -99% HP
   max_atk_pct: null
   name_en: Extreme Cold + Fin Drive
-  name_jp: エクストリームコールド + フィンドライブ
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -186,7 +168,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -195,7 +176,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -206,7 +186,6 @@ records:
     damage
   max_atk_pct: null
   name_en: Bubble Wall + Sun Jail
-  name_jp: バブルウォール + サンジェイル
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -215,7 +194,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 15
-  name_jp: HP < 15
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -224,7 +202,6 @@ records:
   desc_jp: Change all orbs to Poison, Deal 600% damage
   max_atk_pct: 600
   name_en: Myriad Calamity
-  name_jp: ミリアドカラミティ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -233,7 +210,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Enemy is defeated
-  name_jp: Enemy is defeated
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -242,7 +218,6 @@ records:
   desc_jp: Enemy recover 100% hp + Absorb combo <= 7 damage for 999 turns
   max_atk_pct: null
   name_en: Resuscitation + Seastar Rock Scales
-  name_jp: リサシテイション + 星海の岩鱗
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

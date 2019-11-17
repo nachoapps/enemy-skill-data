@@ -5,7 +5,6 @@
 comments: null
 monster_id: 4856
 monster_name_en: Black Swordsman, Kirito
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Absorb combo <= 6 damage for 5 turns + Movetime -3s for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: Ok, who's next? + Ok then. Let's finish it.
-  name_jp: 次は誰かな？ + いいだろう、決着をつけよう
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Deal 120% damage (2 hits, 60% each)
   max_atk_pct: 120
   name_en: Move!
-  name_jp: どけー！！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 34
@@ -39,7 +36,6 @@ records:
   desc_jp: Change 1st column to Water orbs, 6th column to Dark orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Haaaaaaaa!
-  name_jp: せやあああ！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -48,7 +44,6 @@ records:
   desc_jp: Change 1st row to Water orbs, 5th row to Dark orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Haaargh!
-  name_jp: うおおおお～！！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -57,7 +52,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -66,7 +60,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -75,7 +68,6 @@ records:
   desc_jp: Bind awoken skills for 2 turns
   max_atk_pct: null
   name_en: This isn't some in-game duel.
-  name_jp: これはデュエルじゃない…
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -84,7 +76,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
-  name_jp: HP < 20
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -93,7 +84,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -104,7 +94,6 @@ records:
     Heal, Jammer, Poison, Mortal Poison orbs
   max_atk_pct: null
   name_en: Oh, crap! + This will take forever...
-  name_jp: しまった…！ + くっ…このままじゃ…
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -113,7 +102,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
-  name_jp: Loop to 1 after. Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -124,7 +112,6 @@ records:
     25% each)
   max_atk_pct: null
   name_en: Not yet... + Starburst...Stream!
-  name_jp: まだだ…！ + スターバースト…ストリーム！！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

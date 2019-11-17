@@ -5,7 +5,6 @@
 comments: null
 monster_id: 104724
 monster_name_en: Red Sprite
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Deal 100% damage (Preemptive)
   max_atk_pct: 100
   name_en: Strike
-  name_jp: 攻撃
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Change 1st column to Fire orbs
   max_atk_pct: null
   name_en: Heart Rewrite
-  name_jp: リライト・ハート
   one_time: 1
   record_type_name: ACTION
   usage_pct: 10
@@ -39,7 +36,6 @@ records:
   desc_jp: Change 2nd column to Fire orbs
   max_atk_pct: null
   name_en: Heart Rewrite
-  name_jp: リライト・ハート
   one_time: 1
   record_type_name: ACTION
   usage_pct: 10
@@ -48,7 +44,6 @@ records:
   desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: Strike
-  name_jp: 攻撃
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

@@ -5,7 +5,6 @@
 comments: null
 monster_id: 202718
 monster_name_en: Original Goddess, Gaia Dragon
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -23,7 +22,6 @@ records:
     75% for 7 turns + Void damage >= 6000000 for 99 turns (Preemptive)
   max_atk_pct: null
   name_en: Antivirus + Gigantic Body + Energy Calm
-  name_jp: アンチウイルス + ギガンティックボディ + エナジーカーム
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -32,7 +30,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -41,7 +38,6 @@ records:
   desc_jp: Spawn random 3 Jammer orbs
   max_atk_pct: null
   name_en: The huge body started to move
-  name_jp: 巨体が動き始めた
   one_time: 32
   record_type_name: ACTION
   usage_pct: 100
@@ -50,7 +46,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -59,7 +54,6 @@ records:
   desc_jp: Increase damage to 690% for the next attack
   max_atk_pct: null
   name_en: Raising its arm
-  name_jp: 腕を持ち上げた
   one_time: 16
   record_type_name: ACTION
   usage_pct: 100
@@ -68,7 +62,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -77,7 +70,6 @@ records:
   desc_jp: Spawn random 3 Jammer orbs
   max_atk_pct: null
   name_en: Rearranging its posture
-  name_jp: 態勢を立て直している
   one_time: 8
   record_type_name: ACTION
   usage_pct: 100
@@ -86,7 +78,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
-  name_jp: Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -95,7 +86,6 @@ records:
   desc_jp: Increase damage to 690% for the next attack
   max_atk_pct: null
   name_en: Raising its arm again
-  name_jp: 再度腕を持ち上げた
   one_time: 4
   record_type_name: ACTION
   usage_pct: 100
@@ -104,7 +94,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
-  name_jp: Turn 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -113,7 +102,6 @@ records:
   desc_jp: Blind all orbs on the board
   max_atk_pct: null
   name_en: Opening its mouth
-  name_jp: 口を開いた
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -122,7 +110,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6
-  name_jp: Turn 6
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -133,7 +120,6 @@ records:
     damage for 3 turns
   max_atk_pct: null
   name_en: Gaia Beam + Inhale
-  name_jp: ガイアビーム + インヘイル
   one_time: 1
   record_type_name: ACTION
   usage_pct: 20
@@ -144,7 +130,6 @@ records:
     damage for 3 turns
   max_atk_pct: null
   name_en: Gaia Beam + Inhale
-  name_jp: ガイアビーム + インヘイル
   one_time: 1
   record_type_name: ACTION
   usage_pct: 20
@@ -155,7 +140,6 @@ records:
     damage for 3 turns
   max_atk_pct: null
   name_en: Gaia Beam + Inhale
-  name_jp: ガイアビーム + インヘイル
   one_time: 1
   record_type_name: ACTION
   usage_pct: 20
@@ -166,7 +150,6 @@ records:
     damage for 3 turns
   max_atk_pct: null
   name_en: Gaia Beam + Inhale
-  name_jp: ガイアビーム + インヘイル
   one_time: 1
   record_type_name: ACTION
   usage_pct: 20
@@ -177,7 +160,6 @@ records:
     damage for 3 turns
   max_atk_pct: null
   name_en: Gaia Beam + Inhale
-  name_jp: ガイアビーム + インヘイル
   one_time: 1
   record_type_name: ACTION
   usage_pct: 20
@@ -186,7 +168,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -195,7 +176,6 @@ records:
   desc_jp: Delay active skills by 3~5 turns, Deal 260% damage
   max_atk_pct: 260
   name_en: Skill Break
-  name_jp: スキルブレイク
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -204,7 +184,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -213,7 +192,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6
-  name_jp: Turn 6
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -222,7 +200,6 @@ records:
   desc_jp: Player -500% HP
   max_atk_pct: null
   name_en: Grand Ray
-  name_jp: グランドレイ
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -233,7 +210,6 @@ records:
     Poison orbs, Deal 340% damage
   max_atk_pct: 340
   name_en: Hardened Sign
-  name_jp: ハードンサイン
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -242,7 +218,6 @@ records:
   desc_jp: Blind all orbs on the board, Deal 360% damage
   max_atk_pct: 360
   name_en: Earth's Mantle Press
-  name_jp: マントルプレス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -251,7 +226,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
-  name_jp: HP < 30
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -260,7 +234,6 @@ records:
   desc_jp: Enemy recover 10% hp, Deal 420% damage
   max_atk_pct: 420
   name_en: Cell Mending
-  name_jp: セルメンディング
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -269,7 +242,6 @@ records:
   desc_jp: Bind 1 random for 5 turns, Deal 410% damage
   max_atk_pct: 410
   name_en: Great Vine
-  name_jp: グレートバイン
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -278,7 +250,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
-  name_jp: HP < 20
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -287,7 +258,6 @@ records:
   desc_jp: Player -500% HP
   max_atk_pct: null
   name_en: Grand Ray
-  name_jp: グランドレイ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

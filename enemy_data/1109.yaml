@@ -5,7 +5,6 @@
 comments: null
 monster_id: 1109
 monster_name_en: Flame Twin Star Ifrit
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: When HP is full
-  name_jp: When HP is full
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -30,7 +28,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -39,7 +36,6 @@ records:
   desc_jp: Voids status ailments for 999 turns
   max_atk_pct: null
   name_en: It noticed you
-  name_jp: こちらに気付いた
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -48,7 +44,6 @@ records:
   desc_jp: Do nothing
   max_atk_pct: null
   name_en: Gazing in your direction
-  name_jp: じっとこちら見ている
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -57,7 +52,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: When HP is not full
-  name_jp: When HP is not full
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -66,7 +60,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -75,7 +68,6 @@ records:
   desc_jp: Delay active skills by 2 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Ferocious Flames
-  name_jp: 獰猛なる炎
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -84,7 +76,6 @@ records:
   desc_jp: Deal 160% damage
   max_atk_pct: 160
   name_en: Corona Blow
-  name_jp: コロナブロー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -93,7 +84,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -102,7 +92,6 @@ records:
   desc_jp: Spawn random 3 Fire, Dark orbs, Deal 190% damage
   max_atk_pct: 190
   name_en: Magic Dragon Flame
-  name_jp: 魔龍炎
   one_time: 0
   record_type_name: ACTION
   usage_pct: 80
@@ -111,7 +100,6 @@ records:
   desc_jp: Deal 160% damage
   max_atk_pct: 160
   name_en: Corona Blow
-  name_jp: コロナブロー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

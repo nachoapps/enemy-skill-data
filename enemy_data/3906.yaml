@@ -5,7 +5,6 @@
 comments: null
 monster_id: 3906
 monster_name_en: Piercing-Eyed Dragon Monk, Xuanzang
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -23,7 +22,6 @@ records:
     Deal 200% damage (Preemptive)
   max_atk_pct: null
   name_en: Thousand-Word Sutra + Yin-Yang Dragon - Attack Fangs
-  name_jp: 千言経典 + 陰陽龍道・対牙
   one_time: 4
   record_type_name: PREEMPT
   usage_pct: 100
@@ -32,7 +30,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1-2
-  name_jp: Turn 1-2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -43,7 +40,6 @@ records:
     Deal 220% damage
   max_atk_pct: null
   name_en: Elemental Reincarnation + Vicious Khakkhara Thrust
-  name_jp: 五行転生 + 錫杖怒突
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -52,7 +48,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -61,7 +56,6 @@ records:
   desc_jp: Absorb damage >= 10000000 damage for 10 turns
   max_atk_pct: null
   name_en: 3,000 Rising Dragon Talismens
-  name_jp: 龍天符三千
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -70,7 +64,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4-6
-  name_jp: Turn 4-6
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -81,7 +74,6 @@ records:
     Deal 220% damage
   max_atk_pct: null
   name_en: Elemental Reincarnation + Vicious Khakkhara Thrust
-  name_jp: 五行転生 + 錫杖怒突
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -90,7 +82,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 7
-  name_jp: Turn 7
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -101,7 +92,6 @@ records:
     turns
   max_atk_pct: null
   name_en: Instant Purification + Aim for high combos!
-  name_jp: 一刹那無凶 + コンボを重ね、高みを目指すがよい
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -110,7 +100,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -119,7 +108,6 @@ records:
   desc_jp: Change Random 1 to Jammer, Deal 230% damage, (if >=10 combos last turn)
   max_atk_pct: 230
   name_en: Cruelty
-  name_jp: 邪険
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -128,7 +116,6 @@ records:
   desc_jp: Spawn random 3 Heal orbs, Deal 200% damage, (if >=10 combos last turn)
   max_atk_pct: 200
   name_en: Heavenly Palm
-  name_jp: 天掌
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -137,7 +124,6 @@ records:
   desc_jp: Change Random 1 to Jammer, Deal 230% damage, (if >=10 combos last turn)
   max_atk_pct: 230
   name_en: Cruelty
-  name_jp: 邪険
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -146,7 +132,6 @@ records:
   desc_jp: Change Jammer to Light, Deal 1000% damage
   max_atk_pct: 1000
   name_en: Chaos
-  name_jp: 滅法
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -155,7 +140,6 @@ records:
   desc_jp: Deal 280% damage (4 hits, 70% each)
   max_atk_pct: 280
   name_en: The Truth of Suffering
-  name_jp: 苦諦
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

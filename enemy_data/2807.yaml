@@ -5,7 +5,6 @@
 comments: null
 monster_id: 2807
 monster_name_en: Colorful Queen, Hera-Beorc
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -23,7 +22,6 @@ records:
     (Preemptive)
   max_atk_pct: null
   name_en: Photosynthesis + Mystic Viridian Barrier
-  name_jp: 光合成 + 深緑の魔壁
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -32,7 +30,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -41,7 +38,6 @@ records:
   desc_jp: Voids status ailments for 999 turns + Spawn random 10 Jammer orbs
   max_atk_pct: null
   name_en: Don't leave the Jammers♪ + Alluring Moth Scales
-  name_jp: お邪魔ドロップは残しちゃダメですよ♪ + 魅惑の鱗粉
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -50,7 +46,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -59,7 +54,6 @@ records:
   desc_jp: Change all orbs to Wood, Deal 10000% damage
   max_atk_pct: 10000
   name_en: Demon Tree Creation
-  name_jp: 魔樹創造
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -68,7 +62,6 @@ records:
   desc_jp: Spawn random 5 Jammer orbs, Deal 280% damage
   max_atk_pct: 280
   name_en: Dark Tree Thorns
-  name_jp: 冥樹の棘
   one_time: 0
   record_type_name: ACTION
   usage_pct: 80
@@ -77,7 +70,6 @@ records:
   desc_jp: Bind 1 random for 5 turns, Deal 280% damage
   max_atk_pct: 280
   name_en: Restrain
-  name_jp: 縛りつける
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -86,7 +78,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -95,7 +86,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -104,7 +94,6 @@ records:
   desc_jp: Change all orbs to Wood, Deal 10000% damage
   max_atk_pct: 10000
   name_en: Demon Tree Creation
-  name_jp: 魔樹創造
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -115,7 +104,6 @@ records:
     movement starting point to random position on the board
   max_atk_pct: null
   name_en: Hallucination + Start from here♪
-  name_jp: ハルシネイション + ここにき～めた♪
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -124,7 +112,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
-  name_jp: HP < 10
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -133,7 +120,6 @@ records:
   desc_jp: Change all orbs to Wood, Deal 10000% damage
   max_atk_pct: 10000
   name_en: Demon Tree Creation
-  name_jp: 魔樹創造
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -142,7 +128,6 @@ records:
   desc_jp: Deal 12000% damage (6 hits, 2000% each)
   max_atk_pct: 12000
   name_en: Jupiter Origin
-  name_jp: ジュピターオリジン
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

@@ -5,7 +5,6 @@
 comments: null
 monster_id: 923
 monster_name_en: Elemental of True Death, Thanatos
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Reduce damage from Balanced by 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -32,7 +30,6 @@ records:
     orbs + Locked random skyfall +100% for 3 turns (Preemptive)
   max_atk_pct: null
   name_en: Announcement of Fate + End of the Omen
-  name_jp: 運命の告知 + 終の予兆
   one_time: 1
   record_type_name: PREEMPT
   usage_pct: 100
@@ -41,7 +38,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -50,7 +46,6 @@ records:
   desc_jp: Display '3' and skip turn
   max_atk_pct: null
   name_en: Countdown Message
-  name_jp: null
   one_time: 0
   record_type_name: ACTION
   usage_pct: 0
@@ -59,7 +54,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -68,7 +62,6 @@ records:
   desc_jp: Display '2' and skip turn
   max_atk_pct: null
   name_en: Countdown Message
-  name_jp: null
   one_time: 0
   record_type_name: ACTION
   usage_pct: 0
@@ -77,7 +70,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -86,7 +78,6 @@ records:
   desc_jp: Display '1' and skip turn
   max_atk_pct: null
   name_en: Countdown Message
-  name_jp: null
   one_time: 0
   record_type_name: ACTION
   usage_pct: 0
@@ -95,7 +86,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 4
-  name_jp: Loop to 1 after. Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -104,7 +94,6 @@ records:
   desc_jp: Deal 2000% damage (10 hits, 200% each)
   max_atk_pct: 2000
   name_en: Sound of Death
-  name_jp: 死の音
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

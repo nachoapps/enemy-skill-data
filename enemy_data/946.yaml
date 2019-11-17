@@ -5,7 +5,6 @@
 comments: null
 monster_id: 946
 monster_name_en: サーティワン・バステト
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Player recover 100% hp (Preemptive)
   max_atk_pct: null
   name_en: アイス食べる？
-  name_jp: アイス食べる？
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100

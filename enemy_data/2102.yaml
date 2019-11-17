@@ -5,7 +5,6 @@
 comments: null
 monster_id: 2102
 monster_name_en: Cerberus Rider, Jize
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Change Random 2 to Jammer + Void damage >= 1000000 for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: Hell Howl + Earth Circle's Construction
-  name_jp: ヘルハウリング + 地幻陣の構え
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -39,7 +36,6 @@ records:
   desc_jp: Lock all Jammer orbs, Deal 200% damage
   max_atk_pct: 200
   name_en: Fire Full Smash
-  name_jp: フィアフルスマッシュ
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -48,7 +44,6 @@ records:
   desc_jp: Increase damage to 300% for the next attack
   max_atk_pct: null
   name_en: Feeding some meat to Cerberus
-  name_jp: ケルベロスに肉を与えた
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -57,7 +52,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -68,7 +62,6 @@ records:
     25% damage
   max_atk_pct: null
   name_en: Death Smash + Death Bite
-  name_jp: デススマッシュ + デスバイト
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -77,7 +70,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -86,7 +78,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -95,7 +86,6 @@ records:
   desc_jp: Lock all Jammer orbs, Deal 200% damage
   max_atk_pct: 200
   name_en: Fire Full Smash
-  name_jp: フィアフルスマッシュ
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -104,7 +94,6 @@ records:
   desc_jp: Increase damage to 300% for the next attack
   max_atk_pct: null
   name_en: Feeding some meat to Cerberus
-  name_jp: ケルベロスに肉を与えた
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -113,7 +102,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
-  name_jp: HP < 20
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -122,7 +110,6 @@ records:
   desc_jp: Player -70% HP + Deal 150% damage (3 hits, 50% each)
   max_atk_pct: null
   name_en: Bone Crush + Trinity Fang
-  name_jp: ボーンクラッシュ + トリニティファング
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

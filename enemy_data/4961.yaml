@@ -5,7 +5,6 @@
 comments: null
 monster_id: 4961
 monster_name_en: コマじろう
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Absorb combo <= 4 damage for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: もんげーーっ！
-  name_jp: もんげーーっ！
   one_time: 2
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Rcv 50% for 1 turns, Deal 80% damage
   max_atk_pct: 80
   name_en: オラ　負けないズラよ！
-  name_jp: オラ　負けないズラよ！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -39,7 +36,6 @@ records:
   desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: ズラッ！
-  name_jp: ズラッ！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -48,7 +44,6 @@ records:
   desc_jp: Change Random to Light, Deal 95% damage
   max_atk_pct: 95
   name_en: いかずちの術ズラ！
-  name_jp: いかずちの術ズラ！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 34
@@ -57,7 +52,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -66,7 +60,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -75,7 +68,6 @@ records:
   desc_jp: Locked random skyfall +100% for 5 turns
   max_atk_pct: null
   name_en: 手かげん　してほしいズラ～
-  name_jp: 手かげん　してほしいズラ～
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -84,7 +76,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
-  name_jp: HP < 20
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -93,7 +84,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -102,7 +92,6 @@ records:
   desc_jp: Movetime -2s for 5 turns
   max_atk_pct: null
   name_en: 兄ちゃん…　オラがんばるズラ！
-  name_jp: 兄ちゃん…　オラがんばるズラ！
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -111,7 +100,6 @@ records:
   desc_jp: Deal 180% damage (3 hits, 60% each)
   max_atk_pct: 180
   name_en: 風来サンダー
-  name_jp: 風来サンダー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

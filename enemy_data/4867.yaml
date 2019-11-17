@@ -5,7 +5,6 @@
 comments: null
 monster_id: 4867
 monster_name_en: Yuuki
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Do nothing, (if [4858, 4859] on team) (Preemptive)
   max_atk_pct: null
   name_en: Hey, what's up? You next?
-  name_jp: あ、お姉さん、やる？
   one_time: 1
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Do nothing (Preemptive)
   max_atk_pct: null
   name_en: Come on... Draw your sword.
-  name_jp: さあ…剣をとって…
   one_time: 1
   record_type_name: PREEMPT
   usage_pct: 100
@@ -49,7 +46,6 @@ records:
     4859] on team) (Preemptive)
   max_atk_pct: null
   name_en: Hey, what's up? You next?
-  name_jp: あ、お姉さん、やる？
   one_time: 1
   record_type_name: PREEMPT
   usage_pct: 100
@@ -58,7 +54,6 @@ records:
   desc_jp: Fix orb movement starting point to random position on the board (Preemptive)
   max_atk_pct: null
   name_en: Come on... Draw your sword.
-  name_jp: さあ…剣をとって…
   one_time: 1
   record_type_name: PREEMPT
   usage_pct: 100
@@ -67,7 +62,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -76,7 +70,6 @@ records:
   desc_jp: Change Random to Fire, Deal 100% damage
   max_atk_pct: 100
   name_en: Awesome!
-  name_jp: おっけ～！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -85,7 +78,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -94,7 +86,6 @@ records:
   desc_jp: Player -75% HP
   max_atk_pct: null
   name_en: Huaah!
-  name_jp: はあっ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -103,7 +94,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -112,7 +102,6 @@ records:
   desc_jp: Deal 120% damage (3 hits, 40% each)
   max_atk_pct: 120
   name_en: That was an awesome fight!
-  name_jp: うーん、すごくいいね！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -121,7 +110,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
-  name_jp: Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -132,7 +120,6 @@ records:
   name_en: 'These folks know exactly
 
     what I''m talking about.'
-  name_jp: 覚悟はしているハズだよ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -141,7 +128,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -152,7 +138,6 @@ records:
   name_en: 'Sometimes you got to fight
 
     to get your point across.'
-  name_jp: 'ぶつからなきゃ、
 
     伝わらないことだってあるよ'
   one_time: 0

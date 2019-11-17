@@ -5,7 +5,6 @@
 comments: null
 monster_id: 1481
 monster_name_en: 十字架サクヤ
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Do nothing
   max_atk_pct: null
   name_en: ウインクアイ
-  name_jp: ウインクアイ
   one_time: 1
   record_type_name: ACTION
   usage_pct: 50

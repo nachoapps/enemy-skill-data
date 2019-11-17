@@ -5,7 +5,6 @@
 comments: null
 monster_id: 1600
 monster_name_en: Quinton
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Change Dark to Jammer, Deal 80% damage
   max_atk_pct: 80
   name_en: Dark Eating Attack
-  name_jp: 闇喰い攻撃
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
-  name_jp: HP < 30
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -39,7 +36,6 @@ records:
   desc_jp: Deal 200% damage
   max_atk_pct: 200
   name_en: Bugs Bomb
-  name_jp: バグズ・ボム
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

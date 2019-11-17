@@ -5,7 +5,6 @@
 comments: null
 monster_id: 100408
 monster_name_en: Alt. Infernodragon Muspelheim
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Reduce damage from God by 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -32,7 +30,6 @@ records:
     (Preemptive)
   max_atk_pct: null
   name_en: Blaze + Burning Giant
-  name_jp: ブレイズ + 業炎の巨体
   one_time: 2
   record_type_name: PREEMPT
   usage_pct: 100
@@ -41,7 +38,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1-4
-  name_jp: Turn 1-4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -50,7 +46,6 @@ records:
   desc_jp: Spawn random 4 Bomb orbs, Deal 200% damage
   max_atk_pct: 200
   name_en: Explosion Breath
-  name_jp: エクスプロージョンブレス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -59,7 +54,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
-  name_jp: Turn 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -68,7 +62,6 @@ records:
   desc_jp: Rcv 50% for 5 turns
   max_atk_pct: null
   name_en: Scorching Heat
-  name_jp: 焦熱
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -77,7 +70,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -86,7 +78,6 @@ records:
   desc_jp: Spawn random 4 Bomb orbs, Deal 200% damage
   max_atk_pct: 200
   name_en: Explosion Breath
-  name_jp: エクスプロージョンブレス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -95,7 +86,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
-  name_jp: HP < 20
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -104,7 +94,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -113,7 +102,6 @@ records:
   desc_jp: Increase damage to 200% for the next 99 turns
   max_atk_pct: null
   name_en: Flame Up
-  name_jp: フレイムアップ
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100

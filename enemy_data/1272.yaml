@@ -5,7 +5,6 @@
 comments: null
 monster_id: 1272
 monster_name_en: Red Mech General, Elder Jotunn
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Bind active skills for 3 turns (Preemptive)
   max_atk_pct: null
   name_en: Defense System Activated
-  name_jp: 防衛システム起動
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -39,7 +36,6 @@ records:
   desc_jp: Do nothing
   max_atk_pct: null
   name_en: Elimination
-  name_jp: 排除スル
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -48,7 +44,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -57,7 +52,6 @@ records:
   desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: Rocket Punch
-  name_jp: ロケットパンチ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -66,7 +60,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -75,7 +68,6 @@ records:
   desc_jp: Deal 110% damage
   max_atk_pct: 110
   name_en: Rocket Punch
-  name_jp: ロケットパンチ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -84,7 +76,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
-  name_jp: Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -93,7 +84,6 @@ records:
   desc_jp: Do nothing
   max_atk_pct: null
   name_en: Charge
-  name_jp: 突進スル
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -102,7 +92,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -111,7 +100,6 @@ records:
   desc_jp: Deal 600% damage
   max_atk_pct: 600
   name_en: Burn Tackle
-  name_jp: バーンタックル
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

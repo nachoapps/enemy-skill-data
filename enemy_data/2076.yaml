@@ -5,7 +5,6 @@
 comments: null
 monster_id: 2076
 monster_name_en: Awoken Haku
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Reduce damage from Fire, Water, Dark by 30%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Absorb damage >= 500000 damage for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: What did you come here for?
-  name_jp: なにしにきたの？
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -39,7 +36,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -48,7 +44,6 @@ records:
   desc_jp: Change all orbs to Fire, Water, Dark, Deal 100% damage
   max_atk_pct: 100
   name_en: Western Seven-Star Formation
-  name_jp: 西方七星陣
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -57,7 +52,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -66,7 +60,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -75,7 +68,6 @@ records:
   desc_jp: Player -99% HP
   max_atk_pct: null
   name_en: Unbreakable Fangs
-  name_jp: 不割の牙
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -84,7 +76,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
-  name_jp: Loop to 1 after. Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -93,7 +84,6 @@ records:
   desc_jp: Blind orbs in specific positions for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Dark Tiger Claw
-  name_jp: 虎暗爪
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -102,7 +92,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 15
-  name_jp: HP < 15
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -111,7 +100,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -120,7 +108,6 @@ records:
   desc_jp: Change all orbs to Fire, Water, Dark, Deal 100% damage
   max_atk_pct: 100
   name_en: Western Seven-Star Formation
-  name_jp: 西方七星陣
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -129,7 +116,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
-  name_jp: Loop to 1 after. Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -140,7 +126,6 @@ records:
     Deal 300% damage
   max_atk_pct: null
   name_en: I'm sorry... + Byakko Seven-Star Formation
-  name_jp: ごめんね… + 白虎七星陣
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

@@ -5,7 +5,6 @@
 comments: null
 monster_id: 2194
 monster_name_en: Evil Eye CyberBeast, Kakkab
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Absorb Light damage for 10 turns (Preemptive)
   max_atk_pct: null
   name_en: Black Energy Barrier
-  name_jp: ブラックエナジーバリア
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: When afflicted by delay/poison
-  name_jp: When afflicted by delay/poison
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -39,7 +36,6 @@ records:
   desc_jp: Increase damage to 1000% for the next 999 turns
   max_atk_pct: null
   name_en: Shining Eyes
-  name_jp: 目が光った
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -48,7 +44,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -57,7 +52,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -66,7 +60,6 @@ records:
   desc_jp: Do nothing
   max_atk_pct: null
   name_en: Quietly gazes in your direction
-  name_jp: こちらを睨んでいる
   one_time: 256
   record_type_name: ACTION
   usage_pct: 100
@@ -75,7 +68,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -84,7 +76,6 @@ records:
   desc_jp: Do nothing
   max_atk_pct: null
   name_en: Quietly gazes in your direction
-  name_jp: こちらを睨んでいる
   one_time: 128
   record_type_name: ACTION
   usage_pct: 100
@@ -93,7 +84,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -102,7 +92,6 @@ records:
   desc_jp: Do nothing
   max_atk_pct: null
   name_en: Quietly gazes in your direction
-  name_jp: こちらを睨んでいる
   one_time: 64
   record_type_name: ACTION
   usage_pct: 100
@@ -111,7 +100,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
-  name_jp: Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -120,7 +108,6 @@ records:
   desc_jp: Change all orbs to Fire, Water, Wood, Dark, Heal
   max_atk_pct: null
   name_en: Mechanical Wolf Howling
-  name_jp: 機狼の遠吠え
   one_time: 32
   record_type_name: ACTION
   usage_pct: 100
@@ -129,7 +116,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
-  name_jp: Turn 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -138,7 +124,6 @@ records:
   desc_jp: Deal 400% damage (2 hits, 200% each)
   max_atk_pct: 400
   name_en: Ur Flare
-  name_jp: ウルフレア
   one_time: 16
   record_type_name: ACTION
   usage_pct: 100
@@ -147,7 +132,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6
-  name_jp: Turn 6
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -156,7 +140,6 @@ records:
   desc_jp: Do nothing
   max_atk_pct: null
   name_en: Quietly gazes in your direction
-  name_jp: こちらを睨んでいる
   one_time: 8
   record_type_name: ACTION
   usage_pct: 100
@@ -165,7 +148,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 7
-  name_jp: Turn 7
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -174,7 +156,6 @@ records:
   desc_jp: Do nothing
   max_atk_pct: null
   name_en: Quietly gazes in your direction
-  name_jp: こちらを睨んでいる
   one_time: 4
   record_type_name: ACTION
   usage_pct: 100
@@ -183,7 +164,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 8
-  name_jp: Turn 8
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -192,7 +172,6 @@ records:
   desc_jp: Do nothing
   max_atk_pct: null
   name_en: Quietly gazes in your direction
-  name_jp: こちらを睨んでいる
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -201,7 +180,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 9
-  name_jp: Turn 9
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -210,7 +188,6 @@ records:
   desc_jp: Do nothing
   max_atk_pct: null
   name_en: Quietly gazes in your direction
-  name_jp: こちらを睨んでいる
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -219,7 +196,6 @@ records:
   desc_jp: Delay active skills by 2~5 turns, Deal 1200% damage
   max_atk_pct: 1200
   name_en: Dark Railgun
-  name_jp: ダークレールガン
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -228,7 +204,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 5
-  name_jp: HP < 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -237,7 +212,6 @@ records:
   desc_jp: Deal 2500% damage (5 hits, 500% each)
   max_atk_pct: 2500
   name_en: Metal Deadly Fang
-  name_jp: メタルデッドファング
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

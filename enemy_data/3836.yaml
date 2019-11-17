@@ -5,7 +5,6 @@
 comments: null
 monster_id: 3836
 monster_name_en: Water Warchief Dragon, Senshu
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -23,7 +22,6 @@ records:
     (Preemptive)
   max_atk_pct: null
   name_en: Water Orb Eyes + Flowing Hydro Cannon
-  name_jp: 水宝の眼 + 流動水貫砲
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -32,7 +30,6 @@ records:
   desc_jp: Change Wood to Water, Deal 70% damage
   max_atk_pct: 70
   name_en: Gust of Wind
-  name_jp: 風摘み
   one_time: 0
   record_type_name: ACTION
   usage_pct: 70
@@ -41,7 +38,6 @@ records:
   desc_jp: Blind all orbs on the board, Deal 70% damage
   max_atk_pct: 70
   name_en: Silent Sand
-  name_jp: 砂噤み
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -50,7 +46,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -59,7 +54,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -70,7 +64,6 @@ records:
     turns
   max_atk_pct: null
   name_en: Clearwater Reflection + Vitality Pulse
-  name_jp: 水明鏡 + 生命の鼓動
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -79,7 +72,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 40
-  name_jp: HP < 40
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -90,7 +82,6 @@ records:
     hits, 30% each)
   max_atk_pct: null
   name_en: Ripple + Copious Dragon Fangs
-  name_jp: 漣 + 滾々龍牙
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -99,7 +90,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
-  name_jp: HP < 30
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -110,7 +100,6 @@ records:
     hits, 30% each)
   max_atk_pct: null
   name_en: Ripple + Copious Dragon Fangs
-  name_jp: 漣 + 滾々龍牙
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -119,7 +108,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
-  name_jp: HP < 20
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -130,7 +118,6 @@ records:
     hits, 30% each)
   max_atk_pct: null
   name_en: Ripple + Copious Dragon Fangs
-  name_jp: 漣 + 滾々龍牙
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -139,7 +126,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
-  name_jp: HP < 10
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -148,7 +134,6 @@ records:
   desc_jp: Movetime 25% for 1 turns, Deal 250% damage
   max_atk_pct: 250
   name_en: Open Ocean
-  name_jp: 海闢
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

@@ -5,7 +5,6 @@
 comments: null
 monster_id: 2968
 monster_name_en: Illusionless Time Dragonbound, Myr
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Reduce damage from Dark by 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -32,7 +30,6 @@ records:
     (if [2141, 2142, 2143, 2144, 2145, 2146] on team) (Preemptive)
   max_atk_pct: null
   name_en: Did you think that was my real form? + Your Dragon God is waiting for you...
-  name_jp: この姿が本当のわたしだと思う？ + 別の次元で貴方の龍神が待ってるわ
   one_time: 512
   record_type_name: PREEMPT
   usage_pct: 100
@@ -43,7 +40,6 @@ records:
     (Preemptive)
   max_atk_pct: null
   name_en: Did you think that was my real form? + Space-Time Distortion
-  name_jp: この姿が本当のわたしだと思う？ + 時空の歪み
   one_time: 512
   record_type_name: PREEMPT
   usage_pct: 100
@@ -52,7 +48,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -63,7 +58,6 @@ records:
     starting point to random position on the board
   max_atk_pct: null
   name_en: Continuous Border + Time Warp
-  name_jp: 始終境界 + 時檻の抜穴
   one_time: 256
   record_type_name: ACTION
   usage_pct: 100
@@ -72,7 +66,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -81,7 +74,6 @@ records:
   desc_jp: Deal 180% damage (2 hits, 90% each)
   max_atk_pct: 180
   name_en: Hour Hand Strike
-  name_jp: 針撃
   one_time: 128
   record_type_name: ACTION
   usage_pct: 100
@@ -90,7 +82,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -99,7 +90,6 @@ records:
   desc_jp: Bind 2 random subs for 6 turns
   max_atk_pct: null
   name_en: Time Bind
-  name_jp: タイムバインド
   one_time: 64
   record_type_name: ACTION
   usage_pct: 100
@@ -108,7 +98,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
-  name_jp: Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -119,7 +108,6 @@ records:
     starting point to random position on the board
   max_atk_pct: null
   name_en: Continuous Border + Time Warp
-  name_jp: 始終境界 + 時檻の抜穴
   one_time: 32
   record_type_name: ACTION
   usage_pct: 100
@@ -128,7 +116,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
-  name_jp: Turn 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -137,7 +124,6 @@ records:
   desc_jp: Deal 200% damage (2 hits, 100% each)
   max_atk_pct: 200
   name_en: Hour Hand Strike
-  name_jp: 針撃
   one_time: 16
   record_type_name: ACTION
   usage_pct: 100
@@ -146,7 +132,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6
-  name_jp: Turn 6
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -155,7 +140,6 @@ records:
   desc_jp: Enemy recover 50% hp
   max_atk_pct: null
   name_en: Time Leap
-  name_jp: タイムリープ
   one_time: 8
   record_type_name: ACTION
   usage_pct: 100
@@ -164,7 +148,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 7
-  name_jp: Turn 7
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -175,7 +158,6 @@ records:
     starting point to random position on the board
   max_atk_pct: null
   name_en: Continuous Border + Time Warp
-  name_jp: 始終境界 + 時檻の抜穴
   one_time: 4
   record_type_name: ACTION
   usage_pct: 100
@@ -184,7 +166,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 8
-  name_jp: Turn 8
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -193,7 +174,6 @@ records:
   desc_jp: Deal 220% damage (2 hits, 110% each)
   max_atk_pct: 220
   name_en: Hour Hand Strike
-  name_jp: 針撃
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -202,7 +182,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 9
-  name_jp: Turn 9
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -211,7 +190,6 @@ records:
   desc_jp: Movetime -3s for 5 turns
   max_atk_pct: null
   name_en: Time Steal
-  name_jp: タイムスティール
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -220,7 +198,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -229,7 +206,6 @@ records:
   desc_jp: Deal 1000% damage (5 hits, 200% each)
   max_atk_pct: 1000
   name_en: Time Saw
-  name_jp: タイムソー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -238,7 +214,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -247,7 +222,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -258,7 +232,6 @@ records:
     to random position on the board
   max_atk_pct: null
   name_en: Strain + Time Warp
-  name_jp: ストレイン + 時檻の抜穴
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -267,7 +240,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -278,7 +250,6 @@ records:
     starting point to random position on the board
   max_atk_pct: null
   name_en: Continuous Border + Time Warp
-  name_jp: 始終境界 + 時檻の抜穴
   one_time: 256
   record_type_name: ACTION
   usage_pct: 100
@@ -287,7 +258,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -296,7 +266,6 @@ records:
   desc_jp: Deal 180% damage (2 hits, 90% each)
   max_atk_pct: 180
   name_en: Hour Hand Strike
-  name_jp: 針撃
   one_time: 128
   record_type_name: ACTION
   usage_pct: 100
@@ -305,7 +274,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
-  name_jp: Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -314,7 +282,6 @@ records:
   desc_jp: Bind 2 random subs for 6 turns
   max_atk_pct: null
   name_en: Time Bind
-  name_jp: タイムバインド
   one_time: 64
   record_type_name: ACTION
   usage_pct: 100
@@ -323,7 +290,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
-  name_jp: Turn 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -334,7 +300,6 @@ records:
     starting point to random position on the board
   max_atk_pct: null
   name_en: Continuous Border + Time Warp
-  name_jp: 始終境界 + 時檻の抜穴
   one_time: 32
   record_type_name: ACTION
   usage_pct: 100
@@ -343,7 +308,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6
-  name_jp: Turn 6
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -352,7 +316,6 @@ records:
   desc_jp: Deal 200% damage (2 hits, 100% each)
   max_atk_pct: 200
   name_en: Hour Hand Strike
-  name_jp: 針撃
   one_time: 16
   record_type_name: ACTION
   usage_pct: 100
@@ -361,7 +324,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 7
-  name_jp: Turn 7
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -370,7 +332,6 @@ records:
   desc_jp: Enemy recover 50% hp
   max_atk_pct: null
   name_en: Time Leap
-  name_jp: タイムリープ
   one_time: 8
   record_type_name: ACTION
   usage_pct: 100
@@ -379,7 +340,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 8
-  name_jp: Turn 8
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -390,7 +350,6 @@ records:
     starting point to random position on the board
   max_atk_pct: null
   name_en: Continuous Border + Time Warp
-  name_jp: 始終境界 + 時檻の抜穴
   one_time: 4
   record_type_name: ACTION
   usage_pct: 100
@@ -399,7 +358,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 9
-  name_jp: Turn 9
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -408,7 +366,6 @@ records:
   desc_jp: Deal 220% damage (2 hits, 110% each)
   max_atk_pct: 220
   name_en: Hour Hand Strike
-  name_jp: 針撃
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -417,7 +374,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 10
-  name_jp: Turn 10
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -426,7 +382,6 @@ records:
   desc_jp: Movetime -3s for 5 turns
   max_atk_pct: null
   name_en: Time Steal
-  name_jp: タイムスティール
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -435,7 +390,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
-  name_jp: HP < 20
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -444,7 +398,6 @@ records:
   desc_jp: Deal 1000% damage (5 hits, 200% each)
   max_atk_pct: 1000
   name_en: Time Saw
-  name_jp: タイムソー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -461,7 +414,6 @@ records:
   desc_jp: Reduce damage from Dark by 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -472,7 +424,6 @@ records:
     (if [2141, 2142, 2143, 2144, 2145, 2146] on team) (Preemptive)
   max_atk_pct: null
   name_en: Did you think that was my real form? + Your Dragon God is waiting for you...
-  name_jp: この姿が本当のわたしだと思う？ + 別の次元で貴方の龍神が待ってるわ
   one_time: 512
   record_type_name: PREEMPT
   usage_pct: 100
@@ -483,7 +434,6 @@ records:
     (Preemptive)
   max_atk_pct: null
   name_en: Did you think that was my real form? + Space-Time Distortion
-  name_jp: この姿が本当のわたしだと思う？ + 時空の歪み
   one_time: 512
   record_type_name: PREEMPT
   usage_pct: 100
@@ -492,7 +442,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -503,7 +452,6 @@ records:
     starting point to random position on the board
   max_atk_pct: null
   name_en: Continuous Border + Time Warp
-  name_jp: 始終境界 + 時檻の抜穴
   one_time: 256
   record_type_name: ACTION
   usage_pct: 100
@@ -512,7 +460,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -521,7 +468,6 @@ records:
   desc_jp: Deal 180% damage (2 hits, 90% each)
   max_atk_pct: 180
   name_en: Hour Hand Strike
-  name_jp: 針撃
   one_time: 128
   record_type_name: ACTION
   usage_pct: 100
@@ -530,7 +476,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -539,7 +484,6 @@ records:
   desc_jp: Bind 2 random subs for 6 turns
   max_atk_pct: null
   name_en: Time Bind
-  name_jp: タイムバインド
   one_time: 64
   record_type_name: ACTION
   usage_pct: 100
@@ -548,7 +492,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
-  name_jp: Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -559,7 +502,6 @@ records:
     starting point to random position on the board
   max_atk_pct: null
   name_en: Continuous Border + Time Warp
-  name_jp: 始終境界 + 時檻の抜穴
   one_time: 32
   record_type_name: ACTION
   usage_pct: 100
@@ -568,7 +510,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
-  name_jp: Turn 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -577,7 +518,6 @@ records:
   desc_jp: Deal 200% damage (2 hits, 100% each)
   max_atk_pct: 200
   name_en: Hour Hand Strike
-  name_jp: 針撃
   one_time: 16
   record_type_name: ACTION
   usage_pct: 100
@@ -586,7 +526,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6
-  name_jp: Turn 6
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -595,7 +534,6 @@ records:
   desc_jp: Enemy recover 50% hp
   max_atk_pct: null
   name_en: Time Leap
-  name_jp: タイムリープ
   one_time: 8
   record_type_name: ACTION
   usage_pct: 100
@@ -604,7 +542,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 7
-  name_jp: Turn 7
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -615,7 +552,6 @@ records:
     starting point to random position on the board
   max_atk_pct: null
   name_en: Continuous Border + Time Warp
-  name_jp: 始終境界 + 時檻の抜穴
   one_time: 4
   record_type_name: ACTION
   usage_pct: 100
@@ -624,7 +560,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 8
-  name_jp: Turn 8
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -633,7 +568,6 @@ records:
   desc_jp: Deal 220% damage (2 hits, 110% each)
   max_atk_pct: 220
   name_en: Hour Hand Strike
-  name_jp: 針撃
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -642,7 +576,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 9
-  name_jp: Turn 9
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -651,7 +584,6 @@ records:
   desc_jp: Movetime -3s for 5 turns
   max_atk_pct: null
   name_en: Time Steal
-  name_jp: タイムスティール
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -660,7 +592,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -669,7 +600,6 @@ records:
   desc_jp: Deal 1000% damage (5 hits, 200% each)
   max_atk_pct: 1000
   name_en: Time Saw
-  name_jp: タイムソー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -678,7 +608,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -687,7 +616,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -698,7 +626,6 @@ records:
     to random position on the board
   max_atk_pct: null
   name_en: Strain + Time Warp
-  name_jp: ストレイン + 時檻の抜穴
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -707,7 +634,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -718,7 +644,6 @@ records:
     starting point to random position on the board
   max_atk_pct: null
   name_en: Continuous Border + Time Warp
-  name_jp: 始終境界 + 時檻の抜穴
   one_time: 256
   record_type_name: ACTION
   usage_pct: 100
@@ -727,7 +652,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -736,7 +660,6 @@ records:
   desc_jp: Deal 180% damage (2 hits, 90% each)
   max_atk_pct: 180
   name_en: Hour Hand Strike
-  name_jp: 針撃
   one_time: 128
   record_type_name: ACTION
   usage_pct: 100
@@ -745,7 +668,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
-  name_jp: Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -754,7 +676,6 @@ records:
   desc_jp: Bind 2 random subs for 6 turns
   max_atk_pct: null
   name_en: Time Bind
-  name_jp: タイムバインド
   one_time: 64
   record_type_name: ACTION
   usage_pct: 100
@@ -763,7 +684,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
-  name_jp: Turn 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -774,7 +694,6 @@ records:
     starting point to random position on the board
   max_atk_pct: null
   name_en: Continuous Border + Time Warp
-  name_jp: 始終境界 + 時檻の抜穴
   one_time: 32
   record_type_name: ACTION
   usage_pct: 100
@@ -783,7 +702,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6
-  name_jp: Turn 6
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -792,7 +710,6 @@ records:
   desc_jp: Deal 200% damage (2 hits, 100% each)
   max_atk_pct: 200
   name_en: Hour Hand Strike
-  name_jp: 針撃
   one_time: 16
   record_type_name: ACTION
   usage_pct: 100
@@ -801,7 +718,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 7
-  name_jp: Turn 7
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -810,7 +726,6 @@ records:
   desc_jp: Enemy recover 50% hp
   max_atk_pct: null
   name_en: Time Leap
-  name_jp: タイムリープ
   one_time: 8
   record_type_name: ACTION
   usage_pct: 100
@@ -819,7 +734,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 8
-  name_jp: Turn 8
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -830,7 +744,6 @@ records:
     starting point to random position on the board
   max_atk_pct: null
   name_en: Continuous Border + Time Warp
-  name_jp: 始終境界 + 時檻の抜穴
   one_time: 4
   record_type_name: ACTION
   usage_pct: 100
@@ -839,7 +752,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 9
-  name_jp: Turn 9
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -848,7 +760,6 @@ records:
   desc_jp: Deal 220% damage (2 hits, 110% each)
   max_atk_pct: 220
   name_en: Hour Hand Strike
-  name_jp: 針撃
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -857,7 +768,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 10
-  name_jp: Turn 10
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -866,7 +776,6 @@ records:
   desc_jp: Movetime -3s for 5 turns
   max_atk_pct: null
   name_en: Time Steal
-  name_jp: タイムスティール
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -875,7 +784,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
-  name_jp: HP < 20
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -884,7 +792,6 @@ records:
   desc_jp: Deal 1000% damage (5 hits, 200% each)
   max_atk_pct: 1000
   name_en: Time Saw
-  name_jp: タイムソー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

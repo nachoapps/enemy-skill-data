@@ -5,7 +5,6 @@
 comments: null
 monster_id: 1157
 monster_name_en: Pierdra Badtz-Maru
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Change Fire to Jammer, Deal 80% damage
   max_atk_pct: 80
   name_en: Fire Eating Attack
-  name_jp: 火喰い攻撃
   one_time: 1
   record_type_name: ACTION
   usage_pct: 50
@@ -30,7 +28,6 @@ records:
   desc_jp: Change Water to Jammer, Deal 80% damage
   max_atk_pct: 80
   name_en: Water Eating Attack
-  name_jp: 水喰い攻撃
   one_time: 1
   record_type_name: ACTION
   usage_pct: 50
@@ -39,7 +36,6 @@ records:
   desc_jp: Change Wood to Jammer, Deal 80% damage
   max_atk_pct: 80
   name_en: Wood Eating Attack
-  name_jp: 木喰い攻撃
   one_time: 1
   record_type_name: ACTION
   usage_pct: 50
@@ -48,7 +44,6 @@ records:
   desc_jp: Change Light to Jammer, Deal 80% damage
   max_atk_pct: 80
   name_en: Light Eating Attack
-  name_jp: 光喰い攻撃
   one_time: 1
   record_type_name: ACTION
   usage_pct: 50
@@ -57,7 +52,6 @@ records:
   desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: Disable Skill
-  name_jp: 通常攻撃
   one_time: 0
   record_type_name: ACTION
   usage_pct: 200
@@ -66,7 +60,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 25
-  name_jp: HP < 25
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -75,7 +68,6 @@ records:
   desc_jp: Deal 200% damage
   max_atk_pct: 200
   name_en: Buster Horn
-  name_jp: バスターホーン
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -84,7 +76,6 @@ records:
   desc_jp: Change Random to Fire, Deal 75% damage
   max_atk_pct: 75
   name_en: Red Tackle
-  name_jp: レッドタックル
   one_time: 1
   record_type_name: ACTION
   usage_pct: 50
@@ -93,7 +84,6 @@ records:
   desc_jp: Change Random to Water, Deal 75% damage
   max_atk_pct: 75
   name_en: Blue Tackle
-  name_jp: ブルータックル
   one_time: 1
   record_type_name: ACTION
   usage_pct: 50
@@ -102,7 +92,6 @@ records:
   desc_jp: Change Random to Wood, Deal 75% damage
   max_atk_pct: 75
   name_en: Green Tackle
-  name_jp: グリーンタックル
   one_time: 1
   record_type_name: ACTION
   usage_pct: 50
@@ -111,7 +100,6 @@ records:
   desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: Disable Skill
-  name_jp: 通常攻撃
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50

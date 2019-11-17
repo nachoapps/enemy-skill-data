@@ -5,7 +5,6 @@
 comments: null
 monster_id: 3414
 monster_name_en: Green-Horned Demon Princess, Fujin
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings:
 - Found 5 unused actions
@@ -22,7 +21,6 @@ records:
   desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -33,7 +31,6 @@ records:
     150% for the next 99 turns (Preemptive)
   max_atk_pct: null
   name_en: Protection of the Planets + Limit of the Sky
-  name_jp: 大星の加護 + 果ての空
   one_time: 1
   record_type_name: PREEMPT
   usage_pct: 100
@@ -42,7 +39,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1-3
-  name_jp: Turn 1-3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -51,7 +47,6 @@ records:
   desc_jp: Absorb damage >= 30000000 damage for 30 turns
   max_atk_pct: null
   name_en: Preserving Bottle
-  name_jp: 貯蔵する瓶
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -60,7 +55,6 @@ records:
   desc_jp: Fire, Water skyfall +20% for 3 turns
   max_atk_pct: null
   name_en: Waking Sun - Aqua
-  name_jp: サンウェイク・アクア
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -71,7 +65,6 @@ records:
     for 30 turns + Fire, Water skyfall +20% for 3 turns
   max_atk_pct: null
   name_en: Protection of the Stars + Preserving Bottle + Waking Sun - Aqua
-  name_jp: 星々の守り + 貯蔵する瓶 + サンウェイク・アクア
   one_time: 0
   record_type_name: ACTION
   usage_pct: 34
@@ -80,7 +73,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
-  name_jp: Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -89,7 +81,6 @@ records:
   desc_jp: Deal 108% damage (6 hits, 18% each)
   max_atk_pct: 108
   name_en: Mhidofa Uvundukia
-  name_jp: ミドファウブンドゥキア
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -98,7 +89,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -107,7 +97,6 @@ records:
   desc_jp: Absorb damage >= 30000000 damage for 30 turns
   max_atk_pct: null
   name_en: Preserving Bottle
-  name_jp: 貯蔵する瓶
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -116,7 +105,6 @@ records:
   desc_jp: Fire, Water skyfall +20% for 3 turns
   max_atk_pct: null
   name_en: Waking Sun - Aqua
-  name_jp: サンウェイク・アクア
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -127,7 +115,6 @@ records:
     for 30 turns + Fire, Water skyfall +20% for 3 turns
   max_atk_pct: null
   name_en: Protection of the Stars + Preserving Bottle + Waking Sun - Aqua
-  name_jp: 星々の守り + 貯蔵する瓶 + サンウェイク・アクア
   one_time: 0
   record_type_name: ACTION
   usage_pct: 34
@@ -136,7 +123,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -145,7 +131,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -154,7 +139,6 @@ records:
   desc_jp: Spawn random 6 Water orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Sana Azlak
-  name_jp: サナアアズラク
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -163,7 +147,6 @@ records:
   desc_jp: Rcv 50% for 3 turns
   max_atk_pct: null
   name_en: Shifa'a
-  name_jp: シファーア
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -172,7 +155,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
-  name_jp: HP < 10
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -181,7 +163,6 @@ records:
   desc_jp: Column of cloud appear for 1 turns at random location
   max_atk_pct: null
   name_en: Gunpowder Smoke
-  name_jp: 硝煙
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

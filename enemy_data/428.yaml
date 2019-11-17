@@ -5,7 +5,6 @@
 comments: null
 monster_id: 428
 monster_name_en: Kurone, the Feline of the Night
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Absorb combo <= 4 damage for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: Cat Smog
-  name_jp: キャットスモッグ
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Change Light to Dark, Deal 100% damage
   max_atk_pct: 100
   name_en: Mystic Tail
-  name_jp: ミスティックテイル
   one_time: 0
   record_type_name: ACTION
   usage_pct: 80
@@ -39,7 +36,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
-  name_jp: HP < 30
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -48,7 +44,6 @@ records:
   desc_jp: Deal 140%~210% damage (2~3 hits, 70% each)
   max_atk_pct: 210
   name_en: Illusory Cat Claws
-  name_jp: 幻夢の猫爪
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

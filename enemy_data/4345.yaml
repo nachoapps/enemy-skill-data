@@ -5,7 +5,6 @@
 comments: null
 monster_id: 4345
 monster_name_en: Ceramics Club's Goddess, Hestia
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Delay active skills by 1~5 turns + Poison skyfall +15% for 10 turns (Preemptive)
   max_atk_pct: null
   name_en: Don't get too close! + It's dangerous
-  name_jp: そこから近づいちゃだめだよ + 危ないからね
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -41,7 +38,6 @@ records:
     positions for 1 turns, Deal 90% damage
   max_atk_pct: null
   name_en: Check the way I do it + Turning on the potter's wheel!
-  name_jp: それじゃ作るとこ見ててね + ろくろスイッチオン！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -50,7 +46,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -59,7 +54,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -68,7 +62,6 @@ records:
   desc_jp: Blind orbs in specific positions for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Do it like this here
-  name_jp: ここをこうして
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
@@ -77,7 +70,6 @@ records:
   desc_jp: Blind orbs in specific positions for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Do it like this here
-  name_jp: ここをこうして
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
@@ -86,7 +78,6 @@ records:
   desc_jp: Blind orbs in specific positions for 1 turns, Deal 90% damage
   max_atk_pct: 90
   name_en: Do it like this here
-  name_jp: ここをこうして
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
@@ -95,7 +86,6 @@ records:
   desc_jp: Blind orbs in specific positions for 1 turns, Deal 90% damage
   max_atk_pct: 90
   name_en: Do it like this here
-  name_jp: ここをこうして
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
@@ -104,7 +94,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -113,7 +102,6 @@ records:
   desc_jp: Change 3rd row to Wood, Jammer orbs, Deal 110% damage
   max_atk_pct: 110
   name_en: Like this
-  name_jp: こうやって
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -122,7 +110,6 @@ records:
   desc_jp: Bind 1 random for 1 turns, Deal 110% damage
   max_atk_pct: 110
   name_en: Like this
-  name_jp: こうやって
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -131,7 +118,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 3
-  name_jp: Loop to 1 after. Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -140,7 +126,6 @@ records:
   desc_jp: Deal 180% damage (3 hits, 60% each)
   max_atk_pct: 180
   name_en: This way!
-  name_jp: こうだ！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -149,7 +134,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
-  name_jp: HP < 30
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -158,7 +142,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -167,7 +150,6 @@ records:
   desc_jp: Absorb damage >= 8000000 damage for 10 turns
   max_atk_pct: null
   name_en: You are too close!
-  name_jp: ちょっと近寄りすぎ！
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -176,7 +158,6 @@ records:
   desc_jp: Blind orbs in specific positions for 1 turns, Deal 600% damage
   max_atk_pct: 600
   name_en: That's all for today!
-  name_jp: もう今日はおしまい！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

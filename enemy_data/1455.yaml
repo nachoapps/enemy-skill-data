@@ -5,7 +5,6 @@
 comments: null
 monster_id: 1455
 monster_name_en: 黄金聖闘士・水瓶座のカミュ
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -30,7 +28,6 @@ records:
   desc_jp: Do nothing
   max_atk_pct: null
   name_en: 氷の棺をくれてやろう！
-  name_jp: 氷の棺をくれてやろう！
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -39,7 +36,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
-  name_jp: Loop to 1 after. Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -48,7 +44,6 @@ records:
   desc_jp: Bind 1 random for 2 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: フリージングコフィン!!
-  name_jp: フリージングコフィン!!
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -57,7 +52,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -66,7 +60,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -75,7 +68,6 @@ records:
   desc_jp: Do nothing
   max_atk_pct: null
   name_en: この水瓶座のカミュ最大の拳
-  name_jp: この水瓶座のカミュ最大の拳
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -84,7 +76,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
-  name_jp: Loop to 1 after. Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -93,7 +84,6 @@ records:
   desc_jp: Bind 1 random for 4 turns, Deal 150% damage
   max_atk_pct: 150
   name_en: オーロラエクスキューション!!
-  name_jp: オーロラエクスキューション!!
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

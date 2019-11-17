@@ -5,7 +5,6 @@
 comments: null
 monster_id: 969
 monster_name_en: Morigannon
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Change Random to Wood, Deal 75% damage
   max_atk_pct: 75
   name_en: Earth Ball
-  name_jp: アースボール
   one_time: 1
   record_type_name: ACTION
   usage_pct: 70
@@ -30,7 +28,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 75
-  name_jp: HP < 75
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -39,7 +36,6 @@ records:
   desc_jp: Increase damage to 200% for the next attack
   max_atk_pct: null
   name_en: Power Charge
-  name_jp: 力を溜める
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

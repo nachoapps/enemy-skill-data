@@ -5,7 +5,6 @@
 comments: null
 monster_id: 3543
 monster_name_en: Summit Horn Wisedragon, Bacches
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Enemy turn counter change to 2 when HP <= 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Reduce damage from Wood by 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -39,7 +36,6 @@ records:
   desc_jp: Voids status ailments for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: Getting ready to headbutt
-  name_jp: 頭突きの構え
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -48,7 +44,6 @@ records:
   desc_jp: Deal 2400% damage (6 hits, 400% each) + Voids status ailments for 5 turns
   max_atk_pct: null
   name_en: Thunderhorn Destruction + Getting ready to headbutt
-  name_jp: 滅雷角 + 頭突きの構え
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -57,7 +52,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -66,7 +60,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -77,7 +70,6 @@ records:
     positions for 6 turns
   max_atk_pct: null
   name_en: Fortified Cells + Colossal Dragon's Majesty
-  name_jp: 強靭なる細胞 + 巨龍の威厳
   one_time: 8
   record_type_name: ACTION
   usage_pct: 100
@@ -86,7 +78,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -95,7 +86,6 @@ records:
   desc_jp: Deal 600% damage (2 hits, 300% each)
   max_atk_pct: 600
   name_en: Crushing Claw
-  name_jp: クラッシュクロー
   one_time: 4
   record_type_name: ACTION
   usage_pct: 100
@@ -104,7 +94,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -113,7 +102,6 @@ records:
   desc_jp: Deal 600% damage (2 hits, 300% each)
   max_atk_pct: 600
   name_en: Crushing Claw
-  name_jp: クラッシュクロー
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -122,7 +110,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
-  name_jp: Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -133,7 +120,6 @@ records:
     turns
   max_atk_pct: null
   name_en: Traces of the Demon Army + Colossal Dragon's Pressure
-  name_jp: 魔陣跡 + 巨龍の威圧
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -142,7 +128,6 @@ records:
   desc_jp: Deal 870% damage (3 hits, 290% each)
   max_atk_pct: 870
   name_en: Thunderhorn Catastrophe
-  name_jp: 破滅雷電角
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

@@ -5,7 +5,6 @@
 comments: null
 monster_id: 2235
 monster_name_en: Avenging War Deity, Ares
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -32,7 +30,6 @@ records:
     1000% damage (Preemptive)
   max_atk_pct: null
   name_en: War Deity's Ambition + Rapid Scalding
-  name_jp: 戦軍神の覇気 + ラピッドスカード
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -41,7 +38,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -50,7 +46,6 @@ records:
   desc_jp: Bind 4 subs for 1 turns, Deal 900% damage
   max_atk_pct: 900
   name_en: Trembling Lance
-  name_jp: トゥレンブルランス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -61,7 +56,6 @@ records:
     Deal 600% damage
   max_atk_pct: null
   name_en: Cinder Storm + Hidden Ember
-  name_jp: シンダーストーム + ヒドゥンエンバー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -70,7 +64,6 @@ records:
   desc_jp: Change Random 3 to Jammer, Deal 800% damage
   max_atk_pct: 800
   name_en: Wall Burst
-  name_jp: ウォールバースト
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -79,7 +72,6 @@ records:
   desc_jp: Change Jammer to Fire, Deal 3000% damage
   max_atk_pct: 3000
   name_en: Rubble Incineration
-  name_jp: ラブルインシネレート
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -88,7 +80,6 @@ records:
   desc_jp: Lock all Fire, Light orbs, Deal 700% damage
   max_atk_pct: 700
   name_en: Constant Grimness
-  name_jp: コンスタントグリム
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -97,7 +88,6 @@ records:
   desc_jp: Deal 750%~1250% damage (3~5 hits, 250% each)
   max_atk_pct: 1250
   name_en: Thrust Combination
-  name_jp: スラストコンビネーション
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -106,7 +96,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
-  name_jp: Loop to 1 after. Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -117,7 +106,6 @@ records:
     orbs, Deal 1500% damage
   max_atk_pct: null
   name_en: Mars Core + Wall Eruption
-  name_jp: マーズコア + イラプトウォール
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -126,7 +114,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 70
-  name_jp: HP < 70
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -135,7 +122,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -144,7 +130,6 @@ records:
   desc_jp: Bind Water cards for 5 turns
   max_atk_pct: null
   name_en: Revenge Full of Hatred
-  name_jp: 復仇の怨憎
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -153,7 +138,6 @@ records:
   desc_jp: Bind 4 subs for 1 turns, Deal 900% damage
   max_atk_pct: 900
   name_en: Trembling Lance
-  name_jp: トゥレンブルランス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -164,7 +148,6 @@ records:
     Deal 600% damage
   max_atk_pct: null
   name_en: Cinder Storm + Hidden Ember
-  name_jp: シンダーストーム + ヒドゥンエンバー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -173,7 +156,6 @@ records:
   desc_jp: Change Random 3 to Jammer, Deal 800% damage
   max_atk_pct: 800
   name_en: Wall Burst
-  name_jp: ウォールバースト
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -182,7 +164,6 @@ records:
   desc_jp: Change Jammer to Fire, Deal 3000% damage
   max_atk_pct: 3000
   name_en: Rubble Incineration
-  name_jp: ラブルインシネレート
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -191,7 +172,6 @@ records:
   desc_jp: Lock all Fire, Light orbs, Deal 700% damage
   max_atk_pct: 700
   name_en: Constant Grimness
-  name_jp: コンスタントグリム
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -200,7 +180,6 @@ records:
   desc_jp: Deal 750%~1250% damage (3~5 hits, 250% each)
   max_atk_pct: 1250
   name_en: Thrust Combination
-  name_jp: スラストコンビネーション
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -209,7 +188,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -220,7 +198,6 @@ records:
     orbs, Deal 1500% damage
   max_atk_pct: null
   name_en: Mars Core + Wall Eruption
-  name_jp: マーズコア + イラプトウォール
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -229,7 +206,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
-  name_jp: Loop to 1 after. Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -238,7 +214,6 @@ records:
   desc_jp: Bind 4 subs for 1 turns, Deal 900% damage
   max_atk_pct: 900
   name_en: Trembling Lance
-  name_jp: トゥレンブルランス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -249,7 +224,6 @@ records:
     Deal 600% damage
   max_atk_pct: null
   name_en: Cinder Storm + Hidden Ember
-  name_jp: シンダーストーム + ヒドゥンエンバー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -258,7 +232,6 @@ records:
   desc_jp: Change Random 3 to Jammer, Deal 800% damage
   max_atk_pct: 800
   name_en: Wall Burst
-  name_jp: ウォールバースト
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -267,7 +240,6 @@ records:
   desc_jp: Change Jammer to Fire, Deal 3000% damage
   max_atk_pct: 3000
   name_en: Rubble Incineration
-  name_jp: ラブルインシネレート
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -276,7 +248,6 @@ records:
   desc_jp: Lock all Fire, Light orbs, Deal 700% damage
   max_atk_pct: 700
   name_en: Constant Grimness
-  name_jp: コンスタントグリム
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -285,7 +256,6 @@ records:
   desc_jp: Deal 750%~1250% damage (3~5 hits, 250% each)
   max_atk_pct: 1250
   name_en: Thrust Combination
-  name_jp: スラストコンビネーション
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -294,7 +264,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -303,7 +272,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -312,7 +280,6 @@ records:
   desc_jp: Void damage >= 1000000 for 10 turns
   max_atk_pct: null
   name_en: Divine Body's Shining Flames
-  name_jp: 輝炎の神躯
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -321,7 +288,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -330,7 +296,6 @@ records:
   desc_jp: Bind Water cards for 5 turns
   max_atk_pct: null
   name_en: Revenge Full of Hatred
-  name_jp: 復仇の怨憎
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -339,7 +304,6 @@ records:
   desc_jp: Bind 4 subs for 1 turns, Deal 900% damage
   max_atk_pct: 900
   name_en: Trembling Lance
-  name_jp: トゥレンブルランス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -350,7 +314,6 @@ records:
     Deal 600% damage
   max_atk_pct: null
   name_en: Cinder Storm + Hidden Ember
-  name_jp: シンダーストーム + ヒドゥンエンバー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -359,7 +322,6 @@ records:
   desc_jp: Change Random 3 to Jammer, Deal 800% damage
   max_atk_pct: 800
   name_en: Wall Burst
-  name_jp: ウォールバースト
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -368,7 +330,6 @@ records:
   desc_jp: Change Jammer to Fire, Deal 3000% damage
   max_atk_pct: 3000
   name_en: Rubble Incineration
-  name_jp: ラブルインシネレート
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -377,7 +338,6 @@ records:
   desc_jp: Lock all Fire, Light orbs, Deal 700% damage
   max_atk_pct: 700
   name_en: Constant Grimness
-  name_jp: コンスタントグリム
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -386,7 +346,6 @@ records:
   desc_jp: Deal 750%~1250% damage (3~5 hits, 250% each)
   max_atk_pct: 1250
   name_en: Thrust Combination
-  name_jp: スラストコンビネーション
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -395,7 +354,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
-  name_jp: HP < 10
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -404,7 +362,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -413,7 +370,6 @@ records:
   desc_jp: Enemy recover 40% hp + Void damage >= 1000000 for 10 turns
   max_atk_pct: null
   name_en: Blazing Spirit + Divine Body's Shining Flames
-  name_jp: ブレイジングスピリット + 輝炎の神躯
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -424,7 +380,6 @@ records:
     1500% damage
   max_atk_pct: null
   name_en: Blazing Spirit + Wall Eruption
-  name_jp: ブレイジングスピリット + イラプトウォール
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

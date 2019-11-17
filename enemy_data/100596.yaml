@@ -5,7 +5,6 @@
 comments: null
 monster_id: 100596
 monster_name_en: Alt. Hera-Is
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Bind 5 random cards for 1~2 turns + Bind active skills for 3 turns (Preemptive)
   max_atk_pct: null
   name_en: Ice Coffin + Ice Kiss
-  name_jp: アイスコフィン + 氷のくちづけ
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Spawn random 1 Poison orbs, Deal 80% damage
   max_atk_pct: 80
   name_en: Cooling Poison
-  name_jp: クールポイズン
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -39,7 +36,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 75
-  name_jp: HP < 75
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -48,7 +44,6 @@ records:
   desc_jp: Deal 120% damage (2 hits, 60% each)
   max_atk_pct: 120
   name_en: Freeze Blast
-  name_jp: フリーズブラスト
   one_time: 0
   record_type_name: ACTION
   usage_pct: 80
@@ -57,7 +52,6 @@ records:
   desc_jp: Spawn random 1 Poison orbs, Deal 80% damage
   max_atk_pct: 80
   name_en: Cooling Poison
-  name_jp: クールポイズン
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -66,7 +60,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 55
-  name_jp: HP < 55
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -75,7 +68,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -84,7 +76,6 @@ records:
   desc_jp: Change Random 2 to Jammer + Lock all Jammer orbs, Deal 100% damage
   max_atk_pct: null
   name_en: Divine Mischief + Freeze
-  name_jp: 神の悪戯 + 凍結
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -93,7 +84,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
-  name_jp: HP < 30
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -102,7 +92,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -113,7 +102,6 @@ records:
     999 turns
   max_atk_pct: null
   name_en: Crystal Coffin + Serene Wrath
-  name_jp: クリスタルコフィン + 冷静な怒り
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100

@@ -5,7 +5,6 @@
 comments: null
 monster_id: 2602
 monster_name_en: 最高の男・坊屋春道
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Survive attacks with 1 HP when HP > 90%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Reduce damage from Wood by 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -39,7 +36,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
-  name_jp: Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -48,7 +44,6 @@ records:
   desc_jp: Voids status ailments for 999 turns + Bind 1 random cards for 2 turns
   max_atk_pct: null
   name_en: 鏖魔の覇気 + 咆哮
-  name_jp: 鏖魔の覇気 + 咆哮
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -57,7 +52,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -66,7 +60,6 @@ records:
   desc_jp: Deal 1100% damage
   max_atk_pct: 1100
   name_en: 体当たり
-  name_jp: 体当たり
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -75,7 +68,6 @@ records:
   desc_jp: Deal 1000% damage (2 hits, 500% each)
   max_atk_pct: 1000
   name_en: 尻尾振り攻撃
-  name_jp: 尻尾振り攻撃
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -84,7 +76,6 @@ records:
   desc_jp: Spawn random 3 Jammer orbs, Deal 1000% damage
   max_atk_pct: 1000
   name_en: 突進
-  name_jp: 突進
   one_time: 0
   record_type_name: ACTION
   usage_pct: 34
@@ -93,7 +84,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 90
-  name_jp: HP < 90
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -102,7 +92,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
-  name_jp: Turn 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -113,7 +102,6 @@ records:
     by 75% for 1 turns
   max_atk_pct: null
   name_en: 咆哮 + 暴走状態へ移行 + 地中潜り
-  name_jp: 咆哮 + 暴走状態へ移行 + 地中潜り
   one_time: 8
   record_type_name: ACTION
   usage_pct: 100
@@ -122,7 +110,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6
-  name_jp: Turn 6
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -131,7 +118,6 @@ records:
   desc_jp: Deal 1500% damage
   max_atk_pct: 1500
   name_en: 地中からの強急襲
-  name_jp: 地中からの強急襲
   one_time: 4
   record_type_name: ACTION
   usage_pct: 100
@@ -142,7 +128,6 @@ records:
     Deal 1200% damage
   max_atk_pct: null
   name_en: 怒り + 地表角抉り攻撃
-  name_jp: 怒り + 地表角抉り攻撃
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -153,7 +138,6 @@ records:
     Deal 1200% damage
   max_atk_pct: null
   name_en: 怒り + 飛びかかり潜り
-  name_jp: 怒り + 飛びかかり潜り
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -164,7 +148,6 @@ records:
     (2~3 hits, 500% each)
   max_atk_pct: null
   name_en: 怒り + 連続角振り回し
-  name_jp: 怒り + 連続角振り回し
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -173,7 +156,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 70
-  name_jp: HP < 70
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -184,7 +166,6 @@ records:
     Deal 1200% damage
   max_atk_pct: null
   name_en: 怒り + 地表角抉り攻撃
-  name_jp: 怒り + 地表角抉り攻撃
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -195,7 +176,6 @@ records:
     Deal 1200% damage
   max_atk_pct: null
   name_en: 怒り + 飛びかかり潜り
-  name_jp: 怒り + 飛びかかり潜り
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -206,7 +186,6 @@ records:
     (2~3 hits, 500% each)
   max_atk_pct: null
   name_en: 怒り + 連続角振り回し
-  name_jp: 怒り + 連続角振り回し
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -215,7 +194,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 60
-  name_jp: HP < 60
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -226,7 +204,6 @@ records:
     Deal 1200% damage
   max_atk_pct: null
   name_en: 怒り + 地表角抉り攻撃
-  name_jp: 怒り + 地表角抉り攻撃
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -237,7 +214,6 @@ records:
     Deal 1200% damage
   max_atk_pct: null
   name_en: 怒り + 飛びかかり潜り
-  name_jp: 怒り + 飛びかかり潜り
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -248,7 +224,6 @@ records:
     (2~3 hits, 500% each)
   max_atk_pct: null
   name_en: 怒り + 連続角振り回し
-  name_jp: 怒り + 連続角振り回し
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -257,7 +232,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 40
-  name_jp: HP < 40
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -268,7 +242,6 @@ records:
     Deal 1200% damage
   max_atk_pct: null
   name_en: 怒り + 地表角抉り攻撃
-  name_jp: 怒り + 地表角抉り攻撃
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -279,7 +252,6 @@ records:
     Deal 1200% damage
   max_atk_pct: null
   name_en: 怒り + 飛びかかり潜り
-  name_jp: 怒り + 飛びかかり潜り
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -290,7 +262,6 @@ records:
     (2~3 hits, 500% each)
   max_atk_pct: null
   name_en: 怒り + 連続角振り回し
-  name_jp: 怒り + 連続角振り回し
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -299,7 +270,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
-  name_jp: HP < 20
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -308,7 +278,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 7
-  name_jp: Turn 7
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -319,7 +288,6 @@ records:
     by 75% for 1 turns
   max_atk_pct: null
   name_en: 咆哮 + 狂暴走状態へ移行 + 地中潜り
-  name_jp: 咆哮 + 狂暴走状態へ移行 + 地中潜り
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -328,7 +296,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 8
-  name_jp: Turn 8
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -339,7 +306,6 @@ records:
     damage
   max_atk_pct: null
   name_en: 地中からの強急襲 + 狂暴走急降下攻撃 + 狂暴走水蒸気爆発
-  name_jp: 地中からの強急襲 + 狂暴走急降下攻撃 + 狂暴走水蒸気爆発
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -350,7 +316,6 @@ records:
     12000% damage
   max_atk_pct: null
   name_en: 狂暴走3連突進 + 狂暴走水蒸気爆発
-  name_jp: 狂暴走3連突進 + 狂暴走水蒸気爆発
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -359,7 +324,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Enemy is defeated
-  name_jp: Enemy is defeated
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -368,7 +332,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
-  name_jp: Turn 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -379,7 +342,6 @@ records:
     all sources by 75% for 1 turns
   max_atk_pct: null
   name_en: 咆哮 + 暴走状態へ移行 + 地中潜り
-  name_jp: 咆哮 + 暴走状態へ移行 + 地中潜り
   one_time: 8
   record_type_name: ACTION
   usage_pct: 100
@@ -396,7 +358,6 @@ records:
   desc_jp: Survive attacks with 1 HP when HP > 90%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -405,7 +366,6 @@ records:
   desc_jp: Reduce damage from Wood by 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -414,7 +374,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1-3
-  name_jp: Turn 1-3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -423,7 +382,6 @@ records:
   desc_jp: Blind orbs in specific positions for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: ドットパンチ
-  name_jp: ドットパンチ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 17
@@ -432,7 +390,6 @@ records:
   desc_jp: Blind orbs in specific positions for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: ドットパンチ
-  name_jp: ドットパンチ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 17
@@ -441,7 +398,6 @@ records:
   desc_jp: Blind orbs in specific positions for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: ドットパンチ
-  name_jp: ドットパンチ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 17
@@ -450,7 +406,6 @@ records:
   desc_jp: Blind orbs in specific positions for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: ドットパンチ
-  name_jp: ドットパンチ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 17
@@ -459,7 +414,6 @@ records:
   desc_jp: Blind orbs in specific positions for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: ドットパンチ
-  name_jp: ドットパンチ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 16
@@ -468,7 +422,6 @@ records:
   desc_jp: Blind orbs in specific positions for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: ドットパンチ
-  name_jp: ドットパンチ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 16
@@ -477,7 +430,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
-  name_jp: Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -486,7 +438,6 @@ records:
   desc_jp: Voids status ailments for 999 turns + Bind 1 random cards for 2 turns
   max_atk_pct: null
   name_en: 鏖魔の覇気 + 咆哮
-  name_jp: 鏖魔の覇気 + 咆哮
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -495,7 +446,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -504,7 +454,6 @@ records:
   desc_jp: Deal 1100% damage
   max_atk_pct: 1100
   name_en: 体当たり
-  name_jp: 体当たり
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -513,7 +462,6 @@ records:
   desc_jp: Deal 1000% damage (2 hits, 500% each)
   max_atk_pct: 1000
   name_en: 尻尾振り攻撃
-  name_jp: 尻尾振り攻撃
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -522,7 +470,6 @@ records:
   desc_jp: Spawn random 3 Jammer orbs, Deal 1000% damage
   max_atk_pct: 1000
   name_en: 突進
-  name_jp: 突進
   one_time: 0
   record_type_name: ACTION
   usage_pct: 34
@@ -531,7 +478,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 90
-  name_jp: HP < 90
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -540,7 +486,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
-  name_jp: Turn 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -551,7 +496,6 @@ records:
     by 75% for 1 turns
   max_atk_pct: null
   name_en: 咆哮 + 暴走状態へ移行 + 地中潜り
-  name_jp: 咆哮 + 暴走状態へ移行 + 地中潜り
   one_time: 8
   record_type_name: ACTION
   usage_pct: 100
@@ -560,7 +504,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6
-  name_jp: Turn 6
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -569,7 +512,6 @@ records:
   desc_jp: Deal 1500% damage
   max_atk_pct: 1500
   name_en: 地中からの強急襲
-  name_jp: 地中からの強急襲
   one_time: 4
   record_type_name: ACTION
   usage_pct: 100
@@ -580,7 +522,6 @@ records:
     Deal 1200% damage
   max_atk_pct: null
   name_en: 怒り + 地表角抉り攻撃
-  name_jp: 怒り + 地表角抉り攻撃
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -591,7 +532,6 @@ records:
     Deal 1200% damage
   max_atk_pct: null
   name_en: 怒り + 飛びかかり潜り
-  name_jp: 怒り + 飛びかかり潜り
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -602,7 +542,6 @@ records:
     (2~3 hits, 500% each)
   max_atk_pct: null
   name_en: 怒り + 連続角振り回し
-  name_jp: 怒り + 連続角振り回し
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -611,7 +550,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 70
-  name_jp: HP < 70
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -622,7 +560,6 @@ records:
     Deal 1200% damage
   max_atk_pct: null
   name_en: 怒り + 地表角抉り攻撃
-  name_jp: 怒り + 地表角抉り攻撃
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -633,7 +570,6 @@ records:
     Deal 1200% damage
   max_atk_pct: null
   name_en: 怒り + 飛びかかり潜り
-  name_jp: 怒り + 飛びかかり潜り
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -644,7 +580,6 @@ records:
     (2~3 hits, 500% each)
   max_atk_pct: null
   name_en: 怒り + 連続角振り回し
-  name_jp: 怒り + 連続角振り回し
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -653,7 +588,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 60
-  name_jp: HP < 60
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -664,7 +598,6 @@ records:
     Deal 1200% damage
   max_atk_pct: null
   name_en: 怒り + 地表角抉り攻撃
-  name_jp: 怒り + 地表角抉り攻撃
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -675,7 +608,6 @@ records:
     Deal 1200% damage
   max_atk_pct: null
   name_en: 怒り + 飛びかかり潜り
-  name_jp: 怒り + 飛びかかり潜り
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -686,7 +618,6 @@ records:
     (2~3 hits, 500% each)
   max_atk_pct: null
   name_en: 怒り + 連続角振り回し
-  name_jp: 怒り + 連続角振り回し
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -695,7 +626,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 40
-  name_jp: HP < 40
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -706,7 +636,6 @@ records:
     Deal 1200% damage
   max_atk_pct: null
   name_en: 怒り + 地表角抉り攻撃
-  name_jp: 怒り + 地表角抉り攻撃
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -717,7 +646,6 @@ records:
     Deal 1200% damage
   max_atk_pct: null
   name_en: 怒り + 飛びかかり潜り
-  name_jp: 怒り + 飛びかかり潜り
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -728,7 +656,6 @@ records:
     (2~3 hits, 500% each)
   max_atk_pct: null
   name_en: 怒り + 連続角振り回し
-  name_jp: 怒り + 連続角振り回し
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -737,7 +664,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
-  name_jp: HP < 20
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -746,7 +672,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 7
-  name_jp: Turn 7
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -757,7 +682,6 @@ records:
     by 75% for 1 turns
   max_atk_pct: null
   name_en: 咆哮 + 狂暴走状態へ移行 + 地中潜り
-  name_jp: 咆哮 + 狂暴走状態へ移行 + 地中潜り
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -766,7 +690,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 8
-  name_jp: Turn 8
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -777,7 +700,6 @@ records:
     damage
   max_atk_pct: null
   name_en: 地中からの強急襲 + 狂暴走急降下攻撃 + 狂暴走水蒸気爆発
-  name_jp: 地中からの強急襲 + 狂暴走急降下攻撃 + 狂暴走水蒸気爆発
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -788,7 +710,6 @@ records:
     12000% damage
   max_atk_pct: null
   name_en: 狂暴走3連突進 + 狂暴走水蒸気爆発
-  name_jp: 狂暴走3連突進 + 狂暴走水蒸気爆発
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -797,7 +718,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Enemy is defeated
-  name_jp: Enemy is defeated
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -806,7 +726,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
-  name_jp: Turn 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -817,7 +736,6 @@ records:
     all sources by 75% for 1 turns
   max_atk_pct: null
   name_en: 咆哮 + 暴走状態へ移行 + 地中潜り
-  name_jp: 咆哮 + 暴走状態へ移行 + 地中潜り
   one_time: 8
   record_type_name: ACTION
   usage_pct: 100

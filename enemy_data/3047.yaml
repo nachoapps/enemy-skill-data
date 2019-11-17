@@ -5,7 +5,6 @@
 comments: null
 monster_id: 3047
 monster_name_en: Juppongatana "Sword Hunter", Sawagejo Cho
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Wood skyfall +20% for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: A fair fight, huh?
-  name_jp: 正々堂々と勝負や
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -39,7 +36,6 @@ records:
   desc_jp: Bind active skills for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Gotcha!
-  name_jp: もろうた！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -48,7 +44,6 @@ records:
   desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: Gotcha!
-  name_jp: もろうた！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -57,7 +52,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 70
-  name_jp: HP < 70
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -66,7 +60,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -77,7 +70,6 @@ records:
   name_en: 'They call me "Sword Hunter" Cho.
 
     Now see my true skill.'
-  name_jp: 十本刀”刀狩”の張 こっからが真骨頂や
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -88,7 +80,6 @@ records:
     Poison orbs, Deal 125% damage
   max_atk_pct: 125
   name_en: '"Hakujin" - The Thin One'
-  name_jp: 殺人奇剣「薄刃乃太刀」
   one_time: 0
   record_type_name: ACTION
   usage_pct: 70
@@ -97,7 +88,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 40
-  name_jp: HP < 40
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -106,7 +96,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -117,7 +106,6 @@ records:
     Poison orbs, Deal 125% damage
   max_atk_pct: 125
   name_en: '"Orochi" Pose. Take this.'
-  name_jp: 我流「大蛇」 受けてみい
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -128,7 +116,6 @@ records:
     Poison orbs, Deal 150% damage
   max_atk_pct: 150
   name_en: '"Orochi" Pose'
-  name_jp: 我流「大蛇」
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -137,7 +124,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
-  name_jp: HP < 20
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -146,7 +132,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -155,7 +140,6 @@ records:
   desc_jp: Increase damage to 200% for the next 999 turns
   max_atk_pct: null
   name_en: You're all... annoying!!
-  name_jp: ごっつ ムカツくわ！！
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100

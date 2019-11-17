@@ -5,7 +5,6 @@
 comments: null
 monster_id: 3903
 monster_name_en: Devil Star Divine Queen, Hera-Nyx
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -33,7 +31,6 @@ records:
   max_atk_pct: null
   name_en: Here at last... Shall we begin? + Demon Star Crest + See how you handle
     my fist!!
-  name_jp: 来たね…始めようか！ + 魔星の紋章 + いくよ、私の拳 受けてみて！！
   one_time: 32
   record_type_name: PREEMPT
   usage_pct: 100
@@ -42,7 +39,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -51,7 +47,6 @@ records:
   desc_jp: Do nothing + Player -99% HP + Blind all orbs on the board, Deal 100% damage
   max_atk_pct: null
   name_en: Splendid♪ Not over yet though... + Graviton Fist + High Kick
-  name_jp: お見事♪でもまだまだ… + グラビトンフィスト + ハイキック
   one_time: 16
   record_type_name: ACTION
   usage_pct: 100
@@ -60,7 +55,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -69,7 +63,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -78,7 +71,6 @@ records:
   desc_jp: Deal 330% damage (3 hits, 110% each)
   max_atk_pct: 330
   name_en: Spin Kick
-  name_jp: スピンキック
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -87,7 +79,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -96,7 +87,6 @@ records:
   desc_jp: Delay active skills by 3 turns, Deal 280% damage
   max_atk_pct: 280
   name_en: Body Blow
-  name_jp: ボディブロー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -105,7 +95,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -114,7 +103,6 @@ records:
   desc_jp: Deal 400% damage (5 hits, 80% each)
   max_atk_pct: 400
   name_en: Combo Rush
-  name_jp: コンボラッシュ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -123,7 +111,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 4
-  name_jp: Loop to 1 after. Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -132,7 +119,6 @@ records:
   desc_jp: Specific orbs change every 1.0s for 1 turns, Deal 300% damage
   max_atk_pct: 300
   name_en: Axe Kick
-  name_jp: アックスキック
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -141,7 +127,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -150,7 +135,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -159,7 +143,6 @@ records:
   desc_jp: Absorb combo <= 7 damage for 999 turns + Movetime -1s for 10 turns
   max_atk_pct: null
   name_en: I'll have to get serious soon + Hurry up!!
-  name_jp: そろそろ本気でいかなきゃだね + もっと…速くっ！！
   one_time: 8
   record_type_name: ACTION
   usage_pct: 100
@@ -168,7 +151,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -177,7 +159,6 @@ records:
   desc_jp: Blind random 6 orbs for 2 turns, Deal 350% damage
   max_atk_pct: 350
   name_en: Black Screw Blow
-  name_jp: ブラックスクリューブロー
   one_time: 4
   record_type_name: ACTION
   usage_pct: 100
@@ -186,7 +167,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
-  name_jp: Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -195,7 +175,6 @@ records:
   desc_jp: Deal 480% damage (6 hits, 80% each)
   max_atk_pct: 480
   name_en: Full Spin Kick
-  name_jp: フルスピンキック
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -204,7 +183,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
-  name_jp: Turn 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -213,7 +191,6 @@ records:
   desc_jp: Deal 700% damage
   max_atk_pct: 700
   name_en: Hell Shot Punch
-  name_jp: ヘルショットパンチ
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -222,7 +199,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
-  name_jp: HP < 10
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -231,7 +207,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -242,7 +217,6 @@ records:
     (10 hits, 6000% each)
   max_atk_pct: null
   name_en: It was fun, but let's end this + This is my full power!!!
-  name_jp: 楽しかったよ、でも もうお終い + これが私の、全身全霊！！！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -251,7 +225,6 @@ records:
   desc_jp: Deal 50000% damage (10 hits, 5000% each)
   max_atk_pct: 50000
   name_en: Whirling Magical Power
-  name_jp: 渦巻く魔力
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -260,7 +233,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Enemy is defeated
-  name_jp: Enemy is defeated
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -269,7 +241,6 @@ records:
   desc_jp: Enemy recover 100% hp + Increase damage to 150% for the next 999 turns
   max_atk_pct: null
   name_en: Demon Star's Radiance + I won't let it happen!
-  name_jp: 魔星の輝き + そうはさせないよ！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

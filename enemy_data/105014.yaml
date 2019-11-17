@@ -5,7 +5,6 @@
 comments: null
 monster_id: 105014
 monster_name_en: Servant, Lancer
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Seal 5th row for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: Hey... Was that your handiwork?
-  name_jp: なあ…あれはテメェの仕業か？
   one_time: 2
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -39,7 +36,6 @@ records:
   desc_jp: Bind 2 random subs for 3 turns, Deal 90% damage
   max_atk_pct: 90
   name_en: I'm not letting you get away.
-  name_jp: 逃がさねぇよ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -48,7 +44,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -59,7 +54,6 @@ records:
   name_en: 'I''ll have your heart! + Gae Bolg:
 
     Barbed Spear that Pierces with Death'
-  name_jp: その心臓もらい受ける！ + 刺し穿つ死棘の槍
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -68,7 +62,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 50
-  name_jp: HP <= 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -77,7 +70,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -86,7 +78,6 @@ records:
   desc_jp: Absorb combo <= 5 damage for 99 turns
   max_atk_pct: null
   name_en: Protection from Arrows
-  name_jp: 流れ矢の加護
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -95,7 +86,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -104,7 +94,6 @@ records:
   desc_jp: Bind 2 random subs for 3 turns, Deal 90% damage
   max_atk_pct: 90
   name_en: I'm not letting you get away.
-  name_jp: 逃がさねぇよ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -113,7 +102,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 15
-  name_jp: HP < 15
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -124,7 +112,6 @@ records:
   name_en: 'It''s a bit far, but I''ll settle it now! + Gae Bolg:
 
     Soaring Spear of Piercing Death'
-  name_jp: ちょい遠いがここで決める！ + 突き穿つ死翔の槍
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

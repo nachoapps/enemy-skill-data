@@ -5,7 +5,6 @@
 comments: null
 monster_id: 2155
 monster_name_en: アクア・サーファー
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: When player has any buff
-  name_jp: When player has any buff
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -30,7 +28,6 @@ records:
   desc_jp: Voids player buff effects
   max_atk_pct: null
   name_en: 波がきてるね～、俺♪
-  name_jp: 波がきてるね～、俺♪
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -39,7 +36,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 80
-  name_jp: HP < 80
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -48,7 +44,6 @@ records:
   desc_jp: Change 2nd, 3rd column to Water orbs, Deal 120% damage
   max_atk_pct: 120
   name_en: アクア・360°
-  name_jp: アクア・360°
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -57,7 +52,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -66,7 +60,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -75,7 +68,6 @@ records:
   desc_jp: Delay active skills by 1 turns
   max_atk_pct: null
   name_en: 神秘のサーフボード
-  name_jp: 神秘のサーフボード
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100

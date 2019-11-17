@@ -5,7 +5,6 @@
 comments: null
 monster_id: 4937
 monster_name_en: シャドームーン
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Voids status ailments for 5 turns, (if [4910] on team) (Preemptive)
   max_atk_pct: null
   name_en: 今度こそ地獄へ送ってやる
-  name_jp: 今度こそ地獄へ送ってやる
   one_time: 2
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Voids status ailments for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: 宣戦布告
-  name_jp: 宣戦布告
   one_time: 2
   record_type_name: PREEMPT
   usage_pct: 100
@@ -39,7 +36,6 @@ records:
   desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: シャドーパンチ
-  name_jp: シャドーパンチ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -48,7 +44,6 @@ records:
   desc_jp: Deal 120% damage
   max_atk_pct: 120
   name_en: シャドーキック
-  name_jp: シャドーキック
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -57,7 +52,6 @@ records:
   desc_jp: Change Random to Wood, Deal 100% damage
   max_atk_pct: 100
   name_en: シャドービーム
-  name_jp: シャドービーム
   one_time: 0
   record_type_name: ACTION
   usage_pct: 34
@@ -66,7 +60,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 75
-  name_jp: HP < 75
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -75,7 +68,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -84,7 +76,6 @@ records:
   desc_jp: Enemy recover 100% hp
   max_atk_pct: null
   name_en: 月の石・キングストーン
-  name_jp: 月の石・キングストーン
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -93,7 +84,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -102,7 +92,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -111,7 +100,6 @@ records:
   desc_jp: Absorb combo <= 4 damage for 5 turns
   max_atk_pct: null
   name_en: 月の石・キングストーン
-  name_jp: 月の石・キングストーン
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -120,7 +108,6 @@ records:
   desc_jp: Player -99% HP
   max_atk_pct: null
   name_en: サタンサーベル
-  name_jp: サタンサーベル
   one_time: 1
   record_type_name: ACTION
   usage_pct: 33
@@ -129,7 +116,6 @@ records:
   desc_jp: Change Random to Dark, Deal 120% damage
   max_atk_pct: 120
   name_en: 破壊光線
-  name_jp: 破壊光線
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -138,7 +124,6 @@ records:
   desc_jp: Spawn random 5 Light orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: 強烈な黄色光弾
-  name_jp: 強烈な黄色光弾
   one_time: 0
   record_type_name: ACTION
   usage_pct: 34
@@ -147,7 +132,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 25
-  name_jp: HP < 25
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -156,7 +140,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -165,7 +148,6 @@ records:
   desc_jp: Increase damage to 150% for the next 5 turns
   max_atk_pct: null
   name_en: 月の石・キングストーン
-  name_jp: 月の石・キングストーン
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

@@ -5,7 +5,6 @@
 comments: null
 monster_id: 1601
 monster_name_en: Vibrant Butterfly Dragon, Swallowtail
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -23,7 +22,6 @@ records:
     for 2 turns (Preemptive)
   max_atk_pct: null
   name_en: Powder Wall of Empty Dances + Powder Wind of Protection
-  name_jp: 空舞粉壁 + 防護粉風
   one_time: 32
   record_type_name: PREEMPT
   usage_pct: 100
@@ -32,7 +30,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1-2
-  name_jp: Turn 1-2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -41,7 +38,6 @@ records:
   desc_jp: Change all orbs to Poison
   max_atk_pct: null
   name_en: Poison Scales
-  name_jp: 毒鱗粉
   one_time: 8
   record_type_name: ACTION
   usage_pct: 100
@@ -50,7 +46,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -59,7 +54,6 @@ records:
   desc_jp: Change all orbs to Poison, Deal 25% damage
   max_atk_pct: 25
   name_en: Poison Scales
-  name_jp: 毒鱗粉
   one_time: 4
   record_type_name: ACTION
   usage_pct: 100
@@ -68,7 +62,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
-  name_jp: Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -77,7 +70,6 @@ records:
   desc_jp: Change all orbs to Poison, Deal 50% damage
   max_atk_pct: 50
   name_en: Poison Scales
-  name_jp: 毒鱗粉
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -86,7 +78,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
-  name_jp: Turn 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -95,7 +86,6 @@ records:
   desc_jp: Change all orbs to Poison, Deal 75% damage
   max_atk_pct: 75
   name_en: Poison Scales
-  name_jp: 毒鱗粉
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -104,7 +94,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -113,7 +102,6 @@ records:
   desc_jp: Change all orbs to Poison, Deal 300% damage
   max_atk_pct: 300
   name_en: Poison Scales
-  name_jp: 毒鱗粉
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

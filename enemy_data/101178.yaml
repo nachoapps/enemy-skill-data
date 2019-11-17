@@ -5,7 +5,6 @@
 comments: null
 monster_id: 101178
 monster_name_en: Red Fairy
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -24,7 +23,6 @@ records:
   max_atk_pct: null
   name_en: Oh? An adventurer, huh? + How nice of you to come! + Keep it up☆ + Well
     then♪
-  name_jp: おや～？冒険者さんですね + よく来ましたねー！ + 頑張って進んでくださいね～☆ + じゃあね～♪
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100

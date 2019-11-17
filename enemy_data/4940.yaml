@@ -5,7 +5,6 @@
 comments: null
 monster_id: 4940
 monster_name_en: 仮面ライダーゲンム ゾンビアクションゲーマー
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Voids status ailments for 999 turns (Preemptive)
   max_atk_pct: null
   name_en: ゲームマスターの私こそが・・・神だ！
-  name_jp: ゲームマスターの私こそが・・・神だ！
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -41,7 +38,6 @@ records:
     turns
   max_atk_pct: null
   name_en: アンチバグスターエリア + デンジャラスブレイカー
-  name_jp: アンチバグスターエリア + デンジャラスブレイカー
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -50,7 +46,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -59,7 +54,6 @@ records:
   desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: リビングデッドシューズα
-  name_jp: リビングデッドシューズα
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -68,7 +62,6 @@ records:
   desc_jp: Spawn random 4 Jammer orbs, Deal 95% damage
   max_atk_pct: 95
   name_en: スパイク攻撃
-  name_jp: スパイク攻撃
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -77,7 +70,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -86,7 +78,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -95,7 +86,6 @@ records:
   desc_jp: Increase damage to 150% for the next 999 turns
   max_atk_pct: null
   name_en: ゲインライザー
-  name_jp: ゲインライザー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -104,7 +94,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
-  name_jp: HP < 20
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -113,7 +102,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -124,7 +112,6 @@ records:
     orbs + Absorb combo <= 6 damage for 10 turns
   max_atk_pct: null
   name_en: レブナントディスチャージャー + ボーンビルドガード
-  name_jp: レブナントディスチャージャー + ボーンビルドガード
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -133,7 +120,6 @@ records:
   desc_jp: Deal 300% damage
   max_atk_pct: 300
   name_en: デンジャラスクリティカルストライク
-  name_jp: デンジャラスクリティカルストライク
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

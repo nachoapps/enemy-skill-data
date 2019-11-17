@@ -5,7 +5,6 @@
 comments: null
 monster_id: 4804
 monster_name_en: Rising Dragon Caller, Omega
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Blind all orbs for 10 turns, (if [4796, 4797] on team) (Preemptive)
   max_atk_pct: null
   name_en: Huh, oh, Suou?!...
-  name_jp: えっ、あれ、スオウ様…！？
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Blind all orbs for 10 turns (Preemptive)
   max_atk_pct: null
   name_en: W-Well, you can't get through!...
-  name_jp: と、通っちゃダメです…！
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -39,7 +36,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -48,7 +44,6 @@ records:
   desc_jp: Poison skyfall +15% for 10 turns + Rcv 50% for 10 turns
   max_atk_pct: null
   name_en: G-Go back! + It's d-d-dangerous!
-  name_jp: か、帰ってください！ + あああぶないですよ！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -57,7 +52,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -66,7 +60,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -75,7 +68,6 @@ records:
   desc_jp: Change Poison to Heal, Deal 150% damage
   max_atk_pct: 150
   name_en: P-Please be patient!
-  name_jp: が、我慢してください！
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -84,7 +76,6 @@ records:
   desc_jp: Spawn random 3 Heal, Mortal Poison orbs
   max_atk_pct: null
   name_en: B-Be careful!
-  name_jp: き、気を付けて下さい…
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -93,7 +84,6 @@ records:
   desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: S-Sorry!
-  name_jp: ご、ごめんなさーい
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -102,7 +92,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
-  name_jp: Loop to 1 after. Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -111,7 +100,6 @@ records:
   desc_jp: Spawn random 3 Heal, Mortal Poison orbs
   max_atk_pct: null
   name_en: B-Be careful!
-  name_jp: き、気を付けて下さい…
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -120,7 +108,6 @@ records:
   desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: S-Sorry!
-  name_jp: ご、ごめんなさーい
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -129,7 +116,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -138,7 +124,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -149,7 +134,6 @@ records:
     damage from all sources by 50% for 99 turns
   max_atk_pct: null
   name_en: Go away! + I hate p-pain...
-  name_jp: 来ないでください！ + い、痛いのはイヤです…
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -158,7 +142,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 25
-  name_jp: HP < 25
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -167,7 +150,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -176,7 +158,6 @@ records:
   desc_jp: Change all orbs to Heal
   max_atk_pct: null
   name_en: Any more of it and...
-  name_jp: これ以上は…
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -185,7 +166,6 @@ records:
   desc_jp: Change all orbs to Mortal Poison, Deal 100% damage
   max_atk_pct: 100
   name_en: Oh stop it already!
-  name_jp: もうやめて下さい！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

@@ -5,7 +5,6 @@
 comments: null
 monster_id: 4092
 monster_name_en: Raging Blue Flame, Iori Yagami
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -23,7 +22,6 @@ records:
     Poison orbs, (if [4076, 4077, 4078] on team) (Preemptive)
   max_atk_pct: null
   name_en: Then let it burn, as it demands.
-  name_jp: なら燃え尽きろ 潔くな……
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -32,7 +30,6 @@ records:
   desc_jp: Lock all Dark orbs, (if [4076, 4077, 4078] on team) (Preemptive)
   max_atk_pct: null
   name_en: Then let it burn, as it demands.
-  name_jp: なら燃え尽きろ 潔くな……
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -41,7 +38,6 @@ records:
   desc_jp: Lock all Dark orbs (Preemptive)
   max_atk_pct: null
   name_en: I will end your pain.
-  name_jp: すぐ楽にしてやる
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -52,7 +48,6 @@ records:
     Poison orbs (Preemptive)
   max_atk_pct: null
   name_en: I will end your pain.
-  name_jp: すぐ楽にしてやる
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -61,7 +56,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -70,7 +64,6 @@ records:
   desc_jp: Leader changes to random sub for 2 turns
   max_atk_pct: null
   name_en: Kuzukaze
-  name_jp: 屑風
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -79,7 +72,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -88,7 +80,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -97,7 +88,6 @@ records:
   desc_jp: Change 5th row to Dark orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: '108 Shiki: Yamibarai'
-  name_jp: 百八式・闇払い
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -106,7 +96,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
-  name_jp: Loop to 1 after. Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -115,7 +104,6 @@ records:
   desc_jp: Deal 105% damage (3 hits, 35% each)
   max_atk_pct: 105
   name_en: '127 Shiki: Aoibana'
-  name_jp: 百弐拾七式・葵花
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -124,7 +112,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
-  name_jp: HP < 20
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -133,7 +120,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -142,7 +128,6 @@ records:
   desc_jp: Bind 1 own leader for 1 turns
   max_atk_pct: null
   name_en: You won't die that easy!
-  name_jp: 楽には死ねんぞ！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -151,7 +136,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
-  name_jp: Loop to 1 after. Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -162,7 +146,6 @@ records:
     Dark orbs, Deal 150% damage
   max_atk_pct: 150
   name_en: 'Ura 108 Shiki: Yasakazuki'
-  name_jp: 裏百八式・八酒杯
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

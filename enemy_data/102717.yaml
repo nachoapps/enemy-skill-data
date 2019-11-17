@@ -5,7 +5,6 @@
 comments: null
 monster_id: 102717
 monster_name_en: Alt. White Rainbow Ark, Noah Dragon
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Reduce damage from Water by 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -32,7 +30,6 @@ records:
     + Absorb Fire, Light damage for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: Ark Scales + Ark's Protecting Hull + Blue Sky Rainbow
-  name_jp: アークスケイル + 聖舶の護壁 + 蒼天の虹
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 17
@@ -43,7 +40,6 @@ records:
     + Absorb Fire, Dark damage for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: Ark Scales + Ark's Protecting Hull + Blue Sky Rainbow
-  name_jp: アークスケイル + 聖舶の護壁 + 蒼天の虹
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 17
@@ -54,7 +50,6 @@ records:
     + Absorb Water, Light damage for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: Ark Scales + Ark's Protecting Hull + Blue Sky Rainbow
-  name_jp: アークスケイル + 聖舶の護壁 + 蒼天の虹
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 17
@@ -65,7 +60,6 @@ records:
     + Absorb Water, Dark damage for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: Ark Scales + Ark's Protecting Hull + Blue Sky Rainbow
-  name_jp: アークスケイル + 聖舶の護壁 + 蒼天の虹
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 17
@@ -76,7 +70,6 @@ records:
     + Absorb Wood, Light damage for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: Ark Scales + Ark's Protecting Hull + Blue Sky Rainbow
-  name_jp: アークスケイル + 聖舶の護壁 + 蒼天の虹
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 16
@@ -87,7 +80,6 @@ records:
     + Absorb Wood, Dark damage for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: Ark Scales + Ark's Protecting Hull + Blue Sky Rainbow
-  name_jp: アークスケイル + 聖舶の護壁 + 蒼天の虹
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 16
@@ -98,7 +90,6 @@ records:
     damage + Bind 1 subs for 1 turns, Deal 50% damage
   max_atk_pct: null
   name_en: Blue Sky Rainbow + Prismatic Thunder + Strand Sacrifice
-  name_jp: 蒼天の虹 + プリズミックサンダー + ストランドサクリファイス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 8
@@ -109,7 +100,6 @@ records:
     damage + Bind 1 subs for 1 turns, Deal 50% damage
   max_atk_pct: null
   name_en: Blue Sky Rainbow + Prismatic Thunder + Strand Sacrifice
-  name_jp: 蒼天の虹 + プリズミックサンダー + ストランドサクリファイス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 8
@@ -120,7 +110,6 @@ records:
     damage + Bind 1 subs for 1 turns, Deal 50% damage
   max_atk_pct: null
   name_en: Blue Sky Rainbow + Prismatic Thunder + Strand Sacrifice
-  name_jp: 蒼天の虹 + プリズミックサンダー + ストランドサクリファイス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 8
@@ -131,7 +120,6 @@ records:
     damage + Bind 1 subs for 1 turns, Deal 50% damage
   max_atk_pct: null
   name_en: Blue Sky Rainbow + Prismatic Thunder + Strand Sacrifice
-  name_jp: 蒼天の虹 + プリズミックサンダー + ストランドサクリファイス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 8
@@ -142,7 +130,6 @@ records:
     damage + Bind 1 subs for 1 turns, Deal 50% damage
   max_atk_pct: null
   name_en: Blue Sky Rainbow + Prismatic Thunder + Strand Sacrifice
-  name_jp: 蒼天の虹 + プリズミックサンダー + ストランドサクリファイス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 9
@@ -153,7 +140,6 @@ records:
     damage + Bind 1 subs for 1 turns, Deal 50% damage
   max_atk_pct: null
   name_en: Blue Sky Rainbow + Prismatic Thunder + Strand Sacrifice
-  name_jp: 蒼天の虹 + プリズミックサンダー + ストランドサクリファイス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 9
@@ -164,7 +150,6 @@ records:
     damage + Bind 1 subs for 1 turns, Deal 50% damage
   max_atk_pct: null
   name_en: Blue Sky Rainbow + Prismatic Thunder + Strand Sacrifice
-  name_jp: 蒼天の虹 + プリズミックサンダー + ストランドサクリファイス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 9
@@ -175,7 +160,6 @@ records:
     damage + Bind 1 subs for 1 turns, Deal 50% damage
   max_atk_pct: null
   name_en: Blue Sky Rainbow + Prismatic Thunder + Strand Sacrifice
-  name_jp: 蒼天の虹 + プリズミックサンダー + ストランドサクリファイス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 9
@@ -186,7 +170,6 @@ records:
     damage + Bind 1 subs for 1 turns, Deal 50% damage
   max_atk_pct: null
   name_en: Blue Sky Rainbow + Prismatic Thunder + Strand Sacrifice
-  name_jp: 蒼天の虹 + プリズミックサンダー + ストランドサクリファイス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 8
@@ -197,7 +180,6 @@ records:
     damage + Bind 1 subs for 1 turns, Deal 50% damage
   max_atk_pct: null
   name_en: Blue Sky Rainbow + Prismatic Thunder + Strand Sacrifice
-  name_jp: 蒼天の虹 + プリズミックサンダー + ストランドサクリファイス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 8
@@ -208,7 +190,6 @@ records:
     damage + Bind 1 subs for 1 turns, Deal 50% damage
   max_atk_pct: null
   name_en: Blue Sky Rainbow + Prismatic Thunder + Strand Sacrifice
-  name_jp: 蒼天の虹 + プリズミックサンダー + ストランドサクリファイス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 8
@@ -219,7 +200,6 @@ records:
     damage + Bind 1 subs for 1 turns, Deal 50% damage
   max_atk_pct: null
   name_en: Blue Sky Rainbow + Prismatic Thunder + Strand Sacrifice
-  name_jp: 蒼天の虹 + プリズミックサンダー + ストランドサクリファイス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 8
@@ -228,7 +208,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 90
-  name_jp: HP < 90
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -237,7 +216,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -248,7 +226,6 @@ records:
     for 10 turns + Change all orbs to Fire, Water, Wood, Light, Dark, Deal 450% damage
   max_atk_pct: null
   name_en: Retreat Ark + Fog Bow - Seal + First Judgement
-  name_jp: リトリートアーク + フォッグボウ・シール + ファーストジャッジメント
   one_time: 8
   record_type_name: ACTION
   usage_pct: 100
@@ -257,7 +234,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 70
-  name_jp: HP < 70
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -266,7 +242,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -277,7 +252,6 @@ records:
     board + Change all orbs to Fire, Water, Wood, Light, Dark, Deal 600% damage
   max_atk_pct: null
   name_en: Retreat Ark + Fog Bow - Haze + Second Judgement
-  name_jp: リトリートアーク + フォッグボウ・ヘイズ + セカンドジャッジメント
   one_time: 4
   record_type_name: ACTION
   usage_pct: 100
@@ -286,7 +260,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -295,7 +268,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -306,7 +278,6 @@ records:
     by 5 turns + Deal 1200% damage (3 hits, 400% each)
   max_atk_pct: null
   name_en: Retreat Ark + Fog Bow - Gaze + Third Judgement
-  name_jp: リトリートアーク + フォッグボウ・ゲイズ + サードジャッジメント
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -317,7 +288,6 @@ records:
     50% damage + Player -99% HP
   max_atk_pct: null
   name_en: Rainbow Blank + Strand Sacrifice + Ark Impact
-  name_jp: レインボーブランク + ストランドサクリファイス + アークインパクト
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -326,7 +296,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
-  name_jp: HP < 30
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -335,7 +304,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
-  name_jp: Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -346,7 +314,6 @@ records:
     for 2 turns + Change all orbs to Fire, Water, Wood, Light, Dark, Deal 2000% damage
   max_atk_pct: null
   name_en: Retreat Ark + Fog Bow - Graze + Fourth Judgement
-  name_jp: リトリートアーク + フォッグボウ・グレイズ + フォースジャッジメント
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -355,7 +322,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
-  name_jp: HP < 10
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -366,7 +332,6 @@ records:
     + Deal 3000% damage (3 hits, 1000% each)
   max_atk_pct: null
   name_en: Retreat Ark + Fog Bow - Purge + Final Judgement
-  name_jp: リトリートアーク + フォッグボウ・パージ + ジャッジメントエンド
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

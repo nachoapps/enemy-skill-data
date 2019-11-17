@@ -5,7 +5,6 @@
 comments: null
 monster_id: 4088
 monster_name_en: Mai Shiranui
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Do nothing (Preemptive)
   max_atk_pct: null
   name_en: Come at me!
-  name_jp: かかってらっしゃい！
   one_time: 1
   record_type_name: PREEMPT
   usage_pct: 100

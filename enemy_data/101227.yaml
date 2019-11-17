@@ -5,7 +5,6 @@
 comments: null
 monster_id: 101227
 monster_name_en: Alt. Icewing Twin Dragon King, Beyzul
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Reduce damage from Water by 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Water skyfall +25% for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: Ice Age
-  name_jp: アイスエイジ
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -39,7 +36,6 @@ records:
   desc_jp: Change Random to Water, Deal 500% damage
   max_atk_pct: 500
   name_en: Absolute End
-  name_jp: アブソリュート・エンド
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

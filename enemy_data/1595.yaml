@@ -5,7 +5,6 @@
 comments: null
 monster_id: 1595
 monster_name_en: Dark Insect Dragon, Mutecocoon
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Absorb combo <= 3 damage for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: Insect Dragon's Chitin
-  name_jp: 蟲龍の甲殻
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -39,7 +36,6 @@ records:
   desc_jp: Blind all orbs on the board, Deal 25% damage
   max_atk_pct: 25
   name_en: Silent Darkness
-  name_jp: サイレントダーク
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -48,7 +44,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -57,7 +52,6 @@ records:
   desc_jp: Deal 50% damage
   max_atk_pct: 50
   name_en: Gravity Spin
-  name_jp: グラビティスピン
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -66,7 +60,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -75,7 +68,6 @@ records:
   desc_jp: Blind all orbs on the board, Deal 25% damage
   max_atk_pct: 25
   name_en: Silent Darkness
-  name_jp: サイレントダーク
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -84,7 +76,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
-  name_jp: Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -93,7 +84,6 @@ records:
   desc_jp: Change Random to Jammer, Deal 100% damage
   max_atk_pct: 100
   name_en: Gravity Spin
-  name_jp: グラビティスピン
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -102,7 +92,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
-  name_jp: Turn 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -111,7 +100,6 @@ records:
   desc_jp: Blind all orbs on the board, Deal 25% damage
   max_atk_pct: 25
   name_en: Silent Darkness
-  name_jp: サイレントダーク
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -120,7 +108,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6
-  name_jp: Turn 6
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -129,7 +116,6 @@ records:
   desc_jp: Player -99% HP
   max_atk_pct: null
   name_en: Gravity Spin
-  name_jp: グラビティスピン
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -138,7 +124,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -147,7 +132,6 @@ records:
   desc_jp: Deal 500% damage (5 hits, 100% each)
   max_atk_pct: 500
   name_en: Wormhole
-  name_jp: ワームホール
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -164,7 +148,6 @@ records:
   desc_jp: Absorb combo <= 4 damage for 10 turns (Preemptive)
   max_atk_pct: null
   name_en: Insect Dragon's Steel Chitin
-  name_jp: 蟲龍の鋼甲殻
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -173,7 +156,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -182,7 +164,6 @@ records:
   desc_jp: Blind all orbs on the board, Deal 25% damage
   max_atk_pct: 25
   name_en: Silent Darkness
-  name_jp: サイレントダーク
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -191,7 +172,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -200,7 +180,6 @@ records:
   desc_jp: Deal 50% damage
   max_atk_pct: 50
   name_en: Gravity Spin
-  name_jp: グラビティスピン
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -209,7 +188,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -218,7 +196,6 @@ records:
   desc_jp: Blind all orbs on the board, Deal 25% damage
   max_atk_pct: 25
   name_en: Silent Darkness
-  name_jp: サイレントダーク
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -227,7 +204,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
-  name_jp: Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -236,7 +212,6 @@ records:
   desc_jp: Change Random to Jammer, Deal 100% damage
   max_atk_pct: 100
   name_en: Gravity Spin
-  name_jp: グラビティスピン
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -245,7 +220,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
-  name_jp: Turn 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -254,7 +228,6 @@ records:
   desc_jp: Blind all orbs on the board, Deal 25% damage
   max_atk_pct: 25
   name_en: Silent Darkness
-  name_jp: サイレントダーク
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -263,7 +236,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6
-  name_jp: Turn 6
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -272,7 +244,6 @@ records:
   desc_jp: Player -99% HP
   max_atk_pct: null
   name_en: Gravity Spin
-  name_jp: グラビティスピン
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -281,7 +252,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -290,7 +260,6 @@ records:
   desc_jp: Deal 500% damage (5 hits, 100% each)
   max_atk_pct: 500
   name_en: Wormhole
-  name_jp: ワームホール
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

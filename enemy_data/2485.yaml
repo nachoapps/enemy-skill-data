@@ -5,7 +5,6 @@
 comments: null
 monster_id: 2485
 monster_name_en: Incarnation of Evil, Hakumen no Mono
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Do nothing + Voids status ailments for 999 turns (Preemptive)
   max_atk_pct: null
   name_en: I am Hakumen! From that name, + Comes the destruction of all!!
-  name_jp: 我は白面！！その名のもとに、 + 全て滅ぶ可し！！
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -39,7 +36,6 @@ records:
   desc_jp: Blind all orbs on the board, (if [2464, 2465] on team)
   max_atk_pct: null
   name_en: Hate...more...
-  name_jp: もっと…　憎め…
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -48,7 +44,6 @@ records:
   desc_jp: Player -99% HP
   max_atk_pct: null
   name_en: Shumuna
-  name_jp: シュムナ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -57,7 +52,6 @@ records:
   desc_jp: Change 2nd, 3rd row to Fire orbs, Deal 150% damage
   max_atk_pct: 150
   name_en: Towako
-  name_jp: 斗和子
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -66,7 +60,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -75,7 +68,6 @@ records:
   desc_jp: Void damage >= 500000 for 2 turns
   max_atk_pct: null
   name_en: Kuragi
-  name_jp: くらぎ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -84,7 +76,6 @@ records:
   desc_jp: Reduce damage from all sources by 50% for 2 turns
   max_atk_pct: null
   name_en: Ayakashi
-  name_jp: あやかし
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -93,7 +84,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -102,7 +92,6 @@ records:
   desc_jp: Spawn random 4 Wood, Light orbs, Deal 190% damage
   max_atk_pct: 190
   name_en: Storm and Lightning Tail
-  name_jp: 嵐と雷の尾
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -111,7 +100,6 @@ records:
   desc_jp: Deal 195% damage (3 hits, 65% each)
   max_atk_pct: 195
   name_en: Spear-Shaped Tail
-  name_jp: 槍状の尾
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -120,7 +108,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 80
-  name_jp: HP < 80
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -129,7 +116,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -138,7 +124,6 @@ records:
   desc_jp: Blind all orbs on the board, (if [2464, 2465] on team)
   max_atk_pct: null
   name_en: Hate...more...
-  name_jp: もっと…　憎め…
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -147,7 +132,6 @@ records:
   desc_jp: Bind 1 random cards for 3 turns
   max_atk_pct: null
   name_en: Waaaaaah!
-  name_jp: おぎゃあああ
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -156,7 +140,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -165,7 +148,6 @@ records:
   desc_jp: Player -99% HP
   max_atk_pct: null
   name_en: Shumuna
-  name_jp: シュムナ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -174,7 +156,6 @@ records:
   desc_jp: Change 2nd, 3rd row to Fire orbs, Deal 150% damage
   max_atk_pct: 150
   name_en: Towako
-  name_jp: 斗和子
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -183,7 +164,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -192,7 +172,6 @@ records:
   desc_jp: Void damage >= 500000 for 2 turns
   max_atk_pct: null
   name_en: Kuragi
-  name_jp: くらぎ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -201,7 +180,6 @@ records:
   desc_jp: Reduce damage from all sources by 50% for 2 turns
   max_atk_pct: null
   name_en: Ayakashi
-  name_jp: あやかし
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50

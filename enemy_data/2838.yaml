@@ -5,7 +5,6 @@
 comments: null
 monster_id: 2838
 monster_name_en: White Monkey Retainer, Hanuman
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -23,7 +22,6 @@ records:
     turns (Preemptive)
   max_atk_pct: null
   name_en: Fight is Everything!! + Vayu's Divine Protection
-  name_jp: 闘いこそ我が全て！！ + ヴァーユの加護
   one_time: 16
   record_type_name: PREEMPT
   usage_pct: 100
@@ -32,7 +30,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -41,7 +38,6 @@ records:
   desc_jp: Heal skyfall +10% for 5 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Prasaadah Tapah
-  name_jp: プラサーダハタパハ
   one_time: 8
   record_type_name: ACTION
   usage_pct: 100
@@ -50,7 +46,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -59,7 +54,6 @@ records:
   desc_jp: Spawn random 3 Heal orbs, Deal 130% damage
   max_atk_pct: 130
   name_en: Maitrii Kleza
-  name_jp: マイトリークレーシャーハ
   one_time: 4
   record_type_name: ACTION
   usage_pct: 100
@@ -68,7 +62,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -77,7 +70,6 @@ records:
   desc_jp: Blind all orbs on the board, Deal 110% damage
   max_atk_pct: 110
   name_en: Darsana Layaanaam
-  name_jp: ダルシャナラヤーナーム
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -86,7 +78,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -95,7 +86,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -104,7 +94,6 @@ records:
   desc_jp: Player -99% HP
   max_atk_pct: null
   name_en: Pramaada Dukkha
-  name_jp: プラマーダドゥフカ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -113,7 +102,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -122,7 +110,6 @@ records:
   desc_jp: Enemy recover 5%~8% hp, Deal 100% damage
   max_atk_pct: 100
   name_en: Aatma Yogah
-  name_jp: アートマヨーガハ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -131,7 +118,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -140,7 +126,6 @@ records:
   desc_jp: Deal 132% damage (3 hits, 44% each)
   max_atk_pct: 132
   name_en: Nairantarya
-  name_jp: ナイランタリヤ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -149,7 +134,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 4
-  name_jp: Loop to 1 after. Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -158,7 +142,6 @@ records:
   desc_jp: Absorb combo <= 6 damage for 1 turns, Deal 140% damage
   max_atk_pct: 140
   name_en: Guruh Karma
-  name_jp: グルフカルマ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -167,7 +150,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -176,7 +158,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
-  name_jp: Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -185,7 +166,6 @@ records:
   desc_jp: Bind 1 random for 3 turns, Deal 150% damage
   max_atk_pct: 150
   name_en: Pratibandhii
-  name_jp: プラティバンディ
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -194,7 +174,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
-  name_jp: HP < 30
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -203,7 +182,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -212,7 +190,6 @@ records:
   desc_jp: Change Heal to Jammer, Deal 160% damage
   max_atk_pct: 160
   name_en: Pratisedha
-  name_jp: プラティシェーダ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 15
@@ -221,7 +198,6 @@ records:
   desc_jp: Player -99% HP
   max_atk_pct: null
   name_en: Pramaada Dukkha
-  name_jp: プラマーダドゥフカ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -230,7 +206,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -239,7 +214,6 @@ records:
   desc_jp: Change Heal to Jammer, Deal 160% damage
   max_atk_pct: 160
   name_en: Pratisedha
-  name_jp: プラティシェーダ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 15
@@ -248,7 +222,6 @@ records:
   desc_jp: Enemy recover 5%~8% hp, Deal 100% damage
   max_atk_pct: 100
   name_en: Aatma Yogah
-  name_jp: アートマヨーガハ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -257,7 +230,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -266,7 +238,6 @@ records:
   desc_jp: Change Heal to Jammer, Deal 160% damage
   max_atk_pct: 160
   name_en: Pratisedha
-  name_jp: プラティシェーダ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 15
@@ -275,7 +246,6 @@ records:
   desc_jp: Deal 132% damage (3 hits, 44% each)
   max_atk_pct: 132
   name_en: Nairantarya
-  name_jp: ナイランタリヤ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -284,7 +254,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 4
-  name_jp: Loop to 1 after. Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -293,7 +262,6 @@ records:
   desc_jp: Change Heal to Jammer, Deal 160% damage
   max_atk_pct: 160
   name_en: Pratisedha
-  name_jp: プラティシェーダ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 15
@@ -302,7 +270,6 @@ records:
   desc_jp: Absorb combo <= 6 damage for 1 turns, Deal 140% damage
   max_atk_pct: 140
   name_en: Guruh Karma
-  name_jp: グルフカルマ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -311,7 +278,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
-  name_jp: HP < 10
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -320,7 +286,6 @@ records:
   desc_jp: Deal 300% damage (3 hits, 100% each)
   max_atk_pct: 300
   name_en: Daurmanasya
-  name_jp: ダウルマナスヤ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

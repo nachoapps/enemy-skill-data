@@ -5,7 +5,6 @@
 comments: null
 monster_id: 5256
 monster_name_en: Horohoro
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Change 5th row to Water orbs, Deal 95% damage (Preemptive)
   max_atk_pct: 95
   name_en: Mososo Kruppe
-  name_jp: モソソクルッペ
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Change 5th row to Water orbs, Deal 95% damage
   max_atk_pct: 95
   name_en: Mososo Kruppe
-  name_jp: モソソクルッペ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -39,7 +36,6 @@ records:
   desc_jp: Spawn random 4 Water orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Kawkaw Puri-Wenpe
-  name_jp: カウカウプリウェンペ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -48,7 +44,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 50
-  name_jp: HP <= 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -57,7 +52,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -68,7 +62,6 @@ records:
     orbs, Deal 55% damage
   max_atk_pct: null
   name_en: You're in my world now, + and here I'm the fittest.
-  name_jp: ここはとっくにオレの世界で + オレが王者だ
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -77,7 +70,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2-3
-  name_jp: Loop to 1 after. Turn 2-3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -86,7 +78,6 @@ records:
   desc_jp: Change 5th row to Water orbs, Deal 95% damage
   max_atk_pct: 95
   name_en: Mososo Kruppe
-  name_jp: モソソクルッペ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -95,7 +86,6 @@ records:
   desc_jp: Spawn random 4 Water orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Kawkaw Puri-Wenpe
-  name_jp: カウカウプリウェンペ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -104,7 +94,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
-  name_jp: HP < 20
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -113,7 +102,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -124,7 +112,6 @@ records:
     orbs
   max_atk_pct: null
   name_en: This is my last offerring.
-  name_jp: こいつがオレなりの手向けだ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -133,7 +120,6 @@ records:
   desc_jp: Change 3rd row to Water orbs, Deal 250% damage
   max_atk_pct: 250
   name_en: Neike Fuike Kiroro
-  name_jp: ネイケフイケキロロ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

@@ -5,7 +5,6 @@
 comments: null
 monster_id: 858
 monster_name_en: Baggi Cat
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Bind 3 random cards for 2~4 turns (Preemptive)
   max_atk_pct: null
   name_en: Tri Bind
-  name_jp: トライバインド
   one_time: 1
   record_type_name: PREEMPT
   usage_pct: 100

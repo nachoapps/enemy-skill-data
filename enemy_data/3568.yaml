@@ -5,7 +5,6 @@
 comments: null
 monster_id: 3568
 monster_name_en: Shadow Machine King, Kurogane Maru
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Reduce damage from Machine by 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -38,7 +36,6 @@ records:
   desc_jp: Reduce damage from Machine by 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -49,7 +46,6 @@ records:
     + Absorb combo <= 6 damage for 99 turns (Preemptive)
   max_atk_pct: null
   name_en: I'm...the strongest!!! + X Wall + Absorb Sechs
-  name_jp: オレが・・・最強だ！！！ + エクスウォール + アブソーブゼクス
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -58,7 +54,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -69,7 +64,6 @@ records:
     damage + Unable to match Jammer, Poison orbs for 1 turns
   max_atk_pct: null
   name_en: Double Sacrifice + Twin Protection
-  name_jp: ダブルサクリファイス + ツインプロテクト
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -78,7 +72,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -89,7 +82,6 @@ records:
     + Deal 100% damage
   max_atk_pct: null
   name_en: Protective Wall + Burst Out + Hyah!!!
-  name_jp: プロテクトウォール + バーストアウト + ヒィェア！！！
   one_time: 1
   record_type_name: ACTION
   usage_pct: 50
@@ -100,7 +92,6 @@ records:
     + Deal 100% damage
   max_atk_pct: null
   name_en: Protective Wall + Cross Saber + Hyah!!!
-  name_jp: プロテクトウォール + クロスセイバー + ヒィェア！！！
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -109,7 +100,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -118,7 +108,6 @@ records:
   desc_jp: Change Poison to Dark, Deal 170% damage
   max_atk_pct: 170
   name_en: Sacrifice Saber
-  name_jp: サクリファイスセイバー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -127,7 +116,6 @@ records:
   desc_jp: Change Jammer to Fire, Deal 150% damage
   max_atk_pct: 150
   name_en: Drill Break
-  name_jp: ドリルブレイク
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -138,7 +126,6 @@ records:
     damage
   max_atk_pct: 120
   name_en: Double Sacrifice
-  name_jp: ダブルサクリファイス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -147,7 +134,6 @@ records:
   desc_jp: Change 1st column to Dark orbs, 6th column to Fire orbs, Deal 140% damage
   max_atk_pct: 140
   name_en: Twin Strike
-  name_jp: ツインストライク
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -156,7 +142,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
-  name_jp: Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -167,7 +152,6 @@ records:
     + Deal 100% damage
   max_atk_pct: null
   name_en: Protective Wall + Burst Out + Hyah!!!
-  name_jp: プロテクトウォール + バーストアウト + ヒィェア！！！
   one_time: 1
   record_type_name: ACTION
   usage_pct: 50
@@ -178,7 +162,6 @@ records:
     + Deal 100% damage
   max_atk_pct: null
   name_en: Protective Wall + Cross Saber + Hyah!!!
-  name_jp: プロテクトウォール + クロスセイバー + ヒィェア！！！
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -187,7 +170,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
-  name_jp: Turn 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -196,7 +178,6 @@ records:
   desc_jp: Change Poison to Dark, Deal 170% damage
   max_atk_pct: 170
   name_en: Sacrifice Saber
-  name_jp: サクリファイスセイバー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -205,7 +186,6 @@ records:
   desc_jp: Change Jammer to Fire, Deal 150% damage
   max_atk_pct: 150
   name_en: Drill Break
-  name_jp: ドリルブレイク
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -216,7 +196,6 @@ records:
     damage
   max_atk_pct: 120
   name_en: Double Sacrifice
-  name_jp: ダブルサクリファイス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -225,7 +204,6 @@ records:
   desc_jp: Change 1st column to Dark orbs, 6th column to Fire orbs, Deal 140% damage
   max_atk_pct: 140
   name_en: Twin Strike
-  name_jp: ツインストライク
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -234,7 +212,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6
-  name_jp: Turn 6
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -245,7 +222,6 @@ records:
     + Deal 100% damage
   max_atk_pct: null
   name_en: Protective Wall + Burst Out + Hyah!!!
-  name_jp: プロテクトウォール + バーストアウト + ヒィェア！！！
   one_time: 1
   record_type_name: ACTION
   usage_pct: 50
@@ -256,7 +232,6 @@ records:
     + Deal 100% damage
   max_atk_pct: null
   name_en: Protective Wall + Cross Saber + Hyah!!!
-  name_jp: プロテクトウォール + クロスセイバー + ヒィェア！！！
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -265,7 +240,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 7
-  name_jp: Turn 7
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -274,7 +248,6 @@ records:
   desc_jp: Change Poison to Dark, Deal 170% damage
   max_atk_pct: 170
   name_en: Sacrifice Saber
-  name_jp: サクリファイスセイバー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -283,7 +256,6 @@ records:
   desc_jp: Change Jammer to Fire, Deal 150% damage
   max_atk_pct: 150
   name_en: Drill Break
-  name_jp: ドリルブレイク
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -294,7 +266,6 @@ records:
     damage
   max_atk_pct: 120
   name_en: Double Sacrifice
-  name_jp: ダブルサクリファイス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -303,7 +274,6 @@ records:
   desc_jp: Change 1st column to Dark orbs, 6th column to Fire orbs, Deal 140% damage
   max_atk_pct: 140
   name_en: Twin Strike
-  name_jp: ツインストライク
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -312,7 +282,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 8
-  name_jp: Turn 8
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -323,7 +292,6 @@ records:
     + Deal 100% damage
   max_atk_pct: null
   name_en: Protective Wall + Burst Out + Hyah!!!
-  name_jp: プロテクトウォール + バーストアウト + ヒィェア！！！
   one_time: 1
   record_type_name: ACTION
   usage_pct: 50
@@ -334,7 +302,6 @@ records:
     + Deal 100% damage
   max_atk_pct: null
   name_en: Protective Wall + Cross Saber + Hyah!!!
-  name_jp: プロテクトウォール + クロスセイバー + ヒィェア！！！
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -343,7 +310,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 9
-  name_jp: Turn 9
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -352,7 +318,6 @@ records:
   desc_jp: Change Poison to Dark, Deal 170% damage
   max_atk_pct: 170
   name_en: Sacrifice Saber
-  name_jp: サクリファイスセイバー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -361,7 +326,6 @@ records:
   desc_jp: Change Jammer to Fire, Deal 150% damage
   max_atk_pct: 150
   name_en: Drill Break
-  name_jp: ドリルブレイク
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -372,7 +336,6 @@ records:
     damage
   max_atk_pct: 120
   name_en: Double Sacrifice
-  name_jp: ダブルサクリファイス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -381,7 +344,6 @@ records:
   desc_jp: Change 1st column to Dark orbs, 6th column to Fire orbs, Deal 140% damage
   max_atk_pct: 140
   name_en: Twin Strike
-  name_jp: ツインストライク
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -390,7 +352,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 10
-  name_jp: Turn 10
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -401,7 +362,6 @@ records:
     + Deal 100% damage
   max_atk_pct: null
   name_en: Protective Wall + Burst Out + Hyah!!!
-  name_jp: プロテクトウォール + バーストアウト + ヒィェア！！！
   one_time: 1
   record_type_name: ACTION
   usage_pct: 50
@@ -412,7 +372,6 @@ records:
     + Deal 100% damage
   max_atk_pct: null
   name_en: Protective Wall + Cross Saber + Hyah!!!
-  name_jp: プロテクトウォール + クロスセイバー + ヒィェア！！！
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -421,7 +380,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 11
-  name_jp: Turn 11
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -430,7 +388,6 @@ records:
   desc_jp: Change all orbs to Jammer, Deal 370% damage
   max_atk_pct: 370
   name_en: Extreme Burst
-  name_jp: エクストリームバースト
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -439,7 +396,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -448,7 +404,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -459,7 +414,6 @@ records:
     + Deal 100% damage
   max_atk_pct: null
   name_en: Protective Wall + Burst Out + Hyah!!!
-  name_jp: プロテクトウォール + バーストアウト + ヒィェア！！！
   one_time: 1
   record_type_name: ACTION
   usage_pct: 50
@@ -470,7 +424,6 @@ records:
     + Deal 100% damage
   max_atk_pct: null
   name_en: Protective Wall + Cross Saber + Hyah!!!
-  name_jp: プロテクトウォール + クロスセイバー + ヒィェア！！！
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -479,7 +432,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
-  name_jp: Loop to 1 after. Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -488,7 +440,6 @@ records:
   desc_jp: Change Poison to Dark, Deal 170% damage
   max_atk_pct: 170
   name_en: Sacrifice Saber
-  name_jp: サクリファイスセイバー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -497,7 +448,6 @@ records:
   desc_jp: Change Jammer to Fire, Deal 150% damage
   max_atk_pct: 150
   name_en: Drill Break
-  name_jp: ドリルブレイク
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -508,7 +458,6 @@ records:
     damage
   max_atk_pct: 120
   name_en: Double Sacrifice
-  name_jp: ダブルサクリファイス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -517,7 +466,6 @@ records:
   desc_jp: Change 1st column to Dark orbs, 6th column to Fire orbs, Deal 140% damage
   max_atk_pct: 140
   name_en: Twin Strike
-  name_jp: ツインストライク
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -526,7 +474,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -535,7 +482,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -546,7 +492,6 @@ records:
     Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs + Deal 100% damage
   max_atk_pct: null
   name_en: Double Saber + X Field + Hyah!!!
-  name_jp: ダブルセイバー + エクスフィールド + ヒィェア！！！
   one_time: 1
   record_type_name: ACTION
   usage_pct: 50
@@ -557,7 +502,6 @@ records:
     + Spawn Bomb orbs in the specified positions
   max_atk_pct: null
   name_en: Protective Wall + Cross Saber + Burst Out
-  name_jp: プロテクトウォール + クロスセイバー + バーストアウト
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -566,7 +510,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -575,7 +518,6 @@ records:
   desc_jp: Change Poison to Dark, Deal 170% damage
   max_atk_pct: 170
   name_en: Sacrifice Saber
-  name_jp: サクリファイスセイバー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -584,7 +526,6 @@ records:
   desc_jp: Change Jammer to Fire, Deal 150% damage
   max_atk_pct: 150
   name_en: Drill Break
-  name_jp: ドリルブレイク
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -593,7 +534,6 @@ records:
   desc_jp: Change 1st row to Poison orbs, 5th row to Jammer orbs, Deal 120% damage
   max_atk_pct: 120
   name_en: Double Sacrifice
-  name_jp: ダブルサクリファイス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -602,7 +542,6 @@ records:
   desc_jp: Change 1st row to Dark orbs, 5th row to Fire orbs, Deal 120% damage
   max_atk_pct: 120
   name_en: Twin Strike
-  name_jp: ツインストライク
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -611,7 +550,6 @@ records:
   desc_jp: Deal 160% damage (4 hits, 40% each)
   max_atk_pct: 160
   name_en: Cross Rush
-  name_jp: クロスラッシュ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -620,7 +558,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -631,7 +568,6 @@ records:
     Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs + Deal 100% damage
   max_atk_pct: null
   name_en: Double Saber + X Field + Hyah!!!
-  name_jp: ダブルセイバー + エクスフィールド + ヒィェア！！！
   one_time: 1
   record_type_name: ACTION
   usage_pct: 50
@@ -642,7 +578,6 @@ records:
     + Spawn Bomb orbs in the specified positions
   max_atk_pct: null
   name_en: Protective Wall + Cross Saber + Burst Out
-  name_jp: プロテクトウォール + クロスセイバー + バーストアウト
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -651,7 +586,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
-  name_jp: Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -660,7 +594,6 @@ records:
   desc_jp: Change Poison to Dark, Deal 170% damage
   max_atk_pct: 170
   name_en: Sacrifice Saber
-  name_jp: サクリファイスセイバー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -669,7 +602,6 @@ records:
   desc_jp: Change Jammer to Fire, Deal 150% damage
   max_atk_pct: 150
   name_en: Drill Break
-  name_jp: ドリルブレイク
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -678,7 +610,6 @@ records:
   desc_jp: Change 1st row to Poison orbs, 5th row to Jammer orbs, Deal 120% damage
   max_atk_pct: 120
   name_en: Double Sacrifice
-  name_jp: ダブルサクリファイス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -687,7 +618,6 @@ records:
   desc_jp: Change 1st row to Dark orbs, 5th row to Fire orbs, Deal 120% damage
   max_atk_pct: 120
   name_en: Twin Strike
-  name_jp: ツインストライク
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -696,7 +626,6 @@ records:
   desc_jp: Deal 160% damage (4 hits, 40% each)
   max_atk_pct: 160
   name_en: Cross Rush
-  name_jp: クロスラッシュ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -705,7 +634,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
-  name_jp: Turn 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -716,7 +644,6 @@ records:
     Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs + Deal 100% damage
   max_atk_pct: null
   name_en: Double Saber + X Field + Hyah!!!
-  name_jp: ダブルセイバー + エクスフィールド + ヒィェア！！！
   one_time: 1
   record_type_name: ACTION
   usage_pct: 50
@@ -727,7 +654,6 @@ records:
     + Spawn Bomb orbs in the specified positions
   max_atk_pct: null
   name_en: Protective Wall + Cross Saber + Burst Out
-  name_jp: プロテクトウォール + クロスセイバー + バーストアウト
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -736,7 +662,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6
-  name_jp: Turn 6
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -745,7 +670,6 @@ records:
   desc_jp: Change Poison to Dark, Deal 170% damage
   max_atk_pct: 170
   name_en: Sacrifice Saber
-  name_jp: サクリファイスセイバー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -754,7 +678,6 @@ records:
   desc_jp: Change Jammer to Fire, Deal 150% damage
   max_atk_pct: 150
   name_en: Drill Break
-  name_jp: ドリルブレイク
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -763,7 +686,6 @@ records:
   desc_jp: Change 1st row to Poison orbs, 5th row to Jammer orbs, Deal 120% damage
   max_atk_pct: 120
   name_en: Double Sacrifice
-  name_jp: ダブルサクリファイス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -772,7 +694,6 @@ records:
   desc_jp: Change 1st row to Dark orbs, 5th row to Fire orbs, Deal 120% damage
   max_atk_pct: 120
   name_en: Twin Strike
-  name_jp: ツインストライク
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -781,7 +702,6 @@ records:
   desc_jp: Deal 160% damage (4 hits, 40% each)
   max_atk_pct: 160
   name_en: Cross Rush
-  name_jp: クロスラッシュ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -790,7 +710,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 7
-  name_jp: Turn 7
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -801,7 +720,6 @@ records:
     Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs + Deal 100% damage
   max_atk_pct: null
   name_en: Double Saber + X Field + Hyah!!!
-  name_jp: ダブルセイバー + エクスフィールド + ヒィェア！！！
   one_time: 1
   record_type_name: ACTION
   usage_pct: 50
@@ -812,7 +730,6 @@ records:
     + Spawn Bomb orbs in the specified positions
   max_atk_pct: null
   name_en: Protective Wall + Cross Saber + Burst Out
-  name_jp: プロテクトウォール + クロスセイバー + バーストアウト
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -821,7 +738,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 8
-  name_jp: Turn 8
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -830,7 +746,6 @@ records:
   desc_jp: Change Poison to Dark, Deal 170% damage
   max_atk_pct: 170
   name_en: Sacrifice Saber
-  name_jp: サクリファイスセイバー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -839,7 +754,6 @@ records:
   desc_jp: Change Jammer to Fire, Deal 150% damage
   max_atk_pct: 150
   name_en: Drill Break
-  name_jp: ドリルブレイク
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -848,7 +762,6 @@ records:
   desc_jp: Change 1st row to Poison orbs, 5th row to Jammer orbs, Deal 120% damage
   max_atk_pct: 120
   name_en: Double Sacrifice
-  name_jp: ダブルサクリファイス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -857,7 +770,6 @@ records:
   desc_jp: Change 1st row to Dark orbs, 5th row to Fire orbs, Deal 120% damage
   max_atk_pct: 120
   name_en: Twin Strike
-  name_jp: ツインストライク
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -866,7 +778,6 @@ records:
   desc_jp: Deal 160% damage (4 hits, 40% each)
   max_atk_pct: 160
   name_en: Cross Rush
-  name_jp: クロスラッシュ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -875,7 +786,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 9
-  name_jp: Turn 9
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -886,7 +796,6 @@ records:
     Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs + Deal 100% damage
   max_atk_pct: null
   name_en: Double Saber + X Field + Hyah!!!
-  name_jp: ダブルセイバー + エクスフィールド + ヒィェア！！！
   one_time: 1
   record_type_name: ACTION
   usage_pct: 50
@@ -897,7 +806,6 @@ records:
     + Spawn Bomb orbs in the specified positions
   max_atk_pct: null
   name_en: Protective Wall + Cross Saber + Burst Out
-  name_jp: プロテクトウォール + クロスセイバー + バーストアウト
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -906,7 +814,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 10
-  name_jp: Turn 10
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -915,7 +822,6 @@ records:
   desc_jp: Change Poison to Dark, Deal 170% damage
   max_atk_pct: 170
   name_en: Sacrifice Saber
-  name_jp: サクリファイスセイバー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -924,7 +830,6 @@ records:
   desc_jp: Change Jammer to Fire, Deal 150% damage
   max_atk_pct: 150
   name_en: Drill Break
-  name_jp: ドリルブレイク
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -933,7 +838,6 @@ records:
   desc_jp: Change 1st row to Poison orbs, 5th row to Jammer orbs, Deal 120% damage
   max_atk_pct: 120
   name_en: Double Sacrifice
-  name_jp: ダブルサクリファイス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -942,7 +846,6 @@ records:
   desc_jp: Change 1st row to Dark orbs, 5th row to Fire orbs, Deal 120% damage
   max_atk_pct: 120
   name_en: Twin Strike
-  name_jp: ツインストライク
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -951,7 +854,6 @@ records:
   desc_jp: Deal 160% damage (4 hits, 40% each)
   max_atk_pct: 160
   name_en: Cross Rush
-  name_jp: クロスラッシュ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -960,7 +862,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -971,7 +872,6 @@ records:
     Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs + Deal 100% damage
   max_atk_pct: null
   name_en: Double Saber + X Field + Hyah!!!
-  name_jp: ダブルセイバー + エクスフィールド + ヒィェア！！！
   one_time: 1
   record_type_name: ACTION
   usage_pct: 50
@@ -982,7 +882,6 @@ records:
     + Spawn Bomb orbs in the specified positions
   max_atk_pct: null
   name_en: Protective Wall + Cross Saber + Burst Out
-  name_jp: プロテクトウォール + クロスセイバー + バーストアウト
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -991,7 +890,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
-  name_jp: Loop to 1 after. Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -1000,7 +898,6 @@ records:
   desc_jp: Change Poison to Dark, Deal 170% damage
   max_atk_pct: 170
   name_en: Sacrifice Saber
-  name_jp: サクリファイスセイバー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -1009,7 +906,6 @@ records:
   desc_jp: Change Jammer to Fire, Deal 150% damage
   max_atk_pct: 150
   name_en: Drill Break
-  name_jp: ドリルブレイク
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -1018,7 +914,6 @@ records:
   desc_jp: Change 1st row to Poison orbs, 5th row to Jammer orbs, Deal 120% damage
   max_atk_pct: 120
   name_en: Double Sacrifice
-  name_jp: ダブルサクリファイス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -1027,7 +922,6 @@ records:
   desc_jp: Change 1st row to Dark orbs, 5th row to Fire orbs, Deal 120% damage
   max_atk_pct: 120
   name_en: Twin Strike
-  name_jp: ツインストライク
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -1036,7 +930,6 @@ records:
   desc_jp: Deal 160% damage (4 hits, 40% each)
   max_atk_pct: 160
   name_en: Cross Rush
-  name_jp: クロスラッシュ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -1045,7 +938,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
-  name_jp: HP < 20
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -1054,7 +946,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -1063,7 +954,6 @@ records:
   desc_jp: Enemy recover 30% hp + Bind awoken skills for 5 turns
   max_atk_pct: null
   name_en: Aaaahhhhhh! I won't forgive you!! + I'll weaken you!!
-  name_jp: アァァァァアアア！許さん！！ + 弱くしちゃうぜぇぇぇ！！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -1072,7 +962,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2-10
-  name_jp: Turn 2-10
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -1081,7 +970,6 @@ records:
   desc_jp: Change all orbs to Fire, Dark, Deal 400% damage
   max_atk_pct: 400
   name_en: Twin Explosion
-  name_jp: ツインエクスプロージョン
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -1090,7 +978,6 @@ records:
   desc_jp: Change all orbs to Fire, Dark, Deal 400% damage
   max_atk_pct: 400
   name_en: Twin Explosion
-  name_jp: ツインエクスプロージョン
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

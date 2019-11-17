@@ -5,7 +5,6 @@
 comments: null
 monster_id: 5183
 monster_name_en: Devil Prince, Zebun
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Reduce damage from Dark by 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -32,7 +30,6 @@ records:
     + Mortal Poison skyfall +60% for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: Devil Prince Dignity + Archdemon Relative + Deadly Poison Rain
-  name_jp: 魔皇子の威厳 + 狂皇の血族 + 猛毒の雨
   one_time: 2
   record_type_name: PREEMPT
   usage_pct: 100
@@ -41,7 +38,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -52,7 +48,6 @@ records:
     for 1 turns, Deal 30% damage
   max_atk_pct: null
   name_en: Poison World + Shell's Gift
-  name_jp: ポイズンワールド + 骸の贈物
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -61,7 +56,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -70,7 +64,6 @@ records:
   desc_jp: Blind random 3 orbs for 3 turns, Deal 130% damage
   max_atk_pct: 130
   name_en: Assault from the Darkness
-  name_jp: 闇からの強襲
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -79,7 +72,6 @@ records:
   desc_jp: Deal 135% damage (3 hits, 45% each)
   max_atk_pct: 135
   name_en: Monopolized Property
-  name_jp: デッドリーコンボ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -88,7 +80,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -97,7 +88,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -108,7 +98,6 @@ records:
     150% damage
   max_atk_pct: null
   name_en: Devil Prince's Selfishness + Sea of Poison
-  name_jp: 魔皇子のわがまま + 猛毒の海
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -117,7 +106,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
-  name_jp: HP < 10
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -128,7 +116,6 @@ records:
     damage
   max_atk_pct: null
   name_en: Annihilating Life + Sea of Hell
-  name_jp: 消滅する生命 + 魔界の海
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

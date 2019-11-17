@@ -5,7 +5,6 @@
 comments: null
 monster_id: 105103
 monster_name_en: Ken
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Locked Fire skyfall +100% for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: Come on! I'll turn up the heat!
-  name_jp: 来いよ、熱くさせてやるぜ！
   one_time: 1
   record_type_name: PREEMPT
   usage_pct: 100
@@ -32,7 +30,6 @@ records:
     damage
   max_atk_pct: null
   name_en: Thunder Kick + Disable Skill + Hadoken
-  name_jp: 紫電カカト落とし + 通常攻撃 + 波動拳
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -41,7 +38,6 @@ records:
   desc_jp: Player -25% HP + Deal 100% damage + Deal 50% damage
   max_atk_pct: null
   name_en: Inazuma Kick + Disable Skill + Shoryuken
-  name_jp: 稲妻カカト割り + 通常攻撃 + 昇龍拳
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -52,7 +48,6 @@ records:
     5 damage for 1 turns, Deal 40% damage
   max_atk_pct: null
   name_en: Lion Breaker + Disable Skill + Tatsumaki Senpukyaku
-  name_jp: 獅子砕き + 通常攻撃 + 竜巻旋風脚
   one_time: 0
   record_type_name: ACTION
   usage_pct: 34
@@ -61,7 +56,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -70,7 +64,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -79,7 +72,6 @@ records:
   desc_jp: Increase damage to 200% for the next 10 turns + Do nothing
   max_atk_pct: null
   name_en: Heat Rush + I hit my boiling point!
-  name_jp: ヒートラッシュ + たぎってきたぜ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -90,7 +82,6 @@ records:
     3rd row to Fire orbs, Deal 45% damage
   max_atk_pct: null
   name_en: Thunder Kick + Disable Skill + Hadoken
-  name_jp: 紫電カカト落とし + 通常攻撃 + 波動拳
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -101,7 +92,6 @@ records:
     50% damage
   max_atk_pct: null
   name_en: Inazuma Kick + Disable Skill + Shoryuken
-  name_jp: 稲妻カカト割り + 通常攻撃 + 昇龍拳
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -110,7 +100,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 15
-  name_jp: HP < 15
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -119,7 +108,6 @@ records:
   desc_jp: Change 4th, 5th column to Fire orbs, Deal 400% damage
   max_atk_pct: 400
   name_en: Guren Enjinkyaku
-  name_jp: 紅蓮炎迅脚
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

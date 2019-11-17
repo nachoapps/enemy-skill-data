@@ -5,7 +5,6 @@
 comments: null
 monster_id: 1210
 monster_name_en: The Eternal Bird, Phoenix
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Player recover 100% hp (Preemptive)
   max_atk_pct: null
   name_en: Gleam of the Phoenix
-  name_jp: 不死鳥の輝き
   one_time: 5
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1-5
-  name_jp: Execute repeatedly. Turn 1-5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -39,7 +36,6 @@ records:
   desc_jp: Change Water to Heal, Deal 75% damage
   max_atk_pct: 75
   name_en: Immortal Flame
-  name_jp: イモータルフレイム
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -48,7 +44,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 6
-  name_jp: Loop to 1 after. Turn 6
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -57,7 +52,6 @@ records:
   desc_jp: Deal 400% damage (5 hits, 80% each)
   max_atk_pct: 400
   name_en: Eternal Flare
-  name_jp: エターナルフレア
   one_time: 5
   record_type_name: ACTION
   usage_pct: 100
@@ -66,7 +60,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -75,7 +68,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1-5
-  name_jp: Execute repeatedly. Turn 1-5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -84,7 +76,6 @@ records:
   desc_jp: Enemy recover 100% hp
   max_atk_pct: null
   name_en: Flames of Reincarnation
-  name_jp: 転生の炎
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -93,7 +84,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 6
-  name_jp: Loop to 1 after. Turn 6
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -102,7 +92,6 @@ records:
   desc_jp: Deal 400% damage (5 hits, 80% each)
   max_atk_pct: 400
   name_en: Eternal Flare
-  name_jp: エターナルフレア
   one_time: 5
   record_type_name: ACTION
   usage_pct: 100

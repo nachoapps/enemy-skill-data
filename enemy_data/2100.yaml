@@ -5,7 +5,6 @@
 comments: null
 monster_id: 2100
 monster_name_en: Unicorn Rider, Liene
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Reduce damage from Devil by 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Change Jammer to Fire, Deal 500% damage (Preemptive)
   max_atk_pct: 500
   name_en: Holy Jagged Horn - Purification
-  name_jp: 紅聖の鋭角・聖撃
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -39,7 +36,6 @@ records:
   desc_jp: Absorb damage >= 1000000 damage for 10 turns (Preemptive)
   max_atk_pct: null
   name_en: Holy Jagged Horn - Bewitching
-  name_jp: 紅聖の鋭角・幻惑
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -48,7 +44,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -57,7 +52,6 @@ records:
   desc_jp: Player -99% HP
   max_atk_pct: null
   name_en: Sacred Burst
-  name_jp: セイクリッドバースト
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -66,7 +60,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2-9
-  name_jp: Turn 2-9
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -75,7 +68,6 @@ records:
   desc_jp: Delay active skills by 1~2 turns + Enemy recover 10% hp
   max_atk_pct: null
   name_en: Unicorn Neigh + Sacred Horn
-  name_jp: 一角獣の嘶き + セイクリッドホーン
   one_time: 1
   record_type_name: ACTION
   usage_pct: 33
@@ -84,7 +76,6 @@ records:
   desc_jp: Blind random 3 orbs for 2 turns + Deal 390% damage (3 hits, 130% each)
   max_atk_pct: null
   name_en: Jagged Flash + Multi Attack
-  name_jp: 鋭角の閃光 + 突進連撃
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -93,7 +84,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 10
-  name_jp: Turn 10
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -104,7 +94,6 @@ records:
     sources by 75% for 99 turns
   max_atk_pct: null
   name_en: Holy Crimson Phantom + Holy Crimson Flame
-  name_jp: 紅聖の天幻陣 + 紅聖の炎
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -113,7 +102,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -122,7 +110,6 @@ records:
   desc_jp: Blind random 3 orbs for 2 turns + Deal 390% damage (3 hits, 130% each)
   max_atk_pct: null
   name_en: Jagged Flash + Multi Attack
-  name_jp: 鋭角の閃光 + 突進連撃
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -131,7 +118,6 @@ records:
   desc_jp: Deal 430% damage (2 hits, 215% each)
   max_atk_pct: 430
   name_en: Dual Heavenly Javelin Attack
-  name_jp: 双槍天翔撃
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -140,7 +126,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -149,7 +134,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2-9
-  name_jp: Turn 2-9
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -158,7 +142,6 @@ records:
   desc_jp: Delay active skills by 1~2 turns + Enemy recover 10% hp
   max_atk_pct: null
   name_en: Unicorn Neigh + Sacred Horn
-  name_jp: 一角獣の嘶き + セイクリッドホーン
   one_time: 1
   record_type_name: ACTION
   usage_pct: 33
@@ -167,7 +150,6 @@ records:
   desc_jp: Deal 430% damage (2 hits, 215% each)
   max_atk_pct: 430
   name_en: Dual Heavenly Javelin Attack
-  name_jp: 双槍天翔撃
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -176,7 +158,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
-  name_jp: HP < 30
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -185,7 +166,6 @@ records:
   desc_jp: Deal 600% damage (6 hits, 100% each)
   max_atk_pct: 600
   name_en: Sacred Full Burst
-  name_jp: セイクリッドフルバースト
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

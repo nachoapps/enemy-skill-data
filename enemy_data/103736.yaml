@@ -5,7 +5,6 @@
 comments: null
 monster_id: 103736
 monster_name_en: Alt. Zealous Boneclad Dragonbound, Hermé-Do
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -25,7 +24,6 @@ records:
     orbs (Preemptive)
   max_atk_pct: null
   name_en: You're not going anywhere! + Have a taste of true fear! + World Grudge
-  name_jp: もう帰さないわ、覚悟しなさい + 最高の恐怖をプレゼントするわ + ワールドグラッジ
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -34,7 +32,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -43,7 +40,6 @@ records:
   desc_jp: Change Poison to Mortal Poison, Deal 200% damage
   max_atk_pct: 200
   name_en: Agonizing Sacrifice
-  name_jp: アガニサクリファイス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -52,7 +48,6 @@ records:
   desc_jp: Player recover 100% hp + Bind awoken skills for 1 turns
   max_atk_pct: null
   name_en: A Reward For Your Agony + Ominous Sorcery
-  name_jp: アガニリワード + アマナスソーサリー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -61,7 +56,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -70,7 +64,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -79,7 +72,6 @@ records:
   desc_jp: Absorb Fire damage for 3 turns + Change Random to Jammer, Deal 170% damage
   max_atk_pct: null
   name_en: Desperation + Acid Breath
-  name_jp: デスペレイト + アシッドブレス
   one_time: 2
   record_type_name: ACTION
   usage_pct: 20
@@ -88,7 +80,6 @@ records:
   desc_jp: Absorb Water damage for 3 turns + Change Random to Jammer, Deal 170% damage
   max_atk_pct: null
   name_en: Desperation + Acid Breath
-  name_jp: デスペレイト + アシッドブレス
   one_time: 2
   record_type_name: ACTION
   usage_pct: 25
@@ -97,7 +88,6 @@ records:
   desc_jp: Absorb Wood damage for 3 turns + Change Random to Jammer, Deal 170% damage
   max_atk_pct: null
   name_en: Desperation + Acid Breath
-  name_jp: デスペレイト + アシッドブレス
   one_time: 2
   record_type_name: ACTION
   usage_pct: 33
@@ -106,7 +96,6 @@ records:
   desc_jp: Absorb Light damage for 3 turns + Change Random to Jammer, Deal 170% damage
   max_atk_pct: null
   name_en: Desperation + Acid Breath
-  name_jp: デスペレイト + アシッドブレス
   one_time: 2
   record_type_name: ACTION
   usage_pct: 50
@@ -115,7 +104,6 @@ records:
   desc_jp: Absorb Dark damage for 3 turns + Change Random to Jammer, Deal 170% damage
   max_atk_pct: null
   name_en: Desperation + Acid Breath
-  name_jp: デスペレイト + アシッドブレス
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -124,7 +112,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2-3
-  name_jp: Loop to 1 after. Turn 2-3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -133,7 +120,6 @@ records:
   desc_jp: Spawn random 5 Water orbs, Deal 130% damage
   max_atk_pct: 130
   name_en: Red Dragon Liquid
-  name_jp: 赤のドラゴンリキッド
   one_time: 0
   record_type_name: ACTION
   usage_pct: 40
@@ -142,7 +128,6 @@ records:
   desc_jp: Poison skyfall +10% for 10 turns
   max_atk_pct: null
   name_en: Corpse Dragon's Curse
-  name_jp: 屍龍の呪い
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -151,7 +136,6 @@ records:
   desc_jp: Deal 150% damage (3 hits, 50% each)
   max_atk_pct: 150
   name_en: Abyssal Pain
-  name_jp: アビスペイン
   one_time: 0
   record_type_name: ACTION
   usage_pct: 40
@@ -160,7 +144,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 15
-  name_jp: HP < 15
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -169,7 +152,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -178,7 +160,6 @@ records:
   desc_jp: Blind random 13 orbs for 13 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Accursed Eclipse
-  name_jp: カースエクリプス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -189,7 +170,6 @@ records:
     1200% damage
   max_atk_pct: null
   name_en: Virulent Sorcery + Deadly Poison
-  name_jp: デマイズソーサリー + デスポイズンブレス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

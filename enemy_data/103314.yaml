@@ -5,7 +5,6 @@
 comments: null
 monster_id: 103314
 monster_name_en: King Woodtan
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Spawn random 8 Wood orbs, Deal 600% damage
   max_atk_pct: 600
   name_en: King's Gale
-  name_jp: キングスゲイル
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

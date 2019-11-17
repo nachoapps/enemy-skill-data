@@ -5,7 +5,6 @@
 comments: null
 monster_id: 100599
 monster_name_en: Alt. Awoken Hera-Ur
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Voids status ailments for 999 turns (Preemptive)
   max_atk_pct: null
   name_en: Protection of the Gods
-  name_jp: 神々の守り
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -39,7 +36,6 @@ records:
   desc_jp: Bind Water cards for 10 turns
   max_atk_pct: null
   name_en: Eternal Thirst
-  name_jp: 永劫の渇き
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -48,7 +44,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -57,7 +52,6 @@ records:
   desc_jp: Deal 135% damage (3 hits, 45% each)
   max_atk_pct: 135
   name_en: Flame Pillar
-  name_jp: フレイムピラー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 70
@@ -66,7 +60,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -75,7 +68,6 @@ records:
   desc_jp: Deal 170% damage
   max_atk_pct: 170
   name_en: High Kick
-  name_jp: ハイキック
   one_time: 0
   record_type_name: ACTION
   usage_pct: 70
@@ -84,7 +76,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 25
-  name_jp: HP < 25
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -93,7 +84,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -102,7 +92,6 @@ records:
   desc_jp: Do nothing
   max_atk_pct: null
   name_en: Released Magical Power
-  name_jp: 魔力を解放した
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -111,7 +100,6 @@ records:
   desc_jp: Deal 600% damage
   max_atk_pct: 600
   name_en: Graviton Bomb
-  name_jp: グラビトンボム
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -128,7 +116,6 @@ records:
   desc_jp: Voids status ailments for 999 turns (Preemptive)
   max_atk_pct: null
   name_en: Protection of the Gods
-  name_jp: 神々の守り
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -137,7 +124,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -146,7 +132,6 @@ records:
   desc_jp: Bind Water cards for 10 turns
   max_atk_pct: null
   name_en: Eternal Thirst
-  name_jp: 永劫の渇き
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -155,7 +140,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -164,7 +148,6 @@ records:
   desc_jp: Deal 135% damage (3 hits, 45% each)
   max_atk_pct: 135
   name_en: Flame Pillar
-  name_jp: フレイムピラー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 70
@@ -173,7 +156,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -182,7 +164,6 @@ records:
   desc_jp: Deal 170% damage
   max_atk_pct: 170
   name_en: High Kick
-  name_jp: ハイキック
   one_time: 0
   record_type_name: ACTION
   usage_pct: 70
@@ -191,7 +172,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 25
-  name_jp: HP < 25
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -200,7 +180,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -209,7 +188,6 @@ records:
   desc_jp: Do nothing
   max_atk_pct: null
   name_en: Released Magical Power
-  name_jp: 魔力を解放した
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -218,7 +196,6 @@ records:
   desc_jp: Deal 600% damage
   max_atk_pct: 600
   name_en: Graviton Bomb
-  name_jp: グラビトンボム
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

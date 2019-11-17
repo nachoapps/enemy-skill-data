@@ -5,7 +5,6 @@
 comments: null
 monster_id: 4811
 monster_name_en: Brilliance Crafting Dragonbound, Chuan
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings:
 - Found 3 unused actions
@@ -25,7 +24,6 @@ records:
   max_atk_pct: null
   name_en: Oh, welcome to my shop + You're the one doing errands huh? + Show me the
     result of your errand
-  name_jp: ムフ、うちの店にようこそ + お前が奴の遣い人だね + おつかいの成果、見せてもらうよ
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -34,7 +32,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -45,7 +42,6 @@ records:
     for 99 turns
   max_atk_pct: null
   name_en: You're just a small-fry + Well, try your best!
-  name_jp: お前大したことないね + まぁ頑張ってみなよ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -54,7 +50,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -65,7 +60,6 @@ records:
     Poison orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Viscid Dragon
-  name_jp: ドラゴンアドヒーシブ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 16
@@ -74,7 +68,6 @@ records:
   desc_jp: Deal 105% damage (3 hits, 35% each)
   max_atk_pct: 105
   name_en: Snappy
-  name_jp: スナッピー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 16
@@ -83,7 +76,6 @@ records:
   desc_jp: Change Random to Dark, Deal 100% damage
   max_atk_pct: 100
   name_en: Colorful Palette
-  name_jp: カラフルパレット
   one_time: 0
   record_type_name: ACTION
   usage_pct: 17
@@ -92,7 +84,6 @@ records:
   desc_jp: Movetime -4s for 1 turns, Deal 95% damage
   max_atk_pct: 95
   name_en: Cracked Hourglass
-  name_jp: ひび割れた砂時計
   one_time: 0
   record_type_name: ACTION
   usage_pct: 17
@@ -101,7 +92,6 @@ records:
   desc_jp: Spawn random 5 Bomb orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Dangerous Tools
-  name_jp: デンジャーツール
   one_time: 0
   record_type_name: ACTION
   usage_pct: 17
@@ -110,7 +100,6 @@ records:
   desc_jp: Bind 3 random cards for 2 turns, Deal 95% damage
   max_atk_pct: 95
   name_en: Welding
-  name_jp: ウェルディング
   one_time: 0
   record_type_name: ACTION
   usage_pct: 17
@@ -119,7 +108,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 90
-  name_jp: HP < 90
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -128,7 +116,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -139,7 +126,6 @@ records:
     by 10 turns
   max_atk_pct: null
   name_en: You're doing quite well + This is fine, right?
-  name_jp: お前結構やるね + こんくらい別にいいよね
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -148,7 +134,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 75
-  name_jp: HP < 75
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -157,7 +142,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -166,7 +150,6 @@ records:
   desc_jp: Player -50% HP + Absorb combo <= 7 damage for 99 turns
   max_atk_pct: null
   name_en: It huuurts! + How about this?
-  name_jp: 痛いねぇ + これならどうだい！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -175,7 +158,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -184,7 +166,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -193,7 +174,6 @@ records:
   desc_jp: Player -75% HP + Bind awoken skills for 3 turns
   max_atk_pct: null
   name_en: It huuurts! + You won't have me again
-  name_jp: 痛いねぇ + もうやられないよ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -202,7 +182,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 25
-  name_jp: HP < 25
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -211,7 +190,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -220,7 +198,6 @@ records:
   desc_jp: Player -99% HP + Absorb Light, Dark damage for 99 turns
   max_atk_pct: null
   name_en: It huuurts! + Is it over already?
-  name_jp: 痛いねぇ + もう終わりかい？
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -229,7 +206,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
-  name_jp: HP < 10
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -238,7 +214,6 @@ records:
   desc_jp: Deal 3000% damage (3 hits, 1000% each)
   max_atk_pct: 3000
   name_en: Right, good job!
-  name_jp: はい、お疲れさん
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

@@ -5,7 +5,6 @@
 comments: null
 monster_id: 2410
 monster_name_en: Moonlit Prowler, Vampire Lord
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -32,7 +30,6 @@ records:
     120% damage (Preemptive)
   max_atk_pct: null
   name_en: Haughty + Bow before me
-  name_jp: 頭が高い + ひれ伏すがいい
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -41,7 +38,6 @@ records:
   desc_jp: Enemy recover 10% hp, Deal 110% damage
   max_atk_pct: 110
   name_en: Bloody Fangs
-  name_jp: ブラッディファング
   one_time: 1
   record_type_name: ACTION
   usage_pct: 50
@@ -50,7 +46,6 @@ records:
   desc_jp: Change Random to Dark, Deal 115% damage
   max_atk_pct: 115
   name_en: Blood Pain
-  name_jp: ブラッドペイン
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -59,7 +54,6 @@ records:
   desc_jp: Deal 130% damage (2 hits, 65% each)
   max_atk_pct: 130
   name_en: Nightmare Raid
-  name_jp: ナイトメアレイド
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -68,7 +62,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -77,7 +70,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -88,7 +80,6 @@ records:
     by 50% for 10 turns
   max_atk_pct: null
   name_en: Gleam of the Red Moon + Stand in awe of my power
-  name_jp: 赤月の煌き + 見るがいい我が力を
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -97,7 +88,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
-  name_jp: HP < 20
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -106,7 +96,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -115,7 +104,6 @@ records:
   desc_jp: Increase damage to 150% for the next 99 turns
   max_atk_pct: null
   name_en: Let me finish this
-  name_jp: 終わらせてやろう
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -124,7 +112,6 @@ records:
   desc_jp: Deal 400% damage (8 hits, 50% each)
   max_atk_pct: 400
   name_en: Infinity Claws
-  name_jp: インフィニティクロー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -133,7 +120,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Enemy is defeated
-  name_jp: Enemy is defeated
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -142,7 +128,6 @@ records:
   desc_jp: Enemy recover 100% hp + Mortal Poison skyfall +20% for 1 turns
   max_atk_pct: null
   name_en: I can't be defeated + Don't underestimate me
-  name_jp: 我は滅びぬ + 舐めるな
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

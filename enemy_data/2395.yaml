@@ -5,7 +5,6 @@
 comments: null
 monster_id: 2395
 monster_name_en: Awoken Thor
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -23,7 +22,6 @@ records:
     at random location + Locked Water, Light skyfall +100% for 10 turns (Preemptive)
   max_atk_pct: null
   name_en: Don't get in my way... + Harbinger of Thunder + Warrior God's Call
-  name_jp: 我の邪魔をするというのか・・・ + 天怒の前触れ + 戦神の呼声
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -32,7 +30,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: When HP is full
-  name_jp: When HP is full
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -41,7 +38,6 @@ records:
   desc_jp: Deal 110% damage (2 hits, 55% each) + Delay active skills by 3 turns
   max_atk_pct: null
   name_en: Is that all you've got? + Warrior God's Ambition
-  name_jp: 大したことないな + 戦神の覇気
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -50,7 +46,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: When HP is not full
-  name_jp: When HP is not full
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -61,7 +56,6 @@ records:
     to Light orbs, Deal 95% damage
   max_atk_pct: null
   name_en: Harbinger of Thunder + Thunder!!
-  name_jp: 天怒の前触れ + 雷よ！！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 10
@@ -72,7 +66,6 @@ records:
     to Light orbs, Deal 95% damage
   max_atk_pct: null
   name_en: Harbinger of Thunder + Thunder!!
-  name_jp: 天怒の前触れ + 雷よ！！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 10
@@ -83,7 +76,6 @@ records:
     to Light orbs, Deal 95% damage
   max_atk_pct: null
   name_en: Harbinger of Thunder + Thunder!!
-  name_jp: 天怒の前触れ + 雷よ！！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 10
@@ -94,7 +86,6 @@ records:
     to Light orbs, Deal 95% damage
   max_atk_pct: null
   name_en: Harbinger of Thunder + Thunder!!
-  name_jp: 天怒の前触れ + 雷よ！！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 10
@@ -107,7 +98,6 @@ records:
     damage
   max_atk_pct: null
   name_en: Harbinger of Thunder + Roar, Mjölnir!
-  name_jp: 天怒の前触れ + 轟け！ミョルニル
   one_time: 0
   record_type_name: ACTION
   usage_pct: 30
@@ -118,7 +108,6 @@ records:
     hits, 35% each)
   max_atk_pct: null
   name_en: Harbinger of Thunder + Give me power, Megingjörd!
-  name_jp: 天怒の前触れ + 我に力を！メギンギョルド
   one_time: 0
   record_type_name: ACTION
   usage_pct: 30
@@ -127,7 +116,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -136,7 +124,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -147,7 +134,6 @@ records:
     50% for 10 turns
   max_atk_pct: null
   name_en: Since you came this far... + ...just come and fight!
-  name_jp: ここまでやるとは・・・ + よかろう来るがいい
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -156,7 +142,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
-  name_jp: HP < 20
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -165,7 +150,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -174,7 +158,6 @@ records:
   desc_jp: Increase damage to 200% for the next 99 turns
   max_atk_pct: null
   name_en: Earth Megin Unleashed
-  name_jp: アースメギンの解放
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -183,7 +166,6 @@ records:
   desc_jp: Change all orbs to Jammer, Deal 500% damage
   max_atk_pct: 500
   name_en: Lightning Hell
-  name_jp: ライトニングヘル
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -202,7 +184,6 @@ records:
     random location + Locked Water, Light skyfall +100% for 10 turns (Preemptive)
   max_atk_pct: null
   name_en: Don't get in my way... + Harbinger of Thunder + Warrior God's Call
-  name_jp: 我の邪魔をするというのか・・・ + 天怒の前触れ + 戦神の呼声
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -211,7 +192,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: When HP is full
-  name_jp: When HP is full
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -220,7 +200,6 @@ records:
   desc_jp: Deal 110% damage (2 hits, 55% each) + Delay active skills by 3 turns
   max_atk_pct: null
   name_en: Is that all you've got? + Warrior God's Ambition
-  name_jp: 大したことないな + 戦神の覇気
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -229,7 +208,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: When HP is not full
-  name_jp: When HP is not full
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -240,7 +218,6 @@ records:
     Light orbs, Deal 95% damage
   max_atk_pct: null
   name_en: Harbinger of Thunder + Thunder!!
-  name_jp: 天怒の前触れ + 雷よ！！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 10
@@ -251,7 +228,6 @@ records:
     Light orbs, Deal 95% damage
   max_atk_pct: null
   name_en: Harbinger of Thunder + Thunder!!
-  name_jp: 天怒の前触れ + 雷よ！！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 10
@@ -262,7 +238,6 @@ records:
     Light orbs, Deal 95% damage
   max_atk_pct: null
   name_en: Harbinger of Thunder + Thunder!!
-  name_jp: 天怒の前触れ + 雷よ！！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 10
@@ -273,7 +248,6 @@ records:
     Light orbs, Deal 95% damage
   max_atk_pct: null
   name_en: Harbinger of Thunder + Thunder!!
-  name_jp: 天怒の前触れ + 雷よ！！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 10
@@ -286,7 +260,6 @@ records:
     damage
   max_atk_pct: null
   name_en: Harbinger of Thunder + Roar, Mjölnir!
-  name_jp: 天怒の前触れ + 轟け！ミョルニル
   one_time: 0
   record_type_name: ACTION
   usage_pct: 30
@@ -297,7 +270,6 @@ records:
     35% each)
   max_atk_pct: null
   name_en: Harbinger of Thunder + Give me power, Megingjörd!
-  name_jp: 天怒の前触れ + 我に力を！メギンギョルド
   one_time: 0
   record_type_name: ACTION
   usage_pct: 30
@@ -306,7 +278,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -315,7 +286,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -326,7 +296,6 @@ records:
     50% for 10 turns
   max_atk_pct: null
   name_en: Since you came this far... + ...just come and fight!
-  name_jp: ここまでやるとは・・・ + よかろう来るがいい
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -335,7 +304,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
-  name_jp: HP < 20
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -344,7 +312,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -353,7 +320,6 @@ records:
   desc_jp: Increase damage to 200% for the next 99 turns
   max_atk_pct: null
   name_en: Earth Megin Unleashed
-  name_jp: アースメギンの解放
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -362,7 +328,6 @@ records:
   desc_jp: Change all orbs to Jammer, Deal 500% damage
   max_atk_pct: 500
   name_en: Lightning Hell
-  name_jp: ライトニングヘル
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

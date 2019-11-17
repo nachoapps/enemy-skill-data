@@ -5,7 +5,6 @@
 comments: null
 monster_id: 2056
 monster_name_en: Neo Exdeath
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -22,7 +21,6 @@ records:
   max_atk_pct: null
   name_en: All memories...dimensions...existence... + All that is shall be returned
     to nothing. + Then I, too, can disappear...forever!!!
-  name_jp: 全ての記憶　全ての存在 + 全ての次元を消し　そして私も消えよう + 永遠に!!
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -31,7 +29,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: When player has any buff
-  name_jp: When player has any buff
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -40,7 +37,6 @@ records:
   desc_jp: Voids player buff effects
   max_atk_pct: null
   name_en: Dispel
-  name_jp: ディスペル
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -49,7 +45,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -58,7 +53,6 @@ records:
   desc_jp: Deal 120%~160% damage (3~4 hits, 40% each)
   max_atk_pct: 160
   name_en: Almagest
-  name_jp: アルマゲスト
   one_time: 0
   record_type_name: ACTION
   usage_pct: 40
@@ -67,7 +61,6 @@ records:
   desc_jp: Bind 1 subs for 3 turns, Deal 90% damage
   max_atk_pct: 90
   name_en: Delta Attack
-  name_jp: デルタアタック
   one_time: 0
   record_type_name: ACTION
   usage_pct: 40
@@ -76,7 +69,6 @@ records:
   desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: Disable Skill
-  name_jp: 通常攻撃
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -85,7 +77,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 40
-  name_jp: HP < 40
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -94,7 +85,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -103,7 +93,6 @@ records:
   desc_jp: Do nothing
   max_atk_pct: null
   name_en: The Laws of the universe mean nothing!
-  name_jp: 宇宙の法則が乱れる！
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -112,7 +101,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -121,7 +109,6 @@ records:
   desc_jp: Bind 2 random for 1~3 turns, Deal 120% damage
   max_atk_pct: 120
   name_en: Grand Cross
-  name_jp: グランドクロス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -130,7 +117,6 @@ records:
   desc_jp: Deal 120% damage (4 hits, 30% each) + Player -99% HP
   max_atk_pct: null
   name_en: Meteor + Maelstrom
-  name_jp: メテオ + ミールストーム
   one_time: 0
   record_type_name: ACTION
   usage_pct: 30
@@ -141,7 +127,6 @@ records:
     hits, 50% each)
   max_atk_pct: null
   name_en: Almagest + Comet
-  name_jp: アルマゲスト + コメット
   one_time: 0
   record_type_name: ACTION
   usage_pct: 30
@@ -150,7 +135,6 @@ records:
   desc_jp: Deal 50%~200% damage (1~4 hits, 50% each) + Deal 120% damage
   max_atk_pct: null
   name_en: Comet + Vacuum Wave
-  name_jp: コメット + しんくうは
   one_time: 0
   record_type_name: ACTION
   usage_pct: 30

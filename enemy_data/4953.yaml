@@ -5,7 +5,6 @@
 comments: null
 monster_id: 4953
 monster_name_en: コマさんＳ
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -23,7 +22,6 @@ records:
     turns (Preemptive)
   max_atk_pct: null
   name_en: なんかオラ　燃えてきたズラ！ + もんげーーっ！
-  name_jp: なんかオラ　燃えてきたズラ！ + もんげーーっ！
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -32,7 +30,6 @@ records:
   desc_jp: Deal 105% damage (3 hits, 35% each)
   max_atk_pct: 105
   name_en: ズラズラズラ～っ！
-  name_jp: ズラズラズラ～っ！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 34
@@ -41,7 +38,6 @@ records:
   desc_jp: Player -75% HP
   max_atk_pct: null
   name_en: ズラッ！
-  name_jp: ズラッ！
   one_time: 1
   record_type_name: ACTION
   usage_pct: 33
@@ -50,7 +46,6 @@ records:
   desc_jp: Change Random to Fire, Deal 95% damage
   max_atk_pct: 95
   name_en: あっちいズラよ～！
-  name_jp: あっちいズラよ～！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -59,7 +54,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -68,7 +62,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -79,7 +72,6 @@ records:
     turns
   max_atk_pct: null
   name_en: Ｓのチカラ　わいてくるズラ… + オラ　止まんないズラ～！！
-  name_jp: Ｓのチカラ　わいてくるズラ… + オラ　止まんないズラ～！！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -88,7 +80,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
-  name_jp: HP < 20
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -97,7 +88,6 @@ records:
   desc_jp: Bind awoken skills for 1 turns
   max_atk_pct: null
   name_en: いいかげんにするズラ～！
-  name_jp: いいかげんにするズラ～！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -106,7 +96,6 @@ records:
   desc_jp: Deal 200% damage (5 hits, 40% each)
   max_atk_pct: 200
   name_en: ひとだま乱舞
-  name_jp: ひとだま乱舞
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

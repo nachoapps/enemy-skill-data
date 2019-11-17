@@ -5,7 +5,6 @@
 comments: null
 monster_id: 5035
 monster_name_en: Magic Dracosnake of the Evilfangs, Zahhak
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Reduce damage from God by 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -32,7 +30,6 @@ records:
     + Absorb combo <= 7 damage for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: Overflowing Bloodlust + Serpent Barrier + Sky-High Jump
-  name_jp: 溢れ出る殺気 + 蛇防壁堅 + 空高く跳躍した
   one_time: 2
   record_type_name: PREEMPT
   usage_pct: 100
@@ -41,7 +38,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -50,7 +46,6 @@ records:
   desc_jp: Deal 100% damage, (if >=8 combos last turn)
   max_atk_pct: 100
   name_en: Fall from the sky
-  name_jp: 空から落下してきた
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -59,7 +54,6 @@ records:
   desc_jp: Deal 180% damage
   max_atk_pct: 180
   name_en: Snake Fist Drive Strike
-  name_jp: 蛇拳ドライブストライク
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -68,7 +62,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -77,7 +70,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -86,7 +78,6 @@ records:
   desc_jp: Increase damage to 150% for the next 5 turns + Seal 5th row for 5 turns
   max_atk_pct: null
   name_en: Raging Roar + Hitting the ground
-  name_jp: 憤る咆哮 + 拳を地面にたたきつけた
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -95,7 +86,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2-6
-  name_jp: Loop to 1 after. Turn 2-6
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -104,7 +94,6 @@ records:
   desc_jp: Spawn random 7 Poison orbs, Deal 90% damage
   max_atk_pct: 90
   name_en: Snake Venom Breath
-  name_jp: 蛇毒の息吹
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
@@ -113,7 +102,6 @@ records:
   desc_jp: Bind 2 random cards for 1~3 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Twin Snake Bite
-  name_jp: 双蛇噛砕
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
@@ -122,7 +110,6 @@ records:
   desc_jp: Deal 105% damage
   max_atk_pct: 105
   name_en: Very Strong Charge
-  name_jp: 大剛突進
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
@@ -131,7 +118,6 @@ records:
   desc_jp: Deal 112% damage (4 hits, 28% each)
   max_atk_pct: 112
   name_en: Rising Fist
-  name_jp: 拳を振り回す
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
@@ -140,7 +126,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -149,7 +134,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -158,7 +142,6 @@ records:
   desc_jp: Do nothing + Poison skyfall +20% for 99 turns
   max_atk_pct: null
   name_en: Wearing Miasma + Surrounded by Miasma
-  name_jp: 瘴気を纏った + 辺りに瘴気が立ち込める
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -167,7 +150,6 @@ records:
   desc_jp: Spawn random 7 Mortal Poison orbs, Deal 90% damage
   max_atk_pct: 90
   name_en: Snake Venom Breath
-  name_jp: 蛇毒の息吹
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
@@ -176,7 +158,6 @@ records:
   desc_jp: Bind 3 random cards for 2~4 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Twin Snake Bite
-  name_jp: 双蛇噛砕
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
@@ -185,7 +166,6 @@ records:
   desc_jp: Spawn random 4 Poison orbs, Deal 105% damage
   max_atk_pct: 105
   name_en: Very Strong Charge
-  name_jp: 大剛突進
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
@@ -194,7 +174,6 @@ records:
   desc_jp: Deal 115% damage (5 hits, 23% each)
   max_atk_pct: 115
   name_en: Rising Fist
-  name_jp: 拳を振り回す
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
@@ -203,7 +182,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
-  name_jp: HP < 10
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -212,7 +190,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -221,7 +198,6 @@ records:
   desc_jp: Absorb combo <= 9 damage for 1 turns
   max_atk_pct: null
   name_en: Heaven-High Jump
-  name_jp: 天高く跳躍した
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -230,7 +206,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
-  name_jp: Loop to 1 after. Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -239,7 +214,6 @@ records:
   desc_jp: Deal 500% damage
   max_atk_pct: 500
   name_en: Double Snake Fist Drive Impact
-  name_jp: 双蛇拳ドライブインパクト
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -256,7 +230,6 @@ records:
   desc_jp: Reduce damage from God by 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -267,7 +240,6 @@ records:
     + Absorb combo <= 8 damage for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: Overflowing Bloodlust + Serpent Barrier + Sky-High Jump
-  name_jp: 溢れ出る殺気 + 蛇防壁堅 + 空高く跳躍した
   one_time: 2
   record_type_name: PREEMPT
   usage_pct: 100
@@ -276,7 +248,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -285,7 +256,6 @@ records:
   desc_jp: Deal 100% damage, (if >=9 combos last turn)
   max_atk_pct: 100
   name_en: Fall from the sky
-  name_jp: 空から落下してきた
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -294,7 +264,6 @@ records:
   desc_jp: Deal 180% damage
   max_atk_pct: 180
   name_en: Snake Fist Drive Strike
-  name_jp: 蛇拳ドライブストライク
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -303,7 +272,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -312,7 +280,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -321,7 +288,6 @@ records:
   desc_jp: Increase damage to 150% for the next 5 turns + Seal 5th row for 5 turns
   max_atk_pct: null
   name_en: Raging Roar + Hitting the ground
-  name_jp: 憤る咆哮 + 拳を地面にたたきつけた
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -330,7 +296,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2-6
-  name_jp: Loop to 1 after. Turn 2-6
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -339,7 +304,6 @@ records:
   desc_jp: Spawn random 7 Poison orbs, Deal 90% damage
   max_atk_pct: 90
   name_en: Snake Venom Breath
-  name_jp: 蛇毒の息吹
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
@@ -348,7 +312,6 @@ records:
   desc_jp: Bind 2 random cards for 1~3 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Twin Snake Bite
-  name_jp: 双蛇噛砕
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
@@ -357,7 +320,6 @@ records:
   desc_jp: Deal 105% damage
   max_atk_pct: 105
   name_en: Very Strong Charge
-  name_jp: 大剛突進
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
@@ -366,7 +328,6 @@ records:
   desc_jp: Deal 112% damage (4 hits, 28% each)
   max_atk_pct: 112
   name_en: Rising Fist
-  name_jp: 拳を振り回す
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
@@ -375,7 +336,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -384,7 +344,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -393,7 +352,6 @@ records:
   desc_jp: Do nothing + Poison skyfall +20% for 99 turns
   max_atk_pct: null
   name_en: Wearing Miasma + Surrounded by Miasma
-  name_jp: 瘴気を纏った + 辺りに瘴気が立ち込める
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -402,7 +360,6 @@ records:
   desc_jp: Spawn random 7 Mortal Poison orbs, Deal 90% damage
   max_atk_pct: 90
   name_en: Snake Venom Breath
-  name_jp: 蛇毒の息吹
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
@@ -411,7 +368,6 @@ records:
   desc_jp: Bind 3 random cards for 2~4 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Twin Snake Bite
-  name_jp: 双蛇噛砕
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
@@ -420,7 +376,6 @@ records:
   desc_jp: Spawn random 4 Poison orbs, Deal 105% damage
   max_atk_pct: 105
   name_en: Very Strong Charge
-  name_jp: 大剛突進
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
@@ -429,7 +384,6 @@ records:
   desc_jp: Deal 115% damage (5 hits, 23% each)
   max_atk_pct: 115
   name_en: Rising Fist
-  name_jp: 拳を振り回す
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
@@ -438,7 +392,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
-  name_jp: HP < 10
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -447,7 +400,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -456,7 +408,6 @@ records:
   desc_jp: Absorb combo <= 9 damage for 1 turns
   max_atk_pct: null
   name_en: Heaven-High Jump
-  name_jp: 天高く跳躍した
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -465,7 +416,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
-  name_jp: Loop to 1 after. Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -474,7 +424,6 @@ records:
   desc_jp: Deal 500% damage
   max_atk_pct: 500
   name_en: Double Snake Fist Drive Impact
-  name_jp: 双蛇拳ドライブインパクト
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

@@ -5,7 +5,6 @@
 comments: null
 monster_id: 3793
 monster_name_en: Wedding Makeup Artist, Blue Gadget
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Absorb combo <= 5 damage for 1 turns, Deal 100% damage (Preemptive)
   max_atk_pct: 100
   name_en: Ocean Makeup
-  name_jp: オーシャンメイクアップ
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -41,7 +38,6 @@ records:
     Poison orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Setting Spray
-  name_jp: キープスプレー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -50,7 +46,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
-  name_jp: Loop to 1 after. Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -59,7 +54,6 @@ records:
   desc_jp: Absorb combo <= 5 damage for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Ocean Makeup
-  name_jp: オーシャンメイクアップ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -68,7 +62,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 70
-  name_jp: HP < 70
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -77,7 +70,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -86,7 +78,6 @@ records:
   desc_jp: Fire skyfall +15% for 3 turns
   max_atk_pct: null
   name_en: Jet Dryer
-  name_jp: ジェットドライヤー
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100

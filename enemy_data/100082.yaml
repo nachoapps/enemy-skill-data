@@ -5,7 +5,6 @@
 comments: null
 monster_id: 100082
 monster_name_en: Alt. Earth Golem
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Blind orbs in specific positions for 3 turns (Preemptive)
   max_atk_pct: null
   name_en: Grip Fist
-  name_jp: グリップフィスト
   one_time: 1
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Spawn random 1 Wood orbs, Deal 400% damage
   max_atk_pct: 400
   name_en: Rock Punch
-  name_jp: ロックパンチ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

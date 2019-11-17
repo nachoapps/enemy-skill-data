@@ -5,7 +5,6 @@
 comments: null
 monster_id: 702
 monster_name_en: Rei&Eva Unit-00, Suicide ATK Mode
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Change Poison to Heal, Deal 120% damage
   max_atk_pct: 120
   name_en: Curing Breath
-  name_jp: キュアリングブレス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

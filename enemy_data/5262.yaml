@@ -5,7 +5,6 @@
 comments: null
 monster_id: 5262
 monster_name_en: Marco
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Voids status ailments for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: You will face me.
-  name_jp: 私が相手だ
   one_time: 1
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Delay active skills by 2 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: I am the most serious now.
-  name_jp: 私は大本気だよ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -39,7 +36,6 @@ records:
   desc_jp: Change Random to Light, Deal 90% damage
   max_atk_pct: 90
   name_en: Witness my justice!!!
-  name_jp: 我が正義証明するのみ!!!
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -48,7 +44,6 @@ records:
   desc_jp: Change 2nd row to Light orbs, Deal 95% damage
   max_atk_pct: 95
   name_en: I'm not finished yet!
-  name_jp: まだまだッ!!!
   one_time: 0
   record_type_name: ACTION
   usage_pct: 34
@@ -57,7 +52,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 50
-  name_jp: HP <= 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -66,7 +60,6 @@ records:
   desc_jp: Deal 120% damage (4 hits, 30% each)
   max_atk_pct: 120
   name_en: I entrust the future in their hands!
-  name_jp: 私は彼らに未来を託す！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -75,7 +68,6 @@ records:
   desc_jp: Delay active skills by 2 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: I am the most serious now.
-  name_jp: 私は大本気だよ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -84,7 +76,6 @@ records:
   desc_jp: Change Random to Light, Deal 90% damage
   max_atk_pct: 90
   name_en: Witness my justice!!!
-  name_jp: 我が正義証明するのみ!!!
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -93,7 +84,6 @@ records:
   desc_jp: Change 2nd row to Light orbs, Deal 95% damage
   max_atk_pct: 95
   name_en: I'm not finished yet!
-  name_jp: まだまだッ!!!
   one_time: 0
   record_type_name: ACTION
   usage_pct: 34

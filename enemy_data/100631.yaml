@@ -5,7 +5,6 @@
 comments: null
 monster_id: 100631
 monster_name_en: Alt. Flame Archdemon Belial
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Voids status ailments for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: I'll play around for 3 turns
-  name_jp: 3ターン遊んでやる
   one_time: 16
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -39,7 +36,6 @@ records:
   desc_jp: Absorb combo <= 7 damage for 1 turns
   max_atk_pct: null
   name_en: Take this!
-  name_jp: そらよ！
   one_time: 8
   record_type_name: ACTION
   usage_pct: 33
@@ -48,7 +44,6 @@ records:
   desc_jp: Movetime 50% for 1 turns
   max_atk_pct: null
   name_en: Take this!
-  name_jp: そらよ！
   one_time: 8
   record_type_name: ACTION
   usage_pct: 50
@@ -57,7 +52,6 @@ records:
   desc_jp: Random 3 orbs change every 1.0s for 1 turns
   max_atk_pct: null
   name_en: Take this!
-  name_jp: そらよ！
   one_time: 8
   record_type_name: ACTION
   usage_pct: 100
@@ -66,7 +60,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -75,7 +68,6 @@ records:
   desc_jp: Absorb combo <= 7 damage for 1 turns
   max_atk_pct: null
   name_en: How about this?!
-  name_jp: どうだ！！
   one_time: 4
   record_type_name: ACTION
   usage_pct: 33
@@ -84,7 +76,6 @@ records:
   desc_jp: Movetime 50% for 1 turns
   max_atk_pct: null
   name_en: How about this?!
-  name_jp: どうだ！！
   one_time: 4
   record_type_name: ACTION
   usage_pct: 50
@@ -93,7 +84,6 @@ records:
   desc_jp: Random 3 orbs change every 1.0s for 1 turns
   max_atk_pct: null
   name_en: How about this?!
-  name_jp: どうだ！！
   one_time: 4
   record_type_name: ACTION
   usage_pct: 100
@@ -102,7 +92,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -111,7 +100,6 @@ records:
   desc_jp: Absorb combo <= 7 damage for 1 turns
   max_atk_pct: null
   name_en: I'll end this now!
-  name_jp: これで最後だぞ
   one_time: 2
   record_type_name: ACTION
   usage_pct: 33
@@ -120,7 +108,6 @@ records:
   desc_jp: Movetime 50% for 1 turns
   max_atk_pct: null
   name_en: I'll end this now!
-  name_jp: これで最後だぞ
   one_time: 2
   record_type_name: ACTION
   usage_pct: 50
@@ -129,7 +116,6 @@ records:
   desc_jp: Random 3 orbs change every 1.0s for 1 turns
   max_atk_pct: null
   name_en: I'll end this now!
-  name_jp: これで最後だぞ
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -138,7 +124,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
-  name_jp: Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -147,7 +132,6 @@ records:
   desc_jp: Bind awoken skills for 1 turns + Deal 400% damage (4 hits, 100% each)
   max_atk_pct: null
   name_en: Damn, time's up + Devil Chariot's Fearsome Volley
-  name_jp: 残念、時間切れだ + 魔戦車の猛攻
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -156,7 +140,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -165,7 +148,6 @@ records:
   desc_jp: Deal 400% damage (4 hits, 100% each)
   max_atk_pct: 400
   name_en: Devil Chariot's Fearsome Volley
-  name_jp: 魔戦車の猛攻
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

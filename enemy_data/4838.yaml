@@ -5,7 +5,6 @@
 comments: null
 monster_id: 4838
 monster_name_en: Guardian of the City of Gods, Athena - Non
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings:
 - Found 1 unused actions
@@ -24,7 +23,6 @@ records:
     75% for 20 turns (Preemptive)
   max_atk_pct: null
   name_en: Aegis' Protection + Blessing of Nike
-  name_jp: アイギスの守り + ニケの加護
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -35,7 +33,6 @@ records:
     80% damage
   max_atk_pct: null
   name_en: Evil Eye of the Gorgon + Shining Spear
-  name_jp: ゴルゴンの邪眼 + シャイニングスピア
   one_time: 1
   record_type_name: ACTION
   usage_pct: 25
@@ -44,7 +41,6 @@ records:
   desc_jp: Deal 155% damage (5 hits, 31% each)
   max_atk_pct: 155
   name_en: Divine Saber
-  name_jp: ディバインセイバー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
@@ -55,7 +51,6 @@ records:
     Poison orbs, Deal 150% damage
   max_atk_pct: 150
   name_en: Siculus Chain
-  name_jp: シケリアチェーン
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
@@ -64,7 +59,6 @@ records:
   desc_jp: Movetime -2s for 1 turns, Deal 150% damage
   max_atk_pct: 150
   name_en: Steel Strike
-  name_jp: スティールストライク
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
@@ -73,7 +67,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 75
-  name_jp: HP < 75
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -82,7 +75,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -93,7 +85,6 @@ records:
     Deal 80% damage
   max_atk_pct: null
   name_en: Evil Eye of the Gorgon + Shining Spear
-  name_jp: ゴルゴンの邪眼 + シャイニングスピア
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -104,7 +95,6 @@ records:
     80% damage
   max_atk_pct: null
   name_en: Evil Eye of the Gorgon + Shining Spear
-  name_jp: ゴルゴンの邪眼 + シャイニングスピア
   one_time: 1
   record_type_name: ACTION
   usage_pct: 25
@@ -113,7 +103,6 @@ records:
   desc_jp: Deal 155% damage (5 hits, 31% each)
   max_atk_pct: 155
   name_en: Divine Saber
-  name_jp: ディバインセイバー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
@@ -124,7 +113,6 @@ records:
     Poison orbs, Deal 150% damage
   max_atk_pct: 150
   name_en: Siculus Chain
-  name_jp: シケリアチェーン
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
@@ -133,7 +121,6 @@ records:
   desc_jp: Movetime -2s for 1 turns, Deal 150% damage
   max_atk_pct: 150
   name_en: Steel Strike
-  name_jp: スティールストライク
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
@@ -142,7 +129,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 25
-  name_jp: HP < 25
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -151,7 +137,6 @@ records:
   desc_jp: Voids player buff effects + Deal 215% damage (5 hits, 43% each)
   max_atk_pct: null
   name_en: Victoria's Will + Divine Burst
-  name_jp: ヴィクトリアの意志 + ディバインバースト
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

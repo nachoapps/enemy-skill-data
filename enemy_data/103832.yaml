@@ -5,7 +5,6 @@
 comments: null
 monster_id: 103832
 monster_name_en: Alt. Alluring Wise Demon, Ibaraki-doji
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Reduce damage from Water by 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -34,7 +32,6 @@ records:
     turns (Preemptive)
   max_atk_pct: null
   name_en: Look alive! + Mount Ooe's Soul Guardian
-  name_jp: 油断してんなよ！！ + 大江山の霊護
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -43,7 +40,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1-4
-  name_jp: Turn 1-4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -52,7 +48,6 @@ records:
   desc_jp: Deal 240% damage (2 hits, 120% each)
   max_atk_pct: 240
   name_en: Wham! Bam!
-  name_jp: 打ッ！打ッ！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -61,7 +56,6 @@ records:
   desc_jp: Deal 260% damage (4 hits, 65% each)
   max_atk_pct: 260
   name_en: Take that and that and that!
-  name_jp: 打打打打ァッ！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -70,7 +64,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
-  name_jp: Turn 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -79,7 +72,6 @@ records:
   desc_jp: Void damage >= 10000000 for 99 turns + Enemy recover 15% hp
   max_atk_pct: null
   name_en: How about that, eh? Still wanna fight? + War Cycle
-  name_jp: さぁさぁ、まだやれんのか？ + 戦丸
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -88,7 +80,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -97,7 +88,6 @@ records:
   desc_jp: Deal 240% damage (2 hits, 120% each)
   max_atk_pct: 240
   name_en: Wham! Bam!
-  name_jp: 打ッ！打ッ！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -106,7 +96,6 @@ records:
   desc_jp: Deal 260% damage (4 hits, 65% each)
   max_atk_pct: 260
   name_en: Take that and that and that!
-  name_jp: 打打打打ァッ！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -115,7 +104,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 32
-  name_jp: HP <= 32
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -124,7 +112,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -133,7 +120,6 @@ records:
   desc_jp: Blind random 1~4 orbs for 1 turns, Deal 220% damage
   max_atk_pct: 220
   name_en: Steely Gaze
-  name_jp: 眼鉄
   one_time: 0
   record_type_name: ACTION
   usage_pct: 30
@@ -142,7 +128,6 @@ records:
   desc_jp: Increase damage to 450% for the next attack
   max_atk_pct: null
   name_en: Here I go!!
-  name_jp: 行っくぜ～！！
   one_time: 3
   record_type_name: ACTION
   usage_pct: 100
@@ -151,7 +136,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2-4
-  name_jp: Turn 2-4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -160,7 +144,6 @@ records:
   desc_jp: Blind random 1~4 orbs for 1 turns, Deal 220% damage
   max_atk_pct: 220
   name_en: Steely Gaze
-  name_jp: 眼鉄
   one_time: 0
   record_type_name: ACTION
   usage_pct: 30
@@ -169,7 +152,6 @@ records:
   desc_jp: Deal 240% damage (2 hits, 120% each)
   max_atk_pct: 240
   name_en: Wham! Bam!
-  name_jp: 打ッ！打ッ！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -178,7 +160,6 @@ records:
   desc_jp: Deal 260% damage (4 hits, 65% each)
   max_atk_pct: 260
   name_en: Take that and that and that!
-  name_jp: 打打打打ァッ！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -187,7 +168,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -196,7 +176,6 @@ records:
   desc_jp: Blind random 1~4 orbs for 1 turns, Deal 220% damage
   max_atk_pct: 220
   name_en: Steely Gaze
-  name_jp: 眼鉄
   one_time: 0
   record_type_name: ACTION
   usage_pct: 30
@@ -205,7 +184,6 @@ records:
   desc_jp: Increase damage to 450% for the next attack
   max_atk_pct: null
   name_en: Here I go!!
-  name_jp: 行っくぜ～！！
   one_time: 3
   record_type_name: ACTION
   usage_pct: 100
@@ -214,7 +192,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2-4
-  name_jp: Loop to 1 after. Turn 2-4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -223,7 +200,6 @@ records:
   desc_jp: Blind random 1~4 orbs for 1 turns, Deal 220% damage
   max_atk_pct: 220
   name_en: Steely Gaze
-  name_jp: 眼鉄
   one_time: 0
   record_type_name: ACTION
   usage_pct: 30
@@ -232,7 +208,6 @@ records:
   desc_jp: Deal 240% damage (2 hits, 120% each)
   max_atk_pct: 240
   name_en: Wham! Bam!
-  name_jp: 打ッ！打ッ！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -241,7 +216,6 @@ records:
   desc_jp: Deal 260% damage (4 hits, 65% each)
   max_atk_pct: 260
   name_en: Take that and that and that!
-  name_jp: 打打打打ァッ！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -250,7 +224,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 5
-  name_jp: HP < 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -259,7 +232,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1-4
-  name_jp: Turn 1-4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -268,7 +240,6 @@ records:
   desc_jp: Deal 1000% damage (10 hits, 100% each)
   max_atk_pct: 1000
   name_en: Matchless Vajra Barrage
-  name_jp: 金剛無双連打
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -277,7 +248,6 @@ records:
   desc_jp: Deal 1000% damage (10 hits, 100% each)
   max_atk_pct: 1000
   name_en: Matchless Vajra Barrage
-  name_jp: 金剛無双連打
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

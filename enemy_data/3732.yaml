@@ -5,7 +5,6 @@
 comments: null
 monster_id: 3732
 monster_name_en: Violent Dragon Lord of Tyranny, Valten
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -23,7 +22,6 @@ records:
     999 turns + Void damage >= 20000000 for 999 turns (Preemptive)
   max_atk_pct: null
   name_en: Confusion + Dragonscale + Colossus
-  name_jp: コンフュージョン + ドラゴンスケール + ヒュージビーイング
   one_time: 9
   record_type_name: PREEMPT
   usage_pct: 100
@@ -32,7 +30,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: When HP is full
-  name_jp: When HP is full
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -41,7 +38,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3-9
-  name_jp: Turn 3-9
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -50,7 +46,6 @@ records:
   desc_jp: Spawn Bomb orbs in the specified positions, Deal 250% damage
   max_atk_pct: 250
   name_en: Ignited
-  name_jp: イグナイテッド
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -59,7 +54,6 @@ records:
   desc_jp: Change Water to Fire, Deal 265% damage
   max_atk_pct: 265
   name_en: Flare Breath
-  name_jp: フレアブレス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -70,7 +64,6 @@ records:
     Poison orbs, Deal 260% damage
   max_atk_pct: 260
   name_en: Nova
-  name_jp: ノヴァ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -79,7 +72,6 @@ records:
   desc_jp: 1x1 cloud appear for 1 turns at random location, Deal 260% damage
   max_atk_pct: 260
   name_en: Heat Haze
-  name_jp: ヒートヘイズ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -88,7 +80,6 @@ records:
   desc_jp: Deal 270% damage (3 hits, 90% each)
   max_atk_pct: 270
   name_en: Meteor
-  name_jp: ミーティア
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -97,7 +88,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 10
-  name_jp: Turn 10
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -108,7 +98,6 @@ records:
     turns + Deal 1500% damage (10 hits, 150% each) + Player recover 100% hp
   max_atk_pct: null
   name_en: Confusion + Suppression + X Burst + Dragon Tears
-  name_jp: コンフュージョン + サプレッション + X・バースト + ドラゴンティア
   one_time: 9
   record_type_name: ACTION
   usage_pct: 100
@@ -117,7 +106,6 @@ records:
   desc_jp: Spawn Bomb orbs in the specified positions, Deal 250% damage
   max_atk_pct: 250
   name_en: Ignited
-  name_jp: イグナイテッド
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -126,7 +114,6 @@ records:
   desc_jp: Change Water to Fire, Deal 265% damage
   max_atk_pct: 265
   name_en: Flare Breath
-  name_jp: フレアブレス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -137,7 +124,6 @@ records:
     Poison orbs, Deal 260% damage
   max_atk_pct: 260
   name_en: Nova
-  name_jp: ノヴァ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -146,7 +132,6 @@ records:
   desc_jp: 1x1 cloud appear for 1 turns at random location, Deal 260% damage
   max_atk_pct: 260
   name_en: Heat Haze
-  name_jp: ヒートヘイズ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -155,7 +140,6 @@ records:
   desc_jp: Deal 270% damage (3 hits, 90% each)
   max_atk_pct: 270
   name_en: Meteor
-  name_jp: ミーティア
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -164,7 +148,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: When HP is not full
-  name_jp: When HP is not full
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -173,7 +156,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1-9
-  name_jp: Execute repeatedly. Turn 1-9
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -182,7 +164,6 @@ records:
   desc_jp: Spawn Bomb orbs in the specified positions, Deal 250% damage
   max_atk_pct: 250
   name_en: Ignited
-  name_jp: イグナイテッド
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -191,7 +172,6 @@ records:
   desc_jp: Change Water to Fire, Deal 265% damage
   max_atk_pct: 265
   name_en: Flare Breath
-  name_jp: フレアブレス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -202,7 +182,6 @@ records:
     Poison orbs, Deal 260% damage
   max_atk_pct: 260
   name_en: Nova
-  name_jp: ノヴァ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -211,7 +190,6 @@ records:
   desc_jp: 1x1 cloud appear for 1 turns at random location, Deal 260% damage
   max_atk_pct: 260
   name_en: Heat Haze
-  name_jp: ヒートヘイズ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -220,7 +198,6 @@ records:
   desc_jp: Deal 270% damage (3 hits, 90% each)
   max_atk_pct: 270
   name_en: Meteor
-  name_jp: ミーティア
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -229,7 +206,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 10
-  name_jp: Loop to 1 after. Turn 10
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -240,7 +216,6 @@ records:
     turns + Deal 1500% damage (10 hits, 150% each) + Player recover 100% hp
   max_atk_pct: null
   name_en: Confusion + Suppression + X Burst + Dragon Tears
-  name_jp: コンフュージョン + サプレッション + X・バースト + ドラゴンティア
   one_time: 9
   record_type_name: ACTION
   usage_pct: 100
@@ -249,7 +224,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 65
-  name_jp: HP <= 65
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -258,7 +232,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -269,7 +242,6 @@ records:
     sub for 3 turns, Deal 400% damage
   max_atk_pct: null
   name_en: Wall + Rejection
-  name_jp: ウォール + リジェクション
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -280,7 +252,6 @@ records:
     sub for 3 turns, Deal 400% damage
   max_atk_pct: null
   name_en: Wall + Rejection
-  name_jp: ウォール + リジェクション
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -289,7 +260,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2-9
-  name_jp: Turn 2-9
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -298,7 +268,6 @@ records:
   desc_jp: Spawn Bomb orbs in the specified positions, Deal 250% damage
   max_atk_pct: 250
   name_en: Ignited
-  name_jp: イグナイテッド
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -307,7 +276,6 @@ records:
   desc_jp: Change Water to Fire, Deal 265% damage
   max_atk_pct: 265
   name_en: Flare Breath
-  name_jp: フレアブレス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -318,7 +286,6 @@ records:
     Poison orbs, Deal 260% damage
   max_atk_pct: 260
   name_en: Nova
-  name_jp: ノヴァ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -327,7 +294,6 @@ records:
   desc_jp: 1x1 cloud appear for 1 turns at random location, Deal 260% damage
   max_atk_pct: 260
   name_en: Heat Haze
-  name_jp: ヒートヘイズ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -336,7 +302,6 @@ records:
   desc_jp: Deal 270% damage (3 hits, 90% each)
   max_atk_pct: 270
   name_en: Meteor
-  name_jp: ミーティア
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -345,7 +310,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 10
-  name_jp: Turn 10
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -356,7 +320,6 @@ records:
     turns + Deal 1500% damage (10 hits, 150% each) + Player recover 100% hp
   max_atk_pct: null
   name_en: Confusion + Suppression + X Burst + Dragon Tears
-  name_jp: コンフュージョン + サプレッション + X・バースト + ドラゴンティア
   one_time: 9
   record_type_name: ACTION
   usage_pct: 100
@@ -365,7 +328,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 30
-  name_jp: HP <= 30
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -374,7 +336,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -385,7 +346,6 @@ records:
     for 3 turns, Deal 400% damage
   max_atk_pct: null
   name_en: Wall + Suppression
-  name_jp: ウォール + サプレッション
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -396,7 +356,6 @@ records:
     for 3 turns, Deal 400% damage
   max_atk_pct: null
   name_en: Wall + Suppression
-  name_jp: ウォール + サプレッション
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

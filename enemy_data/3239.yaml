@@ -5,7 +5,6 @@
 comments: null
 monster_id: 3239
 monster_name_en: Reincarnated Neptune
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Enemy turn counter change to 3 when HP <= 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -41,7 +38,6 @@ records:
     + Delay active skills by 3 turns, Deal 125% damage (Preemptive)
   max_atk_pct: null
   name_en: That's a good look + Try to beat me! + Darkstrom
-  name_jp: よい面構えだ + 我を打ち破って見せよ + ダークシュトローム
   one_time: 2
   record_type_name: PREEMPT
   usage_pct: 100
@@ -50,7 +46,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1-2
-  name_jp: Turn 1-2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -59,7 +54,6 @@ records:
   desc_jp: Change Poison to Mortal Poison, Deal 150% damage
   max_atk_pct: 150
   name_en: Chaostrom
-  name_jp: カオスシュトローム
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -68,7 +62,6 @@ records:
   desc_jp: Spawn random 8 Poison orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Abysstrom
-  name_jp: アビスシュトローム
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -77,7 +70,6 @@ records:
   desc_jp: Deal 110% damage (2 hits, 55% each)
   max_atk_pct: 110
   name_en: Double Scissors
-  name_jp: ダブルシザー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -86,7 +78,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -95,7 +86,6 @@ records:
   desc_jp: Absorb combo <= 7 damage for 99 turns
   max_atk_pct: null
   name_en: Novice
-  name_jp: 未熟者め
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -104,7 +94,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -113,7 +102,6 @@ records:
   desc_jp: Change Poison to Mortal Poison, Deal 150% damage
   max_atk_pct: 150
   name_en: Chaostrom
-  name_jp: カオスシュトローム
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -122,7 +110,6 @@ records:
   desc_jp: Spawn random 8 Poison orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Abysstrom
-  name_jp: アビスシュトローム
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -131,7 +118,6 @@ records:
   desc_jp: Deal 110% damage (2 hits, 55% each)
   max_atk_pct: 110
   name_en: Double Scissors
-  name_jp: ダブルシザー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -140,7 +126,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -149,7 +134,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -160,7 +144,6 @@ records:
     turns
   max_atk_pct: null
   name_en: Finally, you will struggle... + Prepare yourself!
-  name_jp: 最後に足掻くがいい + 覚悟を決めよ
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -169,7 +152,6 @@ records:
   desc_jp: Deal 1000% damage (5 hits, 200% each)
   max_atk_pct: 1000
   name_en: Abyss Maelstrom
-  name_jp: アビスメイルシュトローム
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -178,7 +160,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Enemy is defeated
-  name_jp: Enemy is defeated
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -187,7 +168,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -196,7 +176,6 @@ records:
   desc_jp: Enemy recover 50% hp + Reduce damage from all sources by 75% for 99 turns
   max_atk_pct: null
   name_en: How regrettable + Finally, you will struggle
-  name_jp: 惜しかったな + 最後に足掻くがいい
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100

@@ -5,7 +5,6 @@
 comments: null
 monster_id: 2983
 monster_name_en: Awoken Kushinadahime
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Enemy turn counter change to 1 when HP <= 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -33,7 +31,6 @@ records:
   max_atk_pct: null
   name_en: You ate my dango, didn't you! + Blessed Harvest + Vines get in the way
     of the puzzle!
-  name_jp: 私のお団子、貴方勝手に食べましたね？ + 恵みの稲穂 + 蔓草がパズルの邪魔をする
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -45,7 +42,6 @@ records:
   max_atk_pct: null
   name_en: Frightened and on the verge of tears + Blessed Harvest + Vines get in the
     way of the puzzle!
-  name_jp: 何かに怯えて泣きそうになっている + 恵みの稲穂 + 蔓草がパズルの邪魔をする
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -57,7 +53,6 @@ records:
   max_atk_pct: null
   name_en: Let's take it nice and slow + Blessed Harvest + Vines get in the way of
     the puzzle!
-  name_jp: 焦らず参りましょう + 恵みの稲穂 + 蔓草がパズルの邪魔をする
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -68,7 +63,6 @@ records:
     orbs, Deal 100% damage + Change Heal to Jammer, Deal 100% damage
   max_atk_pct: null
   name_en: Benevolent Protection + Lifespan Diminisher + Ruined Harvest Mudslide
-  name_jp: 恵愛なる護念 + 命脈の梳り + 不作の泥祓
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -77,7 +71,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -88,7 +81,6 @@ records:
     Deal 100% damage
   max_atk_pct: null
   name_en: Lifespan Diminisher + Insidious Impurity
-  name_jp: 命脈の梳り + 穢れうつし
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -97,7 +89,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 25
-  name_jp: HP < 25
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -106,7 +97,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -115,7 +105,6 @@ records:
   desc_jp: Leader changes to random sub for 1 turns
   max_atk_pct: null
   name_en: It's time for your punishment!
-  name_jp: お仕置きの時間です・・・！
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -124,7 +113,6 @@ records:
   desc_jp: Player -300% HP
   max_atk_pct: null
   name_en: Judgment Slash
-  name_jp: 伐裁
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

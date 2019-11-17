@@ -5,7 +5,6 @@
 comments: null
 monster_id: 104907
 monster_name_en: 仮面ライダー旧１号
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -23,7 +22,6 @@ records:
     1 turns (Preemptive)
   max_atk_pct: null
   name_en: Rider Fight + Rider Throw
-  name_jp: ライダーファイト + ライダー投げ
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -32,7 +30,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -41,7 +38,6 @@ records:
   desc_jp: Bind 1 random subs for 5 turns, Deal 80% damage
   max_atk_pct: 80
   name_en: Rider Scissors
-  name_jp: ライダーシザース
   one_time: 1
   record_type_name: ACTION
   usage_pct: 50
@@ -50,7 +46,6 @@ records:
   desc_jp: Player -99% HP
   max_atk_pct: null
   name_en: Rider Return
-  name_jp: ライダー返し
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -59,7 +54,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
-  name_jp: Loop to 1 after. Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -68,7 +62,6 @@ records:
   desc_jp: Do nothing + Deal 120% damage
   max_atk_pct: null
   name_en: Rider Jump + Rider Kick
-  name_jp: ライダージャンプ + ライダーキック
   one_time: 0
   record_type_name: ACTION
   usage_pct: 34
@@ -77,7 +70,6 @@ records:
   desc_jp: Do nothing + Deal 100% damage
   max_atk_pct: null
   name_en: Rider Jump + Rider Punch
-  name_jp: ライダージャンプ + ライダーパンチ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -86,7 +78,6 @@ records:
   desc_jp: Do nothing + Deal 80% damage
   max_atk_pct: null
   name_en: Rider Jump + Rider Chop
-  name_jp: ライダージャンプ + ライダーチョップ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -95,7 +86,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
-  name_jp: HP < 20
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -104,7 +94,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -113,7 +102,6 @@ records:
   desc_jp: Increase damage to 150% for the next 5 turns
   max_atk_pct: null
   name_en: Rider Power
-  name_jp: ライダーパワー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -122,7 +110,6 @@ records:
   desc_jp: Deal 200% damage
   max_atk_pct: 200
   name_en: Lightning Rider Kick
-  name_jp: 電光ライダーキック
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

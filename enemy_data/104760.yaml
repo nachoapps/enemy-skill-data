@@ -5,7 +5,6 @@
 comments: null
 monster_id: 104760
 monster_name_en: 神威
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Delay active skills by 2 turns, (if [4765] on team) (Preemptive)
   max_atk_pct: null
   name_en: お兄ちゃんに対して頭が高い
-  name_jp: お兄ちゃんに対して頭が高い
   one_time: 1
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Leader changes to random sub for 2 turns (Preemptive)
   max_atk_pct: null
   name_en: ひっこんでてよ 今楽しいところなんだ
-  name_jp: ひっこんでてよ 今楽しいところなんだ
   one_time: 1
   record_type_name: PREEMPT
   usage_pct: 100
@@ -39,7 +36,6 @@ records:
   desc_jp: Deal 120% damage (2 hits, 60% each)
   max_atk_pct: 120
   name_en: 邪魔だ　どいてくれよ
-  name_jp: 邪魔だ　どいてくれよ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -48,7 +44,6 @@ records:
   desc_jp: Fire, Dark skyfall +20% for 3 turns
   max_atk_pct: null
   name_en: 殺しちゃうぞ
-  name_jp: 殺しちゃうぞ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -57,7 +52,6 @@ records:
   desc_jp: Bind 1 subs for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: 俺の勝負は誰にも邪魔させない
-  name_jp: 俺の勝負は誰にも邪魔させない
   one_time: 0
   record_type_name: ACTION
   usage_pct: 34
@@ -66,7 +60,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
-  name_jp: HP < 20
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -75,7 +68,6 @@ records:
   desc_jp: Deal 240% damage (4 hits, 60% each)
   max_atk_pct: 240
   name_en: 弱い奴に用はない
-  name_jp: 弱い奴に用はない
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

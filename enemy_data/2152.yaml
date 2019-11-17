@@ -5,7 +5,6 @@
 comments: null
 monster_id: 2152
 monster_name_en: 悪魔龍ダークマスターズ・滅角
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Voids status ailments for 999 turns + Bind active skills for 3 turns (Preemptive)
   max_atk_pct: null
   name_en: 悪魔龍の滅角 + 封印の暗黒
-  name_jp: 悪魔龍の滅角 + 封印の暗黒
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Deal 100% damage (2 hits, 50% each)
   max_atk_pct: 100
   name_en: Ｗ・ブレイカー
-  name_jp: Ｗ・ブレイカー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -39,7 +36,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 80
-  name_jp: HP < 80
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -48,7 +44,6 @@ records:
   desc_jp: Change Heal to Jammer, Deal 90% damage
   max_atk_pct: 90
   name_en: 漆黒の龍輪
-  name_jp: 漆黒の龍輪
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -57,7 +52,6 @@ records:
   desc_jp: Deal 100% damage (2 hits, 50% each)
   max_atk_pct: 100
   name_en: Ｗ・ブレイカー
-  name_jp: Ｗ・ブレイカー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -66,7 +60,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -75,7 +68,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -86,7 +78,6 @@ records:
     Dark
   max_atk_pct: null
   name_en: 絶望のパズル + 隠されし希望
-  name_jp: 絶望のパズル + 隠されし希望
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -95,7 +86,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
-  name_jp: HP < 20
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -104,7 +94,6 @@ records:
   desc_jp: Deal 300% damage
   max_atk_pct: 300
   name_en: デーモンヘルブレス
-  name_jp: デーモンヘルブレス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

@@ -5,7 +5,6 @@
 comments: null
 monster_id: 2866
 monster_name_en: Rabid Dog, Sagara Takeshi
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Voids status ailments for 3 turns, (if [2859, 2860] on team) (Preemptive)
   max_atk_pct: null
   name_en: You know, I don't mind going 1 vs 2 guys!
-  name_jp: 俺はニ対一でもかまわねーぞ、君たち!!
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Voids status ailments for 3 turns (Preemptive)
   max_atk_pct: null
   name_en: This kid!
-  name_jp: このガキァ
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -39,7 +36,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -48,7 +44,6 @@ records:
   desc_jp: Player -40% HP
   max_atk_pct: null
   name_en: Soryaaa!!
-  name_jp: そりゃ!!
   one_time: 3
   record_type_name: ACTION
   usage_pct: 100
@@ -57,7 +52,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2-4
-  name_jp: Loop to 1 after. Turn 2-4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -66,7 +60,6 @@ records:
   desc_jp: Deal 120% damage
   max_atk_pct: 120
   name_en: Uryaaa!!
-  name_jp: ウリャー!!
   one_time: 0
   record_type_name: ACTION
   usage_pct: 40
@@ -75,7 +68,6 @@ records:
   desc_jp: Spawn random 3 Jammer orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Oraaa!!
-  name_jp: オラッ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 40
@@ -84,7 +76,6 @@ records:
   desc_jp: Bind 1 subs for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Don't run away.
-  name_jp: 逃げないでよ。
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -93,7 +84,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -102,7 +92,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -111,7 +100,6 @@ records:
   desc_jp: Increase damage to 200% for the next attack
   max_atk_pct: null
   name_en: Alright, let's be serious.
-  name_jp: じゃ、マジメにやるかな。
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

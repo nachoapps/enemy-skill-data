@@ -5,7 +5,6 @@
 comments: null
 monster_id: 5244
 monster_name_en: Super Bushin, Tao Ren
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Reduce damage from all sources by 50% for 10 turns (Preemptive)
   max_atk_pct: null
   name_en: I am strong.
-  name_jp: オレは強い
   one_time: 1
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -39,7 +36,6 @@ records:
   desc_jp: Increase damage to 150% for the next 5 turns
   max_atk_pct: null
   name_en: Four-Flash Blade Paradise
-  name_jp: 四閃刀幻境!!!
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -48,7 +44,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -57,7 +52,6 @@ records:
   desc_jp: Deal 108% damage (6 hits, 18% each)
   max_atk_pct: 108
   name_en: Spears!!
-  name_jp: 槍!!
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -66,7 +60,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -75,7 +68,6 @@ records:
   desc_jp: Delay active skills by 2 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Swords!
-  name_jp: 刀!
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -84,7 +76,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
-  name_jp: Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -93,7 +84,6 @@ records:
   desc_jp: Bind 1 subs for 1~2 turns, Deal 95% damage
   max_atk_pct: 95
   name_en: Halberds!!
-  name_jp: 戟!!
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -102,7 +92,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
-  name_jp: Turn 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -113,7 +102,6 @@ records:
     Poison orbs, Deal 105% damage
   max_atk_pct: 105
   name_en: Multiple Blades!!!
-  name_jp: 多刃!!!
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -122,7 +110,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -131,7 +118,6 @@ records:
   desc_jp: Movetime -1s for 5 turns + Deal 170% damage (10 hits, 17% each)
   max_atk_pct: null
   name_en: Take this!! + Blade Paradise!!
-  name_jp: くらうがいい + 我が必殺の刀幻境
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

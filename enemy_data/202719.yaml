@@ -5,7 +5,6 @@
 comments: null
 monster_id: 202719
 monster_name_en: Almighty God, Zeus Dragon
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings:
 - Found 1 unused actions
@@ -24,7 +23,6 @@ records:
     + Player -35% HP (Preemptive)
   max_atk_pct: null
   name_en: Divine King's Lightning Cloak + Dragon Skin + Wrath of Zeus
-  name_jp: 神王の雷衣 + ドラゴンスキン + ラース・オブ・ゼウス
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -33,7 +31,6 @@ records:
   desc_jp: Voids player buff effects + Player -500% HP
   max_atk_pct: null
   name_en: Glare of the Dragon God + Dragon Nova
-  name_jp: 神龍眼 + ドラゴンノヴァ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -42,7 +39,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 90
-  name_jp: HP < 90
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -53,7 +49,6 @@ records:
     Bind 1 random for 2 turns, Deal 200% damage
   max_atk_pct: null
   name_en: Almighty + Thunder Bind
-  name_jp: 全知全能 + 縛雷
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -62,7 +57,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 80
-  name_jp: HP < 80
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -73,7 +67,6 @@ records:
     Blind all orbs on the board, Deal 240% damage
   max_atk_pct: null
   name_en: Almighty + Dark Lightning
-  name_jp: 全知全能 + ダークライトニング
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -82,7 +75,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 70
-  name_jp: HP < 70
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -93,7 +85,6 @@ records:
     Change Random 3 to Poison, Deal 260% damage
   max_atk_pct: null
   name_en: Almighty + Dead Fang
-  name_jp: 全知全能 + デッドファング
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -102,7 +93,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 60
-  name_jp: HP < 60
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -113,7 +103,6 @@ records:
     Change Heal to Jammer, Deal 280% damage
   max_atk_pct: null
   name_en: Almighty + Heart End
-  name_jp: 全知全能 + ハートエンド
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -122,7 +111,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -131,7 +119,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -142,7 +129,6 @@ records:
     Absorb combo <= 7 damage for 3 turns + Deal 600% damage (4 hits, 150% each)
   max_atk_pct: null
   name_en: Almighty + Trial of the Sky + Heaven Commandment
-  name_jp: 全知全能 + 天空の試練 + 天戒
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -153,7 +139,6 @@ records:
     Change 3rd column to Jammer orbs, Deal 340% damage
   max_atk_pct: null
   name_en: Almighty + Volt Ray
-  name_jp: 全知全能 + ボルトレイ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -162,7 +147,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 40
-  name_jp: HP < 40
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -171,7 +155,6 @@ records:
   desc_jp: Deal 450% damage (5 hits, 90% each) + Change all orbs to Heal, Poison
   max_atk_pct: null
   name_en: Chain Blast + New Sky
-  name_jp: チェインブラスト + 新天
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -180,7 +163,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
-  name_jp: HP < 30
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -191,7 +173,6 @@ records:
     Light, Dark, Heal, Jammer, Poison orbs
   max_atk_pct: null
   name_en: Storm Lightning + Glittering God
-  name_jp: ストームライトニング + 神煌
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -200,7 +181,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
-  name_jp: HP < 20
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -209,7 +189,6 @@ records:
   desc_jp: Voids player buff effects + Player -500% HP
   max_atk_pct: null
   name_en: Glare of the Dragon God + Dragon Nova
-  name_jp: 神龍眼 + ドラゴンノヴァ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

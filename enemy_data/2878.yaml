@@ -5,7 +5,6 @@
 comments: null
 monster_id: 2878
 monster_name_en: Gleaming Rabbit Dragon, Fragrem
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Reduce damage from Dark by 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -47,7 +44,6 @@ records:
   desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -56,7 +52,6 @@ records:
   desc_jp: Reduce damage from Dark by 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -67,7 +62,6 @@ records:
     Deal 130% damage (Preemptive)
   max_atk_pct: null
   name_en: Tell me your wish! + Shine Flare Ring
-  name_jp: キミの願いを教えてよ + シャインフレアリング
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -76,7 +70,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -85,7 +78,6 @@ records:
   desc_jp: Bind active skills for 3 turns
   max_atk_pct: null
   name_en: Brightness Blink
-  name_jp: ブライズネスブリンク
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -94,7 +86,6 @@ records:
   desc_jp: Bind active skills for 3 turns
   max_atk_pct: null
   name_en: Your friends are so important?
-  name_jp: そんなにお友達が大切？
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -103,7 +94,6 @@ records:
   desc_jp: Reduce damage from all sources by 50% for 1 turns
   max_atk_pct: null
   name_en: Leap
-  name_jp: 跳躍
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -112,7 +102,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -121,7 +110,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -130,7 +118,6 @@ records:
   desc_jp: Deal 185% damage (5 hits, 37% each)
   max_atk_pct: 185
   name_en: Shining Claw
-  name_jp: シャインクロウ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 30
@@ -139,7 +126,6 @@ records:
   desc_jp: Change 5th column to Light orbs, 6th column to Fire orbs, Deal 170% damage
   max_atk_pct: 170
   name_en: Orange Light's Judging Spirit
-  name_jp: 橙光の裁魂
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -148,7 +134,6 @@ records:
   desc_jp: Spawn random 8 Light orbs, Deal 170% damage
   max_atk_pct: 170
   name_en: Brightness Guidance
-  name_jp: 光輝の導き
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -157,7 +142,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
-  name_jp: Loop to 1 after. Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -166,7 +150,6 @@ records:
   desc_jp: Reduce damage from all sources by 50% for 1 turns
   max_atk_pct: null
   name_en: Leap
-  name_jp: 跳躍
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -175,7 +158,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -184,7 +166,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -195,7 +176,6 @@ records:
     Deal 100% damage
   max_atk_pct: null
   name_en: Gleaming Rabbit Dragon's Trial + Flower Piercing Light
-  name_jp: 煌兎龍の試練 + 華輪穿光
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -204,7 +184,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -213,7 +192,6 @@ records:
   desc_jp: Reduce damage from all sources by 75% for 1 turns
   max_atk_pct: null
   name_en: Big Jump
-  name_jp: 大跳躍
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -222,7 +200,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
-  name_jp: Loop to 1 after. Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -231,7 +208,6 @@ records:
   desc_jp: Deal 185% damage (5 hits, 37% each)
   max_atk_pct: 185
   name_en: Shining Claw
-  name_jp: シャインクロウ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 30
@@ -240,7 +216,6 @@ records:
   desc_jp: Change 5th column to Light orbs, 6th column to Fire orbs, Deal 170% damage
   max_atk_pct: 170
   name_en: Orange Light's Judging Spirit
-  name_jp: 橙光の裁魂
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -249,7 +224,6 @@ records:
   desc_jp: Spawn random 8 Light orbs, Deal 170% damage
   max_atk_pct: 170
   name_en: Brightness Guidance
-  name_jp: 光輝の導き
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -258,7 +232,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
-  name_jp: HP < 20
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -267,7 +240,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -276,7 +248,6 @@ records:
   desc_jp: Enemy recover 19% hp + Reduce damage from all sources by 75% for 1 turns
   max_atk_pct: null
   name_en: Overcoming Will + Big Jump
-  name_jp: 超克の意志 + 大跳躍
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -285,7 +256,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
-  name_jp: Loop to 1 after. Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -296,7 +266,6 @@ records:
     Deal 130% damage
   max_atk_pct: null
   name_en: Shining Claw + Shine Flare Ring
-  name_jp: シャインクロウ + シャインフレアリング
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

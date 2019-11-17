@@ -5,7 +5,6 @@
 comments: null
 monster_id: 2820
 monster_name_en: Book Club's Literary Princess, Sleeping Beauty
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -23,7 +22,6 @@ records:
   name_en: 'If I don''t finish reading
 
     this book by today... + ......'
-  name_jp: 今日こそこの本読み切らないと + ・・・・・・
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100

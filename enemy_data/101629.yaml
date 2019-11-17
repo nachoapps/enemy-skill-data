@@ -5,7 +5,6 @@
 comments: null
 monster_id: 101629
 monster_name_en: Alt. Chivalric Demon Prince, Cauchemar
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -23,7 +22,6 @@ records:
     to random position on the board (Preemptive)
   max_atk_pct: null
   name_en: Cauchemar Phantom + Cauchemar Road
-  name_jp: コシュまるファントム + コシュまるロード
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -32,7 +30,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -41,7 +38,6 @@ records:
   desc_jp: Change Heal to Jammer, Deal 50% damage
   max_atk_pct: 50
   name_en: Cauchemar Illusion
-  name_jp: コシュまるイリュージョン
   one_time: 0
   record_type_name: ACTION
   usage_pct: 40
@@ -50,7 +46,6 @@ records:
   desc_jp: Bind 3 subs for 2 turns, Deal 75% damage
   max_atk_pct: 75
   name_en: Cauchemar Nightmare
-  name_jp: コシュまるナイトメア
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -59,7 +54,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
-  name_jp: Loop to 1 after. Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -68,7 +62,6 @@ records:
   desc_jp: Change Heal to Jammer, Deal 50% damage
   max_atk_pct: 50
   name_en: Cauchemar Illusion
-  name_jp: コシュまるイリュージョン
   one_time: 0
   record_type_name: ACTION
   usage_pct: 40
@@ -77,7 +70,6 @@ records:
   desc_jp: Deal 120% damage (3 hits, 40% each)
   max_atk_pct: 120
   name_en: Cauchemar Combat
-  name_jp: コシュまるコンバット
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -86,7 +78,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -95,7 +86,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -104,7 +94,6 @@ records:
   desc_jp: Movetime -2s for 2 turns + Blind random 5 orbs for 3 turns
   max_atk_pct: null
   name_en: Astaroth's Whispers + Cauchemar Darkness
-  name_jp: アスタロトの囁き + コシュまるダークネス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -113,7 +102,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
-  name_jp: HP < 20
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -122,7 +110,6 @@ records:
   desc_jp: Change Random to Jammer, Deal 600% damage
   max_atk_pct: 600
   name_en: Cauchemar Tempest
-  name_jp: コシュまるテンペスト
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

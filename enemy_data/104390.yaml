@@ -5,7 +5,6 @@
 comments: null
 monster_id: 104390
 monster_name_en: Twin Wardens, Justine & Caroline
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Do nothing + Do nothing (Preemptive)
   max_atk_pct: null
   name_en: Heh... This will be hell for you! + Let's go!
-  name_jp: クク…地獄はここからだ！ + ではいくぞ！
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -38,7 +36,6 @@ records:
   desc_jp: Voids status ailments for 999 turns + Player -99% HP (Preemptive)
   max_atk_pct: null
   name_en: Heh... This will be hell for you! + Let's go!
-  name_jp: クク…地獄はここからだ！ + ではいくぞ！
   one_time: 1
   record_type_name: PREEMPT
   usage_pct: 100
@@ -47,7 +44,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -56,7 +52,6 @@ records:
   desc_jp: Deal 55% damage + Deal 55% damage
   max_atk_pct: null
   name_en: Vorpal Blade + Riot Gun
-  name_jp: 空間殺法 + 至高の魔弾
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -65,7 +60,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -78,7 +72,6 @@ records:
     50% damage
   max_atk_pct: null
   name_en: Blazing Hell + Ice Age
-  name_jp: 大炎上 + 大氷河期
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -87,7 +80,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -98,7 +90,6 @@ records:
     turns, Deal 50% damage
   max_atk_pct: null
   name_en: Thunder Reign + Panta Rhei
-  name_jp: 真理の雷 + 万物流転
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -107,7 +98,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
-  name_jp: Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -118,7 +108,6 @@ records:
     2 turns, Deal 50% damage
   max_atk_pct: null
   name_en: Psycho Force + Atomic Flare
-  name_jp: サイコフォース + アトミックフレア
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -127,7 +116,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
-  name_jp: Turn 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -136,7 +124,6 @@ records:
   desc_jp: Player -50% HP + Player -50% HP
   max_atk_pct: null
   name_en: Divine Judgement + Demonic Decree
-  name_jp: 神の審判 + 悪魔の審判
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -145,7 +132,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 6
-  name_jp: Loop to 1 after. Turn 6
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -154,7 +140,6 @@ records:
   desc_jp: Deal 300% damage (10 hits, 30% each)
   max_atk_pct: 300
   name_en: All-Out Attack
-  name_jp: 総攻撃
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -163,7 +148,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -172,7 +156,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -183,7 +166,6 @@ records:
   name_en: '*chuckle* You''re way better than
 
     we thought you''d be, Inmate! + We''ll give it all we''ve got from now on!'
-  name_jp: クク…期待以上だ、囚人！！ + ここからは、我らも完全に全力だ！！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

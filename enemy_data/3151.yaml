@@ -5,7 +5,6 @@
 comments: null
 monster_id: 3151
 monster_name_en: Genbu Princess of Leisure, Meimei
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Spawn random 15 Heal orbs (Preemptive)
   max_atk_pct: null
   name_en: What a good feeling!♪
-  name_jp: いい気持ち～♪
   one_time: 4
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -39,7 +36,6 @@ records:
   desc_jp: Delay active skills by 6 turns
   max_atk_pct: null
   name_en: Let's chill out!♪
-  name_jp: のんびりしましょ♪
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -48,7 +44,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -59,7 +54,6 @@ records:
     Poison orbs, Deal 95% damage
   max_atk_pct: 95
   name_en: I don't want to move!
-  name_jp: 動きたくないわ～
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -68,7 +62,6 @@ records:
   desc_jp: Deal 110% damage
   max_atk_pct: 110
   name_en: Rolling, rolling!
-  name_jp: ゴロゴローリング
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -77,7 +70,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -86,7 +78,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -95,7 +86,6 @@ records:
   desc_jp: Poison skyfall +20% for 5 turns
   max_atk_pct: null
   name_en: Oh! Sun shower!
-  name_jp: あら～？お天気雨
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -104,7 +94,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 20
-  name_jp: HP <= 20
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -113,7 +102,6 @@ records:
   desc_jp: Deal 245% damage (7 hits, 35% each)
   max_atk_pct: 245
   name_en: Northern Seven-Star Formation
-  name_jp: 北方七星陣
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

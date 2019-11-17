@@ -5,7 +5,6 @@
 comments: null
 monster_id: 102754
 monster_name_en: Alt. Rainbow Wing Whirlwind Dragon Emperor, Sevenzard
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Reduce damage from Wood by 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -32,7 +30,6 @@ records:
     for 7 turns + Change Random 4 to Poison, Deal 70% damage (Preemptive)
   max_atk_pct: null
   name_en: Seven Mirages + Mucus Skin + Poison Claw
-  name_jp: セブンミラージュ + ミューカススキン + ポイズンクロウ
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -41,7 +38,6 @@ records:
   desc_jp: Change Poison to Jammer, Deal 210% damage
   max_atk_pct: 210
   name_en: Hell Bloom
-  name_jp: ヘルブルーム
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -52,7 +48,6 @@ records:
     (7 hits, 15% each)
   max_atk_pct: null
   name_en: Energy Mimic + Storm Rave
-  name_jp: エナジーミミック + ストームレイヴ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 15
@@ -61,7 +56,6 @@ records:
   desc_jp: Change own attribute to random one of Fire, Water, Wood + Player -77% HP
   max_atk_pct: null
   name_en: Energy Mimic + Vine Rings
-  name_jp: エナジーミミック + バインリングス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 15
@@ -72,7 +66,6 @@ records:
     to Fire, Water, Wood, Light, Dark, Heal, Poison, Deal 70% damage
   max_atk_pct: null
   name_en: Energy Mimic + Seven Gardens
-  name_jp: エナジーミミック + セブンガーデン
   one_time: 0
   record_type_name: ACTION
   usage_pct: 15
@@ -83,7 +76,6 @@ records:
     5 to Poison, Deal 70% damage
   max_atk_pct: null
   name_en: Energy Mimic + Poison Blow
-  name_jp: エナジーミミック + ポイズンブロウ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 15
@@ -92,7 +84,6 @@ records:
   desc_jp: Enemy recover 7% hp, Deal 70% damage
   max_atk_pct: 70
   name_en: Draining Nails
-  name_jp: ドレインネイル
   one_time: 0
   record_type_name: ACTION
   usage_pct: 15
@@ -101,7 +92,6 @@ records:
   desc_jp: Change Random 3 to Poison, Deal 70% damage
   max_atk_pct: 70
   name_en: Venom Blow
-  name_jp: ヴェノムブロウ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 10
@@ -112,7 +102,6 @@ records:
     Poison orbs, Deal 70% damage
   max_atk_pct: 70
   name_en: Clotting Nails
-  name_jp: クロットネイル
   one_time: 0
   record_type_name: ACTION
   usage_pct: 15
@@ -121,7 +110,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 85
-  name_jp: HP <= 85
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -130,7 +118,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -139,7 +126,6 @@ records:
   desc_jp: Change Poison to Jammer, Deal 210% damage
   max_atk_pct: 210
   name_en: Hell Bloom
-  name_jp: ヘルブルーム
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -150,7 +136,6 @@ records:
     damage
   max_atk_pct: null
   name_en: Temporal Stealth + Hell Poison Claw
-  name_jp: テンポラルステルス + ヘルポイズンクロウ
   one_time: 16
   record_type_name: ACTION
   usage_pct: 100
@@ -159,7 +144,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 71
-  name_jp: HP <= 71
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -168,7 +152,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -177,7 +160,6 @@ records:
   desc_jp: Change Poison to Jammer, Deal 210% damage
   max_atk_pct: 210
   name_en: Hell Bloom
-  name_jp: ヘルブルーム
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -188,7 +170,6 @@ records:
     Poison, Deal 70% damage
   max_atk_pct: null
   name_en: Urgency Mimic + Venom Claw
-  name_jp: アージェンシーミミック + ヴェノムクロウ
   one_time: 8
   record_type_name: ACTION
   usage_pct: 100
@@ -197,7 +178,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 57
-  name_jp: HP <= 57
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -206,7 +186,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -215,7 +194,6 @@ records:
   desc_jp: Change Poison to Jammer, Deal 210% damage
   max_atk_pct: 210
   name_en: Hell Bloom
-  name_jp: ヘルブルーム
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -224,7 +202,6 @@ records:
   desc_jp: Bind 1 random subs for 7 turns + Change Random 5 to Poison, Deal 70% damage
   max_atk_pct: null
   name_en: Paralyzing Vine + Hell Venom Claw
-  name_jp: パラライズバイン + ヘルヴェノムクロウ
   one_time: 4
   record_type_name: ACTION
   usage_pct: 100
@@ -233,7 +210,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 43
-  name_jp: HP <= 43
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -242,7 +218,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
-  name_jp: Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -251,7 +226,6 @@ records:
   desc_jp: Change Poison to Jammer, Deal 210% damage
   max_atk_pct: 210
   name_en: Hell Bloom
-  name_jp: ヘルブルーム
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -262,7 +236,6 @@ records:
     damage
   max_atk_pct: null
   name_en: Temporal Stealth + Poison Rave
-  name_jp: テンポラルステルス + ポイズンレイヴ
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -271,7 +244,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
-  name_jp: HP < 30
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -280,7 +252,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
-  name_jp: Turn 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -289,7 +260,6 @@ records:
   desc_jp: Change Poison to Jammer, Deal 210% damage
   max_atk_pct: 210
   name_en: Hell Bloom
-  name_jp: ヘルブルーム
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -300,7 +270,6 @@ records:
     Poison, Deal 140% damage
   max_atk_pct: null
   name_en: Urgency Mimic + Hell's Poison Rave
-  name_jp: アージェンシーミミック + ヘルポイズンレイヴ
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -309,7 +278,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 15
-  name_jp: HP <= 15
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -320,7 +288,6 @@ records:
     damage
   max_atk_pct: null
   name_en: Paralyzing Vine + Deadly Poison Rave
-  name_jp: パラライズバイン + デッドポイズンレイヴ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

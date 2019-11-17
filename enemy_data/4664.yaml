@@ -5,7 +5,6 @@
 comments: null
 monster_id: 4664
 monster_name_en: 静かなる白虎・ハク
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Voids status ailments for 5 turns + Bind 1 random cards for 3 turns (Preemptive)
   max_atk_pct: null
   name_en: 虎は孤高の存在。 + 群れることはしないもの。
-  name_jp: 虎は孤高の存在。 + 群れることはしないもの。
   one_time: 1
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -43,7 +40,6 @@ records:
     orbs
   max_atk_pct: null
   name_en: ずっと機会を狙ってた。 + 虎視眈々と。
-  name_jp: ずっと機会を狙ってた。 + 虎視眈々と。
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -52,7 +48,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -63,7 +58,6 @@ records:
     to Heal orbs
   max_atk_pct: null
   name_en: 虎にカワイイは・・・侮辱・・・ + ・・・・・・
-  name_jp: 虎にカワイイは・・・侮辱・・・ + ・・・・・・
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -72,7 +66,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -81,7 +74,6 @@ records:
   desc_jp: Increase damage to 200% for the next 1 turns
   max_atk_pct: null
   name_en: 準備・・・できた？
-  name_jp: 準備・・・できた？
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -90,7 +82,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -99,7 +90,6 @@ records:
   desc_jp: Delay active skills by 2 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: 荒れ球
-  name_jp: 荒れ球
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -108,7 +98,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
-  name_jp: HP < 20
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -117,7 +106,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -126,7 +114,6 @@ records:
   desc_jp: Enemy recover 50% hp
   max_atk_pct: null
   name_en: みなぎる活力
-  name_jp: みなぎる活力
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

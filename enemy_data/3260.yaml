@@ -5,7 +5,6 @@
 comments: null
 monster_id: 3260
 monster_name_en: Yamato Flame Dragon Caller, Tsubaki
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -23,7 +22,6 @@ records:
     Deal 420% damage (2 hits, 210% each) (Preemptive)
   max_atk_pct: null
   name_en: Scarlet Sky Robes + Dragonbind Kotodama + Flame Camellia
-  name_jp: 焔龍衛衣 + 龍縛の言霊 + 飛炎椿
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -32,7 +30,6 @@ records:
   desc_jp: Reduce damage from all sources by 50% for 1 turns, Deal 320% damage
   max_atk_pct: 320
   name_en: Fire Guardian's Sunblade
-  name_jp: 火護ノ太刀
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -41,7 +38,6 @@ records:
   desc_jp: Bind active skills for 5 turns, Deal 320% damage
   max_atk_pct: 320
   name_en: Firechain Thrust
-  name_jp: 火鎖一突
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -50,7 +46,6 @@ records:
   desc_jp: Deal 360% damage (3 hits, 120% each)
   max_atk_pct: 360
   name_en: Scorched Edge
-  name_jp: 烈焦剣
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -59,7 +54,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -68,7 +62,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -77,7 +70,6 @@ records:
   desc_jp: Change all orbs to Jammer + Absorb combo <= 6 damage for 5 turns
   max_atk_pct: null
   name_en: Vanishing Lifespring - Red Sun + Crimson Blossom Storm
-  name_jp: 神隠し・紅陽 + 紅蓮花吹雪
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -86,7 +78,6 @@ records:
   desc_jp: Change Jammer to Fire, Deal 800% damage
   max_atk_pct: 800
   name_en: Banishing Firebrand
-  name_jp: 浄炎牙点葬剣
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -95,7 +86,6 @@ records:
   desc_jp: Reduce damage from all sources by 50% for 1 turns, Deal 320% damage
   max_atk_pct: 320
   name_en: Fire Guardian's Sunblade
-  name_jp: 火護ノ太刀
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -104,7 +94,6 @@ records:
   desc_jp: Spawn random 4 Jammer orbs, Deal 320% damage
   max_atk_pct: 320
   name_en: Scarlet Embers
-  name_jp: 緋ノ残火
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -113,7 +102,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
-  name_jp: HP < 20
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -122,7 +110,6 @@ records:
   desc_jp: Deal 2700% damage (9 hits, 300% each)
   max_atk_pct: 2700
   name_en: Soaring Camellia Flame
-  name_jp: 飛炎椿・九龍伴翔
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

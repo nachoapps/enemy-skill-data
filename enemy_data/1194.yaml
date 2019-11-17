@@ -5,7 +5,6 @@
 comments: null
 monster_id: 1194
 monster_name_en: Thunder Horn Master, Fuma Kotaro
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Bind awoken skills for 3 turns + Bind 1 both leaders for 3 turns (Preemptive)
   max_atk_pct: null
   name_en: 'Who?! + Ninja Flash: Thunderbind'
-  name_jp: 何奴っ！ + 雷遁・雷縛り
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -41,7 +38,6 @@ records:
     for 2 turns
   max_atk_pct: null
   name_en: I won't let you do that! + Now is the time for endurance
-  name_jp: やらせはせんぞ！ + 今は耐え忍ぶとき
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -50,7 +46,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -59,7 +54,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -68,7 +62,6 @@ records:
   desc_jp: Increase damage to 500% for the next 1 turns
   max_atk_pct: null
   name_en: The Purpose of Physical Training
-  name_jp: 体練法の極意
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -77,7 +70,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
-  name_jp: Loop to 1 after. Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -86,7 +78,6 @@ records:
   desc_jp: Deal 84% damage (4 hits, 21% each)
   max_atk_pct: 84
   name_en: Thunderblade Dominance
-  name_jp: 雷刃昇覇
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

@@ -5,7 +5,6 @@
 comments: null
 monster_id: 848
 monster_name_en: DD-Skeleton
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 75
-  name_jp: HP < 75
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -30,7 +28,6 @@ records:
   desc_jp: Deal 120% damage
   max_atk_pct: 120
   name_en: Downward swing
-  name_jp: 振り下ろし
   one_time: 0
   record_type_name: ACTION
   usage_pct: 40

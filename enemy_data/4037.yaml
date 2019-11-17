@@ -5,7 +5,6 @@
 comments: null
 monster_id: 4037
 monster_name_en: Envy
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Jammer skyfall +15% for 3 turns (Preemptive)
   max_atk_pct: null
   name_en: Who should I take care of first?
-  name_jp: どいつから片づけてやろうか？
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -39,7 +36,6 @@ records:
   desc_jp: Change own attribute to random one of Fire, Water, Wood, Light, Dark
   max_atk_pct: null
   name_en: Transform
-  name_jp: 変身
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -48,7 +44,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
-  name_jp: Loop to 1 after. Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -57,7 +52,6 @@ records:
   desc_jp: Deal 140% damage (2 hits, 70% each)
   max_atk_pct: 140
   name_en: Ha hah!!
-  name_jp: はっはァ!!
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -66,7 +60,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 80
-  name_jp: HP < 80
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -75,7 +68,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -84,7 +76,6 @@ records:
   desc_jp: Deal 120% damage
   max_atk_pct: 120
   name_en: That hurt!
-  name_jp: いっ……たいなぁ!!
   one_time: 4
   record_type_name: ACTION
   usage_pct: 100
@@ -93,7 +84,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -102,7 +92,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -115,7 +104,6 @@ records:
   name_en: 'As a sign of my respect,
 
     I''ll fight you using my true strength. + Don''t say I didn''t warn you!'
-  name_jp: 敬意を表して本気で相手してやるよ + どうなっても知らないよ！？
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -124,7 +112,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -133,7 +120,6 @@ records:
   desc_jp: Deal 120% damage (3 hits, 40% each)
   max_atk_pct: 120
   name_en: I'll beat you like a rag doll and throw you!
-  name_jp: ボロぞーきんにして放り出してやるよ
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100

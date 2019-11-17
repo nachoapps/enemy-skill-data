@@ -5,7 +5,6 @@
 comments: null
 monster_id: 4192
 monster_name_en: Dark Scroll Dragon
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Spawn random 3 Bomb orbs (Preemptive)
   max_atk_pct: null
   name_en: Hehehe
-  name_jp: ケケケッ
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Spawn random 2 Jammer, Poison orbs, Deal 70% damage
   max_atk_pct: 70
   name_en: So fuuun ♪
-  name_jp: た～のしいね～♪
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -39,7 +36,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 75
-  name_jp: HP < 75
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -48,7 +44,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -59,7 +54,6 @@ records:
     orbs
   max_atk_pct: null
   name_en: Have a blast ♪
-  name_jp: もっと楽しみなよ♪
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -68,7 +62,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
-  name_jp: HP < 30
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -77,7 +70,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -86,7 +78,6 @@ records:
   desc_jp: Spawn locked Bomb orbs in the specified positions
   max_atk_pct: null
   name_en: Zip it
-  name_jp: お口チャック
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

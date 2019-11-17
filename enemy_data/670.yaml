@@ -5,7 +5,6 @@
 comments: null
 monster_id: 670
 monster_name_en: Joker+A. Blossom
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Change Random 2 to Jammer (Preemptive)
   max_atk_pct: null
   name_en: It's Show Time!
-  name_jp: ショータイム
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -39,7 +36,6 @@ records:
   desc_jp: Deal 180% damage (3 hits, 60% each)
   max_atk_pct: 180
   name_en: Killing Joke
-  name_jp: キリングジョーク
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -48,7 +44,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -57,7 +52,6 @@ records:
   desc_jp: Change Random 6 to Poison
   max_atk_pct: null
   name_en: Acid Blossom
-  name_jp: アシッドブロッサム
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -66,7 +60,6 @@ records:
   desc_jp: Deal 180% damage (3 hits, 60% each)
   max_atk_pct: 180
   name_en: Killing Joke
-  name_jp: キリングジョーク
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -75,7 +68,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -84,7 +76,6 @@ records:
   desc_jp: Change Random to Jammer, Deal 130% damage
   max_atk_pct: 130
   name_en: Laughing Gas
-  name_jp: ラッフィングガス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -93,7 +84,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
-  name_jp: Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -102,7 +92,6 @@ records:
   desc_jp: Deal 180% damage (3 hits, 60% each)
   max_atk_pct: 180
   name_en: Killing Joke
-  name_jp: キリングジョーク
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -111,7 +100,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
-  name_jp: Turn 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -120,7 +108,6 @@ records:
   desc_jp: Change Random 6 to Poison
   max_atk_pct: null
   name_en: Acid Blossom
-  name_jp: アシッドブロッサム
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -129,7 +116,6 @@ records:
   desc_jp: Display '4' and skip turn
   max_atk_pct: null
   name_en: Countdown Message
-  name_jp: null
   one_time: 0
   record_type_name: ACTION
   usage_pct: 0
@@ -138,7 +124,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -147,7 +132,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -156,7 +140,6 @@ records:
   desc_jp: Display '3' and skip turn
   max_atk_pct: null
   name_en: Countdown Message
-  name_jp: null
   one_time: 0
   record_type_name: ACTION
   usage_pct: 0
@@ -165,7 +148,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -174,7 +156,6 @@ records:
   desc_jp: Display '2' and skip turn
   max_atk_pct: null
   name_en: Countdown Message
-  name_jp: null
   one_time: 0
   record_type_name: ACTION
   usage_pct: 0
@@ -183,7 +164,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -192,7 +172,6 @@ records:
   desc_jp: Display '1' and skip turn
   max_atk_pct: null
   name_en: Countdown Message
-  name_jp: null
   one_time: 0
   record_type_name: ACTION
   usage_pct: 0
@@ -201,7 +180,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
-  name_jp: Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -210,7 +188,6 @@ records:
   desc_jp: Deal 1000% damage (5 hits, 200% each)
   max_atk_pct: 1000
   name_en: Maniac Mastermind
-  name_jp: マニアックマスターマインド
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -219,7 +196,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 5
-  name_jp: Loop to 1 after. Turn 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -228,7 +204,6 @@ records:
   desc_jp: Display '4' and skip turn
   max_atk_pct: null
   name_en: Countdown Message
-  name_jp: null
   one_time: 0
   record_type_name: ACTION
   usage_pct: 0
@@ -245,7 +220,6 @@ records:
   desc_jp: Change Random 2 to Jammer (Preemptive)
   max_atk_pct: null
   name_en: It's Show Time!
-  name_jp: ショータイム
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -254,7 +228,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -263,7 +236,6 @@ records:
   desc_jp: Deal 180% damage (3 hits, 60% each)
   max_atk_pct: 180
   name_en: Killing Joke
-  name_jp: キリングジョーク
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -272,7 +244,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -281,7 +252,6 @@ records:
   desc_jp: Change Random 6 to Poison
   max_atk_pct: null
   name_en: Acid Blossom
-  name_jp: アシッドブロッサム
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -290,7 +260,6 @@ records:
   desc_jp: Deal 180% damage (3 hits, 60% each)
   max_atk_pct: 180
   name_en: Killing Joke
-  name_jp: キリングジョーク
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -299,7 +268,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -308,7 +276,6 @@ records:
   desc_jp: Change Random to Jammer, Deal 130% damage
   max_atk_pct: 130
   name_en: Laughing Gas
-  name_jp: ラッフィングガス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -317,7 +284,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
-  name_jp: Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -326,7 +292,6 @@ records:
   desc_jp: Deal 180% damage (3 hits, 60% each)
   max_atk_pct: 180
   name_en: Killing Joke
-  name_jp: キリングジョーク
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -335,7 +300,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
-  name_jp: Turn 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -344,7 +308,6 @@ records:
   desc_jp: Change Random 6 to Poison
   max_atk_pct: null
   name_en: Acid Blossom
-  name_jp: アシッドブロッサム
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -353,7 +316,6 @@ records:
   desc_jp: Display '4' and skip turn
   max_atk_pct: null
   name_en: Countdown Message
-  name_jp: null
   one_time: 0
   record_type_name: ACTION
   usage_pct: 0
@@ -362,7 +324,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -371,7 +332,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -380,7 +340,6 @@ records:
   desc_jp: Display '3' and skip turn
   max_atk_pct: null
   name_en: Countdown Message
-  name_jp: null
   one_time: 0
   record_type_name: ACTION
   usage_pct: 0
@@ -389,7 +348,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -398,7 +356,6 @@ records:
   desc_jp: Display '2' and skip turn
   max_atk_pct: null
   name_en: Countdown Message
-  name_jp: null
   one_time: 0
   record_type_name: ACTION
   usage_pct: 0
@@ -407,7 +364,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -416,7 +372,6 @@ records:
   desc_jp: Display '1' and skip turn
   max_atk_pct: null
   name_en: Countdown Message
-  name_jp: null
   one_time: 0
   record_type_name: ACTION
   usage_pct: 0
@@ -425,7 +380,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
-  name_jp: Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -434,7 +388,6 @@ records:
   desc_jp: Deal 1000% damage (5 hits, 200% each)
   max_atk_pct: 1000
   name_en: Maniac Mastermind
-  name_jp: マニアックマスターマインド
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -443,7 +396,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 5
-  name_jp: Loop to 1 after. Turn 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -452,7 +404,6 @@ records:
   desc_jp: Display '4' and skip turn
   max_atk_pct: null
   name_en: Countdown Message
-  name_jp: null
   one_time: 0
   record_type_name: ACTION
   usage_pct: 0

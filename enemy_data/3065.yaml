@@ -5,7 +5,6 @@
 comments: null
 monster_id: 3065
 monster_name_en: Eternal Jade Dragon Caller, Sonia TAMADRA
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Increase damage to 300% for the next 1 turns (Preemptive)
   max_atk_pct: null
   name_en: Attack TAMA!
-  name_jp: 攻めるたまぁ！
   one_time: 1
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: Brave Smash
-  name_jp: ブレイブスマッシュ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -39,7 +36,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 40
-  name_jp: HP < 40
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -48,7 +44,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -57,7 +52,6 @@ records:
   desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: Brave Smash
-  name_jp: ブレイブスマッシュ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -66,7 +60,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -75,7 +68,6 @@ records:
   desc_jp: Do nothing
   max_atk_pct: null
   name_en: Draco Summon TAMA!
-  name_jp: 継界召龍陣・たまぁ～！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -84,7 +76,6 @@ records:
   desc_jp: Deal 500% damage (5 hits, 100% each)
   max_atk_pct: 500
   name_en: Graviton Press
-  name_jp: グラビトンプレス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

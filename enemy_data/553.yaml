@@ -5,7 +5,6 @@
 comments: null
 monster_id: 553
 monster_name_en: Low Dark Ninja
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Blind all orbs on the board
   max_atk_pct: null
   name_en: Smoke Screen
-  name_jp: 煙幕
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25

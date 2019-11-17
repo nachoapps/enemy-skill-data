@@ -5,7 +5,6 @@
 comments: null
 monster_id: 102876
 monster_name_en: Alt. Abyssal Shark Dragon, Toa
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Reduce damage from Wood by 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -47,7 +44,6 @@ records:
   desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -56,7 +52,6 @@ records:
   desc_jp: Reduce damage from Wood by 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -67,7 +62,6 @@ records:
     damage (Preemptive)
   max_atk_pct: null
   name_en: Let's confirm your wishes + Abyss Dark Ring
-  name_jp: 汝ノ願イヲ見定メヨウ + アビスダークリング
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -76,7 +70,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -85,7 +78,6 @@ records:
   desc_jp: Delay active skills by 2 turns, (if [2442, 2443] on team)
   max_atk_pct: null
   name_en: Use the Claws's power as you wish
-  name_jp: 還爪ノ力、活カスモ殺スモ好キニセヨ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -94,7 +86,6 @@ records:
   desc_jp: Delay active skills by 2 turns
   max_atk_pct: null
   name_en: Wave of Calmness
-  name_jp: カームネスウェイブ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -103,7 +94,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -112,7 +102,6 @@ records:
   desc_jp: Change 1st column to Dark orbs, 2nd column to Water orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Blue Ice Revival
-  name_jp: 青氷の還魂
   one_time: 0
   record_type_name: ACTION
   usage_pct: 40
@@ -121,7 +110,6 @@ records:
   desc_jp: Deal 120% damage (4 hits, 30% each)
   max_atk_pct: 120
   name_en: Abyss Hole
-  name_jp: アビスホール
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -130,7 +118,6 @@ records:
   desc_jp: Spawn random 8 Water orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Abyss' Guidance
-  name_jp: 深淵の導き
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -139,7 +126,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -148,7 +134,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -157,7 +142,6 @@ records:
   desc_jp: Absorb Water damage for 1 turns + Change Heal to Poison, Deal 50% damage
   max_atk_pct: null
   name_en: Abyssal Shark Dragon's Trial + Chopping Ring of the Deep Sea
-  name_jp: 溟鮫龍の試練 + 刻輪浸海
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -166,7 +150,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
-  name_jp: HP < 20
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -175,7 +158,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -184,7 +166,6 @@ records:
   desc_jp: Enemy recover 55% hp + Increase damage to 200% for the next 999 turns
   max_atk_pct: null
   name_en: Conquering Will + Dragonbound's Wrath
-  name_jp: 超克への意志 + 契約龍の逆鱗
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -195,7 +176,6 @@ records:
     Deal 130% damage
   max_atk_pct: null
   name_en: Abyss Hole + Abyss Dark Ring
-  name_jp: アビスホール + アビスダークリング
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

@@ -5,7 +5,6 @@
 comments: null
 monster_id: 5246
 monster_name_en: Iron Maiden, Jeanne
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Change all orbs to Fire + Bind awoken skills for 3 turns (Preemptive)
   max_atk_pct: null
   name_en: RRMMB + Let there be peace on earth.
-  name_jp: ゴオオン + 世界が平和でありますように
   one_time: 1
   record_type_name: PREEMPT
   usage_pct: 100
@@ -32,7 +30,6 @@ records:
   name_en: 'Instruments of Torture:
 
     Gibbet'
-  name_jp: 具現化拷問器具　ジベット
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -41,7 +38,6 @@ records:
   desc_jp: Bind 2 subs for 1~2 turns, Deal 90% damage
   max_atk_pct: 90
   name_en: To banish evil from this world!
-  name_jp: この世の悪を滅ぼすために…！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -50,7 +46,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -59,7 +54,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -68,7 +62,6 @@ records:
   desc_jp: Player -75% HP
   max_atk_pct: null
   name_en: It is proof of my resolve.
-  name_jp: これは私の決意の証
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -77,7 +70,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 15
-  name_jp: HP <= 15
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -86,7 +78,6 @@ records:
   desc_jp: Deal 200% damage
   max_atk_pct: 200
   name_en: 'Verdict: Death'
-  name_jp: 判決 死刑
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

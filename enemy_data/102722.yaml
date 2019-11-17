@@ -5,7 +5,6 @@
 comments: null
 monster_id: 102722
 monster_name_en: Alt. Awoken Hephaestus
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -23,7 +22,6 @@ records:
     +50% for 3 turns (Preemptive)
   max_atk_pct: null
   name_en: Blazing Furnace + Tempering Secrets
-  name_jp: 灼炎の熔炉 + 鍛錬の極意
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -32,7 +30,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -41,7 +38,6 @@ records:
   desc_jp: Deal 80% damage (2 hits, 40% each)
   max_atk_pct: 80
   name_en: Forging
-  name_jp: 鍛錬
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -50,7 +46,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -59,7 +54,6 @@ records:
   desc_jp: Deal 100% damage (2 hits, 50% each)
   max_atk_pct: 100
   name_en: Forging
-  name_jp: 鍛錬
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -68,7 +62,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -77,7 +70,6 @@ records:
   desc_jp: Deal 120% damage (2 hits, 60% each)
   max_atk_pct: 120
   name_en: Forging
-  name_jp: 鍛錬
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -86,7 +78,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
-  name_jp: Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -95,7 +86,6 @@ records:
   desc_jp: Deal 140% damage (2 hits, 70% each)
   max_atk_pct: 140
   name_en: Forging
-  name_jp: 鍛錬
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -104,7 +94,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
-  name_jp: Turn 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -115,7 +104,6 @@ records:
     Poison, Mortal Poison orbs
   max_atk_pct: null
   name_en: Creation of the Sacred Treasures + Quenching
-  name_jp: 神器創造 + 焼入れ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -124,7 +112,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -133,7 +120,6 @@ records:
   desc_jp: Deal 3500% damage (7 hits, 500% each)
   max_atk_pct: 3500
   name_en: Iron Rampage
-  name_jp: アイアンランページ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

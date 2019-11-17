@@ -5,7 +5,6 @@
 comments: null
 monster_id: 2877
 monster_name_en: Storm Hawk Dragon, Kuarje
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Reduce damage from Fire by 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -47,7 +44,6 @@ records:
   desc_jp: Reduce damage from Fire by 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -56,7 +52,6 @@ records:
   desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -67,7 +62,6 @@ records:
     Deal 130% damage (Preemptive)
   max_atk_pct: null
   name_en: I don't care about your hopes! + Storm Lightning
-  name_jp: テメェの願いなんて関係ねぇ！ + ストームライトリング
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -76,7 +70,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -85,7 +78,6 @@ records:
   desc_jp: Increase damage to 200% for the next 1 turns, (if [2508, 2509] on team)
   max_atk_pct: null
   name_en: You're a troublesome one, aren't you?
-  name_jp: 厄介な奴に気に入られたな
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -94,7 +86,6 @@ records:
   desc_jp: Increase damage to 200% for the next 1 turns
   max_atk_pct: null
   name_en: Raising Flap
-  name_jp: レイジングフラップ
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -103,7 +94,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -112,7 +102,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -121,7 +110,6 @@ records:
   desc_jp: Deal 110% damage (2 hits, 55% each)
   max_atk_pct: 110
   name_en: Storm Raid
-  name_jp: ストームレイド
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -130,7 +118,6 @@ records:
   desc_jp: Change 3rd column to Light orbs, 4th column to Wood orbs, Deal 95% damage
   max_atk_pct: 95
   name_en: Green Wind Soul Cutter
-  name_jp: 緑風の伐魂
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -139,7 +126,6 @@ records:
   desc_jp: Spawn random 8 Wood orbs, Deal 90% damage
   max_atk_pct: 90
   name_en: Mountain Haze's Guidance
-  name_jp: 晴嵐の導き
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -148,7 +134,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
-  name_jp: Loop to 1 after. Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -157,7 +142,6 @@ records:
   desc_jp: Increase damage to 200% for the next 1 turns
   max_atk_pct: null
   name_en: Raising Flap
-  name_jp: レイジングフラップ
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -166,7 +150,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -175,7 +158,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -186,7 +168,6 @@ records:
     Deal 100% damage
   max_atk_pct: null
   name_en: Storm Hawk Dragon's Trial + Splitting Storm Wind
-  name_jp: 嵐鷹龍の試練 + 荒輪裂風
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -195,7 +176,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -204,7 +184,6 @@ records:
   desc_jp: Increase damage to 200% for the next 1 turns
   max_atk_pct: null
   name_en: Raising Flap
-  name_jp: レイジングフラップ
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -213,7 +192,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
-  name_jp: Loop to 1 after. Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -222,7 +200,6 @@ records:
   desc_jp: Deal 110% damage (2 hits, 55% each)
   max_atk_pct: 110
   name_en: Storm Raid
-  name_jp: ストームレイド
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -231,7 +208,6 @@ records:
   desc_jp: Change 3rd column to Light orbs, 4th column to Wood orbs, Deal 95% damage
   max_atk_pct: 95
   name_en: Green Wind Soul Cutter
-  name_jp: 緑風の伐魂
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -240,7 +216,6 @@ records:
   desc_jp: Spawn random 8 Wood orbs, Deal 90% damage
   max_atk_pct: 90
   name_en: Mountain Haze's Guidance
-  name_jp: 晴嵐の導き
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -249,7 +224,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
-  name_jp: HP < 20
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -260,7 +234,6 @@ records:
     Deal 130% damage
   max_atk_pct: null
   name_en: Storm Raid + Storm Lightning
-  name_jp: ストームレイド + ストームライトリング
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -269,7 +242,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Enemy is defeated
-  name_jp: Enemy is defeated
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -278,7 +250,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -287,7 +258,6 @@ records:
   desc_jp: Enemy recover 50% hp + Increase damage to 200% for the next 1 turns
   max_atk_pct: null
   name_en: Overcoming Will + Raising Flap
-  name_jp: 超克の意志 + レイジングフラップ
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -296,7 +266,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
-  name_jp: Loop to 1 after. Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -307,7 +276,6 @@ records:
     Deal 130% damage
   max_atk_pct: null
   name_en: Storm Raid + Storm Lightning
-  name_jp: ストームレイド + ストームライトリング
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

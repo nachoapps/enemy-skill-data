@@ -5,7 +5,6 @@
 comments: null
 monster_id: 102404
 monster_name_en: Alt. Bewitching Demon Bird, Cockatrice
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Spawn random 5 Bomb orbs (Preemptive)
   max_atk_pct: null
   name_en: True Face
-  name_jp: トュルーフェイス
   one_time: 1
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Change Random to Jammer, Deal 100% damage
   max_atk_pct: 100
   name_en: Evil Eye Trick
-  name_jp: 魔眼トリック
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -41,7 +38,6 @@ records:
     Poison orbs, Deal 105% damage
   max_atk_pct: 105
   name_en: Wonder Feather
-  name_jp: ワンダーフェザー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -50,7 +46,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: When 1 enemy remains
-  name_jp: When 1 enemy remains
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -59,7 +54,6 @@ records:
   desc_jp: Spawn random 3 Jammer, Poison, Mortal Poison orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Sweet Magic
-  name_jp: スイーツマジック
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

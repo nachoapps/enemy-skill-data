@@ -5,7 +5,6 @@
 comments: null
 monster_id: 4975
 monster_name_en: ブシニャン
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Bind 1 random subs for 3 turns + Player -75% HP (Preemptive)
   max_atk_pct: null
   name_en: それがしは　ブシニャン！ + いざ　参るっ！
-  name_jp: それがしは　ブシニャン！ + いざ　参るっ！
   one_time: 2
   record_type_name: PREEMPT
   usage_pct: 100
@@ -39,7 +36,6 @@ records:
   desc_jp: Spawn random 5 Jammer orbs, Deal 90% damage
   max_atk_pct: 90
   name_en: お主に　斬れるでござるか？
-  name_jp: お主に　斬れるでござるか？
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -48,7 +44,6 @@ records:
   desc_jp: Deal 105% damage (3 hits, 35% each)
   max_atk_pct: 105
   name_en: 閃光斬りっ！
-  name_jp: 閃光斬りっ！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -57,7 +52,6 @@ records:
   desc_jp: Change Random to Wood, Deal 95% damage
   max_atk_pct: 95
   name_en: 旋風斬りっ！！
-  name_jp: 旋風斬りっ！！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 34
@@ -66,7 +60,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -75,7 +68,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -86,7 +78,6 @@ records:
     for 5 turns
   max_atk_pct: null
   name_en: こうなったら　奥の手でござる！ + ぬははは！　勝利はもらった！
-  name_jp: こうなったら　奥の手でござる！ + ぬははは！　勝利はもらった！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -95,7 +86,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
-  name_jp: HP < 20
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -104,7 +94,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -113,7 +102,6 @@ records:
   desc_jp: Bind 4 random subs for 1 turns + Do nothing
   max_atk_pct: null
   name_en: ぶ　武士の情け… + しばし待たれよっ！
-  name_jp: ぶ　武士の情け… + しばし待たれよっ！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -122,7 +110,6 @@ records:
   desc_jp: Deal 210% damage (6 hits, 35% each)
   max_atk_pct: 210
   name_en: かつおブシ斬り
-  name_jp: かつおブシ斬り
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -131,7 +118,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: When 1 enemy remains
-  name_jp: When 1 enemy remains
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -140,7 +126,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -149,7 +134,6 @@ records:
   desc_jp: Increase damage to 200% for the next 1 turns
   max_atk_pct: null
   name_en: 精神統一でござる…
-  name_jp: 精神統一でござる…
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -158,7 +142,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -167,7 +150,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -178,7 +160,6 @@ records:
     for 5 turns
   max_atk_pct: null
   name_en: こうなったら　奥の手でござる！ + ぬははは！　勝利はもらった！
-  name_jp: こうなったら　奥の手でござる！ + ぬははは！　勝利はもらった！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -187,7 +168,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -196,7 +176,6 @@ records:
   desc_jp: Increase damage to 200% for the next 1 turns
   max_atk_pct: null
   name_en: 精神統一でござる…
-  name_jp: 精神統一でござる…
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100

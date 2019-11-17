@@ -5,7 +5,6 @@
 comments: null
 monster_id: 102523
 monster_name_en: Santa Claus
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Do nothing + Do nothing + Reduce self HP to 0 (Preemptive)
   max_atk_pct: null
   name_en: Merry Christmaaas! + Presents for the nice children! + Take care of yourself!
-  name_jp: メリークリスマ～ス！ + 良い子にはプレゼントをあげよう + 体には気をつけるんじゃぞ
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100

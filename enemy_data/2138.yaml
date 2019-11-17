@@ -5,7 +5,6 @@
 comments: null
 monster_id: 2138
 monster_name_en: Scarecrow+Fear Gas
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Voids status ailments for 999 turns (Preemptive)
   max_atk_pct: null
   name_en: There's nothing more to fear
-  name_jp: もう何も恐れるものはない
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Change Random to Jammer, Deal 70% damage
   max_atk_pct: 70
   name_en: Fear Gas
-  name_jp: フィアーガス
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -39,7 +36,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -48,7 +44,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -57,7 +52,6 @@ records:
   desc_jp: Player -75% HP + Change Random 7 to Poison
   max_atk_pct: null
   name_en: Pay! + For what you did to me!
-  name_jp: 私にした仕打ちの + 代償を払え
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -66,7 +60,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 25
-  name_jp: HP < 25
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -77,7 +70,6 @@ records:
     70% damage + Change Random to Jammer, Deal 70% damage
   max_atk_pct: null
   name_en: Fear Gas + Fear Gas + Fear Gas
-  name_jp: フィアーガス + フィアーガス + フィアーガス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

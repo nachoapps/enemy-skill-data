@@ -5,7 +5,6 @@
 comments: null
 monster_id: 104722
 monster_name_en: Durandalf
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings:
 - Found 1 unused actions
@@ -24,7 +23,6 @@ records:
     10 Light, Heal, Jammer, Mortal Poison orbs (Preemptive)
   max_atk_pct: null
   name_en: Magia Points have recovered + Seiren's Singing Voice + Themis's Oracle
-  name_jp: マギアポイントが回復した + セイレーンの歌声 + テミスの神託
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -33,7 +31,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1-3
-  name_jp: Turn 1-3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -42,7 +39,6 @@ records:
   desc_jp: Spawn random 3 Wood orbs + Change 4th column to Light orbs, Deal 80% damage
   max_atk_pct: null
   name_en: Magia Points have recovered + Lightning of Zeus
-  name_jp: マギアポイントが回復した + ライトニング
   one_time: 2
   record_type_name: ACTION
   usage_pct: 25
@@ -51,7 +47,6 @@ records:
   desc_jp: Spawn random 3 Wood orbs + Deal 120% damage
   max_atk_pct: null
   name_en: Magia Points have recovered + Arrow of Artemis
-  name_jp: マギアポイントが回復した + アルテミスの矢
   one_time: 2
   record_type_name: ACTION
   usage_pct: 33
@@ -60,7 +55,6 @@ records:
   desc_jp: Spawn random 3 Wood orbs + Deal 60%~120% damage (2~4 hits, 30% each)
   max_atk_pct: null
   name_en: Magia Points have recovered + Hera's Jealousy
-  name_jp: マギアポイントが回復した + ヘラの狂気
   one_time: 2
   record_type_name: ACTION
   usage_pct: 50
@@ -69,7 +63,6 @@ records:
   desc_jp: Spawn random 3 Wood orbs + Bind 1 subs for 2 turns, Deal 100% damage
   max_atk_pct: null
   name_en: Magia Points have recovered + Gaze of the Gorgon
-  name_jp: マギアポイントが回復した + ゴルゴンの眼差し
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -78,7 +71,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
-  name_jp: Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -87,7 +79,6 @@ records:
   desc_jp: Spawn random 3 Wood orbs + Delay active skills by 2 turns
   max_atk_pct: null
   name_en: Magia Points have recovered + Cattle Thief
-  name_jp: マギアポイントが回復した + 牛泥棒
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -96,7 +87,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
-  name_jp: Turn 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -105,7 +95,6 @@ records:
   desc_jp: Spawn random 3 Wood orbs + Change 4th column to Light orbs, Deal 80% damage
   max_atk_pct: null
   name_en: Magia Points have recovered + Lightning of Zeus
-  name_jp: マギアポイントが回復した + ライトニング
   one_time: 2
   record_type_name: ACTION
   usage_pct: 25
@@ -114,7 +103,6 @@ records:
   desc_jp: Spawn random 3 Wood orbs + Deal 120% damage
   max_atk_pct: null
   name_en: Magia Points have recovered + Arrow of Artemis
-  name_jp: マギアポイントが回復した + アルテミスの矢
   one_time: 2
   record_type_name: ACTION
   usage_pct: 33
@@ -123,7 +111,6 @@ records:
   desc_jp: Spawn random 3 Wood orbs + Deal 60%~120% damage (2~4 hits, 30% each)
   max_atk_pct: null
   name_en: Magia Points have recovered + Hera's Jealousy
-  name_jp: マギアポイントが回復した + ヘラの狂気
   one_time: 2
   record_type_name: ACTION
   usage_pct: 50
@@ -132,7 +119,6 @@ records:
   desc_jp: Spawn random 3 Wood orbs + Bind 1 subs for 2 turns, Deal 100% damage
   max_atk_pct: null
   name_en: Magia Points have recovered + Gaze of the Gorgon
-  name_jp: マギアポイントが回復した + ゴルゴンの眼差し
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -141,7 +127,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6
-  name_jp: Turn 6
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -150,7 +135,6 @@ records:
   desc_jp: Spawn random 3 Wood orbs + Increase damage to 200% for the next 1 turns
   max_atk_pct: null
   name_en: Magia Points have recovered + Persephone's Return
-  name_jp: マギアポイントが回復した + ペルセポネの帰還
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -159,7 +143,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -168,7 +151,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -177,7 +159,6 @@ records:
   desc_jp: Spawn random 3 Wood orbs + Deal 150% damage
   max_atk_pct: null
   name_en: Magia Points have recovered + Overdrive
-  name_jp: マギアポイントが回復した + オーバードライブ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -186,7 +167,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
-  name_jp: Loop to 1 after. Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -195,7 +175,6 @@ records:
   desc_jp: Spawn random 3 Wood orbs + Increase damage to 200% for the next 1 turns
   max_atk_pct: null
   name_en: Magia Points have recovered + Magia Activation
-  name_jp: マギアポイントが回復した + マギア活性化
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -204,7 +183,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 75
-  name_jp: HP < 75
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -213,7 +191,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -222,7 +199,6 @@ records:
   desc_jp: Spawn random 3 Wood orbs + Poison skyfall +20% for 3 turns
   max_atk_pct: null
   name_en: Magia Points have recovered + Hydra Venom
-  name_jp: マギアポイントが回復した + ヒュドラの毒
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -231,7 +207,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
-  name_jp: Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -240,7 +215,6 @@ records:
   desc_jp: Spawn random 3 Wood orbs + Change 4th column to Light orbs, Deal 80% damage
   max_atk_pct: null
   name_en: Magia Points have recovered + Lightning of Zeus
-  name_jp: マギアポイントが回復した + ライトニング
   one_time: 2
   record_type_name: ACTION
   usage_pct: 25
@@ -249,7 +223,6 @@ records:
   desc_jp: Spawn random 3 Wood orbs + Deal 120% damage
   max_atk_pct: null
   name_en: Magia Points have recovered + Arrow of Artemis
-  name_jp: マギアポイントが回復した + アルテミスの矢
   one_time: 2
   record_type_name: ACTION
   usage_pct: 33
@@ -258,7 +231,6 @@ records:
   desc_jp: Spawn random 3 Wood orbs + Deal 60%~120% damage (2~4 hits, 30% each)
   max_atk_pct: null
   name_en: Magia Points have recovered + Hera's Jealousy
-  name_jp: マギアポイントが回復した + ヘラの狂気
   one_time: 2
   record_type_name: ACTION
   usage_pct: 50
@@ -267,7 +239,6 @@ records:
   desc_jp: Spawn random 3 Wood orbs + Bind 1 subs for 2 turns, Deal 100% damage
   max_atk_pct: null
   name_en: Magia Points have recovered + Gaze of the Gorgon
-  name_jp: マギアポイントが回復した + ゴルゴンの眼差し
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -276,7 +247,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
-  name_jp: Turn 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -285,7 +255,6 @@ records:
   desc_jp: Spawn random 3 Wood orbs + Delay active skills by 2 turns
   max_atk_pct: null
   name_en: Magia Points have recovered + Cattle Thief
-  name_jp: マギアポイントが回復した + 牛泥棒
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -294,7 +263,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6
-  name_jp: Turn 6
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -303,7 +271,6 @@ records:
   desc_jp: Spawn random 3 Wood orbs + Change 4th column to Light orbs, Deal 80% damage
   max_atk_pct: null
   name_en: Magia Points have recovered + Lightning of Zeus
-  name_jp: マギアポイントが回復した + ライトニング
   one_time: 2
   record_type_name: ACTION
   usage_pct: 25
@@ -312,7 +279,6 @@ records:
   desc_jp: Spawn random 3 Wood orbs + Deal 120% damage
   max_atk_pct: null
   name_en: Magia Points have recovered + Arrow of Artemis
-  name_jp: マギアポイントが回復した + アルテミスの矢
   one_time: 2
   record_type_name: ACTION
   usage_pct: 33
@@ -321,7 +287,6 @@ records:
   desc_jp: Spawn random 3 Wood orbs + Deal 60%~120% damage (2~4 hits, 30% each)
   max_atk_pct: null
   name_en: Magia Points have recovered + Hera's Jealousy
-  name_jp: マギアポイントが回復した + ヘラの狂気
   one_time: 2
   record_type_name: ACTION
   usage_pct: 50
@@ -330,7 +295,6 @@ records:
   desc_jp: Spawn random 3 Wood orbs + Bind 1 subs for 2 turns, Deal 100% damage
   max_atk_pct: null
   name_en: Magia Points have recovered + Gaze of the Gorgon
-  name_jp: マギアポイントが回復した + ゴルゴンの眼差し
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -339,7 +303,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 7
-  name_jp: Turn 7
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -348,7 +311,6 @@ records:
   desc_jp: Spawn random 3 Wood orbs + Increase damage to 200% for the next 1 turns
   max_atk_pct: null
   name_en: Magia Points have recovered + Persephone's Return
-  name_jp: マギアポイントが回復した + ペルセポネの帰還
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -357,7 +319,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -366,7 +327,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -377,7 +337,6 @@ records:
     turns
   max_atk_pct: null
   name_en: Magia Points have recovered + Aegis
-  name_jp: マギアポイントが回復した + アイギスの盾
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -386,7 +345,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 25
-  name_jp: HP < 25
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -395,7 +353,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -404,7 +361,6 @@ records:
   desc_jp: Spawn random 3 Wood orbs + Increase damage to 200% for the next 1 turns
   max_atk_pct: null
   name_en: Magia Points have recovered + Magia Activation
-  name_jp: マギアポイントが回復した + マギア活性化
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -413,7 +369,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
-  name_jp: Loop to 1 after. Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -422,7 +377,6 @@ records:
   desc_jp: Spawn random 3 Wood orbs + Deal 150% damage
   max_atk_pct: null
   name_en: Magia Points have recovered + Overdrive
-  name_jp: マギアポイントが回復した + オーバードライブ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

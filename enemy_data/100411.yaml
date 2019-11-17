@@ -5,7 +5,6 @@
 comments: null
 monster_id: 100411
 monster_name_en: Alt. Cyberdragon Valhalla
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Reduce damage from Devil by 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -32,7 +30,6 @@ records:
     Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 120% damage (Preemptive)
   max_atk_pct: null
   name_en: Sequenced Power Outage + Electrification
-  name_jp: 輪番停電 + 帯電
   one_time: 2
   record_type_name: PREEMPT
   usage_pct: 100
@@ -41,7 +38,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1-4
-  name_jp: Turn 1-4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -52,7 +48,6 @@ records:
     Poison orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Electric Charge
-  name_jp: 荷電
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -61,7 +56,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
-  name_jp: Turn 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -70,7 +64,6 @@ records:
   desc_jp: Movetime 50% for 5 turns
   max_atk_pct: null
   name_en: Leakage
-  name_jp: 漏出
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -79,7 +72,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -88,7 +80,6 @@ records:
   desc_jp: Deal 400% damage (4 hits, 100% each)
   max_atk_pct: 400
   name_en: God's Holy Breath
-  name_jp: ゴッドホーリーブレス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -97,7 +88,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
-  name_jp: HP < 30
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -106,7 +96,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -115,7 +104,6 @@ records:
   desc_jp: Movetime 50% for 5 turns
   max_atk_pct: null
   name_en: Leakage
-  name_jp: 漏出
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -132,7 +120,6 @@ records:
   desc_jp: Reduce damage from Devil by 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -143,7 +130,6 @@ records:
     Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 120% damage (Preemptive)
   max_atk_pct: null
   name_en: Sequenced Power Outage + Electrification
-  name_jp: 輪番停電 + 帯電
   one_time: 2
   record_type_name: PREEMPT
   usage_pct: 100
@@ -152,7 +138,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1-4
-  name_jp: Turn 1-4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -163,7 +148,6 @@ records:
     Poison orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Electric Charge
-  name_jp: 荷電
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -172,7 +156,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
-  name_jp: Turn 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -181,7 +164,6 @@ records:
   desc_jp: Movetime 50% for 5 turns
   max_atk_pct: null
   name_en: Leakage
-  name_jp: 漏出
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -190,7 +172,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -199,7 +180,6 @@ records:
   desc_jp: Deal 400% damage (4 hits, 100% each)
   max_atk_pct: 400
   name_en: God's Holy Breath
-  name_jp: ゴッドホーリーブレス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -208,7 +188,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
-  name_jp: HP < 30
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -217,7 +196,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -226,7 +204,6 @@ records:
   desc_jp: Movetime 50% for 5 turns
   max_atk_pct: null
   name_en: Leakage
-  name_jp: 漏出
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100

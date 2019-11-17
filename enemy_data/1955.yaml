@@ -5,7 +5,6 @@
 comments: null
 monster_id: 1955
 monster_name_en: Awoken Lakshmi
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Bind awoken skills for 6 turns + Bind active skills for 6 turns (Preemptive)
   max_atk_pct: null
   name_en: Let's plaaay! + It's Puzzle Fight Time!
-  name_jp: いっしょに あーそぼ！ + パズルで勝負だよっ！
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -39,7 +36,6 @@ records:
   desc_jp: Change Jammer to Water, Deal 1000% damage
   max_atk_pct: 1000
   name_en: Nope! Wrooong!
-  name_jp: ブッブー！　はいダメー！！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -48,7 +44,6 @@ records:
   desc_jp: Spawn random 5 Jammer orbs
   max_atk_pct: null
   name_en: Can you erase my Jammers?
-  name_jp: おじゃまドロップ けせるかな～？
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -57,7 +52,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -66,7 +60,6 @@ records:
   desc_jp: Change Jammer to Water, Deal 1000% damage
   max_atk_pct: 1000
   name_en: Nope! Wrooong!
-  name_jp: ブッブー！　はいダメー！！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -75,7 +68,6 @@ records:
   desc_jp: Spawn random 6 Jammer orbs
   max_atk_pct: null
   name_en: Here I gooo!
-  name_jp: どんどんいくよ～！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -84,7 +76,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -93,7 +84,6 @@ records:
   desc_jp: Change Jammer to Water, Deal 1000% damage
   max_atk_pct: 1000
   name_en: Nope! Wrooong!
-  name_jp: ブッブー！　はいダメー！！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -102,7 +92,6 @@ records:
   desc_jp: Spawn random 10 Jammer orbs
   max_atk_pct: null
   name_en: My... You're not bad!
-  name_jp: むむっ！　やるな～
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -111,7 +100,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
-  name_jp: Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -120,7 +108,6 @@ records:
   desc_jp: Change Jammer to Water, Deal 1000% damage
   max_atk_pct: 1000
   name_en: Nope! Wrooong!
-  name_jp: ブッブー！　はいダメー！！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -129,7 +116,6 @@ records:
   desc_jp: Blind all orbs on the board + Spawn random 15 Jammer orbs
   max_atk_pct: null
   name_en: However, this here... + Can you erase these!?
-  name_jp: でも これは… + けせるかなっ！？
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -138,7 +124,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
-  name_jp: Turn 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -147,7 +132,6 @@ records:
   desc_jp: Change Jammer to Water, Deal 1000% damage
   max_atk_pct: 1000
   name_en: Nope! Wrooong!
-  name_jp: ブッブー！　はいダメー！！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -156,7 +140,6 @@ records:
   desc_jp: Movetime -1s for 1 turns + Spawn random 9 Jammer orbs
   max_atk_pct: null
   name_en: You're impressive! + This will finish it!
-  name_jp: キミ　すごいねっ！ + これでさいごだよっ！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -165,7 +148,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -174,7 +156,6 @@ records:
   desc_jp: Change Jammer to Water, Deal 1000% damage
   max_atk_pct: 1000
   name_en: Nope! Wrooong!
-  name_jp: ブッブー！　はいダメー！！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -183,7 +164,6 @@ records:
   desc_jp: Reduce self HP to 0
   max_atk_pct: null
   name_en: That was fun! See ya!
-  name_jp: たのしかったよ！　まったね～♪
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

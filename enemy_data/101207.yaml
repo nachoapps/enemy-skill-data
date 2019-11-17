@@ -5,7 +5,6 @@
 comments: null
 monster_id: 101207
 monster_name_en: Alt. 5 Mechdragon Combo, Demon Hadar
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Reduce damage from Fire, Dark by 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -38,7 +36,6 @@ records:
   desc_jp: Reduce damage from Fire, Dark by 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -47,7 +44,6 @@ records:
   desc_jp: Voids status ailments for 999 turns + Rcv 50% for 4 turns (Preemptive)
   max_atk_pct: null
   name_en: Barrier Field + Demon Cyclone
-  name_jp: バリアフィールド + デモンサイクロン
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -56,7 +52,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -65,7 +60,6 @@ records:
   desc_jp: Change Random 6 to Poison, Deal 100% damage
   max_atk_pct: 100
   name_en: Genocide Missile Type 0
-  name_jp: ジェノサイドミサイル・零式
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -74,7 +68,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -83,7 +76,6 @@ records:
   desc_jp: Deal 150%~175% damage (6~7 hits, 25% each)
   max_atk_pct: 175
   name_en: Improved Endless Noble Claws
-  name_jp: 皇爪連牙・改
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -92,7 +84,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -101,7 +92,6 @@ records:
   desc_jp: Blind all orbs on the board, Deal 125% damage
   max_atk_pct: 125
   name_en: Dark Cyclone Blast
-  name_jp: ダークサイクロンブラスト
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -110,7 +100,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
-  name_jp: Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -119,7 +108,6 @@ records:
   desc_jp: Deal 200% damage (2 hits, 100% each)
   max_atk_pct: 200
   name_en: High Megiddo Cannon
-  name_jp: ハイメギドキャノン
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -128,7 +116,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 5
-  name_jp: Loop to 1 after. Turn 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -137,7 +124,6 @@ records:
   desc_jp: Bind 4 subs for 2 turns, Deal 75% damage
   max_atk_pct: 75
   name_en: Freezing Crusher
-  name_jp: フリーズクラッシャー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -146,7 +132,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 25
-  name_jp: HP < 25
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -155,7 +140,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -164,7 +148,6 @@ records:
   desc_jp: Do nothing
   max_atk_pct: null
   name_en: Limiter Off
-  name_jp: リミッター解除
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -173,7 +156,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
-  name_jp: Loop to 1 after. Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -182,7 +164,6 @@ records:
   desc_jp: Deal 900% damage (3 hits, 300% each)
   max_atk_pct: 900
   name_en: Ultimate Stream
-  name_jp: アルティメット・ストリーム
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

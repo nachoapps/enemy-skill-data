@@ -5,7 +5,6 @@
 comments: null
 monster_id: 100192
 monster_name_en: Alt. Pyro Demon
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Jammer skyfall +20% for 10 turns (Preemptive)
   max_atk_pct: null
   name_en: Evil Rain
-  name_jp: イービルレイン
   one_time: 1
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Bind Water cards for 2~4 turns
   max_atk_pct: null
   name_en: Water Bind
-  name_jp: ウォーターバインド
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -47,7 +44,6 @@ records:
   desc_jp: Jammer skyfall +20% for 10 turns (Preemptive)
   max_atk_pct: null
   name_en: Evil Rain
-  name_jp: イービルレイン
   one_time: 1
   record_type_name: PREEMPT
   usage_pct: 100
@@ -56,7 +52,6 @@ records:
   desc_jp: Bind Water cards for 2~4 turns
   max_atk_pct: null
   name_en: Water Bind
-  name_jp: ウォーターバインド
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20

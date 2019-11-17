@@ -5,7 +5,6 @@
 comments: null
 monster_id: 101955
 monster_name_en: Alt. Awoken Lakshmi
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -23,7 +22,6 @@ records:
     all orbs to Fire, Water, Wood, Light, Dark, Heal (Preemptive)
   max_atk_pct: null
   name_en: Let's plaaay! + It's Puzzle Fight Time! + It's gonna get harder! Get ready!
-  name_jp: いっしょに あーそぼ！ + パズルで勝負だよっ！ + 前より難しいから覚悟してね！
   one_time: 32
   record_type_name: PREEMPT
   usage_pct: 100
@@ -32,7 +30,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -41,7 +38,6 @@ records:
   desc_jp: Change Jammer to Water, Deal 90000% damage
   max_atk_pct: 90000
   name_en: Nope! Wroong!
-  name_jp: ブッブー！　はいダメー！！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -50,7 +46,6 @@ records:
   desc_jp: Change 1st, 5th row to Water, Heal, Jammer orbs, 3rd row to Jammer orbs
   max_atk_pct: null
   name_en: Can you erase my Jammers?
-  name_jp: おじゃまドロップ けせるかな～？
   one_time: 16
   record_type_name: ACTION
   usage_pct: 100
@@ -59,7 +54,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -68,7 +62,6 @@ records:
   desc_jp: Change Jammer to Water, Deal 90000% damage
   max_atk_pct: 90000
   name_en: Nope! Wroong!
-  name_jp: ブッブー！　はいダメー！！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -79,7 +72,6 @@ records:
     Jammer orbs
   max_atk_pct: null
   name_en: Here I gooo!
-  name_jp: どんどんいくよ～！
   one_time: 8
   record_type_name: ACTION
   usage_pct: 100
@@ -88,7 +80,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -97,7 +88,6 @@ records:
   desc_jp: Change Jammer to Water, Deal 90000% damage
   max_atk_pct: 90000
   name_en: Nope! Wroong!
-  name_jp: ブッブー！　はいダメー！！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -106,7 +96,6 @@ records:
   desc_jp: Spawn random 13 Jammer orbs
   max_atk_pct: null
   name_en: My... You're not bad!
-  name_jp: むむっ！　やるな～
   one_time: 4
   record_type_name: ACTION
   usage_pct: 100
@@ -115,7 +104,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
-  name_jp: Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -124,7 +112,6 @@ records:
   desc_jp: Change Jammer to Water, Deal 90000% damage
   max_atk_pct: 90000
   name_en: Nope! Wroong!
-  name_jp: ブッブー！　はいダメー！！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -133,7 +120,6 @@ records:
   desc_jp: Blind random 30 orbs for 1 turns + Spawn random 16 Jammer orbs
   max_atk_pct: null
   name_en: However, this here... + Can you erase these!?
-  name_jp: でも これは… + けせるかなっ！？
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -142,7 +128,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
-  name_jp: Turn 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -151,7 +136,6 @@ records:
   desc_jp: Change Jammer to Water, Deal 90000% damage
   max_atk_pct: 90000
   name_en: Nope! Wroong!
-  name_jp: ブッブー！　はいダメー！！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -162,7 +146,6 @@ records:
     starting point to random position on the board
   max_atk_pct: null
   name_en: You're impressive! + This will finish it! + Eat this!
-  name_jp: キミ　すごいねっ！ + これでさいごだよっ！ + えいっ！
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -171,7 +154,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -180,7 +162,6 @@ records:
   desc_jp: Change Jammer to Water, Deal 90000% damage
   max_atk_pct: 90000
   name_en: Nope! Wroong!
-  name_jp: ブッブー！　はいダメー！！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -189,7 +170,6 @@ records:
   desc_jp: Reduce self HP to 0
   max_atk_pct: null
   name_en: That was fun! See ya!
-  name_jp: たのしかったよ！　まったね～♪
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

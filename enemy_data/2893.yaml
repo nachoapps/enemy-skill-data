@@ -5,7 +5,6 @@
 comments: null
 monster_id: 2893
 monster_name_en: Soul Binding Princess of Darkness, Hel
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings:
 - Found 1 unused actions
@@ -22,7 +21,6 @@ records:
   desc_jp: Reduce damage from Light, Dark by 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -33,7 +31,6 @@ records:
     999 turns + Change Random 8 to Poison, Deal 200% damage (Preemptive)
   max_atk_pct: null
   name_en: Determine your own destiny! + Half-Demon + Double Pain
-  name_jp: 生きる道は自分で探せ + 魔の半身 + ダブルペイン
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -42,7 +39,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -51,7 +47,6 @@ records:
   desc_jp: Poison skyfall +20% for 99 turns + Deal 165% damage (3 hits, 55% each)
   max_atk_pct: null
   name_en: Eternal Suffering + Garm's Rotten Fangs
-  name_jp: エタニティサファー + ガルムの朽牙
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -60,7 +55,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -69,7 +63,6 @@ records:
   desc_jp: Lock 1 random Poison, Mortal Poison orbs, Deal 160% damage
   max_atk_pct: 160
   name_en: Dead Judgment
-  name_jp: デッドジャッジメント
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -78,7 +71,6 @@ records:
   desc_jp: Change Random 6 to Poison, Deal 160% damage
   max_atk_pct: 160
   name_en: Poison Thorn
-  name_jp: ポイズンソーン
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -87,7 +79,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -96,7 +87,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -105,7 +95,6 @@ records:
   desc_jp: Enemy recover 100% hp + Reduce damage from all sources by 75% for 10 turns
   max_atk_pct: null
   name_en: Color of Life + Naglfar
-  name_jp: 生命の色 + ナグルファル
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -114,7 +103,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
-  name_jp: HP < 10
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -123,7 +111,6 @@ records:
   desc_jp: Change Random 10 to Poison, Deal 3000% damage
   max_atk_pct: 3000
   name_en: Grief of Helheim
-  name_jp: グリーフオブヘルヘイム
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

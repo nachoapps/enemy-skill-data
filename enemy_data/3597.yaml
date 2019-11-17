@@ -5,7 +5,6 @@
 comments: null
 monster_id: 3597
 monster_name_en: Dark Winged Machine, Demonius
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Reduce damage from Light by 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -41,7 +38,6 @@ records:
     positions + Locked random skyfall +100% for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: Hell Armor + Demon Flare + Chaos Field
-  name_jp: ヘルズアーマー + デモンフレア + カオスフィールド
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -50,7 +46,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -61,7 +56,6 @@ records:
     damage
   max_atk_pct: 200
   name_en: Energy Ray
-  name_jp: エナジーレイ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -70,7 +64,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -79,7 +72,6 @@ records:
   desc_jp: Movetime -2s for 2 turns, Deal 130% damage
   max_atk_pct: 130
   name_en: Black Metal Glare
-  name_jp: ブラックメタルグレア
   one_time: 2
   record_type_name: ACTION
   usage_pct: 15
@@ -88,7 +80,6 @@ records:
   desc_jp: Delay active skills by 2 turns, Deal 130% damage
   max_atk_pct: 130
   name_en: Suppression Pulse
-  name_jp: サプレスパルス
   one_time: 2
   record_type_name: ACTION
   usage_pct: 15
@@ -97,7 +88,6 @@ records:
   desc_jp: Spawn random 3 Bomb orbs, Deal 130% damage
   max_atk_pct: 130
   name_en: Evil Bomb
-  name_jp: イービルボム
   one_time: 0
   record_type_name: ACTION
   usage_pct: 70
@@ -106,7 +96,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -115,7 +104,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -124,7 +112,6 @@ records:
   desc_jp: Absorb combo <= 5 damage for 999 turns + Jammer skyfall +20% for 10 turns
   max_atk_pct: null
   name_en: Trauma Dimension + Jamming
-  name_jp: オーディールディメンション + ジャミング
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -133,7 +120,6 @@ records:
   desc_jp: Delay active skills by 2 turns + Deal 210% damage (3 hits, 70% each)
   max_atk_pct: null
   name_en: Suppression Pulse + Dead Wing
-  name_jp: サプレスパルス + デッドウィング
   one_time: 2
   record_type_name: ACTION
   usage_pct: 20
@@ -142,7 +128,6 @@ records:
   desc_jp: Movetime -2s for 2 turns + Bind 1 random for 3 turns, Deal 180% damage
   max_atk_pct: null
   name_en: Black Metal Glare + Paralysis Dart
-  name_jp: ブラックメタルグレア + パラリシスダート
   one_time: 2
   record_type_name: ACTION
   usage_pct: 20
@@ -151,7 +136,6 @@ records:
   desc_jp: Spawn random 3 Bomb orbs, Deal 160% damage
   max_atk_pct: 160
   name_en: Evil Bomb
-  name_jp: イービルボム
   one_time: 0
   record_type_name: ACTION
   usage_pct: 60
@@ -160,7 +144,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
-  name_jp: HP < 20
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -169,7 +152,6 @@ records:
   desc_jp: Deal 6000% damage (3 hits, 2000% each)
   max_atk_pct: 6000
   name_en: Limit Break
-  name_jp: リミットブレイク
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -178,7 +160,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Enemy is defeated
-  name_jp: Enemy is defeated
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -187,7 +168,6 @@ records:
   desc_jp: Enemy recover 51% hp + Increase damage to 200% for the next 999 turns
   max_atk_pct: null
   name_en: Cell Proliferate + Helter-Skelter
-  name_jp: セルプラリファレイト + フォースアモク
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

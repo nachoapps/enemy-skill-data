@@ -5,7 +5,6 @@
 comments: null
 monster_id: 2737
 monster_name_en: Dusking Dragon Caller, Sonia Gran Reverse
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -23,7 +22,6 @@ records:
     3 turns (Preemptive)
   max_atk_pct: null
   name_en: Let's have some fun + Dragon's Origin
-  name_jp: さぁ、楽しもうぞ + ドラゴンズオリジン
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 33
@@ -34,7 +32,6 @@ records:
     for 3 turns (Preemptive)
   max_atk_pct: null
   name_en: Let's have some fun + Dragon's Origin
-  name_jp: さぁ、楽しもうぞ + ドラゴンズオリジン
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 34
@@ -45,7 +42,6 @@ records:
     3 turns (Preemptive)
   max_atk_pct: null
   name_en: Let's have some fun + Dragon's Origin
-  name_jp: さぁ、楽しもうぞ + ドラゴンズオリジン
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 33
@@ -54,7 +50,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -63,7 +58,6 @@ records:
   desc_jp: Do nothing
   max_atk_pct: null
   name_en: Draco Summon-Dragon Portal
-  name_jp: 継界召龍陣・龍門解錠
   one_time: 32
   record_type_name: ACTION
   usage_pct: 100
@@ -72,7 +66,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -81,7 +74,6 @@ records:
   desc_jp: Blind all orbs on the board, Deal 160% damage
   max_atk_pct: 160
   name_en: Cattle Mutilation
-  name_jp: キャトルミューティレーション
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -90,7 +82,6 @@ records:
   desc_jp: Lock all Wood orbs, Deal 150% damage
   max_atk_pct: 150
   name_en: Glass Leaf
-  name_jp: グラスリーフ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -99,7 +90,6 @@ records:
   desc_jp: Change Random 6 to Poison, Deal 120% damage
   max_atk_pct: 120
   name_en: Genocide Missile Type 0
-  name_jp: ジェノサイドミサイル・零式
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -108,7 +98,6 @@ records:
   desc_jp: Change Random to Dark, Deal 150% damage
   max_atk_pct: 150
   name_en: Dark Rumble
-  name_jp: 冥轟
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -117,7 +106,6 @@ records:
   desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Deal 140% damage
   max_atk_pct: 140
   name_en: Brilliant Dragon Skull
-  name_jp: ブリリアントドラゴンスカル
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -126,7 +114,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -135,7 +122,6 @@ records:
   desc_jp: Reduce damage from all sources by 50% for 2 turns
   max_atk_pct: null
   name_en: Fair Skies Guardian Dragon - Shield
-  name_jp: 龍護穹天・守
   one_time: 16
   record_type_name: ACTION
   usage_pct: 100
@@ -144,7 +130,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
-  name_jp: Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -153,7 +138,6 @@ records:
   desc_jp: Blind all orbs on the board, Deal 160% damage
   max_atk_pct: 160
   name_en: Cattle Mutilation
-  name_jp: キャトルミューティレーション
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -162,7 +146,6 @@ records:
   desc_jp: Lock all Wood orbs, Deal 150% damage
   max_atk_pct: 150
   name_en: Glass Leaf
-  name_jp: グラスリーフ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -171,7 +154,6 @@ records:
   desc_jp: Change Random 6 to Poison, Deal 120% damage
   max_atk_pct: 120
   name_en: Genocide Missile Type 0
-  name_jp: ジェノサイドミサイル・零式
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -180,7 +162,6 @@ records:
   desc_jp: Change Random to Dark, Deal 150% damage
   max_atk_pct: 150
   name_en: Dark Rumble
-  name_jp: 冥轟
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -189,7 +170,6 @@ records:
   desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Deal 140% damage
   max_atk_pct: 140
   name_en: Brilliant Dragon Skull
-  name_jp: ブリリアントドラゴンスカル
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -198,7 +178,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
-  name_jp: Turn 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -207,7 +186,6 @@ records:
   desc_jp: Absorb combo <= 6 damage for 2 turns
   max_atk_pct: null
   name_en: Fair Skies Guardian Dragon - Skill
-  name_jp: 龍護穹天・技
   one_time: 8
   record_type_name: ACTION
   usage_pct: 100
@@ -216,7 +194,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6
-  name_jp: Turn 6
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -225,7 +202,6 @@ records:
   desc_jp: Blind all orbs on the board, Deal 160% damage
   max_atk_pct: 160
   name_en: Cattle Mutilation
-  name_jp: キャトルミューティレーション
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -234,7 +210,6 @@ records:
   desc_jp: Lock all Wood orbs, Deal 150% damage
   max_atk_pct: 150
   name_en: Glass Leaf
-  name_jp: グラスリーフ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -243,7 +218,6 @@ records:
   desc_jp: Change Random 6 to Poison, Deal 120% damage
   max_atk_pct: 120
   name_en: Genocide Missile Type 0
-  name_jp: ジェノサイドミサイル・零式
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -252,7 +226,6 @@ records:
   desc_jp: Change Random to Dark, Deal 150% damage
   max_atk_pct: 150
   name_en: Dark Rumble
-  name_jp: 冥轟
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -261,7 +234,6 @@ records:
   desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Deal 140% damage
   max_atk_pct: 140
   name_en: Brilliant Dragon Skull
-  name_jp: ブリリアントドラゴンスカル
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -270,7 +242,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 7
-  name_jp: Turn 7
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -279,7 +250,6 @@ records:
   desc_jp: Void damage >= 800000 for 2 turns
   max_atk_pct: null
   name_en: Fair Skies Guardian Dragon - Balance
-  name_jp: 龍護穹天・均
   one_time: 4
   record_type_name: ACTION
   usage_pct: 100
@@ -288,7 +258,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 8
-  name_jp: Turn 8
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -297,7 +266,6 @@ records:
   desc_jp: Blind all orbs on the board, Deal 160% damage
   max_atk_pct: 160
   name_en: Cattle Mutilation
-  name_jp: キャトルミューティレーション
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -306,7 +274,6 @@ records:
   desc_jp: Lock all Wood orbs, Deal 150% damage
   max_atk_pct: 150
   name_en: Glass Leaf
-  name_jp: グラスリーフ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -315,7 +282,6 @@ records:
   desc_jp: Change Random 6 to Poison, Deal 120% damage
   max_atk_pct: 120
   name_en: Genocide Missile Type 0
-  name_jp: ジェノサイドミサイル・零式
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -324,7 +290,6 @@ records:
   desc_jp: Change Random to Dark, Deal 150% damage
   max_atk_pct: 150
   name_en: Dark Rumble
-  name_jp: 冥轟
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -333,7 +298,6 @@ records:
   desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Deal 140% damage
   max_atk_pct: 140
   name_en: Brilliant Dragon Skull
-  name_jp: ブリリアントドラゴンスカル
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -342,7 +306,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 9
-  name_jp: Turn 9
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -351,7 +314,6 @@ records:
   desc_jp: Absorb damage >= 1500000 damage for 2 turns
   max_atk_pct: null
   name_en: Fair Skies Guardian Dragon - Judge
-  name_jp: 龍護穹天・律
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -360,7 +322,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 10
-  name_jp: Turn 10
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -369,7 +330,6 @@ records:
   desc_jp: Blind all orbs on the board, Deal 160% damage
   max_atk_pct: 160
   name_en: Cattle Mutilation
-  name_jp: キャトルミューティレーション
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -378,7 +338,6 @@ records:
   desc_jp: Lock all Wood orbs, Deal 150% damage
   max_atk_pct: 150
   name_en: Glass Leaf
-  name_jp: グラスリーフ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -387,7 +346,6 @@ records:
   desc_jp: Change Random 6 to Poison, Deal 120% damage
   max_atk_pct: 120
   name_en: Genocide Missile Type 0
-  name_jp: ジェノサイドミサイル・零式
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -396,7 +354,6 @@ records:
   desc_jp: Change Random to Dark, Deal 150% damage
   max_atk_pct: 150
   name_en: Dark Rumble
-  name_jp: 冥轟
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -405,7 +362,6 @@ records:
   desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Deal 140% damage
   max_atk_pct: 140
   name_en: Brilliant Dragon Skull
-  name_jp: ブリリアントドラゴンスカル
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -414,7 +370,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 11
-  name_jp: Turn 11
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -425,7 +380,6 @@ records:
     by 75% for 1 turns
   max_atk_pct: null
   name_en: Draggie Knight, Zeal's Enhancement + Draggie Shield
-  name_jp: ドラりんナイト・せろのエンハンス！ + ドラりんシールド
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -434,7 +388,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -443,7 +396,6 @@ records:
   desc_jp: Deal 500% damage (5 hits, 100% each)
   max_atk_pct: 500
   name_en: Alt. Five Origin Dragon Star Attack
-  name_jp: 裏・五源龍星撃
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

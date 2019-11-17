@@ -5,7 +5,6 @@
 comments: null
 monster_id: 103576
 monster_name_en: Alt. Seventh Dragon Caller, Shapeshifter Wallace
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Reduce damage from Wood by 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Survive attacks with 1 HP when HP > 99%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -41,7 +38,6 @@ records:
     + Reduce damage from all sources by 75% for 7 turns (Preemptive)
   max_atk_pct: null
   name_en: Concealed Mountain Path + Guardian Dragon Formation + Mucus Skin
-  name_jp: 峨道潜 + 護龍陣 + ミューカススキン
   one_time: 512
   record_type_name: PREEMPT
   usage_pct: 100
@@ -50,7 +46,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -59,7 +54,6 @@ records:
   desc_jp: Change own attribute to Fire + Change Random 7 to Poison, Deal 310% damage
   max_atk_pct: null
   name_en: Rainbow Cloak + Hell Poison Claw
-  name_jp: 虹布 + ヘルポイズンクロウ
   one_time: 256
   record_type_name: ACTION
   usage_pct: 100
@@ -68,7 +62,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -77,7 +70,6 @@ records:
   desc_jp: Change own attribute to Water + Change Random 5 to Poison, Deal 320% damage
   max_atk_pct: null
   name_en: Rainbow Cloak + Hell Venom Claw
-  name_jp: 虹布 + ヘルヴェノムクロウ
   one_time: 128
   record_type_name: ACTION
   usage_pct: 100
@@ -86,7 +78,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -95,7 +86,6 @@ records:
   desc_jp: Change own attribute to Wood + Bind 1 subs for 7 turns, Deal 330% damage
   max_atk_pct: null
   name_en: Rainbow Cloak + Paralysis Vine
-  name_jp: 虹布 + パラライズバイン
   one_time: 64
   record_type_name: ACTION
   usage_pct: 100
@@ -104,7 +94,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
-  name_jp: Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -113,7 +102,6 @@ records:
   desc_jp: Change own attribute to Light + Change Random 10 to Poison, Deal 350% damage
   max_atk_pct: null
   name_en: Rainbow Cloak + Poison Rave
-  name_jp: 虹布 + ポイズンレイヴ
   one_time: 32
   record_type_name: ACTION
   usage_pct: 100
@@ -122,7 +110,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
-  name_jp: Turn 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -131,7 +118,6 @@ records:
   desc_jp: Change own attribute to Dark + Change Random 7 to Poison, Deal 370% damage
   max_atk_pct: null
   name_en: Rainbow Cloak + Hell Poison Rave
-  name_jp: 虹布 + ヘルポイズンレイヴ
   one_time: 16
   record_type_name: ACTION
   usage_pct: 100
@@ -140,7 +126,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6
-  name_jp: Turn 6
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -149,7 +134,6 @@ records:
   desc_jp: Change Poison to Jammer, Deal 6000% damage
   max_atk_pct: 6000
   name_en: Hell Bloom
-  name_jp: ヘルブルーム
   one_time: 8
   record_type_name: ACTION
   usage_pct: 100
@@ -160,7 +144,6 @@ records:
     orbs, Deal 300% damage
   max_atk_pct: 300
   name_en: Thousand-Blade Strike
-  name_jp: 千刃皆中
   one_time: 8
   record_type_name: ACTION
   usage_pct: 100
@@ -169,7 +152,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 7
-  name_jp: Turn 7
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -180,7 +162,6 @@ records:
     Poison orbs for 2 turns + Deal 420% damage (7 hits, 60% each)
   max_atk_pct: null
   name_en: The Allure of Swift Death + The Art of Contamination + Storm Rave
-  name_jp: 死然導疾 + 不浄集積の術 + ストームレイヴ
   one_time: 4
   record_type_name: ACTION
   usage_pct: 100
@@ -189,7 +170,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 8
-  name_jp: Turn 8
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -200,7 +180,6 @@ records:
     Bind 1 subs for 7 turns, Deal 330% damage
   max_atk_pct: null
   name_en: Rainbow Cloak + Paralysis Vine
-  name_jp: 虹布 + パラライズバイン
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -209,7 +188,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 9
-  name_jp: Turn 9
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -220,7 +198,6 @@ records:
     (7 hits, 70% each)
   max_atk_pct: null
   name_en: Thorned Husk Fang + Cyclone Rave
-  name_jp: 刺骸牙 + サイクロンレイヴ
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -229,7 +206,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -240,7 +216,6 @@ records:
     Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Poison, Deal 400% damage
   max_atk_pct: null
   name_en: Rainbow Cloak + Seven Gardens
-  name_jp: 虹布 + セブンガーデン
   one_time: 0
   record_type_name: ACTION
   usage_pct: 45
@@ -251,7 +226,6 @@ records:
     Deal 490% damage (7 hits, 70% each)
   max_atk_pct: null
   name_en: Rainbow Cloak + Cyclone Rave
-  name_jp: 虹布 + サイクロンレイヴ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 40
@@ -262,7 +236,6 @@ records:
     Change Random 14 to Poison, Deal 400% damage
   max_atk_pct: null
   name_en: Rainbow Cloak + Dead Poison Rave
-  name_jp: 虹布 + デッドポイズンレイヴ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 15
@@ -271,7 +244,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 15
-  name_jp: HP < 15
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -282,7 +254,6 @@ records:
     Deal 12000% damage (10 hits, 1200% each)
   max_atk_pct: null
   name_en: Rainbow Cloak + Everstorm Rainbow Blade
-  name_jp: 虹布 + 無限羽嵐虹刃
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

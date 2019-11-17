@@ -5,7 +5,6 @@
 comments: null
 monster_id: 4918
 monster_name_en: 仮面ライダーエグゼイド
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -23,7 +22,6 @@ records:
     for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: クイックファイトシューズ + マルチアンブレイカー
-  name_jp: クイックファイトシューズ + マルチアンブレイカー
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -32,7 +30,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1-4
-  name_jp: Execute repeatedly. Turn 1-4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -41,7 +38,6 @@ records:
   desc_jp: Do nothing + Change 2nd row to Light orbs, Deal 100% damage
   max_atk_pct: null
   name_en: ガシャコンブレイカー + ブレードモード
-  name_jp: ガシャコンブレイカー + ブレードモード
   one_time: 0
   record_type_name: ACTION
   usage_pct: 17
@@ -50,7 +46,6 @@ records:
   desc_jp: Do nothing + Change 3rd row to Light orbs, Deal 100% damage
   max_atk_pct: null
   name_en: ガシャコンブレイカー + ブレードモード
-  name_jp: ガシャコンブレイカー + ブレードモード
   one_time: 0
   record_type_name: ACTION
   usage_pct: 16
@@ -59,7 +54,6 @@ records:
   desc_jp: Do nothing + Change 4th row to Light orbs, Deal 100% damage
   max_atk_pct: null
   name_en: ガシャコンブレイカー + ブレードモード
-  name_jp: ガシャコンブレイカー + ブレードモード
   one_time: 0
   record_type_name: ACTION
   usage_pct: 17
@@ -68,7 +62,6 @@ records:
   desc_jp: Do nothing + Delay active skills by 1 turns, Deal 100% damage
   max_atk_pct: null
   name_en: ガシャコンブレイカー + ハンマーモード
-  name_jp: ガシャコンブレイカー + ハンマーモード
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -77,7 +70,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 5
-  name_jp: Loop to 1 after. Turn 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -86,7 +78,6 @@ records:
   desc_jp: 2x1 cloud appear for 5 turns at random location
   max_atk_pct: null
   name_en: 滞空
-  name_jp: 滞空
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -95,7 +86,6 @@ records:
   desc_jp: Absorb combo <= 4 damage for 5 turns
   max_atk_pct: null
   name_en: 二段ジャンプ
-  name_jp: 二段ジャンプ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -104,7 +94,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -113,7 +102,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -122,7 +110,6 @@ records:
   desc_jp: Increase damage to 150% for the next 3 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: ゲインライザー
-  name_jp: ゲインライザー
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -131,7 +118,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 20
-  name_jp: HP <= 20
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -140,7 +126,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -149,7 +134,6 @@ records:
   desc_jp: Absorb Fire damage for 3 turns
   max_atk_pct: null
   name_en: メックビルドガード
-  name_jp: メックビルドガード
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -160,7 +144,6 @@ records:
     hits, 20% each)
   max_atk_pct: null
   name_en: ガシャット！キメワザ！ + マイティクリティカルストライク
-  name_jp: ガシャット！キメワザ！ + マイティクリティカルストライク
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

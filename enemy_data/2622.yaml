@@ -5,7 +5,6 @@
 comments: null
 monster_id: 2622
 monster_name_en: スネイク・ヘッズ副頭・陣内公平
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Do nothing + Voids status ailments for 999 turns (Preemptive)
   max_atk_pct: null
   name_en: もういい… + 最後はオレがきっちりカタをつける
-  name_jp: もういい… + 最後はオレがきっちりカタをつける
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -39,7 +36,6 @@ records:
   desc_jp: Spawn random 8 Wood orbs, (if [2617, 2618] on team)
   max_atk_pct: null
   name_en: 久しぶりだなパルコ
-  name_jp: 久しぶりだなパルコ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -48,7 +44,6 @@ records:
   desc_jp: Delay active skills by 2~5 turns
   max_atk_pct: null
   name_en: おまえらとりあえずワビを入れろや
-  name_jp: おまえらとりあえずワビを入れろや
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -57,7 +52,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -66,7 +60,6 @@ records:
   desc_jp: Change 5th row to Poison orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: ここに頭をこすりつけてな！
-  name_jp: ここに頭をこすりつけてな！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -75,7 +68,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -84,7 +76,6 @@ records:
   desc_jp: Change Heal to Fire, Deal 100% damage
   max_atk_pct: 100
   name_en: あんまり調子にのんなよてめー
-  name_jp: あんまり調子にのんなよてめー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -93,7 +84,6 @@ records:
   desc_jp: Spawn random 6 Fire orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: あんまり調子にのんなよてめー
-  name_jp: あんまり調子にのんなよてめー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -102,7 +92,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -111,7 +100,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -120,7 +108,6 @@ records:
   desc_jp: Spawn random 8 Wood orbs, (if [2617, 2618] on team)
   max_atk_pct: null
   name_en: 久しぶりだなパルコ
-  name_jp: 久しぶりだなパルコ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -131,7 +118,6 @@ records:
     sources by 50% for 1 turns
   max_atk_pct: null
   name_en: タイマンか それとも全員でふくろか… + 今日のオレはそう簡単にくたばんねーぞ
-  name_jp: タイマンか それとも全員でふくろか… + 今日のオレはそう簡単にくたばんねーぞ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

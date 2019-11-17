@@ -5,7 +5,6 @@
 comments: null
 monster_id: 301119
 monster_name_en: Awoken Sandalphon
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Bind active skills for 3 turns (Preemptive)
   max_atk_pct: null
   name_en: Angelic Hymn
-  name_jp: 天使の賛美歌
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Change Dark to Light, Deal 80% damage
   max_atk_pct: 80
   name_en: Purifying Melody
-  name_jp: 浄化の旋律
   one_time: 0
   record_type_name: ACTION
   usage_pct: 70
@@ -39,7 +36,6 @@ records:
   desc_jp: Deal 120% damage (2 hits, 60% each)
   max_atk_pct: 120
   name_en: Sword of Malkuth
-  name_jp: ソード・オブ・マルクト
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -48,7 +44,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -57,7 +52,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -66,7 +60,6 @@ records:
   desc_jp: Bind God cards for 10 turns
   max_atk_pct: null
   name_en: Birdcage of Confinement
-  name_jp: 幽閉の鳥籠
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -75,7 +68,6 @@ records:
   desc_jp: Change Dark to Light, Deal 80% damage
   max_atk_pct: 80
   name_en: Purifying Melody
-  name_jp: 浄化の旋律
   one_time: 0
   record_type_name: ACTION
   usage_pct: 70
@@ -84,7 +76,6 @@ records:
   desc_jp: Deal 120% damage (2 hits, 60% each)
   max_atk_pct: 120
   name_en: Sword of Malkuth
-  name_jp: ソード・オブ・マルクト
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -93,7 +84,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
-  name_jp: HP < 30
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -102,7 +92,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -111,7 +100,6 @@ records:
   desc_jp: Bind God cards for 10 turns
   max_atk_pct: null
   name_en: Birdcage of Confinement
-  name_jp: 幽閉の鳥籠
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -120,7 +108,6 @@ records:
   desc_jp: Deal 210% damage (3 hits, 70% each)
   max_atk_pct: 210
   name_en: Performance of Judgement
-  name_jp: 裁きの瞑奏
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

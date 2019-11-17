@@ -5,7 +5,6 @@
 comments: null
 monster_id: 700
 monster_name_en: Mari&Eva Unit-08
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Change Random 6 to Poison, Deal 50% damage
   max_atk_pct: 50
   name_en: Poison Fog
-  name_jp: ポイズンフォッグ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

@@ -5,7 +5,6 @@
 comments: null
 monster_id: 100828
 monster_name_en: Alt. Protection Demon of Light, Shouki
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Reduce damage from Light by 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -32,7 +30,6 @@ records:
     Poison orbs, Deal 100% damage (Preemptive)
   max_atk_pct: 100
   name_en: From this point...
-  name_jp: ここから先は
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -41,7 +38,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -50,7 +46,6 @@ records:
   desc_jp: Player -99% HP
   max_atk_pct: null
   name_en: Sucker Punch
-  name_jp: ぶん殴り
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -59,7 +54,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -68,7 +62,6 @@ records:
   desc_jp: Deal 200% damage
   max_atk_pct: 200
   name_en: Iron Fist of Anger
-  name_jp: 怒りの鉄拳
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -77,7 +70,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: When 1 enemy remains
-  name_jp: When 1 enemy remains
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -86,7 +78,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -95,7 +86,6 @@ records:
   desc_jp: Player -99% HP
   max_atk_pct: null
   name_en: Sucker Punch
-  name_jp: ぶん殴り
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -104,7 +94,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -113,7 +102,6 @@ records:
   desc_jp: Increase damage to 300% for the next 999 turns
   max_atk_pct: null
   name_en: Lone Force
-  name_jp: 孤軍奮闘
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

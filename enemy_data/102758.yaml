@@ -5,7 +5,6 @@
 comments: null
 monster_id: 102758
 monster_name_en: Blue Bamboo Virtue, You Yu
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Survive attacks with 1 HP when HP > 80%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Change 2nd, 3rd row to Heal orbs, Deal 100% damage (Preemptive)
   max_atk_pct: 100
   name_en: Blue Life Dance
-  name_jp: 蒼命の舞
   one_time: 2
   record_type_name: PREEMPT
   usage_pct: 100
@@ -39,7 +36,6 @@ records:
   desc_jp: Change 1st, 5th row to Water orbs, Deal 150% damage
   max_atk_pct: 150
   name_en: Stream Fan
-  name_jp: 流水扇
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -48,7 +44,6 @@ records:
   desc_jp: Deal 360% damage (2 hits, 180% each)
   max_atk_pct: 360
   name_en: Flash of Dual Water Fangs
-  name_jp: 水牙双閃
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -57,7 +52,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 80
-  name_jp: HP < 80
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -66,7 +60,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -75,7 +68,6 @@ records:
   desc_jp: Reduce damage from all sources by 50% for 3 turns
   max_atk_pct: null
   name_en: Enchanting Bamboo Grove
-  name_jp: 婉然たる竹叢
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -84,7 +76,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -93,7 +84,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -102,7 +92,6 @@ records:
   desc_jp: Increase damage to 150% for the next 1 turns
   max_atk_pct: null
   name_en: Blue Season
-  name_jp: 蒼の時節
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -111,7 +100,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
-  name_jp: Loop to 1 after. Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -120,7 +108,6 @@ records:
   desc_jp: Change 1st, 5th row to Water orbs, Deal 150% damage
   max_atk_pct: 150
   name_en: Stream Fan
-  name_jp: 流水扇
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -129,7 +116,6 @@ records:
   desc_jp: Deal 360% damage (2 hits, 180% each)
   max_atk_pct: 360
   name_en: Flash of Dual Water Fangs
-  name_jp: 水牙双閃
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -138,7 +124,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
-  name_jp: HP < 10
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -147,7 +132,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -156,7 +140,6 @@ records:
   desc_jp: Increase damage to 150% for the next 1 turns
   max_atk_pct: null
   name_en: Blue Season
-  name_jp: 蒼の時節
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -165,7 +148,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
-  name_jp: Loop to 1 after. Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -174,7 +156,6 @@ records:
   desc_jp: Deal 400% damage (10 hits, 40% each)
   max_atk_pct: 400
   name_en: Thick Binding of 1000 Bamboos
-  name_jp: 昇竹千連櫛比
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

@@ -5,7 +5,6 @@
 comments: null
 monster_id: 3212
 monster_name_en: Fire Imp
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -23,7 +22,6 @@ records:
     Poison orbs (Preemptive)
   max_atk_pct: null
   name_en: Burning!
-  name_jp: もえるぜ！
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -32,7 +30,6 @@ records:
   desc_jp: Blind all orbs on the board, Deal 40% damage
   max_atk_pct: 40
   name_en: Smoking Biwa
-  name_jp: 煙炎の琵琶
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -41,7 +38,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: When 1 enemy remains
-  name_jp: When 1 enemy remains
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -50,7 +46,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -59,7 +54,6 @@ records:
   desc_jp: Increase damage to 300% for the next 999 turns
   max_atk_pct: null
   name_en: Demon Solo
-  name_jp: 鬼の独奏
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -68,7 +62,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -77,7 +70,6 @@ records:
   desc_jp: Fire skyfall +15% for 10 turns, Deal 50% damage
   max_atk_pct: 50
   name_en: Resonating Fire
-  name_jp: 火の共鳴
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

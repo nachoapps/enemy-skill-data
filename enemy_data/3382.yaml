@@ -5,7 +5,6 @@
 comments: null
 monster_id: 3382
 monster_name_en: Sanctuary Chef, Pyro Demon
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Voids status ailments for 999 turns (Preemptive)
   max_atk_pct: null
   name_en: I'm gonna cook up a devilish feast!
-  name_jp: 悪魔の料理開始だ！
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -39,7 +36,6 @@ records:
   desc_jp: Spawn random 3 Fire orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Red Hot Flame
-  name_jp: レッドホットフレイム
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -48,7 +44,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
-  name_jp: Loop to 1 after. Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -57,7 +52,6 @@ records:
   desc_jp: Spawn random 3 Poison orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Evil Spice
-  name_jp: イービルスパイス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

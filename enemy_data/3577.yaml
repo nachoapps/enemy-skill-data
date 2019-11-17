@@ -5,7 +5,6 @@
 comments: null
 monster_id: 3577
 monster_name_en: Eighth Dragon Caller, Tidebringer Amnel
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings:
 - Found 4 unused actions
@@ -22,7 +21,6 @@ records:
   desc_jp: Reduce damage from Light by 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -33,7 +31,6 @@ records:
     + Bind 4 random subs for 15 turns (Preemptive)
   max_atk_pct: null
   name_en: Light Dragon Barrier + Guardian Dragon Formation + Acid Prison
-  name_jp: 龍光障壁 + 護龍陣 + ハイサンジェイル
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -42,7 +39,6 @@ records:
   desc_jp: Change own attribute to random one of Light, Water, Deal 320% damage
   max_atk_pct: 320
   name_en: Change mon Attaque
-  name_jp: シャンジュモンアタック
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -51,7 +47,6 @@ records:
   desc_jp: Bind awoken skills for 1 turns, Deal 290% damage
   max_atk_pct: 290
   name_en: Divine Charm
-  name_jp: ディヴァインチャーム
   one_time: 0
   record_type_name: ACTION
   usage_pct: 30
@@ -60,7 +55,6 @@ records:
   desc_jp: Absorb combo <= 8 damage for 1 turns, Deal 290% damage
   max_atk_pct: 290
   name_en: Prism Burst
-  name_jp: プリズムバースト
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -69,7 +63,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 80
-  name_jp: HP < 80
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -78,7 +71,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -87,7 +79,6 @@ records:
   desc_jp: Absorb Dark damage for 3 turns + Deal 480% damage (4 hits, 120% each)
   max_atk_pct: null
   name_en: Deep Shadow + Shining Stream
-  name_jp: ディープシャドウ + シャインストリーム
   one_time: 1
   record_type_name: ACTION
   usage_pct: 34
@@ -96,7 +87,6 @@ records:
   desc_jp: Deal 280% damage (2 hits, 140% each) + Deal 480% damage (4 hits, 120% each)
   max_atk_pct: null
   name_en: Cyclone + Shining Stream
-  name_jp: サイクロン + シャインストリーム
   one_time: 3
   record_type_name: ACTION
   usage_pct: 33
@@ -107,7 +97,6 @@ records:
     hits, 120% each)
   max_atk_pct: null
   name_en: Shell Scales + Shining Stream
-  name_jp: シェルスケール + シャインストリーム
   one_time: 6
   record_type_name: ACTION
   usage_pct: 33
@@ -116,7 +105,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -125,7 +113,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -134,7 +121,6 @@ records:
   desc_jp: Deal 280% damage (2 hits, 140% each) + Deal 480% damage (4 hits, 120% each)
   max_atk_pct: null
   name_en: Cyclone + Shining Stream
-  name_jp: サイクロン + シャインストリーム
   one_time: 8
   record_type_name: ACTION
   usage_pct: 100
@@ -143,7 +129,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
-  name_jp: HP < 30
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -152,7 +137,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -161,7 +145,6 @@ records:
   desc_jp: Deal 280% damage (2 hits, 140% each) + Deal 480% damage (4 hits, 120% each)
   max_atk_pct: null
   name_en: Cyclone + Shining Stream
-  name_jp: サイクロン + シャインストリーム
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -170,7 +153,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
-  name_jp: HP < 10
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -179,7 +161,6 @@ records:
   desc_jp: Voids player buff effects + Deal 18000% damage (6 hits, 3000% each)
   max_atk_pct: null
   name_en: Photon Break + Myriad Meteor Ray
-  name_jp: フォトンブレイク + ミリアドメテオ・レイ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

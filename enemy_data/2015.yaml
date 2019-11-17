@@ -5,7 +5,6 @@
 comments: null
 monster_id: 2015
 monster_name_en: Discipline Committee Chair, Athena
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings:
 - Found 4 unused actions
@@ -24,7 +23,6 @@ records:
     (Preemptive)
   max_atk_pct: null
   name_en: Nice to meet you! + Thank you in advance
-  name_jp: 初めましてですね + これからよろしくお願いします
   one_time: 128
   record_type_name: PREEMPT
   usage_pct: 100
@@ -33,7 +31,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -44,7 +41,6 @@ records:
     damage
   max_atk_pct: null
   name_en: I'll keep everything under strict control + I won't forgive any mistakes!
-  name_jp: 私は風紀を取り締まります + 悪い事はゆるしません！
   one_time: 64
   record_type_name: ACTION
   usage_pct: 100
@@ -53,7 +49,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -62,7 +57,6 @@ records:
   desc_jp: 2x2 cloud appear for 1 turns at random location, Deal 140% damage
   max_atk_pct: 140
   name_en: Do you have any probem?
-  name_jp: あなたは問題ありませんね？
   one_time: 32
   record_type_name: ACTION
   usage_pct: 100
@@ -71,7 +65,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -80,7 +73,6 @@ records:
   desc_jp: Blind orbs in specific positions for 1 turns, Deal 140% damage
   max_atk_pct: 140
   name_en: What's this?
-  name_jp: むむ！これは･･･
   one_time: 16
   record_type_name: ACTION
   usage_pct: 100
@@ -89,7 +81,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
-  name_jp: Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -98,7 +89,6 @@ records:
   desc_jp: Enemy recover 100% hp
   max_atk_pct: null
   name_en: Closing eyes and thinking...
-  name_jp: 目を閉じて考え始めた
   one_time: 8
   record_type_name: ACTION
   usage_pct: 100
@@ -107,7 +97,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
-  name_jp: Turn 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -116,7 +105,6 @@ records:
   desc_jp: Enemy recover 20% hp
   max_atk_pct: null
   name_en: Ummm
-  name_jp: うーん
   one_time: 4
   record_type_name: ACTION
   usage_pct: 100
@@ -125,7 +113,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6
-  name_jp: Turn 6
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -134,7 +121,6 @@ records:
   desc_jp: Enemy recover 20% hp
   max_atk_pct: null
   name_en: Humm!
-  name_jp: ふむー
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -143,7 +129,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 7
-  name_jp: Turn 7
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -152,7 +137,6 @@ records:
   desc_jp: Do nothing + Do nothing
   max_atk_pct: null
   name_en: Beep! + Let's forget for this time!
-  name_jp: ピコーン！ + まぁ、今回は良しとしましょう！
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -161,7 +145,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -170,7 +153,6 @@ records:
   desc_jp: 1x3 cloud appear for 1 turns at random location, Deal 140% damage
   max_atk_pct: 140
   name_en: Disciplinary Committee Dash
-  name_jp: 風紀委員ダッシュ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -179,7 +161,6 @@ records:
   desc_jp: Blind orbs in specific positions for 1 turns, Deal 140% damage
   max_atk_pct: 140
   name_en: Disciplinary Committee Spear
-  name_jp: 風紀委員スピア
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -188,7 +169,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 98
-  name_jp: HP <= 98
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -197,7 +177,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 7
-  name_jp: Turn 7
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -206,7 +185,6 @@ records:
   desc_jp: Do nothing + Increase damage to 150% for the next 999 turns
   max_atk_pct: null
   name_en: Beep! + Penalty!
-  name_jp: ピコーン！ + ペナルティです！
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -215,7 +193,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
-  name_jp: HP < 20
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -224,7 +201,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
-  name_jp: Turn 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -235,7 +211,6 @@ records:
     200% for the next 999 turns
   max_atk_pct: null
   name_en: I can't miss that! + I'll correct this!
-  name_jp: これは見逃せません！ + 正します！
   one_time: 7
   record_type_name: ACTION
   usage_pct: 100
@@ -244,7 +219,6 @@ records:
   desc_jp: Deal 900% damage (3 hits, 300% each)
   max_atk_pct: 900
   name_en: Undisciplined Burst
-  name_jp: 風紀乱れバースト
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

@@ -5,7 +5,6 @@
 comments: null
 monster_id: 2418
 monster_name_en: Milky Way Mechanical Star God, Alrescha
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Reduce damage from God, Machine by 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -38,7 +36,6 @@ records:
   desc_jp: Reduce damage from God, Machine by 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -47,7 +44,6 @@ records:
   desc_jp: Voids status ailments for 999 turns + Absorb Fire damage for 10 turns (Preemptive)
   max_atk_pct: null
   name_en: I won't lose! + Starpath
-  name_jp: 負けないからね！ + 星の水流
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -56,7 +52,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1-9
-  name_jp: Turn 1-9
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -65,7 +60,6 @@ records:
   desc_jp: Change Heal to Water, Deal 125% damage
   max_atk_pct: 125
   name_en: Aqua☆Conversion
-  name_jp: アクア☆コンバージョン
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -74,7 +68,6 @@ records:
   desc_jp: Seal 1st row for 1 turns, Deal 120% damage
   max_atk_pct: 120
   name_en: Area☆Restriction
-  name_jp: エリア☆スティール
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -83,7 +76,6 @@ records:
   desc_jp: Deal 135% damage (3 hits, 45% each)
   max_atk_pct: 135
   name_en: Astro☆Dance
-  name_jp: アストロ☆ダンス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 34
@@ -92,7 +84,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 10
-  name_jp: Turn 10
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -103,7 +94,6 @@ records:
     Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 180% damage
   max_atk_pct: null
   name_en: Miracle☆Shield + Nice!
-  name_jp: ミラクル☆シールド + よいっと！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -112,7 +102,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -121,7 +110,6 @@ records:
   desc_jp: Change Heal to Water, Deal 125% damage
   max_atk_pct: 125
   name_en: Aqua☆Conversion
-  name_jp: アクア☆コンバージョン
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -130,7 +118,6 @@ records:
   desc_jp: Seal 1st row for 1 turns, Deal 120% damage
   max_atk_pct: 120
   name_en: Area☆Restriction
-  name_jp: エリア☆スティール
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -139,7 +126,6 @@ records:
   desc_jp: Deal 135% damage (3 hits, 45% each)
   max_atk_pct: 135
   name_en: Astro☆Dance
-  name_jp: アストロ☆ダンス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 34
@@ -148,7 +134,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -157,7 +142,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -166,7 +150,6 @@ records:
   desc_jp: Increase damage to 300% for the next 1 turns + Change Heal to Water
   max_atk_pct: null
   name_en: I'm angry! + Fight through the pain, yeah? ♪
-  name_jp: 怒ったぞー！ + 痛いけど我慢してね♪
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -175,7 +158,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
-  name_jp: HP < 10
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -184,7 +166,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2-9
-  name_jp: Turn 2-9
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -193,7 +174,6 @@ records:
   desc_jp: Deal 220% damage (4 hits, 55% each)
   max_atk_pct: 220
   name_en: Miracle☆Star
-  name_jp: ミラクル☆スター
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -202,7 +182,6 @@ records:
   desc_jp: Deal 220% damage (4 hits, 55% each)
   max_atk_pct: 220
   name_en: Miracle☆Star
-  name_jp: ミラクル☆スター
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

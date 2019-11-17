@@ -5,7 +5,6 @@
 comments: null
 monster_id: 3245
 monster_name_en: Wrathful Steel Dragon Emperor, Ninegaruda
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -34,7 +32,6 @@ records:
     1 turns (Preemptive)
   max_atk_pct: null
   name_en: Misfortune Unleashed + Full Energy Field + Storing up energy...
-  name_jp: 解き放たれた絶凶 + フルエナジーフィールド + エネルギーを溜めている
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -43,7 +40,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -54,7 +50,6 @@ records:
     Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs
   max_atk_pct: null
   name_en: Raging Fire + Orb Flash
-  name_jp: レイジングファイア + ドロップフラッシュ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -63,7 +58,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -72,7 +66,6 @@ records:
   desc_jp: Spawn Bomb orbs in the specified positions, Deal 120% damage
   max_atk_pct: 120
   name_en: Zelvarn
-  name_jp: ゼルヴァルン
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -81,7 +74,6 @@ records:
   desc_jp: Change 2nd, 5th column to Jammer orbs, Deal 150% damage
   max_atk_pct: 150
   name_en: Cruel Flare
-  name_jp: クルエルフレア
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -90,7 +82,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -99,7 +90,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -108,7 +98,6 @@ records:
   desc_jp: Absorb combo <= 8 damage for 9 turns, Deal 20% damage
   max_atk_pct: 20
   name_en: Nine Seek
-  name_jp: ナインシーク
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -117,7 +106,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
-  name_jp: HP < 20
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -126,7 +114,6 @@ records:
   desc_jp: Spawn Bomb orbs in the specified positions, Deal 5000% damage
   max_atk_pct: 5000
   name_en: Void Burn
-  name_jp: ボイドバーン
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -135,7 +122,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Enemy is defeated
-  name_jp: Enemy is defeated
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -144,7 +130,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1-2
-  name_jp: Turn 1-2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -153,7 +138,6 @@ records:
   desc_jp: Enemy recover 100% hp + Bind 1 random for 9 turns, Deal 200% damage
   max_atk_pct: null
   name_en: Death Avoidance + Nampulse
-  name_jp: デスアヴォイダンス + ナムパルス
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100

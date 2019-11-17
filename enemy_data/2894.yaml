@@ -5,7 +5,6 @@
 comments: null
 monster_id: 2894
 monster_name_en: Loyal Demon Prince, Cauchemar
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -23,7 +22,6 @@ records:
     turns + Specific orbs change every 1.0s for 4 turns (Preemptive)
   max_atk_pct: null
   name_en: Cauchemar Zone + Cauchemar Liberate + Cauchemar Despair
-  name_jp: コシュまるゾーン + コシュまるリベラル + コシュまるディスペアー
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -32,7 +30,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1-3
-  name_jp: Execute repeatedly. Turn 1-3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -41,7 +38,6 @@ records:
   desc_jp: Change Jammer to Wood, Deal 240% damage
   max_atk_pct: 240
   name_en: Cauchemar Infinity
-  name_jp: コシュまるインフィニティ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -50,7 +46,6 @@ records:
   desc_jp: Spawn random 2 Jammer, Poison orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Cauchemar Fragment
-  name_jp: コシュまるフラグメント
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -59,7 +54,6 @@ records:
   desc_jp: Change Random to Jammer, Deal 100% damage
   max_atk_pct: 100
   name_en: Cauchemar Tempest
-  name_jp: コシュまるテンペスト
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -68,7 +62,6 @@ records:
   desc_jp: Deal 120% damage (3 hits, 40% each)
   max_atk_pct: 120
   name_en: Cauchemar Impact
-  name_jp: コシュまるインパクト
   one_time: 0
   record_type_name: ACTION
   usage_pct: 34
@@ -77,7 +70,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 4
-  name_jp: Loop to 1 after. Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -86,7 +78,6 @@ records:
   desc_jp: Change Jammer to Wood, Deal 240% damage
   max_atk_pct: 240
   name_en: Cauchemar Infinity
-  name_jp: コシュまるインフィニティ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -97,7 +88,6 @@ records:
     to Jammer orbs, Deal 110% damage
   max_atk_pct: null
   name_en: Cauchemar Despair + Cauchemar Catastrophe
-  name_jp: コシュまるディスペアー + コシュまるカタストロフィ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -106,7 +96,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -115,7 +104,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -124,7 +112,6 @@ records:
   desc_jp: Bind 3 random subs for 4 turns + Movetime 50% for 5 turns
   max_atk_pct: null
   name_en: Cauchemar Mind + Astaroth's Murmurs
-  name_jp: コシュまるマインド + アスタロトの呟き
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -133,7 +120,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1-2
-  name_jp: Execute repeatedly. Turn 1-2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -142,7 +128,6 @@ records:
   desc_jp: Change Jammer to Wood, Deal 240% damage
   max_atk_pct: 240
   name_en: Cauchemar Infinity
-  name_jp: コシュまるインフィニティ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -151,7 +136,6 @@ records:
   desc_jp: Spawn random 2 Jammer, Poison orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Cauchemar Fragment
-  name_jp: コシュまるフラグメント
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -160,7 +144,6 @@ records:
   desc_jp: Change Random to Jammer, Deal 100% damage
   max_atk_pct: 100
   name_en: Cauchemar Tempest
-  name_jp: コシュまるテンペスト
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -169,7 +152,6 @@ records:
   desc_jp: Deal 120% damage (3 hits, 40% each)
   max_atk_pct: 120
   name_en: Cauchemar Impact
-  name_jp: コシュまるインパクト
   one_time: 0
   record_type_name: ACTION
   usage_pct: 34
@@ -178,7 +160,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -187,7 +168,6 @@ records:
   desc_jp: Change Jammer to Wood, Deal 240% damage
   max_atk_pct: 240
   name_en: Cauchemar Infinity
-  name_jp: コシュまるインフィニティ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -198,7 +178,6 @@ records:
     to Jammer orbs, Deal 110% damage
   max_atk_pct: null
   name_en: Cauchemar Despair + Cauchemar Catastrophe
-  name_jp: コシュまるディスペアー + コシュまるカタストロフィ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -207,7 +186,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 4
-  name_jp: Loop to 1 after. Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -216,7 +194,6 @@ records:
   desc_jp: Change Jammer to Wood, Deal 240% damage
   max_atk_pct: 240
   name_en: Cauchemar Infinity
-  name_jp: コシュまるインフィニティ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -225,7 +202,6 @@ records:
   desc_jp: Spawn random 2 Jammer, Poison orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Cauchemar Fragment
-  name_jp: コシュまるフラグメント
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -234,7 +210,6 @@ records:
   desc_jp: Change Random to Jammer, Deal 100% damage
   max_atk_pct: 100
   name_en: Cauchemar Tempest
-  name_jp: コシュまるテンペスト
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -243,7 +218,6 @@ records:
   desc_jp: Deal 120% damage (3 hits, 40% each)
   max_atk_pct: 120
   name_en: Cauchemar Impact
-  name_jp: コシュまるインパクト
   one_time: 0
   record_type_name: ACTION
   usage_pct: 34
@@ -252,7 +226,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
-  name_jp: HP < 20
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -261,7 +234,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -270,7 +242,6 @@ records:
   desc_jp: Random 4 orbs change every 1.5s for 4 turns + Blind all orbs on the board
   max_atk_pct: null
   name_en: Cauchemar Despair + Astaroth's Judgment
-  name_jp: コシュまるディスペアー + アスタロトの嘆き
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -279,7 +250,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
-  name_jp: Loop to 1 after. Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -288,7 +258,6 @@ records:
   desc_jp: Change all orbs to Jammer, Deal 500% damage
   max_atk_pct: 500
   name_en: Cauchemar Destruction
-  name_jp: コシュまるディストラクション
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

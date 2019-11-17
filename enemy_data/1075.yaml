@@ -5,7 +5,6 @@
 comments: null
 monster_id: 1075
 monster_name_en: Strawberry Dragon
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings:
 - Found 1 unused actions
@@ -22,7 +21,6 @@ records:
   desc_jp: Spawn random 3 Fire orbs (Preemptive)
   max_atk_pct: null
   name_en: I leave you some strawberries
-  name_jp: いちご置いとくね
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -31,7 +29,6 @@ records:
   desc_jp: Change Jammer to Heal, Deal 150% damage
   max_atk_pct: 150
   name_en: Clean when you're done!
-  name_jp: 散らかしたら片づけてよ！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -40,7 +37,6 @@ records:
   desc_jp: Spawn random 1 Jammer orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Let's eat one!
-  name_jp: ひとつぶ食べよ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -49,7 +45,6 @@ records:
   desc_jp: Bind 6 random for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Food bitterness is scary right?
-  name_jp: 食べ物の恨みは怖いんだよ？
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

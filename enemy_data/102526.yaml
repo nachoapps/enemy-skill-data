@@ -5,7 +5,6 @@
 comments: null
 monster_id: 102526
 monster_name_en: Alt. Awoken Machine Hera
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Reduce damage from Light by 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Survive attacks with 1 HP when HP > 81%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -41,7 +38,6 @@ records:
     (Preemptive)
   max_atk_pct: null
   name_en: Singularity + Machinery Body
-  name_jp: シンギュラリティ + マシナリーボディ
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 20
@@ -52,7 +48,6 @@ records:
     (Preemptive)
   max_atk_pct: null
   name_en: Singularity + Machinery Body
-  name_jp: シンギュラリティ + マシナリーボディ
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 20
@@ -63,7 +58,6 @@ records:
     (Preemptive)
   max_atk_pct: null
   name_en: Singularity + Machinery Body
-  name_jp: シンギュラリティ + マシナリーボディ
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 20
@@ -74,7 +68,6 @@ records:
     (Preemptive)
   max_atk_pct: null
   name_en: Singularity + Machinery Body
-  name_jp: シンギュラリティ + マシナリーボディ
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 20
@@ -85,7 +78,6 @@ records:
     (Preemptive)
   max_atk_pct: null
   name_en: Singularity + Machinery Body
-  name_jp: シンギュラリティ + マシナリーボディ
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 20
@@ -94,7 +86,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -103,7 +94,6 @@ records:
   desc_jp: Delay active skills by 3 turns, Deal 130% damage
   max_atk_pct: 130
   name_en: Black Weapon
-  name_jp: ブラックウェポン
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -114,7 +104,6 @@ records:
     damage
   max_atk_pct: 130
   name_en: Black Weapon
-  name_jp: ブラックウェポン
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -123,7 +112,6 @@ records:
   desc_jp: Spawn random 3 Mortal Poison orbs, Deal 130% damage
   max_atk_pct: 130
   name_en: Black Weapon
-  name_jp: ブラックウェポン
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -132,7 +120,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
-  name_jp: Loop to 1 after. Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -141,7 +128,6 @@ records:
   desc_jp: Absorb Fire damage for 2 turns + Change Random to Fire, Deal 130% damage
   max_atk_pct: null
   name_en: Elemental Absorber + Flare Combat
-  name_jp: エレメンタルアブソーバー + フレアコンバート
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -150,7 +136,6 @@ records:
   desc_jp: Absorb Water damage for 2 turns + Change Random to Water, Deal 130% damage
   max_atk_pct: null
   name_en: Elemental Absorber + Aqua Combat
-  name_jp: エレメンタルアブソーバー + アクアコンバート
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -159,7 +144,6 @@ records:
   desc_jp: Absorb Wood damage for 2 turns + Change Random to Wood, Deal 130% damage
   max_atk_pct: null
   name_en: Elemental Absorber + Earth Combat
-  name_jp: エレメンタルアブソーバー + アースコンバート
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -168,7 +152,6 @@ records:
   desc_jp: Absorb Light damage for 2 turns + Change Random to Light, Deal 130% damage
   max_atk_pct: null
   name_en: Elemental Absorber + Light Combat
-  name_jp: エレメンタルアブソーバー + ライトコンバート
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -177,7 +160,6 @@ records:
   desc_jp: Absorb Dark damage for 2 turns + Change Random to Dark, Deal 130% damage
   max_atk_pct: null
   name_en: Elemental Absorber + Dark Combat
-  name_jp: エレメンタルアブソーバー + ダークコンバート
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -186,7 +168,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -195,7 +176,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -204,7 +184,6 @@ records:
   desc_jp: Bind awoken skills for 2 turns + Spawn random 12 Jammer orbs
   max_atk_pct: null
   name_en: Limit Signal + Rust Generate
-  name_jp: リミットシグナル + ルストジェネレート
   one_time: 2
   record_type_name: ACTION
   usage_pct: 50
@@ -215,7 +194,6 @@ records:
     1 turns
   max_atk_pct: null
   name_en: Numb Signal + Power Steel
-  name_jp: ナムシグナル + パワースティール
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -224,7 +202,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2-3
-  name_jp: Loop to 1 after. Turn 2-3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -233,7 +210,6 @@ records:
   desc_jp: Deal 150%~240% damage (5~8 hits, 30% each)
   max_atk_pct: 240
   name_en: Myriad Swords Wings
-  name_jp: ミリアドソードウィング
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -242,7 +218,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
-  name_jp: HP < 30
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -251,7 +226,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -260,7 +234,6 @@ records:
   desc_jp: Enemy recover 50% hp
   max_atk_pct: null
   name_en: Half Repair
-  name_jp: ハーフリペア
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -269,7 +242,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
-  name_jp: HP < 20
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -278,7 +250,6 @@ records:
   desc_jp: Player -1000% HP
   max_atk_pct: null
   name_en: Dark Railgun
-  name_jp: ダークレールガン
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

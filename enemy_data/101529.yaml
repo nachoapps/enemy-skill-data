@@ -5,7 +5,6 @@
 comments: null
 monster_id: 101529
 monster_name_en: Alt. High Light Ninja
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Increase damage to 2100% for the next attack (Preemptive)
   max_atk_pct: null
   name_en: Secret Demon Art - Roaring Thunder
-  name_jp: 鬼人化の秘術・雷轟一角
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Increase damage to 2100% for the next attack
   max_atk_pct: null
   name_en: Secret Demon Art - Roaring Thunder
-  name_jp: 鬼人化の秘術・雷轟一角
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

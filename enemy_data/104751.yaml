@@ -5,7 +5,6 @@
 comments: null
 monster_id: 104751
 monster_name_en: 土方十四郎
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Absorb combo <= 3 damage for 3 turns, (if [4754, 4755] on team) (Preemptive)
   max_atk_pct: null
   name_en: いっぺん死ぬかコラァ！！
-  name_jp: いっぺん死ぬかコラァ！！
   one_time: 4
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Absorb combo <= 6 damage for 4 turns (Preemptive)
   max_atk_pct: null
   name_en: 来いよ 本物の喧嘩見せてやる
-  name_jp: 来いよ 本物の喧嘩見せてやる
   one_time: 4
   record_type_name: PREEMPT
   usage_pct: 100
@@ -39,7 +36,6 @@ records:
   desc_jp: Deal 120% damage
   max_atk_pct: 120
   name_en: 俺ァ目の前の敵叩き斬るだけだ
-  name_jp: 俺ァ目の前の敵叩き斬るだけだ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -48,7 +44,6 @@ records:
   desc_jp: Change 3rd column to Wood orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: もう後手には回らねェェ！！
-  name_jp: もう後手には回らねェェ！！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -59,7 +54,6 @@ records:
     Poison orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: 誰にも俺達の真選組は汚させねェ
-  name_jp: 誰にも俺達の真選組は汚させねェ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 34
@@ -68,7 +62,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 70
-  name_jp: HP < 70
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -77,7 +70,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -86,7 +78,6 @@ records:
   desc_jp: Reduce damage from all sources by 50% for 2 turns
   max_atk_pct: null
   name_en: 楽しい喧嘩になりそうだ
-  name_jp: 楽しい喧嘩になりそうだ
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -95,7 +86,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
-  name_jp: HP < 30
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -104,7 +94,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -113,7 +102,6 @@ records:
   desc_jp: Increase damage to 300% for the next 99 turns
   max_atk_pct: null
   name_en: 命のやりとりといこうや！！
-  name_jp: 命のやりとりといこうや！！
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -130,7 +118,6 @@ records:
   desc_jp: Absorb combo <= 3 damage for 3 turns, (if [4754, 4755] on team) (Preemptive)
   max_atk_pct: null
   name_en: いっぺん死ぬかコラァ！！
-  name_jp: いっぺん死ぬかコラァ！！
   one_time: 4
   record_type_name: PREEMPT
   usage_pct: 100
@@ -139,7 +126,6 @@ records:
   desc_jp: Absorb combo <= 6 damage for 4 turns (Preemptive)
   max_atk_pct: null
   name_en: 来いよ 本物の喧嘩見せてやる
-  name_jp: 来いよ 本物の喧嘩見せてやる
   one_time: 4
   record_type_name: PREEMPT
   usage_pct: 100
@@ -148,7 +134,6 @@ records:
   desc_jp: Deal 120% damage
   max_atk_pct: 120
   name_en: 俺ァ目の前の敵叩き斬るだけだ
-  name_jp: 俺ァ目の前の敵叩き斬るだけだ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -157,7 +142,6 @@ records:
   desc_jp: Change 3rd column to Wood orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: もう後手には回らねェェ！！
-  name_jp: もう後手には回らねェェ！！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -168,7 +152,6 @@ records:
     Poison orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: 誰にも俺達の真選組は汚させねェ
-  name_jp: 誰にも俺達の真選組は汚させねェ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 34
@@ -177,7 +160,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 70
-  name_jp: HP < 70
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -186,7 +168,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -195,7 +176,6 @@ records:
   desc_jp: Reduce damage from all sources by 50% for 2 turns
   max_atk_pct: null
   name_en: 楽しい喧嘩になりそうだ
-  name_jp: 楽しい喧嘩になりそうだ
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -204,7 +184,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
-  name_jp: HP < 30
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -213,7 +192,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -222,7 +200,6 @@ records:
   desc_jp: Increase damage to 300% for the next 99 turns
   max_atk_pct: null
   name_en: 命のやりとりといこうや！！
-  name_jp: 命のやりとりといこうや！！
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100

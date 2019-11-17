@@ -5,7 +5,6 @@
 comments: null
 monster_id: 103654
 monster_name_en: Kirin
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Player -99% HP (Preemptive)
   max_atk_pct: null
   name_en: Dash Attack
-  name_jp: 突進
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Bind own leader for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Thunderbolt
-  name_jp: 落雷
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
@@ -39,7 +36,6 @@ records:
   desc_jp: Bind friend leader for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Thunderbolt
-  name_jp: 落雷
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
@@ -48,7 +44,6 @@ records:
   desc_jp: Bind 2 subs for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Thunderbolt
-  name_jp: 落雷
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
@@ -57,7 +52,6 @@ records:
   desc_jp: Deal 150% damage
   max_atk_pct: 150
   name_en: Back Kick
-  name_jp: 後ろ蹴り
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
@@ -66,7 +60,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -75,7 +68,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -84,7 +76,6 @@ records:
   desc_jp: Increase damage to 145% for the next 10 turns
   max_atk_pct: null
   name_en: Rage
-  name_jp: 怒り
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -93,7 +84,6 @@ records:
   desc_jp: Bind own leader for 2 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Thunderbolt
-  name_jp: 落雷
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
@@ -102,7 +92,6 @@ records:
   desc_jp: Bind friend leader for 2 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Thunderbolt
-  name_jp: 落雷
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
@@ -111,7 +100,6 @@ records:
   desc_jp: Bind 2 subs for 2 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Thunderbolt
-  name_jp: 落雷
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
@@ -120,7 +108,6 @@ records:
   desc_jp: Deal 150% damage
   max_atk_pct: 150
   name_en: Back Kick
-  name_jp: 後ろ蹴り
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
@@ -129,7 +116,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
-  name_jp: HP < 10
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -138,7 +124,6 @@ records:
   desc_jp: Bind 6 random for 5 turns, Deal 250% damage
   max_atk_pct: 250
   name_en: Great Thunderbolt
-  name_jp: 大落雷攻撃
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

@@ -5,7 +5,6 @@
 comments: null
 monster_id: 1427
 monster_name_en: 青銅聖闘士・天馬星座の星矢
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Change Random to Wood, Deal 80% damage (Preemptive)
   max_atk_pct: 80
   name_en: プチウィンド
-  name_jp: プチウィンド
   one_time: 1
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Change Random to Wood, Deal 80% damage
   max_atk_pct: 80
   name_en: プチウィンド
-  name_jp: プチウィンド
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100

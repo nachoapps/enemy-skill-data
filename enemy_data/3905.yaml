@@ -5,7 +5,6 @@
 comments: null
 monster_id: 3905
 monster_name_en: Almighty Awoken Zeus Mercury
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -23,7 +22,6 @@ records:
     turns + Absorb damage >= 5000000 damage for 10 turns (Preemptive)
   max_atk_pct: null
   name_en: Protection of the Gods + Vibrant Blue + Divine Ocean's Wisdom
-  name_jp: 神々の守り + 燦然たる蒼 + 神海の智恵
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -32,7 +30,6 @@ records:
   desc_jp: Spawn random 8 Water orbs, Deal 300% damage
   max_atk_pct: 300
   name_en: Krytallos Mageia
-  name_jp: クリュスタロスマギア
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -41,7 +38,6 @@ records:
   desc_jp: Deal 400% damage (5 hits, 80% each)
   max_atk_pct: 400
   name_en: Crystal Storm
-  name_jp: クリスタルストーム
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -50,7 +46,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -59,7 +54,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -68,7 +62,6 @@ records:
   desc_jp: Absorb combo <= 7 damage for 5 turns
   max_atk_pct: null
   name_en: Díni
-  name_jp: ディーネー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -77,7 +70,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
-  name_jp: HP < 30
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -86,7 +78,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -95,7 +86,6 @@ records:
   desc_jp: Movetime 50% for 1 turns
   max_atk_pct: null
   name_en: Nerophobos
-  name_jp: ネロフォボス
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -104,7 +94,6 @@ records:
   desc_jp: Change all orbs to Water, Deal 2000% damage
   max_atk_pct: 2000
   name_en: Mercury Genesis
-  name_jp: マーキュリージェネシス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

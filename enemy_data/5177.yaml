@@ -5,7 +5,6 @@
 comments: null
 monster_id: 5177
 monster_name_en: Azure Riverdragon, Unma
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Reduce damage from Water by 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -33,7 +31,6 @@ records:
   max_atk_pct: null
   name_en: Water & Light Divine View + One Stoke of the Rain Dragon's Cloud + Leaving
     it to the Fortune of Chance
-  name_jp: 水光接天の眺望 + 蛟竜雲雨の一筆 + 運否天賦の行雲流水
   one_time: 1
   record_type_name: PREEMPT
   usage_pct: 20
@@ -45,7 +42,6 @@ records:
   max_atk_pct: null
   name_en: Water & Light Divine View + One Stoke of the Rain Dragon's Cloud + Leaving
     it to the Fortune of Chance
-  name_jp: 水光接天の眺望 + 蛟竜雲雨の一筆 + 運否天賦の行雲流水
   one_time: 1
   record_type_name: PREEMPT
   usage_pct: 20
@@ -57,7 +53,6 @@ records:
   max_atk_pct: null
   name_en: Water & Light Divine View + One Stoke of the Rain Dragon's Cloud + Leaving
     it to the Fortune of Chance
-  name_jp: 水光接天の眺望 + 蛟竜雲雨の一筆 + 運否天賦の行雲流水
   one_time: 1
   record_type_name: PREEMPT
   usage_pct: 20
@@ -69,7 +64,6 @@ records:
   max_atk_pct: null
   name_en: Water & Light Divine View + One Stoke of the Rain Dragon's Cloud + Leaving
     it to the Fortune of Chance
-  name_jp: 水光接天の眺望 + 蛟竜雲雨の一筆 + 運否天賦の行雲流水
   one_time: 1
   record_type_name: PREEMPT
   usage_pct: 20
@@ -81,7 +75,6 @@ records:
   max_atk_pct: null
   name_en: Water & Light Divine View + One Stoke of the Rain Dragon's Cloud + Leaving
     it to the Fortune of Chance
-  name_jp: 水光接天の眺望 + 蛟竜雲雨の一筆 + 運否天賦の行雲流水
   one_time: 1
   record_type_name: PREEMPT
   usage_pct: 20
@@ -90,7 +83,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -99,7 +91,6 @@ records:
   desc_jp: Unable to match Fire orbs for 1 turns, Deal 120% damage
   max_atk_pct: 120
   name_en: Leaving it to the Fortune of Chance
-  name_jp: 運否天賦の行雲流水
   one_time: 1
   record_type_name: ACTION
   usage_pct: 20
@@ -108,7 +99,6 @@ records:
   desc_jp: Unable to match Water orbs for 1 turns, Deal 120% damage
   max_atk_pct: 120
   name_en: Leaving it to the Fortune of Chance
-  name_jp: 運否天賦の行雲流水
   one_time: 1
   record_type_name: ACTION
   usage_pct: 25
@@ -117,7 +107,6 @@ records:
   desc_jp: Unable to match Wood orbs for 1 turns, Deal 120% damage
   max_atk_pct: 120
   name_en: Leaving it to the Fortune of Chance
-  name_jp: 運否天賦の行雲流水
   one_time: 1
   record_type_name: ACTION
   usage_pct: 33
@@ -126,7 +115,6 @@ records:
   desc_jp: Unable to match Light orbs for 1 turns, Deal 120% damage
   max_atk_pct: 120
   name_en: Leaving it to the Fortune of Chance
-  name_jp: 運否天賦の行雲流水
   one_time: 1
   record_type_name: ACTION
   usage_pct: 50
@@ -135,7 +123,6 @@ records:
   desc_jp: Unable to match Dark orbs for 1 turns, Deal 120% damage
   max_atk_pct: 120
   name_en: Leaving it to the Fortune of Chance
-  name_jp: 運否天賦の行雲流水
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -144,7 +131,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
-  name_jp: Loop to 1 after. Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -155,7 +141,6 @@ records:
     Reduce damage from all sources by 50% for 1 turns, Deal 50% damage
   max_atk_pct: null
   name_en: Ocean Wave of the Mighty Rivals + Attack and Defense Splash
-  name_jp: 竜虎相搏の滄浪 + 輸攻墨守の繁吹
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -166,7 +151,6 @@ records:
     2 subs for 1~2 turns, Deal 50% damage
   max_atk_pct: null
   name_en: Ocean Wave of the Mighty Rivals + God's Will of the Playful Dream
-  name_jp: 竜虎相搏の滄浪 + 遊生夢死の天命
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -175,7 +159,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -184,7 +167,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -195,7 +177,6 @@ records:
     row, 3rd column
   max_atk_pct: null
   name_en: Finishing Touch Towards Accomplishment + Fury Overflow of Righteous Indignation
-  name_jp: 画竜点睛の貫徹 + 慷慨憤激の越水
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -204,7 +185,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
-  name_jp: HP < 10
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -213,7 +193,6 @@ records:
   desc_jp: Voids player buff effects + Deal 1600% damage (4 hits, 400% each)
   max_atk_pct: null
   name_en: A Bolt Out of the Blue + Life & Death are ruled by fate
-  name_jp: 青天の霹靂 + 死生有命
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

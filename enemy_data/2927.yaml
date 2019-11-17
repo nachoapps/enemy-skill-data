@@ -5,7 +5,6 @@
 comments: null
 monster_id: 2927
 monster_name_en: Horus Armor X Dragon Caller, Ace
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -23,7 +22,6 @@ records:
     Fire, Water, Wood, Light, Dark, Deal 100% damage (Preemptive)
   max_atk_pct: null
   name_en: Cross On! + Flame Falcon Blinding Light
-  name_jp: クロスオン！！ + 炎隼瞬光撃
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -32,7 +30,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -41,7 +38,6 @@ records:
   desc_jp: Voids status ailments for 999 turns + Deal 150% damage
   max_atk_pct: null
   name_en: Sky God Protection + Dragon Summoning!!!
-  name_jp: 天空神の守護 + 龍喚!!!!
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -50,7 +46,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -59,7 +54,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -68,7 +62,6 @@ records:
   desc_jp: Movetime -2s for 1 turns + Change Random to Fire, Deal 110% damage
   max_atk_pct: null
   name_en: Eye of Wadjet + Flame Falcon's Furious Attack
-  name_jp: ウジャトの眼 + 炎隼の猛撃
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -77,7 +70,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -88,7 +80,6 @@ records:
     80% damage
   max_atk_pct: null
   name_en: Five Origins' Sanctuary + Inferno Blast
-  name_jp: 五元の聖域 + インフェルノブラスト
   one_time: 0
   record_type_name: ACTION
   usage_pct: 34
@@ -99,7 +90,6 @@ records:
     80% damage
   max_atk_pct: null
   name_en: Five Origins' Sanctuary + Mirage Blade
-  name_jp: 五元の聖域 + ミラージュブレイド
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -110,7 +100,6 @@ records:
     80% damage
   max_atk_pct: null
   name_en: Five Origins' Sanctuary + Wind Spiral
-  name_jp: 五元の聖域 + ウィンドスパイラル
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -119,7 +108,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -128,7 +116,6 @@ records:
   desc_jp: Movetime -2s for 1 turns + Change Random to Fire, Deal 110% damage
   max_atk_pct: null
   name_en: Eye of Wadjet + Flame Falcon's Furious Attack
-  name_jp: ウジャトの眼 + 炎隼の猛撃
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -137,7 +124,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 4
-  name_jp: Loop to 1 after. Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -148,7 +134,6 @@ records:
     orbs, Deal 80% damage
   max_atk_pct: null
   name_en: Five Origins' Tuning + Inferno Blast
-  name_jp: 五元の調律 + インフェルノブラスト
   one_time: 0
   record_type_name: ACTION
   usage_pct: 34
@@ -159,7 +144,6 @@ records:
     orbs, Deal 80% damage
   max_atk_pct: null
   name_en: Five Origins' Tuning + Mirage Blade
-  name_jp: 五元の調律 + ミラージュブレイド
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -170,7 +154,6 @@ records:
     orbs, Deal 80% damage
   max_atk_pct: null
   name_en: Five Origins' Tuning + Wind Spiral
-  name_jp: 五元の調律 + ウィンドスパイラル
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -179,7 +162,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 80
-  name_jp: HP < 80
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -188,7 +170,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -199,7 +180,6 @@ records:
     damage
   max_atk_pct: null
   name_en: Sky God Protection + Dragon Summoning!!!
-  name_jp: 天空神の守護 + 龍喚!!!!
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -208,7 +188,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -217,7 +196,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -228,7 +206,6 @@ records:
     damage
   max_atk_pct: null
   name_en: Sky God Protection + Dragon Summoning!!!
-  name_jp: 天空神の守護 + 龍喚!!!!
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -237,7 +214,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
-  name_jp: HP < 20
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -246,7 +222,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -257,7 +232,6 @@ records:
     Light, Dark, Deal 100% damage + Deal 200% damage (10 hits, 20% each)
   max_atk_pct: null
   name_en: Sky God Protection + Flame Falcon Blinding Light + 10 combos!!
-  name_jp: 天空神の守護 + 炎隼瞬光撃 + 10コンボ!!
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -268,7 +242,6 @@ records:
     200% damage (10 hits, 20% each)
   max_atk_pct: null
   name_en: Flame Falcon Blinding Light + 10 combos!!
-  name_jp: 炎隼瞬光撃 + 10コンボ!!
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

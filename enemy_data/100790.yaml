@@ -5,7 +5,6 @@
 comments: null
 monster_id: 100790
 monster_name_en: Alt. Stone Gaze Demon Bird, Cockatrice
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings:
 - Found 1 unused actions
@@ -22,7 +21,6 @@ records:
   desc_jp: Change Random 2 to Jammer (Preemptive)
   max_atk_pct: null
   name_en: Chaos Eye
-  name_jp: コンフューズアイ
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -31,7 +29,6 @@ records:
   desc_jp: Change Random 2 to Jammer
   max_atk_pct: null
   name_en: Chaos Eye
-  name_jp: コンフューズアイ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -48,7 +45,6 @@ records:
   desc_jp: Forces attacks to hit this enemy (Preemptive)
   max_atk_pct: null
   name_en: Charming Demon Eye
-  name_jp: 魅了の魔眼
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -57,7 +53,6 @@ records:
   desc_jp: Deal 130% damage (2 hits, 65% each)
   max_atk_pct: 130
   name_en: Snake Bite
-  name_jp: スネークヴァイト
   one_time: 0
   record_type_name: ACTION
   usage_pct: 70
@@ -66,7 +61,6 @@ records:
   desc_jp: Change Random 2 to Jammer
   max_atk_pct: null
   name_en: Chaos Eye
-  name_jp: コンフューズアイ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -75,7 +69,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
-  name_jp: HP < 30
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -84,7 +77,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -93,7 +85,6 @@ records:
   desc_jp: Bind 2 random cards for 4 turns
   max_atk_pct: null
   name_en: Pupil of the Evil Eye
-  name_jp: 魔眼の瞳
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -110,7 +101,6 @@ records:
   desc_jp: Forces attacks to hit this enemy (Preemptive)
   max_atk_pct: null
   name_en: Charming Demon Eye
-  name_jp: 魅了の魔眼
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -119,7 +109,6 @@ records:
   desc_jp: Deal 130% damage (2 hits, 65% each)
   max_atk_pct: 130
   name_en: Snake Bite
-  name_jp: スネークヴァイト
   one_time: 0
   record_type_name: ACTION
   usage_pct: 70
@@ -128,7 +117,6 @@ records:
   desc_jp: Change Random 2 to Jammer
   max_atk_pct: null
   name_en: Chaos Eye
-  name_jp: コンフューズアイ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -137,7 +125,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
-  name_jp: HP < 30
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -146,7 +133,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -155,7 +141,6 @@ records:
   desc_jp: Bind 2 random cards for 4 turns
   max_atk_pct: null
   name_en: Pupil of the Evil Eye
-  name_jp: 魔眼の瞳
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100

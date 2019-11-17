@@ -5,7 +5,6 @@
 comments: null
 monster_id: 3119
 monster_name_en: Cool Evening Sorceress, Almadel
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Spawn random 6 Heal orbs, Deal 100% damage (Preemptive)
   max_atk_pct: 100
   name_en: Why don't you cool off too?
-  name_jp: あなたも涼んだら？
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Change Heal to Wood, Deal 80% damage
   max_atk_pct: 80
   name_en: Grimoire Summer
-  name_jp: グリモワール・サマー
   one_time: 1
   record_type_name: ACTION
   usage_pct: 50
@@ -39,7 +36,6 @@ records:
   desc_jp: Bind 1 subs for 1~2 turns, Deal 80% damage
   max_atk_pct: 80
   name_en: Sunset Cage
-  name_jp: サンセットケイジ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -48,7 +44,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -57,7 +52,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -68,7 +62,6 @@ records:
     orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Glimmering Beach
-  name_jp: 光輝くビーチ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -77,7 +70,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
-  name_jp: HP < 30
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -86,7 +78,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -95,7 +86,6 @@ records:
   desc_jp: Do nothing
   max_atk_pct: null
   name_en: She closed her book
-  name_jp: 読んでいる本を閉じた
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -104,7 +94,6 @@ records:
   desc_jp: Change Random to Wood, Deal 500% damage
   max_atk_pct: 500
   name_en: Summer Explosion
-  name_jp: サマーエクスプロージョン
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

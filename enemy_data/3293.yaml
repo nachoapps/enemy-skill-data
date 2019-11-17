@@ -5,7 +5,6 @@
 comments: null
 monster_id: 3293
 monster_name_en: Witch of the Climactic Night, Werewolfie
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Spawn random 5 Dark orbs, Deal 130% damage (Preemptive)
   max_atk_pct: 130
   name_en: I won't let you go!
-  name_jp: いかせねぇ！！
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -39,7 +36,6 @@ records:
   desc_jp: Spawn random 3 Poison orbs, Deal 50% damage
   max_atk_pct: 50
   name_en: Poison Slash
-  name_jp: ポイズンスラッシュ
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -48,7 +44,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2-3
-  name_jp: Loop to 1 after. Turn 2-3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -57,7 +52,6 @@ records:
   desc_jp: Deal 120% damage (3 hits, 40% each)
   max_atk_pct: 120
   name_en: High-Speed Rapid Strike
-  name_jp: 高速連撃
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -66,7 +60,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -75,7 +68,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -84,7 +76,6 @@ records:
   desc_jp: Increase damage to 150% for the next 999 turns
   max_atk_pct: null
   name_en: Don't touch my ears!
-  name_jp: 耳にさわるんじゃねぇ！！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -93,7 +84,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
-  name_jp: HP < 20
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -102,7 +92,6 @@ records:
   desc_jp: Deal 300% damage (5 hits, 60% each)
   max_atk_pct: 300
   name_en: Succession Technique, Wolf Combo
-  name_jp: 父直伝ウルフコンボ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

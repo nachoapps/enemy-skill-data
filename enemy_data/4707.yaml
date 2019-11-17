@@ -5,7 +5,6 @@
 comments: null
 monster_id: 4707
 monster_name_en: Kaguya, Princess of Tsukuyomi
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Reduce damage from Light by 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Heal skyfall +20% for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: Tsukuyomi's Dance
-  name_jp: ツクヨミの舞
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -39,7 +36,6 @@ records:
   desc_jp: Change 2nd column to Light orbs, Deal 120% damage
   max_atk_pct: 120
   name_en: Crescent Moon Katana
-  name_jp: 月光刀
   one_time: 0
   record_type_name: ACTION
   usage_pct: 30
@@ -48,7 +44,6 @@ records:
   desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: Attack
-  name_jp: 攻撃
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -57,7 +52,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -66,7 +60,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -75,7 +68,6 @@ records:
   desc_jp: Absorb Dark damage for 3 turns
   max_atk_pct: null
   name_en: Robe of the Night Sky
-  name_jp: 夜天の羽衣
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -84,7 +76,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
-  name_jp: HP < 30
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -93,7 +84,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -102,7 +92,6 @@ records:
   desc_jp: Rcv 50% for 5 turns
   max_atk_pct: null
   name_en: White Rabbit Rumble
-  name_jp: 白兎の囁き
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100

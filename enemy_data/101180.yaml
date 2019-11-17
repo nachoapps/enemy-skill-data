@@ -5,7 +5,6 @@
 comments: null
 monster_id: 101180
 monster_name_en: Blue Fairy
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -25,7 +24,6 @@ records:
   name_en: '! + There''s a big, white serpent somewhere
 
     in this labyrinth! + Just be on your guard, okay? + Well, see ya!'
-  name_jp: '！ + この迷宮で、
 
     　　白い大蛇が目撃されたようです！ + 進む場合は覚悟してくださいね！ + それでは！'
   one_time: 0

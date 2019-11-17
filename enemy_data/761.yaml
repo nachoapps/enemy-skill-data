@@ -5,7 +5,6 @@
 comments: null
 monster_id: 761
 monster_name_en: Jester Dragon, Drawn Joker
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Reduce damage from Water, Light, Dark by 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Spawn random 3 Bomb orbs + Movetime -2s for 10 turns (Preemptive)
   max_atk_pct: null
   name_en: Toon Bomb + Joker Time!
-  name_jp: トゥーンボム + ジョーカータイム！
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -39,7 +36,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -50,7 +46,6 @@ records:
     for 4 turns
   max_atk_pct: null
   name_en: Magic Barrier + Ice Mirror Barrier
-  name_jp: 魔の防壁 + 氷の鏡壁
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -59,7 +54,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -68,7 +62,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -79,7 +72,6 @@ records:
     damage + Lock all Water orbs
   max_atk_pct: null
   name_en: Frost Left + Chilled Aqua
-  name_jp: フロストレフト + アクアチルド
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -88,7 +80,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -99,7 +90,6 @@ records:
     damage + Lock all Dark orbs
   max_atk_pct: null
   name_en: Nightmare Right + Chilled Darkness
-  name_jp: ナイトメアライト + ダークチルド
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -108,7 +98,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -119,7 +108,6 @@ records:
     + Lock 12 random Fire, Water, Wood, Light, Dark orbs
   max_atk_pct: null
   name_en: Median Joker + Chilled Shuffle
-  name_jp: メディアンジョーカー + シャッフルチルド
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -128,7 +116,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 4
-  name_jp: Loop to 1 after. Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -143,7 +130,6 @@ records:
     damage
   max_atk_pct: null
   name_en: Frost Left + Nightmare Right + Median Joker
-  name_jp: フロストレフト + ナイトメアライト + メディアンジョーカー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

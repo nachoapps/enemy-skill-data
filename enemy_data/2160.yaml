@@ -5,7 +5,6 @@
 comments: null
 monster_id: 2160
 monster_name_en: 聖天使クラウゼ・バルキューラ
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Change 2nd, 5th column to Light orbs, Deal 70% damage (Preemptive)
   max_atk_pct: 70
   name_en: 高速突撃
-  name_jp: 高速突撃
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Deal 100% damage (2 hits, 50% each)
   max_atk_pct: 100
   name_en: Ｗ・ブレイカー
-  name_jp: Ｗ・ブレイカー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -39,7 +36,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -48,7 +44,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -57,7 +52,6 @@ records:
   desc_jp: Bind Light cards for 2 turns
   max_atk_pct: null
   name_en: オプティック・バインド
-  name_jp: オプティック・バインド
   one_time: 1
   record_type_name: ACTION
   usage_pct: 50
@@ -66,7 +60,6 @@ records:
   desc_jp: Enemy recover 30% hp
   max_atk_pct: null
   name_en: フォトニック・チャージ
-  name_jp: フォトニック・チャージ
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100

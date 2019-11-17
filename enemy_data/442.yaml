@@ -5,7 +5,6 @@
 comments: null
 monster_id: 442
 monster_name_en: Ancient Water Dragon, Bowmore
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Deal 1000% damage (5 hits, 200% each)
   max_atk_pct: 1000
   name_en: Maelstrom
-  name_jp: メイルシュトローム
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

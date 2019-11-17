@@ -5,7 +5,6 @@
 comments: null
 monster_id: 102197
 monster_name_en: Alt. Wind Gear
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Change player HP to 10000 for 8 turns (Preemptive)
   max_atk_pct: null
   name_en: HP Dial
-  name_jp: HPダイヤル
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: When HP is full
-  name_jp: When HP is full
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -39,7 +36,6 @@ records:
   desc_jp: Delay active skills by 1 turns
   max_atk_pct: null
   name_en: Sleep Mode
-  name_jp: スリープモード
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -48,7 +44,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: When HP is not full
-  name_jp: When HP is not full
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -57,7 +52,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -66,7 +60,6 @@ records:
   desc_jp: Increase damage to 200% for the next 999 turns
   max_atk_pct: null
   name_en: Activated
-  name_jp: 起動した
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -75,7 +68,6 @@ records:
   desc_jp: Spawn random 3 Wood orbs, Deal 280% damage
   max_atk_pct: 280
   name_en: Wind Pulse
-  name_jp: ウィンドパルス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

@@ -5,7 +5,6 @@
 comments: null
 monster_id: 1513
 monster_name_en: Shrine Priestess, Kano
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Reduce damage from all sources by 50% for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: Dance of the Shrine Maiden
-  name_jp: 神子の舞
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: When HP is full
-  name_jp: When HP is full
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -39,7 +36,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1-4
-  name_jp: Turn 1-4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -48,7 +44,6 @@ records:
   desc_jp: Do nothing
   max_atk_pct: null
   name_en: Smiling joyfully
-  name_jp: 楽しそうに微笑んでいる
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -57,7 +52,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1-4
-  name_jp: Execute repeatedly. Turn 1-4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -66,7 +60,6 @@ records:
   desc_jp: Do nothing
   max_atk_pct: null
   name_en: Smiling joyfully
-  name_jp: 楽しそうに微笑んでいる
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -75,7 +68,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 5
-  name_jp: Loop to 1 after. Turn 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -84,7 +76,6 @@ records:
   desc_jp: Reduce damage from all sources by 50% for 5 turns
   max_atk_pct: null
   name_en: Dance of the Shrine Maiden
-  name_jp: 神子の舞
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -93,7 +84,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: When HP is not full
-  name_jp: When HP is not full
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -102,7 +92,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -113,7 +102,6 @@ records:
     for 999 turns
   max_atk_pct: null
   name_en: Awful! Now I'm mad! + Cheeks puffing up in anger
-  name_jp: ひどい！　怒りましたよ！ + ほっぺをふくらませている
   one_time: 4
   record_type_name: ACTION
   usage_pct: 100
@@ -122,7 +110,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -131,7 +118,6 @@ records:
   desc_jp: 2x2 cloud appear for 5 turns at random location
   max_atk_pct: null
   name_en: I'm hiding them, okay?
-  name_jp: 隠しちゃいますからね！
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -140,7 +126,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -149,7 +134,6 @@ records:
   desc_jp: Delay active skills by 4 turns
   max_atk_pct: null
   name_en: Ritual Chimes
-  name_jp: 祭祀の鈴音
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -158,7 +142,6 @@ records:
   desc_jp: Deal 100% damage (2 hits, 50% each)
   max_atk_pct: 100
   name_en: Ailanthus Umbrella
-  name_jp: 神樹の番傘
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -167,7 +150,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
-  name_jp: HP < 30
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -176,7 +158,6 @@ records:
   desc_jp: Change all orbs to Fire, Wood, Deal 150% damage
   max_atk_pct: 150
   name_en: Maple Leaf Revolt Dance
-  name_jp: もみじ大乱舞
   one_time: 0
   record_type_name: ACTION
   usage_pct: 40
@@ -185,7 +166,6 @@ records:
   desc_jp: Deal 100% damage (2 hits, 50% each)
   max_atk_pct: 100
   name_en: Ailanthus Umbrella
-  name_jp: 神樹の番傘
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

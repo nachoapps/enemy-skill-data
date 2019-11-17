@@ -5,7 +5,6 @@
 comments: null
 monster_id: 304794
 monster_name_en: 覚醒マシンノア
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings:
 - Found 6 unused actions
@@ -22,7 +21,6 @@ records:
   desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -33,7 +31,6 @@ records:
     + Change player HP to 500000 for 99 turns + Voids player buff effects (Preemptive)
   max_atk_pct: null
   name_en: あなたに存在する価値はあるかしら？ + 守勢の双船 + アークコントラクト + 鎮魂歌
-  name_jp: あなたに存在する価値はあるかしら？ + 守勢の双船 + アークコントラクト + 鎮魂歌
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -42,7 +39,6 @@ records:
   desc_jp: Change player HP to 500000 for 99 turns
   max_atk_pct: null
   name_en: アークコントラクト
-  name_jp: アークコントラクト
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -51,7 +47,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -60,7 +55,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -69,7 +63,6 @@ records:
   desc_jp: Bind awoken skills for 5 turns + Player -99% HP
   max_atk_pct: null
   name_en: 失われゆく戦意 + バニシングジャッジメント
-  name_jp: 失われゆく戦意 + バニシングジャッジメント
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -78,7 +71,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
-  name_jp: HP < 10
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -89,7 +81,6 @@ records:
     Deal 50000% damage (4 hits, 12500% each)
   max_atk_pct: null
   name_en: ギアシフト + バニッシュメントライトニング
-  name_jp: ギアシフト + バニッシュメントライトニング
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

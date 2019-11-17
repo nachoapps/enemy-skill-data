@@ -5,7 +5,6 @@
 comments: null
 monster_id: 2961
 monster_name_en: Covenant Witch, Lilith
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Do nothing + Reduce self HP to 0 (Preemptive)
   max_atk_pct: null
   name_en: I found you... Where did you go? + You can't get away from me!
-  name_jp: 見つけた…どこに行っていたの？ + 貴方は私から離れられないわ
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100

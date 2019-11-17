@@ -5,7 +5,6 @@
 comments: null
 monster_id: 103182
 monster_name_en: Frozen Inferno Blade, Samurai Troll
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Bind 4 random subs for 10 turns + Bind active skills for 10 turns (Preemptive)
   max_atk_pct: null
   name_en: Warrior's Dignity + Power Control
-  name_jp: 強者の貫禄 + 力の抑制
   one_time: 2
   record_type_name: PREEMPT
   usage_pct: 100
@@ -39,7 +36,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -48,7 +44,6 @@ records:
   desc_jp: Absorb combo <= 6 damage for 999 turns + Spawn random 1 Bomb orbs
   max_atk_pct: null
   name_en: Shuffling + Hidden Ball
-  name_jp: 摺り足 + 隠し玉
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -57,7 +52,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -66,7 +60,6 @@ records:
   desc_jp: Change 1st column to Fire orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Red Flash
-  name_jp: 赤の一閃
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -75,7 +68,6 @@ records:
   desc_jp: Change 6th column to Water orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Blue Flash
-  name_jp: 青の一閃
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -84,7 +76,6 @@ records:
   desc_jp: Deal 120% damage (3 hits, 40% each)
   max_atk_pct: 120
   name_en: Swiftness Sword Technique
-  name_jp: 神速の剣技
   one_time: 0
   record_type_name: ACTION
   usage_pct: 34
@@ -93,7 +84,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -102,7 +92,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -111,7 +100,6 @@ records:
   desc_jp: Voids status ailments for 999 turns + Spawn random 1 Bomb orbs
   max_atk_pct: null
   name_en: Swordsman's Resolution + Hidden Ball
-  name_jp: 剣士の覚悟 + 隠し玉
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -120,7 +108,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 15
-  name_jp: HP < 15
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -129,7 +116,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -138,7 +124,6 @@ records:
   desc_jp: Change player HP to 1000 for 1 turns + Movetime -3s for 5 turns
   max_atk_pct: null
   name_en: Restricted Life + Imminent Choice
-  name_jp: 限られた命 + 迫られる選択
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -147,7 +132,6 @@ records:
   desc_jp: Deal 500% damage (2 hits, 250% each)
   max_atk_pct: 500
   name_en: Double Blade Flash
-  name_jp: 二刀一閃
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

@@ -5,7 +5,6 @@
 comments: null
 monster_id: 3011
 monster_name_en: Achtros
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Survive attacks with 1 HP when HP > 75%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Absorb Wood damage for 3 turns (Preemptive)
   max_atk_pct: null
   name_en: Deep Aqua
-  name_jp: ディープアクア
   one_time: 4
   record_type_name: PREEMPT
   usage_pct: 100
@@ -39,7 +36,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -48,7 +44,6 @@ records:
   desc_jp: Mortal Poison skyfall +20% for 1 turns
   max_atk_pct: null
   name_en: Poison Swirl
-  name_jp: ポイズンスワール
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -57,7 +52,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -68,7 +62,6 @@ records:
     Poison orbs, Deal 140% damage
   max_atk_pct: 140
   name_en: Sharp Teeth
-  name_jp: シャープトゥース
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -77,7 +70,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -86,7 +78,6 @@ records:
   desc_jp: Reduce damage from all sources by 75% for 3 turns
   max_atk_pct: null
   name_en: Shell Scale
-  name_jp: シェルスケール
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -95,7 +86,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
-  name_jp: Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -104,7 +94,6 @@ records:
   desc_jp: Mortal Poison skyfall +20% for 1 turns
   max_atk_pct: null
   name_en: Poison Swirl
-  name_jp: ポイズンスワール
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -113,7 +102,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
-  name_jp: Turn 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -124,7 +112,6 @@ records:
     Poison orbs, Deal 140% damage
   max_atk_pct: 140
   name_en: Sharp Teeth
-  name_jp: シャープトゥース
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -133,7 +120,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 6
-  name_jp: Loop to 1 after. Turn 6
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -142,7 +128,6 @@ records:
   desc_jp: Absorb Wood damage for 3 turns
   max_atk_pct: null
   name_en: Deep Aqua
-  name_jp: ディープアクア
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -151,7 +136,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 70
-  name_jp: HP < 70
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -160,7 +144,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -169,7 +152,6 @@ records:
   desc_jp: Movetime -1s for 3 turns
   max_atk_pct: null
   name_en: Extreme Cold
-  name_jp: エクストリームコールド
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -178,7 +160,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -187,7 +168,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -196,7 +176,6 @@ records:
   desc_jp: Absorb combo <= 5 damage for 3 turns
   max_atk_pct: null
   name_en: Bubble Wall
-  name_jp: バブルウォール
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -205,7 +184,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 15
-  name_jp: HP < 15
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -214,7 +192,6 @@ records:
   desc_jp: Change all orbs to Poison, Deal 200% damage
   max_atk_pct: 200
   name_en: Blue Calamity
-  name_jp: ブルーカラミティ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -223,7 +200,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: When 1 enemy remains
-  name_jp: When 1 enemy remains
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -232,7 +208,6 @@ records:
   desc_jp: Enemy ally recover 100% hp
   max_atk_pct: null
   name_en: Resuscitation
-  name_jp: リサシテイション
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

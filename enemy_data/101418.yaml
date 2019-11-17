@@ -5,7 +5,6 @@
 comments: null
 monster_id: 101418
 monster_name_en: Cinderella
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -22,7 +21,6 @@ records:
   max_atk_pct: null
   name_en: Oh! Business with the master? + By all means! Please go through♪ + Well,
     please excuse me
-  name_jp: あ！旦那様に御用でしょうか？ + どうぞ！こちらからお通りください♪ + それでは失礼いたします
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100

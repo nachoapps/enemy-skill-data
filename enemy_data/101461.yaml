@@ -5,7 +5,6 @@
 comments: null
 monster_id: 101461
 monster_name_en: Alt. Awoken Noah
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Player recover 100% hp + Absorb Fire, Water damage for 2 turns (Preemptive)
   max_atk_pct: null
   name_en: Are you worth saving? + Truth Gate
-  name_jp: あなたは救う価値があるかしら？ + トゥルースゲート
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 10
@@ -30,7 +28,6 @@ records:
   desc_jp: Player recover 100% hp + Absorb Fire, Wood damage for 2 turns (Preemptive)
   max_atk_pct: null
   name_en: Are you worth saving? + Truth Gate
-  name_jp: あなたは救う価値があるかしら？ + トゥルースゲート
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 10
@@ -39,7 +36,6 @@ records:
   desc_jp: Player recover 100% hp + Absorb Fire, Light damage for 2 turns (Preemptive)
   max_atk_pct: null
   name_en: Are you worth saving? + Truth Gate
-  name_jp: あなたは救う価値があるかしら？ + トゥルースゲート
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 10
@@ -48,7 +44,6 @@ records:
   desc_jp: Player recover 100% hp + Absorb Fire, Dark damage for 2 turns (Preemptive)
   max_atk_pct: null
   name_en: Are you worth saving? + Truth Gate
-  name_jp: あなたは救う価値があるかしら？ + トゥルースゲート
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 10
@@ -57,7 +52,6 @@ records:
   desc_jp: Player recover 100% hp + Absorb Water, Wood damage for 2 turns (Preemptive)
   max_atk_pct: null
   name_en: Are you worth saving? + Truth Gate
-  name_jp: あなたは救う価値があるかしら？ + トゥルースゲート
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 10
@@ -66,7 +60,6 @@ records:
   desc_jp: Player recover 100% hp + Absorb Water, Light damage for 2 turns (Preemptive)
   max_atk_pct: null
   name_en: Are you worth saving? + Truth Gate
-  name_jp: あなたは救う価値があるかしら？ + トゥルースゲート
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 10
@@ -75,7 +68,6 @@ records:
   desc_jp: Player recover 100% hp + Absorb Water, Dark damage for 2 turns (Preemptive)
   max_atk_pct: null
   name_en: Are you worth saving? + Truth Gate
-  name_jp: あなたは救う価値があるかしら？ + トゥルースゲート
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 10
@@ -84,7 +76,6 @@ records:
   desc_jp: Player recover 100% hp + Absorb Wood, Light damage for 2 turns (Preemptive)
   max_atk_pct: null
   name_en: Are you worth saving? + Truth Gate
-  name_jp: あなたは救う価値があるかしら？ + トゥルースゲート
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 10
@@ -93,7 +84,6 @@ records:
   desc_jp: Player recover 100% hp + Absorb Wood, Dark damage for 2 turns (Preemptive)
   max_atk_pct: null
   name_en: Are you worth saving? + Truth Gate
-  name_jp: あなたは救う価値があるかしら？ + トゥルースゲート
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 10
@@ -102,7 +92,6 @@ records:
   desc_jp: Player recover 100% hp + Absorb Light, Dark damage for 2 turns (Preemptive)
   max_atk_pct: null
   name_en: Are you worth saving? + Truth Gate
-  name_jp: あなたは救う価値があるかしら？ + トゥルースゲート
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 10
@@ -111,7 +100,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -120,7 +108,6 @@ records:
   desc_jp: Bind 1 subs for 2 turns, Deal 50% damage
   max_atk_pct: 50
   name_en: Sacred Sacrifice
-  name_jp: セイクリッドサクリファイス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 30
@@ -129,7 +116,6 @@ records:
   desc_jp: Change Random to Random, Deal 75% damage
   max_atk_pct: 75
   name_en: Rainbow Contract
-  name_jp: レインボーコントラクト
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -138,7 +124,6 @@ records:
   desc_jp: Change Random to Heal, Deal 100% damage
   max_atk_pct: 100
   name_en: Twinkle Hope
-  name_jp: トゥインクルホープ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -147,7 +132,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
-  name_jp: Loop to 1 after. Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -156,7 +140,6 @@ records:
   desc_jp: Player -99% HP + Absorb Fire, Water damage for 2 turns
   max_atk_pct: null
   name_en: Ark Impact + Truth Gate
-  name_jp: アークインパクト + トゥルースゲート
   one_time: 0
   record_type_name: ACTION
   usage_pct: 10
@@ -165,7 +148,6 @@ records:
   desc_jp: Player -99% HP + Absorb Fire, Wood damage for 2 turns
   max_atk_pct: null
   name_en: Ark Impact + Truth Gate
-  name_jp: アークインパクト + トゥルースゲート
   one_time: 0
   record_type_name: ACTION
   usage_pct: 10
@@ -174,7 +156,6 @@ records:
   desc_jp: Player -99% HP + Absorb Fire, Light damage for 2 turns
   max_atk_pct: null
   name_en: Ark Impact + Truth Gate
-  name_jp: アークインパクト + トゥルースゲート
   one_time: 0
   record_type_name: ACTION
   usage_pct: 10
@@ -183,7 +164,6 @@ records:
   desc_jp: Player -99% HP + Absorb Fire, Dark damage for 2 turns
   max_atk_pct: null
   name_en: Ark Impact + Truth Gate
-  name_jp: アークインパクト + トゥルースゲート
   one_time: 0
   record_type_name: ACTION
   usage_pct: 10
@@ -192,7 +172,6 @@ records:
   desc_jp: Player -99% HP + Absorb Water, Wood damage for 2 turns
   max_atk_pct: null
   name_en: Ark Impact + Truth Gate
-  name_jp: アークインパクト + トゥルースゲート
   one_time: 0
   record_type_name: ACTION
   usage_pct: 10
@@ -201,7 +180,6 @@ records:
   desc_jp: Player -99% HP + Absorb Water, Light damage for 2 turns
   max_atk_pct: null
   name_en: Ark Impact + Truth Gate
-  name_jp: アークインパクト + トゥルースゲート
   one_time: 0
   record_type_name: ACTION
   usage_pct: 10
@@ -210,7 +188,6 @@ records:
   desc_jp: Player -99% HP + Absorb Water, Dark damage for 2 turns
   max_atk_pct: null
   name_en: Ark Impact + Truth Gate
-  name_jp: アークインパクト + トゥルースゲート
   one_time: 0
   record_type_name: ACTION
   usage_pct: 10
@@ -219,7 +196,6 @@ records:
   desc_jp: Player -99% HP + Absorb Wood, Light damage for 2 turns
   max_atk_pct: null
   name_en: Ark Impact + Truth Gate
-  name_jp: アークインパクト + トゥルースゲート
   one_time: 0
   record_type_name: ACTION
   usage_pct: 10
@@ -228,7 +204,6 @@ records:
   desc_jp: Player -99% HP + Absorb Wood, Dark damage for 2 turns
   max_atk_pct: null
   name_en: Ark Impact + Truth Gate
-  name_jp: アークインパクト + トゥルースゲート
   one_time: 0
   record_type_name: ACTION
   usage_pct: 10
@@ -237,7 +212,6 @@ records:
   desc_jp: Player -99% HP + Absorb Light, Dark damage for 2 turns
   max_atk_pct: null
   name_en: Ark Impact + Truth Gate
-  name_jp: アークインパクト + トゥルースゲート
   one_time: 0
   record_type_name: ACTION
   usage_pct: 10
@@ -246,7 +220,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
-  name_jp: HP < 20
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -255,7 +228,6 @@ records:
   desc_jp: Deal 2000% damage (2 hits, 1000% each)
   max_atk_pct: 2000
   name_en: Punishment Thunder
-  name_jp: パニッシュメントボルト
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

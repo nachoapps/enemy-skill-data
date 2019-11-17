@@ -5,7 +5,6 @@
 comments: null
 monster_id: 102180
 monster_name_en: Alt. Pacifying Yomi Goddess, Izanami
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Reduce damage from Fire, Dark by 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Survive attacks with 1 HP when HP > 88%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -41,7 +38,6 @@ records:
     50% for 3 turns + Movetime 50% for 10 turns (Preemptive)
   max_atk_pct: null
   name_en: Dark Protection of Yomi + The Feathered Garment of Yomi + Malicious Laughter
-  name_jp: 黄泉の加護 + 黄泉の羽衣 + 怨みの嗤笑
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -50,7 +46,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -59,7 +54,6 @@ records:
   desc_jp: Movetime 50% for 10 turns
   max_atk_pct: null
   name_en: Malicious Laughter
-  name_jp: 怨みの嗤笑
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -68,7 +62,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -77,7 +70,6 @@ records:
   desc_jp: Change Heal to Jammer, Deal 100% damage
   max_atk_pct: 100
   name_en: Anguished Wailing
-  name_jp: 悲嘆の慟哭
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -86,7 +78,6 @@ records:
   desc_jp: Deal 150% damage (5 hits, 30% each)
   max_atk_pct: 150
   name_en: Fires of Deicide
-  name_jp: 神滅の業火
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -95,7 +86,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -104,7 +94,6 @@ records:
   desc_jp: Reduce damage from all sources by 50% for 3 turns + Player -100% HP
   max_atk_pct: null
   name_en: The Feathered Garment of Yomi + Last Embrace
-  name_jp: 黄泉の羽衣 + 命滅の抱き
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -113,7 +102,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
-  name_jp: Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -124,7 +112,6 @@ records:
     Jammer, Poison, Mortal Poison orbs
   max_atk_pct: null
   name_en: An Invitation to Death & Decay + Curse of the Eternal Land
-  name_jp: 腐朽への誘い + 常世の呪
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -133,7 +120,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
-  name_jp: Turn 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -142,7 +128,6 @@ records:
   desc_jp: Change Heal to Jammer, Deal 100% damage
   max_atk_pct: 100
   name_en: Anguished Wailing
-  name_jp: 悲嘆の慟哭
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -151,7 +136,6 @@ records:
   desc_jp: Deal 150% damage (5 hits, 30% each)
   max_atk_pct: 150
   name_en: Fires of Deicide
-  name_jp: 神滅の業火
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -160,7 +144,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6
-  name_jp: Turn 6
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -169,7 +152,6 @@ records:
   desc_jp: Reduce damage from all sources by 50% for 3 turns + Player -100% HP
   max_atk_pct: null
   name_en: The Feathered Garment of Yomi + Last Embrace
-  name_jp: 黄泉の羽衣 + 命滅の抱き
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -178,7 +160,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 7
-  name_jp: Turn 7
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -189,7 +170,6 @@ records:
     Jammer, Poison, Mortal Poison orbs
   max_atk_pct: null
   name_en: An Invitation to Death & Decay + Curse of the Eternal Land
-  name_jp: 腐朽への誘い + 常世の呪
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -198,7 +178,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 8
-  name_jp: Turn 8
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -207,7 +186,6 @@ records:
   desc_jp: Change Heal to Jammer, Deal 100% damage
   max_atk_pct: 100
   name_en: Anguished Wailing
-  name_jp: 悲嘆の慟哭
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -216,7 +194,6 @@ records:
   desc_jp: Deal 150% damage (5 hits, 30% each)
   max_atk_pct: 150
   name_en: Fires of Deicide
-  name_jp: 神滅の業火
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -225,7 +202,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 9
-  name_jp: Turn 9
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -234,7 +210,6 @@ records:
   desc_jp: Reduce damage from all sources by 50% for 3 turns + Player -100% HP
   max_atk_pct: null
   name_en: The Feathered Garment of Yomi + Last Embrace
-  name_jp: 黄泉の羽衣 + 命滅の抱き
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -243,7 +218,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 10
-  name_jp: Turn 10
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -254,7 +228,6 @@ records:
     Jammer, Poison, Mortal Poison orbs
   max_atk_pct: null
   name_en: An Invitation to Death & Decay + Curse of the Eternal Land
-  name_jp: 腐朽への誘い + 常世の呪
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -263,7 +236,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 11
-  name_jp: Turn 11
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -272,7 +244,6 @@ records:
   desc_jp: Movetime 50% for 10 turns
   max_atk_pct: null
   name_en: Malicious Laughter
-  name_jp: 怨みの嗤笑
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -281,7 +252,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -290,7 +260,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -299,7 +268,6 @@ records:
   desc_jp: Reduce damage from all sources by 50% for 3 turns + Player -100% HP
   max_atk_pct: null
   name_en: The Feathered Garment of Yomi + Last Embrace
-  name_jp: 黄泉の羽衣 + 命滅の抱き
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -308,7 +276,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -319,7 +286,6 @@ records:
     Jammer, Poison, Mortal Poison orbs
   max_atk_pct: null
   name_en: An Invitation to Death & Decay + Curse of the Eternal Land
-  name_jp: 腐朽への誘い + 常世の呪
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -328,7 +294,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 3
-  name_jp: Loop to 1 after. Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -337,7 +302,6 @@ records:
   desc_jp: Change Heal to Jammer, Deal 100% damage
   max_atk_pct: 100
   name_en: Anguished Wailing
-  name_jp: 悲嘆の慟哭
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -346,7 +310,6 @@ records:
   desc_jp: Deal 150% damage (5 hits, 30% each)
   max_atk_pct: 150
   name_en: Fires of Deicide
-  name_jp: 神滅の業火
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -355,7 +318,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -364,7 +326,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -376,7 +337,6 @@ records:
   max_atk_pct: null
   name_en: Protection of the Eight Thunders + Boundary of Disdain + The Nature of
     Death
-  name_jp: 八雷守護 + 忌避の境域 + 死ノ理
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -385,7 +345,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -394,7 +353,6 @@ records:
   desc_jp: Movetime 50% for 10 turns
   max_atk_pct: null
   name_en: Malicious Laughter
-  name_jp: 怨みの嗤笑
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -403,7 +361,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -412,7 +369,6 @@ records:
   desc_jp: Change Heal to Jammer, Deal 100% damage
   max_atk_pct: 100
   name_en: Anguished Wailing
-  name_jp: 悲嘆の慟哭
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -421,7 +377,6 @@ records:
   desc_jp: Deal 150% damage (5 hits, 30% each)
   max_atk_pct: 150
   name_en: Fires of Deicide
-  name_jp: 神滅の業火
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -430,7 +385,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
-  name_jp: Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -439,7 +393,6 @@ records:
   desc_jp: Reduce damage from all sources by 50% for 3 turns + Player -100% HP
   max_atk_pct: null
   name_en: The Feathered Garment of Yomi + Last Embrace
-  name_jp: 黄泉の羽衣 + 命滅の抱き
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -448,7 +401,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
-  name_jp: Turn 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -459,7 +411,6 @@ records:
     Jammer, Poison, Mortal Poison orbs
   max_atk_pct: null
   name_en: An Invitation to Death & Decay + Curse of the Eternal Land
-  name_jp: 腐朽への誘い + 常世の呪
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -468,7 +419,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6
-  name_jp: Turn 6
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -477,7 +427,6 @@ records:
   desc_jp: Change Heal to Jammer, Deal 100% damage
   max_atk_pct: 100
   name_en: Anguished Wailing
-  name_jp: 悲嘆の慟哭
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -486,7 +435,6 @@ records:
   desc_jp: Deal 150% damage (5 hits, 30% each)
   max_atk_pct: 150
   name_en: Fires of Deicide
-  name_jp: 神滅の業火
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -495,7 +443,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 7
-  name_jp: Turn 7
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -504,7 +451,6 @@ records:
   desc_jp: Reduce damage from all sources by 50% for 3 turns + Player -100% HP
   max_atk_pct: null
   name_en: The Feathered Garment of Yomi + Last Embrace
-  name_jp: 黄泉の羽衣 + 命滅の抱き
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -513,7 +459,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 8
-  name_jp: Turn 8
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -524,7 +469,6 @@ records:
     Jammer, Poison, Mortal Poison orbs
   max_atk_pct: null
   name_en: An Invitation to Death & Decay + Curse of the Eternal Land
-  name_jp: 腐朽への誘い + 常世の呪
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -533,7 +477,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 9
-  name_jp: Turn 9
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -542,7 +485,6 @@ records:
   desc_jp: Change Heal to Jammer, Deal 100% damage
   max_atk_pct: 100
   name_en: Anguished Wailing
-  name_jp: 悲嘆の慟哭
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -551,7 +493,6 @@ records:
   desc_jp: Deal 150% damage (5 hits, 30% each)
   max_atk_pct: 150
   name_en: Fires of Deicide
-  name_jp: 神滅の業火
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -560,7 +501,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 10
-  name_jp: Turn 10
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -569,7 +509,6 @@ records:
   desc_jp: Reduce damage from all sources by 50% for 3 turns + Player -100% HP
   max_atk_pct: null
   name_en: The Feathered Garment of Yomi + Last Embrace
-  name_jp: 黄泉の羽衣 + 命滅の抱き
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -578,7 +517,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 11
-  name_jp: Turn 11
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -589,7 +527,6 @@ records:
     Jammer, Poison, Mortal Poison orbs
   max_atk_pct: null
   name_en: An Invitation to Death & Decay + Curse of the Eternal Land
-  name_jp: 腐朽への誘い + 常世の呪
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -598,7 +535,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 12
-  name_jp: Turn 12
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -607,7 +543,6 @@ records:
   desc_jp: Movetime 50% for 10 turns
   max_atk_pct: null
   name_en: Malicious Laughter
-  name_jp: 怨みの嗤笑
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -616,7 +551,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 5
-  name_jp: HP < 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -625,7 +559,6 @@ records:
   desc_jp: Deal 150% damage (5 hits, 30% each)
   max_atk_pct: 150
   name_en: Fires of Deicide
-  name_jp: 神滅の業火
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -634,7 +567,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Enemy is defeated
-  name_jp: Enemy is defeated
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -643,7 +575,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -655,7 +586,6 @@ records:
   max_atk_pct: null
   name_en: Unwavering Light + Protection of the Eight Thunders + Boundary of Disdain
     + The Nature of Death
-  name_jp: 執念の灯火 + 八雷守護 + 忌避の境域 + 死ノ理
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100

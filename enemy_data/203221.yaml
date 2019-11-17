@@ -5,7 +5,6 @@
 comments: null
 monster_id: 203221
 monster_name_en: 蒼響の龍楽士・ミオン
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings:
 - Found 2 unused actions
@@ -22,7 +21,6 @@ records:
   desc_jp: Reduce damage from Water, Wood by 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -39,7 +37,6 @@ records:
   desc_jp: Reduce damage from Water, Wood by 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -48,7 +45,6 @@ records:
   desc_jp: Absorb combo <= 4 damage for 1 turns + Movetime 50% for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: 一緒に奏でましょう♪ + 緊張の幕開け
-  name_jp: 一緒に奏でましょう♪ + 緊張の幕開け
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -57,7 +53,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -66,7 +61,6 @@ records:
   desc_jp: Voids status ailments for 999 turns
   max_atk_pct: null
   name_en: トランスペアレントメロディ
-  name_jp: トランスペアレントメロディ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -75,7 +69,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -84,7 +77,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -95,7 +87,6 @@ records:
     Water, Wood, Light, Dark, Heal, Jammer, Deal 120% damage
   max_atk_pct: null
   name_en: ドロップの音色が聴こえるはずよ♪ + 虹のセプテット
-  name_jp: ドロップの音色が聴こえるはずよ♪ + 虹のセプテット
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -106,7 +97,6 @@ records:
     Water, Wood, Light, Dark, Heal, Jammer, Deal 120% damage
   max_atk_pct: null
   name_en: 心で音色を感じとって♪ + 虹のセプテット
-  name_jp: 心で音色を感じとって♪ + 虹のセプテット
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -115,7 +105,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
-  name_jp: Loop to 1 after. Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -126,7 +115,6 @@ records:
     Poison orbs, Deal 130% damage
   max_atk_pct: 130
   name_en: 氷剣のオブリガート
-  name_jp: 氷剣のオブリガート
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -135,7 +123,6 @@ records:
   desc_jp: Deal 160% damage (4 hits, 40% each)
   max_atk_pct: 160
   name_en: 氷華のカルテット
-  name_jp: 氷華のカルテット
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -144,7 +131,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 98
-  name_jp: HP <= 98
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -153,7 +139,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -162,7 +147,6 @@ records:
   desc_jp: Bind 1 random for 4 turns, Deal 140% damage
   max_atk_pct: 140
   name_en: 私も負けてられないわね♪
-  name_jp: 私も負けてられないわね♪
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -171,7 +155,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -180,7 +163,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -189,7 +171,6 @@ records:
   desc_jp: Increase damage to 150% for the next 999 turns
   max_atk_pct: null
   name_en: 戦士達のマーチ
-  name_jp: 戦士達のマーチ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -198,7 +179,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
-  name_jp: HP < 30
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -207,7 +187,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -216,7 +195,6 @@ records:
   desc_jp: Absorb combo <= 6 damage for 2 turns
   max_atk_pct: null
   name_en: 冥河へのバルカローラ
-  name_jp: 冥河へのバルカローラ
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -225,7 +203,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -234,7 +211,6 @@ records:
   desc_jp: Row of cloud appear for 1 turns at random location
   max_atk_pct: null
   name_en: 次があなたの最後の演奏よ
-  name_jp: 次があなたの最後の演奏よ
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -243,7 +219,6 @@ records:
   desc_jp: Deal 5000% damage (10 hits, 500% each)
   max_atk_pct: 5000
   name_en: 千律のレクイエム
-  name_jp: 千律のレクイエム
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -260,7 +235,6 @@ records:
   desc_jp: Reduce damage from Water, Wood by 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -269,7 +243,6 @@ records:
   desc_jp: Absorb combo <= 4 damage for 1 turns + Movetime 50% for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: 一緒に奏でましょう♪ + 緊張の幕開け
-  name_jp: 一緒に奏でましょう♪ + 緊張の幕開け
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -278,7 +251,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -287,7 +259,6 @@ records:
   desc_jp: Voids status ailments for 999 turns
   max_atk_pct: null
   name_en: トランスペアレントメロディ
-  name_jp: トランスペアレントメロディ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -296,7 +267,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -305,7 +275,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -316,7 +285,6 @@ records:
     Water, Wood, Light, Dark, Heal, Jammer, Deal 120% damage
   max_atk_pct: null
   name_en: ドロップの音色が聴こえるはずよ♪ + 虹のセプテット
-  name_jp: ドロップの音色が聴こえるはずよ♪ + 虹のセプテット
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -327,7 +295,6 @@ records:
     Water, Wood, Light, Dark, Heal, Jammer, Deal 120% damage
   max_atk_pct: null
   name_en: 心で音色を感じとって♪ + 虹のセプテット
-  name_jp: 心で音色を感じとって♪ + 虹のセプテット
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -336,7 +303,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
-  name_jp: Loop to 1 after. Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -347,7 +313,6 @@ records:
     Poison orbs, Deal 130% damage
   max_atk_pct: 130
   name_en: 氷剣のオブリガート
-  name_jp: 氷剣のオブリガート
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -356,7 +321,6 @@ records:
   desc_jp: Deal 160% damage (4 hits, 40% each)
   max_atk_pct: 160
   name_en: 氷華のカルテット
-  name_jp: 氷華のカルテット
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -365,7 +329,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 98
-  name_jp: HP <= 98
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -374,7 +337,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -383,7 +345,6 @@ records:
   desc_jp: Bind 1 random for 4 turns, Deal 140% damage
   max_atk_pct: 140
   name_en: 私も負けてられないわね♪
-  name_jp: 私も負けてられないわね♪
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -392,7 +353,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -401,7 +361,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -410,7 +369,6 @@ records:
   desc_jp: Increase damage to 150% for the next 999 turns
   max_atk_pct: null
   name_en: 戦士達のマーチ
-  name_jp: 戦士達のマーチ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -419,7 +377,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
-  name_jp: HP < 30
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -428,7 +385,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -437,7 +393,6 @@ records:
   desc_jp: Absorb combo <= 6 damage for 2 turns
   max_atk_pct: null
   name_en: 冥河へのバルカローラ
-  name_jp: 冥河へのバルカローラ
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -446,7 +401,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -455,7 +409,6 @@ records:
   desc_jp: Row of cloud appear for 1 turns at random location
   max_atk_pct: null
   name_en: 次があなたの最後の演奏よ
-  name_jp: 次があなたの最後の演奏よ
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -464,7 +417,6 @@ records:
   desc_jp: Deal 5000% damage (10 hits, 500% each)
   max_atk_pct: 5000
   name_en: 千律のレクイエム
-  name_jp: 千律のレクイエム
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

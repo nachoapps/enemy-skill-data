@@ -5,7 +5,6 @@
 comments: null
 monster_id: 102378
 monster_name_en: Combat State, Female Titan
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings:
 - Found 1 unused actions
@@ -22,7 +21,6 @@ records:
   desc_jp: Voids status ailments for 9 turns (Preemptive)
   max_atk_pct: null
   name_en: Peculiar Stance
-  name_jp: 独特な構え
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -31,7 +29,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -40,7 +37,6 @@ records:
   desc_jp: Do nothing, (if [2363, 2364, 2361, 2362] on team)
   max_atk_pct: null
   name_en: Checking your identity
-  name_jp: 顔を確認している
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -51,7 +47,6 @@ records:
     on team)
   max_atk_pct: null
   name_en: Protecting her nape
-  name_jp: うなじを隠している
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -60,7 +55,6 @@ records:
   desc_jp: Deal 110% damage, (if [2355] on team)
   max_atk_pct: 110
   name_en: Heavy Middle Kick
-  name_jp: 渾身のミドルキック
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -69,7 +63,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -78,7 +71,6 @@ records:
   desc_jp: Delay active skills by 2 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Quick Low Kick
-  name_jp: 鋭いローキック
   one_time: 0
   record_type_name: ACTION
   usage_pct: 40
@@ -87,7 +79,6 @@ records:
   desc_jp: Blind all orbs on the board, Deal 150% damage
   max_atk_pct: 150
   name_en: Powerful High Kick
-  name_jp: 強力なハイキック
   one_time: 0
   record_type_name: ACTION
   usage_pct: 40
@@ -96,7 +87,6 @@ records:
   desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: Disable Skill
-  name_jp: 通常攻撃
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -105,7 +95,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -114,7 +103,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -123,7 +111,6 @@ records:
   desc_jp: Do nothing, (if [2363, 2364, 2361, 2362] on team)
   max_atk_pct: null
   name_en: Checking your identity
-  name_jp: 顔を確認している
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -134,7 +121,6 @@ records:
     on team)
   max_atk_pct: null
   name_en: Protecting her nape
-  name_jp: うなじを隠している
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -143,7 +129,6 @@ records:
   desc_jp: Deal 110% damage, (if [2355] on team)
   max_atk_pct: 110
   name_en: Heavy Middle Kick
-  name_jp: 渾身のミドルキック
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -152,7 +137,6 @@ records:
   desc_jp: Reduce damage from all sources by 50% for 3 turns
   max_atk_pct: null
   name_en: Hard Form
-  name_jp: 硬質化
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -161,7 +145,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
-  name_jp: HP < 20
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -170,7 +153,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -181,7 +163,6 @@ records:
     on team)
   max_atk_pct: null
   name_en: Protecting her nape
-  name_jp: うなじを隠している
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -190,7 +171,6 @@ records:
   desc_jp: Deal 110% damage, (if [2355] on team)
   max_atk_pct: 110
   name_en: Heavy Middle Kick
-  name_jp: 渾身のミドルキック
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -199,7 +179,6 @@ records:
   desc_jp: Bind 6 random cards for 3 turns
   max_atk_pct: null
   name_en: Binding
-  name_jp: 拘束
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -208,7 +187,6 @@ records:
   desc_jp: Deal 900% damage
   max_atk_pct: 900
   name_en: Calm and Calculated Finishing Strike
-  name_jp: 冷静かつ的確な終撃
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

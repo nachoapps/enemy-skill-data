@@ -5,7 +5,6 @@
 comments: null
 monster_id: 1835
 monster_name_en: Dark-Winged Star Angel, Lumiel
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -23,7 +22,6 @@ records:
     Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs (Preemptive)
   max_atk_pct: null
   name_en: It's pitch black + Take this!
-  name_jp: まーっくらだよ + これあーげる！
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -32,7 +30,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -41,7 +38,6 @@ records:
   desc_jp: Voids status ailments for 999 turns + Absorb combo <= 6 damage for 99 turns
   max_atk_pct: null
   name_en: Clean up please! + More and more!
-  name_jp: きれいに片づけてね + もっともっと！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -50,7 +46,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -59,7 +54,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -68,7 +62,6 @@ records:
   desc_jp: Change Poison to Dark, Deal 250% damage
   max_atk_pct: 250
   name_en: Useless things go in the trash can!
-  name_jp: いらないものはゴミ箱にポイッ
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -77,7 +70,6 @@ records:
   desc_jp: Change Jammer to Dark, Deal 250% damage
   max_atk_pct: 250
   name_en: Useless things go in the trash can!
-  name_jp: いらないものはゴミ箱にポイッ
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -88,7 +80,6 @@ records:
     Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs
   max_atk_pct: null
   name_en: It's pitch black + Take this!
-  name_jp: まーっくらだよ + これあーげる！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -97,7 +88,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
-  name_jp: Loop to 1 after. Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -108,7 +98,6 @@ records:
     Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs
   max_atk_pct: null
   name_en: It's pitch black + Take this!
-  name_jp: まーっくらだよ + これあーげる！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -117,7 +106,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -126,7 +114,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -135,7 +122,6 @@ records:
   desc_jp: Jammer, Poison skyfall +15% for 10 turns
   max_atk_pct: null
   name_en: I'll give you more!
-  name_jp: もーっとあげる！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -144,7 +130,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
-  name_jp: HP < 10
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -153,7 +138,6 @@ records:
   desc_jp: Change all orbs to Water, Dark, Deal 500% damage
   max_atk_pct: 500
   name_en: I don't need all this anymore
-  name_jp: もう全部いらない！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

@@ -5,7 +5,6 @@
 comments: null
 monster_id: 1930
 monster_name_en: Plessie-bean
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Do nothing (Preemptive)
   max_atk_pct: null
   name_en: Thanks for the 2,000 days with us!!
-  name_jp: いつも遊んでくれてありがとう
   one_time: 1
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -39,7 +36,6 @@ records:
   desc_jp: Do nothing
   max_atk_pct: null
   name_en: Here's a present!
-  name_jp: プレゼントだよ～
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -48,7 +44,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
-  name_jp: Loop to 1 after. Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -57,7 +52,6 @@ records:
   desc_jp: Do nothing
   max_atk_pct: null
   name_en: Thanks for the 2,000 days with us!!
-  name_jp: いつも遊んでくれてありがとう
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100

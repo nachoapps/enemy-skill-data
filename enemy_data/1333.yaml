@@ -5,7 +5,6 @@
 comments: null
 monster_id: 1333
 monster_name_en: Blessed River Goddess, Sarasvati
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Survive attacks with 1 HP when HP > 31%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -32,7 +30,6 @@ records:
     (Preemptive)
   max_atk_pct: null
   name_en: Disappearing Mist + Stone Rain
-  name_jp: 雲散霧消 + 石の雨
   one_time: 2
   record_type_name: PREEMPT
   usage_pct: 100
@@ -41,7 +38,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -50,7 +46,6 @@ records:
   desc_jp: Player -99% HP + Rcv 50% for 10 turns
   max_atk_pct: null
   name_en: Drought + Lost Water of Life
-  name_jp: 旱魃 + 失われた命水
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -59,7 +54,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -68,7 +62,6 @@ records:
   desc_jp: Bind 1 random subs for 2~3 turns, Deal 95% damage
   max_atk_pct: 95
   name_en: Torrential Downpour
-  name_jp: 集中豪雨
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
@@ -77,7 +70,6 @@ records:
   desc_jp: Delay active skills by 2 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Overflow
-  name_jp: 越流
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
@@ -86,7 +78,6 @@ records:
   desc_jp: Change Random to Water, Deal 95% damage
   max_atk_pct: 95
   name_en: High Water
-  name_jp: 豊水
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
@@ -95,7 +86,6 @@ records:
   desc_jp: Deal 105% damage (3 hits, 35% each)
   max_atk_pct: 105
   name_en: Overflowing
-  name_jp: 氾濫
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
@@ -104,7 +94,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
-  name_jp: HP < 30
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -113,7 +102,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -122,7 +110,6 @@ records:
   desc_jp: Bind awoken skills for 1 turns
   max_atk_pct: null
   name_en: Disappearing Mist
-  name_jp: 雲散霧消
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -131,7 +118,6 @@ records:
   desc_jp: Bind 4 random subs for 1 turns
   max_atk_pct: null
   name_en: Torrential Downpour
-  name_jp: 集中豪雨
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -140,7 +126,6 @@ records:
   desc_jp: Change all orbs to Water, Deal 300% damage
   max_atk_pct: 300
   name_en: Muddy Stream
-  name_jp: 濁流
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -149,7 +134,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Enemy is defeated
-  name_jp: Enemy is defeated
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -160,7 +144,6 @@ records:
     Jammer, Poison, Mortal Poison orbs, Deal 100% damage
   max_atk_pct: null
   name_en: Spring of Life + Arrested
-  name_jp: 命の湧水 + 積止め
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

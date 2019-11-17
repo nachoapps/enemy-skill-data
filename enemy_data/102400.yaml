@@ -5,7 +5,6 @@
 comments: null
 monster_id: 102400
 monster_name_en: Alt. Awoken Heimdallr
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Reduce damage from Wood, Dark by 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Absorb Dark damage for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: Gjallarhorn Horn
-  name_jp: 角笛ギャラルホルン
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -39,7 +36,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -48,7 +44,6 @@ records:
   desc_jp: Bind Dark cards for 1 turns, (if [376, 377, 656, 1348, 2396] on team)
   max_atk_pct: null
   name_en: I'll stop you
-  name_jp: おぬしはワシが止めよう
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -59,7 +54,6 @@ records:
     team)
   max_atk_pct: null
   name_en: Guardian God's Five Senses
-  name_jp: 守神の五感
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -68,7 +62,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -77,7 +70,6 @@ records:
   desc_jp: Delay active skills by 1 turns, Deal 80% damage
   max_atk_pct: 80
   name_en: Headbutt
-  name_jp: 頭突き
   one_time: 0
   record_type_name: ACTION
   usage_pct: 30
@@ -86,7 +78,6 @@ records:
   desc_jp: Deal 110% damage
   max_atk_pct: 110
   name_en: Horn Axe
-  name_jp: ホルンアックス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 70
@@ -95,7 +86,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 70
-  name_jp: HP < 70
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -104,7 +94,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -115,7 +104,6 @@ records:
     team)
   max_atk_pct: null
   name_en: Guardian God's Five Senses
-  name_jp: 守神の五感
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -124,7 +112,6 @@ records:
   desc_jp: Bind Dark cards for 1 turns, (if [376, 377, 656, 1348, 2396] on team)
   max_atk_pct: null
   name_en: I'll stop you
-  name_jp: おぬしはワシが止めよう
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -133,7 +120,6 @@ records:
   desc_jp: Blind all orbs on the board, Deal 100% damage
   max_atk_pct: 100
   name_en: Not quite yet!!
-  name_jp: まだまだじゃのぉ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -142,7 +128,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -151,7 +136,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -162,7 +146,6 @@ records:
     team)
   max_atk_pct: null
   name_en: Guardian God's Five Senses
-  name_jp: 守神の五感
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -171,7 +154,6 @@ records:
   desc_jp: Bind Dark cards for 1 turns, (if [376, 377, 656, 1348, 2396] on team)
   max_atk_pct: null
   name_en: I'll stop you
-  name_jp: おぬしはワシが止めよう
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -180,7 +162,6 @@ records:
   desc_jp: Reduce damage from all sources by 50% for 2 turns
   max_atk_pct: null
   name_en: Shield of First Light
-  name_jp: 暁光の大盾
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -189,7 +170,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1-2
-  name_jp: Execute repeatedly. Turn 1-2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -198,7 +178,6 @@ records:
   desc_jp: Change 3rd column to Light orbs, Deal 130% damage
   max_atk_pct: 130
   name_en: Slam
-  name_jp: 叩きつける
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -207,7 +186,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 3
-  name_jp: Loop to 1 after. Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -216,7 +194,6 @@ records:
   desc_jp: Deal 480% damage (4 hits, 120% each)
   max_atk_pct: 480
   name_en: Holy
-  name_jp: ホーリー
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100

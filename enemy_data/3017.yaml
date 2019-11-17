@@ -5,7 +5,6 @@
 comments: null
 monster_id: 3017
 monster_name_en: War Machine Emperor, Another Geist
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Reduce damage from Light, Dark by 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Absorb combo <= 5 damage for 99 turns + Lock all Light, Dark orbs (Preemptive)
   max_atk_pct: null
   name_en: Darkness Flame + Power Claw
-  name_jp: ダークネスフレーム + パワークロウ
   one_time: 6
   record_type_name: PREEMPT
   usage_pct: 100
@@ -39,7 +36,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -48,7 +44,6 @@ records:
   desc_jp: Reduce damage from all sources by 75% for 3 turns
   max_atk_pct: null
   name_en: Gun Metallic Armor
-  name_jp: ガンメタリックアーマー
   one_time: 4
   record_type_name: ACTION
   usage_pct: 100
@@ -57,7 +52,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -66,7 +60,6 @@ records:
   desc_jp: Blind all orbs on the board, Deal 200% damage
   max_atk_pct: 200
   name_en: Dark Bolt
-  name_jp: ダークボルト
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -75,7 +68,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -84,7 +76,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -93,7 +84,6 @@ records:
   desc_jp: Change Random to Poison, Deal 130% damage
   max_atk_pct: 130
   name_en: Nemesis Claw
-  name_jp: ネメシスクロウ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -102,7 +92,6 @@ records:
   desc_jp: Change Random to Jammer, Deal 130% damage
   max_atk_pct: 130
   name_en: Break Claw
-  name_jp: ブレイククロウ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -111,7 +100,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
-  name_jp: Loop to 1 after. Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -120,7 +108,6 @@ records:
   desc_jp: Lock all Jammer, Poison orbs, Deal 140% damage
   max_atk_pct: 140
   name_en: Evil Grab
-  name_jp: イービルグラブ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -129,7 +116,6 @@ records:
   desc_jp: Lock 10 random Fire, Water, Wood, Light, Dark, Heal orbs, Deal 140% damage
   max_atk_pct: 140
   name_en: Element Grab
-  name_jp: エレメントグラブ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -138,7 +124,6 @@ records:
   desc_jp: Bind active skills for 5 turns, Deal 140% damage
   max_atk_pct: 140
   name_en: High Metal Chain
-  name_jp: ハイメタルチェーン
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -147,7 +132,6 @@ records:
   desc_jp: Deal 160% damage (4 hits, 40% each)
   max_atk_pct: 160
   name_en: Cleave Combo
-  name_jp: クリーブコンボ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -156,7 +140,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 70
-  name_jp: HP < 70
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -165,7 +148,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -174,7 +156,6 @@ records:
   desc_jp: Absorb damage >= 500000 damage for 3 turns + Player -99% HP
   max_atk_pct: null
   name_en: Power Eater + Metal Slicer
-  name_jp: パワーイーター + メタルスライサー
   one_time: 3
   record_type_name: ACTION
   usage_pct: 100
@@ -183,7 +164,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -194,7 +174,6 @@ records:
     Poison orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Power Claw
-  name_jp: パワークロウ
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -203,7 +182,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -212,7 +190,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -221,7 +198,6 @@ records:
   desc_jp: Increase damage to 200% for the next 999 turns
   max_atk_pct: null
   name_en: Increase
-  name_jp: インクリース
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -230,7 +206,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -239,7 +214,6 @@ records:
   desc_jp: Lock all Jammer, Poison orbs, Deal 140% damage
   max_atk_pct: 140
   name_en: Evil Grab
-  name_jp: イービルグラブ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -248,7 +222,6 @@ records:
   desc_jp: Lock 10 random Fire, Water, Wood, Light, Dark, Heal orbs, Deal 140% damage
   max_atk_pct: 140
   name_en: Element Grab
-  name_jp: エレメントグラブ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -257,7 +230,6 @@ records:
   desc_jp: Bind active skills for 5 turns, Deal 140% damage
   max_atk_pct: 140
   name_en: High Metal Chain
-  name_jp: ハイメタルチェーン
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -266,7 +238,6 @@ records:
   desc_jp: Deal 160% damage (4 hits, 40% each)
   max_atk_pct: 160
   name_en: Cleave Combo
-  name_jp: クリーブコンボ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -275,7 +246,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
-  name_jp: Loop to 1 after. Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -284,7 +254,6 @@ records:
   desc_jp: Change Random to Poison, Deal 130% damage
   max_atk_pct: 130
   name_en: Nemesis Claw
-  name_jp: ネメシスクロウ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -293,7 +262,6 @@ records:
   desc_jp: Change Random to Jammer, Deal 130% damage
   max_atk_pct: 130
   name_en: Break Claw
-  name_jp: ブレイククロウ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -302,7 +270,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
-  name_jp: HP < 30
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -311,7 +278,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -320,7 +286,6 @@ records:
   desc_jp: Lock all Jammer, Poison orbs, Deal 140% damage
   max_atk_pct: 140
   name_en: Evil Grab
-  name_jp: イービルグラブ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -329,7 +294,6 @@ records:
   desc_jp: Lock 10 random Fire, Water, Wood, Light, Dark, Heal orbs, Deal 140% damage
   max_atk_pct: 140
   name_en: Element Grab
-  name_jp: エレメントグラブ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -338,7 +302,6 @@ records:
   desc_jp: Deal 200% damage (4 hits, 50% each)
   max_atk_pct: 200
   name_en: Raiden Claw
-  name_jp: ライデンクロウ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -347,7 +310,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
-  name_jp: Loop to 1 after. Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -356,7 +318,6 @@ records:
   desc_jp: Spawn random 4 Jammer, Poison orbs, Deal 130% damage
   max_atk_pct: 130
   name_en: Destruction Claw
-  name_jp: デストラクションクロウ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -365,7 +326,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 15
-  name_jp: HP < 15
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -376,7 +336,6 @@ records:
     orbs, Deal 1000% damage
   max_atk_pct: 1000
   name_en: Ultimate Skewer
-  name_jp: アルティメットスキューア
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -393,7 +352,6 @@ records:
   desc_jp: Reduce damage from Light, Dark by 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -402,7 +360,6 @@ records:
   desc_jp: Absorb combo <= 5 damage for 99 turns + Lock all Light, Dark orbs (Preemptive)
   max_atk_pct: null
   name_en: Darkness Flame + Power Claw
-  name_jp: ダークネスフレーム + パワークロウ
   one_time: 6
   record_type_name: PREEMPT
   usage_pct: 100
@@ -411,7 +368,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -420,7 +376,6 @@ records:
   desc_jp: Reduce damage from all sources by 75% for 3 turns
   max_atk_pct: null
   name_en: Gun Metallic Armor
-  name_jp: ガンメタリックアーマー
   one_time: 4
   record_type_name: ACTION
   usage_pct: 100
@@ -429,7 +384,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -438,7 +392,6 @@ records:
   desc_jp: Blind all orbs on the board, Deal 200% damage
   max_atk_pct: 200
   name_en: Dark Bolt
-  name_jp: ダークボルト
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -447,7 +400,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -456,7 +408,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -465,7 +416,6 @@ records:
   desc_jp: Change Random to Poison, Deal 130% damage
   max_atk_pct: 130
   name_en: Nemesis Claw
-  name_jp: ネメシスクロウ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -474,7 +424,6 @@ records:
   desc_jp: Change Random to Jammer, Deal 130% damage
   max_atk_pct: 130
   name_en: Break Claw
-  name_jp: ブレイククロウ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -483,7 +432,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
-  name_jp: Loop to 1 after. Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -492,7 +440,6 @@ records:
   desc_jp: Lock all Jammer, Poison orbs, Deal 140% damage
   max_atk_pct: 140
   name_en: Evil Grab
-  name_jp: イービルグラブ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -501,7 +448,6 @@ records:
   desc_jp: Lock 10 random Fire, Water, Wood, Light, Dark, Heal orbs, Deal 140% damage
   max_atk_pct: 140
   name_en: Element Grab
-  name_jp: エレメントグラブ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -510,7 +456,6 @@ records:
   desc_jp: Bind active skills for 5 turns, Deal 140% damage
   max_atk_pct: 140
   name_en: High Metal Chain
-  name_jp: ハイメタルチェーン
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -519,7 +464,6 @@ records:
   desc_jp: Deal 160% damage (4 hits, 40% each)
   max_atk_pct: 160
   name_en: Cleave Combo
-  name_jp: クリーブコンボ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -528,7 +472,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 70
-  name_jp: HP < 70
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -537,7 +480,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -546,7 +488,6 @@ records:
   desc_jp: Absorb damage >= 500000 damage for 3 turns + Player -99% HP
   max_atk_pct: null
   name_en: Power Eater + Metal Slicer
-  name_jp: パワーイーター + メタルスライサー
   one_time: 3
   record_type_name: ACTION
   usage_pct: 100
@@ -555,7 +496,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -566,7 +506,6 @@ records:
     Poison orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Power Claw
-  name_jp: パワークロウ
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -575,7 +514,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -584,7 +522,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -593,7 +530,6 @@ records:
   desc_jp: Increase damage to 200% for the next 999 turns
   max_atk_pct: null
   name_en: Increase
-  name_jp: インクリース
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -602,7 +538,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -611,7 +546,6 @@ records:
   desc_jp: Lock all Jammer, Poison orbs, Deal 140% damage
   max_atk_pct: 140
   name_en: Evil Grab
-  name_jp: イービルグラブ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -620,7 +554,6 @@ records:
   desc_jp: Lock 10 random Fire, Water, Wood, Light, Dark, Heal orbs, Deal 140% damage
   max_atk_pct: 140
   name_en: Element Grab
-  name_jp: エレメントグラブ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -629,7 +562,6 @@ records:
   desc_jp: Bind active skills for 5 turns, Deal 140% damage
   max_atk_pct: 140
   name_en: High Metal Chain
-  name_jp: ハイメタルチェーン
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -638,7 +570,6 @@ records:
   desc_jp: Deal 160% damage (4 hits, 40% each)
   max_atk_pct: 160
   name_en: Cleave Combo
-  name_jp: クリーブコンボ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -647,7 +578,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
-  name_jp: Loop to 1 after. Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -656,7 +586,6 @@ records:
   desc_jp: Change Random to Poison, Deal 130% damage
   max_atk_pct: 130
   name_en: Nemesis Claw
-  name_jp: ネメシスクロウ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -665,7 +594,6 @@ records:
   desc_jp: Change Random to Jammer, Deal 130% damage
   max_atk_pct: 130
   name_en: Break Claw
-  name_jp: ブレイククロウ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -674,7 +602,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
-  name_jp: HP < 30
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -683,7 +610,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -692,7 +618,6 @@ records:
   desc_jp: Lock all Jammer, Poison orbs, Deal 140% damage
   max_atk_pct: 140
   name_en: Evil Grab
-  name_jp: イービルグラブ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -701,7 +626,6 @@ records:
   desc_jp: Lock 10 random Fire, Water, Wood, Light, Dark, Heal orbs, Deal 140% damage
   max_atk_pct: 140
   name_en: Element Grab
-  name_jp: エレメントグラブ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -710,7 +634,6 @@ records:
   desc_jp: Deal 200% damage (4 hits, 50% each)
   max_atk_pct: 200
   name_en: Raiden Claw
-  name_jp: ライデンクロウ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -719,7 +642,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
-  name_jp: Loop to 1 after. Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -728,7 +650,6 @@ records:
   desc_jp: Spawn random 4 Jammer, Poison orbs, Deal 130% damage
   max_atk_pct: 130
   name_en: Destruction Claw
-  name_jp: デストラクションクロウ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -737,7 +658,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 15
-  name_jp: HP < 15
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -748,7 +668,6 @@ records:
     orbs, Deal 1000% damage
   max_atk_pct: 1000
   name_en: Ultimate Skewer
-  name_jp: アルティメットスキューア
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

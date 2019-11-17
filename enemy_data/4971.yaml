@@ -5,7 +5,6 @@
 comments: null
 monster_id: 4971
 monster_name_en: ひも爺
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Absorb combo <= 4 damage for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: ひもじぃ～
-  name_jp: ひもじぃ～
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -39,7 +36,6 @@ records:
   desc_jp: Bind awoken skills for 2 turns (When 1 enemy remains)
   max_atk_pct: null
   name_en: ひもじいのぅ…
-  name_jp: ひもじいのぅ…
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -48,7 +44,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -57,7 +52,6 @@ records:
   desc_jp: Deal 110% damage
   max_atk_pct: 110
   name_en: ひもっ！
-  name_jp: ひもっ！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 40
@@ -66,7 +60,6 @@ records:
   desc_jp: Spawn random 3 Heal orbs, Deal 120% damage
   max_atk_pct: 120
   name_en: メシの時間じゃ！
-  name_jp: メシの時間じゃ！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 40
@@ -75,7 +68,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
-  name_jp: HP < 30
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -84,7 +76,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -93,7 +84,6 @@ records:
   desc_jp: Enemy recover 100% hp
   max_atk_pct: null
   name_en: ひもじインパクト
-  name_jp: ひもじインパクト
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -102,7 +92,6 @@ records:
   desc_jp: Change Random to Water, Deal 100% damage
   max_atk_pct: 100
   name_en: ヨダレが止まら～ん！
-  name_jp: ヨダレが止まら～ん！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -113,7 +102,6 @@ records:
     Poison orbs, Deal 110% damage
   max_atk_pct: 110
   name_en: コレは　ワシのメシじゃ～！
-  name_jp: コレは　ワシのメシじゃ～！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50

@@ -5,7 +5,6 @@
 comments: null
 monster_id: 4080
 monster_name_en: Howling Wolf, Terry Bogard
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Change 5th row to Fire orbs (Preemptive)
   max_atk_pct: null
   name_en: Hey, c'mon c'mon!
-  name_jp: ヘイ、カモン、カモン！
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -39,7 +36,6 @@ records:
   desc_jp: Bind 1 random subs for 2 turns, Deal 70% damage
   max_atk_pct: 70
   name_en: Burning Knuckle
-  name_jp: バーンナックル
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -48,7 +44,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -57,7 +52,6 @@ records:
   desc_jp: Change 4th column to Fire orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Crack Shoot
-  name_jp: クラックシュート
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -66,7 +60,6 @@ records:
   desc_jp: Deal 105% damage (7 hits, 15% each)
   max_atk_pct: 105
   name_en: Rising Tackle
-  name_jp: ライジングタックル
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -75,7 +68,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -84,7 +76,6 @@ records:
   desc_jp: Bind 1 random subs for 2 turns, Deal 70% damage
   max_atk_pct: 70
   name_en: Burning Knuckle
-  name_jp: バーンナックル
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -93,7 +84,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
-  name_jp: Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -102,7 +92,6 @@ records:
   desc_jp: Change 4th column to Fire orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Crack Shoot
-  name_jp: クラックシュート
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -111,7 +100,6 @@ records:
   desc_jp: Deal 105% damage (7 hits, 15% each)
   max_atk_pct: 105
   name_en: Rising Tackle
-  name_jp: ライジングタックル
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -120,7 +108,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
-  name_jp: Turn 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -129,7 +116,6 @@ records:
   desc_jp: Bind 1 random subs for 2 turns, Deal 70% damage
   max_atk_pct: 70
   name_en: Burning Knuckle
-  name_jp: バーンナックル
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -138,7 +124,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6
-  name_jp: Turn 6
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -147,7 +132,6 @@ records:
   desc_jp: Change 4th column to Fire orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Crack Shoot
-  name_jp: クラックシュート
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -156,7 +140,6 @@ records:
   desc_jp: Deal 105% damage (7 hits, 15% each)
   max_atk_pct: 105
   name_en: Rising Tackle
-  name_jp: ライジングタックル
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -165,7 +148,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 7
-  name_jp: Turn 7
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -174,7 +156,6 @@ records:
   desc_jp: Bind 1 random subs for 2 turns, Deal 70% damage
   max_atk_pct: 70
   name_en: Burning Knuckle
-  name_jp: バーンナックル
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -183,7 +164,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 8
-  name_jp: Turn 8
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -192,7 +172,6 @@ records:
   desc_jp: Change 4th column to Fire orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Crack Shoot
-  name_jp: クラックシュート
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -201,7 +180,6 @@ records:
   desc_jp: Deal 105% damage (7 hits, 15% each)
   max_atk_pct: 105
   name_en: Rising Tackle
-  name_jp: ライジングタックル
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -210,7 +188,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 9
-  name_jp: Turn 9
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -219,7 +196,6 @@ records:
   desc_jp: Bind 1 random subs for 2 turns, Deal 70% damage
   max_atk_pct: 70
   name_en: Burning Knuckle
-  name_jp: バーンナックル
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -228,7 +204,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 10
-  name_jp: Turn 10
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -237,7 +212,6 @@ records:
   desc_jp: Change 4th column to Fire orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Crack Shoot
-  name_jp: クラックシュート
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -246,7 +220,6 @@ records:
   desc_jp: Deal 105% damage (7 hits, 15% each)
   max_atk_pct: 105
   name_en: Rising Tackle
-  name_jp: ライジングタックル
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -255,7 +228,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 11
-  name_jp: Turn 11
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -264,7 +236,6 @@ records:
   desc_jp: Deal 350% damage
   max_atk_pct: 350
   name_en: High Angle Geyser
-  name_jp: ハイアングルゲイザー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -273,7 +244,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -282,7 +252,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -291,7 +260,6 @@ records:
   desc_jp: Bind 1 random subs for 2 turns, Deal 70% damage
   max_atk_pct: 70
   name_en: Burning Knuckle
-  name_jp: バーンナックル
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -300,7 +268,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
-  name_jp: Loop to 1 after. Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -309,7 +276,6 @@ records:
   desc_jp: Change 4th column to Fire orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Crack Shoot
-  name_jp: クラックシュート
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -318,7 +284,6 @@ records:
   desc_jp: Deal 105% damage (7 hits, 15% each)
   max_atk_pct: 105
   name_en: Rising Tackle
-  name_jp: ライジングタックル
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -327,7 +292,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 25
-  name_jp: HP < 25
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -336,7 +300,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1-10
-  name_jp: Turn 1-10
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -345,7 +308,6 @@ records:
   desc_jp: Change 2nd column to Fire orbs, 4th column to Fire orbs, Deal 140% damage
   max_atk_pct: 140
   name_en: Power Geyser
-  name_jp: パワーゲイザー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -354,7 +316,6 @@ records:
   desc_jp: Change 2nd column to Fire orbs, 4th column to Fire orbs, Deal 140% damage
   max_atk_pct: 140
   name_en: Power Geyser
-  name_jp: パワーゲイザー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

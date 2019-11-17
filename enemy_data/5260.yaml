@@ -5,7 +5,6 @@
 comments: null
 monster_id: 5260
 monster_name_en: Lyserg Diethel
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Absorb combo <= 3 damage for 3 turns (Preemptive)
   max_atk_pct: null
   name_en: I'm pleased to make your acquaintance.
-  name_jp: よろしくね
   one_time: 1
   record_type_name: PREEMPT
   usage_pct: 100
@@ -32,7 +30,6 @@ records:
     damage
   max_atk_pct: 100
   name_en: Homing Pendulum
-  name_jp: ホーミングペンデュラム
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -41,7 +38,6 @@ records:
   desc_jp: Random 1 orbs change every 2.0s for 1 turns, Deal 90% damage
   max_atk_pct: 90
   name_en: I have to put them to the test.
-  name_jp: 試させてもらう
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -52,7 +48,6 @@ records:
   name_en: 'You''ll have to fight me whether
 
     you want to or not!'
-  name_jp: いやでも戦ってもらうぞ!!
   one_time: 0
   record_type_name: ACTION
   usage_pct: 34
@@ -61,7 +56,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -70,7 +64,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -79,7 +72,6 @@ records:
   desc_jp: Increase damage to 150% for the next 5 turns
   max_atk_pct: null
   name_en: Now I'm going to get serious!
-  name_jp: ここからは本気でいかせてもらう!!
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -88,7 +80,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 15
-  name_jp: HP <= 15
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -99,7 +90,6 @@ records:
     Poison orbs + Deal 200% damage (5 hits, 40% each)
   max_atk_pct: null
   name_en: Take this!! + Big Ben Wire Frame!!!
-  name_jp: くらうがいい!!我が郷愁の + ビッグベンワイヤーフレームを!!!
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

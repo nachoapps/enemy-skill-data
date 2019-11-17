@@ -5,7 +5,6 @@
 comments: null
 monster_id: 5355
 monster_name_en: 魔曲の揮龍楽士・ディオロ
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Voids status ailments for 7 turns + Movetime 75% for 7 turns (Preemptive)
   max_atk_pct: null
   name_en: 我が演奏を聴くがよい + 序曲
-  name_jp: 我が演奏を聴くがよい + 序曲
   one_time: 64
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -39,7 +36,6 @@ records:
   desc_jp: Blind all orbs on the board + Deal 100% damage
   max_atk_pct: null
   name_en: 第一楽章 + ラルゴ
-  name_jp: 第一楽章 + ラルゴ
   one_time: 32
   record_type_name: ACTION
   usage_pct: 100
@@ -48,7 +44,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -57,7 +52,6 @@ records:
   desc_jp: Spawn Bomb orbs in the specified positions
   max_atk_pct: null
   name_en: アタッカ
-  name_jp: アタッカ
   one_time: 16
   record_type_name: ACTION
   usage_pct: 100
@@ -66,7 +60,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -75,7 +68,6 @@ records:
   desc_jp: Random 2 orbs change every 1.0s for 1 turns + Deal 125% damage
   max_atk_pct: null
   name_en: 第二楽章 + フェローチェ
-  name_jp: 第二楽章 + フェローチェ
   one_time: 8
   record_type_name: ACTION
   usage_pct: 100
@@ -84,7 +76,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
-  name_jp: Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -93,7 +84,6 @@ records:
   desc_jp: Bind awoken skills for 1 turns
   max_atk_pct: null
   name_en: 前奏曲
-  name_jp: 前奏曲
   one_time: 4
   record_type_name: ACTION
   usage_pct: 100
@@ -102,7 +92,6 @@ records:
   desc_jp: Spawn random 8 Jammer orbs + Deal 150% damage
   max_atk_pct: null
   name_en: 第三楽章 + アンダンテ
-  name_jp: 第三楽章 + アンダンテ
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -111,7 +100,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
-  name_jp: Turn 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -120,7 +108,6 @@ records:
   desc_jp: Spawn random 8 Jammer orbs + Deal 150% damage
   max_atk_pct: null
   name_en: 第三楽章 + アンダンテ
-  name_jp: 第三楽章 + アンダンテ
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -129,7 +116,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6
-  name_jp: Turn 6
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -138,7 +124,6 @@ records:
   desc_jp: Locked random skyfall +100% for 1 turns
   max_atk_pct: null
   name_en: コーダ
-  name_jp: コーダ
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -147,7 +132,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -156,7 +140,6 @@ records:
   desc_jp: Bind 1 both leaders for 1 turns + Deal 300% damage (3 hits, 100% each)
   max_atk_pct: null
   name_en: 終楽章 + グランディオーソ
-  name_jp: 終楽章 + グランディオーソ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -165,7 +148,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -174,7 +156,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -183,7 +164,6 @@ records:
   desc_jp: Player -99% HP
   max_atk_pct: null
   name_en: 変奏曲
-  name_jp: 変奏曲
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -192,7 +172,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -201,7 +180,6 @@ records:
   desc_jp: Blind all orbs on the board + Deal 100% damage
   max_atk_pct: null
   name_en: 第一楽章 + ラルゴ
-  name_jp: 第一楽章 + ラルゴ
   one_time: 32
   record_type_name: ACTION
   usage_pct: 100
@@ -210,7 +188,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -219,7 +196,6 @@ records:
   desc_jp: Spawn Bomb orbs in the specified positions
   max_atk_pct: null
   name_en: アタッカ
-  name_jp: アタッカ
   one_time: 16
   record_type_name: ACTION
   usage_pct: 100
@@ -228,7 +204,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
-  name_jp: Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -237,7 +212,6 @@ records:
   desc_jp: Random 2 orbs change every 1.0s for 1 turns + Deal 125% damage
   max_atk_pct: null
   name_en: 第二楽章 + フェローチェ
-  name_jp: 第二楽章 + フェローチェ
   one_time: 8
   record_type_name: ACTION
   usage_pct: 100
@@ -246,7 +220,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
-  name_jp: Turn 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -255,7 +228,6 @@ records:
   desc_jp: Bind awoken skills for 1 turns
   max_atk_pct: null
   name_en: 前奏曲
-  name_jp: 前奏曲
   one_time: 4
   record_type_name: ACTION
   usage_pct: 100
@@ -264,7 +236,6 @@ records:
   desc_jp: Spawn random 8 Jammer orbs + Deal 150% damage
   max_atk_pct: null
   name_en: 第三楽章 + アンダンテ
-  name_jp: 第三楽章 + アンダンテ
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -273,7 +244,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6
-  name_jp: Turn 6
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -282,7 +252,6 @@ records:
   desc_jp: Spawn random 8 Jammer orbs + Deal 150% damage
   max_atk_pct: null
   name_en: 第三楽章 + アンダンテ
-  name_jp: 第三楽章 + アンダンテ
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -291,7 +260,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 7
-  name_jp: Turn 7
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -300,7 +268,6 @@ records:
   desc_jp: Locked random skyfall +100% for 1 turns
   max_atk_pct: null
   name_en: コーダ
-  name_jp: コーダ
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100

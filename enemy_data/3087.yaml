@@ -5,7 +5,6 @@
 comments: null
 monster_id: 3087
 monster_name_en: Lovely Dragon Caller, Ana
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings:
 - Found 1 unused actions
@@ -24,7 +23,6 @@ records:
     Deal 80% damage (Preemptive)
   max_atk_pct: null
   name_en: Monsters! + Dragon Summoning!!!
-  name_jp: モンスターのみんな！ + 龍喚!!!!
   one_time: 1
   record_type_name: PREEMPT
   usage_pct: 34
@@ -35,7 +33,6 @@ records:
     Deal 80% damage (Preemptive)
   max_atk_pct: null
   name_en: Monsters! + Dragon Summoning!!!
-  name_jp: モンスターのみんな！ + 龍喚!!!!
   one_time: 1
   record_type_name: PREEMPT
   usage_pct: 50
@@ -46,7 +43,6 @@ records:
     80% damage (Preemptive)
   max_atk_pct: null
   name_en: Monsters! + Dragon Summoning!!!
-  name_jp: モンスターのみんな！ + 龍喚!!!!
   one_time: 1
   record_type_name: PREEMPT
   usage_pct: 100
@@ -55,7 +51,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1-2
-  name_jp: Execute repeatedly. Turn 1-2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -64,7 +59,6 @@ records:
   desc_jp: Player -50% HP + Deal 60% damage (3 hits, 20% each)
   max_atk_pct: null
   name_en: Heat Breath + 3 combos ♪
-  name_jp: ヒートブレス + 3コンボ♪
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -75,7 +69,6 @@ records:
     each)
   max_atk_pct: null
   name_en: Ice Blade + 3 combos ♪
-  name_jp: 氷の刃 + 3コンボ♪
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -84,7 +77,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 3
-  name_jp: Loop to 1 after. Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -95,7 +87,6 @@ records:
     + Reduce damage from all sources by 50% for 2 turns
   max_atk_pct: null
   name_en: Dragon Summoning!!! + The Monsters block the way
-  name_jp: 龍喚!!!! + モンスターたちが立ちはだかる
   one_time: 0
   record_type_name: ACTION
   usage_pct: 34
@@ -106,7 +97,6 @@ records:
     + Reduce damage from all sources by 50% for 2 turns
   max_atk_pct: null
   name_en: Dragon Summoning!!! + The Monsters block the way
-  name_jp: 龍喚!!!! + モンスターたちが立ちはだかる
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -117,7 +107,6 @@ records:
     + Reduce damage from all sources by 50% for 2 turns
   max_atk_pct: null
   name_en: Dragon Summoning!!! + The Monsters block the way
-  name_jp: 龍喚!!!! + モンスターたちが立ちはだかる
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -126,7 +115,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
-  name_jp: HP < 20
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -135,7 +123,6 @@ records:
   desc_jp: Delay active skills by 3 turns + Deal 200% damage (10 hits, 20% each)
   max_atk_pct: null
   name_en: Ana starts crying + 10 combos!!
-  name_jp: アナの瞳が潤んでいる + 10コンボ!!
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

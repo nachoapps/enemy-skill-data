@@ -5,7 +5,6 @@
 comments: null
 monster_id: 100110
 monster_name_en: Vampire
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -24,7 +23,6 @@ records:
   max_atk_pct: null
   name_en: You came to meet the Demon Lord? + I doubt you'll make it through + Here,
     this should come in handy + You're in for a fight now!
-  name_jp: 魔王様に会いに来たのか？ + たどり着けるか怪しいものだが + 必ず役に立つはずだ + まぁせいぜい頑張ってみるのだな
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100

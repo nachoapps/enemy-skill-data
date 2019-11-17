@@ -5,7 +5,6 @@
 comments: null
 monster_id: 1362
 monster_name_en: Hidden Sea Dragon Knight, Cleopatra
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Voids status ailments for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: Egotistical Healing
-  name_jp: エゴイストヒール
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Change Random to Heal, Deal 125% damage
   max_atk_pct: 125
   name_en: Whip of Love
-  name_jp: 愛のムチ
   one_time: 1
   record_type_name: ACTION
   usage_pct: 50
@@ -39,7 +36,6 @@ records:
   desc_jp: Change Random to Water, Deal 100% damage
   max_atk_pct: 100
   name_en: Water Orb Kick
-  name_jp: 水ドロップキック
   one_time: 0
   record_type_name: ACTION
   usage_pct: 30
@@ -48,7 +44,6 @@ records:
   desc_jp: Deal 150% damage (3 hits, 50% each)
   max_atk_pct: 150
   name_en: Blue Dragon Screw
-  name_jp: ブルードラゴンスクリュー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 40
@@ -57,7 +52,6 @@ records:
   desc_jp: Bind friend leader for 1 turns, Deal 50% damage
   max_atk_pct: 50
   name_en: Frozen Cobra Twist
-  name_jp: 氷結コブラツイスト
   one_time: 0
   record_type_name: ACTION
   usage_pct: 60
@@ -66,7 +60,6 @@ records:
   desc_jp: Blind all orbs on the board, Deal 75% damage
   max_atk_pct: 75
   name_en: Poison Mist
-  name_jp: 毒霧
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -75,7 +68,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -84,7 +76,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -93,7 +84,6 @@ records:
   desc_jp: Do nothing
   max_atk_pct: null
   name_en: Serpent Top
-  name_jp: サーペント・トップ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -102,7 +92,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -111,7 +100,6 @@ records:
   desc_jp: Bind 6 random for 1~2 turns, Deal 25% damage
   max_atk_pct: 25
   name_en: Nile-Style Moonsault Press
-  name_jp: ナイル式ムーンサルトプレス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -120,7 +108,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -129,7 +116,6 @@ records:
   desc_jp: Do nothing
   max_atk_pct: null
   name_en: Now sleep!
-  name_jp: このまま眠りなさい
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -138,7 +124,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
-  name_jp: Loop to 1 after. Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -147,7 +132,6 @@ records:
   desc_jp: Deal 5000% damage
   max_atk_pct: 5000
   name_en: Pinfall
-  name_jp: ピンフォール
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

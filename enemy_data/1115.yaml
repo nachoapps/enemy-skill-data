@@ -5,7 +5,6 @@
 comments: null
 monster_id: 1115
 monster_name_en: Purple Lotus Chanter, Lakshmi
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Player recover 100% hp (Preemptive)
   max_atk_pct: null
   name_en: Welcome! I'm glad you're here.
-  name_jp: ようこそいらっしゃいました
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -39,7 +36,6 @@ records:
   desc_jp: Water skyfall +20% for 99 turns
   max_atk_pct: null
   name_en: Waterways Verification
-  name_jp: 水運の調べ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -48,7 +44,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -57,7 +52,6 @@ records:
   desc_jp: Change Heal to Water, Deal 150% damage
   max_atk_pct: 150
   name_en: Lotus Drop
-  name_jp: 蓮華の雫
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -66,7 +60,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 70
-  name_jp: HP < 70
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -75,7 +68,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -84,7 +76,6 @@ records:
   desc_jp: Leader changes to random sub for 3 turns
   max_atk_pct: null
   name_en: Chanchala
-  name_jp: チャンチャラー
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -93,7 +84,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -102,7 +92,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -111,7 +100,6 @@ records:
   desc_jp: Enemy recover 30% hp, Deal 100% damage
   max_atk_pct: 100
   name_en: Magic Absorbing Eye
-  name_jp: 吸魔の光
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -120,7 +108,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
-  name_jp: HP < 20
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -129,7 +116,6 @@ records:
   desc_jp: Deal 250% damage
   max_atk_pct: 250
   name_en: Wave Current Attack
-  name_jp: 水流の波撃
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

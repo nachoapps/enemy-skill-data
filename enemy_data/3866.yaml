@@ -5,7 +5,6 @@
 comments: null
 monster_id: 3866
 monster_name_en: Island REMDra
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Reduce damage from all sources by 50% for 99 turns (Preemptive)
   max_atk_pct: null
   name_en: Let's enjoy the beach!
-  name_jp: 一緒にパズドラ！
   one_time: 1
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Deal 130% damage
   max_atk_pct: 130
   name_en: Island REM Punch!
-  name_jp: サマーガチャパンチ！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -49,7 +46,6 @@ records:
     5 turns + Reduce damage from all sources by 75% for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: Let's enjoy the beach! + Island Getaway Aura + Pull!
-  name_jp: 夏を楽しもう！ + 常夏のオーラ + さげてね
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -58,7 +54,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -67,7 +62,6 @@ records:
   desc_jp: Reduce damage from all sources by 50% for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Pull it!
-  name_jp: さげてね！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -76,7 +70,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -85,7 +78,6 @@ records:
   desc_jp: Reduce damage from all sources by 50% for 1 turns, Deal 120% damage
   max_atk_pct: 120
   name_en: Come on! Pull!
-  name_jp: さげてね！！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -94,7 +86,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 80
-  name_jp: HP < 80
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -103,7 +94,6 @@ records:
   desc_jp: Do nothing + Change Random to Heal, Deal 150% damage
   max_atk_pct: null
   name_en: It's putting some back into it + Sundial
-  name_jp: スナップを効かせている + サンダイヤル
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -112,7 +102,6 @@ records:
   desc_jp: Do nothing + Change all orbs to Water, Wood, Deal 150% damage
   max_atk_pct: null
   name_en: It's putting some back into it + Sea Draco Summon-Wt & Wd
-  name_jp: スナップを効かせている + 継海召龍陣・水木
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -121,7 +110,6 @@ records:
   desc_jp: Do nothing + Change 3rd, 4th column to Water orbs, Deal 150% damage
   max_atk_pct: null
   name_en: It's putting some back into it + Summer Paradise - Aqua
-  name_jp: スナップを効かせている + サマーパラダイス・アクア
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -130,7 +118,6 @@ records:
   desc_jp: Do nothing + Change all orbs to Water, Wood, Light, Deal 150% damage
   max_atk_pct: null
   name_en: It's putting some back into it + Summer Sea Seven-Star Formation
-  name_jp: スナップを効かせている + 夏海七星陣
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -139,7 +126,6 @@ records:
   desc_jp: Do nothing + Absorb Water, Light damage for 1 turns, Deal 150% damage
   max_atk_pct: 150
   name_en: It's putting some back into it + Lunatic Shot
-  name_jp: スナップを効かせている + ルナティックショット
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -148,7 +134,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 15
-  name_jp: HP < 15
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -157,7 +142,6 @@ records:
   desc_jp: Deal 900% damage (3 hits, 300% each)
   max_atk_pct: 900
   name_en: Throw me some more Magic Stones!
-  name_jp: もっと魔法石食べたい！！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

@@ -5,7 +5,6 @@
 comments: null
 monster_id: 100187
 monster_name_en: Alt. Zeus
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -23,7 +22,6 @@ records:
     Poison orbs + Voids status ailments for 999 turns (Preemptive)
   max_atk_pct: null
   name_en: Supercell + King of Gods' Majesty
-  name_jp: スーパーセル + 神王の威厳
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -32,7 +30,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -41,7 +38,6 @@ records:
   desc_jp: Change Random 6 to Poison, Deal 50% damage + Lock all Mortal Poison orbs
   max_atk_pct: null
   name_en: Poison Lightning + Constrain
-  name_jp: ポイズンライトニング + コンストレイン
   one_time: 3
   record_type_name: ACTION
   usage_pct: 100
@@ -50,7 +46,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2-4
-  name_jp: Loop to 1 after. Turn 2-4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -59,7 +54,6 @@ records:
   desc_jp: Change Heal to Jammer, Deal 70% damage
   max_atk_pct: 70
   name_en: Tera Bolt
-  name_jp: テラボルト
   one_time: 0
   record_type_name: ACTION
   usage_pct: 30
@@ -68,7 +62,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 75
-  name_jp: HP < 75
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -77,7 +70,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -86,7 +78,6 @@ records:
   desc_jp: Change Random 6 to Poison, Deal 50% damage + Lock all Mortal Poison orbs
   max_atk_pct: null
   name_en: Poison Lightning + Constrain
-  name_jp: ポイズンライトニング + コンストレイン
   one_time: 3
   record_type_name: ACTION
   usage_pct: 100
@@ -95,7 +86,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2-4
-  name_jp: Loop to 1 after. Turn 2-4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -104,7 +94,6 @@ records:
   desc_jp: Deal 150% damage
   max_atk_pct: 150
   name_en: Lightning of God
-  name_jp: 神の雷
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -113,7 +102,6 @@ records:
   desc_jp: Change Heal to Jammer, Deal 70% damage
   max_atk_pct: 70
   name_en: Tera Bolt
-  name_jp: テラボルト
   one_time: 0
   record_type_name: ACTION
   usage_pct: 30
@@ -122,7 +110,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -131,7 +118,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -140,7 +126,6 @@ records:
   desc_jp: Change Random 6 to Poison, Deal 50% damage + Lock all Mortal Poison orbs
   max_atk_pct: null
   name_en: Poison Lightning + Constrain
-  name_jp: ポイズンライトニング + コンストレイン
   one_time: 3
   record_type_name: ACTION
   usage_pct: 100
@@ -149,7 +134,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -158,7 +142,6 @@ records:
   desc_jp: Bind God cards for 2~4 turns
   max_atk_pct: null
   name_en: Glare of Zeus
-  name_jp: 神王の眼光
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -167,7 +150,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1-2
-  name_jp: Execute repeatedly. Turn 1-2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -176,7 +158,6 @@ records:
   desc_jp: Deal 150% damage
   max_atk_pct: 150
   name_en: Lightning of God
-  name_jp: 神の雷
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -185,7 +166,6 @@ records:
   desc_jp: Change Heal to Jammer, Deal 70% damage
   max_atk_pct: 70
   name_en: Tera Bolt
-  name_jp: テラボルト
   one_time: 0
   record_type_name: ACTION
   usage_pct: 30
@@ -194,7 +174,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -203,7 +182,6 @@ records:
   desc_jp: Change Random 6 to Poison, Deal 50% damage + Lock all Mortal Poison orbs
   max_atk_pct: null
   name_en: Poison Lightning + Constrain
-  name_jp: ポイズンライトニング + コンストレイン
   one_time: 3
   record_type_name: ACTION
   usage_pct: 100
@@ -212,7 +190,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 4
-  name_jp: Loop to 1 after. Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -221,7 +198,6 @@ records:
   desc_jp: Deal 150% damage
   max_atk_pct: 150
   name_en: Lightning of God
-  name_jp: 神の雷
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -230,7 +206,6 @@ records:
   desc_jp: Change Heal to Jammer, Deal 70% damage
   max_atk_pct: 70
   name_en: Tera Bolt
-  name_jp: テラボルト
   one_time: 0
   record_type_name: ACTION
   usage_pct: 30
@@ -239,7 +214,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
-  name_jp: HP < 20
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -248,7 +222,6 @@ records:
   desc_jp: Deal 250% damage (10 hits, 25% each)
   max_atk_pct: 250
   name_en: Super Nova
-  name_jp: スーパーノヴァ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

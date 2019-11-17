@@ -5,7 +5,6 @@
 comments: null
 monster_id: 4344
 monster_name_en: Campus Idol, Uruka
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings:
 - Found 1 unused actions
@@ -22,7 +21,6 @@ records:
   desc_jp: Reduce damage from Wood by 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -31,7 +29,6 @@ records:
   desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -42,7 +39,6 @@ records:
     50% for 5 turns + Locked random skyfall +15% for 10 turns (Preemptive)
   max_atk_pct: null
   name_en: Thank you for coming! + Have fun! + Cheerings can be heard from the Hall
-  name_jp: 来てくれてありがとうございます + 楽しんでいってくださいね♪ + 会場から歓声が湧き上がる
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -51,7 +47,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -62,7 +57,6 @@ records:
     Poison orbs, Deal 120% damage
   max_atk_pct: 120
   name_en: Fans' Cheering Voices
-  name_jp: ファンの歓声
   one_time: 1
   record_type_name: ACTION
   usage_pct: 25
@@ -71,7 +65,6 @@ records:
   desc_jp: Spawn random 3 Water orbs, Deal 120% damage
   max_atk_pct: 120
   name_en: Penlights' Glow
-  name_jp: ペンライトの明かり
   one_time: 1
   record_type_name: ACTION
   usage_pct: 25
@@ -80,7 +73,6 @@ records:
   desc_jp: Movetime -1s for 1 turns, Deal 120% damage
   max_atk_pct: 120
   name_en: Swinging Towel
-  name_jp: 振り回すタオル
   one_time: 1
   record_type_name: ACTION
   usage_pct: 25
@@ -89,7 +81,6 @@ records:
   desc_jp: Do nothing
   max_atk_pct: null
   name_en: Concert Hall is getting excited
-  name_jp: 会場のボルテージが上がった
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
@@ -98,7 +89,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -107,7 +97,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -116,7 +105,6 @@ records:
   desc_jp: Do nothing
   max_atk_pct: null
   name_en: Concert Hall is going crazy
-  name_jp: 会場のボルテージが最高潮になった
   one_time: 1
   record_type_name: ACTION
   usage_pct: 25
@@ -125,7 +113,6 @@ records:
   desc_jp: Delay active skills by 3 turns, Deal 140% damage
   max_atk_pct: 140
   name_en: Machinery Trouble
-  name_jp: 機材トラブル
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
@@ -134,7 +121,6 @@ records:
   desc_jp: Absorb combo <= 6 damage for 1 turns, Deal 140% damage
   max_atk_pct: 140
   name_en: Tension Up!
-  name_jp: テンションアップ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
@@ -143,7 +129,6 @@ records:
   desc_jp: Jammer skyfall +20% for 1 turns, Deal 140% damage
   max_atk_pct: 140
   name_en: Fans are getting crazy
-  name_jp: ファンが暴れている
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
@@ -152,7 +137,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -161,7 +145,6 @@ records:
   desc_jp: Deal 180% damage (3 hits, 60% each)
   max_atk_pct: 180
   name_en: Triple Penlight
-  name_jp: トリプルペンライト
   one_time: 1
   record_type_name: ACTION
   usage_pct: 60
@@ -170,7 +153,6 @@ records:
   desc_jp: Bind 1 random for 3 turns, Deal 170% damage
   max_atk_pct: 170
   name_en: Overhand Club
-  name_jp: オーバーハンドクラップ
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -179,7 +161,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 3
-  name_jp: Loop to 1 after. Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -188,7 +169,6 @@ records:
   desc_jp: Do nothing
   max_atk_pct: null
   name_en: Concert Hall is getting excited
-  name_jp: 会場のボルテージが上がった
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
@@ -197,7 +177,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -206,7 +185,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -215,7 +193,6 @@ records:
   desc_jp: Increase damage to 200% for the next 999 turns
   max_atk_pct: null
   name_en: Let's get more excited!
-  name_jp: もっと盛り上がりましょう！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -224,7 +201,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -235,7 +211,6 @@ records:
     Poison orbs, Deal 120% damage
   max_atk_pct: 120
   name_en: Fans' Cheering Voices
-  name_jp: ファンの歓声
   one_time: 1
   record_type_name: ACTION
   usage_pct: 25
@@ -244,7 +219,6 @@ records:
   desc_jp: Spawn random 3 Water orbs, Deal 120% damage
   max_atk_pct: 120
   name_en: Penlights' Glow
-  name_jp: ペンライトの明かり
   one_time: 1
   record_type_name: ACTION
   usage_pct: 25
@@ -253,7 +227,6 @@ records:
   desc_jp: Movetime -1s for 1 turns, Deal 120% damage
   max_atk_pct: 120
   name_en: Swinging Towel
-  name_jp: 振り回すタオル
   one_time: 1
   record_type_name: ACTION
   usage_pct: 25
@@ -262,7 +235,6 @@ records:
   desc_jp: Do nothing
   max_atk_pct: null
   name_en: Concert Hall is getting excited
-  name_jp: 会場のボルテージが上がった
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
@@ -271,7 +243,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
-  name_jp: HP < 20
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -280,7 +251,6 @@ records:
   desc_jp: Deal 600% damage (2 hits, 300% each)
   max_atk_pct: 600
   name_en: Last Song
-  name_jp: ラストソング
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -289,7 +259,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Enemy is defeated
-  name_jp: Enemy is defeated
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -298,7 +267,6 @@ records:
   desc_jp: Enemy recover 19% hp
   max_atk_pct: null
   name_en: I'll get serious from now!
-  name_jp: 私の本気、見せちゃうよ～！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

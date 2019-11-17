@@ -5,7 +5,6 @@
 comments: null
 monster_id: 629
 monster_name_en: Seraph of Dawn Lucifer
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -26,7 +25,6 @@ records:
   max_atk_pct: null
   name_en: Pass this trial if you wish to advance + Clear a path with your puzzle
     + Let's start by changing attributes + Come!
-  name_jp: ここを通りたくば、試練を乗り越えろ + パズルで道を切り開くがいい + まずは私の属性を変えてみろ + 来い！
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -35,7 +33,6 @@ records:
   desc_jp: Player -500% HP
   max_atk_pct: null
   name_en: Come at me again!
-  name_jp: 出直してこい
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -44,7 +41,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 50
-  name_jp: HP <= 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -53,7 +49,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -64,7 +59,6 @@ records:
     Wood, Light, Dark, Heal
   max_atk_pct: null
   name_en: Fine then, try to strike me down! + If you can't do it, this ends here!
-  name_jp: いいだろう、では私を倒して見せろ + 出来なければ、ここで終いだ！！
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100

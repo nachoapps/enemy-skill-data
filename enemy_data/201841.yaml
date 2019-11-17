@@ -5,7 +5,6 @@
 comments: null
 monster_id: 201841
 monster_name_en: Giant Arched Sea Dragon King, Volsung
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -23,7 +22,6 @@ records:
     for 99 turns, (if [2442, 2443, 3768, 3769, 4812] on team) (Preemptive)
   max_atk_pct: null
   name_en: Are thou worthy of mine power? + I shall make sure of thy intent!
-  name_jp: 汝ガ預ケルニ足ルカ… + 汝ノ志ヲ見届ケヨウ
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -34,7 +32,6 @@ records:
     for 99 turns (Preemptive)
   max_atk_pct: null
   name_en: Are thou worthy of mine power? + We shall see...
-  name_jp: 汝ガ預ケルニ足ルカ… + 見極メヨウ
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -43,7 +40,6 @@ records:
   desc_jp: Delay active skills by 3 turns
   max_atk_pct: null
   name_en: Power Suction
-  name_jp: パワーサクション
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -52,7 +48,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 90
-  name_jp: HP < 90
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -61,7 +56,6 @@ records:
   desc_jp: Deal 150% damage (3 hits, 50% each)
   max_atk_pct: 150
   name_en: Vortex Breath
-  name_jp: ボルテックスブレス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -70,7 +64,6 @@ records:
   desc_jp: Change 3rd row to Water orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Press Wave
-  name_jp: プレスウェーブ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -79,7 +72,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 65
-  name_jp: HP < 65
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -88,7 +80,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -97,7 +88,6 @@ records:
   desc_jp: Absorb Wood damage for 3 turns
   max_atk_pct: null
   name_en: Anti-Plant
-  name_jp: アンチプラント
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -106,7 +96,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -115,7 +104,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -124,7 +112,6 @@ records:
   desc_jp: Player -99% HP + Bind active skills for 10 turns
   max_atk_pct: null
   name_en: Flare Tick Explosion + Sea King's Eye
-  name_jp: フレアティックエクスプロージョン + 海王眼
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -133,7 +120,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
-  name_jp: HP < 20
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -142,7 +128,6 @@ records:
   desc_jp: Deal 500% damage (5 hits, 100% each)
   max_atk_pct: 500
   name_en: Flare Stream
-  name_jp: フレアストリーム
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -151,7 +136,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Enemy is defeated
-  name_jp: Enemy is defeated
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -162,7 +146,6 @@ records:
     damage
   max_atk_pct: null
   name_en: Wrath of Water + Swirl Cage
-  name_jp: 水逆鱗 + 渦檻
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

@@ -5,7 +5,6 @@
 comments: null
 monster_id: 5055
 monster_name_en: 7-Year Anniversary TAMADRA
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Do nothing (Preemptive)
   max_atk_pct: null
   name_en: 7周年ありがとたまぁ～！
-  name_jp: 7周年ありがとたまぁ～！
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Do nothing
   max_atk_pct: null
   name_en: まだまだよろしくたまぁ～！
-  name_jp: まだまだよろしくたまぁ～！
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100

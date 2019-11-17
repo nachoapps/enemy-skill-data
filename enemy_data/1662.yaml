@@ -5,7 +5,6 @@
 comments: null
 monster_id: 1662
 monster_name_en: Goddess of the Starry Sky, Nut
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -38,7 +36,6 @@ records:
   desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -49,7 +46,6 @@ records:
     status ailments for 999 turns (Preemptive)
   max_atk_pct: null
   name_en: Swirling Black Emotions + Threat Removal + Quat Dafiea Easifah
-  name_jp: 黒く渦巻く心情 + 除かれし脅威 + クッワトダーフィアアーセファ
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -58,7 +54,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -69,7 +64,6 @@ records:
     Deal 100% damage
   max_atk_pct: null
   name_en: Exploding Heresy + Look of False Evil
-  name_jp: 魔導爆裂 + 偽悪の眼差し
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -78,7 +72,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -87,7 +80,6 @@ records:
   desc_jp: Spawn random 5 locked Bomb orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Khunbala Rogzu
-  name_jp: クンバラログズ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -96,7 +88,6 @@ records:
   desc_jp: Spawn random 8 Jammer orbs, Deal 110% damage
   max_atk_pct: 110
   name_en: Nuqta Mahjur
-  name_jp: ノクタマハジュール
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -105,7 +96,6 @@ records:
   desc_jp: Deal 120% damage (4 hits, 30% each)
   max_atk_pct: 120
   name_en: Geela Ahsefah
-  name_jp: ギーラアーセファ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 34
@@ -114,7 +104,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
-  name_jp: HP < 10
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -123,7 +112,6 @@ records:
   desc_jp: Deal 400% damage (4 hits, 100% each)
   max_atk_pct: 400
   name_en: Torrent of Magical Powers
-  name_jp: 魔力の奔流
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -132,7 +120,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Enemy is defeated
-  name_jp: Enemy is defeated
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -141,7 +128,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -150,7 +136,6 @@ records:
   desc_jp: Bind awoken skills for 2 turns + Bind active skills for 2 turns
   max_atk_pct: null
   name_en: Breaking Distance + Delusion and Doubt
-  name_jp: 砕かれし路程 + 惑いし疑心
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

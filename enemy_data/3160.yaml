@@ -5,7 +5,6 @@
 comments: null
 monster_id: 3160
 monster_name_en: Fire Mode, Pepper
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Do nothing (Preemptive)
   max_atk_pct: null
   name_en: It's me Pepper! How are you?
-  name_jp: お元気ですか？Pepperです
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Do nothing
   max_atk_pct: null
   name_en: Dancing the night away!
-  name_jp: サンバってとっても楽しいですね！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -39,7 +36,6 @@ records:
   desc_jp: Do nothing
   max_atk_pct: null
   name_en: Let's line up Orbs!
-  name_jp: どんどんドロップを消しましょう
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

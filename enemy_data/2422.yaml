@@ -5,7 +5,6 @@
 comments: null
 monster_id: 2422
 monster_name_en: Musical Winged Mechanical Star God, Pollux
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Reduce damage from God, Machine by 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -38,7 +36,6 @@ records:
   desc_jp: Reduce damage from God, Machine by 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -47,7 +44,6 @@ records:
   desc_jp: Seal 1st row for 5 turns + Absorb Water, Dark damage for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: Don't even try to get closer + Creation of Antibody
-  name_jp: これ以上近づかないで下さい + 抗体を生成します
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -56,7 +52,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1-4
-  name_jp: Turn 1-4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -65,7 +60,6 @@ records:
   desc_jp: Change Heal to Light, Deal 110% damage
   max_atk_pct: 110
   name_en: White Out
-  name_jp: ホワイトアウト
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -74,7 +68,6 @@ records:
   desc_jp: Lock all Water, Dark orbs, Deal 105% damage
   max_atk_pct: 105
   name_en: Restraining Star
-  name_jp: リストレイントスター
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -83,7 +76,6 @@ records:
   desc_jp: Deal 120% damage (4 hits, 30% each)
   max_atk_pct: 120
   name_en: Star Quasar
-  name_jp: スタークエーサー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 34
@@ -92,7 +84,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
-  name_jp: Turn 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -101,7 +92,6 @@ records:
   desc_jp: Absorb damage >= 2000000 damage for 5 turns
   max_atk_pct: null
   name_en: Gigantic Power Shield
-  name_jp: 膨大な力は封じます
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -110,7 +100,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6-9
-  name_jp: Turn 6-9
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -119,7 +108,6 @@ records:
   desc_jp: Change Heal to Light, Deal 110% damage
   max_atk_pct: 110
   name_en: White Out
-  name_jp: ホワイトアウト
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -128,7 +116,6 @@ records:
   desc_jp: Lock all Water, Dark orbs, Deal 105% damage
   max_atk_pct: 105
   name_en: Restraining Star
-  name_jp: リストレイントスター
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -137,7 +124,6 @@ records:
   desc_jp: Deal 120% damage (4 hits, 30% each)
   max_atk_pct: 120
   name_en: Star Quasar
-  name_jp: スタークエーサー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 34
@@ -146,7 +132,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 10
-  name_jp: Turn 10
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -155,7 +140,6 @@ records:
   desc_jp: Reduce damage from all sources by 75% for 99 turns
   max_atk_pct: null
   name_en: Divine Protection from the Gods
-  name_jp: 神のご加護を
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -164,7 +148,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -173,7 +156,6 @@ records:
   desc_jp: Change Heal to Light, Deal 110% damage
   max_atk_pct: 110
   name_en: White Out
-  name_jp: ホワイトアウト
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -182,7 +164,6 @@ records:
   desc_jp: Lock all Water, Dark orbs, Deal 105% damage
   max_atk_pct: 105
   name_en: Restraining Star
-  name_jp: リストレイントスター
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -191,7 +172,6 @@ records:
   desc_jp: Deal 120% damage (4 hits, 30% each)
   max_atk_pct: 120
   name_en: Star Quasar
-  name_jp: スタークエーサー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 34
@@ -200,7 +180,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
-  name_jp: HP < 10
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -209,7 +188,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1-4
-  name_jp: Turn 1-4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -218,7 +196,6 @@ records:
   desc_jp: Deal 250% damage (5 hits, 50% each)
   max_atk_pct: 250
   name_en: Shooting Snow White
-  name_jp: シューティングスノーホワイト
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -227,7 +204,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6-9
-  name_jp: Turn 6-9
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -236,7 +212,6 @@ records:
   desc_jp: Deal 250% damage (5 hits, 50% each)
   max_atk_pct: 250
   name_en: Shooting Snow White
-  name_jp: シューティングスノーホワイト
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -245,7 +220,6 @@ records:
   desc_jp: Deal 250% damage (5 hits, 50% each)
   max_atk_pct: 250
   name_en: Shooting Snow White
-  name_jp: シューティングスノーホワイト
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

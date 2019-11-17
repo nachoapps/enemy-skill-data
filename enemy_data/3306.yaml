@@ -5,7 +5,6 @@
 comments: null
 monster_id: 3306
 monster_name_en: Glauca
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Reduce damage from Light by 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Absorb combo <= 5 damage for 3 turns (Preemptive)
   max_atk_pct: null
   name_en: "Here is your peace - \nby steel's swift descent!"
-  name_jp: 我が剣で断ち切ってくれよう！
   one_time: 32
   record_type_name: PREEMPT
   usage_pct: 100
@@ -39,7 +36,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -48,7 +44,6 @@ records:
   desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: Regular Attack
-  name_jp: 通常攻撃
   one_time: 16
   record_type_name: ACTION
   usage_pct: 100
@@ -57,7 +52,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -66,7 +60,6 @@ records:
   desc_jp: Change 2nd row to Dark orbs, Deal 150% damage
   max_atk_pct: 150
   name_en: Who do you pray to?
-  name_jp: 誰に捧げる祈りだ？
   one_time: 8
   record_type_name: ACTION
   usage_pct: 100
@@ -75,7 +68,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -84,7 +76,6 @@ records:
   desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: Regular Attack
-  name_jp: 通常攻撃
   one_time: 4
   record_type_name: ACTION
   usage_pct: 100
@@ -93,7 +84,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
-  name_jp: Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -102,7 +92,6 @@ records:
   desc_jp: Change 2nd column to Dark orbs, Deal 150% damage
   max_atk_pct: 150
   name_en: Abandon your prayers.
-  name_jp: 祈りなど捨てるがよい
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -111,7 +100,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
-  name_jp: Turn 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -120,7 +108,6 @@ records:
   desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: Regular Attack
-  name_jp: 通常攻撃
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -129,7 +116,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -138,7 +124,6 @@ records:
   desc_jp: Deal 600% damage (3 hits, 200% each)
   max_atk_pct: 600
   name_en: You are out of time.
-  name_jp: もう終わりだ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

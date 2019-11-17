@@ -5,7 +5,6 @@
 comments: null
 monster_id: 3157
 monster_name_en: Flash Machine Emperor, Another Crusader
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings:
 - Found 1 unused actions
@@ -22,7 +21,6 @@ records:
   desc_jp: Reduce damage from Fire by 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -33,7 +31,6 @@ records:
     (Preemptive)
   max_atk_pct: null
   name_en: To think it would come to this.... + Baum Biene
-  name_jp: この姿を見せることになるとはな + バウムビーネ
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -42,7 +39,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -51,7 +47,6 @@ records:
   desc_jp: Spawn random 4 Heal orbs, Deal 120% damage
   max_atk_pct: 120
   name_en: Luft Schwert
-  name_jp: ルフトシュヴェールト
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -60,7 +55,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
-  name_jp: Loop to 1 after. Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -69,7 +63,6 @@ records:
   desc_jp: Change all orbs to Jammer, Deal 170% damage
   max_atk_pct: 170
   name_en: Gewitter Klinge
-  name_jp: ゲヴィッタークリンゲ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -78,7 +71,6 @@ records:
   desc_jp: Change all orbs to Mortal Poison, Deal 100% damage
   max_atk_pct: 100
   name_en: Sturm Wind
-  name_jp: シュトゥルムヴィント
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -87,7 +79,6 @@ records:
   desc_jp: Change 3rd, 4th column to Water, Wood, Poison orbs, Deal 150% damage
   max_atk_pct: 150
   name_en: Wirbel Lanze
-  name_jp: ヴィアベルランツェ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -96,7 +87,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 70
-  name_jp: HP < 70
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -105,7 +95,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1-3
-  name_jp: Turn 1-3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -114,7 +103,6 @@ records:
   desc_jp: Poison skyfall +15% for 10 turns
   max_atk_pct: null
   name_en: Tot Regen
-  name_jp: トートレーゲン
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -123,7 +111,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -132,7 +119,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -141,7 +127,6 @@ records:
   desc_jp: Reduce damage from all sources by 50% for 5 turns
   max_atk_pct: null
   name_en: Starr Schild
-  name_jp: シュタールシルト
   one_time: 3
   record_type_name: ACTION
   usage_pct: 100
@@ -150,7 +135,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 15
-  name_jp: HP < 15
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -159,7 +143,6 @@ records:
   desc_jp: Deal 3500% damage (5 hits, 700% each)
   max_atk_pct: 3500
   name_en: Eisen Ärger
-  name_jp: アイゼンエルガー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

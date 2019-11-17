@@ -5,7 +5,6 @@
 comments: null
 monster_id: 100078
 monster_name_en: Alt. Flame Golem
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Random 2 orbs change every 1.0s for 2 turns (Preemptive)
   max_atk_pct: null
   name_en: Variety Flare
-  name_jp: バライアティフレア
   one_time: 1
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Spawn random 1 Fire orbs, Deal 400% damage
   max_atk_pct: 400
   name_en: Burning Punch
-  name_jp: バーンパンチ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

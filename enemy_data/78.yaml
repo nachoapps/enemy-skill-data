@@ -5,7 +5,6 @@
 comments: null
 monster_id: 78
 monster_name_en: Flame Golem
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Deal 2000% damage (2 hits, 1000% each)
   max_atk_pct: 2000
   name_en: Boost Knuckle
-  name_jp: ブーストナックル
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

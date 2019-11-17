@@ -5,7 +5,6 @@
 comments: null
 monster_id: 103625
 monster_name_en: Warlock, Fei Wang Reed
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -23,7 +22,6 @@ records:
     (Preemptive)
   max_atk_pct: null
   name_en: You're nothing more than a puppet! + Death Seal
-  name_jp: 傀儡の分際で！ + 死の刻印
   one_time: 1
   record_type_name: PREEMPT
   usage_pct: 100
@@ -34,7 +32,6 @@ records:
     team) (Preemptive)
   max_atk_pct: null
   name_en: I shall erase you from all dimensions! + Death Seal
-  name_jp: 全ての次元から消し去ってくれる！ + 死の刻印
   one_time: 1
   record_type_name: PREEMPT
   usage_pct: 100
@@ -43,7 +40,6 @@ records:
   desc_jp: Voids status ailments for 4 turns + Player -99% HP (Preemptive)
   max_atk_pct: null
   name_en: Let me grant your wish + Death Seal
-  name_jp: 願いを叶える為に + 死の刻印
   one_time: 1
   record_type_name: PREEMPT
   usage_pct: 100
@@ -52,7 +48,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -61,7 +56,6 @@ records:
   desc_jp: Spawn random 3 Jammer orbs
   max_atk_pct: null
   name_en: Black wings overturn the corpses
-  name_jp: 黒い羽根が躯を覆っていく
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -70,7 +64,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -79,7 +72,6 @@ records:
   desc_jp: Spawn random 6 Jammer orbs
   max_atk_pct: null
   name_en: Black wings overturn the corpses
-  name_jp: 黒い羽根が躯を覆っていく
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -88,7 +80,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -97,7 +88,6 @@ records:
   desc_jp: Spawn random 12 Jammer orbs
   max_atk_pct: null
   name_en: Black wings overturn the corpses
-  name_jp: 黒い羽根が躯を覆っていく
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -106,7 +96,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
-  name_jp: Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -115,7 +104,6 @@ records:
   desc_jp: Spawn random 24 Jammer orbs
   max_atk_pct: null
   name_en: Black wings overturn the corpses
-  name_jp: 黒い羽根が躯を覆っていく
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -124,7 +112,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
-  name_jp: Turn 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -133,7 +120,6 @@ records:
   desc_jp: Change all orbs to Jammer, Deal 500% damage
   max_atk_pct: 500
   name_en: Black wings overturned all the corpses
-  name_jp: 黒い羽根が躯を覆い尽くした
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -142,7 +128,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 6
-  name_jp: Loop to 1 after. Turn 6
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -151,7 +136,6 @@ records:
   desc_jp: Player -99% HP
   max_atk_pct: null
   name_en: Death Seal
-  name_jp: 死の刻印
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

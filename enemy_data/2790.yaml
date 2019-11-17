@@ -5,7 +5,6 @@
 comments: null
 monster_id: 2790
 monster_name_en: Orphan, First Form
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -23,7 +22,6 @@ records:
   name_en: 'Our name is Orphan. + By our hand, the world
 
     shall know redemption.'
-  name_jp: わが名は―オーファン + 世界に最後の救いを与える者
   one_time: 511
   record_type_name: PREEMPT
   usage_pct: 100
@@ -42,7 +40,6 @@ records:
   name_en: 'Our name is Orphan. + By our hand, the world
 
     shall know redemption.'
-  name_jp: わが名は―オーファン + 世界に最後の救いを与える者
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -51,7 +48,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -60,7 +56,6 @@ records:
   desc_jp: Absorb combo <= 3 damage for 3 turns + Player -99% HP
   max_atk_pct: null
   name_en: Consummate Light + Merciless Judgment
-  name_jp: 陽の極 + 心無い裁き
   one_time: 256
   record_type_name: ACTION
   usage_pct: 100
@@ -69,7 +64,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -78,7 +72,6 @@ records:
   desc_jp: Deal 80%~120% damage (2~3 hits, 40% each)
   max_atk_pct: 120
   name_en: Hammer
-  name_jp: 鉄槌
   one_time: 128
   record_type_name: ACTION
   usage_pct: 100
@@ -87,7 +80,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -96,7 +88,6 @@ records:
   desc_jp: Deal 200% damage
   max_atk_pct: 200
   name_en: Requiem
-  name_jp: レクイエム
   one_time: 64
   record_type_name: ACTION
   usage_pct: 100
@@ -105,7 +96,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
-  name_jp: Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -114,7 +104,6 @@ records:
   desc_jp: Deal 40%~100% damage (2~5 hits, 20% each)
   max_atk_pct: 100
   name_en: Progenitorial Wrath
-  name_jp: 殺戮のエディプス
   one_time: 32
   record_type_name: ACTION
   usage_pct: 100
@@ -123,7 +112,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
-  name_jp: Turn 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -132,7 +120,6 @@ records:
   desc_jp: Change own attribute to Dark + Player -99% HP
   max_atk_pct: null
   name_en: Consummate Darkness + Merciless Judgment
-  name_jp: 陰の極 + 心無い裁き
   one_time: 16
   record_type_name: ACTION
   usage_pct: 100
@@ -141,7 +128,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6
-  name_jp: Turn 6
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -150,7 +136,6 @@ records:
   desc_jp: Change Random 5 to Poison, Deal 20% damage
   max_atk_pct: 20
   name_en: Chains of Torment
-  name_jp: 苦しみの連鎖
   one_time: 8
   record_type_name: ACTION
   usage_pct: 100
@@ -159,7 +144,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 7
-  name_jp: Turn 7
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -168,7 +152,6 @@ records:
   desc_jp: Deal 120% damage
   max_atk_pct: 120
   name_en: Black Ruin
-  name_jp: 黒ルイン
   one_time: 4
   record_type_name: ACTION
   usage_pct: 100
@@ -177,7 +160,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 8
-  name_jp: Turn 8
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -186,7 +168,6 @@ records:
   desc_jp: Enemy recover 10% hp, Deal 130% damage
   max_atk_pct: 130
   name_en: Vile Exploitation
-  name_jp: 搾取のエレクトラ
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -195,7 +176,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 9
-  name_jp: Turn 9
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -204,7 +184,6 @@ records:
   desc_jp: Player -99% HP + Change own attribute to random one of Light, Dark
   max_atk_pct: null
   name_en: Merciless Judgment + Opposite Extremes
-  name_jp: 心無い裁き + 陰陽の双極
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -213,7 +192,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -222,7 +200,6 @@ records:
   desc_jp: Enemy recover 10% hp, Deal 200% damage
   max_atk_pct: 200
   name_en: Vile Exploitation
-  name_jp: 搾取のエレクトラ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 65
@@ -231,7 +208,6 @@ records:
   desc_jp: Increase damage to 200% for the next 999 turns, Deal 260% damage
   max_atk_pct: 260
   name_en: Dies Irae
-  name_jp: ディエス・イレ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -240,7 +216,6 @@ records:
   desc_jp: Deal 200%~500% damage (2~5 hits, 100% each)
   max_atk_pct: 500
   name_en: Progenitorial Wrath
-  name_jp: 殺戮のエディプス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 15
@@ -249,7 +224,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 40
-  name_jp: HP < 40
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -258,7 +232,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -267,7 +240,6 @@ records:
   desc_jp: Player -99% HP + Change own attribute to random one of Light, Dark
   max_atk_pct: null
   name_en: Merciless Judgment + Opposite Extremes
-  name_jp: 心無い裁き + 陰陽の双極
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100

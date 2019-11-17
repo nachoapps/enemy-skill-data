@@ -5,7 +5,6 @@
 comments: null
 monster_id: 100094
 monster_name_en: Cupid
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Do nothing + Change 4th column to Heal orbs + Reduce self HP to 0 (Preemptive)
   max_atk_pct: null
   name_en: You can't defy a god! + Lovely Arrow + I warned you!
-  name_jp: 神様に逆らってはダメですよ～！ + ラブリーアロー + 忠告しましたからね～！
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100

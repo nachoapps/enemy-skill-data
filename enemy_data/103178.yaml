@@ -5,7 +5,6 @@
 comments: null
 monster_id: 103178
 monster_name_en: Yomitsukami-no-miko, Kuninue
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -23,7 +22,6 @@ records:
     to Mortal Poison orbs (Preemptive)
   max_atk_pct: null
   name_en: Protecting Trees + Earth Mischief
-  name_jp: 防守する樹木 + 大地の悪戯
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -32,7 +30,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -41,7 +38,6 @@ records:
   desc_jp: Change Heal to Wood, Deal 110% damage
   max_atk_pct: 110
   name_en: Tree of Life Mutation
-  name_jp: 命樹変転
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -50,7 +46,6 @@ records:
   desc_jp: Poison skyfall +15% for 1 turns, Deal 95% damage
   max_atk_pct: 95
   name_en: Tree of Life Extinction Fangs
-  name_jp: 命樹断絶牙
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -59,7 +54,6 @@ records:
   desc_jp: Deal 100% damage (4 hits, 25% each)
   max_atk_pct: 100
   name_en: Moonlight Claws
-  name_jp: 月影爪
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -68,7 +62,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
-  name_jp: Loop to 1 after. Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -77,7 +70,6 @@ records:
   desc_jp: Poison skyfall +15% for 1 turns, Deal 95% damage
   max_atk_pct: 95
   name_en: Tree of Life Extinction Fangs
-  name_jp: 命樹断絶牙
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -86,7 +78,6 @@ records:
   desc_jp: Deal 100% damage (4 hits, 25% each)
   max_atk_pct: 100
   name_en: Moonlight Claws
-  name_jp: 月影爪
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -95,7 +86,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -104,7 +94,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -113,7 +102,6 @@ records:
   desc_jp: Rcv 50% for 10 turns + Player -99% HP
   max_atk_pct: null
   name_en: Decaying Life + Fading Scenery
-  name_jp: 散りゆく命 + 薄れゆく景色
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -122,7 +110,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
-  name_jp: HP < 20
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -131,7 +118,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -140,7 +126,6 @@ records:
   desc_jp: Delay active skills by 6~10 turns
   max_atk_pct: null
   name_en: Overgrowing Nature
-  name_jp: 蔓延る自然
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -149,7 +134,6 @@ records:
   desc_jp: Deal 600% damage (6 hits, 100% each)
   max_atk_pct: 600
   name_en: Claw & Fang Double Strike
-  name_jp: 爪牙双連撃
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

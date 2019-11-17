@@ -5,7 +5,6 @@
 comments: null
 monster_id: 100189
 monster_name_en: Alt. Hera
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Absorb combo <= 6 damage for 99 turns + Deal 100% damage (Preemptive)
   max_atk_pct: null
   name_en: Dark Matter + Holy Rite
-  name_jp: ダークマター + 神の洗礼
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Change Random 2 to Jammer
   max_atk_pct: null
   name_en: Mischief by God
-  name_jp: 神の悪戯
   one_time: 0
   record_type_name: ACTION
   usage_pct: 10
@@ -39,7 +36,6 @@ records:
   desc_jp: Deal 120% damage (3 hits, 40% each)
   max_atk_pct: 120
   name_en: Double Slap
-  name_jp: 往復ビンタ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -48,7 +44,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 25
-  name_jp: HP < 25
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -57,7 +52,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -66,7 +60,6 @@ records:
   desc_jp: Bind awoken skills for 1 turns
   max_atk_pct: null
   name_en: Gathering Energy
-  name_jp: 魔力を溜めている
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -75,7 +68,6 @@ records:
   desc_jp: Deal 600% damage
   max_atk_pct: 600
   name_en: Graviton Bomb
-  name_jp: グラビトンボム
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

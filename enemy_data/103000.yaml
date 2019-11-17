@@ -5,7 +5,6 @@
 comments: null
 monster_id: 103000
 monster_name_en: Alt. Scarlet Sky Ruler, Yamato Takeru Dragon
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings:
 - Found 1 unused actions
@@ -22,7 +21,6 @@ records:
   desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -39,7 +37,6 @@ records:
   desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -48,7 +45,6 @@ records:
   desc_jp: Delay active skills by 2 turns + Deal 160% damage (Preemptive)
   max_atk_pct: null
   name_en: Don't come any closer!! + Dimension-Celestial Thorn of Chaos
-  name_jp: 来ルナァアアア！！ + 転界・修羅刺天
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -57,7 +53,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -68,7 +63,6 @@ records:
     50% for 7 turns, (if [2141, 2142, 2970] on team)
   max_atk_pct: null
   name_en: I... don't want... to lose... + Scarlet Sky Barrier
-  name_jp: モウ…失イタク…ナイ… + 緋空結界
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -79,7 +73,6 @@ records:
     50% for 7 turns
   max_atk_pct: null
   name_en: Yamato Dragon's Protection + Scarlet Sky Barrier
-  name_jp: 大和龍の聖護 + 緋空結界
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -88,7 +81,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -97,7 +89,6 @@ records:
   desc_jp: Spawn random 3 Fire, Light orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Breath of the Scarlet Sun
-  name_jp: 紅陽の息吹
   one_time: 64
   record_type_name: ACTION
   usage_pct: 100
@@ -106,7 +97,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -115,7 +105,6 @@ records:
   desc_jp: Spawn random 3 Fire, Light orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Breath of the Scarlet Sun
-  name_jp: 紅陽の息吹
   one_time: 32
   record_type_name: ACTION
   usage_pct: 100
@@ -124,7 +113,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
-  name_jp: Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -133,7 +121,6 @@ records:
   desc_jp: Spawn random 3 Fire, Light orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Breath of the Scarlet Sun
-  name_jp: 紅陽の息吹
   one_time: 16
   record_type_name: ACTION
   usage_pct: 100
@@ -142,7 +129,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
-  name_jp: Turn 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -151,7 +137,6 @@ records:
   desc_jp: Spawn random 3 Fire, Light orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Breath of the Scarlet Sun
-  name_jp: 紅陽の息吹
   one_time: 8
   record_type_name: ACTION
   usage_pct: 100
@@ -160,7 +145,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6
-  name_jp: Turn 6
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -169,7 +153,6 @@ records:
   desc_jp: Spawn random 3 Fire, Light orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Breath of the Scarlet Sun
-  name_jp: 紅陽の息吹
   one_time: 4
   record_type_name: ACTION
   usage_pct: 100
@@ -178,7 +161,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 7
-  name_jp: Turn 7
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -187,7 +169,6 @@ records:
   desc_jp: Spawn random 3 Fire, Light orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Breath of the Scarlet Sun
-  name_jp: 紅陽の息吹
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -196,7 +177,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 8
-  name_jp: Turn 8
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -205,7 +185,6 @@ records:
   desc_jp: Spawn random 3 Fire, Light orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Breath of the Scarlet Sun
-  name_jp: 紅陽の息吹
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -214,7 +193,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -223,7 +201,6 @@ records:
   desc_jp: Spawn random 9 Fire, Light orbs, Deal 300% damage
   max_atk_pct: 300
   name_en: Scarlet Sun-Destroying Sword
-  name_jp: 紅陽・剛葬
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -232,7 +209,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -241,7 +217,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -253,7 +228,6 @@ records:
   max_atk_pct: null
   name_en: I... don't want... to lose... + Scarlet Sky Barrier + Dimension-Celestial
     Thorn of Chaos
-  name_jp: モウ…失イタク…ナイ… + 緋空結界 + 転界・修羅刺天
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -265,7 +239,6 @@ records:
   max_atk_pct: null
   name_en: Yamato Dragon's Protection + Scarlet Sky Barrier + Dimension-Celestial
     Thorn of Chaos
-  name_jp: 大和龍の聖護 + 緋空結界 + 転界・修羅刺天
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

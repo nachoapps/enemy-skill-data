@@ -5,7 +5,6 @@
 comments: null
 monster_id: 4865
 monster_name_en: The Goddess of Underworld, Sinon
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Enemy turn counter change to 1 when HP <= 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Spawn random 3 locked Bomb orbs + Voids status ailments for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: Then let's light him up! + I'll be playing to win.
-  name_jp: 定石どおりにいくわよ + 手は抜かないけどね
   one_time: 1
   record_type_name: PREEMPT
   usage_pct: 100
@@ -41,7 +38,6 @@ records:
     100% damage
   max_atk_pct: null
   name_en: He won't even know what hit him. + Why you!
-  name_jp: 当てる　必ず…！！ + このっ…！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -50,7 +46,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -59,7 +54,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -68,7 +62,6 @@ records:
   desc_jp: Spawn random 8 Bomb orbs
   max_atk_pct: null
   name_en: They're pulling out all the stops tonight.
-  name_jp: 随分と大盤振る舞いね
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

@@ -5,7 +5,6 @@
 comments: null
 monster_id: 1592
 monster_name_en: Water Insect Dragon, Deadjumper
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Absorb combo <= 3 damage for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: Insect Dragon's Chitin
-  name_jp: 蟲龍の甲殻
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -39,7 +36,6 @@ records:
   desc_jp: Change Random to Jammer, Deal 20% damage
   max_atk_pct: 20
   name_en: High Jump
-  name_jp: ハイジャンプ
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -48,7 +44,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
-  name_jp: Loop to 1 after. Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -57,7 +52,6 @@ records:
   desc_jp: Change Jammer to Water, Deal 125% damage
   max_atk_pct: 125
   name_en: Locust Press
-  name_jp: ローカストプレス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -66,7 +60,6 @@ records:
   desc_jp: Deal 80% damage (4 hits, 20% each)
   max_atk_pct: 80
   name_en: Jumping Breath
-  name_jp: ジャンピングブレス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -75,7 +68,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -84,7 +76,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -93,7 +84,6 @@ records:
   desc_jp: Bind Wood cards for 3 turns
   max_atk_pct: null
   name_en: Plant Feast
-  name_jp: プラントイート
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -102,7 +92,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
-  name_jp: HP < 30
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -111,7 +100,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -120,7 +108,6 @@ records:
   desc_jp: Change Random to Jammer, Deal 20% damage
   max_atk_pct: 20
   name_en: High Jump
-  name_jp: ハイジャンプ
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -129,7 +116,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
-  name_jp: Loop to 1 after. Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -138,7 +124,6 @@ records:
   desc_jp: Change Jammer to Water, Deal 200% damage
   max_atk_pct: 200
   name_en: Meteor Strike
-  name_jp: メテオストライク
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -147,7 +132,6 @@ records:
   desc_jp: Change Jammer to Water, Deal 125% damage
   max_atk_pct: 125
   name_en: Locust Press
-  name_jp: ローカストプレス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -156,7 +140,6 @@ records:
   desc_jp: Deal 80% damage (4 hits, 20% each)
   max_atk_pct: 80
   name_en: Jumping Breath
-  name_jp: ジャンピングブレス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -173,7 +156,6 @@ records:
   desc_jp: Absorb combo <= 4 damage for 10 turns (Preemptive)
   max_atk_pct: null
   name_en: Insect Dragon's Steel Chitin
-  name_jp: 蟲龍の鋼甲殻
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -182,7 +164,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -191,7 +172,6 @@ records:
   desc_jp: Change Random to Jammer, Deal 20% damage
   max_atk_pct: 20
   name_en: High Jump
-  name_jp: ハイジャンプ
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -200,7 +180,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
-  name_jp: Loop to 1 after. Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -209,7 +188,6 @@ records:
   desc_jp: Change Jammer to Water, Deal 125% damage
   max_atk_pct: 125
   name_en: Locust Press
-  name_jp: ローカストプレス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -218,7 +196,6 @@ records:
   desc_jp: Deal 80% damage (4 hits, 20% each)
   max_atk_pct: 80
   name_en: Jumping Breath
-  name_jp: ジャンピングブレス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -227,7 +204,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -236,7 +212,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -245,7 +220,6 @@ records:
   desc_jp: Bind Wood cards for 3 turns
   max_atk_pct: null
   name_en: Plant Feast
-  name_jp: プラントイート
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -254,7 +228,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
-  name_jp: HP < 30
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -263,7 +236,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -272,7 +244,6 @@ records:
   desc_jp: Change Random to Jammer, Deal 20% damage
   max_atk_pct: 20
   name_en: High Jump
-  name_jp: ハイジャンプ
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -281,7 +252,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
-  name_jp: Loop to 1 after. Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -290,7 +260,6 @@ records:
   desc_jp: Change Jammer to Water, Deal 200% damage
   max_atk_pct: 200
   name_en: Meteor Strike
-  name_jp: メテオストライク
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -299,7 +268,6 @@ records:
   desc_jp: Change Jammer to Water, Deal 125% damage
   max_atk_pct: 125
   name_en: Locust Press
-  name_jp: ローカストプレス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -308,7 +276,6 @@ records:
   desc_jp: Deal 80% damage (4 hits, 20% each)
   max_atk_pct: 80
   name_en: Jumping Breath
-  name_jp: ジャンピングブレス
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

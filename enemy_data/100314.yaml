@@ -5,7 +5,6 @@
 comments: null
 monster_id: 100314
 monster_name_en: Alt. Flame Armor Ogre
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -21,7 +20,6 @@ records:
   desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
-  name_jp: Ability
   one_time: 0
   record_type_name: PASSIVE
   usage_pct: 100
@@ -30,7 +28,6 @@ records:
   desc_jp: Deal 60% damage (2 hits, 30% each) (Preemptive)
   max_atk_pct: 60
   name_en: Strike
-  name_jp: ストライク
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -39,7 +36,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -48,7 +44,6 @@ records:
   desc_jp: Bind Water cards for 2~4 turns
   max_atk_pct: null
   name_en: Water Bind
-  name_jp: ウォーターバインド
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -57,7 +52,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -66,7 +60,6 @@ records:
   desc_jp: Deal 150% damage
   max_atk_pct: 150
   name_en: Flame Strike
-  name_jp: フレイムストライク
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

@@ -5,7 +5,6 @@
 comments: null
 monster_id: 3145
 monster_name_en: God of Technique, Kinnikuman Zebra
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -23,7 +22,6 @@ records:
     3133, 3850] on team) (Preemptive)
   max_atk_pct: null
   name_en: Hehehe...
-  name_jp: ククク・・・
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -32,7 +30,6 @@ records:
   desc_jp: Reduce damage from all sources by 50% for 3 turns (Preemptive)
   max_atk_pct: null
   name_en: Shadow Cloak
-  name_jp: 影の衣
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -41,7 +38,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -50,7 +46,6 @@ records:
   desc_jp: Change Random to Jammer, Deal 100% damage
   max_atk_pct: 100
   name_en: Savanna Punch
-  name_jp: サバンナ・パンチ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -59,7 +54,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -70,7 +64,6 @@ records:
     Poison orbs, Deal 80% damage
   max_atk_pct: 80
   name_en: Thoroughbred Hook
-  name_jp: サラブレッド・フック
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -79,7 +72,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 3
-  name_jp: Loop to 1 after. Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -88,7 +80,6 @@ records:
   desc_jp: Player -99% HP
   max_atk_pct: null
   name_en: Thoroughbred Upper
-  name_jp: サラブレッド・アッパー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -97,7 +88,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -106,7 +96,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -115,7 +104,6 @@ records:
   desc_jp: Bind own leader for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Flying Headbutt
-  name_jp: フライング・ヘッドバット
   one_time: 4
   record_type_name: ACTION
   usage_pct: 100
@@ -124,7 +112,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -133,7 +120,6 @@ records:
   desc_jp: Blind orbs in specific positions for 1 turns
   max_atk_pct: null
   name_en: Flying Headbutt
-  name_jp: フライング・ヘッドバット
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -142,7 +128,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -151,7 +136,6 @@ records:
   desc_jp: Bind 2 both leaders for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: 'Brutal Art: Canvas Presser'
-  name_jp: 残虐技キャンバス・プレッサー
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -160,7 +144,6 @@ records:
   desc_jp: Change 3rd row to Fire orbs, Deal 250% damage
   max_atk_pct: 250
   name_en: Muscle Inferno
-  name_jp: マッスル・インフェルノ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

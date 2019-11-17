@@ -5,7 +5,6 @@
 comments: null
 monster_id: 4797
 monster_name_en: Creeping Mist Devil Dragonbound, Suou
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -23,7 +22,6 @@ records:
     for 99 turns, (if [4802, 4803, 4804, 4805] on team) (Preemptive)
   max_atk_pct: null
   name_en: Oh, thanks for going through the trouble + YOU came too?
-  name_jp: おお、ごくろうさーん + なんだお前も一緒に来たのか
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -34,7 +32,6 @@ records:
     for 99 turns (Preemptive)
   max_atk_pct: null
   name_en: Oh, thanks for going through the trouble + But it's not over yet, right?
-  name_jp: おお、ごくろうさーん + でもまだ終わりじゃねぇぜ？
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -43,7 +40,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: When HP is full
-  name_jp: When HP is full
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -52,7 +48,6 @@ records:
   desc_jp: Delay active skills by 3 turns + Leader changes to random sub for 1 turns
   max_atk_pct: null
   name_en: This is boring... + Show me something special
-  name_jp: 退屈だな… + 余興でも見せてもらおうか
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -61,7 +56,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: When HP is not full
-  name_jp: When HP is not full
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -72,7 +66,6 @@ records:
     turns, Deal 100% damage
   max_atk_pct: null
   name_en: Turn and turn! + But, here comes darkness!
-  name_jp: 回れ回れ + んでもってまっくろけ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
@@ -83,7 +76,6 @@ records:
     at random location, Deal 100% damage
   max_atk_pct: null
   name_en: Turn and turn! + But, here comes fluffiness!
-  name_jp: 回れ回れ + んでもってふーわふわ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
@@ -94,7 +86,6 @@ records:
     Deal 105% damage
   max_atk_pct: null
   name_en: Round and around! + It's piping hot!
-  name_jp: ぐるぐる回れ + アツアツだぜ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
@@ -105,7 +96,6 @@ records:
     37% each)
   max_atk_pct: null
   name_en: Round and around! + Let's enjoy it some more!
-  name_jp: ぐるぐる回れ + もっと楽しもうぜ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
@@ -114,7 +104,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 75
-  name_jp: HP < 75
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -123,7 +112,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -132,7 +120,6 @@ records:
   desc_jp: Unable to match Water orbs for 1 turns + Player -99% HP
   max_atk_pct: null
   name_en: Shall we liven things up? + Now this is worth seeing!
-  name_jp: 盛り上げていこうか + さて、見物だな
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -141,7 +128,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
-  name_jp: HP < 50
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -150,7 +136,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -159,7 +144,6 @@ records:
   desc_jp: Unable to match Heal orbs for 1 turns + Player -99% HP
   max_atk_pct: null
   name_en: Shall we liven things up? + Now this is worth seeing!
-  name_jp: 盛り上げていこうか + さて、見物だな
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -168,7 +152,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
-  name_jp: HP < 20
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -177,7 +160,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -188,7 +170,6 @@ records:
     hp
   max_atk_pct: null
   name_en: Oh scary, scary! + Well, you can take a breather
-  name_jp: おお怖い怖い + さて、一服させてもらうかな
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -197,7 +178,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -206,7 +186,6 @@ records:
   desc_jp: Bind awoken skills for 1 turns + Movetime 50% for 1 turns
   max_atk_pct: null
   name_en: Shall we end this soon? + Keep the fun going!
-  name_jp: そろそろ終わりにするか + 最後まで楽しませてくれよ
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -215,7 +194,6 @@ records:
   desc_jp: Deal 500% damage (5 hits, 100% each)
   max_atk_pct: 500
   name_en: That was a blast!
-  name_jp: なかなか楽しかったぜ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

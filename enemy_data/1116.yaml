@@ -5,7 +5,6 @@
 comments: null
 monster_id: 1116
 monster_name_en: White Hot Dancing Goddess, Parvati
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings: []
 
@@ -23,7 +22,6 @@ records:
     for 6 turns (Preemptive)
   max_atk_pct: null
   name_en: That's as far as you'll get! + I've been training hard!
-  name_jp: そこまでですっ！ + 私だって修行してきたんですよ！
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -32,7 +30,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
-  name_jp: Execute repeatedly. Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -41,7 +38,6 @@ records:
   desc_jp: Change Light to Wood, Deal 150% damage
   max_atk_pct: 150
   name_en: Sonar Havar
-  name_jp: ソナーハヴァー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -50,7 +46,6 @@ records:
   desc_jp: Increase damage to 200% for the next 1 turns
   max_atk_pct: null
   name_en: Sundar Pool
-  name_jp: スンダルプール
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -59,7 +54,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -68,7 +62,6 @@ records:
   desc_jp: Change Light to Wood, Deal 150% damage
   max_atk_pct: 150
   name_en: Sonar Havar
-  name_jp: ソナーハヴァー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -77,7 +70,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -86,7 +78,6 @@ records:
   desc_jp: Change Light to Wood, Deal 150% damage
   max_atk_pct: 150
   name_en: Sonar Havar
-  name_jp: ソナーハヴァー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -95,7 +86,6 @@ records:
   desc_jp: Increase damage to 200% for the next 1 turns
   max_atk_pct: null
   name_en: Sundar Pool
-  name_jp: スンダルプール
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -104,7 +94,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
-  name_jp: Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -113,7 +102,6 @@ records:
   desc_jp: Change Light to Wood, Deal 150% damage
   max_atk_pct: 150
   name_en: Sonar Havar
-  name_jp: ソナーハヴァー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -122,7 +110,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
-  name_jp: Turn 5
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -131,7 +118,6 @@ records:
   desc_jp: Change Light to Wood, Deal 150% damage
   max_atk_pct: 150
   name_en: Sonar Havar
-  name_jp: ソナーハヴァー
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -140,7 +126,6 @@ records:
   desc_jp: Increase damage to 200% for the next 1 turns
   max_atk_pct: null
   name_en: Sundar Pool
-  name_jp: スンダルプール
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -149,7 +134,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 6
-  name_jp: Loop to 1 after. Turn 6
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -160,7 +144,6 @@ records:
     500% damage
   max_atk_pct: null
   name_en: Go, Tiggie! + Tagrah Ahgu
-  name_jp: いけっ！トラちゃん！ + タグラーアーグ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

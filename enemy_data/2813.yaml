@@ -5,7 +5,6 @@
 comments: null
 monster_id: 2813
 monster_name_en: Light Music Club's Kirin Princess, Sakuya
-monster_name_jp: not yet populated
 reviewed_by: unreviewed
 warnings:
 - Found 1 unused actions
@@ -25,7 +24,6 @@ records:
   max_atk_pct: null
   name_en: Is everyone ready? + Brace yourself! + Here I come! + Let's get excited
     ♪
-  name_jp: みんな準備はいい？ + 覚悟してね + 行くよ！ + 盛り上がっていこう♪
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -34,7 +32,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
-  name_jp: Turn 1
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -48,7 +45,6 @@ records:
   max_atk_pct: null
   name_en: Good Soprano + Everyone's enthusiasm is great! + I'm not done yet! + I
     wonder if you can make it to the end!
-  name_jp: いい高音だね + みんな熱気が凄いね！ + まだまだいくよ～ + ラストまでついてこれるかな！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -61,7 +57,6 @@ records:
     >=7 combos last turn)
   max_atk_pct: null
   name_en: You're excited, aren't you? + More, mooore! + Let's go in high spirits♪
-  name_jp: 盛り上がってきたね！ + もっとも～っと + テンション上げていこう♪
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -70,7 +65,6 @@ records:
   desc_jp: Deal 20000% damage (2 hits, 10000% each)
   max_atk_pct: 20000
   name_en: Too bad, but come again
-  name_jp: 残念また来てね
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -79,7 +73,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
-  name_jp: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -90,7 +83,6 @@ records:
     orbs + Absorb combo <= 9 damage for 1 turns, (if >=18 combos last turn)
   max_atk_pct: null
   name_en: Good Soprano + Thanks for everything up to now! + This is the end!
-  name_jp: いい高音だね + ここまでホントにありがとう！ + これでラストだよ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -104,7 +96,6 @@ records:
   max_atk_pct: null
   name_en: Everyone's enthusiasm is great! + I'm not done yet! + I wonder if you can
     make it to the end!
-  name_jp: みんな熱気が凄いね！ + まだまだいくよ～ + ラストまでついてこれるかな！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -113,7 +104,6 @@ records:
   desc_jp: Deal 20000% damage (2 hits, 10000% each)
   max_atk_pct: 20000
   name_en: Too bad, but come again
-  name_jp: 残念また来てね
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -122,7 +112,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
-  name_jp: Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -133,7 +122,6 @@ records:
     combo <= 9 damage for 1 turns, (if >=9 combos last turn)
   max_atk_pct: null
   name_en: Thanks for everything up to now! + This is the end!
-  name_jp: ここまでホントにありがとう！ + これでラストだよ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -142,7 +130,6 @@ records:
   desc_jp: Deal 20000% damage (2 hits, 10000% each)
   max_atk_pct: 20000
   name_en: Too bad, but come again
-  name_jp: 残念また来てね
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -151,7 +138,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
-  name_jp: Turn 4
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -160,7 +146,6 @@ records:
   desc_jp: Reduce self HP to 0, (if >=10 combos last turn)
   max_atk_pct: null
   name_en: That was a great combo!
-  name_jp: とってもいいコンボだったよ！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -169,7 +154,6 @@ records:
   desc_jp: Reduce self HP to 0, (if >=10 combos last turn)
   max_atk_pct: null
   name_en: That was a great combo!
-  name_jp: とってもいいコンボだったよ！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -178,7 +162,6 @@ records:
   desc_jp: Deal 20000% damage (2 hits, 10000% each)
   max_atk_pct: 20000
   name_en: Too bad, but come again
-  name_jp: 残念また来てね
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -187,7 +170,6 @@ records:
   desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
-  name_jp: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -196,7 +178,6 @@ records:
   desc_jp: Reduce self HP to 0, (if >=10 combos last turn)
   max_atk_pct: null
   name_en: That was a great combo!
-  name_jp: とってもいいコンボだったよ！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
