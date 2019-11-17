@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Spawn random 5 Bomb orbs (Preemptive)
-  desc_jp: Spawn random 5 Bomb orbs (Preemptive)
   max_atk_pct: null
   name_en: True Face
   one_time: 1
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Random to Jammer, Deal 100% damage
-  desc_jp: Change Random to Jammer, Deal 100% damage
   max_atk_pct: 100
   name_en: Evil Eye Trick
   one_time: 0
@@ -34,7 +32,6 @@ records:
 - !SkillRecord
   desc_en: Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 105% damage
-  desc_jp: Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 105% damage
   max_atk_pct: 105
   name_en: Wonder Feather
@@ -43,7 +40,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: When 1 enemy remains
   one_time: null
@@ -51,7 +47,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 3 Jammer, Poison, Mortal Poison orbs, Deal 100% damage
-  desc_jp: Spawn random 3 Jammer, Poison, Mortal Poison orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Sweet Magic
   one_time: 0

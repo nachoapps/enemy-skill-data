@@ -19,7 +19,6 @@ records:
 - !SkillRecord
   desc_en: Bind awoken skills for 5 turns + Bind active skills for 5 turns + Absorb
     combo <= 6 damage for 1 turns + Movetime 200% for 5 turns (Preemptive)
-  desc_jp: Bind awoken skills for 5 turns + Bind active skills for 5 turns + Absorb
     combo <= 6 damage for 1 turns + Movetime 200% for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: Is everyone ready? + Brace yourself! + Here I come! + Let's get excited
@@ -29,7 +28,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -39,7 +37,6 @@ records:
   desc_en: Do nothing + 3x2 cloud appear for 1 turns at 3rd row, 3rd column + Spawn
     random 10 Fire, Water, Wood, Light orbs + Absorb combo <= 8 damage for 1 turns,
     (if >=18 combos last turn)
-  desc_jp: Do nothing + 3x2 cloud appear for 1 turns at 3rd row, 3rd column + Spawn
     random 10 Fire, Water, Wood, Light orbs + Absorb combo <= 8 damage for 1 turns,
     (if >=18 combos last turn)
   max_atk_pct: null
@@ -52,7 +49,6 @@ records:
   desc_en: Change 1st, 6th column to Light orbs, 2nd, 5th column to Dark orbs + Spawn
     Bomb orbs in the specified positions + Absorb combo <= 7 damage for 1 turns, (if
     >=7 combos last turn)
-  desc_jp: Change 1st, 6th column to Light orbs, 2nd, 5th column to Dark orbs + Spawn
     Bomb orbs in the specified positions + Absorb combo <= 7 damage for 1 turns, (if
     >=7 combos last turn)
   max_atk_pct: null
@@ -62,7 +58,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 20000% damage (2 hits, 10000% each)
-  desc_jp: Deal 20000% damage (2 hits, 10000% each)
   max_atk_pct: 20000
   name_en: Too bad, but come again
   one_time: 0
@@ -70,7 +65,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -79,7 +73,6 @@ records:
 - !SkillRecord
   desc_en: Do nothing + Spawn random 6 Fire, Water, Wood, Light, Dark, Heal, Jammer
     orbs + Absorb combo <= 9 damage for 1 turns, (if >=18 combos last turn)
-  desc_jp: Do nothing + Spawn random 6 Fire, Water, Wood, Light, Dark, Heal, Jammer
     orbs + Absorb combo <= 9 damage for 1 turns, (if >=18 combos last turn)
   max_atk_pct: null
   name_en: Good Soprano + Thanks for everything up to now! + This is the end!
@@ -90,7 +83,6 @@ records:
   desc_en: 3x2 cloud appear for 1 turns at 3rd row, 3rd column + Spawn random 10 Fire,
     Water, Wood, Light orbs + Absorb combo <= 8 damage for 1 turns, (if >=8 combos
     last turn)
-  desc_jp: 3x2 cloud appear for 1 turns at 3rd row, 3rd column + Spawn random 10 Fire,
     Water, Wood, Light orbs + Absorb combo <= 8 damage for 1 turns, (if >=8 combos
     last turn)
   max_atk_pct: null
@@ -101,7 +93,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 20000% damage (2 hits, 10000% each)
-  desc_jp: Deal 20000% damage (2 hits, 10000% each)
   max_atk_pct: 20000
   name_en: Too bad, but come again
   one_time: 0
@@ -109,7 +100,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -118,7 +108,6 @@ records:
 - !SkillRecord
   desc_en: Spawn random 6 Fire, Water, Wood, Light, Dark, Heal, Jammer orbs + Absorb
     combo <= 9 damage for 1 turns, (if >=9 combos last turn)
-  desc_jp: Spawn random 6 Fire, Water, Wood, Light, Dark, Heal, Jammer orbs + Absorb
     combo <= 9 damage for 1 turns, (if >=9 combos last turn)
   max_atk_pct: null
   name_en: Thanks for everything up to now! + This is the end!
@@ -127,7 +116,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 20000% damage (2 hits, 10000% each)
-  desc_jp: Deal 20000% damage (2 hits, 10000% each)
   max_atk_pct: 20000
   name_en: Too bad, but come again
   one_time: 0
@@ -135,7 +123,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -143,7 +130,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Reduce self HP to 0, (if >=10 combos last turn)
-  desc_jp: Reduce self HP to 0, (if >=10 combos last turn)
   max_atk_pct: null
   name_en: That was a great combo!
   one_time: 0
@@ -151,7 +137,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Reduce self HP to 0, (if >=10 combos last turn)
-  desc_jp: Reduce self HP to 0, (if >=10 combos last turn)
   max_atk_pct: null
   name_en: That was a great combo!
   one_time: 0
@@ -159,7 +144,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 20000% damage (2 hits, 10000% each)
-  desc_jp: Deal 20000% damage (2 hits, 10000% each)
   max_atk_pct: 20000
   name_en: Too bad, but come again
   one_time: 0
@@ -167,7 +151,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -175,7 +158,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Reduce self HP to 0, (if >=10 combos last turn)
-  desc_jp: Reduce self HP to 0, (if >=10 combos last turn)
   max_atk_pct: null
   name_en: That was a great combo!
   one_time: 0

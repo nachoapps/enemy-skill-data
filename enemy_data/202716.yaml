@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 50%
-  desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Reduce damage from Water by 50%
-  desc_jp: Reduce damage from Water by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Delay active skills by 15 turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Delay active skills by 15 turns (Preemptive)
   max_atk_pct: null
   name_en: Sturdy Flame Scales + Face to Face Match
   one_time: 128
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 101% damage
-  desc_jp: Deal 101% damage
   max_atk_pct: 101
   name_en: Hell Fire Greataxe
   one_time: 64
@@ -57,7 +52,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -65,7 +59,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 204% damage (2 hits, 102% each)
-  desc_jp: Deal 204% damage (2 hits, 102% each)
   max_atk_pct: 204
   name_en: Double Hammer Hit
   one_time: 32
@@ -73,7 +66,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -81,7 +73,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 309% damage (3 hits, 103% each)
-  desc_jp: Deal 309% damage (3 hits, 103% each)
   max_atk_pct: 309
   name_en: 3 Blazing Blades
   one_time: 16
@@ -89,7 +80,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -97,7 +87,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 416% damage (4 hits, 104% each)
-  desc_jp: Deal 416% damage (4 hits, 104% each)
   max_atk_pct: 416
   name_en: Crimson Lion
   one_time: 8
@@ -105,7 +94,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
   one_time: null
@@ -113,7 +101,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 525% damage (5 hits, 105% each)
-  desc_jp: Deal 525% damage (5 hits, 105% each)
   max_atk_pct: 525
   name_en: Painless Time-Split
   one_time: 4
@@ -121,7 +108,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6
   one_time: null
@@ -129,7 +115,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 636% damage (6 hits, 106% each)
-  desc_jp: Deal 636% damage (6 hits, 106% each)
   max_atk_pct: 636
   name_en: Resounding Destructive Strength
   one_time: 2
@@ -137,7 +122,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -145,7 +129,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 3619% damage (7 hits, 517% each)
-  desc_jp: Deal 3619% damage (7 hits, 517% each)
   max_atk_pct: 3619
   name_en: Divine Might
   one_time: 0
@@ -153,7 +136,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Enemy is defeated
   one_time: null
@@ -161,7 +143,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Enemy recover 50% hp
-  desc_jp: Enemy recover 50% hp
   max_atk_pct: null
   name_en: Fortitude
   one_time: 0

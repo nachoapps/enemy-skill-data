@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -25,7 +24,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns
-  desc_jp: Voids status ailments for 999 turns
   max_atk_pct: null
   name_en: Fertile Guard
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -41,7 +38,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 160% damage (2 hits, 80% each)
-  desc_jp: Deal 160% damage (2 hits, 80% each)
   max_atk_pct: 160
   name_en: Curse Ball
   one_time: 0
@@ -49,7 +45,6 @@ records:
   usage_pct: 75
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 25
   one_time: null
@@ -57,7 +52,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -65,7 +59,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind Light cards for 3 turns
-  desc_jp: Bind Light cards for 3 turns
   max_atk_pct: null
   name_en: Chaotic Darkness
   one_time: 1
@@ -73,7 +66,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 160% damage (2 hits, 80% each)
-  desc_jp: Deal 160% damage (2 hits, 80% each)
   max_atk_pct: 160
   name_en: Curse Ball
   one_time: 0

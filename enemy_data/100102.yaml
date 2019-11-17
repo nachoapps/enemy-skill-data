@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Change Fire to Wood (Preemptive)
-  desc_jp: Change Fire to Wood (Preemptive)
   max_atk_pct: null
   name_en: Wood Orb change
   one_time: 2
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Bind Fire cards for 2~4 turns (Preemptive)
-  desc_jp: Bind Fire cards for 2~4 turns (Preemptive)
   max_atk_pct: null
   name_en: Ground Grudge
   one_time: 1
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -41,7 +38,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind Fire cards for 2~4 turns
-  desc_jp: Bind Fire cards for 2~4 turns
   max_atk_pct: null
   name_en: Ground Grudge
   one_time: 1
@@ -57,7 +53,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Change Fire to Wood (Preemptive)
-  desc_jp: Change Fire to Wood (Preemptive)
   max_atk_pct: null
   name_en: Wood Orb change
   one_time: 2
@@ -65,7 +60,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Bind Fire cards for 2~4 turns (Preemptive)
-  desc_jp: Bind Fire cards for 2~4 turns (Preemptive)
   max_atk_pct: null
   name_en: Ground Grudge
   one_time: 1
@@ -73,7 +67,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -81,7 +74,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind Fire cards for 2~4 turns
-  desc_jp: Bind Fire cards for 2~4 turns
   max_atk_pct: null
   name_en: Ground Grudge
   one_time: 1

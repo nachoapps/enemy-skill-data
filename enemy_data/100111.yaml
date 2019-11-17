@@ -18,7 +18,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Enemy recover 10% hp, Deal 70% damage
-  desc_jp: Enemy recover 10% hp, Deal 70% damage
   max_atk_pct: 70
   name_en: Bloody Stealing
   one_time: 0
@@ -26,7 +25,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: When 1 enemy remains
   one_time: null
@@ -34,7 +32,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 180% damage (3 hits, 60% each)
-  desc_jp: Deal 180% damage (3 hits, 60% each)
   max_atk_pct: 180
   name_en: Nightmare Crush
   one_time: 0
@@ -50,7 +47,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Blind all orbs on the board (Preemptive)
-  desc_jp: Blind all orbs on the board (Preemptive)
   max_atk_pct: null
   name_en: World of Darkness
   one_time: 0
@@ -58,7 +54,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Enemy recover 10% hp, Deal 70% damage
-  desc_jp: Enemy recover 10% hp, Deal 70% damage
   max_atk_pct: 70
   name_en: Bloody Stealing
   one_time: 0
@@ -66,7 +61,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: When 1 enemy remains
   one_time: null
@@ -74,7 +68,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 180% damage (3 hits, 60% each)
-  desc_jp: Deal 180% damage (3 hits, 60% each)
   max_atk_pct: 180
   name_en: Nightmare Crush
   one_time: 0

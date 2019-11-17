@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Absorb combo <= 4 damage for 5 turns (Preemptive)
-  desc_jp: Absorb combo <= 4 damage for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: I shall give you a merciful death.
   one_time: 6
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1-6
   one_time: null
@@ -34,7 +32,6 @@ records:
 - !SkillRecord
   desc_en: Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 90% damage
-  desc_jp: Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 90% damage
   max_atk_pct: 90
   name_en: Chain Attack
@@ -43,7 +40,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 100% damage
-  desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: Kick
   one_time: 0
@@ -51,7 +47,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 7
   one_time: null
@@ -59,7 +54,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 15 Fire orbs, Deal 200% damage
-  desc_jp: Spawn random 15 Fire orbs, Deal 200% damage
   max_atk_pct: 200
   name_en: "Blood Fort: Andromeda: \nOuter Seal/ Blood Temple"
   one_time: 6
@@ -68,7 +62,6 @@ records:
 - !SkillRecord
   desc_en: Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 90% damage
-  desc_jp: Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 90% damage
   max_atk_pct: 90
   name_en: Chain Attack
@@ -77,7 +70,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 100% damage
-  desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: Kick
   one_time: 0

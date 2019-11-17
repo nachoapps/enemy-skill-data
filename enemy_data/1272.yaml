@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Bind active skills for 3 turns (Preemptive)
-  desc_jp: Bind active skills for 3 turns (Preemptive)
   max_atk_pct: null
   name_en: Defense System Activated
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Do nothing
-  desc_jp: Do nothing
   max_atk_pct: null
   name_en: Elimination
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 100% damage
-  desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: Rocket Punch
   one_time: 0
@@ -57,7 +52,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -65,7 +59,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 110% damage
-  desc_jp: Deal 110% damage
   max_atk_pct: 110
   name_en: Rocket Punch
   one_time: 0
@@ -73,7 +66,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -81,7 +73,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Do nothing
-  desc_jp: Do nothing
   max_atk_pct: null
   name_en: Charge
   one_time: 0
@@ -89,7 +80,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -97,7 +87,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 600% damage
-  desc_jp: Deal 600% damage
   max_atk_pct: 600
   name_en: Burn Tackle
   one_time: 0

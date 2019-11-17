@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Delay active skills by 1~2 turns (Preemptive)
-  desc_jp: Delay active skills by 1~2 turns (Preemptive)
   max_atk_pct: null
   name_en: One moment, please
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 3 Heal orbs, (if [1526, 1528, 1529, 1530] on team)
-  desc_jp: Spawn random 3 Heal orbs, (if [1526, 1528, 1529, 1530] on team)
   max_atk_pct: null
   name_en: Don't tell master I have a part-time job!
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 100% damage
-  desc_jp: Blind all orbs on the board, Deal 100% damage
   max_atk_pct: 100
   name_en: I'm still hot despite my light outfit
   one_time: 1
@@ -49,7 +45,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -57,7 +52,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 100% damage (2 hits, 50% each)
-  desc_jp: Deal 100% damage (2 hits, 50% each)
   max_atk_pct: 100
   name_en: Endless Summer Barrage
   one_time: 0

@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -25,7 +24,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 200% for the next 6 turns (When 1 enemy remains)
-  desc_jp: Increase damage to 200% for the next 6 turns (When 1 enemy remains)
   max_atk_pct: null
   name_en: Neigh of the Horse in Water
   one_time: 1

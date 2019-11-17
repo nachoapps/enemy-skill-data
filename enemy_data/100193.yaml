@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Lock 1 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 10% damage (Preemptive)
-  desc_jp: Lock 1 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 10% damage (Preemptive)
   max_atk_pct: 10
   name_en: Tiny Frost
@@ -27,7 +26,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Increase damage to 130% for the next 3 turns
-  desc_jp: Increase damage to 130% for the next 3 turns
   max_atk_pct: null
   name_en: Anger
   one_time: 0

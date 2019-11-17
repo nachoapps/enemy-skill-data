@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Rcv 50% for 10 turns + Reduce damage from all sources by 99% for 5 turns
     (Preemptive)
-  desc_jp: Rcv 50% for 10 turns + Reduce damage from all sources by 99% for 5 turns
     (Preemptive)
   max_atk_pct: null
   name_en: Ancient Field + Hyper Dragon Shield
@@ -27,7 +26,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: When player has any buff
   one_time: null
@@ -35,7 +33,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Voids player buff effects
-  desc_jp: Voids player buff effects
   max_atk_pct: null
   name_en: Wave of Nothingness
   one_time: 2
@@ -43,7 +40,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -51,7 +47,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -59,7 +54,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns
-  desc_jp: Voids status ailments for 999 turns
   max_atk_pct: null
   name_en: Ready...Set...Fight!
   one_time: 0
@@ -67,7 +61,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -75,7 +68,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 5 turns
-  desc_jp: Reduce damage from all sources by 75% for 5 turns
   max_atk_pct: null
   name_en: Super Dragon Shield
   one_time: 0
@@ -83,7 +75,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -91,7 +82,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Movetime -3s for 10 turns
-  desc_jp: Movetime -3s for 10 turns
   max_atk_pct: null
   name_en: That's all you've got?!
   one_time: 0
@@ -99,7 +89,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4-6
   one_time: null
@@ -107,7 +96,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 100% damage (2 hits, 50% each)
-  desc_jp: Deal 100% damage (2 hits, 50% each)
   max_atk_pct: 100
   name_en: Dragon Fang
   one_time: 0
@@ -115,7 +103,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 7
   one_time: null
@@ -123,7 +110,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 5 turns
-  desc_jp: Reduce damage from all sources by 50% for 5 turns
   max_atk_pct: null
   name_en: Dragon Shield
   one_time: 0
@@ -131,7 +117,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 8
   one_time: null
@@ -139,7 +124,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 300% for the next 999 turns
-  desc_jp: Increase damage to 300% for the next 999 turns
   max_atk_pct: null
   name_en: This is my true power!
   one_time: 0
@@ -147,7 +131,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 100% damage (2 hits, 50% each)
-  desc_jp: Deal 100% damage (2 hits, 50% each)
   max_atk_pct: 100
   name_en: Dragon Fang
   one_time: 0

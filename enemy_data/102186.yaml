@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Absorb damage >= 3000000 damage for 10 turns (Preemptive)
-  desc_jp: Absorb damage >= 3000000 damage for 10 turns (Preemptive)
   max_atk_pct: null
   name_en: Hydro Charger
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -34,7 +32,6 @@ records:
 - !SkillRecord
   desc_en: Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer orbs, Deal
     100% damage
-  desc_jp: Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer orbs, Deal
     100% damage
   max_atk_pct: 100
   name_en: Ultra Sonic
@@ -44,7 +41,6 @@ records:
 - !SkillRecord
   desc_en: Change 1st, 2nd, 3rd, 4th, 5th row to Water, Jammer, Poison orbs, Deal
     360% damage
-  desc_jp: Change 1st, 2nd, 3rd, 4th, 5th row to Water, Jammer, Poison orbs, Deal
     360% damage
   max_atk_pct: 360
   name_en: Hydro Cyclone Beam
@@ -53,7 +49,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -62,7 +57,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 1 turns + Deal 60% damage (2
     hits, 30% each)
-  desc_jp: Reduce damage from all sources by 75% for 1 turns + Deal 60% damage (2
     hits, 30% each)
   max_atk_pct: null
   name_en: Stabilizer + Shark Bit Attack
@@ -71,7 +65,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Delay active skills by 2~7 turns + Deal 60% damage (2 hits, 30% each)
-  desc_jp: Delay active skills by 2~7 turns + Deal 60% damage (2 hits, 30% each)
   max_atk_pct: null
   name_en: Water Dragon Armor Piercing Bullet + Shark Bit Attack
   one_time: 0
@@ -79,7 +72,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Player -99% HP + Deal 60% damage (2 hits, 30% each)
-  desc_jp: Player -99% HP + Deal 60% damage (2 hits, 30% each)
   max_atk_pct: null
   name_en: Full Ahead + Shark Bit Attack
   one_time: 0
@@ -87,7 +79,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Deal 140% damage (2 hits, 70% each) + Deal 60% damage (2 hits, 30% each)
-  desc_jp: Deal 140% damage (2 hits, 70% each) + Deal 60% damage (2 hits, 30% each)
   max_atk_pct: null
   name_en: 114 Type Torpedo + Shark Bit Attack
   one_time: 0
@@ -95,7 +86,6 @@ records:
   usage_pct: 40
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -103,7 +93,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1-7
   one_time: null
@@ -112,7 +101,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 1 turns + Deal 60% damage (2
     hits, 30% each)
-  desc_jp: Reduce damage from all sources by 75% for 1 turns + Deal 60% damage (2
     hits, 30% each)
   max_atk_pct: null
   name_en: Stabilizer + Shark Bit Attack
@@ -121,7 +109,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Delay active skills by 2~7 turns + Deal 60% damage (2 hits, 30% each)
-  desc_jp: Delay active skills by 2~7 turns + Deal 60% damage (2 hits, 30% each)
   max_atk_pct: null
   name_en: Water Dragon Armor Piercing Bullet + Shark Bit Attack
   one_time: 0
@@ -129,7 +116,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Player -99% HP + Deal 60% damage (2 hits, 30% each)
-  desc_jp: Player -99% HP + Deal 60% damage (2 hits, 30% each)
   max_atk_pct: null
   name_en: Full Ahead + Shark Bit Attack
   one_time: 0
@@ -137,7 +123,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Deal 140% damage (2 hits, 70% each) + Deal 60% damage (2 hits, 30% each)
-  desc_jp: Deal 140% damage (2 hits, 70% each) + Deal 60% damage (2 hits, 30% each)
   max_atk_pct: null
   name_en: 114 Type Torpedo + Shark Bit Attack
   one_time: 0
@@ -145,7 +130,6 @@ records:
   usage_pct: 40
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 8
   one_time: null
@@ -154,7 +138,6 @@ records:
 - !SkillRecord
   desc_en: Change 1st, 2nd, 3rd, 4th, 5th row to Water, Jammer, Poison orbs, Deal
     360% damage
-  desc_jp: Change 1st, 2nd, 3rd, 4th, 5th row to Water, Jammer, Poison orbs, Deal
     360% damage
   max_atk_pct: 360
   name_en: Hydro Cyclone Beam

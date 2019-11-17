@@ -18,7 +18,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns (Preemptive)
   max_atk_pct: null
   name_en: You're on vacation, take a rest
   one_time: 0
@@ -26,7 +25,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -34,7 +32,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player recover 100% hp, (if [1531, 1532] on team)
-  desc_jp: Player recover 100% hp, (if [1531, 1532] on team)
   max_atk_pct: null
   name_en: I'm so happy you came!
   one_time: 0
@@ -42,7 +39,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Bind active skills for 2~3 turns
-  desc_jp: Bind active skills for 2~3 turns
   max_atk_pct: null
   name_en: It's a little cold, but do you want a drink?
   one_time: 0
@@ -50,7 +46,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -58,7 +53,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 3 Water orbs, Deal 100% damage
-  desc_jp: Spawn random 3 Water orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: A cold wave washes over you
   one_time: 0
@@ -66,7 +60,6 @@ records:
   usage_pct: 90
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -74,7 +67,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -82,7 +74,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player recover 100% hp, (if [1531, 1532] on team)
-  desc_jp: Player recover 100% hp, (if [1531, 1532] on team)
   max_atk_pct: null
   name_en: I'm so happy you came!
   one_time: 0
@@ -90,7 +81,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Bind active skills for 2~3 turns
-  desc_jp: Bind active skills for 2~3 turns
   max_atk_pct: null
   name_en: It's a little cold, but do you want a drink?
   one_time: 0
@@ -98,7 +88,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Bind 3 random cards for 2 turns
-  desc_jp: Bind 3 random cards for 2 turns
   max_atk_pct: null
   name_en: You'll freeze this close to me
   one_time: 1
@@ -106,7 +95,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Spawn random 4 Water orbs, Deal 120% damage
-  desc_jp: Spawn random 4 Water orbs, Deal 120% damage
   max_atk_pct: 120
   name_en: A cold wind blows
   one_time: 0
@@ -114,7 +102,6 @@ records:
   usage_pct: 70
 - !SkillRecord
   desc_en: Spawn random 3 Water orbs, Deal 100% damage
-  desc_jp: Spawn random 3 Water orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: A cold wave washes over you
   one_time: 0
@@ -122,7 +109,6 @@ records:
   usage_pct: 90
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -130,7 +116,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -138,7 +123,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player recover 100% hp, (if [1531, 1532] on team)
-  desc_jp: Player recover 100% hp, (if [1531, 1532] on team)
   max_atk_pct: null
   name_en: I'm so happy you came!
   one_time: 0
@@ -146,7 +130,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Bind active skills for 2~3 turns
-  desc_jp: Bind active skills for 2~3 turns
   max_atk_pct: null
   name_en: It's a little cold, but do you want a drink?
   one_time: 0
@@ -154,7 +137,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Player -100% HP
-  desc_jp: Player -100% HP
   max_atk_pct: null
   name_en: Absolute Zero Summer
   one_time: 0
@@ -162,7 +144,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 210% damage (3 hits, 70% each)
-  desc_jp: Deal 210% damage (3 hits, 70% each)
   max_atk_pct: 210
   name_en: A blizzard rages
   one_time: 0

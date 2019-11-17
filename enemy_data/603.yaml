@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Do nothing
-  desc_jp: Do nothing
   max_atk_pct: null
   name_en: Wait and See
   one_time: 0

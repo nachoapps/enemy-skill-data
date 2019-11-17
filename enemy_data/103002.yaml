@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 50%
-  desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -33,7 +32,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 50%
-  desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -42,7 +40,6 @@ records:
 - !SkillRecord
   desc_en: Delay active skills by 2 turns + Lock all Wood, Heal orbs, Deal 80% damage
     (Preemptive)
-  desc_jp: Delay active skills by 2 turns + Lock all Wood, Heal orbs, Deal 80% damage
     (Preemptive)
   max_atk_pct: null
   name_en: Visitor, come here but do not rush + Dimension-Miracle
@@ -51,7 +48,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -60,7 +56,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Change all orbs to Jammer, Deal 60%
     damage, (if [2145, 2146, 2972] on team)
-  desc_jp: Voids status ailments for 999 turns + Change all orbs to Jammer, Deal 60%
     damage, (if [2145, 2146, 2972] on team)
   max_atk_pct: null
   name_en: Tranquility suits you well + Sacred Grounds of the Green Earth
@@ -70,7 +65,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Change all orbs to Jammer, Deal 60%
     damage
-  desc_jp: Voids status ailments for 999 turns + Change all orbs to Jammer, Deal 60%
     damage
   max_atk_pct: null
   name_en: Mountain Dragon God's Protection + Sacred Grounds of the Green Earth
@@ -79,7 +73,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -87,7 +80,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -95,7 +87,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 3 Wood, Heal orbs, Deal 140% damage
-  desc_jp: Spawn random 3 Wood, Heal orbs, Deal 140% damage
   max_atk_pct: 140
   name_en: Blue Wind of the Green Fate
   one_time: 0
@@ -103,7 +94,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -111,7 +101,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Lock all Wood, Heal orbs, Deal 80% damage
-  desc_jp: Lock all Wood, Heal orbs, Deal 80% damage
   max_atk_pct: 80
   name_en: Dimension-Miracle
   one_time: 1
@@ -119,7 +108,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Lock 6 random Fire, Water, Wood, Light, Dark orbs, Deal 80% damage
-  desc_jp: Lock 6 random Fire, Water, Wood, Light, Dark orbs, Deal 80% damage
   max_atk_pct: 80
   name_en: Dimension-Miracle
   one_time: 1
@@ -127,7 +115,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change all orbs to Jammer, Deal 60% damage
-  desc_jp: Change all orbs to Jammer, Deal 60% damage
   max_atk_pct: 60
   name_en: Sacred Grounds of the Green Earth
   one_time: 0
@@ -135,7 +122,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -143,7 +129,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -153,7 +138,6 @@ records:
   desc_en: Voids status ailments for 999 turns + Change all orbs to Jammer, Deal 60%
     damage + Reduce damage from all sources by 75% for 1 turns, (if [2145, 2146, 2972]
     on team)
-  desc_jp: Voids status ailments for 999 turns + Change all orbs to Jammer, Deal 60%
     damage + Reduce damage from all sources by 75% for 1 turns, (if [2145, 2146, 2972]
     on team)
   max_atk_pct: null
@@ -165,7 +149,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Change all orbs to Jammer, Deal 60%
     damage + Reduce damage from all sources by 75% for 1 turns
-  desc_jp: Voids status ailments for 999 turns + Change all orbs to Jammer, Deal 60%
     damage + Reduce damage from all sources by 75% for 1 turns
   max_atk_pct: null
   name_en: Mountain Dragon God's Protection + Sacred Grounds of the Green Earth +
@@ -175,7 +158,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -183,7 +165,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change all orbs to Wood, Jammer, Poison, Deal 200% damage
-  desc_jp: Change all orbs to Wood, Jammer, Poison, Deal 200% damage
   max_atk_pct: 200
   name_en: Raging Wind of the Earth
   one_time: 1
@@ -191,7 +172,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -200,7 +180,6 @@ records:
 - !SkillRecord
   desc_en: Lock 18 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 80% damage
-  desc_jp: Lock 18 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 80% damage
   max_atk_pct: 80
   name_en: Summit Miracle
@@ -209,7 +188,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 3
   one_time: null
@@ -217,7 +195,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 1 turns
-  desc_jp: Reduce damage from all sources by 75% for 1 turns
   max_atk_pct: null
   name_en: Magatama of Yin and Yang
   one_time: 0

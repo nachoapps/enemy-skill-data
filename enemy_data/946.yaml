@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Player recover 100% hp (Preemptive)
-  desc_jp: Player recover 100% hp (Preemptive)
   max_atk_pct: null
   name_en: アイス食べる？
   one_time: 0

@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Change Random to Water, Deal 100% damage (Preemptive)
-  desc_jp: Change Random to Water, Deal 100% damage (Preemptive)
   max_atk_pct: 100
   name_en: 財宝はいただくニャ！
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Random to Water, Deal 100% damage
-  desc_jp: Change Random to Water, Deal 100% damage
   max_atk_pct: 100
   name_en: 財宝はいただくニャ！
   one_time: 0

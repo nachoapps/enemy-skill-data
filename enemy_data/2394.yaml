@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 50%
-  desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -33,7 +32,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 50%
-  desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -42,7 +40,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Mortal Poison skyfall +15% for 5
     turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Mortal Poison skyfall +15% for 5
     turns (Preemptive)
   max_atk_pct: null
   name_en: Welcome! + Take it easy please
@@ -51,7 +48,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -59,7 +55,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Mortal Poison to Heal, Deal 150% damage
-  desc_jp: Change Mortal Poison to Heal, Deal 150% damage
   max_atk_pct: 150
   name_en: It's as dangerous as a beautiful flower
   one_time: 1
@@ -68,7 +63,6 @@ records:
 - !SkillRecord
   desc_en: Change 2nd row to Wood, Dark orbs, 4th row to Wood, Dark orbs, Deal 50%
     damage + Leader changes to random sub for 1 turns
-  desc_jp: Change 2nd row to Wood, Dark orbs, 4th row to Wood, Dark orbs, Deal 50%
     damage + Leader changes to random sub for 1 turns
   max_atk_pct: null
   name_en: This flower is beautiful, right? + Those ones are splendid too
@@ -78,7 +72,6 @@ records:
 - !SkillRecord
   desc_en: Change 2nd row to Wood, Dark orbs, 4th row to Wood, Dark orbs, Deal 50%
     damage + Delay active skills by 1~2 turns, Deal 30% damage
-  desc_jp: Change 2nd row to Wood, Dark orbs, 4th row to Wood, Dark orbs, Deal 50%
     damage + Delay active skills by 1~2 turns, Deal 30% damage
   max_atk_pct: null
   name_en: This flower is beautiful, right? + This one is cute too
@@ -88,7 +81,6 @@ records:
 - !SkillRecord
   desc_en: Change 2nd row to Wood, Dark orbs, 4th row to Wood, Dark orbs, Deal 50%
     damage + Deal 45% damage (3 hits, 15% each)
-  desc_jp: Change 2nd row to Wood, Dark orbs, 4th row to Wood, Dark orbs, Deal 50%
     damage + Deal 45% damage (3 hits, 15% each)
   max_atk_pct: null
   name_en: This flower is beautiful, right? + Lovely Aroma
@@ -97,7 +89,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -106,7 +97,6 @@ records:
 - !SkillRecord
   desc_en: Change 2nd row to Wood, Dark orbs, 4th row to Wood, Dark orbs, Deal 50%
     damage + Delay active skills by 1~2 turns, Deal 30% damage
-  desc_jp: Change 2nd row to Wood, Dark orbs, 4th row to Wood, Dark orbs, Deal 50%
     damage + Delay active skills by 1~2 turns, Deal 30% damage
   max_atk_pct: null
   name_en: This flower is beautiful, right? + This one is cute too
@@ -116,7 +106,6 @@ records:
 - !SkillRecord
   desc_en: Change 2nd row to Wood, Dark orbs, 4th row to Wood, Dark orbs, Deal 50%
     damage + Deal 45% damage (3 hits, 15% each)
-  desc_jp: Change 2nd row to Wood, Dark orbs, 4th row to Wood, Dark orbs, Deal 50%
     damage + Deal 45% damage (3 hits, 15% each)
   max_atk_pct: null
   name_en: This flower is beautiful, right? + Lovely Aroma
@@ -125,7 +114,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -133,7 +121,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change all orbs to Mortal Poison, Deal 100% damage
-  desc_jp: Change all orbs to Mortal Poison, Deal 100% damage
   max_atk_pct: 100
   name_en: Flowers in full bloom are splendid!
   one_time: 0
@@ -141,7 +128,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Enemy is defeated
   one_time: null
@@ -149,7 +135,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -157,7 +142,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Enemy recover 50% hp + Movetime 50% for 10 turns
-  desc_jp: Enemy recover 50% hp + Movetime 50% for 10 turns
   max_atk_pct: null
   name_en: 'Covering myself in flowers
 

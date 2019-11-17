@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Player recover 100% hp + Player -80% HP (Preemptive)
-  desc_jp: Player recover 100% hp + Player -80% HP (Preemptive)
   max_atk_pct: null
   name_en: I haven't seen you in a while + I'll step on you again
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 80% damage, (if [978] on team)
-  desc_jp: Deal 80% damage, (if [978] on team)
   max_atk_pct: 80
   name_en: E-Evil eye??
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 70% damage, (if [977] on team)
-  desc_jp: Deal 70% damage, (if [977] on team)
   max_atk_pct: 70
   name_en: Would the two of you like some tea?
   one_time: 0
@@ -49,7 +45,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 80% damage, (if [976] on team)
-  desc_jp: Deal 80% damage, (if [976] on team)
   max_atk_pct: 80
   name_en: I'll shave off your beard!
   one_time: 0
@@ -57,7 +52,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 90% damage, (if [974] on team)
-  desc_jp: Deal 90% damage, (if [974] on team)
   max_atk_pct: 90
   name_en: You're too close!
   one_time: 0
@@ -65,7 +59,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -73,7 +66,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 80% damage (2 hits, 40% each)
-  desc_jp: Deal 80% damage (2 hits, 40% each)
   max_atk_pct: 80
   name_en: My eyes are up here!
   one_time: 0
@@ -81,7 +73,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 70
   one_time: null
@@ -89,7 +80,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -97,7 +87,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 80% damage, (if [978] on team)
-  desc_jp: Deal 80% damage, (if [978] on team)
   max_atk_pct: 80
   name_en: E-Evil eye??
   one_time: 0
@@ -105,7 +94,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 70% damage, (if [977] on team)
-  desc_jp: Deal 70% damage, (if [977] on team)
   max_atk_pct: 70
   name_en: Would the two of you like some tea?
   one_time: 0
@@ -113,7 +101,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 80% damage, (if [976] on team)
-  desc_jp: Deal 80% damage, (if [976] on team)
   max_atk_pct: 80
   name_en: I'll shave off your beard!
   one_time: 0
@@ -121,7 +108,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 90% damage, (if [974] on team)
-  desc_jp: Deal 90% damage, (if [974] on team)
   max_atk_pct: 90
   name_en: You're too close!
   one_time: 0
@@ -129,7 +115,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Spawn random 4 Poison orbs, Deal 80% damage
-  desc_jp: Spawn random 4 Poison orbs, Deal 80% damage
   max_atk_pct: 80
   name_en: Summer Poison
   one_time: 0
@@ -137,7 +122,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: Deal 80% damage (2 hits, 40% each)
-  desc_jp: Deal 80% damage (2 hits, 40% each)
   max_atk_pct: 80
   name_en: My eyes are up here!
   one_time: 0
@@ -145,7 +129,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -153,7 +136,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -161,7 +143,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 80% damage, (if [978] on team)
-  desc_jp: Deal 80% damage, (if [978] on team)
   max_atk_pct: 80
   name_en: E-Evil eye??
   one_time: 0
@@ -169,7 +150,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 70% damage, (if [977] on team)
-  desc_jp: Deal 70% damage, (if [977] on team)
   max_atk_pct: 70
   name_en: Would the two of you like some tea?
   one_time: 0
@@ -177,7 +157,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 80% damage, (if [976] on team)
-  desc_jp: Deal 80% damage, (if [976] on team)
   max_atk_pct: 80
   name_en: I'll shave off your beard!
   one_time: 0
@@ -185,7 +164,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 90% damage, (if [974] on team)
-  desc_jp: Deal 90% damage, (if [974] on team)
   max_atk_pct: 90
   name_en: You're too close!
   one_time: 0
@@ -193,7 +171,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Bind 1 own leader for 3 turns
-  desc_jp: Bind 1 own leader for 3 turns
   max_atk_pct: null
   name_en: Mid-Summer Embrace
   one_time: 1
@@ -201,7 +178,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
   one_time: null
@@ -209,7 +185,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -217,7 +192,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 80% damage, (if [978] on team)
-  desc_jp: Deal 80% damage, (if [978] on team)
   max_atk_pct: 80
   name_en: E-Evil eye??
   one_time: 0
@@ -225,7 +199,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 70% damage, (if [977] on team)
-  desc_jp: Deal 70% damage, (if [977] on team)
   max_atk_pct: 70
   name_en: Would the two of you like some tea?
   one_time: 0
@@ -233,7 +206,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 80% damage, (if [976] on team)
-  desc_jp: Deal 80% damage, (if [976] on team)
   max_atk_pct: 80
   name_en: I'll shave off your beard!
   one_time: 0
@@ -241,7 +213,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 90% damage, (if [974] on team)
-  desc_jp: Deal 90% damage, (if [974] on team)
   max_atk_pct: 90
   name_en: You're too close!
   one_time: 0
@@ -249,7 +220,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Do nothing
-  desc_jp: Do nothing
   max_atk_pct: null
   name_en: Summer Princess's Command
   one_time: 0
@@ -257,7 +227,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 500% damage (5 hits, 100% each)
-  desc_jp: Deal 500% damage (5 hits, 100% each)
   max_atk_pct: 500
   name_en: Sea Dragon Summer Offensive
   one_time: 0

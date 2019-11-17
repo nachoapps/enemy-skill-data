@@ -18,7 +18,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from Light, Dark by 50%
-  desc_jp: Reduce damage from Light, Dark by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -26,7 +25,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 76%
-  desc_jp: Survive attacks with 1 HP when HP > 76%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -35,7 +33,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Unable to match Heal orbs for 3 turns
     (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Unable to match Heal orbs for 3 turns
     (Preemptive)
   max_atk_pct: null
   name_en: Saint's Robe + Staff of Destiny
@@ -44,7 +41,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -52,7 +48,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -50% HP
-  desc_jp: Player -50% HP
   max_atk_pct: null
   name_en: Corsier
   one_time: 8
@@ -60,7 +55,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -68,7 +62,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 140% damage (2 hits, 70% each)
-  desc_jp: Deal 140% damage (2 hits, 70% each)
   max_atk_pct: 140
   name_en: Arentillia
   one_time: 4
@@ -76,7 +69,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -84,7 +76,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 100% damage + Player recover 100% hp
-  desc_jp: Blind all orbs on the board, Deal 100% damage + Player recover 100% hp
   max_atk_pct: null
   name_en: Goudenbel + Cure
   one_time: 2
@@ -92,7 +83,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -101,7 +91,6 @@ records:
 - !SkillRecord
   desc_en: Change own attribute to random one of Dark, Light + Deal 140% damage (2
     hits, 70% each)
-  desc_jp: Change own attribute to random one of Dark, Light + Deal 140% damage (2
     hits, 70% each)
   max_atk_pct: null
   name_en: Another Fate + Arentillia
@@ -110,7 +99,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -118,7 +106,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -126,7 +113,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Unable to match Fire orbs for 2 turns
-  desc_jp: Unable to match Fire orbs for 2 turns
   max_atk_pct: null
   name_en: Staff of Destiny
   one_time: 0
@@ -134,7 +120,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Unable to match Water orbs for 2 turns
-  desc_jp: Unable to match Water orbs for 2 turns
   max_atk_pct: null
   name_en: Staff of Destiny
   one_time: 0
@@ -142,7 +127,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Unable to match Wood orbs for 2 turns
-  desc_jp: Unable to match Wood orbs for 2 turns
   max_atk_pct: null
   name_en: Staff of Destiny
   one_time: 0
@@ -150,7 +134,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Unable to match Light orbs for 2 turns
-  desc_jp: Unable to match Light orbs for 2 turns
   max_atk_pct: null
   name_en: Staff of Destiny
   one_time: 0
@@ -158,7 +141,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Unable to match Dark orbs for 2 turns
-  desc_jp: Unable to match Dark orbs for 2 turns
   max_atk_pct: null
   name_en: Staff of Destiny
   one_time: 0
@@ -166,7 +148,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -174,7 +155,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Delay active skills by 1 turns, Deal 250% damage
-  desc_jp: Delay active skills by 1 turns, Deal 250% damage
   max_atk_pct: 250
   name_en: Misheliente
   one_time: 0
@@ -182,7 +162,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 80
   one_time: null
@@ -190,7 +169,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -198,7 +176,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 10 turns
-  desc_jp: Reduce damage from all sources by 50% for 10 turns
   max_atk_pct: null
   name_en: Sanctuary
   one_time: 8
@@ -206,7 +183,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -214,7 +190,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -222,7 +197,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change own attribute to Light + Deal 140% damage (2 hits, 70% each)
-  desc_jp: Change own attribute to Light + Deal 140% damage (2 hits, 70% each)
   max_atk_pct: null
   name_en: Apotheosis Omen + Arentillia
   one_time: 1
@@ -230,7 +204,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 35
   one_time: null
@@ -238,7 +211,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -246,7 +218,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb combo <= 6 damage for 999 turns
-  desc_jp: Absorb combo <= 6 damage for 999 turns
   max_atk_pct: null
   name_en: Sage Wisdom
   one_time: 0
@@ -254,7 +225,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -262,7 +232,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 10 turns
-  desc_jp: Reduce damage from all sources by 50% for 10 turns
   max_atk_pct: null
   name_en: Sanctuary
   one_time: 8
@@ -270,7 +239,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -278,7 +246,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 140% damage (2 hits, 70% each)
-  desc_jp: Deal 140% damage (2 hits, 70% each)
   max_atk_pct: 140
   name_en: Arentillia
   one_time: 4
@@ -286,7 +253,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -294,7 +260,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 100% damage + Player recover 100% hp
-  desc_jp: Blind all orbs on the board, Deal 100% damage + Player recover 100% hp
   max_atk_pct: null
   name_en: Goudenbel + Cure
   one_time: 2
@@ -302,7 +267,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
   one_time: null
@@ -310,7 +274,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change own attribute to Light + Deal 140% damage (2 hits, 70% each)
-  desc_jp: Change own attribute to Light + Deal 140% damage (2 hits, 70% each)
   max_atk_pct: null
   name_en: Apotheosis Omen + Arentillia
   one_time: 1
@@ -318,7 +281,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -326,7 +288,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 1200% damage (4 hits, 300% each)
-  desc_jp: Deal 1200% damage (4 hits, 300% each)
   max_atk_pct: 1200
   name_en: Rizentbard
   one_time: 0
@@ -334,7 +295,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Enemy is defeated
   one_time: null
@@ -342,7 +302,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Enemy recover 15% hp + Absorb combo <= 6 damage for 999 turns
-  desc_jp: Enemy recover 15% hp + Absorb combo <= 6 damage for 999 turns
   max_atk_pct: null
   name_en: Divine Cure + Sage Wisdom
   one_time: 0

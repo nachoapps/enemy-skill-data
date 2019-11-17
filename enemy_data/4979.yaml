@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Movetime 150% for 5 turns + Absorb combo <= 7 damage for 5 turns (Preemptive)
-  desc_jp: Movetime 150% for 5 turns + Absorb combo <= 7 damage for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: お前の実力　いかほどのものか… + このオロチが　試させてもらう！
   one_time: 2
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 100% damage
-  desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: ゆけ！　双龍の牙！
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 34
 - !SkillRecord
   desc_en: Change Random to Light, Deal 95% damage
-  desc_jp: Change Random to Light, Deal 95% damage
   max_atk_pct: 95
   name_en: くらえ！　雷神の術！
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Change 3rd row to Dark orbs, Deal 90% damage
-  desc_jp: Change 3rd row to Dark orbs, Deal 90% damage
   max_atk_pct: 90
   name_en: 我が龍よ！　くらいつくせ！
   one_time: 0
@@ -49,7 +45,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -57,7 +52,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -65,7 +59,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 300% damage
-  desc_jp: Blind all orbs on the board, Deal 300% damage
   max_atk_pct: 300
   name_en: 闇に消えろ！
   one_time: 0
@@ -73,7 +66,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 20
   one_time: null
@@ -81,7 +73,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -89,7 +80,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Movetime 50% for 5 turns + Increase damage to 150% for the next 5 turns
-  desc_jp: Movetime 50% for 5 turns + Increase damage to 150% for the next 5 turns
   max_atk_pct: null
   name_en: このチカラ　まさに強敵…！ + 『とも』と呼ぶにふさわしい！
   one_time: 1
@@ -97,7 +87,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 200% damage (4 hits, 50% each)
-  desc_jp: Deal 200% damage (4 hits, 50% each)
   max_atk_pct: 200
   name_en: やまたのおろち
   one_time: 0

@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Deal 40% damage
     (Preemptive)
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Deal 40% damage
     (Preemptive)
   max_atk_pct: 40
   name_en: Tell me, do you bleed?
@@ -27,7 +26,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Light to Dark, Deal 100% damage
-  desc_jp: Change Light to Dark, Deal 100% damage
   max_atk_pct: 100
   name_en: Kryptonite Weaponry
   one_time: 0
@@ -35,7 +33,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Lock all Dark orbs, Deal 110% damage
-  desc_jp: Lock all Dark orbs, Deal 110% damage
   max_atk_pct: 110
   name_en: Kryptonite Spear
   one_time: 0
@@ -43,7 +40,6 @@ records:
   usage_pct: 60
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
   one_time: null
@@ -51,7 +47,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -59,7 +54,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind 1 subs for 3 turns, Deal 100% damage
-  desc_jp: Bind 1 subs for 3 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Kryptonite Gas Grenade
   one_time: 2
@@ -67,7 +61,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 15
   one_time: null
@@ -75,7 +68,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -83,7 +75,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 3rd, 4th column to Jammer orbs, Deal 250% damage
-  desc_jp: Change 3rd, 4th column to Jammer orbs, Deal 250% damage
   max_atk_pct: 250
   name_en: Well, here I am!
   one_time: 1

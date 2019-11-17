@@ -18,7 +18,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from Fire, Wood by 50%
-  desc_jp: Reduce damage from Fire, Wood by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -27,7 +26,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Light, Dark damage for 5 turns + Change Heal to Fire, Deal 90% damage
     (Preemptive)
-  desc_jp: Absorb Light, Dark damage for 5 turns + Change Heal to Fire, Deal 90% damage
     (Preemptive)
   max_atk_pct: null
   name_en: Sangen Mechanism + Heal-to-Red Twist Puppetry
@@ -37,7 +35,6 @@ records:
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Wood + Change Water to Wood,
     Deal 110% damage
-  desc_jp: Change own attribute to random one of Fire, Wood + Change Water to Wood,
     Deal 110% damage
   max_atk_pct: null
   name_en: Elemental Flip + Blue-to-Green Twist Puppetry
@@ -47,7 +44,6 @@ records:
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Wood + Change Heal to Fire,
     Deal 90% damage
-  desc_jp: Change own attribute to random one of Fire, Wood + Change Heal to Fire,
     Deal 90% damage
   max_atk_pct: null
   name_en: Elemental Flip + Heal-to-Red Twist Puppetry
@@ -57,7 +53,6 @@ records:
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Wood + Change 3rd row to Wood
     orbs, Deal 100% damage
-  desc_jp: Change own attribute to random one of Fire, Wood + Change 3rd row to Wood
     orbs, Deal 100% damage
   max_atk_pct: null
   name_en: Elemental Flip + Green Line Stitch Puppetry
@@ -66,7 +61,6 @@ records:
   usage_pct: 35
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -74,7 +68,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -82,7 +75,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Voids status ailments for 1 turns + Spawn random 15 Jammer orbs
-  desc_jp: Voids status ailments for 1 turns + Spawn random 15 Jammer orbs
   max_atk_pct: null
   name_en: Impassive + Orb Destruction
   one_time: 1
@@ -90,7 +82,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -99,7 +90,6 @@ records:
 - !SkillRecord
   desc_en: Change 1st, 3rd, 5th row to Fire orbs, 2nd, 4th row to Wood orbs, Deal
     220% damage
-  desc_jp: Change 1st, 3rd, 5th row to Fire orbs, 2nd, 4th row to Wood orbs, Deal
     220% damage
   max_atk_pct: 220
   name_en: Red-to-Green Stitch Puppetry

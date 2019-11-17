@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Spawn random 3 Bomb orbs, Deal 100% damage
-  desc_jp: Spawn random 3 Bomb orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Ninja Dog Gnawing Technique
   one_time: 1
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -41,7 +38,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 3 Bomb orbs, Deal 100% damage
-  desc_jp: Spawn random 3 Bomb orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Ninja Dog Gnawing Technique
   one_time: 1
@@ -49,7 +45,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -57,7 +52,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 350%~560% damage (5~8 hits, 70% each)
-  desc_jp: Deal 350%~560% damage (5~8 hits, 70% each)
   max_atk_pct: 560
   name_en: Ninja Dog Scramble - Big Curtain
   one_time: 0

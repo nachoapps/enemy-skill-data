@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Absorb combo <= 7 damage for 10 turns (Preemptive)
-  desc_jp: Absorb combo <= 7 damage for 10 turns (Preemptive)
   max_atk_pct: null
   name_en: 全て…壊す…
   one_time: 1
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Display '3' and skip turn
-  desc_jp: Display '3' and skip turn
   max_atk_pct: null
   name_en: Countdown Message
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 0
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Display '2' and skip turn
-  desc_jp: Display '2' and skip turn
   max_atk_pct: null
   name_en: Countdown Message
   one_time: 0
@@ -57,7 +52,6 @@ records:
   usage_pct: 0
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -65,7 +59,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Display '1' and skip turn
-  desc_jp: Display '1' and skip turn
   max_atk_pct: null
   name_en: Countdown Message
   one_time: 0
@@ -73,7 +66,6 @@ records:
   usage_pct: 0
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 4
   one_time: null
@@ -81,7 +73,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 20000% damage (10 hits, 2000% each)
-  desc_jp: Deal 20000% damage (10 hits, 2000% each)
   max_atk_pct: 20000
   name_en: …終わり…だ
   one_time: 0

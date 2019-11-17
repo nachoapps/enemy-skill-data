@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Absorb combo <= 6 damage for 1 turns (Preemptive)
-  desc_jp: Absorb combo <= 6 damage for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: Standing ready
   one_time: 1
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 120% damage (6 hits, 20% each)
-  desc_jp: Deal 120% damage (6 hits, 20% each)
   max_atk_pct: 120
   name_en: Alter Ego
   one_time: 0

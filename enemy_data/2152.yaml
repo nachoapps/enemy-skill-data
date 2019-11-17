@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Bind active skills for 3 turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Bind active skills for 3 turns (Preemptive)
   max_atk_pct: null
   name_en: 悪魔龍の滅角 + 封印の暗黒
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 100% damage (2 hits, 50% each)
-  desc_jp: Deal 100% damage (2 hits, 50% each)
   max_atk_pct: 100
   name_en: Ｗ・ブレイカー
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 80
   one_time: null
@@ -41,7 +38,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Heal to Jammer, Deal 90% damage
-  desc_jp: Change Heal to Jammer, Deal 90% damage
   max_atk_pct: 90
   name_en: 漆黒の龍輪
   one_time: 0
@@ -49,7 +45,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 100% damage (2 hits, 50% each)
-  desc_jp: Deal 100% damage (2 hits, 50% each)
   max_atk_pct: 100
   name_en: Ｗ・ブレイカー
   one_time: 0
@@ -57,7 +52,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -65,7 +59,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -74,7 +67,6 @@ records:
 - !SkillRecord
   desc_en: Blind all orbs on the board + Change all orbs to Fire, Water, Wood, Light,
     Dark
-  desc_jp: Blind all orbs on the board + Change all orbs to Fire, Water, Wood, Light,
     Dark
   max_atk_pct: null
   name_en: 絶望のパズル + 隠されし希望
@@ -83,7 +75,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -91,7 +82,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 300% damage
-  desc_jp: Deal 300% damage
   max_atk_pct: 300
   name_en: デーモンヘルブレス
   one_time: 0

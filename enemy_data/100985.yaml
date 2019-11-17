@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 90%
-  desc_jp: Survive attacks with 1 HP when HP > 90%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Bind 1 random for 3 turns, Deal 400% damage (Preemptive)
-  desc_jp: Bind 1 random for 3 turns, Deal 400% damage (Preemptive)
   max_atk_pct: 400
   name_en: Divine Queen's Time Seal
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Light to Jammer, Deal 90% damage
-  desc_jp: Change Light to Jammer, Deal 90% damage
   max_atk_pct: 90
   name_en: Black Nightmare
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -57,7 +52,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind God cards for 5 turns
-  desc_jp: Bind God cards for 5 turns
   max_atk_pct: null
   name_en: Divine Queen's Breath
   one_time: 1
@@ -65,7 +59,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Light to Jammer, Deal 90% damage
-  desc_jp: Change Light to Jammer, Deal 90% damage
   max_atk_pct: 90
   name_en: Black Nightmare
   one_time: 0
@@ -73,7 +66,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
   one_time: null
@@ -81,7 +73,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -89,7 +80,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind God cards for 5 turns
-  desc_jp: Bind God cards for 5 turns
   max_atk_pct: null
   name_en: Divine Queen's Breath
   one_time: 1
@@ -97,7 +87,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Player -99% HP
-  desc_jp: Player -99% HP
   max_atk_pct: null
   name_en: Ultra Gravity
   one_time: 0
@@ -105,7 +94,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 500% damage
-  desc_jp: Deal 500% damage
   max_atk_pct: 500
   name_en: Ultra Graviton Bomb
   one_time: 0

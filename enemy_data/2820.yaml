@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Do nothing + Reduce self HP to 0 (Preemptive)
-  desc_jp: Do nothing + Reduce self HP to 0 (Preemptive)
   max_atk_pct: null
   name_en: 'If I don''t finish reading
 

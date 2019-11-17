@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 50% damage (Preemptive)
-  desc_jp: Blind all orbs on the board, Deal 50% damage (Preemptive)
   max_atk_pct: 50
   name_en: Cruel War
   one_time: 1
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -99% HP
-  desc_jp: Player -99% HP
   max_atk_pct: null
   name_en: Fiery Spear of Destruction
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random to Jammer, Deal 100% damage
-  desc_jp: Change Random to Jammer, Deal 100% damage
   max_atk_pct: 100
   name_en: Dark Spear of Insanity
   one_time: 1
@@ -57,7 +52,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -65,7 +59,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -73,7 +66,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 150% damage (2 hits, 75% each)
-  desc_jp: Deal 150% damage (2 hits, 75% each)
   max_atk_pct: 150
   name_en: Wallbreaker
   one_time: 0
@@ -81,7 +73,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -89,7 +80,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 50% damage
-  desc_jp: Blind all orbs on the board, Deal 50% damage
   max_atk_pct: 50
   name_en: Cruel War
   one_time: 1

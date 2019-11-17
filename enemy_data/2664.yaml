@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from Light by 50%
-  desc_jp: Reduce damage from Light by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -26,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 10 turns + Reduce damage from all sources by
     75% for 1 turns + Bind 6 random cards for 1~3 turns (Preemptive)
-  desc_jp: Voids status ailments for 10 turns + Reduce damage from all sources by
     75% for 1 turns + Bind 6 random cards for 1~3 turns (Preemptive)
   max_atk_pct: null
   name_en: Universal Protection + Merciful Protection + Young Dragon's Chainfire
@@ -35,7 +33,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -43,7 +40,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random 3 to Jammer + Bind active skills for 10 turns
-  desc_jp: Change Random 3 to Jammer + Bind active skills for 10 turns
   max_atk_pct: null
   name_en: Fragile Fantasy + Request for Peace
   one_time: 0
@@ -51,7 +47,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -59,7 +54,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -67,7 +61,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Jammer to Heal, Deal 360% damage
-  desc_jp: Change Jammer to Heal, Deal 360% damage
   max_atk_pct: 360
   name_en: Celestial Purification
   one_time: 0
@@ -76,7 +69,6 @@ records:
 - !SkillRecord
   desc_en: Change Random to Jammer, Deal 100% damage + Spawn Bomb orbs in the specified
     positions
-  desc_jp: Change Random to Jammer, Deal 100% damage + Spawn Bomb orbs in the specified
     positions
   max_atk_pct: null
   name_en: First Ripples of Life + Young Dragon's Explosive Array
@@ -85,7 +77,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -93,7 +84,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Jammer to Heal, Deal 360% damage
-  desc_jp: Change Jammer to Heal, Deal 360% damage
   max_atk_pct: 360
   name_en: Celestial Purification
   one_time: 0
@@ -102,7 +92,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 1 turns + Change Random 3 to
     Jammer
-  desc_jp: Reduce damage from all sources by 75% for 1 turns + Change Random 3 to
     Jammer
   max_atk_pct: null
   name_en: Merciful Protection + Fragile Fantasy
@@ -111,7 +100,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 3
   one_time: null
@@ -119,7 +107,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Jammer to Heal, Deal 360% damage
-  desc_jp: Change Jammer to Heal, Deal 360% damage
   max_atk_pct: 360
   name_en: Celestial Purification
   one_time: 0
@@ -127,7 +114,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Random to Jammer, Deal 100% damage + Delay active skills by 4 turns
-  desc_jp: Change Random to Jammer, Deal 100% damage + Delay active skills by 4 turns
   max_atk_pct: null
   name_en: First Ripples of Life + Young Dragon Blast
   one_time: 0
@@ -135,7 +121,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -143,7 +128,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -152,7 +136,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 1 turns + Bind awoken skills
     for 1 turns
-  desc_jp: Reduce damage from all sources by 75% for 1 turns + Bind awoken skills
     for 1 turns
   max_atk_pct: null
   name_en: Merciful Protection + Sweet Slumber
@@ -161,7 +144,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -169,7 +151,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind active skills for 10 turns
-  desc_jp: Bind active skills for 10 turns
   max_atk_pct: null
   name_en: Request for Peace
   one_time: 1
@@ -178,7 +159,6 @@ records:
 - !SkillRecord
   desc_en: Change Random 3 to Jammer + Lock all Fire, Water, Wood, Light, Dark, Heal,
     Jammer, Poison, Mortal Poison orbs
-  desc_jp: Change Random 3 to Jammer + Lock all Fire, Water, Wood, Light, Dark, Heal,
     Jammer, Poison, Mortal Poison orbs
   max_atk_pct: null
   name_en: Fragile Fantasy + World Cleansing
@@ -187,7 +167,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
   one_time: null
@@ -195,7 +174,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 500% damage (5 hits, 100% each)
-  desc_jp: Deal 500% damage (5 hits, 100% each)
   max_atk_pct: 500
   name_en: Creation
   one_time: 0

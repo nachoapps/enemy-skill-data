@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Do nothing (Preemptive)
-  desc_jp: Do nothing (Preemptive)
   max_atk_pct: null
   name_en: I'm Pepper, nice to meet you
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Do nothing
-  desc_jp: Do nothing
   max_atk_pct: null
   name_en: Pe, pe, pe, pper!
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Do nothing
-  desc_jp: Do nothing
   max_atk_pct: null
   name_en: Let's line up Orbs!
   one_time: 0

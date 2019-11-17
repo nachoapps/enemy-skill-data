@@ -18,7 +18,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Immune to damage from all sources for 999 turns (Preemptive)
-  desc_jp: Immune to damage from all sources for 999 turns (Preemptive)
   max_atk_pct: null
   name_en: Okay, let's go!
   one_time: 0
@@ -26,7 +25,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -35,7 +33,6 @@ records:
 - !SkillRecord
   desc_en: Remove damage immunity effect + Voids status ailments for 999 turns + Void
     damage >= 25000000 for 999 turns
-  desc_jp: Remove damage immunity effect + Voids status ailments for 999 turns + Void
     damage >= 25000000 for 999 turns
   max_atk_pct: null
   name_en: Okay, get ready to rumble! + Now I'm serious! + Are you ready?
@@ -44,7 +41,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -52,7 +48,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1-6
   one_time: null
@@ -61,7 +56,6 @@ records:
 - !SkillRecord
   desc_en: Deal 68% damage (4 hits, 17% each) + Lock 12 random Fire, Water, Wood,
     Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 40% damage
-  desc_jp: Deal 68% damage (4 hits, 17% each) + Lock 12 random Fire, Water, Wood,
     Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 40% damage
   max_atk_pct: null
   name_en: Light Sword Dance Strike + Immovable Flash
@@ -71,7 +65,6 @@ records:
 - !SkillRecord
   desc_en: Deal 68% damage (4 hits, 17% each) + Blind random 7 orbs for 1 turns, Deal
     36% damage
-  desc_jp: Deal 68% damage (4 hits, 17% each) + Blind random 7 orbs for 1 turns, Deal
     36% damage
   max_atk_pct: null
   name_en: Light Sword Dance Strike + Dark Strike
@@ -81,7 +74,6 @@ records:
 - !SkillRecord
   desc_en: Deal 68% damage (4 hits, 17% each) + Random 2 orbs change every 1.0s for
     1 turns, Deal 38% damage
-  desc_jp: Deal 68% damage (4 hits, 17% each) + Random 2 orbs change every 1.0s for
     1 turns, Deal 38% damage
   max_atk_pct: null
   name_en: Light Sword Dance Strike + Furious Cut
@@ -90,7 +82,6 @@ records:
   usage_pct: 34
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 7
   one_time: null
@@ -98,7 +89,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind awoken skills for 5 turns + Enemy ally recover 100% hp
-  desc_jp: Bind awoken skills for 5 turns + Enemy ally recover 100% hp
   max_atk_pct: null
   name_en: Destructive Fighting Spririt + Seven-Star Regeneration
   one_time: 0
@@ -106,7 +96,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 75
   one_time: null
@@ -114,7 +103,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -122,7 +110,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Rcv 50% for 10 turns + Player -77% HP
-  desc_jp: Rcv 50% for 10 turns + Player -77% HP
   max_atk_pct: null
   name_en: Here I come! + Hah!!
   one_time: 0
@@ -130,7 +117,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1-5
   one_time: null
@@ -139,7 +125,6 @@ records:
 - !SkillRecord
   desc_en: Deal 68% damage (4 hits, 17% each) + Lock 12 random Fire, Water, Wood,
     Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 40% damage
-  desc_jp: Deal 68% damage (4 hits, 17% each) + Lock 12 random Fire, Water, Wood,
     Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 40% damage
   max_atk_pct: null
   name_en: Light Sword Dance Strike + Immovable Flash
@@ -149,7 +134,6 @@ records:
 - !SkillRecord
   desc_en: Deal 68% damage (4 hits, 17% each) + Blind random 7 orbs for 1 turns, Deal
     36% damage
-  desc_jp: Deal 68% damage (4 hits, 17% each) + Blind random 7 orbs for 1 turns, Deal
     36% damage
   max_atk_pct: null
   name_en: Light Sword Dance Strike + Dark Strike
@@ -159,7 +143,6 @@ records:
 - !SkillRecord
   desc_en: Deal 68% damage (4 hits, 17% each) + Random 2 orbs change every 1.0s for
     1 turns, Deal 38% damage
-  desc_jp: Deal 68% damage (4 hits, 17% each) + Random 2 orbs change every 1.0s for
     1 turns, Deal 38% damage
   max_atk_pct: null
   name_en: Light Sword Dance Strike + Furious Cut
@@ -168,7 +151,6 @@ records:
   usage_pct: 34
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6
   one_time: null
@@ -176,7 +158,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind awoken skills for 5 turns + Enemy ally recover 100% hp
-  desc_jp: Bind awoken skills for 5 turns + Enemy ally recover 100% hp
   max_atk_pct: null
   name_en: Destructive Fighting Spririt + Seven-Star Regeneration
   one_time: 0
@@ -184,7 +165,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 7
   one_time: null
@@ -193,7 +173,6 @@ records:
 - !SkillRecord
   desc_en: Deal 68% damage (4 hits, 17% each) + Lock 12 random Fire, Water, Wood,
     Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 40% damage
-  desc_jp: Deal 68% damage (4 hits, 17% each) + Lock 12 random Fire, Water, Wood,
     Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 40% damage
   max_atk_pct: null
   name_en: Light Sword Dance Strike + Immovable Flash
@@ -203,7 +182,6 @@ records:
 - !SkillRecord
   desc_en: Deal 68% damage (4 hits, 17% each) + Blind random 7 orbs for 1 turns, Deal
     36% damage
-  desc_jp: Deal 68% damage (4 hits, 17% each) + Blind random 7 orbs for 1 turns, Deal
     36% damage
   max_atk_pct: null
   name_en: Light Sword Dance Strike + Dark Strike
@@ -213,7 +191,6 @@ records:
 - !SkillRecord
   desc_en: Deal 68% damage (4 hits, 17% each) + Random 2 orbs change every 1.0s for
     1 turns, Deal 38% damage
-  desc_jp: Deal 68% damage (4 hits, 17% each) + Random 2 orbs change every 1.0s for
     1 turns, Deal 38% damage
   max_atk_pct: null
   name_en: Light Sword Dance Strike + Furious Cut
@@ -222,7 +199,6 @@ records:
   usage_pct: 34
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -230,7 +206,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -238,7 +213,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Movetime 50% for 5 turns + Voids player buff effects
-  desc_jp: Movetime 50% for 5 turns + Voids player buff effects
   max_atk_pct: null
   name_en: I'm hungry... + Chomp!
   one_time: 0
@@ -246,7 +220,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 25
   one_time: null
@@ -254,7 +227,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -262,7 +234,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Delay active skills by 12 turns + Voids player buff effects
-  desc_jp: Delay active skills by 12 turns + Voids player buff effects
   max_atk_pct: null
   name_en: I won't forgive you anymore! + Chomp!
   one_time: 0
@@ -270,7 +241,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 10
   one_time: null
@@ -279,7 +249,6 @@ records:
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Water, Wood, Light, Dark +
     Deal 1000% damage (10 hits, 100% each)
-  desc_jp: Change own attribute to random one of Fire, Water, Wood, Light, Dark +
     Deal 1000% damage (10 hits, 100% each)
   max_atk_pct: null
   name_en: Changing Armor + Strong Blade Boisterous Dance

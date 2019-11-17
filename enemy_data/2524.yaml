@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 100% damage (Preemptive)
-  desc_jp: Blind all orbs on the board, Deal 100% damage (Preemptive)
   max_atk_pct: 100
   name_en: Chimney Drop
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: When player has any buff
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Voids player buff effects
-  desc_jp: Voids player buff effects
   max_atk_pct: null
   name_en: Rudolph's Steely Gaze
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -57,7 +52,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 5 Jammer orbs, Deal 120% damage
-  desc_jp: Spawn random 5 Jammer orbs, Deal 120% damage
   max_atk_pct: 120
   name_en: Present Box
   one_time: 0
@@ -65,7 +59,6 @@ records:
   usage_pct: 34
 - !SkillRecord
   desc_en: Spawn random 3 Water orbs, Deal 130% damage
-  desc_jp: Spawn random 3 Water orbs, Deal 130% damage
   max_atk_pct: 130
   name_en: Present Box
   one_time: 0
@@ -73,7 +66,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Player -80% HP
-  desc_jp: Player -80% HP
   max_atk_pct: null
   name_en: Present Box
   one_time: 0
@@ -81,7 +73,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -89,7 +80,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 160% damage (2 hits, 80% each)
-  desc_jp: Deal 160% damage (2 hits, 80% each)
   max_atk_pct: 160
   name_en: Rudolph Attack
   one_time: 0
@@ -98,7 +88,6 @@ records:
 - !SkillRecord
   desc_en: Lock 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer orbs, Deal 140%
     damage
-  desc_jp: Lock 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer orbs, Deal 140%
     damage
   max_atk_pct: 140
   name_en: Rudolph Antler Lock
@@ -107,7 +96,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Delay active skills by 2 turns, Deal 160% damage
-  desc_jp: Delay active skills by 2 turns, Deal 160% damage
   max_atk_pct: 160
   name_en: Rudolph Tackle
   one_time: 0
@@ -115,7 +103,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -123,7 +110,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 160% damage (2 hits, 80% each)
-  desc_jp: Deal 160% damage (2 hits, 80% each)
   max_atk_pct: 160
   name_en: Rudolph Attack
   one_time: 0
@@ -132,7 +118,6 @@ records:
 - !SkillRecord
   desc_en: Lock 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer orbs, Deal 140%
     damage
-  desc_jp: Lock 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer orbs, Deal 140%
     damage
   max_atk_pct: 140
   name_en: Rudolph Antler Lock
@@ -141,7 +126,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 600% damage (6 hits, 100% each)
-  desc_jp: Deal 600% damage (6 hits, 100% each)
   max_atk_pct: 600
   name_en: Chicken Barrel
   one_time: 0
@@ -149,7 +133,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -157,7 +140,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 5 Jammer orbs, Deal 120% damage
-  desc_jp: Spawn random 5 Jammer orbs, Deal 120% damage
   max_atk_pct: 120
   name_en: Present Box
   one_time: 0
@@ -165,7 +147,6 @@ records:
   usage_pct: 34
 - !SkillRecord
   desc_en: Spawn random 3 Water orbs, Deal 130% damage
-  desc_jp: Spawn random 3 Water orbs, Deal 130% damage
   max_atk_pct: 130
   name_en: Present Box
   one_time: 0
@@ -173,7 +154,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Player -80% HP
-  desc_jp: Player -80% HP
   max_atk_pct: null
   name_en: Present Box
   one_time: 0
@@ -181,7 +161,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 70
   one_time: null
@@ -189,7 +168,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -197,7 +175,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind 3 random cards for 3 turns
-  desc_jp: Bind 3 random cards for 3 turns
   max_atk_pct: null
   name_en: Lullaby
   one_time: 1
@@ -205,7 +182,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -213,7 +189,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 5 Jammer orbs, Deal 120% damage
-  desc_jp: Spawn random 5 Jammer orbs, Deal 120% damage
   max_atk_pct: 120
   name_en: Present Box
   one_time: 0
@@ -221,7 +196,6 @@ records:
   usage_pct: 34
 - !SkillRecord
   desc_en: Spawn random 3 Water orbs, Deal 130% damage
-  desc_jp: Spawn random 3 Water orbs, Deal 130% damage
   max_atk_pct: 130
   name_en: Present Box
   one_time: 0
@@ -229,7 +203,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Player -80% HP
-  desc_jp: Player -80% HP
   max_atk_pct: null
   name_en: Present Box
   one_time: 0
@@ -237,7 +210,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -245,7 +217,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 160% damage (2 hits, 80% each)
-  desc_jp: Deal 160% damage (2 hits, 80% each)
   max_atk_pct: 160
   name_en: Rudolph Attack
   one_time: 0
@@ -254,7 +225,6 @@ records:
 - !SkillRecord
   desc_en: Lock 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer orbs, Deal 140%
     damage
-  desc_jp: Lock 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer orbs, Deal 140%
     damage
   max_atk_pct: 140
   name_en: Rudolph Antler Lock
@@ -263,7 +233,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Delay active skills by 2 turns, Deal 160% damage
-  desc_jp: Delay active skills by 2 turns, Deal 160% damage
   max_atk_pct: 160
   name_en: Rudolph Tackle
   one_time: 0
@@ -271,7 +240,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -279,7 +247,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -287,7 +254,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Delay active skills by 2 turns, Deal 160% damage
-  desc_jp: Delay active skills by 2 turns, Deal 160% damage
   max_atk_pct: 160
   name_en: Rudolph Tackle
   one_time: 0
@@ -295,7 +261,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 600% damage (6 hits, 100% each)
-  desc_jp: Deal 600% damage (6 hits, 100% each)
   max_atk_pct: 600
   name_en: Chicken Barrel
   one_time: 0

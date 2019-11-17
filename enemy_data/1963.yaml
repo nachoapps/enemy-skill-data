@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Change Heal to Water, Deal 100% damage
-  desc_jp: Change Heal to Water, Deal 100% damage
   max_atk_pct: 100
   name_en: Pounce Stance - Water
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -41,7 +38,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind active skills for 2 turns
-  desc_jp: Bind active skills for 2 turns
   max_atk_pct: null
   name_en: Menace
   one_time: 1
@@ -49,7 +45,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Heal to Water, Deal 100% damage
-  desc_jp: Change Heal to Water, Deal 100% damage
   max_atk_pct: 100
   name_en: Pounce Stance - Water
   one_time: 0
@@ -57,7 +52,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Enemy is defeated
   one_time: null
@@ -65,7 +59,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 1000% damage
-  desc_jp: Deal 1000% damage
   max_atk_pct: 1000
   name_en: Irritated Swat
   one_time: 0

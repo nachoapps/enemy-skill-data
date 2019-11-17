@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Movetime -1s for 99 turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Movetime -1s for 99 turns (Preemptive)
   max_atk_pct: null
   name_en: OK! I'm ready now + The Beast is checking...
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Jammer to Fire, Deal 150% damage
-  desc_jp: Change Jammer to Fire, Deal 150% damage
   max_atk_pct: 150
   name_en: Rose Burst
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Random 5 to Poison + Deal 100% damage
-  desc_jp: Change Random 5 to Poison + Deal 100% damage
   max_atk_pct: null
   name_en: Serpent Poison + Beast Attack
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 80
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Jammer to Fire, Deal 150% damage
-  desc_jp: Change Jammer to Fire, Deal 150% damage
   max_atk_pct: 150
   name_en: Rose Burst
   one_time: 0
@@ -58,7 +53,6 @@ records:
 - !SkillRecord
   desc_en: Change 1st, 3rd, 5th row to Fire, Dark, Jammer orbs, Deal 100% damage +
     Delay active skills by 2 turns
-  desc_jp: Change 1st, 3rd, 5th row to Fire, Dark, Jammer orbs, Deal 100% damage +
     Delay active skills by 2 turns
   max_atk_pct: null
   name_en: Dark Color Fire + Beast's Ambition
@@ -67,7 +61,6 @@ records:
   usage_pct: 60
 - !SkillRecord
   desc_en: Change Random 5 to Poison + Deal 100% damage
-  desc_jp: Change Random 5 to Poison + Deal 100% damage
   max_atk_pct: null
   name_en: Serpent Poison + Beast Attack
   one_time: 0
@@ -75,7 +68,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -83,7 +75,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -92,7 +83,6 @@ records:
 - !SkillRecord
   desc_en: Bind 1 both leaders for 1 turns + Increase damage to 200% for the next
     999 turns
-  desc_jp: Bind 1 both leaders for 1 turns + Increase damage to 200% for the next
     999 turns
   max_atk_pct: null
   name_en: Can you wait a little bit please? + Grrrrr...
@@ -101,7 +91,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 1 turns + Deal 100% damage
-  desc_jp: Reduce damage from all sources by 50% for 1 turns + Deal 100% damage
   max_atk_pct: null
   name_en: Dark Heat Bulwark + Beast Attack
   one_time: 0
@@ -109,7 +98,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -118,7 +106,6 @@ records:
 - !SkillRecord
   desc_en: Change 1st, 2nd, 3rd, 4th, 5th row to Fire, Dark, Jammer, Poison orbs,
     Deal 20% damage + Deal 360% damage (6 hits, 60% each)
-  desc_jp: Change 1st, 2nd, 3rd, 4th, 5th row to Fire, Dark, Jammer, Poison orbs,
     Deal 20% damage + Deal 360% damage (6 hits, 60% each)
   max_atk_pct: null
   name_en: Crows of Sorrow + Beast Last Attack

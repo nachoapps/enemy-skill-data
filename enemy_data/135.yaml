@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Change own attribute to random one of Water, Wood, Light, Dark, Heal
-  desc_jp: Change own attribute to random one of Water, Wood, Light, Dark, Heal
   max_atk_pct: null
   name_en: ERROR263
   one_time: 0

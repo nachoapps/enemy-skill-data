@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Absorb combo <= 5 damage for 1 turns, Deal 100% damage (Preemptive)
-  desc_jp: Absorb combo <= 5 damage for 1 turns, Deal 100% damage (Preemptive)
   max_atk_pct: 100
   name_en: Ocean Makeup
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -34,7 +32,6 @@ records:
 - !SkillRecord
   desc_en: Lock 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 100% damage
-  desc_jp: Lock 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Setting Spray
@@ -43,7 +40,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -51,7 +47,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb combo <= 5 damage for 1 turns, Deal 100% damage
-  desc_jp: Absorb combo <= 5 damage for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Ocean Makeup
   one_time: 0
@@ -59,7 +54,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 70
   one_time: null
@@ -67,7 +61,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -75,7 +68,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Fire skyfall +15% for 3 turns
-  desc_jp: Fire skyfall +15% for 3 turns
   max_atk_pct: null
   name_en: Jet Dryer
   one_time: 1

@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Absorb combo <= 10 damage for 999 turns, (if [4806, 4807] on team) (Preemptive)
-  desc_jp: Absorb combo <= 10 damage for 999 turns, (if [4806, 4807] on team) (Preemptive)
   max_atk_pct: null
   name_en: Let's practice together once in a while
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Absorb combo <= 10 damage for 999 turns (Preemptive)
-  desc_jp: Absorb combo <= 10 damage for 999 turns (Preemptive)
   max_atk_pct: null
   name_en: I hope you're a good training partner
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -41,7 +38,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Specific orbs change every 1.0s for 4 turns
-  desc_jp: Specific orbs change every 1.0s for 4 turns
   max_atk_pct: null
   name_en: Show me what you've got
   one_time: 0
@@ -49,7 +45,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -57,7 +52,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 3 Bomb orbs
-  desc_jp: Spawn random 3 Bomb orbs
   max_atk_pct: null
   name_en: How about...this!
   one_time: 0
@@ -65,7 +59,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -74,7 +67,6 @@ records:
 - !SkillRecord
   desc_en: Change 1st column to Water, Light orbs, 6th column to Water, Light orbs,
     Deal 100% damage
-  desc_jp: Change 1st column to Water, Light orbs, 6th column to Water, Light orbs,
     Deal 100% damage
   max_atk_pct: 100
   name_en: Let's see how you handle this!
@@ -83,7 +75,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -91,7 +82,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind awoken skills for 1 turns
-  desc_jp: Bind awoken skills for 1 turns
   max_atk_pct: null
   name_en: Let's end it now...
   one_time: 0
@@ -99,7 +89,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -107,7 +96,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 3000% damage (6 hits, 500% each)
-  desc_jp: Deal 3000% damage (6 hits, 500% each)
   max_atk_pct: 3000
   name_en: I look forward to next time
   one_time: 0

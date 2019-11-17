@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from Water, Wood by 50%
-  desc_jp: Reduce damage from Water, Wood by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -26,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Reduce damage from all sources by
     99% for 1 turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Reduce damage from all sources by
     99% for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: Transparent Melody + Overture for the Impenetrable
@@ -35,7 +33,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -43,7 +40,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb combo <= 4 damage for 1 turns + Movetime 25% for 1 turns
-  desc_jp: Absorb combo <= 4 damage for 1 turns + Movetime 25% for 1 turns
   max_atk_pct: null
   name_en: Play me your puzzle's song ♪ + Hesitant Opening Notes
   one_time: 0
@@ -51,7 +47,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -59,7 +54,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -99% HP + Void damage >= 500000 for 5 turns
-  desc_jp: Player -99% HP + Void damage >= 500000 for 5 turns
   max_atk_pct: null
   name_en: You should sound better than this! + Blessed Fantasia
   one_time: 0
@@ -67,7 +61,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -75,7 +68,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -84,7 +76,6 @@ records:
 - !SkillRecord
   desc_en: Blind orbs in specific positions for 1 turns + Change all orbs to Fire,
     Water, Wood, Light, Dark, Heal, Jammer, Deal 120% damage
-  desc_jp: Blind orbs in specific positions for 1 turns + Change all orbs to Fire,
     Water, Wood, Light, Dark, Heal, Jammer, Deal 120% damage
   max_atk_pct: null
   name_en: Surely you can hear the Orbs' song ♪ + Rainbow Septet
@@ -94,7 +85,6 @@ records:
 - !SkillRecord
   desc_en: Blind orbs in specific positions for 1 turns + Change all orbs to Fire,
     Water, Wood, Light, Dark, Heal, Jammer, Deal 120% damage
-  desc_jp: Blind orbs in specific positions for 1 turns + Change all orbs to Fire,
     Water, Wood, Light, Dark, Heal, Jammer, Deal 120% damage
   max_atk_pct: null
   name_en: Feel the music in your heart ♪ + Rainbow Septet
@@ -103,7 +93,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -112,7 +101,6 @@ records:
 - !SkillRecord
   desc_en: Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 130% damage
-  desc_jp: Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 130% damage
   max_atk_pct: 130
   name_en: Obbligato of Ice Blades
@@ -121,7 +109,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 160% damage (4 hits, 40% each)
-  desc_jp: Deal 160% damage (4 hits, 40% each)
   max_atk_pct: 160
   name_en: Ice Blossom Quartet
   one_time: 0
@@ -129,7 +116,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 98
   one_time: null
@@ -137,7 +123,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -146,7 +131,6 @@ records:
 - !SkillRecord
   desc_en: Bind 1 random for 4 turns, Deal 140% damage + Reduce damage from all sources
     by 50% for 5 turns
-  desc_jp: Bind 1 random for 4 turns, Deal 140% damage + Reduce damage from all sources
     by 50% for 5 turns
   max_atk_pct: null
   name_en: I simply can't lose ♪ + Steel Arabesque
@@ -155,7 +139,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -163,7 +146,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -171,7 +153,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 999 turns
-  desc_jp: Increase damage to 150% for the next 999 turns
   max_atk_pct: null
   name_en: Warrior's March
   one_time: 0
@@ -179,7 +160,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
   one_time: null
@@ -187,7 +167,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -195,7 +174,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb combo <= 6 damage for 2 turns
-  desc_jp: Absorb combo <= 6 damage for 2 turns
   max_atk_pct: null
   name_en: Barcarole for the River of Woe
   one_time: 2
@@ -203,7 +181,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -211,7 +188,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Row of cloud appear for 1 turns at random location
-  desc_jp: Row of cloud appear for 1 turns at random location
   max_atk_pct: null
   name_en: This is your last performance!
   one_time: 1
@@ -219,7 +195,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 5000% damage (10 hits, 500% each)
-  desc_jp: Deal 5000% damage (10 hits, 500% each)
   max_atk_pct: 5000
   name_en: Requiem of a Thousand Creeds
   one_time: 0
@@ -235,7 +210,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from Water, Wood by 50%
-  desc_jp: Reduce damage from Water, Wood by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -244,7 +218,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Reduce damage from all sources by
     99% for 1 turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Reduce damage from all sources by
     99% for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: Transparent Melody + Overture for the Impenetrable
@@ -253,7 +226,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -261,7 +233,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb combo <= 5 damage for 1 turns + Movetime 25% for 1 turns
-  desc_jp: Absorb combo <= 5 damage for 1 turns + Movetime 25% for 1 turns
   max_atk_pct: null
   name_en: Play me your puzzle's song ♪ + Hesitant Opening Notes
   one_time: 0
@@ -269,7 +240,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -277,7 +247,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -99% HP + Void damage >= 500000 for 5 turns
-  desc_jp: Player -99% HP + Void damage >= 500000 for 5 turns
   max_atk_pct: null
   name_en: You should sound better than this! + Blessed Fantasia
   one_time: 0
@@ -285,7 +254,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -293,7 +261,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -302,7 +269,6 @@ records:
 - !SkillRecord
   desc_en: Blind orbs in specific positions for 1 turns + Change all orbs to Fire,
     Water, Wood, Light, Dark, Heal, Jammer, Deal 120% damage
-  desc_jp: Blind orbs in specific positions for 1 turns + Change all orbs to Fire,
     Water, Wood, Light, Dark, Heal, Jammer, Deal 120% damage
   max_atk_pct: null
   name_en: Surely you can hear the Orbs' song ♪ + Rainbow Septet
@@ -312,7 +278,6 @@ records:
 - !SkillRecord
   desc_en: Blind orbs in specific positions for 1 turns + Change all orbs to Fire,
     Water, Wood, Light, Dark, Heal, Jammer, Deal 120% damage
-  desc_jp: Blind orbs in specific positions for 1 turns + Change all orbs to Fire,
     Water, Wood, Light, Dark, Heal, Jammer, Deal 120% damage
   max_atk_pct: null
   name_en: Feel the music in your heart ♪ + Rainbow Septet
@@ -321,7 +286,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -330,7 +294,6 @@ records:
 - !SkillRecord
   desc_en: Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 130% damage
-  desc_jp: Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 130% damage
   max_atk_pct: 130
   name_en: Obbligato of Ice Blades
@@ -339,7 +302,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 160% damage (4 hits, 40% each)
-  desc_jp: Deal 160% damage (4 hits, 40% each)
   max_atk_pct: 160
   name_en: Ice Blossom Quartet
   one_time: 0
@@ -347,7 +309,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 98
   one_time: null
@@ -355,7 +316,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -364,7 +324,6 @@ records:
 - !SkillRecord
   desc_en: Bind 1 random for 4 turns, Deal 140% damage + Reduce damage from all sources
     by 50% for 5 turns
-  desc_jp: Bind 1 random for 4 turns, Deal 140% damage + Reduce damage from all sources
     by 50% for 5 turns
   max_atk_pct: null
   name_en: I simply can't lose ♪ + Steel Arabesque
@@ -373,7 +332,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -381,7 +339,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -389,7 +346,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 999 turns
-  desc_jp: Increase damage to 150% for the next 999 turns
   max_atk_pct: null
   name_en: Warrior's March
   one_time: 0
@@ -397,7 +353,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
   one_time: null
@@ -405,7 +360,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -413,7 +367,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb combo <= 6 damage for 2 turns
-  desc_jp: Absorb combo <= 6 damage for 2 turns
   max_atk_pct: null
   name_en: Barcarole for the River of Woe
   one_time: 2
@@ -421,7 +374,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -429,7 +381,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Row of cloud appear for 1 turns at random location
-  desc_jp: Row of cloud appear for 1 turns at random location
   max_atk_pct: null
   name_en: This is your last performance!
   one_time: 1
@@ -437,7 +388,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 5000% damage (10 hits, 500% each)
-  desc_jp: Deal 5000% damage (10 hits, 500% each)
   max_atk_pct: 5000
   name_en: Requiem of a Thousand Creeds
   one_time: 0

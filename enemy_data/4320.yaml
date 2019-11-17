@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Do nothing (Preemptive)
-  desc_jp: Do nothing (Preemptive)
   max_atk_pct: null
   name_en: 'It''s time.
 
@@ -35,7 +34,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns (Preemptive)
   max_atk_pct: null
   name_en: 'It''s time.
 
@@ -45,7 +43,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -53,7 +50,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 100% damage
-  desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: Come on!
   one_time: 0
@@ -61,7 +57,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -69,7 +64,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Specific orbs change every 1.0s for 1 turns, Deal 120% damage
-  desc_jp: Specific orbs change every 1.0s for 1 turns, Deal 120% damage
   max_atk_pct: 120
   name_en: Let's kick this up a notch, shall we?
   one_time: 0
@@ -77,7 +71,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -85,7 +78,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Delay active skills by 1~2 turns, Deal 90% damage
-  desc_jp: Delay active skills by 1~2 turns, Deal 90% damage
   max_atk_pct: 90
   name_en: Is that all you got for me?
   one_time: 0
@@ -93,7 +85,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -101,7 +92,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 100% damage
-  desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: Come on!
   one_time: 0
@@ -109,7 +99,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Specific orbs change every 1.0s for 1 turns, Deal 120% damage
-  desc_jp: Specific orbs change every 1.0s for 1 turns, Deal 120% damage
   max_atk_pct: 120
   name_en: Let's kick this up a notch, shall we?
   one_time: 0
@@ -117,7 +106,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Delay active skills by 1~2 turns, Deal 90% damage
-  desc_jp: Delay active skills by 1~2 turns, Deal 90% damage
   max_atk_pct: 90
   name_en: Is that all you got for me?
   one_time: 0
@@ -125,7 +113,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -133,7 +120,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -141,7 +127,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind active skills for 3 turns
-  desc_jp: Bind active skills for 3 turns
   max_atk_pct: null
   name_en: My total power would be wasted on you.
   one_time: 0
@@ -149,7 +134,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -157,7 +141,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 100% damage
-  desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: Come on!
   one_time: 0
@@ -165,7 +148,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -173,7 +155,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Specific orbs change every 1.0s for 1 turns, Deal 120% damage
-  desc_jp: Specific orbs change every 1.0s for 1 turns, Deal 120% damage
   max_atk_pct: 120
   name_en: Let's kick this up a notch, shall we?
   one_time: 0
@@ -181,7 +162,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -189,7 +169,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Delay active skills by 1~2 turns, Deal 90% damage
-  desc_jp: Delay active skills by 1~2 turns, Deal 90% damage
   max_atk_pct: 90
   name_en: Is that all you got for me?
   one_time: 0
@@ -197,7 +176,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -205,7 +183,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 160% damage (4 hits, 40% each)
-  desc_jp: Deal 160% damage (4 hits, 40% each)
   max_atk_pct: 160
   name_en: I'll finish this as I am, at 80 percent.
   one_time: 0

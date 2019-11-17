@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 51%
-  desc_jp: Survive attacks with 1 HP when HP > 51%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Reduce damage from Light, Dark by 50%
-  desc_jp: Reduce damage from Light, Dark by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Enemy turn counter change to 1 when HP <= 50%
-  desc_jp: Enemy turn counter change to 1 when HP <= 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -49,7 +46,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 51%
-  desc_jp: Survive attacks with 1 HP when HP > 51%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -57,7 +53,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Reduce damage from Light, Dark by 50%
-  desc_jp: Reduce damage from Light, Dark by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -65,7 +60,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Enemy turn counter change to 1 when HP <= 50%
-  desc_jp: Enemy turn counter change to 1 when HP <= 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -74,7 +68,6 @@ records:
 - !SkillRecord
   desc_en: Absorb combo <= 5 damage for 99 turns + Void damage >= 10000000 for 6 turns
     (Preemptive)
-  desc_jp: Absorb combo <= 5 damage for 99 turns + Void damage >= 10000000 for 6 turns
     (Preemptive)
   max_atk_pct: null
   name_en: Norn's Trace + Space-Time Barrier
@@ -83,7 +76,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Blind orbs in specific positions for 2 turns, Deal 170% damage
-  desc_jp: Blind orbs in specific positions for 2 turns, Deal 170% damage
   max_atk_pct: 170
   name_en: Bridenir
   one_time: 0
@@ -92,7 +84,6 @@ records:
 - !SkillRecord
   desc_en: Change 1st column to Fire orbs, 6th column to Water orbs, Deal 155% damage
     + Spawn Bomb orbs in the specified positions
-  desc_jp: Change 1st column to Fire orbs, 6th column to Water orbs, Deal 155% damage
     + Spawn Bomb orbs in the specified positions
   max_atk_pct: null
   name_en: Bifröst Fate + Norn's Dropped Item
@@ -102,7 +93,6 @@ records:
 - !SkillRecord
   desc_en: Jammer skyfall +15% for 1 turns + Change all orbs to Fire, Water, Heal,
     Deal 180% damage
-  desc_jp: Jammer skyfall +15% for 1 turns + Change all orbs to Fire, Water, Heal,
     Deal 180% damage
   max_atk_pct: null
   name_en: Bonds of the Past + Norn Slave
@@ -111,7 +101,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 60
   one_time: null
@@ -119,7 +108,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -127,7 +115,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Seal 1st column for 2 turns
-  desc_jp: Seal 1st column for 2 turns
   max_atk_pct: null
   name_en: Time Stasis
   one_time: 0
@@ -135,7 +122,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 600% damage (6 hits, 100% each)
-  desc_jp: Deal 600% damage (6 hits, 100% each)
   max_atk_pct: 600
   name_en: Fimbulvetr Weaving
   one_time: 0
@@ -143,7 +129,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -151,7 +136,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -159,7 +143,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Movetime 50% for 12 turns
-  desc_jp: Voids status ailments for 999 turns + Movetime 50% for 12 turns
   max_atk_pct: null
   name_en: The cogs of fate are now in motion + Nornil Curse
   one_time: 0
@@ -168,7 +151,6 @@ records:
 - !SkillRecord
   desc_en: Change 1st row to Fire orbs, 5th row to Water orbs, Deal 110% damage +
     Rcv 50% for 1 turns
-  desc_jp: Change 1st row to Fire orbs, 5th row to Water orbs, Deal 110% damage +
     Rcv 50% for 1 turns
   max_atk_pct: null
   name_en: Bifröst Fate + Norn Resistance
@@ -178,7 +160,6 @@ records:
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Jammer, Deal 90% damage + Delay active
     skills by 2 turns
-  desc_jp: Change all orbs to Fire, Water, Jammer, Deal 90% damage + Delay active
     skills by 2 turns
   max_atk_pct: null
   name_en: Norn Slave + Reverse time!
@@ -187,7 +168,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 120% damage (3 hits, 40% each)
-  desc_jp: Deal 120% damage (3 hits, 40% each)
   max_atk_pct: 120
   name_en: Weave Tein
   one_time: 0
@@ -195,7 +175,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
   one_time: null
@@ -203,7 +182,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -211,7 +189,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind awoken skills for 1 turns
-  desc_jp: Bind awoken skills for 1 turns
   max_atk_pct: null
   name_en: End of Time
   one_time: 0
@@ -219,7 +196,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Enemy is defeated
   one_time: null
@@ -227,7 +203,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -236,7 +211,6 @@ records:
 - !SkillRecord
   desc_en: Enemy recover 50% hp + Voids status ailments for 999 turns + Movetime 50%
     for 12 turns
-  desc_jp: Enemy recover 50% hp + Voids status ailments for 999 turns + Movetime 50%
     for 12 turns
   max_atk_pct: null
   name_en: Healing Scratch + The cogs of fate are now in motion + Nornil Curse
@@ -245,7 +219,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -253,7 +226,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind awoken skills for 1 turns
-  desc_jp: Bind awoken skills for 1 turns
   max_atk_pct: null
   name_en: End of Time
   one_time: 0

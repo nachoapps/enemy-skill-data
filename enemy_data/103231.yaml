@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Blind random 10 orbs for 2 turns (Preemptive)
-  desc_jp: Blind random 10 orbs for 2 turns (Preemptive)
   max_atk_pct: null
   name_en: Pumpkin Night
   one_time: 2
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Movetime 25% for 2 turns, Deal 100% damage
-  desc_jp: Movetime 25% for 2 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Trick & Trick
   one_time: 1
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -50,7 +46,6 @@ records:
 - !SkillRecord
   desc_en: Fix orb movement starting point to random position on the board, Deal 100%
     damage
-  desc_jp: Fix orb movement starting point to random position on the board, Deal 100%
     damage
   max_atk_pct: 100
   name_en: Pumpkin Magic
@@ -59,7 +54,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 110% damage (2 hits, 55% each)
-  desc_jp: Deal 110% damage (2 hits, 55% each)
   max_atk_pct: 110
   name_en: Nightmare Stick
   one_time: 0
@@ -67,7 +61,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -75,7 +68,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -83,7 +75,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Random 3 orbs change every 1.5s for 5 turns, Deal 100% damage
-  desc_jp: Random 3 orbs change every 1.5s for 5 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Wonder Card
   one_time: 0

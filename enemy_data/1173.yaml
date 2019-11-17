@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Change Random to Heal, Deal 100% damage
-  desc_jp: Change Random to Heal, Deal 100% damage
   max_atk_pct: 100
   name_en: Flower Tail
   one_time: 1

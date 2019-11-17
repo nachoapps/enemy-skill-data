@@ -18,7 +18,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from Fire by 50%
-  desc_jp: Reduce damage from Fire by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -27,7 +26,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 10 turns + Change Random to Wood, Deal 80% damage
     (Preemptive)
-  desc_jp: Voids status ailments for 10 turns + Change Random to Wood, Deal 80% damage
     (Preemptive)
   max_atk_pct: null
   name_en: To think it would come to this.... + Baum Biene
@@ -36,7 +34,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -44,7 +41,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 4 Heal orbs, Deal 120% damage
-  desc_jp: Spawn random 4 Heal orbs, Deal 120% damage
   max_atk_pct: 120
   name_en: Luft Schwert
   one_time: 0
@@ -52,7 +48,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -60,7 +55,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change all orbs to Jammer, Deal 170% damage
-  desc_jp: Change all orbs to Jammer, Deal 170% damage
   max_atk_pct: 170
   name_en: Gewitter Klinge
   one_time: 0
@@ -68,7 +62,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Change all orbs to Mortal Poison, Deal 100% damage
-  desc_jp: Change all orbs to Mortal Poison, Deal 100% damage
   max_atk_pct: 100
   name_en: Sturm Wind
   one_time: 0
@@ -76,7 +69,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change 3rd, 4th column to Water, Wood, Poison orbs, Deal 150% damage
-  desc_jp: Change 3rd, 4th column to Water, Wood, Poison orbs, Deal 150% damage
   max_atk_pct: 150
   name_en: Wirbel Lanze
   one_time: 0
@@ -84,7 +76,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 70
   one_time: null
@@ -92,7 +83,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1-3
   one_time: null
@@ -100,7 +90,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Poison skyfall +15% for 10 turns
-  desc_jp: Poison skyfall +15% for 10 turns
   max_atk_pct: null
   name_en: Tot Regen
   one_time: 1
@@ -108,7 +97,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -116,7 +104,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -124,7 +111,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 5 turns
-  desc_jp: Reduce damage from all sources by 50% for 5 turns
   max_atk_pct: null
   name_en: Starr Schild
   one_time: 3
@@ -132,7 +118,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 15
   one_time: null
@@ -140,7 +125,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 3500% damage (5 hits, 700% each)
-  desc_jp: Deal 3500% damage (5 hits, 700% each)
   max_atk_pct: 3500
   name_en: Eisen Ärger
   one_time: 0

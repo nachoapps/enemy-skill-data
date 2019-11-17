@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Deal 50% damage (Preemptive)
-  desc_jp: Deal 50% damage (Preemptive)
   max_atk_pct: 50
   name_en: Quick as Lightning
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Random to Wood, Deal 75% damage
-  desc_jp: Change Random to Wood, Deal 75% damage
   max_atk_pct: 75
   name_en: Storm
   one_time: 0

@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 50%
-  desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -26,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Delay active skills by 10 turns + Blind orbs in specific positions for
     5 turns (Preemptive)
-  desc_jp: Delay active skills by 10 turns + Blind orbs in specific positions for
     5 turns (Preemptive)
   max_atk_pct: null
   name_en: Blazing Flame Forest + Smoldering Ruins
@@ -35,7 +33,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Heal to Fire, Deal 95% damage
-  desc_jp: Change Heal to Fire, Deal 95% damage
   max_atk_pct: 95
   name_en: Life Flame Torch
   one_time: 1
@@ -43,7 +40,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Spawn random 5 Fire orbs, Deal 90% damage
-  desc_jp: Spawn random 5 Fire orbs, Deal 90% damage
   max_atk_pct: 90
   name_en: Burning Horn
   one_time: 0
@@ -51,7 +47,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 105% damage (3 hits, 35% each)
-  desc_jp: Deal 105% damage (3 hits, 35% each)
   max_atk_pct: 105
   name_en: Wild Flurry
   one_time: 0
@@ -59,7 +54,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -67,7 +61,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -75,7 +68,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player recover 100% hp + Rcv 25% for 4 turns
-  desc_jp: Player recover 100% hp + Rcv 25% for 4 turns
   max_atk_pct: null
   name_en: Praise + Falsehood
   one_time: 0
@@ -83,7 +75,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
   one_time: null
@@ -91,7 +82,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 600% damage (6 hits, 100% each)
-  desc_jp: Deal 600% damage (6 hits, 100% each)
   max_atk_pct: 600
   name_en: Crimson Double-Edge
   one_time: 0
@@ -99,7 +89,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Enemy is defeated
   one_time: null
@@ -107,7 +96,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -115,7 +103,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Enemy recover 50% hp + Movetime 50% for 10 turns
-  desc_jp: Enemy recover 50% hp + Movetime 50% for 10 turns
   max_atk_pct: null
   name_en: Burn Up Life + Limited Survival
   one_time: 0

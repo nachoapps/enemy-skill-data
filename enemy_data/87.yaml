@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Delay active skills by 1 turns (Preemptive)
-  desc_jp: Delay active skills by 1 turns (Preemptive)
   max_atk_pct: null
   name_en: Energy Fall
   one_time: 1
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 60% damage
-  desc_jp: Deal 60% damage
   max_atk_pct: 60
   name_en: Dead Slash
   one_time: 0

@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Bind 6 random cards for 2 turns (Preemptive)
-  desc_jp: Bind 6 random cards for 2 turns (Preemptive)
   max_atk_pct: null
   name_en: Purification TAMA-!
   one_time: 1
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Spawn random 1 Heal orbs, Deal 230% damage
-  desc_jp: Spawn random 1 Heal orbs, Deal 230% damage
   max_atk_pct: 230
   name_en: Yasakani no MagaTAMA!
   one_time: 0

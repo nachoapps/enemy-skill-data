@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Movetime -1s for 2 turns (Preemptive)
-  desc_jp: Movetime -1s for 2 turns (Preemptive)
   max_atk_pct: null
   name_en: Saint's Wink
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Delay active skills by 1 turns
-  desc_jp: Delay active skills by 1 turns
   max_atk_pct: null
   name_en: Sleep Powder
   one_time: 1
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 160% damage (2 hits, 80% each)
-  desc_jp: Deal 160% damage (2 hits, 80% each)
   max_atk_pct: 160
   name_en: Jingle Bells
   one_time: 0

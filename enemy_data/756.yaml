@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Player -99% HP (Preemptive)
-  desc_jp: Player -99% HP (Preemptive)
   max_atk_pct: null
   name_en: Snake God's Hiss
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Random to Dark, Deal 100% damage
-  desc_jp: Change Random to Dark, Deal 100% damage
   max_atk_pct: 100
   name_en: Searing Shot
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -41,7 +38,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind 6 random cards for 1 turns
-  desc_jp: Bind 6 random cards for 1 turns
   max_atk_pct: null
   name_en: Snake Eye Curse
   one_time: 1
@@ -57,7 +52,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 3000% damage
-  desc_jp: Deal 3000% damage
   max_atk_pct: 3000
   name_en: Snake King Searing Strike
   one_time: 0

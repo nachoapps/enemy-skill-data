@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Player -50% HP
-  desc_jp: Player -50% HP
   max_atk_pct: null
   name_en: Heat Breath
   one_time: 1

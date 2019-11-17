@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 50%
-  desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Delay active skills by 4 turns (Preemptive)
-  desc_jp: Delay active skills by 4 turns (Preemptive)
   max_atk_pct: null
   name_en: Yomi Wave
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -41,7 +38,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 4 Fire, Dark orbs, Deal 100% damage
-  desc_jp: Spawn random 4 Fire, Dark orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Divine Hellfire
   one_time: 1
@@ -49,7 +45,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -57,7 +52,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Fire to Jammer, Deal 75% damage
-  desc_jp: Change Fire to Jammer, Deal 75% damage
   max_atk_pct: 75
   name_en: Hell Bolt
   one_time: 0
@@ -65,7 +59,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Change Dark to Poison, Deal 50% damage
-  desc_jp: Change Dark to Poison, Deal 50% damage
   max_atk_pct: 50
   name_en: Snake God's Venomous Fangs
   one_time: 0
@@ -73,7 +66,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -81,7 +73,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -89,7 +80,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind 6 random cards for 2 turns
-  desc_jp: Bind 6 random cards for 2 turns
   max_atk_pct: null
   name_en: Snake Eye Curse
   one_time: 0
@@ -97,7 +87,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
   one_time: null
@@ -105,7 +94,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 4000% damage (4 hits, 1000% each)
-  desc_jp: Deal 4000% damage (4 hits, 1000% each)
   max_atk_pct: 4000
   name_en: Serpent King's Annihilating Strike
   one_time: 0
@@ -113,7 +101,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Enemy is defeated
   one_time: null
@@ -121,7 +108,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -129,7 +115,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Delay active skills by 99 turns
-  desc_jp: Delay active skills by 99 turns
   max_atk_pct: null
   name_en: Grudge Howl
   one_time: 0

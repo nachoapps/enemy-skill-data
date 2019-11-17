@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 100% damage (Preemptive)
-  desc_jp: Blind all orbs on the board, Deal 100% damage (Preemptive)
   max_atk_pct: 100
   name_en: Call of Darkness
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Spawn random 3 Dark orbs, Deal 100% damage
-  desc_jp: Spawn random 3 Dark orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: The Chosen Darkness
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Change Random to Dark, Deal 105% damage
-  desc_jp: Change Random to Dark, Deal 105% damage
   max_atk_pct: 105
   name_en: Dark Pillar
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Deal 120% damage (2 hits, 60% each)
-  desc_jp: Deal 120% damage (2 hits, 60% each)
   max_atk_pct: 120
   name_en: Spirit Darkness
   one_time: 0
@@ -49,7 +45,6 @@ records:
   usage_pct: 34
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -57,7 +52,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -65,7 +59,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind random 8 orbs for 1 turns + Change Random to Dark, Deal 105% damage
-  desc_jp: Blind random 8 orbs for 1 turns + Change Random to Dark, Deal 105% damage
   max_atk_pct: null
   name_en: Swallowing Darkness + Dark Pillar
   one_time: 0
@@ -73,7 +66,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 150% damage (2 hits, 75% each)
-  desc_jp: Deal 150% damage (2 hits, 75% each)
   max_atk_pct: 150
   name_en: Shadow Wings
   one_time: 0

@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Blind orbs in specific positions for 3 turns (Preemptive)
-  desc_jp: Blind orbs in specific positions for 3 turns (Preemptive)
   max_atk_pct: null
   name_en: Grip Fist
   one_time: 1
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Spawn random 1 Wood orbs, Deal 400% damage
-  desc_jp: Spawn random 1 Wood orbs, Deal 400% damage
   max_atk_pct: 400
   name_en: Rock Punch
   one_time: 0

@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: When player has any buff
   one_time: null
@@ -25,7 +24,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Voids player buff effects
-  desc_jp: Voids player buff effects
   max_atk_pct: null
   name_en: 波がきてるね～、俺♪
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 80
   one_time: null
@@ -41,7 +38,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 2nd, 3rd column to Water orbs, Deal 120% damage
-  desc_jp: Change 2nd, 3rd column to Water orbs, Deal 120% damage
   max_atk_pct: 120
   name_en: アクア・360°
   one_time: 0
@@ -49,7 +45,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -57,7 +52,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -65,7 +59,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Delay active skills by 1 turns
-  desc_jp: Delay active skills by 1 turns
   max_atk_pct: null
   name_en: 神秘のサーフボード
   one_time: 1

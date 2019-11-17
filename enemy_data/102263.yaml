@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Jammer, Poison, Deal
     60% damage + Lock all Jammer, Poison orbs (Preemptive)
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Jammer, Poison, Deal
     60% damage + Lock all Jammer, Poison orbs (Preemptive)
   max_atk_pct: null
   name_en: You'll regret coming here + Freeze Lock
@@ -27,7 +26,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -35,7 +33,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind 6 random cards for 2 turns, (if [1947] on team)
-  desc_jp: Bind 6 random cards for 2 turns, (if [1947] on team)
   max_atk_pct: null
   name_en: You shall not pass
   one_time: 2
@@ -43,7 +40,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Delay active skills by 1~2 turns, (if [1257] on team)
-  desc_jp: Delay active skills by 1~2 turns, (if [1257] on team)
   max_atk_pct: null
   name_en: You must have guts to face me!
   one_time: 0
@@ -51,7 +47,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -59,7 +54,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Wood to Water, Deal 60% damage
-  desc_jp: Change Wood to Water, Deal 60% damage
   max_atk_pct: 60
   name_en: Ice Needle
   one_time: 0
@@ -67,7 +61,6 @@ records:
   usage_pct: 60
 - !SkillRecord
   desc_en: Change 1st, 2nd row to Water, Jammer, Poison orbs, Deal 60% damage
-  desc_jp: Change 1st, 2nd row to Water, Jammer, Poison orbs, Deal 60% damage
   max_atk_pct: 60
   name_en: Freezing Wind
   one_time: 0
@@ -75,7 +68,6 @@ records:
   usage_pct: 60
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 80
   one_time: null
@@ -83,7 +75,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -91,7 +82,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind 6 random cards for 2 turns, (if [1947] on team)
-  desc_jp: Bind 6 random cards for 2 turns, (if [1947] on team)
   max_atk_pct: null
   name_en: You shall not pass
   one_time: 2
@@ -99,7 +89,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Delay active skills by 1~2 turns, (if [1257] on team)
-  desc_jp: Delay active skills by 1~2 turns, (if [1257] on team)
   max_atk_pct: null
   name_en: You must have guts to face me!
   one_time: 0
@@ -107,7 +96,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Reduce damage from all sources by 30% for 3 turns
-  desc_jp: Reduce damage from all sources by 30% for 3 turns
   max_atk_pct: null
   name_en: Purple Soul Shield
   one_time: 1
@@ -115,7 +103,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2-3
   one_time: null
@@ -123,7 +110,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Wood to Water, Deal 60% damage
-  desc_jp: Change Wood to Water, Deal 60% damage
   max_atk_pct: 60
   name_en: Ice Needle
   one_time: 0
@@ -131,7 +117,6 @@ records:
   usage_pct: 60
 - !SkillRecord
   desc_en: Change 1st, 2nd row to Water, Jammer, Poison orbs, Deal 60% damage
-  desc_jp: Change 1st, 2nd row to Water, Jammer, Poison orbs, Deal 60% damage
   max_atk_pct: 60
   name_en: Freezing Wind
   one_time: 0
@@ -139,7 +124,6 @@ records:
   usage_pct: 60
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -147,7 +131,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Reduce damage from all sources by 30% for 3 turns
-  desc_jp: Reduce damage from all sources by 30% for 3 turns
   max_atk_pct: null
   name_en: Purple Soul Shield
   one_time: 1
@@ -155,7 +138,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
   one_time: null
@@ -163,7 +145,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2-3
   one_time: null
@@ -171,7 +152,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 150% damage (5 hits, 30% each)
-  desc_jp: Deal 150% damage (5 hits, 30% each)
   max_atk_pct: 150
   name_en: Super Snowstorm
   one_time: 0
@@ -179,7 +159,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 150% damage (5 hits, 30% each)
-  desc_jp: Deal 150% damage (5 hits, 30% each)
   max_atk_pct: 150
   name_en: Super Snowstorm
   one_time: 0

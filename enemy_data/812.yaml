@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Bind active skills for 10 turns (Preemptive)
-  desc_jp: Bind active skills for 10 turns (Preemptive)
   max_atk_pct: null
   name_en: Request for Peace
   one_time: 1
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Wood to Fire, Deal 90% damage (Preemptive)
-  desc_jp: Change Wood to Fire, Deal 90% damage (Preemptive)
   max_atk_pct: 90
   name_en: Young Holy Dragon's Breath
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Change Dark to Light, Deal 100% damage (Preemptive)
-  desc_jp: Change Dark to Light, Deal 100% damage (Preemptive)
   max_atk_pct: 100
   name_en: Exalted Light
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Wood to Fire, Deal 90% damage
-  desc_jp: Change Wood to Fire, Deal 90% damage
   max_atk_pct: 90
   name_en: Young Holy Dragon's Breath
   one_time: 0
@@ -49,7 +45,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Change Dark to Light, Deal 100% damage
-  desc_jp: Change Dark to Light, Deal 100% damage
   max_atk_pct: 100
   name_en: Exalted Light
   one_time: 0
@@ -57,7 +52,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -65,7 +59,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Wood to Fire, Deal 90% damage
-  desc_jp: Change Wood to Fire, Deal 90% damage
   max_atk_pct: 90
   name_en: Young Holy Dragon's Breath
   one_time: 0
@@ -73,7 +66,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Change Fire to Water, Deal 110% damage
-  desc_jp: Change Fire to Water, Deal 110% damage
   max_atk_pct: 110
   name_en: Mother Ocean
   one_time: 0
@@ -81,7 +73,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
   one_time: null
@@ -89,7 +80,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -97,7 +87,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random 3 to Jammer
-  desc_jp: Change Random 3 to Jammer
   max_atk_pct: null
   name_en: Fragile Fantasy
   one_time: 0
@@ -105,7 +94,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 250% damage (5 hits, 50% each)
-  desc_jp: Deal 250% damage (5 hits, 50% each)
   max_atk_pct: 250
   name_en: Creation
   one_time: 0

@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Do nothing + Do nothing (Preemptive)
-  desc_jp: Do nothing + Do nothing (Preemptive)
   max_atk_pct: null
   name_en: Shishio-sama! + Hurry! The killing blow!!
   one_time: 0
@@ -33,7 +32,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Spawn random 2 Jammer orbs + Movetime -1s for 2 turns (Preemptive)
-  desc_jp: Spawn random 2 Jammer orbs + Movetime -1s for 2 turns (Preemptive)
   max_atk_pct: null
   name_en: Shishio-sama! + Hurry! The killing blow!!
   one_time: 0
@@ -41,7 +39,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Player -100% HP
-  desc_jp: Player -100% HP
   max_atk_pct: null
   name_en: Shot
   one_time: 0

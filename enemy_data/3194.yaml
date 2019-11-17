@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Fix orb movement starting point to random position on the board (Preemptive)
-  desc_jp: Fix orb movement starting point to random position on the board (Preemptive)
   max_atk_pct: null
   name_en: Time Warp
   one_time: 1
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 100% damage (2 hits, 50% each)
-  desc_jp: Deal 100% damage (2 hits, 50% each)
   max_atk_pct: 100
   name_en: Hour Hand Strike
   one_time: 0

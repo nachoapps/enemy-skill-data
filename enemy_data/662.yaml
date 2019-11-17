@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 75
   one_time: null
@@ -25,7 +24,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 300% for the next attack
-  desc_jp: Increase damage to 300% for the next attack
   max_atk_pct: null
   name_en: Dark Emotion
   one_time: 0

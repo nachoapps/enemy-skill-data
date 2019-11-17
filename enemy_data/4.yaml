@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 25
   one_time: null
@@ -25,7 +24,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 200% damage
-  desc_jp: Deal 200% damage
   max_atk_pct: 200
   name_en: Magma Breath
   one_time: 0

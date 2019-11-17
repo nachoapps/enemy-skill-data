@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Lock all Light orbs, Deal 20% damage (Preemptive)
-  desc_jp: Lock all Light orbs, Deal 20% damage (Preemptive)
   max_atk_pct: 20
   name_en: Wings of Light
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Spawn random 3 Light orbs, Deal 20% damage (Preemptive)
-  desc_jp: Spawn random 3 Light orbs, Deal 20% damage (Preemptive)
   max_atk_pct: 20
   name_en: Wings of Light
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Dark to Heal
-  desc_jp: Change Dark to Heal
   max_atk_pct: null
   name_en: Guard Stance-Light
   one_time: 1

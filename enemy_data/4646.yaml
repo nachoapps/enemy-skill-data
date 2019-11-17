@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Blind random 8 orbs for 2 turns (Preemptive)
-  desc_jp: Blind random 8 orbs for 2 turns (Preemptive)
   max_atk_pct: null
   name_en: Swallowing Darkness
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Unable to match Light orbs for 3 turns
-  desc_jp: Unable to match Light orbs for 3 turns
   max_atk_pct: null
   name_en: Yellow Exception
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1-2
   one_time: null
@@ -57,7 +52,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 4 Fire, Dark orbs, Deal 100% damage
-  desc_jp: Spawn random 4 Fire, Dark orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Accepting Spirit
   one_time: 0
@@ -65,7 +59,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Change Random to Dark, Deal 105% damage
-  desc_jp: Change Random to Dark, Deal 105% damage
   max_atk_pct: 105
   name_en: Darkness Pillar
   one_time: 0
@@ -73,7 +66,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Deal 120% damage (2 hits, 60% each)
-  desc_jp: Deal 120% damage (2 hits, 60% each)
   max_atk_pct: 120
   name_en: Darkness Rush
   one_time: 0
@@ -81,7 +73,6 @@ records:
   usage_pct: 34
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 3
   one_time: null
@@ -89,7 +80,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Dark, Heal, Deal 120% damage
-  desc_jp: Change all orbs to Fire, Water, Dark, Heal, Deal 120% damage
   max_atk_pct: 120
   name_en: Gloomy Enclosure
   one_time: 0
@@ -97,7 +87,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -105,7 +94,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -113,7 +101,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 8 Poison orbs
-  desc_jp: Spawn random 8 Poison orbs
   max_atk_pct: null
   name_en: Eroding Mist
   one_time: 2
@@ -121,7 +108,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -129,7 +115,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 4 Fire, Dark orbs, Deal 100% damage
-  desc_jp: Spawn random 4 Fire, Dark orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Accepting Spirit
   one_time: 0
@@ -137,7 +122,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Change Random to Dark, Deal 105% damage
-  desc_jp: Change Random to Dark, Deal 105% damage
   max_atk_pct: 105
   name_en: Darkness Pillar
   one_time: 0
@@ -145,7 +129,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Deal 120% damage (2 hits, 60% each)
-  desc_jp: Deal 120% damage (2 hits, 60% each)
   max_atk_pct: 120
   name_en: Darkness Rush
   one_time: 0
@@ -153,7 +136,6 @@ records:
   usage_pct: 34
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 3
   one_time: null
@@ -161,7 +143,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Dark, Heal, Deal 120% damage
-  desc_jp: Change all orbs to Fire, Water, Dark, Heal, Deal 120% damage
   max_atk_pct: 120
   name_en: Gloomy Enclosure
   one_time: 0
@@ -169,7 +150,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 15
   one_time: null
@@ -177,7 +157,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 180% damage (4 hits, 45% each)
-  desc_jp: Deal 180% damage (4 hits, 45% each)
   max_atk_pct: 180
   name_en: Liberation from Life
   one_time: 0
@@ -185,7 +164,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: When 2 enemy remains
   one_time: null
@@ -193,7 +171,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1-2
   one_time: null
@@ -201,7 +178,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 4 Fire, Dark orbs, Deal 100% damage
-  desc_jp: Spawn random 4 Fire, Dark orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Accepting Spirit
   one_time: 0
@@ -209,7 +185,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Change Random to Dark, Deal 105% damage
-  desc_jp: Change Random to Dark, Deal 105% damage
   max_atk_pct: 105
   name_en: Darkness Pillar
   one_time: 0
@@ -217,7 +192,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Deal 120% damage (2 hits, 60% each)
-  desc_jp: Deal 120% damage (2 hits, 60% each)
   max_atk_pct: 120
   name_en: Darkness Rush
   one_time: 0
@@ -225,7 +199,6 @@ records:
   usage_pct: 34
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 3
   one_time: null
@@ -233,7 +206,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb Fire, Dark damage for 2 turns
-  desc_jp: Absorb Fire, Dark damage for 2 turns
   max_atk_pct: null
   name_en: Welcoming Mist
   one_time: 0
@@ -241,7 +213,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -249,7 +220,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -257,7 +227,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 8 Poison orbs
-  desc_jp: Spawn random 8 Poison orbs
   max_atk_pct: null
   name_en: Eroding Mist
   one_time: 2
@@ -265,7 +234,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -273,7 +241,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 4 Fire, Dark orbs, Deal 100% damage
-  desc_jp: Spawn random 4 Fire, Dark orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Accepting Spirit
   one_time: 0
@@ -281,7 +248,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Change Random to Dark, Deal 105% damage
-  desc_jp: Change Random to Dark, Deal 105% damage
   max_atk_pct: 105
   name_en: Darkness Pillar
   one_time: 0
@@ -289,7 +255,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Deal 120% damage (2 hits, 60% each)
-  desc_jp: Deal 120% damage (2 hits, 60% each)
   max_atk_pct: 120
   name_en: Darkness Rush
   one_time: 0
@@ -297,7 +262,6 @@ records:
   usage_pct: 34
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 3
   one_time: null
@@ -305,7 +269,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb Fire, Dark damage for 2 turns
-  desc_jp: Absorb Fire, Dark damage for 2 turns
   max_atk_pct: null
   name_en: Welcoming Mist
   one_time: 0
@@ -313,7 +276,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: When 1 enemy remains
   one_time: null
@@ -321,7 +283,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -329,7 +290,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Unable to match Light orbs for 3 turns
-  desc_jp: Unable to match Light orbs for 3 turns
   max_atk_pct: null
   name_en: Yellow Exception
   one_time: 0
@@ -337,7 +297,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -346,7 +305,6 @@ records:
 - !SkillRecord
   desc_en: Bind awoken skills for 1 turns + Increase damage to 200% for the next 99
     turns
-  desc_jp: Bind awoken skills for 1 turns + Increase damage to 200% for the next 99
     turns
   max_atk_pct: null
   name_en: Eroding Sleep + Counterattack from the Abyss

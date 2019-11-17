@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Bind active skills for 5 turns (Preemptive)
-  desc_jp: Bind active skills for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: Silent Smile
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Do nothing (Preemptive)
-  desc_jp: Do nothing (Preemptive)
   max_atk_pct: null
   name_en: Go Away-TAMA!
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 100% damage
-  desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: Soler Lazer
   one_time: 0

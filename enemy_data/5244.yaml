@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 10 turns (Preemptive)
-  desc_jp: Reduce damage from all sources by 50% for 10 turns (Preemptive)
   max_atk_pct: null
   name_en: I am strong.
   one_time: 1
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 5 turns
-  desc_jp: Increase damage to 150% for the next 5 turns
   max_atk_pct: null
   name_en: Four-Flash Blade Paradise
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 108% damage (6 hits, 18% each)
-  desc_jp: Deal 108% damage (6 hits, 18% each)
   max_atk_pct: 108
   name_en: Spears!!
   one_time: 0
@@ -57,7 +52,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -65,7 +59,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Delay active skills by 2 turns, Deal 100% damage
-  desc_jp: Delay active skills by 2 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Swords!
   one_time: 0
@@ -73,7 +66,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -81,7 +73,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind 1 subs for 1~2 turns, Deal 95% damage
-  desc_jp: Bind 1 subs for 1~2 turns, Deal 95% damage
   max_atk_pct: 95
   name_en: Halberds!!
   one_time: 0
@@ -89,7 +80,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
   one_time: null
@@ -98,7 +88,6 @@ records:
 - !SkillRecord
   desc_en: Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 105% damage
-  desc_jp: Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 105% damage
   max_atk_pct: 105
   name_en: Multiple Blades!!!
@@ -107,7 +96,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -115,7 +103,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Movetime -1s for 5 turns + Deal 170% damage (10 hits, 17% each)
-  desc_jp: Movetime -1s for 5 turns + Deal 170% damage (10 hits, 17% each)
   max_atk_pct: null
   name_en: Take this!! + Blade Paradise!!
   one_time: 0

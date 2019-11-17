@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Do nothing
-  desc_jp: Do nothing
   max_atk_pct: null
   name_en: Splashing About
   one_time: 0
@@ -33,7 +32,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Do nothing
-  desc_jp: Do nothing
   max_atk_pct: null
   name_en: Splashing About
   one_time: 0

@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Jammer skyfall +20% for 10 turns (Preemptive)
-  desc_jp: Jammer skyfall +20% for 10 turns (Preemptive)
   max_atk_pct: null
   name_en: Evil Rain
   one_time: 1
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Bind Water cards for 2~4 turns
-  desc_jp: Bind Water cards for 2~4 turns
   max_atk_pct: null
   name_en: Water Bind
   one_time: 0
@@ -41,7 +39,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Jammer skyfall +20% for 10 turns (Preemptive)
-  desc_jp: Jammer skyfall +20% for 10 turns (Preemptive)
   max_atk_pct: null
   name_en: Evil Rain
   one_time: 1
@@ -49,7 +46,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Bind Water cards for 2~4 turns
-  desc_jp: Bind Water cards for 2~4 turns
   max_atk_pct: null
   name_en: Water Bind
   one_time: 0

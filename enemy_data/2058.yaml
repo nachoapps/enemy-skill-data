@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Do nothing (Preemptive)
-  desc_jp: Do nothing (Preemptive)
   max_atk_pct: null
   name_en: Now I won't have to hunt you down!
   one_time: 0
@@ -33,7 +32,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Do nothing (Preemptive)
-  desc_jp: Do nothing (Preemptive)
   max_atk_pct: null
   name_en: Now I won't have to hunt you down!
   one_time: 0
@@ -41,7 +39,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Random 8 to Poison
-  desc_jp: Change Random 8 to Poison
   max_atk_pct: null
   name_en: Poison
   one_time: 0
@@ -49,7 +46,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Change 3rd row to Water orbs, Deal 100% damage
-  desc_jp: Change 3rd row to Water orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Blizzara
   one_time: 0
@@ -57,7 +53,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: Bind 1 random for 2 turns, Deal 80% damage
-  desc_jp: Bind 1 random for 2 turns, Deal 80% damage
   max_atk_pct: 80
   name_en: Thunder
   one_time: 0
@@ -65,7 +60,6 @@ records:
   usage_pct: 10
 - !SkillRecord
   desc_en: Spawn random 4 Water orbs, Deal 80% damage
-  desc_jp: Spawn random 4 Water orbs, Deal 80% damage
   max_atk_pct: 80
   name_en: Blizzard
   one_time: 0
@@ -73,7 +67,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Deal 100% damage
-  desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: Disable Skill
   one_time: 0

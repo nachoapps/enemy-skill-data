@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Absorb combo <= 4 damage for 3 turns (Preemptive)
-  desc_jp: Absorb combo <= 4 damage for 3 turns (Preemptive)
   max_atk_pct: null
   name_en: Hehehe!
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -80% HP
-  desc_jp: Player -80% HP
   max_atk_pct: null
   name_en: Axe of Madness
   one_time: 0

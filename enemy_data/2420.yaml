@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from God, Machine by 50%
-  desc_jp: Reduce damage from God, Machine by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -33,7 +32,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from God, Machine by 50%
-  desc_jp: Reduce damage from God, Machine by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -41,7 +39,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Movetime 25% for 1 turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Movetime 25% for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: Hehehe + Do your absolute best!
   one_time: 0
@@ -49,7 +46,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: When HP is full
   one_time: null
@@ -57,7 +53,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -66,7 +61,6 @@ records:
 - !SkillRecord
   desc_en: Absorb combo <= 7 damage for 10 turns + Spawn random 6 Wood, Jammer, Poison
     orbs, (if >=5 combos last turn)
-  desc_jp: Absorb combo <= 7 damage for 10 turns + Spawn random 6 Wood, Jammer, Poison
     orbs, (if >=5 combos last turn)
   max_atk_pct: null
   name_en: Great! + How about this one?
@@ -75,7 +69,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Bind awoken skills for 1 turns + Blind all orbs on the board
-  desc_jp: Bind awoken skills for 1 turns + Blind all orbs on the board
   max_atk_pct: null
   name_en: This is not good at all! + Try your best for the next one too!
   one_time: 0
@@ -83,7 +76,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -92,7 +84,6 @@ records:
 - !SkillRecord
   desc_en: Absorb combo <= 7 damage for 10 turns + Bind active skills for 5 turns,
     (if >=5 combos last turn)
-  desc_jp: Absorb combo <= 7 damage for 10 turns + Bind active skills for 5 turns,
     (if >=5 combos last turn)
   max_atk_pct: null
   name_en: Great! + Well, have a consolation prize!
@@ -101,7 +92,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 1000% damage
-  desc_jp: Deal 1000% damage
   max_atk_pct: 1000
   name_en: This is no good ♪
   one_time: 0
@@ -109,7 +99,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 1000% damage
-  desc_jp: Deal 1000% damage
   max_atk_pct: 1000
   name_en: This is no good ♪
   one_time: 0
@@ -117,7 +106,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: When HP is not full
   one_time: null
@@ -125,7 +113,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random to Wood, Deal 110% damage
-  desc_jp: Change Random to Wood, Deal 110% damage
   max_atk_pct: 110
   name_en: Star Consumption
   one_time: 0
@@ -133,7 +120,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Delay active skills by 2 turns, Deal 105% damage
-  desc_jp: Delay active skills by 2 turns, Deal 105% damage
   max_atk_pct: 105
   name_en: Masking
   one_time: 0
@@ -141,7 +127,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Deal 120% damage (3 hits, 40% each)
-  desc_jp: Deal 120% damage (3 hits, 40% each)
   max_atk_pct: 120
   name_en: Leaf Pearl Multi-Attack
   one_time: 0

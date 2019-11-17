@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Change Random 3 to Poison (Preemptive)
-  desc_jp: Change Random 3 to Poison (Preemptive)
   max_atk_pct: null
   name_en: 消化液
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Random 2 to Poison, Deal 75% damage
-  desc_jp: Change Random 2 to Poison, Deal 75% damage
   max_atk_pct: 75
   name_en: モルボル菌
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
   one_time: null
@@ -41,7 +38,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind 6 random cards for 1~3 turns
-  desc_jp: Bind 6 random cards for 1~3 turns
   max_atk_pct: null
   name_en: くさい息
   one_time: 1
@@ -65,7 +60,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Change Random 12 to Poison (Preemptive)
-  desc_jp: Change Random 12 to Poison (Preemptive)
   max_atk_pct: null
   name_en: みだれ消化液
   one_time: 0
@@ -73,7 +67,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Random 2 to Poison, Deal 75% damage
-  desc_jp: Change Random 2 to Poison, Deal 75% damage
   max_atk_pct: 75
   name_en: モルボル菌
   one_time: 0
@@ -81,7 +74,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
   one_time: null
@@ -89,7 +81,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -97,7 +88,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind 6 random cards for 1~3 turns
-  desc_jp: Bind 6 random cards for 1~3 turns
   max_atk_pct: null
   name_en: くさい息
   one_time: 1

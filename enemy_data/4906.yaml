@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from Fire, Water by 50%
-  desc_jp: Reduce damage from Fire, Water by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -26,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Void damage >= 15000000 for 3 turns
     + Absorb combo <= 7 damage for 3 turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Void damage >= 15000000 for 3 turns
     + Absorb combo <= 7 damage for 3 turns (Preemptive)
   max_atk_pct: null
   name_en: Wind Maker + Started making a whirlwind + Wind obstructs the strikes
@@ -35,7 +33,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -45,7 +42,6 @@ records:
   desc_en: Spawn random 5 Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Mortal Poison orbs, Deal 100% damage
-  desc_jp: Spawn random 5 Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Mortal Poison orbs, Deal 100% damage
   max_atk_pct: null
@@ -55,7 +51,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Bind 3 random cards for 1 turns + Deal 111% damage (3 hits, 37% each)
-  desc_jp: Bind 3 random cards for 1 turns + Deal 111% damage (3 hits, 37% each)
   max_atk_pct: null
   name_en: Whirling Tornado + Burst Wing
   one_time: 0
@@ -63,7 +58,6 @@ records:
   usage_pct: 34
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -71,7 +65,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -81,7 +74,6 @@ records:
   desc_en: Spawn random 5 Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Mortal Poison orbs, Deal 100% damage
-  desc_jp: Spawn random 5 Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Mortal Poison orbs, Deal 100% damage
   max_atk_pct: null
@@ -91,7 +83,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Bind awoken skills for 1 turns + Player -99% HP
-  desc_jp: Bind awoken skills for 1 turns + Player -99% HP
   max_atk_pct: null
   name_en: Stormy Hurricane + Storm Blast
   one_time: 1
@@ -99,7 +90,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Bind 3 random cards for 1 turns + Deal 111% damage (3 hits, 37% each)
-  desc_jp: Bind 3 random cards for 1 turns + Deal 111% damage (3 hits, 37% each)
   max_atk_pct: null
   name_en: Whirling Tornado + Burst Wing
   one_time: 0
@@ -107,7 +97,6 @@ records:
   usage_pct: 34
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -116,7 +105,6 @@ records:
 - !SkillRecord
   desc_en: Leader changes to random sub for 3 turns + Reduce damage from all sources
     by 50% for 3 turns + Do nothing
-  desc_jp: Leader changes to random sub for 3 turns + Reduce damage from all sources
     by 50% for 3 turns + Do nothing
   max_atk_pct: null
   name_en: Wind Mischief + Wind Follower + The wind died down
@@ -125,7 +113,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3-4
   one_time: null
@@ -133,7 +120,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random to Wood, Deal 100% damage
-  desc_jp: Change Random to Wood, Deal 100% damage
   max_atk_pct: 100
   name_en: Breeze Mist
   one_time: 0
@@ -141,7 +127,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Spawn random 4 Fire, Wood orbs, Deal 105% damage
-  desc_jp: Spawn random 4 Fire, Wood orbs, Deal 105% damage
   max_atk_pct: 105
   name_en: Fire Storm
   one_time: 0
@@ -149,7 +134,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Deal 105% damage (3 hits, 35% each)
-  desc_jp: Deal 105% damage (3 hits, 35% each)
   max_atk_pct: 105
   name_en: Climatic Gale
   one_time: 0
@@ -157,7 +141,6 @@ records:
   usage_pct: 34
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
   one_time: null
@@ -165,7 +148,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Void damage >= 15000000 for 3 turns + Absorb combo <= 7 damage for 3 turns
-  desc_jp: Void damage >= 15000000 for 3 turns + Absorb combo <= 7 damage for 3 turns
   max_atk_pct: null
   name_en: Started making a whirlwind + Wind obstructs the strikes
   one_time: 0
@@ -173,7 +155,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 6
   one_time: null
@@ -183,7 +164,6 @@ records:
   desc_en: Spawn random 5 Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Mortal Poison orbs, Deal 100% damage
-  desc_jp: Spawn random 5 Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Mortal Poison orbs, Deal 100% damage
   max_atk_pct: null
@@ -193,7 +173,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Bind awoken skills for 1 turns + Player -99% HP
-  desc_jp: Bind awoken skills for 1 turns + Player -99% HP
   max_atk_pct: null
   name_en: Stormy Hurricane + Storm Blast
   one_time: 1
@@ -201,7 +180,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Bind 3 random cards for 1 turns + Deal 111% damage (3 hits, 37% each)
-  desc_jp: Bind 3 random cards for 1 turns + Deal 111% damage (3 hits, 37% each)
   max_atk_pct: null
   name_en: Whirling Tornado + Burst Wing
   one_time: 0
@@ -209,7 +187,6 @@ records:
   usage_pct: 34
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -217,7 +194,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -226,7 +202,6 @@ records:
 - !SkillRecord
   desc_en: Voids player buff effects + Delay active skills by 5 turns + Specific orbs
     change every 1.0s for 5 turns
-  desc_jp: Voids player buff effects + Delay active skills by 5 turns + Specific orbs
     change every 1.0s for 5 turns
   max_atk_pct: null
   name_en: Wind Eraser + Deaerate + Dust Storm
@@ -235,7 +210,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
   one_time: null
@@ -243,7 +217,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -251,7 +224,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Movetime 50% for 10 turns + Increase damage to 200% for the next 999 turns
-  desc_jp: Movetime 50% for 10 turns + Increase damage to 200% for the next 999 turns
   max_atk_pct: null
   name_en: Against the Wind + Burst of Rage
   one_time: 0
@@ -260,7 +232,6 @@ records:
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Water, Wood, Light, Dark +
     Deal 500% damage (5 hits, 100% each)
-  desc_jp: Change own attribute to random one of Fire, Water, Wood, Light, Dark +
     Deal 500% damage (5 hits, 100% each)
   max_atk_pct: null
   name_en: Molting + Aero Burst End

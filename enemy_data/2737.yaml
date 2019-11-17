@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Absorb Fire, Light, Dark damage for
     3 turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Absorb Fire, Light, Dark damage for
     3 turns (Preemptive)
   max_atk_pct: null
   name_en: Let's have some fun + Dragon's Origin
@@ -28,7 +27,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Absorb Water, Light, Dark damage
     for 3 turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Absorb Water, Light, Dark damage
     for 3 turns (Preemptive)
   max_atk_pct: null
   name_en: Let's have some fun + Dragon's Origin
@@ -38,7 +36,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Absorb Wood, Light, Dark damage for
     3 turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Absorb Wood, Light, Dark damage for
     3 turns (Preemptive)
   max_atk_pct: null
   name_en: Let's have some fun + Dragon's Origin
@@ -47,7 +44,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -55,7 +51,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Do nothing
-  desc_jp: Do nothing
   max_atk_pct: null
   name_en: Draco Summon-Dragon Portal
   one_time: 32
@@ -63,7 +58,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -71,7 +65,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 160% damage
-  desc_jp: Blind all orbs on the board, Deal 160% damage
   max_atk_pct: 160
   name_en: Cattle Mutilation
   one_time: 0
@@ -79,7 +72,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Lock all Wood orbs, Deal 150% damage
-  desc_jp: Lock all Wood orbs, Deal 150% damage
   max_atk_pct: 150
   name_en: Glass Leaf
   one_time: 0
@@ -87,7 +79,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Change Random 6 to Poison, Deal 120% damage
-  desc_jp: Change Random 6 to Poison, Deal 120% damage
   max_atk_pct: 120
   name_en: Genocide Missile Type 0
   one_time: 0
@@ -95,7 +86,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Change Random to Dark, Deal 150% damage
-  desc_jp: Change Random to Dark, Deal 150% damage
   max_atk_pct: 150
   name_en: Dark Rumble
   one_time: 0
@@ -103,7 +93,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Deal 140% damage
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Deal 140% damage
   max_atk_pct: 140
   name_en: Brilliant Dragon Skull
   one_time: 0
@@ -111,7 +100,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -119,7 +107,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 2 turns
-  desc_jp: Reduce damage from all sources by 50% for 2 turns
   max_atk_pct: null
   name_en: Fair Skies Guardian Dragon - Shield
   one_time: 16
@@ -127,7 +114,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -135,7 +121,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 160% damage
-  desc_jp: Blind all orbs on the board, Deal 160% damage
   max_atk_pct: 160
   name_en: Cattle Mutilation
   one_time: 0
@@ -143,7 +128,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Lock all Wood orbs, Deal 150% damage
-  desc_jp: Lock all Wood orbs, Deal 150% damage
   max_atk_pct: 150
   name_en: Glass Leaf
   one_time: 0
@@ -151,7 +135,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Change Random 6 to Poison, Deal 120% damage
-  desc_jp: Change Random 6 to Poison, Deal 120% damage
   max_atk_pct: 120
   name_en: Genocide Missile Type 0
   one_time: 0
@@ -159,7 +142,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Change Random to Dark, Deal 150% damage
-  desc_jp: Change Random to Dark, Deal 150% damage
   max_atk_pct: 150
   name_en: Dark Rumble
   one_time: 0
@@ -167,7 +149,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Deal 140% damage
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Deal 140% damage
   max_atk_pct: 140
   name_en: Brilliant Dragon Skull
   one_time: 0
@@ -175,7 +156,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
   one_time: null
@@ -183,7 +163,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb combo <= 6 damage for 2 turns
-  desc_jp: Absorb combo <= 6 damage for 2 turns
   max_atk_pct: null
   name_en: Fair Skies Guardian Dragon - Skill
   one_time: 8
@@ -191,7 +170,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6
   one_time: null
@@ -199,7 +177,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 160% damage
-  desc_jp: Blind all orbs on the board, Deal 160% damage
   max_atk_pct: 160
   name_en: Cattle Mutilation
   one_time: 0
@@ -207,7 +184,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Lock all Wood orbs, Deal 150% damage
-  desc_jp: Lock all Wood orbs, Deal 150% damage
   max_atk_pct: 150
   name_en: Glass Leaf
   one_time: 0
@@ -215,7 +191,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Change Random 6 to Poison, Deal 120% damage
-  desc_jp: Change Random 6 to Poison, Deal 120% damage
   max_atk_pct: 120
   name_en: Genocide Missile Type 0
   one_time: 0
@@ -223,7 +198,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Change Random to Dark, Deal 150% damage
-  desc_jp: Change Random to Dark, Deal 150% damage
   max_atk_pct: 150
   name_en: Dark Rumble
   one_time: 0
@@ -231,7 +205,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Deal 140% damage
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Deal 140% damage
   max_atk_pct: 140
   name_en: Brilliant Dragon Skull
   one_time: 0
@@ -239,7 +212,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 7
   one_time: null
@@ -247,7 +219,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Void damage >= 800000 for 2 turns
-  desc_jp: Void damage >= 800000 for 2 turns
   max_atk_pct: null
   name_en: Fair Skies Guardian Dragon - Balance
   one_time: 4
@@ -255,7 +226,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 8
   one_time: null
@@ -263,7 +233,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 160% damage
-  desc_jp: Blind all orbs on the board, Deal 160% damage
   max_atk_pct: 160
   name_en: Cattle Mutilation
   one_time: 0
@@ -271,7 +240,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Lock all Wood orbs, Deal 150% damage
-  desc_jp: Lock all Wood orbs, Deal 150% damage
   max_atk_pct: 150
   name_en: Glass Leaf
   one_time: 0
@@ -279,7 +247,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Change Random 6 to Poison, Deal 120% damage
-  desc_jp: Change Random 6 to Poison, Deal 120% damage
   max_atk_pct: 120
   name_en: Genocide Missile Type 0
   one_time: 0
@@ -287,7 +254,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Change Random to Dark, Deal 150% damage
-  desc_jp: Change Random to Dark, Deal 150% damage
   max_atk_pct: 150
   name_en: Dark Rumble
   one_time: 0
@@ -295,7 +261,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Deal 140% damage
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Deal 140% damage
   max_atk_pct: 140
   name_en: Brilliant Dragon Skull
   one_time: 0
@@ -303,7 +268,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 9
   one_time: null
@@ -311,7 +275,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb damage >= 1500000 damage for 2 turns
-  desc_jp: Absorb damage >= 1500000 damage for 2 turns
   max_atk_pct: null
   name_en: Fair Skies Guardian Dragon - Judge
   one_time: 2
@@ -319,7 +282,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 10
   one_time: null
@@ -327,7 +289,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 160% damage
-  desc_jp: Blind all orbs on the board, Deal 160% damage
   max_atk_pct: 160
   name_en: Cattle Mutilation
   one_time: 0
@@ -335,7 +296,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Lock all Wood orbs, Deal 150% damage
-  desc_jp: Lock all Wood orbs, Deal 150% damage
   max_atk_pct: 150
   name_en: Glass Leaf
   one_time: 0
@@ -343,7 +303,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Change Random 6 to Poison, Deal 120% damage
-  desc_jp: Change Random 6 to Poison, Deal 120% damage
   max_atk_pct: 120
   name_en: Genocide Missile Type 0
   one_time: 0
@@ -351,7 +310,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Change Random to Dark, Deal 150% damage
-  desc_jp: Change Random to Dark, Deal 150% damage
   max_atk_pct: 150
   name_en: Dark Rumble
   one_time: 0
@@ -359,7 +317,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Deal 140% damage
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Deal 140% damage
   max_atk_pct: 140
   name_en: Brilliant Dragon Skull
   one_time: 0
@@ -367,7 +324,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 11
   one_time: null
@@ -376,7 +332,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 250% for the next 1 turns + Reduce damage from all sources
     by 75% for 1 turns
-  desc_jp: Increase damage to 250% for the next 1 turns + Reduce damage from all sources
     by 75% for 1 turns
   max_atk_pct: null
   name_en: Draggie Knight, Zeal's Enhancement + Draggie Shield
@@ -385,7 +340,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -393,7 +347,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 500% damage (5 hits, 100% each)
-  desc_jp: Deal 500% damage (5 hits, 100% each)
   max_atk_pct: 500
   name_en: Alt. Five Origin Dragon Star Attack
   one_time: 0

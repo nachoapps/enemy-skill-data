@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Bind 1 random for 3 turns, Deal 100% damage + Voids status ailments for
     999 turns (Preemptive)
-  desc_jp: Bind 1 random for 3 turns, Deal 100% damage + Voids status ailments for
     999 turns (Preemptive)
   max_atk_pct: null
   name_en: Glitter of Devil's Eyes + Demonic Shield
@@ -27,7 +26,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1-4
   one_time: null
@@ -35,7 +33,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 1 Mortal Poison orbs, Deal 100% damage
-  desc_jp: Spawn random 1 Mortal Poison orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Deadly Sin Inferno
   one_time: 0
@@ -43,7 +40,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 5
   one_time: null
@@ -51,7 +47,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Voids player buff effects + Deal 9900% damage (6 hits, 1650% each)
-  desc_jp: Voids player buff effects + Deal 9900% damage (6 hits, 1650% each)
   max_atk_pct: null
   name_en: Wave of Nothingness + World Ends
   one_time: 4

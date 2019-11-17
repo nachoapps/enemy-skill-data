@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Bind active skills for 1 turns (Preemptive)
-  desc_jp: Bind active skills for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: Divine Queen's Gaze
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Bind 1 subs for 1~2 turns, Deal 10000% damage (Preemptive)
-  desc_jp: Bind 1 subs for 1~2 turns, Deal 10000% damage (Preemptive)
   max_atk_pct: 10000
   name_en: Diabolic Embrace
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Bind active skills for 1 turns
-  desc_jp: Bind active skills for 1 turns
   max_atk_pct: null
   name_en: Divine Queen's Gaze
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Bind 1 subs for 1~2 turns, Deal 10000% damage
-  desc_jp: Bind 1 subs for 1~2 turns, Deal 10000% damage
   max_atk_pct: 10000
   name_en: Diabolic Embrace
   one_time: 0

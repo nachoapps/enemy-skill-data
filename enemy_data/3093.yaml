@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Absorb combo <= 6 damage for 1 turns + Change all orbs to Fire, Water,
     Wood, Light, Dark, Jammer, Deal 80% damage (Preemptive)
-  desc_jp: Absorb combo <= 6 damage for 1 turns + Change all orbs to Fire, Water,
     Wood, Light, Dark, Jammer, Deal 80% damage (Preemptive)
   max_atk_pct: null
   name_en: Green Whirlwind's Dance + Feather Rain
@@ -27,7 +26,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: When HP is full
   one_time: null
@@ -35,7 +33,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Jammer, Deal 80% damage
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Jammer, Deal 80% damage
   max_atk_pct: 80
   name_en: Feather Rain
   one_time: 0
@@ -43,7 +40,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: When HP is not full
   one_time: null
@@ -51,7 +47,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -59,7 +54,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 1st row to Wood orbs, Deal 100% damage
-  desc_jp: Change 1st row to Wood orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Wind Spiral
   one_time: 0
@@ -67,7 +61,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -75,7 +68,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb Fire damage for 3 turns
-  desc_jp: Absorb Fire damage for 3 turns
   max_atk_pct: null
   name_en: Fire-Extinguishing Wind
   one_time: 0
@@ -83,7 +75,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Jammer to Light, Deal 150% damage
-  desc_jp: Change Jammer to Light, Deal 150% damage
   max_atk_pct: 150
   name_en: Lightning
   one_time: 0
@@ -91,7 +82,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Random to Jammer, Deal 100% damage
-  desc_jp: Change Random to Jammer, Deal 100% damage
   max_atk_pct: 100
   name_en: Gale
   one_time: 0
@@ -99,7 +89,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -107,7 +96,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Jammer to Light, Deal 150% damage
-  desc_jp: Change Jammer to Light, Deal 150% damage
   max_atk_pct: 150
   name_en: Lightning
   one_time: 0
@@ -115,7 +103,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Jammer, Deal 80% damage
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Jammer, Deal 80% damage
   max_atk_pct: 80
   name_en: Feather Rain
   one_time: 0

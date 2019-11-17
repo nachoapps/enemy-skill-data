@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 50%
-  desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Bind 1 random subs for 3 turns + Player -75% HP (Preemptive)
-  desc_jp: Bind 1 random subs for 3 turns + Player -75% HP (Preemptive)
   max_atk_pct: null
   name_en: それがしは　ブシニャン！ + いざ　参るっ！
   one_time: 2
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Spawn random 5 Jammer orbs, Deal 90% damage
-  desc_jp: Spawn random 5 Jammer orbs, Deal 90% damage
   max_atk_pct: 90
   name_en: お主に　斬れるでござるか？
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Deal 105% damage (3 hits, 35% each)
-  desc_jp: Deal 105% damage (3 hits, 35% each)
   max_atk_pct: 105
   name_en: 閃光斬りっ！
   one_time: 0
@@ -49,7 +45,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Change Random to Wood, Deal 95% damage
-  desc_jp: Change Random to Wood, Deal 95% damage
   max_atk_pct: 95
   name_en: 旋風斬りっ！！
   one_time: 0
@@ -57,7 +52,6 @@ records:
   usage_pct: 34
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -65,7 +59,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -74,7 +67,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 5 turns + Absorb combo <= 5 damage
     for 5 turns
-  desc_jp: Increase damage to 150% for the next 5 turns + Absorb combo <= 5 damage
     for 5 turns
   max_atk_pct: null
   name_en: こうなったら　奥の手でござる！ + ぬははは！　勝利はもらった！
@@ -83,7 +75,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -91,7 +82,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -99,7 +89,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind 4 random subs for 1 turns + Do nothing
-  desc_jp: Bind 4 random subs for 1 turns + Do nothing
   max_atk_pct: null
   name_en: ぶ　武士の情け… + しばし待たれよっ！
   one_time: 0
@@ -107,7 +96,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 210% damage (6 hits, 35% each)
-  desc_jp: Deal 210% damage (6 hits, 35% each)
   max_atk_pct: 210
   name_en: かつおブシ斬り
   one_time: 0
@@ -115,7 +103,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: When 1 enemy remains
   one_time: null
@@ -123,7 +110,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -131,7 +117,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 200% for the next 1 turns
-  desc_jp: Increase damage to 200% for the next 1 turns
   max_atk_pct: null
   name_en: 精神統一でござる…
   one_time: 1
@@ -139,7 +124,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -147,7 +131,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -156,7 +139,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 5 turns + Absorb combo <= 5 damage
     for 5 turns
-  desc_jp: Increase damage to 150% for the next 5 turns + Absorb combo <= 5 damage
     for 5 turns
   max_atk_pct: null
   name_en: こうなったら　奥の手でござる！ + ぬははは！　勝利はもらった！
@@ -165,7 +147,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -173,7 +154,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 200% for the next 1 turns
-  desc_jp: Increase damage to 200% for the next 1 turns
   max_atk_pct: null
   name_en: 精神統一でござる…
   one_time: 1

@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Do nothing + Do nothing + Voids status ailments for 1 turns (Preemptive)
-  desc_jp: Do nothing + Do nothing + Voids status ailments for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: Took you long enough! + I was worried you'd gotten lost! + It's go time!
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 80% damage (8 hits, 10% each)
-  desc_jp: Deal 80% damage (8 hits, 10% each)
   max_atk_pct: 80
   name_en: Goblin Punch
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: Change Random to Wood, Deal 100% damage
-  desc_jp: Change Random to Wood, Deal 100% damage
   max_atk_pct: 100
   name_en: Aera
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: Change Random to Jammer, Deal 120% damage
-  desc_jp: Change Random to Jammer, Deal 120% damage
   max_atk_pct: 120
   name_en: Wind Slash
   one_time: 0
@@ -49,7 +45,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: Deal 100% damage
-  desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: Disable Skill
   one_time: 0
@@ -57,7 +52,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -65,7 +59,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -75,7 +68,6 @@ records:
   desc_en: Increase damage to 200% for the next 999 turns + Reduce damage from all
     sources by 50% for 1 turns + Voids status ailments for 999 turns + Do nothing
     + Deal 120% damage
-  desc_jp: Increase damage to 200% for the next 999 turns + Reduce damage from all
     sources by 50% for 1 turns + Voids status ailments for 999 turns + Do nothing
     + Deal 120% damage
   max_atk_pct: null
@@ -86,7 +78,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Bind 1 subs for 2 turns, Deal 80% damage
-  desc_jp: Bind 1 subs for 2 turns, Deal 80% damage
   max_atk_pct: 80
   name_en: Electrocute
   one_time: 0
@@ -94,7 +85,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 120% damage
-  desc_jp: Deal 120% damage
   max_atk_pct: 120
   name_en: Jump
   one_time: 0

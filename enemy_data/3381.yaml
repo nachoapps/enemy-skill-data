@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 1 turns (Preemptive)
-  desc_jp: Reduce damage from all sources by 50% for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: Snowfall Technique
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 180% damage (3 hits, 60% each)
-  desc_jp: Deal 180% damage (3 hits, 60% each)
   max_atk_pct: 180
   name_en: Ninja Dog's Wild Charge
   one_time: 1
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind all orbs on the board
-  desc_jp: Blind all orbs on the board
   max_atk_pct: null
   name_en: Ninja Dog covered you in snow
   one_time: 0

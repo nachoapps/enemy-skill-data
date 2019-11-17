@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Spawn random 1 Jammer orbs (Preemptive)
-  desc_jp: Spawn random 1 Jammer orbs (Preemptive)
   max_atk_pct: null
   name_en: Here I come!
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 2 Jammer orbs, Deal 60% damage
-  desc_jp: Spawn random 2 Jammer orbs, Deal 60% damage
   max_atk_pct: 60
   name_en: Taaake that!
   one_time: 1
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind random 1 orbs for 1 turns, Deal 100% damage
-  desc_jp: Blind random 1 orbs for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Smear
   one_time: 0

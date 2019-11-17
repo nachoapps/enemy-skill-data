@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Do nothing (Preemptive)
-  desc_jp: Do nothing (Preemptive)
   max_atk_pct: null
   name_en: I have to thank you for it, my friend.
   one_time: 7
@@ -33,7 +32,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Bind active skills for 3 turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Bind active skills for 3 turns (Preemptive)
   max_atk_pct: null
   name_en: I thank you for your help. All of you. + You've fulfilled your purpose.
   one_time: 4
@@ -41,7 +39,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change 4th column to Dark orbs, Deal 100% damage
-  desc_jp: Change 4th column to Dark orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Stationary Transmutation
   one_time: 0
@@ -49,7 +46,6 @@ records:
   usage_pct: 10
 - !SkillRecord
   desc_en: Change 3rd row to Light orbs, Deal 100% damage
-  desc_jp: Change 3rd row to Light orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Stationary Transmutation
   one_time: 0
@@ -57,7 +53,6 @@ records:
   usage_pct: 10
 - !SkillRecord
   desc_en: Spawn random 7 Jammer orbs, Deal 100% damage
-  desc_jp: Spawn random 7 Jammer orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Stationary Transmutation
   one_time: 0
@@ -65,7 +60,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 1 turns, Deal 100% damage
-  desc_jp: Reduce damage from all sources by 75% for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Stationary Transmutation
   one_time: 0
@@ -74,7 +68,6 @@ records:
 - !SkillRecord
   desc_en: Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 100% damage
-  desc_jp: Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Stationary Transmutation
@@ -83,7 +76,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Spawn random 4 Poison orbs, Deal 100% damage
-  desc_jp: Spawn random 4 Poison orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Stationary Transmutation
   one_time: 0
@@ -91,7 +83,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 80
   one_time: null
@@ -99,7 +90,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -107,7 +97,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Void damage >= 500000 for 3 turns
-  desc_jp: Void damage >= 500000 for 3 turns
   max_atk_pct: null
   name_en: How sad
   one_time: 2
@@ -115,7 +104,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
   one_time: null
@@ -123,7 +111,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -131,7 +118,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 1000% for the next 999 turns
-  desc_jp: Increase damage to 1000% for the next 999 turns
   max_atk_pct: null
   name_en: Disappear from my sight.
   one_time: 1
@@ -139,7 +125,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change all orbs to Fire, Deal 1000% damage
-  desc_jp: Change all orbs to Fire, Deal 1000% damage
   max_atk_pct: 1000
   name_en: Nuclear Fusion
   one_time: 0
@@ -155,7 +140,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Bind active skills for 3 turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Bind active skills for 3 turns (Preemptive)
   max_atk_pct: null
   name_en: I thank you for your help. All of you. + You've fulfilled your purpose.
   one_time: 4
@@ -163,7 +147,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change 4th column to Dark orbs, Deal 100% damage
-  desc_jp: Change 4th column to Dark orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Stationary Transmutation
   one_time: 0
@@ -171,7 +154,6 @@ records:
   usage_pct: 10
 - !SkillRecord
   desc_en: Change 3rd row to Light orbs, Deal 100% damage
-  desc_jp: Change 3rd row to Light orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Stationary Transmutation
   one_time: 0
@@ -179,7 +161,6 @@ records:
   usage_pct: 10
 - !SkillRecord
   desc_en: Spawn random 7 Jammer orbs, Deal 100% damage
-  desc_jp: Spawn random 7 Jammer orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Stationary Transmutation
   one_time: 0
@@ -187,7 +168,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 1 turns, Deal 100% damage
-  desc_jp: Reduce damage from all sources by 75% for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Stationary Transmutation
   one_time: 0
@@ -196,7 +176,6 @@ records:
 - !SkillRecord
   desc_en: Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 100% damage
-  desc_jp: Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Stationary Transmutation
@@ -205,7 +184,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Spawn random 4 Poison orbs, Deal 100% damage
-  desc_jp: Spawn random 4 Poison orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Stationary Transmutation
   one_time: 0
@@ -213,7 +191,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 80
   one_time: null
@@ -221,7 +198,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -229,7 +205,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Void damage >= 500000 for 3 turns
-  desc_jp: Void damage >= 500000 for 3 turns
   max_atk_pct: null
   name_en: How sad
   one_time: 2
@@ -237,7 +212,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
   one_time: null
@@ -245,7 +219,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -253,7 +226,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 1000% for the next 999 turns
-  desc_jp: Increase damage to 1000% for the next 999 turns
   max_atk_pct: null
   name_en: Disappear from my sight.
   one_time: 1
@@ -261,7 +233,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change all orbs to Fire, Deal 1000% damage
-  desc_jp: Change all orbs to Fire, Deal 1000% damage
   max_atk_pct: 1000
   name_en: Nuclear Fusion
   one_time: 0

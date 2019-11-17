@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Do nothing
-  desc_jp: Do nothing
   max_atk_pct: null
   name_en: いつもありがとう！
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Do nothing
-  desc_jp: Do nothing
   max_atk_pct: null
   name_en: 満面の笑みを浮かべている
   one_time: 0

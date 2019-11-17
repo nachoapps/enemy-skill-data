@@ -18,7 +18,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Player -50% HP + Deal 50% damage (Preemptive)
-  desc_jp: Player -50% HP + Deal 50% damage (Preemptive)
   max_atk_pct: null
   name_en: 紅蓮の舞 + 追い打ち
   one_time: 0
@@ -26,7 +25,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Player -50% HP + Deal 50% damage
-  desc_jp: Player -50% HP + Deal 50% damage
   max_atk_pct: null
   name_en: 紅蓮の舞 + 追い打ち
   one_time: 0
@@ -34,7 +32,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -42,7 +39,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -75% HP + Deal 50% damage
-  desc_jp: Player -75% HP + Deal 50% damage
   max_atk_pct: null
   name_en: 紅蓮華の舞 + 追い打ち
   one_time: 0
@@ -50,7 +46,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -58,7 +53,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 800% damage (8 hits, 100% each)
-  desc_jp: Deal 800% damage (8 hits, 100% each)
   max_atk_pct: 800
   name_en: フレアルージュ
   one_time: 0

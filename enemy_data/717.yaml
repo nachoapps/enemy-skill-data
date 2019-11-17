@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -25,7 +24,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind Fire cards for 2~4 turns
-  desc_jp: Bind Fire cards for 2~4 turns
   max_atk_pct: null
   name_en: Fire Bind
   one_time: 1
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -41,7 +38,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Dark to Water
-  desc_jp: Change Dark to Water
   max_atk_pct: null
   name_en: Dark Shift - Wt
   one_time: 0

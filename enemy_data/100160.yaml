@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Spawn random 5 Fire, Water, Wood, Light, Dark, Heal orbs (Preemptive)
-  desc_jp: Spawn random 5 Fire, Water, Wood, Light, Dark, Heal orbs (Preemptive)
   max_atk_pct: null
   name_en: Small Glow
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Spawn random 5 Fire, Water, Wood, Light, Dark, Heal orbs
-  desc_jp: Spawn random 5 Fire, Water, Wood, Light, Dark, Heal orbs
   max_atk_pct: null
   name_en: Small Glow
   one_time: 0

@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Player recover 100% hp (Preemptive)
-  desc_jp: Player recover 100% hp (Preemptive)
   max_atk_pct: null
   name_en: Welcome! I'm glad you're here.
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Water skyfall +20% for 99 turns
-  desc_jp: Water skyfall +20% for 99 turns
   max_atk_pct: null
   name_en: Waterways Verification
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Heal to Water, Deal 150% damage
-  desc_jp: Change Heal to Water, Deal 150% damage
   max_atk_pct: 150
   name_en: Lotus Drop
   one_time: 0
@@ -57,7 +52,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 70
   one_time: null
@@ -65,7 +59,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -73,7 +66,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Leader changes to random sub for 3 turns
-  desc_jp: Leader changes to random sub for 3 turns
   max_atk_pct: null
   name_en: Chanchala
   one_time: 1
@@ -81,7 +73,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -89,7 +80,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -97,7 +87,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Enemy recover 30% hp, Deal 100% damage
-  desc_jp: Enemy recover 30% hp, Deal 100% damage
   max_atk_pct: 100
   name_en: Magic Absorbing Eye
   one_time: 0
@@ -105,7 +94,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -113,7 +101,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 250% damage
-  desc_jp: Deal 250% damage
   max_atk_pct: 250
   name_en: Wave Current Attack
   one_time: 0

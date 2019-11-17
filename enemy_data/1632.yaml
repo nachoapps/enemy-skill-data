@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -25,7 +24,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random to Light, Deal 125% damage
-  desc_jp: Change Random to Light, Deal 125% damage
   max_atk_pct: 125
   name_en: Heroic Strike
   one_time: 1

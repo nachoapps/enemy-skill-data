@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from Wood by 50%
-  desc_jp: Reduce damage from Wood by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -33,7 +32,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from Wood by 50%
-  desc_jp: Reduce damage from Wood by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -41,7 +39,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Random 1 to Jammer (Preemptive)
-  desc_jp: Change Random 1 to Jammer (Preemptive)
   max_atk_pct: null
   name_en: Opening Howl
   one_time: 0
@@ -49,7 +46,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Random to Water, Deal 75% damage
-  desc_jp: Change Random to Water, Deal 75% damage
   max_atk_pct: 75
   name_en: Shrimp Horn Charge
   one_time: 0
@@ -57,7 +53,6 @@ records:
   usage_pct: 40
 - !SkillRecord
   desc_en: Deal 90%~120% damage (3~4 hits, 30% each)
-  desc_jp: Deal 90%~120% damage (3~4 hits, 30% each)
   max_atk_pct: 120
   name_en: Cabbage Chase
   one_time: 0
@@ -65,7 +60,6 @@ records:
   usage_pct: 70
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 75
   one_time: null
@@ -73,7 +67,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -81,7 +74,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 200% for the next 3 turns
-  desc_jp: Increase damage to 200% for the next 3 turns
   max_atk_pct: null
   name_en: Lunch Service
   one_time: 0
@@ -89,7 +81,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -97,7 +88,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -105,7 +95,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random to Fire, Deal 200% damage
-  desc_jp: Change Random to Fire, Deal 200% damage
   max_atk_pct: 200
   name_en: Hot Quail Bomb
   one_time: 1
@@ -113,7 +102,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -121,7 +109,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random to Water, Deal 75% damage
-  desc_jp: Change Random to Water, Deal 75% damage
   max_atk_pct: 75
   name_en: Shrimp Horn Charge
   one_time: 0
@@ -129,7 +116,6 @@ records:
   usage_pct: 40
 - !SkillRecord
   desc_en: Deal 90%~120% damage (3~4 hits, 30% each)
-  desc_jp: Deal 90%~120% damage (3~4 hits, 30% each)
   max_atk_pct: 120
   name_en: Cabbage Chase
   one_time: 0
@@ -137,7 +123,6 @@ records:
   usage_pct: 70
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
   one_time: null
@@ -145,7 +130,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -153,7 +137,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random to Fire, Deal 200% damage
-  desc_jp: Change Random to Fire, Deal 200% damage
   max_atk_pct: 200
   name_en: Hot Quail Bomb
   one_time: 1
@@ -161,7 +144,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -169,7 +151,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 320% damage (8 hits, 40% each)
-  desc_jp: Deal 320% damage (8 hits, 40% each)
   max_atk_pct: 320
   name_en: Water Dragon Chop Suey
   one_time: 0

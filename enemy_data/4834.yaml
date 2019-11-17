@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 50%
-  desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -26,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Absorb damage >= 30000000 damage
     for 999 turns + Rcv 50% for 10 turns + Delay active skills by 10 turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Absorb damage >= 30000000 damage
     for 999 turns + Rcv 50% for 10 turns + Delay active skills by 10 turns (Preemptive)
   max_atk_pct: null
   name_en: White Valkyrie Shield + Fylgja's Clothing + Discerning Lifechains + Fighting
@@ -36,7 +34,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1-9
   one_time: null
@@ -44,7 +41,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 100% damage (2 hits, 50% each)
-  desc_jp: Deal 100% damage (2 hits, 50% each)
   max_atk_pct: 100
   name_en: Double Slash
   one_time: 0
@@ -52,7 +48,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 10
   one_time: null
@@ -60,7 +55,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Rcv 50% for 10 turns + Player -75% HP
-  desc_jp: Rcv 50% for 10 turns + Player -75% HP
   max_atk_pct: null
   name_en: Discerning Lifechains + Mighty Bash
   one_time: 9
@@ -68,7 +62,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -76,7 +69,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -84,7 +76,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Enemy recover 100% hp + Locked random skyfall +100% for 99 turns
-  desc_jp: Enemy recover 100% hp + Locked random skyfall +100% for 99 turns
   max_atk_pct: null
   name_en: Resurrection + Heavenly Decision
   one_time: 0
@@ -92,7 +83,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2-10
   one_time: null
@@ -100,7 +90,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 150% damage (3 hits, 50% each)
-  desc_jp: Deal 150% damage (3 hits, 50% each)
   max_atk_pct: 150
   name_en: Triple Slash
   one_time: 0
@@ -108,7 +97,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 11
   one_time: null
@@ -116,7 +104,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Rcv 50% for 10 turns + Player -75% HP
-  desc_jp: Rcv 50% for 10 turns + Player -75% HP
   max_atk_pct: null
   name_en: Discerning Lifechains + Mighty Bash
   one_time: 9
@@ -124,7 +111,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 150% damage (3 hits, 50% each)
-  desc_jp: Deal 150% damage (3 hits, 50% each)
   max_atk_pct: 150
   name_en: Triple Slash
   one_time: 0
@@ -132,7 +118,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 7
   one_time: null
@@ -140,7 +125,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -148,7 +132,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 200% for the next 99 turns
-  desc_jp: Increase damage to 200% for the next 99 turns
   max_atk_pct: null
   name_en: Last Judgement
   one_time: 0
@@ -157,7 +140,6 @@ records:
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Water, Wood, Light, Dark +
     Deal 2000%~2500% damage (4~5 hits, 500% each)
-  desc_jp: Change own attribute to random one of Fire, Water, Wood, Light, Dark +
     Deal 2000%~2500% damage (4~5 hits, 500% each)
   max_atk_pct: null
   name_en: Sweeping Spirit Garments + Valkyrie Blade - Ciel

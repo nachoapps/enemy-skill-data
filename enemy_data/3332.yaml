@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Increase damage to 200% for the next 999 turns (Preemptive)
-  desc_jp: Increase damage to 200% for the next 999 turns (Preemptive)
   max_atk_pct: null
   name_en: High Spirit Mode
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 50% damage
-  desc_jp: Deal 50% damage
   max_atk_pct: 50
   name_en: Marici's Blazing Dance
   one_time: 1
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 75% damage
-  desc_jp: Deal 75% damage
   max_atk_pct: 75
   name_en: Secret Blade - Devilbind Flame
   one_time: 0

@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Change Wood to Jammer, Deal 80% damage
-  desc_jp: Change Wood to Jammer, Deal 80% damage
   max_atk_pct: 80
   name_en: Wood Eating Attack
   one_time: 1
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 200% damage
-  desc_jp: Deal 200% damage
   max_atk_pct: 200
   name_en: Bugs Bomb
   one_time: 0

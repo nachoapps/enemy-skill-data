@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Player -99% HP (Preemptive)
-  desc_jp: Player -99% HP (Preemptive)
   max_atk_pct: null
   name_en: Flare Drive
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Spawn random 3 Fire orbs, Deal 100% damage
-  desc_jp: Spawn random 3 Fire orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Flare Wing
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Spawn random 5 Bomb orbs, Deal 60% damage
-  desc_jp: Spawn random 5 Bomb orbs, Deal 60% damage
   max_atk_pct: 60
   name_en: Property Bombing
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Deal 120% damage (3 hits, 40% each)
-  desc_jp: Deal 120% damage (3 hits, 40% each)
   max_atk_pct: 120
   name_en: Strike
   one_time: 0
@@ -49,7 +45,6 @@ records:
   usage_pct: 34
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -57,7 +52,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -65,7 +59,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 200% for the next 99 turns + Spawn random 1 Bomb orbs
-  desc_jp: Increase damage to 200% for the next 99 turns + Spawn random 1 Bomb orbs
   max_atk_pct: null
   name_en: Raging + Property Bombing
   one_time: 0
@@ -73,7 +66,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 240% damage (3 hits, 80% each)
-  desc_jp: Deal 240% damage (3 hits, 80% each)
   max_atk_pct: 240
   name_en: Flare Rush
   one_time: 0

@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Increase damage to 130% for the next 3 turns
-  desc_jp: Increase damage to 130% for the next 3 turns
   max_atk_pct: null
   name_en: Anger
   one_time: 0

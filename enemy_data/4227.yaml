@@ -18,7 +18,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Immune to damage from all sources for 999 turns (Preemptive)
-  desc_jp: Immune to damage from all sources for 999 turns (Preemptive)
   max_atk_pct: null
   name_en: Protected from damage by the Augites
   one_time: 0
@@ -26,7 +25,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -35,7 +33,6 @@ records:
 - !SkillRecord
   desc_en: Remove damage immunity effect + Voids status ailments for 66 turns + Void
     damage >= 66666666 for 999 turns
-  desc_jp: Remove damage immunity effect + Voids status ailments for 66 turns + Void
     damage >= 66666666 for 999 turns
   max_atk_pct: null
   name_en: All Augites have successfully shattered + Chest Core's Shine + Fortified
@@ -45,7 +42,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -53,7 +49,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Delay active skills by 1 turns + Player -99% HP + Player -99% HP
-  desc_jp: Delay active skills by 1 turns + Player -99% HP + Player -99% HP
   max_atk_pct: null
   name_en: Time Binding + Wave + Wave
   one_time: 4
@@ -61,7 +56,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -69,7 +63,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random to Jammer, Deal 250% damage
-  desc_jp: Change Random to Jammer, Deal 250% damage
   max_atk_pct: 250
   name_en: Rotting Pain
   one_time: 0
@@ -77,7 +70,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Deal 340% damage (4 hits, 85% each)
-  desc_jp: Deal 340% damage (4 hits, 85% each)
   max_atk_pct: 340
   name_en: Four Resonating Guns
   one_time: 0
@@ -85,7 +77,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 90
   one_time: null
@@ -93,7 +84,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -102,7 +92,6 @@ records:
 - !SkillRecord
   desc_en: Absorb combo <= 6 damage for 66 turns + Specific orbs change every 1.0s
     for 6 turns
-  desc_jp: Absorb combo <= 6 damage for 66 turns + Specific orbs change every 1.0s
     for 6 turns
   max_atk_pct: null
   name_en: Secular Sword + Empty Teachings
@@ -111,7 +100,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -119,7 +107,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -127,7 +114,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Movetime -3s for 6 turns + Heal skyfall +15% for 6 turns
-  desc_jp: Movetime -3s for 6 turns + Heal skyfall +15% for 6 turns
   max_atk_pct: null
   name_en: Deprivation + Holy Charity
   one_time: 2
@@ -135,7 +121,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Random to Jammer, Deal 250% damage + Player -99% HP
-  desc_jp: Change Random to Jammer, Deal 250% damage + Player -99% HP
   max_atk_pct: null
   name_en: Rotting Pain + Wave
   one_time: 0
@@ -143,7 +128,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: Deal 340% damage (4 hits, 85% each) + Player -99% HP
-  desc_jp: Deal 340% damage (4 hits, 85% each) + Player -99% HP
   max_atk_pct: null
   name_en: Four Resonating Guns + Wave
   one_time: 0
@@ -151,7 +135,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -159,7 +142,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -168,7 +150,6 @@ records:
 - !SkillRecord
   desc_en: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
     orbs + Bind awoken skills for 3 turns
-  desc_jp: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
     orbs + Bind awoken skills for 3 turns
   max_atk_pct: null
   name_en: Stellar Dragon's Glare + Barbed Chain Cage
@@ -178,7 +159,6 @@ records:
 - !SkillRecord
   desc_en: Change own attribute to random one of Water, Light + Deal 3600% damage
     (6 hits, 600% each)
-  desc_jp: Change own attribute to random one of Water, Light + Deal 3600% damage
     (6 hits, 600% each)
   max_atk_pct: null
   name_en: Metamorphosis + Six Limitless Flashes

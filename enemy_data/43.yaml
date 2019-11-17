@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Increase damage to 200% for the next attack
-  desc_jp: Increase damage to 200% for the next attack
   max_atk_pct: null
   name_en: Puffing Up
   one_time: 0

@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Row of cloud appear for 1 turns at
     1st column, (if [1509, 1510] on team) (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Row of cloud appear for 1 turns at
     1st column, (if [1509, 1510] on team) (Preemptive)
   max_atk_pct: null
   name_en: Master! Please duel with me! + Go, my Demon Minions!
@@ -28,7 +27,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Row of cloud appear for 1 turns at
     1st column (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Row of cloud appear for 1 turns at
     1st column (Preemptive)
   max_atk_pct: null
   name_en: 'Behold: the results of my training! + Go, my Demon Minions!'
@@ -37,7 +35,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -45,7 +42,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 120% damage (2 hits, 60% each)
-  desc_jp: Deal 120% damage (2 hits, 60% each)
   max_atk_pct: 120
   name_en: The Demon Minions are acting up
   one_time: 0
@@ -53,7 +49,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -61,7 +56,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 8 Jammer orbs, Deal 140% damage
-  desc_jp: Spawn random 8 Jammer orbs, Deal 140% damage
   max_atk_pct: 140
   name_en: The Demon Minions are at it again
   one_time: 0
@@ -69,7 +63,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -77,7 +70,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 100% damage
-  desc_jp: Blind all orbs on the board, Deal 100% damage
   max_atk_pct: 100
   name_en: Darkness Mist
   one_time: 0
@@ -85,7 +77,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 110% damage
-  desc_jp: Deal 110% damage
   max_atk_pct: 110
   name_en: Chaos Ray
   one_time: 0
@@ -93,7 +84,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -101,7 +91,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -109,7 +98,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Delay active skills by 2 turns
-  desc_jp: Delay active skills by 2 turns
   max_atk_pct: null
   name_en: 'Imma show you a big one!
 
@@ -119,7 +107,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -127,7 +114,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Do nothing + Do nothing
-  desc_jp: Do nothing + Do nothing
   max_atk_pct: null
   name_en: Grr, my magic spell page got eaten... + 3
   one_time: 4
@@ -135,7 +121,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -143,7 +128,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random to Jammer, Deal 220% damage
-  desc_jp: Change Random to Jammer, Deal 220% damage
   max_atk_pct: 220
   name_en: Hidden Dagger
   one_time: 2
@@ -151,7 +135,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -159,7 +142,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Do nothing
-  desc_jp: Do nothing
   max_atk_pct: null
   name_en: Oh, a magic spell page fell out♪
   one_time: 1
@@ -167,7 +149,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 360% damage (6 hits, 60% each)
-  desc_jp: Deal 360% damage (6 hits, 60% each)
   max_atk_pct: 360
   name_en: Endless Nightmare
   one_time: 0

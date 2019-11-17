@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 50%
-  desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Reduce damage from Dark by 50%
-  desc_jp: Reduce damage from Dark by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -34,7 +32,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Absorb combo <= 6 damage for 999
     turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Absorb combo <= 6 damage for 999
     turns (Preemptive)
   max_atk_pct: null
   name_en: My name is Orpharion! + Paradiso Puma
@@ -43,7 +40,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -51,7 +47,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Delay active skills by 99 turns
-  desc_jp: Delay active skills by 99 turns
   max_atk_pct: null
   name_en: Disperazione
   one_time: 0
@@ -59,7 +54,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -67,7 +61,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Seal 1st row for 1 turns, Deal 100% damage
-  desc_jp: Seal 1st row for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Sopra Perdere
   one_time: 0
@@ -75,7 +68,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Blind random 4~10 orbs for 1 turns, Deal 100% damage
-  desc_jp: Blind random 4~10 orbs for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Oscurità Alcuni
   one_time: 0
@@ -84,7 +76,6 @@ records:
 - !SkillRecord
   desc_en: Lock 11 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 100% damage
-  desc_jp: Lock 11 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Chiave Spina
@@ -93,7 +84,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Bind 1 random for 2 turns, Deal 100% damage
-  desc_jp: Bind 1 random for 2 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Anestesia Spada
   one_time: 0
@@ -101,7 +91,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Bind awoken skills for 1 turns, Deal 100% damage
-  desc_jp: Bind awoken skills for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Niente Spazio
   one_time: 0
@@ -109,7 +98,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -117,7 +105,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Voids player buff effects + Deal 5000% damage (10 hits, 500% each)
-  desc_jp: Voids player buff effects + Deal 5000% damage (10 hits, 500% each)
   max_atk_pct: null
   name_en: Angelo Lacrima + Innumerevole Ferita
   one_time: 0

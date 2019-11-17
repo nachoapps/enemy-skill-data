@@ -18,7 +18,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Bind 1 random subs for 3 turns (Preemptive)
-  desc_jp: Bind 1 random subs for 3 turns (Preemptive)
   max_atk_pct: null
   name_en: Shadow Stick
   one_time: 8
@@ -26,7 +25,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -34,7 +32,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 1st column to Poison orbs, 6th column to Heal orbs, Deal 50% damage
-  desc_jp: Change 1st column to Poison orbs, 6th column to Heal orbs, Deal 50% damage
   max_atk_pct: 50
   name_en: Life and Death
   one_time: 4
@@ -42,7 +39,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -50,7 +46,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 1st column to Poison orbs, 6th column to Heal orbs, Deal 50% damage
-  desc_jp: Change 1st column to Poison orbs, 6th column to Heal orbs, Deal 50% damage
   max_atk_pct: 50
   name_en: Life and Death
   one_time: 2
@@ -58,7 +53,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -66,7 +60,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 1st column to Poison orbs, 6th column to Heal orbs, Deal 50% damage
-  desc_jp: Change 1st column to Poison orbs, 6th column to Heal orbs, Deal 50% damage
   max_atk_pct: 50
   name_en: Life and Death
   one_time: 1
@@ -74,7 +67,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -82,7 +74,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 400% damage (4 hits, 100% each)
-  desc_jp: Deal 400% damage (4 hits, 100% each)
   max_atk_pct: 400
   name_en: Shredder
   one_time: 0

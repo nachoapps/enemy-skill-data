@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from God, Machine by 50%
-  desc_jp: Reduce damage from God, Machine by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -33,7 +32,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from God, Machine by 50%
-  desc_jp: Reduce damage from God, Machine by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -42,7 +40,6 @@ records:
 - !SkillRecord
   desc_en: Poison skyfall +20% for 5 turns + Locked Poison skyfall +100% for 30 turns
     (Preemptive)
-  desc_jp: Poison skyfall +20% for 5 turns + Locked Poison skyfall +100% for 30 turns
     (Preemptive)
   max_atk_pct: null
   name_en: Look! + That's a lot of meteors!
@@ -51,7 +48,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -60,7 +56,6 @@ records:
 - !SkillRecord
   desc_en: Absorb combo <= 6 damage for 15 turns + Unable to match Poison orbs for
     1 turns
-  desc_jp: Absorb combo <= 6 damage for 15 turns + Unable to match Poison orbs for
     1 turns
   max_atk_pct: null
   name_en: Like the stars in the night sky... + Show me your locus...
@@ -69,7 +64,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -77,7 +71,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random to Jammer, Deal 95% damage
-  desc_jp: Change Random to Jammer, Deal 95% damage
   max_atk_pct: 95
   name_en: Shooting Stardust
   one_time: 0
@@ -85,7 +78,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Delay active skills by 2 turns, Deal 90% damage
-  desc_jp: Delay active skills by 2 turns, Deal 90% damage
   max_atk_pct: 90
   name_en: Star Symphony
   one_time: 0
@@ -93,7 +85,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Deal 105% damage (3 hits, 35% each)
-  desc_jp: Deal 105% damage (3 hits, 35% each)
   max_atk_pct: 105
   name_en: Meteor Rain
   one_time: 0
@@ -101,7 +92,6 @@ records:
   usage_pct: 34
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -109,7 +99,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -117,7 +106,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 99 turns + Blind all orbs on the board
-  desc_jp: Increase damage to 150% for the next 99 turns + Blind all orbs on the board
   max_atk_pct: null
   name_en: I'll end this with my own hands! + The stars are bright tonight...
   one_time: 0
@@ -125,7 +113,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Bind awoken skills for 1 turns, Deal 400% damage
-  desc_jp: Bind awoken skills for 1 turns, Deal 400% damage
   max_atk_pct: 400
   name_en: At least peacefully...
   one_time: 0

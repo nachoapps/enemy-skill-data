@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Spawn random 3 Bomb orbs (Preemptive)
-  desc_jp: Spawn random 3 Bomb orbs (Preemptive)
   max_atk_pct: null
   name_en: Fulfilling mission
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind orbs in specific positions for 1 turns, Deal 100% damage
-  desc_jp: Blind orbs in specific positions for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: X-Calibur
   one_time: 2
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2-3
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 1 Wood orbs, Deal 90% damage
-  desc_jp: Spawn random 1 Wood orbs, Deal 90% damage
   max_atk_pct: 90
   name_en: Baltic Launcher
   one_time: 0
@@ -57,7 +52,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 80% damage
-  desc_jp: Deal 80% damage
   max_atk_pct: 80
   name_en: I-Slasher
   one_time: 0
@@ -65,7 +59,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 25
   one_time: null
@@ -73,7 +66,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -81,7 +73,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 30% damage
-  desc_jp: Deal 30% damage
   max_atk_pct: 30
   name_en: Rebel Spark
   one_time: 0
@@ -89,7 +80,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -97,7 +87,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn Bomb orbs in the specified positions
-  desc_jp: Spawn Bomb orbs in the specified positions
   max_atk_pct: null
   name_en: Goodbye!
   one_time: 0
@@ -105,7 +94,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Spawn Bomb orbs in the specified positions, Deal 100% damage
-  desc_jp: Spawn Bomb orbs in the specified positions, Deal 100% damage
   max_atk_pct: 100
   name_en: V-Slasher
   one_time: 0

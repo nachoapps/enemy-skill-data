@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from Light by 50%
-  desc_jp: Reduce damage from Light by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Absorb combo <= 5 damage for 3 turns (Preemptive)
-  desc_jp: Absorb combo <= 5 damage for 3 turns (Preemptive)
   max_atk_pct: null
   name_en: "Here is your peace - \nby steel's swift descent!"
   one_time: 32
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -41,7 +38,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 100% damage
-  desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: Regular Attack
   one_time: 16
@@ -49,7 +45,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -57,7 +52,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 2nd row to Dark orbs, Deal 150% damage
-  desc_jp: Change 2nd row to Dark orbs, Deal 150% damage
   max_atk_pct: 150
   name_en: Who do you pray to?
   one_time: 8
@@ -65,7 +59,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -73,7 +66,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 100% damage
-  desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: Regular Attack
   one_time: 4
@@ -81,7 +73,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -89,7 +80,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 2nd column to Dark orbs, Deal 150% damage
-  desc_jp: Change 2nd column to Dark orbs, Deal 150% damage
   max_atk_pct: 150
   name_en: Abandon your prayers.
   one_time: 2
@@ -97,7 +87,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
   one_time: null
@@ -105,7 +94,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 100% damage
-  desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: Regular Attack
   one_time: 1
@@ -113,7 +101,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -121,7 +108,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 600% damage (3 hits, 200% each)
-  desc_jp: Deal 600% damage (3 hits, 200% each)
   max_atk_pct: 600
   name_en: You are out of time.
   one_time: 0

@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Absorb Dark damage for 10 turns (Preemptive)
-  desc_jp: Absorb Dark damage for 10 turns (Preemptive)
   max_atk_pct: null
   name_en: Shadow Shield
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 100% damage
-  desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: Shield Bash
   one_time: 0

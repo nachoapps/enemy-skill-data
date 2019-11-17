@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from Water by 50%
-  desc_jp: Reduce damage from Water by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Absorb combo <= 5 damage for 999 turns + Blind all orbs on the board (Preemptive)
-  desc_jp: Absorb combo <= 5 damage for 999 turns + Blind all orbs on the board (Preemptive)
   max_atk_pct: null
   name_en: Ocean Vestments + Pitch-Black
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Wood to Water, Deal 100% damage
-  desc_jp: Change Wood to Water, Deal 100% damage
   max_atk_pct: 100
   name_en: Ocean Blade
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Change Water to Heal, Deal 150% damage
-  desc_jp: Change Water to Heal, Deal 150% damage
   max_atk_pct: 150
   name_en: Blessing & Curse of the Sacred Waters
   one_time: 0
@@ -49,7 +45,6 @@ records:
   usage_pct: 70
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 75
   one_time: null
@@ -57,7 +52,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -66,7 +60,6 @@ records:
 - !SkillRecord
   desc_en: Change Random 3 to Jammer + Lock 15 random Fire, Water, Wood, Light, Dark,
     Heal, Jammer, Poison, Mortal Poison orbs
-  desc_jp: Change Random 3 to Jammer + Lock 15 random Fire, Water, Wood, Light, Dark,
     Heal, Jammer, Poison, Mortal Poison orbs
   max_atk_pct: null
   name_en: Father Sea's Curse + Hollow Vortex
@@ -75,7 +68,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 25
   one_time: null
@@ -83,7 +75,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 400% damage
-  desc_jp: Deal 400% damage
   max_atk_pct: 400
   name_en: Sea God's Strike
   one_time: 0

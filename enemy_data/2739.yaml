@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 76%
-  desc_jp: Survive attacks with 1 HP when HP > 76%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -26,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Absorb combo <= 4 damage for 99 turns + Voids status ailments for 999 turns
     (Preemptive)
-  desc_jp: Absorb combo <= 4 damage for 99 turns + Voids status ailments for 999 turns
     (Preemptive)
   max_atk_pct: null
   name_en: Phoenix Knight's Soul + Blazing Armor
@@ -35,7 +33,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 150% damage (3 hits, 50% each)
-  desc_jp: Deal 150% damage (3 hits, 50% each)
   max_atk_pct: 150
   name_en: Blazing Cutting Dance
   one_time: 0
@@ -43,7 +40,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 75
   one_time: null
@@ -51,7 +47,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Enemy recover 10% hp + Player -99% HP
-  desc_jp: Enemy recover 10% hp + Player -99% HP
   max_atk_pct: null
   name_en: Flame Eating Net + Scold
   one_time: 0
@@ -59,7 +54,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -67,7 +61,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -75,7 +68,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 3 turns
-  desc_jp: Reduce damage from all sources by 75% for 3 turns
   max_atk_pct: null
   name_en: High Temperature
   one_time: 0
@@ -83,7 +75,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Spawn random 5 Jammer orbs, Deal 50% damage
-  desc_jp: Spawn random 5 Jammer orbs, Deal 50% damage
   max_atk_pct: 50
   name_en: Ash followed by Flare
   one_time: 0
@@ -91,7 +82,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Enemy is defeated
   one_time: null
@@ -99,7 +89,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind awoken skills for 3 turns
-  desc_jp: Bind awoken skills for 3 turns
   max_atk_pct: null
   name_en: Suppression Flames
   one_time: 0
@@ -107,7 +96,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Player -300% HP
-  desc_jp: Player -300% HP
   max_atk_pct: null
   name_en: Burnout
   one_time: 0

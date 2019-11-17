@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from Wood by 50%
-  desc_jp: Reduce damage from Wood by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -26,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 7 turns + Reduce damage from all sources by 75%
     for 7 turns + Change Random 4 to Poison, Deal 70% damage (Preemptive)
-  desc_jp: Voids status ailments for 7 turns + Reduce damage from all sources by 75%
     for 7 turns + Change Random 4 to Poison, Deal 70% damage (Preemptive)
   max_atk_pct: null
   name_en: Seven Mirages + Mucus Skin + Poison Claw
@@ -35,7 +33,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Poison to Jammer, Deal 210% damage
-  desc_jp: Change Poison to Jammer, Deal 210% damage
   max_atk_pct: 210
   name_en: Hell Bloom
   one_time: 0
@@ -44,7 +41,6 @@ records:
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Water, Wood + Deal 105% damage
     (7 hits, 15% each)
-  desc_jp: Change own attribute to random one of Fire, Water, Wood + Deal 105% damage
     (7 hits, 15% each)
   max_atk_pct: null
   name_en: Energy Mimic + Storm Rave
@@ -53,7 +49,6 @@ records:
   usage_pct: 15
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Water, Wood + Player -77% HP
-  desc_jp: Change own attribute to random one of Fire, Water, Wood + Player -77% HP
   max_atk_pct: null
   name_en: Energy Mimic + Vine Rings
   one_time: 0
@@ -62,7 +57,6 @@ records:
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Water, Wood + Change all orbs
     to Fire, Water, Wood, Light, Dark, Heal, Poison, Deal 70% damage
-  desc_jp: Change own attribute to random one of Fire, Water, Wood + Change all orbs
     to Fire, Water, Wood, Light, Dark, Heal, Poison, Deal 70% damage
   max_atk_pct: null
   name_en: Energy Mimic + Seven Gardens
@@ -72,7 +66,6 @@ records:
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Water, Wood + Change Random
     5 to Poison, Deal 70% damage
-  desc_jp: Change own attribute to random one of Fire, Water, Wood + Change Random
     5 to Poison, Deal 70% damage
   max_atk_pct: null
   name_en: Energy Mimic + Poison Blow
@@ -81,7 +74,6 @@ records:
   usage_pct: 15
 - !SkillRecord
   desc_en: Enemy recover 7% hp, Deal 70% damage
-  desc_jp: Enemy recover 7% hp, Deal 70% damage
   max_atk_pct: 70
   name_en: Draining Nails
   one_time: 0
@@ -89,7 +81,6 @@ records:
   usage_pct: 15
 - !SkillRecord
   desc_en: Change Random 3 to Poison, Deal 70% damage
-  desc_jp: Change Random 3 to Poison, Deal 70% damage
   max_atk_pct: 70
   name_en: Venom Blow
   one_time: 0
@@ -98,7 +89,6 @@ records:
 - !SkillRecord
   desc_en: Lock 7 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 70% damage
-  desc_jp: Lock 7 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 70% damage
   max_atk_pct: 70
   name_en: Clotting Nails
@@ -107,7 +97,6 @@ records:
   usage_pct: 15
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 85
   one_time: null
@@ -115,7 +104,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -123,7 +111,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Poison to Jammer, Deal 210% damage
-  desc_jp: Change Poison to Jammer, Deal 210% damage
   max_atk_pct: 210
   name_en: Hell Bloom
   one_time: 0
@@ -132,7 +119,6 @@ records:
 - !SkillRecord
   desc_en: Void damage >= 100000 for 1 turns + Change Random 7 to Poison, Deal 70%
     damage
-  desc_jp: Void damage >= 100000 for 1 turns + Change Random 7 to Poison, Deal 70%
     damage
   max_atk_pct: null
   name_en: Temporal Stealth + Hell Poison Claw
@@ -141,7 +127,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 71
   one_time: null
@@ -149,7 +134,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -157,7 +141,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Poison to Jammer, Deal 210% damage
-  desc_jp: Change Poison to Jammer, Deal 210% damage
   max_atk_pct: 210
   name_en: Hell Bloom
   one_time: 0
@@ -166,7 +149,6 @@ records:
 - !SkillRecord
   desc_en: Change own attribute to random one of Water, Wood + Change Random 4 to
     Poison, Deal 70% damage
-  desc_jp: Change own attribute to random one of Water, Wood + Change Random 4 to
     Poison, Deal 70% damage
   max_atk_pct: null
   name_en: Urgency Mimic + Venom Claw
@@ -175,7 +157,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 57
   one_time: null
@@ -183,7 +164,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -191,7 +171,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Poison to Jammer, Deal 210% damage
-  desc_jp: Change Poison to Jammer, Deal 210% damage
   max_atk_pct: 210
   name_en: Hell Bloom
   one_time: 0
@@ -199,7 +178,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Bind 1 random subs for 7 turns + Change Random 5 to Poison, Deal 70% damage
-  desc_jp: Bind 1 random subs for 7 turns + Change Random 5 to Poison, Deal 70% damage
   max_atk_pct: null
   name_en: Paralyzing Vine + Hell Venom Claw
   one_time: 4
@@ -207,7 +185,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 43
   one_time: null
@@ -215,7 +192,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -223,7 +199,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Poison to Jammer, Deal 210% damage
-  desc_jp: Change Poison to Jammer, Deal 210% damage
   max_atk_pct: 210
   name_en: Hell Bloom
   one_time: 0
@@ -232,7 +207,6 @@ records:
 - !SkillRecord
   desc_en: Void damage >= 100000 for 1 turns + Change Random 4 to Poison, Deal 140%
     damage
-  desc_jp: Void damage >= 100000 for 1 turns + Change Random 4 to Poison, Deal 140%
     damage
   max_atk_pct: null
   name_en: Temporal Stealth + Poison Rave
@@ -241,7 +215,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
   one_time: null
@@ -249,7 +222,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
   one_time: null
@@ -257,7 +229,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Poison to Jammer, Deal 210% damage
-  desc_jp: Change Poison to Jammer, Deal 210% damage
   max_atk_pct: 210
   name_en: Hell Bloom
   one_time: 0
@@ -266,7 +237,6 @@ records:
 - !SkillRecord
   desc_en: Change own attribute to random one of Water, Wood + Change Random 7 to
     Poison, Deal 140% damage
-  desc_jp: Change own attribute to random one of Water, Wood + Change Random 7 to
     Poison, Deal 140% damage
   max_atk_pct: null
   name_en: Urgency Mimic + Hell's Poison Rave
@@ -275,7 +245,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 15
   one_time: null
@@ -284,7 +253,6 @@ records:
 - !SkillRecord
   desc_en: Bind 1 random subs for 7 turns + Change Random 14 to Poison, Deal 140%
     damage
-  desc_jp: Bind 1 random subs for 7 turns + Change Random 14 to Poison, Deal 140%
     damage
   max_atk_pct: null
   name_en: Paralyzing Vine + Deadly Poison Rave

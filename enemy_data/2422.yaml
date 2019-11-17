@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from God, Machine by 50%
-  desc_jp: Reduce damage from God, Machine by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -33,7 +32,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from God, Machine by 50%
-  desc_jp: Reduce damage from God, Machine by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -41,7 +39,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Seal 1st row for 5 turns + Absorb Water, Dark damage for 5 turns (Preemptive)
-  desc_jp: Seal 1st row for 5 turns + Absorb Water, Dark damage for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: Don't even try to get closer + Creation of Antibody
   one_time: 0
@@ -49,7 +46,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1-4
   one_time: null
@@ -57,7 +53,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Heal to Light, Deal 110% damage
-  desc_jp: Change Heal to Light, Deal 110% damage
   max_atk_pct: 110
   name_en: White Out
   one_time: 0
@@ -65,7 +60,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Lock all Water, Dark orbs, Deal 105% damage
-  desc_jp: Lock all Water, Dark orbs, Deal 105% damage
   max_atk_pct: 105
   name_en: Restraining Star
   one_time: 0
@@ -73,7 +67,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Deal 120% damage (4 hits, 30% each)
-  desc_jp: Deal 120% damage (4 hits, 30% each)
   max_atk_pct: 120
   name_en: Star Quasar
   one_time: 0
@@ -81,7 +74,6 @@ records:
   usage_pct: 34
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
   one_time: null
@@ -89,7 +81,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb damage >= 2000000 damage for 5 turns
-  desc_jp: Absorb damage >= 2000000 damage for 5 turns
   max_atk_pct: null
   name_en: Gigantic Power Shield
   one_time: 1
@@ -97,7 +88,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6-9
   one_time: null
@@ -105,7 +95,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Heal to Light, Deal 110% damage
-  desc_jp: Change Heal to Light, Deal 110% damage
   max_atk_pct: 110
   name_en: White Out
   one_time: 0
@@ -113,7 +102,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Lock all Water, Dark orbs, Deal 105% damage
-  desc_jp: Lock all Water, Dark orbs, Deal 105% damage
   max_atk_pct: 105
   name_en: Restraining Star
   one_time: 0
@@ -121,7 +109,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Deal 120% damage (4 hits, 30% each)
-  desc_jp: Deal 120% damage (4 hits, 30% each)
   max_atk_pct: 120
   name_en: Star Quasar
   one_time: 0
@@ -129,7 +116,6 @@ records:
   usage_pct: 34
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 10
   one_time: null
@@ -137,7 +123,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 99 turns
-  desc_jp: Reduce damage from all sources by 75% for 99 turns
   max_atk_pct: null
   name_en: Divine Protection from the Gods
   one_time: 0
@@ -145,7 +130,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -153,7 +137,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Heal to Light, Deal 110% damage
-  desc_jp: Change Heal to Light, Deal 110% damage
   max_atk_pct: 110
   name_en: White Out
   one_time: 0
@@ -161,7 +144,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Lock all Water, Dark orbs, Deal 105% damage
-  desc_jp: Lock all Water, Dark orbs, Deal 105% damage
   max_atk_pct: 105
   name_en: Restraining Star
   one_time: 0
@@ -169,7 +151,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Deal 120% damage (4 hits, 30% each)
-  desc_jp: Deal 120% damage (4 hits, 30% each)
   max_atk_pct: 120
   name_en: Star Quasar
   one_time: 0
@@ -177,7 +158,6 @@ records:
   usage_pct: 34
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
   one_time: null
@@ -185,7 +165,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1-4
   one_time: null
@@ -193,7 +172,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 250% damage (5 hits, 50% each)
-  desc_jp: Deal 250% damage (5 hits, 50% each)
   max_atk_pct: 250
   name_en: Shooting Snow White
   one_time: 0
@@ -201,7 +179,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6-9
   one_time: null
@@ -209,7 +186,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 250% damage (5 hits, 50% each)
-  desc_jp: Deal 250% damage (5 hits, 50% each)
   max_atk_pct: 250
   name_en: Shooting Snow White
   one_time: 0
@@ -217,7 +193,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 250% damage (5 hits, 50% each)
-  desc_jp: Deal 250% damage (5 hits, 50% each)
   max_atk_pct: 250
   name_en: Shooting Snow White
   one_time: 0

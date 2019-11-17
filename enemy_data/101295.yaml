@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Player -99% HP (Preemptive)
-  desc_jp: Player -99% HP (Preemptive)
   max_atk_pct: null
   name_en: Fury Harvest
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 1000% for the next 999 turns (When 1 enemy remains)
-  desc_jp: Increase damage to 1000% for the next 999 turns (When 1 enemy remains)
   max_atk_pct: null
   name_en: Curse of the Twin Masks
   one_time: 0

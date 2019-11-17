@@ -18,7 +18,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Increase damage to 200% for the next 1 turns (Preemptive)
-  desc_jp: Increase damage to 200% for the next 1 turns (Preemptive)
   max_atk_pct: null
   name_en: The Green Augite is pulsating
   one_time: 0
@@ -26,7 +25,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 180% damage
-  desc_jp: Deal 180% damage
   max_atk_pct: 180
   name_en: Slash
   one_time: 0

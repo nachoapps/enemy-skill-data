@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Voids status ailments for 5 turns (Preemptive)
-  desc_jp: Voids status ailments for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: Egotistical Healing
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Random to Heal, Deal 125% damage
-  desc_jp: Change Random to Heal, Deal 125% damage
   max_atk_pct: 125
   name_en: Whip of Love
   one_time: 1
@@ -33,7 +31,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Change Random to Water, Deal 100% damage
-  desc_jp: Change Random to Water, Deal 100% damage
   max_atk_pct: 100
   name_en: Water Orb Kick
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: Deal 150% damage (3 hits, 50% each)
-  desc_jp: Deal 150% damage (3 hits, 50% each)
   max_atk_pct: 150
   name_en: Blue Dragon Screw
   one_time: 0
@@ -49,7 +45,6 @@ records:
   usage_pct: 40
 - !SkillRecord
   desc_en: Bind friend leader for 1 turns, Deal 50% damage
-  desc_jp: Bind friend leader for 1 turns, Deal 50% damage
   max_atk_pct: 50
   name_en: Frozen Cobra Twist
   one_time: 0
@@ -57,7 +52,6 @@ records:
   usage_pct: 60
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 75% damage
-  desc_jp: Blind all orbs on the board, Deal 75% damage
   max_atk_pct: 75
   name_en: Poison Mist
   one_time: 0
@@ -65,7 +59,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -73,7 +66,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -81,7 +73,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Do nothing
-  desc_jp: Do nothing
   max_atk_pct: null
   name_en: Serpent Top
   one_time: 0
@@ -89,7 +80,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -97,7 +87,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind 6 random for 1~2 turns, Deal 25% damage
-  desc_jp: Bind 6 random for 1~2 turns, Deal 25% damage
   max_atk_pct: 25
   name_en: Nile-Style Moonsault Press
   one_time: 0
@@ -105,7 +94,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -113,7 +101,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Do nothing
-  desc_jp: Do nothing
   max_atk_pct: null
   name_en: Now sleep!
   one_time: 1
@@ -121,7 +108,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -129,7 +115,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 5000% damage
-  desc_jp: Deal 5000% damage
   max_atk_pct: 5000
   name_en: Pinfall
   one_time: 0

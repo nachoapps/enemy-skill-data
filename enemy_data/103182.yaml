@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 50%
-  desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Bind 4 random subs for 10 turns + Bind active skills for 10 turns (Preemptive)
-  desc_jp: Bind 4 random subs for 10 turns + Bind active skills for 10 turns (Preemptive)
   max_atk_pct: null
   name_en: Warrior's Dignity + Power Control
   one_time: 2
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -41,7 +38,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb combo <= 6 damage for 999 turns + Spawn random 1 Bomb orbs
-  desc_jp: Absorb combo <= 6 damage for 999 turns + Spawn random 1 Bomb orbs
   max_atk_pct: null
   name_en: Shuffling + Hidden Ball
   one_time: 1
@@ -49,7 +45,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -57,7 +52,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 1st column to Fire orbs, Deal 100% damage
-  desc_jp: Change 1st column to Fire orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Red Flash
   one_time: 0
@@ -65,7 +59,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Change 6th column to Water orbs, Deal 100% damage
-  desc_jp: Change 6th column to Water orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Blue Flash
   one_time: 0
@@ -73,7 +66,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Deal 120% damage (3 hits, 40% each)
-  desc_jp: Deal 120% damage (3 hits, 40% each)
   max_atk_pct: 120
   name_en: Swiftness Sword Technique
   one_time: 0
@@ -81,7 +73,6 @@ records:
   usage_pct: 34
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -89,7 +80,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -97,7 +87,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Spawn random 1 Bomb orbs
-  desc_jp: Voids status ailments for 999 turns + Spawn random 1 Bomb orbs
   max_atk_pct: null
   name_en: Swordsman's Resolution + Hidden Ball
   one_time: 0
@@ -105,7 +94,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 15
   one_time: null
@@ -113,7 +101,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -121,7 +108,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change player HP to 1000 for 1 turns + Movetime -3s for 5 turns
-  desc_jp: Change player HP to 1000 for 1 turns + Movetime -3s for 5 turns
   max_atk_pct: null
   name_en: Restricted Life + Imminent Choice
   one_time: 0
@@ -129,7 +115,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 500% damage (2 hits, 250% each)
-  desc_jp: Deal 500% damage (2 hits, 250% each)
   max_atk_pct: 500
   name_en: Double Blade Flash
   one_time: 0

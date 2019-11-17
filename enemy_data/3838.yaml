@@ -19,7 +19,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Light damage for 5 turns + Bind 2 random for 3 turns, Deal 200%
     damage (Preemptive)
-  desc_jp: Absorb Light damage for 5 turns + Bind 2 random for 3 turns, Deal 200%
     damage (Preemptive)
   max_atk_pct: null
   name_en: Electrified Golden Fur + Lightning Order
@@ -28,7 +27,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 180% damage (2 hits, 90% each)
-  desc_jp: Deal 180% damage (2 hits, 90% each)
   max_atk_pct: 180
   name_en: Swift Stabbing Claws
   one_time: 0
@@ -36,7 +34,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -44,7 +41,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -53,7 +49,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Bind 1 subs for 3 turns, Deal 200%
     damage
-  desc_jp: Voids status ailments for 999 turns + Bind 1 subs for 3 turns, Deal 200%
     damage
   max_atk_pct: null
   name_en: White Scales + Lightning Release
@@ -62,7 +57,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2-8
   one_time: null
@@ -70,7 +64,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 270% damage (3 hits, 90% each)
-  desc_jp: Deal 270% damage (3 hits, 90% each)
   max_atk_pct: 270
   name_en: Flashing Swift Stabbing Claws
   one_time: 1
@@ -78,7 +71,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Bind 5 random for 6 turns, Deal 5000% damage
-  desc_jp: Bind 5 random for 6 turns, Deal 5000% damage
   max_atk_pct: 5000
   name_en: Powerful Lightning Release
   one_time: 0
@@ -86,7 +78,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
   one_time: null
@@ -94,7 +85,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -102,7 +92,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind 3 subs for 4 turns, Deal 1000% damage
-  desc_jp: Bind 3 subs for 4 turns, Deal 1000% damage
   max_atk_pct: 1000
   name_en: Powerful Lightning Release
   one_time: 6

@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Do nothing (Preemptive)
-  desc_jp: Do nothing (Preemptive)
   max_atk_pct: null
   name_en: Show me your power
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Random to Random, Deal 100% damage
-  desc_jp: Change Random to Random, Deal 100% damage
   max_atk_pct: 100
   name_en: Oh? Let's play...
   one_time: 1
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
   one_time: null
@@ -41,7 +38,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 500% for the next attack
-  desc_jp: Increase damage to 500% for the next attack
   max_atk_pct: null
   name_en: This won't do...
   one_time: 0

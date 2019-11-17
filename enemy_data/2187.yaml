@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Absorb combo <= 6 damage for 4 turns
     (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Absorb combo <= 6 damage for 4 turns
     (Preemptive)
   max_atk_pct: null
   name_en: Emerald Coating + Storm Wall
@@ -27,7 +26,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -35,7 +33,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 1st row to Wood orbs, Deal 150% damage
-  desc_jp: Change 1st row to Wood orbs, Deal 150% damage
   max_atk_pct: 150
   name_en: Wind Charge
   one_time: 4
@@ -43,7 +40,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -51,7 +47,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 1st row to Wood orbs, Deal 150% damage
-  desc_jp: Change 1st row to Wood orbs, Deal 150% damage
   max_atk_pct: 150
   name_en: Wind Charge
   one_time: 2
@@ -59,7 +54,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -67,7 +61,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change all orbs to Wood, Deal 150% damage
-  desc_jp: Change all orbs to Wood, Deal 150% damage
   max_atk_pct: 150
   name_en: Wind Pulse
   one_time: 1
@@ -75,7 +68,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Spawn random 6 Wood orbs, Deal 150% damage
-  desc_jp: Spawn random 6 Wood orbs, Deal 150% damage
   max_atk_pct: 150
   name_en: Wind Pulse
   one_time: 1
@@ -83,7 +75,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -91,7 +82,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 1200% damage (4 hits, 300% each)
-  desc_jp: Deal 1200% damage (4 hits, 300% each)
   max_atk_pct: 1200
   name_en: Tempest Ball
   one_time: 0

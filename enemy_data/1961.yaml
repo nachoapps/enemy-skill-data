@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Spawn random 3 Jammer orbs, Deal 80% damage (Preemptive)
-  desc_jp: Spawn random 3 Jammer orbs, Deal 80% damage (Preemptive)
   max_atk_pct: 80
   name_en: Meow Tackle
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 120% damage (2 hits, 60% each)
-  desc_jp: Deal 120% damage (2 hits, 60% each)
   max_atk_pct: 120
   name_en: Meow Dark Horn
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Change Dark to Jammer, Deal 100% damage
-  desc_jp: Change Dark to Jammer, Deal 100% damage
   max_atk_pct: 100
   name_en: Trophy
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 90
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -57,7 +52,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind active skills for 3 turns
-  desc_jp: Bind active skills for 3 turns
   max_atk_pct: null
   name_en: Menacing Glare
   one_time: 1
@@ -65,7 +59,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 120% damage (2 hits, 60% each)
-  desc_jp: Deal 120% damage (2 hits, 60% each)
   max_atk_pct: 120
   name_en: Meow Dark Horn
   one_time: 0
@@ -73,7 +66,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Change Dark to Jammer, Deal 100% damage
-  desc_jp: Change Dark to Jammer, Deal 100% damage
   max_atk_pct: 100
   name_en: Trophy
   one_time: 0
@@ -81,7 +73,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -89,7 +80,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -97,7 +87,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind 3 random for 2 turns, Deal 60% damage
-  desc_jp: Bind 3 random for 2 turns, Deal 60% damage
   max_atk_pct: 60
   name_en: Meow Grapple
   one_time: 0
@@ -105,7 +94,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -113,7 +101,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 300% damage (2 hits, 150% each)
-  desc_jp: Deal 300% damage (2 hits, 150% each)
   max_atk_pct: 300
   name_en: Angry Meow Bite
   one_time: 0

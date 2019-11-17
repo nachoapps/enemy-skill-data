@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -25,7 +24,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -80% HP
-  desc_jp: Player -80% HP
   max_atk_pct: null
   name_en: Limit Pierce
   one_time: 1
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -41,7 +38,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 1000% damage
-  desc_jp: Deal 1000% damage
   max_atk_pct: 1000
   name_en: Steel Attack
   one_time: 0

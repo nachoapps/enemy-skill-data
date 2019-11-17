@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Voids status ailments for 5 turns + Bind 1 random cards for 3 turns (Preemptive)
-  desc_jp: Voids status ailments for 5 turns + Bind 1 random cards for 3 turns (Preemptive)
   max_atk_pct: null
   name_en: 虎は孤高の存在。 + 群れることはしないもの。
   one_time: 1
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -35,7 +33,6 @@ records:
   desc_en: Fix orb movement starting point to random position on the board + Lock
     10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
     orbs
-  desc_jp: Fix orb movement starting point to random position on the board + Lock
     10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
     orbs
   max_atk_pct: null
@@ -45,7 +42,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -54,7 +50,6 @@ records:
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Dark, Deal 100% damage + Change 3rd row
     to Heal orbs
-  desc_jp: Change all orbs to Fire, Water, Dark, Deal 100% damage + Change 3rd row
     to Heal orbs
   max_atk_pct: null
   name_en: 虎にカワイイは・・・侮辱・・・ + ・・・・・・
@@ -63,7 +58,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -71,7 +65,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 200% for the next 1 turns
-  desc_jp: Increase damage to 200% for the next 1 turns
   max_atk_pct: null
   name_en: 準備・・・できた？
   one_time: 0
@@ -79,7 +72,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -87,7 +79,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Delay active skills by 2 turns, Deal 100% damage
-  desc_jp: Delay active skills by 2 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: 荒れ球
   one_time: 0
@@ -95,7 +86,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -103,7 +93,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -111,7 +100,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Enemy recover 50% hp
-  desc_jp: Enemy recover 50% hp
   max_atk_pct: null
   name_en: みなぎる活力
   one_time: 0

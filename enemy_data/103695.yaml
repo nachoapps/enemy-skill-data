@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from Balanced, Dragon by 50%
-  desc_jp: Reduce damage from Balanced, Dragon by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -33,7 +32,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from Balanced, Dragon by 50%
-  desc_jp: Reduce damage from Balanced, Dragon by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -42,7 +40,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Absorb combo <= 8 damage for 5 turns
     (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Absorb combo <= 8 damage for 5 turns
     (Preemptive)
   max_atk_pct: null
   name_en: Who are you? + I'll cherish this
@@ -51,7 +48,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1-4
   one_time: null
@@ -59,7 +55,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -99% HP
-  desc_jp: Player -99% HP
   max_atk_pct: null
   name_en: Uhuhuh
   one_time: 0
@@ -67,7 +62,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
   one_time: null
@@ -75,7 +69,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Delay active skills by 99 turns
-  desc_jp: Delay active skills by 99 turns
   max_atk_pct: null
   name_en: I want you
   one_time: 1
@@ -83,7 +76,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -91,7 +83,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 10000% damage
-  desc_jp: Deal 10000% damage
   max_atk_pct: 10000
   name_en: We're together forever
   one_time: 0

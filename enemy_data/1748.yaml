@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from Wood, Dark by 50%
-  desc_jp: Reduce damage from Wood, Dark by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Player -99% HP (Preemptive)
-  desc_jp: Player -99% HP (Preemptive)
   max_atk_pct: null
   name_en: '..........'
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change 3rd row to Dark orbs, Deal 1000% damage
-  desc_jp: Change 3rd row to Dark orbs, Deal 1000% damage
   max_atk_pct: 1000
   name_en: Death Scythe
   one_time: 0

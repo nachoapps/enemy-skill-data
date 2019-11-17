@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 3 turns + Increase damage to
     1000% for the next 999 turns (Preemptive)
-  desc_jp: Reduce damage from all sources by 75% for 3 turns + Increase damage to
     1000% for the next 999 turns (Preemptive)
   max_atk_pct: null
   name_en: Evil Giant Body + Deep Darkness
@@ -27,7 +26,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 1600% damage (4 hits, 400% each)
-  desc_jp: Deal 1600% damage (4 hits, 400% each)
   max_atk_pct: 1600
   name_en: Hell God Breath
   one_time: 0

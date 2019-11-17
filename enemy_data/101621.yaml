@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Rcv 50% for 10 turns + 2x5 cloud appear for 4 turns at 1st row, 3rd column
     (Preemptive)
-  desc_jp: Rcv 50% for 10 turns + 2x5 cloud appear for 4 turns at 1st row, 3rd column
     (Preemptive)
   max_atk_pct: null
   name_en: Give me a hand, Baby Genie! + Leave it to me! Rub that lamp!
@@ -27,7 +26,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -35,7 +33,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 1st column to Light orbs, Deal 100% damage + Player -99% HP
-  desc_jp: Change 1st column to Light orbs, Deal 100% damage + Player -99% HP
   max_atk_pct: null
   name_en: Light Spell! + Magic Punch☆
   one_time: 0
@@ -43,7 +40,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -51,7 +47,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 1st column to Light orbs, Deal 125% damage + Player -99% HP
-  desc_jp: Change 1st column to Light orbs, Deal 125% damage + Player -99% HP
   max_atk_pct: null
   name_en: Light Spell!! + Magic Punch☆
   one_time: 0
@@ -59,7 +54,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -67,7 +61,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 1st column to Light orbs, Deal 150% damage + Player -99% HP
-  desc_jp: Change 1st column to Light orbs, Deal 150% damage + Player -99% HP
   max_atk_pct: null
   name_en: Light Spell!!! + Magic Punch☆
   one_time: 0
@@ -75,7 +68,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -83,7 +75,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 1st column to Light orbs, Deal 175% damage + Player -99% HP
-  desc_jp: Change 1st column to Light orbs, Deal 175% damage + Player -99% HP
   max_atk_pct: null
   name_en: Light Spell!!!! + Magic Punch☆
   one_time: 0
@@ -91,7 +82,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 5
   one_time: null
@@ -100,7 +90,6 @@ records:
 - !SkillRecord
   desc_en: Change 1st column to Light orbs, Deal 200% damage + Column of cloud appear
     for 4 turns at 1st row
-  desc_jp: Change 1st column to Light orbs, Deal 200% damage + Column of cloud appear
     for 4 turns at 1st row
   max_atk_pct: null
   name_en: The grand finale! Light Spell!!!!! + Need smoke! Need smoke!

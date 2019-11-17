@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Change Random to Jammer, Deal 50% damage (Preemptive)
-  desc_jp: Change Random to Jammer, Deal 50% damage (Preemptive)
   max_atk_pct: 50
   name_en: Speedster
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 75% damage
-  desc_jp: Blind all orbs on the board, Deal 75% damage
   max_atk_pct: 75
   name_en: Black Letter
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: Change Random to Heal, Deal 150% damage
-  desc_jp: Change Random to Heal, Deal 150% damage
   max_atk_pct: 150
   name_en: Love Letter
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 40
 - !SkillRecord
   desc_en: Bind 4 random for 1~2 turns, Deal 50% damage
-  desc_jp: Bind 4 random for 1~2 turns, Deal 50% damage
   max_atk_pct: 50
   name_en: Hypnos Letter
   one_time: 0
@@ -49,7 +45,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: Change Random to Jammer, Deal 100% damage
-  desc_jp: Change Random to Jammer, Deal 100% damage
   max_atk_pct: 100
   name_en: Thanatos Letter
   one_time: 0
@@ -57,7 +52,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 75
   one_time: null
@@ -65,7 +59,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -73,7 +66,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Jammer skyfall +25% for 5 turns
-  desc_jp: Jammer skyfall +25% for 5 turns
   max_atk_pct: null
   name_en: Trickster
   one_time: 1
@@ -81,7 +73,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
   one_time: null
@@ -89,7 +80,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 200% damage (4 hits, 50% each)
-  desc_jp: Deal 200% damage (4 hits, 50% each)
   max_atk_pct: 200
   name_en: Argeiphontes
   one_time: 0

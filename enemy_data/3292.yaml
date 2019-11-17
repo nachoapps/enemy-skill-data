@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Voids status ailments for 5 turns (Preemptive)
-  desc_jp: Voids status ailments for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: Stop
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 90% damage
-  desc_jp: Blind all orbs on the board, Deal 90% damage
   max_atk_pct: 90
   name_en: Headbutt
   one_time: 2
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2-3
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 6th column to Fire orbs, Deal 100% damage
-  desc_jp: Change 6th column to Fire orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Blazing Axe
   one_time: 0
@@ -57,7 +52,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -65,7 +59,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -73,7 +66,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 999 turns
-  desc_jp: Increase damage to 150% for the next 999 turns
   max_atk_pct: null
   name_en: Now I'm really mad!
   one_time: 0
@@ -81,7 +73,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -89,7 +80,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 300% damage
-  desc_jp: Deal 300% damage
   max_atk_pct: 300
   name_en: Inherited Technique, Full Swing
   one_time: 0

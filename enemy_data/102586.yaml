@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Enemy turn counter change to 1 when HP <= 50%
-  desc_jp: Enemy turn counter change to 1 when HP <= 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -33,7 +32,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Enemy turn counter change to 1 when HP <= 50%
-  desc_jp: Enemy turn counter change to 1 when HP <= 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -41,7 +39,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 10 turns (Preemptive)
-  desc_jp: Reduce damage from all sources by 75% for 10 turns (Preemptive)
   max_atk_pct: null
   name_en: Metal Shield
   one_time: 0
@@ -49,7 +46,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Blind random 5 orbs for 2 turns, Deal 140% damage
-  desc_jp: Blind random 5 orbs for 2 turns, Deal 140% damage
   max_atk_pct: 140
   name_en: Exhaust Hit
   one_time: 0
@@ -57,7 +53,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Delay active skills by 2 turns + Spawn random 7 Poison orbs
-  desc_jp: Delay active skills by 2 turns + Spawn random 7 Poison orbs
   max_atk_pct: null
   name_en: Warning + Seven Smog
   one_time: 0
@@ -66,7 +61,6 @@ records:
 - !SkillRecord
   desc_en: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
     orbs, Deal 160% damage
-  desc_jp: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
     orbs, Deal 160% damage
   max_atk_pct: 160
   name_en: All Alert
@@ -75,7 +69,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -83,7 +76,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -91,7 +83,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind 2 random subs for 3 turns + Bind active skills for 5 turns
-  desc_jp: Bind 2 random subs for 3 turns + Bind active skills for 5 turns
   max_atk_pct: null
   name_en: Capture Net + Hold Wind
   one_time: 0
@@ -99,7 +90,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
   one_time: null
@@ -107,7 +97,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -115,7 +104,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Poison skyfall +15% for 10 turns
-  desc_jp: Poison skyfall +15% for 10 turns
   max_atk_pct: null
   name_en: Acid Rain
   one_time: 0
@@ -123,7 +111,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 300% damage (6 hits, 50% each)
-  desc_jp: Deal 300% damage (6 hits, 50% each)
   max_atk_pct: 300
   name_en: Killing Code
   one_time: 0

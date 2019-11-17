@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from Light, Dark by 50%
-  desc_jp: Reduce damage from Light, Dark by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Absorb combo <= 5 damage for 99 turns + Lock all Light, Dark orbs (Preemptive)
-  desc_jp: Absorb combo <= 5 damage for 99 turns + Lock all Light, Dark orbs (Preemptive)
   max_atk_pct: null
   name_en: Darkness Flame + Power Claw
   one_time: 6
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -41,7 +38,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 3 turns
-  desc_jp: Reduce damage from all sources by 75% for 3 turns
   max_atk_pct: null
   name_en: Gun Metallic Armor
   one_time: 4
@@ -49,7 +45,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -57,7 +52,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 200% damage
-  desc_jp: Blind all orbs on the board, Deal 200% damage
   max_atk_pct: 200
   name_en: Dark Bolt
   one_time: 1
@@ -65,7 +59,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -73,7 +66,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -81,7 +73,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random to Poison, Deal 130% damage
-  desc_jp: Change Random to Poison, Deal 130% damage
   max_atk_pct: 130
   name_en: Nemesis Claw
   one_time: 0
@@ -89,7 +80,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Change Random to Jammer, Deal 130% damage
-  desc_jp: Change Random to Jammer, Deal 130% damage
   max_atk_pct: 130
   name_en: Break Claw
   one_time: 0
@@ -97,7 +87,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -105,7 +94,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Lock all Jammer, Poison orbs, Deal 140% damage
-  desc_jp: Lock all Jammer, Poison orbs, Deal 140% damage
   max_atk_pct: 140
   name_en: Evil Grab
   one_time: 0
@@ -113,7 +101,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Lock 10 random Fire, Water, Wood, Light, Dark, Heal orbs, Deal 140% damage
-  desc_jp: Lock 10 random Fire, Water, Wood, Light, Dark, Heal orbs, Deal 140% damage
   max_atk_pct: 140
   name_en: Element Grab
   one_time: 0
@@ -121,7 +108,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Bind active skills for 5 turns, Deal 140% damage
-  desc_jp: Bind active skills for 5 turns, Deal 140% damage
   max_atk_pct: 140
   name_en: High Metal Chain
   one_time: 0
@@ -129,7 +115,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 160% damage (4 hits, 40% each)
-  desc_jp: Deal 160% damage (4 hits, 40% each)
   max_atk_pct: 160
   name_en: Cleave Combo
   one_time: 0
@@ -137,7 +122,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 70
   one_time: null
@@ -145,7 +129,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -153,7 +136,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb damage >= 500000 damage for 3 turns + Player -99% HP
-  desc_jp: Absorb damage >= 500000 damage for 3 turns + Player -99% HP
   max_atk_pct: null
   name_en: Power Eater + Metal Slicer
   one_time: 3
@@ -161,7 +143,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -170,7 +151,6 @@ records:
 - !SkillRecord
   desc_en: Lock 8 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 100% damage
-  desc_jp: Lock 8 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Power Claw
@@ -179,7 +159,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -187,7 +166,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -195,7 +173,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 200% for the next 999 turns
-  desc_jp: Increase damage to 200% for the next 999 turns
   max_atk_pct: null
   name_en: Increase
   one_time: 0
@@ -203,7 +180,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -211,7 +187,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Lock all Jammer, Poison orbs, Deal 140% damage
-  desc_jp: Lock all Jammer, Poison orbs, Deal 140% damage
   max_atk_pct: 140
   name_en: Evil Grab
   one_time: 0
@@ -219,7 +194,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Lock 10 random Fire, Water, Wood, Light, Dark, Heal orbs, Deal 140% damage
-  desc_jp: Lock 10 random Fire, Water, Wood, Light, Dark, Heal orbs, Deal 140% damage
   max_atk_pct: 140
   name_en: Element Grab
   one_time: 0
@@ -227,7 +201,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Bind active skills for 5 turns, Deal 140% damage
-  desc_jp: Bind active skills for 5 turns, Deal 140% damage
   max_atk_pct: 140
   name_en: High Metal Chain
   one_time: 0
@@ -235,7 +208,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 160% damage (4 hits, 40% each)
-  desc_jp: Deal 160% damage (4 hits, 40% each)
   max_atk_pct: 160
   name_en: Cleave Combo
   one_time: 0
@@ -243,7 +215,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -251,7 +222,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random to Poison, Deal 130% damage
-  desc_jp: Change Random to Poison, Deal 130% damage
   max_atk_pct: 130
   name_en: Nemesis Claw
   one_time: 0
@@ -259,7 +229,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Change Random to Jammer, Deal 130% damage
-  desc_jp: Change Random to Jammer, Deal 130% damage
   max_atk_pct: 130
   name_en: Break Claw
   one_time: 0
@@ -267,7 +236,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
   one_time: null
@@ -275,7 +243,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -283,7 +250,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Lock all Jammer, Poison orbs, Deal 140% damage
-  desc_jp: Lock all Jammer, Poison orbs, Deal 140% damage
   max_atk_pct: 140
   name_en: Evil Grab
   one_time: 0
@@ -291,7 +257,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Lock 10 random Fire, Water, Wood, Light, Dark, Heal orbs, Deal 140% damage
-  desc_jp: Lock 10 random Fire, Water, Wood, Light, Dark, Heal orbs, Deal 140% damage
   max_atk_pct: 140
   name_en: Element Grab
   one_time: 0
@@ -299,7 +264,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 200% damage (4 hits, 50% each)
-  desc_jp: Deal 200% damage (4 hits, 50% each)
   max_atk_pct: 200
   name_en: Raiden Claw
   one_time: 0
@@ -307,7 +271,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -315,7 +278,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 4 Jammer, Poison orbs, Deal 130% damage
-  desc_jp: Spawn random 4 Jammer, Poison orbs, Deal 130% damage
   max_atk_pct: 130
   name_en: Destruction Claw
   one_time: 0
@@ -323,7 +285,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 15
   one_time: null
@@ -332,7 +293,6 @@ records:
 - !SkillRecord
   desc_en: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
     orbs, Deal 1000% damage
-  desc_jp: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
     orbs, Deal 1000% damage
   max_atk_pct: 1000
   name_en: Ultimate Skewer
@@ -349,7 +309,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from Light, Dark by 50%
-  desc_jp: Reduce damage from Light, Dark by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -357,7 +316,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Absorb combo <= 5 damage for 99 turns + Lock all Light, Dark orbs (Preemptive)
-  desc_jp: Absorb combo <= 5 damage for 99 turns + Lock all Light, Dark orbs (Preemptive)
   max_atk_pct: null
   name_en: Darkness Flame + Power Claw
   one_time: 6
@@ -365,7 +323,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -373,7 +330,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 3 turns
-  desc_jp: Reduce damage from all sources by 75% for 3 turns
   max_atk_pct: null
   name_en: Gun Metallic Armor
   one_time: 4
@@ -381,7 +337,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -389,7 +344,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 200% damage
-  desc_jp: Blind all orbs on the board, Deal 200% damage
   max_atk_pct: 200
   name_en: Dark Bolt
   one_time: 1
@@ -397,7 +351,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -405,7 +358,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -413,7 +365,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random to Poison, Deal 130% damage
-  desc_jp: Change Random to Poison, Deal 130% damage
   max_atk_pct: 130
   name_en: Nemesis Claw
   one_time: 0
@@ -421,7 +372,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Change Random to Jammer, Deal 130% damage
-  desc_jp: Change Random to Jammer, Deal 130% damage
   max_atk_pct: 130
   name_en: Break Claw
   one_time: 0
@@ -429,7 +379,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -437,7 +386,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Lock all Jammer, Poison orbs, Deal 140% damage
-  desc_jp: Lock all Jammer, Poison orbs, Deal 140% damage
   max_atk_pct: 140
   name_en: Evil Grab
   one_time: 0
@@ -445,7 +393,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Lock 10 random Fire, Water, Wood, Light, Dark, Heal orbs, Deal 140% damage
-  desc_jp: Lock 10 random Fire, Water, Wood, Light, Dark, Heal orbs, Deal 140% damage
   max_atk_pct: 140
   name_en: Element Grab
   one_time: 0
@@ -453,7 +400,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Bind active skills for 5 turns, Deal 140% damage
-  desc_jp: Bind active skills for 5 turns, Deal 140% damage
   max_atk_pct: 140
   name_en: High Metal Chain
   one_time: 0
@@ -461,7 +407,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 160% damage (4 hits, 40% each)
-  desc_jp: Deal 160% damage (4 hits, 40% each)
   max_atk_pct: 160
   name_en: Cleave Combo
   one_time: 0
@@ -469,7 +414,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 70
   one_time: null
@@ -477,7 +421,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -485,7 +428,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb damage >= 500000 damage for 3 turns + Player -99% HP
-  desc_jp: Absorb damage >= 500000 damage for 3 turns + Player -99% HP
   max_atk_pct: null
   name_en: Power Eater + Metal Slicer
   one_time: 3
@@ -493,7 +435,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -502,7 +443,6 @@ records:
 - !SkillRecord
   desc_en: Lock 8 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 100% damage
-  desc_jp: Lock 8 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Power Claw
@@ -511,7 +451,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -519,7 +458,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -527,7 +465,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 200% for the next 999 turns
-  desc_jp: Increase damage to 200% for the next 999 turns
   max_atk_pct: null
   name_en: Increase
   one_time: 0
@@ -535,7 +472,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -543,7 +479,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Lock all Jammer, Poison orbs, Deal 140% damage
-  desc_jp: Lock all Jammer, Poison orbs, Deal 140% damage
   max_atk_pct: 140
   name_en: Evil Grab
   one_time: 0
@@ -551,7 +486,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Lock 10 random Fire, Water, Wood, Light, Dark, Heal orbs, Deal 140% damage
-  desc_jp: Lock 10 random Fire, Water, Wood, Light, Dark, Heal orbs, Deal 140% damage
   max_atk_pct: 140
   name_en: Element Grab
   one_time: 0
@@ -559,7 +493,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Bind active skills for 5 turns, Deal 140% damage
-  desc_jp: Bind active skills for 5 turns, Deal 140% damage
   max_atk_pct: 140
   name_en: High Metal Chain
   one_time: 0
@@ -567,7 +500,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 160% damage (4 hits, 40% each)
-  desc_jp: Deal 160% damage (4 hits, 40% each)
   max_atk_pct: 160
   name_en: Cleave Combo
   one_time: 0
@@ -575,7 +507,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -583,7 +514,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random to Poison, Deal 130% damage
-  desc_jp: Change Random to Poison, Deal 130% damage
   max_atk_pct: 130
   name_en: Nemesis Claw
   one_time: 0
@@ -591,7 +521,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Change Random to Jammer, Deal 130% damage
-  desc_jp: Change Random to Jammer, Deal 130% damage
   max_atk_pct: 130
   name_en: Break Claw
   one_time: 0
@@ -599,7 +528,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
   one_time: null
@@ -607,7 +535,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -615,7 +542,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Lock all Jammer, Poison orbs, Deal 140% damage
-  desc_jp: Lock all Jammer, Poison orbs, Deal 140% damage
   max_atk_pct: 140
   name_en: Evil Grab
   one_time: 0
@@ -623,7 +549,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Lock 10 random Fire, Water, Wood, Light, Dark, Heal orbs, Deal 140% damage
-  desc_jp: Lock 10 random Fire, Water, Wood, Light, Dark, Heal orbs, Deal 140% damage
   max_atk_pct: 140
   name_en: Element Grab
   one_time: 0
@@ -631,7 +556,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 200% damage (4 hits, 50% each)
-  desc_jp: Deal 200% damage (4 hits, 50% each)
   max_atk_pct: 200
   name_en: Raiden Claw
   one_time: 0
@@ -639,7 +563,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -647,7 +570,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 4 Jammer, Poison orbs, Deal 130% damage
-  desc_jp: Spawn random 4 Jammer, Poison orbs, Deal 130% damage
   max_atk_pct: 130
   name_en: Destruction Claw
   one_time: 0
@@ -655,7 +577,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 15
   one_time: null
@@ -664,7 +585,6 @@ records:
 - !SkillRecord
   desc_en: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
     orbs, Deal 1000% damage
-  desc_jp: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
     orbs, Deal 1000% damage
   max_atk_pct: 1000
   name_en: Ultimate Skewer

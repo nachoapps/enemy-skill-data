@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 50%
-  desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Player -1% HP + Voids status ailments for 1 turns (Preemptive)
-  desc_jp: Player -1% HP + Voids status ailments for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: てめーらァァァ！ + それでも銀魂ついてんのかァァァ！！
   one_time: 2
@@ -41,7 +39,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 50%
-  desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -49,7 +46,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Player -80% HP + Voids status ailments for 999 turns (Preemptive)
-  desc_jp: Player -80% HP + Voids status ailments for 999 turns (Preemptive)
   max_atk_pct: null
   name_en: てめーらァァァ！ + それでも銀魂ついてんのかァァァ！！
   one_time: 2
@@ -57,7 +53,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -66,7 +61,6 @@ records:
 - !SkillRecord
   desc_en: Lock 6 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 105% damage
-  desc_jp: Lock 6 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 105% damage
   max_atk_pct: 105
   name_en: パズドラー恐るるに足らずってな！
@@ -75,7 +69,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 120% damage (3 hits, 40% each)
-  desc_jp: Deal 120% damage (3 hits, 40% each)
   max_atk_pct: 120
   name_en: ジャンプの主人公なめんなよ！
   one_time: 0
@@ -83,7 +76,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -91,7 +83,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 1 turns, Deal 105% damage
-  desc_jp: Reduce damage from all sources by 50% for 1 turns, Deal 105% damage
   max_atk_pct: 105
   name_en: そんなもんじゃ俺は倒せねぇよ
   one_time: 0
@@ -99,7 +90,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Change 3rd row to Water orbs, Deal 100% damage
-  desc_jp: Change 3rd row to Water orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: 万事屋ナメんじゃねェェ！
   one_time: 0
@@ -107,7 +97,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 3
   one_time: null
@@ -115,7 +104,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb Fire damage for 1 turns, Deal 90% damage
-  desc_jp: Absorb Fire damage for 1 turns, Deal 90% damage
   max_atk_pct: 90
   name_en: 糖分が足りてねェんだよ糖分が
   one_time: 0
@@ -123,7 +111,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Absorb Water damage for 1 turns, Deal 90% damage
-  desc_jp: Absorb Water damage for 1 turns, Deal 90% damage
   max_atk_pct: 90
   name_en: 糖分が足りてねェんだよ糖分が
   one_time: 0
@@ -131,7 +118,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Absorb Wood damage for 1 turns, Deal 90% damage
-  desc_jp: Absorb Wood damage for 1 turns, Deal 90% damage
   max_atk_pct: 90
   name_en: 糖分が足りてねェんだよ糖分が
   one_time: 0
@@ -139,7 +125,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Absorb Light damage for 1 turns, Deal 90% damage
-  desc_jp: Absorb Light damage for 1 turns, Deal 90% damage
   max_atk_pct: 90
   name_en: 糖分が足りてねェんだよ糖分が
   one_time: 0
@@ -147,7 +132,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Absorb Dark damage for 1 turns, Deal 90% damage
-  desc_jp: Absorb Dark damage for 1 turns, Deal 90% damage
   max_atk_pct: 90
   name_en: 糖分が足りてねェんだよ糖分が
   one_time: 0
@@ -155,7 +139,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -163,7 +146,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -171,7 +153,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 99 turns + Movetime -2s for 3 turns
-  desc_jp: Increase damage to 150% for the next 99 turns + Movetime -2s for 3 turns
   max_atk_pct: null
   name_en: こっからは俺も本気でいくぜ + パズル遊びはコレでシメーだ！！
   one_time: 1
@@ -179,7 +160,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
   one_time: null
@@ -188,7 +168,6 @@ records:
 - !SkillRecord
   desc_en: Change Random to Water, Deal 10% damage + Blind all orbs on the board,
     Deal 10% damage + Deal 250% damage (5 hits, 50% each)
-  desc_jp: Change Random to Water, Deal 10% damage + Blind all orbs on the board,
     Deal 10% damage + Deal 250% damage (5 hits, 50% each)
   max_atk_pct: null
   name_en: 俺はコラボ先でも + 自分の肉体が滅ぶまで + 背筋伸ばして生きてくだけよっ！！
@@ -197,7 +176,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Enemy is defeated
   one_time: null
@@ -205,7 +183,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Enemy recover 50% hp
-  desc_jp: Enemy recover 50% hp
   max_atk_pct: null
   name_en: まぁパフェでも食って落ち着けよ
   one_time: 0

@@ -19,7 +19,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 10 turns + Movetime -3s for 10
     turns (Preemptive)
-  desc_jp: Reduce damage from all sources by 50% for 10 turns + Movetime -3s for 10
     turns (Preemptive)
   max_atk_pct: null
   name_en: Harbinger of Corrosion + Realm of Hades's Law
@@ -28,7 +27,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -37,7 +35,6 @@ records:
 - !SkillRecord
   desc_en: Bind awoken skills for 2 turns + Change 5th row to Mortal Poison orbs,
     Deal 50% damage
-  desc_jp: Bind awoken skills for 2 turns + Change 5th row to Mortal Poison orbs,
     Deal 50% damage
   max_atk_pct: null
   name_en: Poppy's Lethargy + Cocytus's Erosion
@@ -47,7 +44,6 @@ records:
 - !SkillRecord
   desc_en: Delay active skills by 2 turns + Change 5th row to Mortal Poison orbs,
     Deal 50% damage
-  desc_jp: Delay active skills by 2 turns + Change 5th row to Mortal Poison orbs,
     Deal 50% damage
   max_atk_pct: null
   name_en: Narcissus's Temptation + Cocytus's Erosion
@@ -57,7 +53,6 @@ records:
 - !SkillRecord
   desc_en: Bind active skills for 2 turns + Change 5th row to Mortal Poison orbs,
     Deal 50% damage
-  desc_jp: Bind active skills for 2 turns + Change 5th row to Mortal Poison orbs,
     Deal 50% damage
   max_atk_pct: null
   name_en: Pomegranate's Folly + Cocytus's Erosion
@@ -66,7 +61,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -74,7 +68,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Mortal Poison to Heal, Deal 400% damage
-  desc_jp: Change Mortal Poison to Heal, Deal 400% damage
   max_atk_pct: 400
   name_en: Bloody Blossom - Anemone
   one_time: 0
@@ -82,7 +75,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Heal to Mortal Poison, Deal 100% damage
-  desc_jp: Change Heal to Mortal Poison, Deal 100% damage
   max_atk_pct: 100
   name_en: Cursed Flower - Mint
   one_time: 0
@@ -90,7 +82,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change 5th row to Mortal Poison orbs, Deal 50% damage
-  desc_jp: Change 5th row to Mortal Poison orbs, Deal 50% damage
   max_atk_pct: 50
   name_en: Cocytus's Erosion
   one_time: 0
@@ -98,7 +89,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -106,7 +96,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind 2 random subs for 2 turns
-  desc_jp: Bind 2 random subs for 2 turns
   max_atk_pct: null
   name_en: Light Sleep's Cradle
   one_time: 0
@@ -114,7 +103,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Bind 4 random subs for 1 turns
-  desc_jp: Bind 4 random subs for 1 turns
   max_atk_pct: null
   name_en: Nap's Cradle
   one_time: 0
@@ -122,7 +110,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -131,7 +118,6 @@ records:
 - !SkillRecord
   desc_en: Delay active skills by 2 turns + Change 5th row to Mortal Poison orbs,
     Deal 50% damage
-  desc_jp: Delay active skills by 2 turns + Change 5th row to Mortal Poison orbs,
     Deal 50% damage
   max_atk_pct: null
   name_en: Narcissus's Temptation + Cocytus's Erosion
@@ -141,7 +127,6 @@ records:
 - !SkillRecord
   desc_en: Bind active skills for 2 turns + Change 5th row to Mortal Poison orbs,
     Deal 50% damage
-  desc_jp: Bind active skills for 2 turns + Change 5th row to Mortal Poison orbs,
     Deal 50% damage
   max_atk_pct: null
   name_en: Pomegranate's Folly + Cocytus's Erosion
@@ -150,7 +135,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
   one_time: null
@@ -158,7 +142,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Mortal Poison to Heal, Deal 400% damage
-  desc_jp: Change Mortal Poison to Heal, Deal 400% damage
   max_atk_pct: 400
   name_en: Bloody Blossom - Anemone
   one_time: 0
@@ -166,7 +149,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Heal to Mortal Poison, Deal 100% damage
-  desc_jp: Change Heal to Mortal Poison, Deal 100% damage
   max_atk_pct: 100
   name_en: Cursed Flower - Mint
   one_time: 0
@@ -174,7 +156,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change 5th row to Mortal Poison orbs, Deal 50% damage
-  desc_jp: Change 5th row to Mortal Poison orbs, Deal 50% damage
   max_atk_pct: 50
   name_en: Cocytus's Erosion
   one_time: 0
@@ -182,7 +163,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6
   one_time: null
@@ -190,7 +170,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind 2 random subs for 2 turns
-  desc_jp: Bind 2 random subs for 2 turns
   max_atk_pct: null
   name_en: Light Sleep's Cradle
   one_time: 0
@@ -198,7 +177,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Bind 4 random subs for 1 turns
-  desc_jp: Bind 4 random subs for 1 turns
   max_atk_pct: null
   name_en: Nap's Cradle
   one_time: 0
@@ -206,7 +184,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 7
   one_time: null
@@ -215,7 +192,6 @@ records:
 - !SkillRecord
   desc_en: Delay active skills by 2 turns + Change 5th row to Mortal Poison orbs,
     Deal 50% damage
-  desc_jp: Delay active skills by 2 turns + Change 5th row to Mortal Poison orbs,
     Deal 50% damage
   max_atk_pct: null
   name_en: Narcissus's Temptation + Cocytus's Erosion
@@ -225,7 +201,6 @@ records:
 - !SkillRecord
   desc_en: Bind active skills for 2 turns + Change 5th row to Mortal Poison orbs,
     Deal 50% damage
-  desc_jp: Bind active skills for 2 turns + Change 5th row to Mortal Poison orbs,
     Deal 50% damage
   max_atk_pct: null
   name_en: Pomegranate's Folly + Cocytus's Erosion
@@ -234,7 +209,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 8
   one_time: null
@@ -242,7 +216,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Mortal Poison to Heal, Deal 400% damage
-  desc_jp: Change Mortal Poison to Heal, Deal 400% damage
   max_atk_pct: 400
   name_en: Bloody Blossom - Anemone
   one_time: 0
@@ -250,7 +223,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Heal to Mortal Poison, Deal 100% damage
-  desc_jp: Change Heal to Mortal Poison, Deal 100% damage
   max_atk_pct: 100
   name_en: Cursed Flower - Mint
   one_time: 0
@@ -258,7 +230,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change 5th row to Mortal Poison orbs, Deal 50% damage
-  desc_jp: Change 5th row to Mortal Poison orbs, Deal 50% damage
   max_atk_pct: 50
   name_en: Cocytus's Erosion
   one_time: 0
@@ -266,7 +237,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 9
   one_time: null
@@ -274,7 +244,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind 2 random subs for 2 turns
-  desc_jp: Bind 2 random subs for 2 turns
   max_atk_pct: null
   name_en: Light Sleep's Cradle
   one_time: 0
@@ -282,7 +251,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Bind 4 random subs for 1 turns
-  desc_jp: Bind 4 random subs for 1 turns
   max_atk_pct: null
   name_en: Nap's Cradle
   one_time: 0
@@ -290,7 +258,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 10
   one_time: null
@@ -299,7 +266,6 @@ records:
 - !SkillRecord
   desc_en: Bind awoken skills for 2 turns + Change 5th row to Mortal Poison orbs,
     Deal 50% damage
-  desc_jp: Bind awoken skills for 2 turns + Change 5th row to Mortal Poison orbs,
     Deal 50% damage
   max_atk_pct: null
   name_en: Poppy's Lethargy + Cocytus's Erosion
@@ -308,7 +274,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -316,7 +281,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -324,7 +288,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Mortal Poison to Heal, Deal 400% damage
-  desc_jp: Change Mortal Poison to Heal, Deal 400% damage
   max_atk_pct: 400
   name_en: Bloody Blossom - Anemone
   one_time: 0
@@ -332,7 +295,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Heal to Mortal Poison, Deal 100% damage
-  desc_jp: Change Heal to Mortal Poison, Deal 100% damage
   max_atk_pct: 100
   name_en: Cursed Flower - Mint
   one_time: 0
@@ -340,7 +302,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change 5th row to Mortal Poison orbs, Deal 50% damage
-  desc_jp: Change 5th row to Mortal Poison orbs, Deal 50% damage
   max_atk_pct: 50
   name_en: Cocytus's Erosion
   one_time: 0
@@ -348,7 +309,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -356,7 +316,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind 2 random subs for 2 turns
-  desc_jp: Bind 2 random subs for 2 turns
   max_atk_pct: null
   name_en: Light Sleep's Cradle
   one_time: 0
@@ -364,7 +323,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Bind 4 random subs for 1 turns
-  desc_jp: Bind 4 random subs for 1 turns
   max_atk_pct: null
   name_en: Nap's Cradle
   one_time: 0
@@ -372,7 +330,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 3
   one_time: null
@@ -380,7 +337,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 9 Mortal Poison orbs, Deal 400% damage
-  desc_jp: Spawn random 9 Mortal Poison orbs, Deal 400% damage
   max_atk_pct: 400
   name_en: Bane Harvest
   one_time: 0

@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Deal 50% damage (Preemptive)
-  desc_jp: Deal 50% damage (Preemptive)
   max_atk_pct: 50
   name_en: From this point...
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -99% HP
-  desc_jp: Player -99% HP
   max_atk_pct: null
   name_en: Sucker Punch
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 200% damage
-  desc_jp: Deal 200% damage
   max_atk_pct: 200
   name_en: Iron Fist of Anger
   one_time: 0
@@ -57,7 +52,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: When 1 enemy remains
   one_time: null
@@ -65,7 +59,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -73,7 +66,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -99% HP
-  desc_jp: Player -99% HP
   max_atk_pct: null
   name_en: Sucker Punch
   one_time: 0
@@ -81,7 +73,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -89,7 +80,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 300% for the next 999 turns
-  desc_jp: Increase damage to 300% for the next 999 turns
   max_atk_pct: null
   name_en: Lone Force
   one_time: 0

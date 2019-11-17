@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Deal 80% damage
-  desc_jp: Deal 80% damage
   max_atk_pct: 80
   name_en: First Strike
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 160% damage (2 hits, 80% each)
-  desc_jp: Deal 160% damage (2 hits, 80% each)
   max_atk_pct: 160
   name_en: Second Strike
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Deal 240% damage (3 hits, 80% each)
-  desc_jp: Deal 240% damage (3 hits, 80% each)
   max_atk_pct: 240
   name_en: Third Strike
   one_time: 0

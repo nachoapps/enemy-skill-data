@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Absorb combo <= 8 damage for 10 turns + Void damage >= 10000000 for 999
     turns (Preemptive)
-  desc_jp: Absorb combo <= 8 damage for 10 turns + Void damage >= 10000000 for 999
     turns (Preemptive)
   max_atk_pct: null
   name_en: Flame God's Ambition + Incandescent Fighting Spirit
@@ -28,7 +27,6 @@ records:
 - !SkillRecord
   desc_en: Column of cloud appear for 1 turns at random location, Deal 260% damage,
     (if >=12 combos last turn)
-  desc_jp: Column of cloud appear for 1 turns at random location, Deal 260% damage,
     (if >=12 combos last turn)
   max_atk_pct: 260
   name_en: Fotiá Xíphos
@@ -37,7 +35,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 1 turns, (if >=9 combos last turn)
-  desc_jp: Increase damage to 150% for the next 1 turns, (if >=9 combos last turn)
   max_atk_pct: null
   name_en: Theós Thymós
   one_time: 0
@@ -45,7 +42,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Player -99% HP
-  desc_jp: Player -99% HP
   max_atk_pct: null
   name_en: Timoría
   one_time: 2
@@ -53,7 +49,6 @@ records:
   usage_pct: 60
 - !SkillRecord
   desc_en: Deal 300% damage (2 hits, 150% each)
-  desc_jp: Deal 300% damage (2 hits, 150% each)
   max_atk_pct: 300
   name_en: Epíthesi
   one_time: 0
@@ -61,7 +56,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -69,7 +63,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -78,7 +71,6 @@ records:
 - !SkillRecord
   desc_en: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
     orbs + Reduce damage from all sources by 75% for 1 turns
-  desc_jp: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
     orbs + Reduce damage from all sources by 75% for 1 turns
   max_atk_pct: null
   name_en: You're making me angry + Stigmæ Aspída
@@ -87,7 +79,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 3000% damage (3 hits, 1000% each)
-  desc_jp: Deal 3000% damage (3 hits, 1000% each)
   max_atk_pct: 3000
   name_en: Apotéfrosi
   one_time: 0

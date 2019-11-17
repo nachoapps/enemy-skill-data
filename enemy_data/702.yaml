@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Change Poison to Heal, Deal 120% damage
-  desc_jp: Change Poison to Heal, Deal 120% damage
   max_atk_pct: 120
   name_en: Curing Breath
   one_time: 0

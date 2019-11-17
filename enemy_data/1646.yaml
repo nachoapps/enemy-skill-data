@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Enemy turn counter change to 1 when HP <= 50%
-  desc_jp: Enemy turn counter change to 1 when HP <= 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -26,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Void damage >= 10000000 for 999 turns + Jammer skyfall +10% for 99 turns
     (Preemptive)
-  desc_jp: Void damage >= 10000000 for 999 turns + Jammer skyfall +10% for 99 turns
     (Preemptive)
   max_atk_pct: null
   name_en: Wicked Neigh + Dreaded Downpour
@@ -35,7 +33,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Dark + Deal 600000% damage
-  desc_jp: Change own attribute to random one of Fire, Dark + Deal 600000% damage
   max_atk_pct: null
   name_en: Reversal of Fate + Destruction
   one_time: 0
@@ -43,7 +40,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -51,7 +47,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -60,7 +55,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Reduce damage from all sources by
     99% for 1 turns
-  desc_jp: Voids status ailments for 999 turns + Reduce damage from all sources by
     99% for 1 turns
   max_atk_pct: null
   name_en: Devil King's Barrier + Immortality
@@ -69,7 +63,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -78,7 +71,6 @@ records:
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Dark + Deal 600000% damage
     (6 hits, 100000% each)
-  desc_jp: Change own attribute to random one of Fire, Dark + Deal 600000% damage
     (6 hits, 100000% each)
   max_atk_pct: null
   name_en: Reversal of Fate + Cosmic End
@@ -87,7 +79,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Random 3 to Mortal Poison + Player -99% HP
-  desc_jp: Change Random 3 to Mortal Poison + Player -99% HP
   max_atk_pct: null
   name_en: Mind Erosion + Hell Malice
   one_time: 0
@@ -95,7 +86,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 600% damage + Player -99% HP
-  desc_jp: Blind all orbs on the board, Deal 600% damage + Player -99% HP
   max_atk_pct: null
   name_en: Abyssal Darkness + Hell Malice
   one_time: 0
@@ -103,7 +93,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Bind 1 subs for 1 turns, Deal 600% damage + Player -99% HP
-  desc_jp: Bind 1 subs for 1 turns, Deal 600% damage + Player -99% HP
   max_atk_pct: null
   name_en: Wave of Fear + Hell Malice
   one_time: 0
@@ -111,7 +100,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 32
   one_time: null
@@ -119,7 +107,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -127,7 +114,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Movetime 50% for 99 turns
-  desc_jp: Movetime 50% for 99 turns
   max_atk_pct: null
   name_en: Black Qualm
   one_time: 1
@@ -135,7 +121,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 15
   one_time: null
@@ -143,7 +128,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -151,7 +135,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 300% for the next 999 turns
-  desc_jp: Increase damage to 300% for the next 999 turns
   max_atk_pct: null
   name_en: Hell Crown
   one_time: 0
@@ -159,7 +142,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 5
   one_time: null
@@ -168,7 +150,6 @@ records:
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Dark + Deal 600000% damage
     (6 hits, 100000% each)
-  desc_jp: Change own attribute to random one of Fire, Dark + Deal 600000% damage
     (6 hits, 100000% each)
   max_atk_pct: null
   name_en: Reversal of Fate + Cosmic End
@@ -185,7 +166,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Enemy turn counter change to 1 when HP <= 50%
-  desc_jp: Enemy turn counter change to 1 when HP <= 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -194,7 +174,6 @@ records:
 - !SkillRecord
   desc_en: Void damage >= 100000000 for 999 turns + Jammer skyfall +10% for 99 turns
     (Preemptive)
-  desc_jp: Void damage >= 100000000 for 999 turns + Jammer skyfall +10% for 99 turns
     (Preemptive)
   max_atk_pct: null
   name_en: Wicked Neigh + Dreaded Downpour
@@ -203,7 +182,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Dark + Deal 600000% damage
-  desc_jp: Change own attribute to random one of Fire, Dark + Deal 600000% damage
   max_atk_pct: null
   name_en: Reversal of Fate + Destruction
   one_time: 0
@@ -211,7 +189,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -219,7 +196,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -228,7 +204,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Reduce damage from all sources by
     99% for 1 turns
-  desc_jp: Voids status ailments for 999 turns + Reduce damage from all sources by
     99% for 1 turns
   max_atk_pct: null
   name_en: Devil King's Barrier + Immortality
@@ -237,7 +212,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -246,7 +220,6 @@ records:
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Dark + Deal 600000% damage
     (6 hits, 100000% each)
-  desc_jp: Change own attribute to random one of Fire, Dark + Deal 600000% damage
     (6 hits, 100000% each)
   max_atk_pct: null
   name_en: Reversal of Fate + Cosmic End
@@ -255,7 +228,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Random 3 to Mortal Poison + Player -99% HP
-  desc_jp: Change Random 3 to Mortal Poison + Player -99% HP
   max_atk_pct: null
   name_en: Mind Erosion + Hell Malice
   one_time: 0
@@ -263,7 +235,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 600% damage + Player -99% HP
-  desc_jp: Blind all orbs on the board, Deal 600% damage + Player -99% HP
   max_atk_pct: null
   name_en: Abyssal Darkness + Hell Malice
   one_time: 0
@@ -271,7 +242,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Bind 1 subs for 1 turns, Deal 600% damage + Player -99% HP
-  desc_jp: Bind 1 subs for 1 turns, Deal 600% damage + Player -99% HP
   max_atk_pct: null
   name_en: Wave of Fear + Hell Malice
   one_time: 0
@@ -279,7 +249,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 32
   one_time: null
@@ -287,7 +256,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -295,7 +263,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Movetime 50% for 99 turns
-  desc_jp: Movetime 50% for 99 turns
   max_atk_pct: null
   name_en: Black Qualm
   one_time: 1
@@ -303,7 +270,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 15
   one_time: null
@@ -311,7 +277,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -319,7 +284,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 300% for the next 999 turns
-  desc_jp: Increase damage to 300% for the next 999 turns
   max_atk_pct: null
   name_en: Hell Crown
   one_time: 0
@@ -327,7 +291,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 5
   one_time: null
@@ -336,7 +299,6 @@ records:
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Dark + Deal 600000% damage
     (6 hits, 100000% each)
-  desc_jp: Change own attribute to random one of Fire, Dark + Deal 600000% damage
     (6 hits, 100000% each)
   max_atk_pct: null
   name_en: Reversal of Fate + Cosmic End

@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Bind Light cards for 4 turns (Preemptive)
-  desc_jp: Bind Light cards for 4 turns (Preemptive)
   max_atk_pct: null
   name_en: Demonic Stare
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Jammer skyfall +10% for 5 turns (Preemptive)
-  desc_jp: Jammer skyfall +10% for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: Demonic Howl
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Water to Dark, Deal 90% damage
-  desc_jp: Change Water to Dark, Deal 90% damage
   max_atk_pct: 90
   name_en: Hell Ball
   one_time: 1
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -57,7 +52,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Water to Dark, Deal 90% damage
-  desc_jp: Change Water to Dark, Deal 90% damage
   max_atk_pct: 90
   name_en: Hell Ball
   one_time: 1
@@ -65,7 +59,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 125% damage
-  desc_jp: Blind all orbs on the board, Deal 125% damage
   max_atk_pct: 125
   name_en: Dark Cyclone Blast
   one_time: 0
@@ -73,7 +66,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -81,7 +73,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 125% damage
-  desc_jp: Blind all orbs on the board, Deal 125% damage
   max_atk_pct: 125
   name_en: Dark Cyclone Blast
   one_time: 0

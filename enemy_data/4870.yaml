@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Do nothing (Preemptive)
-  desc_jp: Do nothing (Preemptive)
   max_atk_pct: null
   name_en: Could you give me some tips?
   one_time: 1
@@ -33,7 +32,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal (Preemptive)
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Heal (Preemptive)
   max_atk_pct: null
   name_en: Could you give me some tips?
   one_time: 1
@@ -41,7 +39,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change 3rd row to Fire orbs, Deal 100% damage
-  desc_jp: Change 3rd row to Fire orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Hiyaaa!
   one_time: 0
@@ -49,7 +46,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Spawn random 4 Jammer orbs, Deal 90% damage
-  desc_jp: Spawn random 4 Jammer orbs, Deal 90% damage
   max_atk_pct: 90
   name_en: Huaaa!
   one_time: 0
@@ -57,7 +53,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Deal 110% damage
-  desc_jp: Deal 110% damage
   max_atk_pct: 110
   name_en: Ahh ghaaa!
   one_time: 0
@@ -65,7 +60,6 @@ records:
   usage_pct: 34
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -73,7 +67,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -81,7 +74,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 3 turns
-  desc_jp: Increase damage to 150% for the next 3 turns
   max_atk_pct: null
   name_en: Let's keep going!
   one_time: 0

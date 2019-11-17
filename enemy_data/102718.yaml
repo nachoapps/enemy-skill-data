@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from Wood by 50%
-  desc_jp: Reduce damage from Wood by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -26,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Reduce damage from all sources by
     75% for 7 turns + Void damage >= 20000000 for 99 turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Reduce damage from all sources by
     75% for 7 turns + Void damage >= 20000000 for 99 turns (Preemptive)
   max_atk_pct: null
   name_en: Antivirus + Gigantic Body + Energy Calm
@@ -35,7 +33,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -43,7 +40,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 3 Jammer orbs
-  desc_jp: Spawn random 3 Jammer orbs
   max_atk_pct: null
   name_en: The huge body started to move
   one_time: 32
@@ -51,7 +47,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -59,7 +54,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 690% for the next attack
-  desc_jp: Increase damage to 690% for the next attack
   max_atk_pct: null
   name_en: Raising its arm
   one_time: 16
@@ -67,7 +61,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -75,7 +68,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 3 Jammer orbs
-  desc_jp: Spawn random 3 Jammer orbs
   max_atk_pct: null
   name_en: Rearranging its posture
   one_time: 8
@@ -83,7 +75,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -91,7 +82,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 690% for the next attack
-  desc_jp: Increase damage to 690% for the next attack
   max_atk_pct: null
   name_en: Raising its arm again
   one_time: 4
@@ -99,7 +89,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
   one_time: null
@@ -107,7 +96,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind all orbs on the board
-  desc_jp: Blind all orbs on the board
   max_atk_pct: null
   name_en: Opening its mouth
   one_time: 2
@@ -115,7 +103,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6
   one_time: null
@@ -124,7 +111,6 @@ records:
 - !SkillRecord
   desc_en: Change 3rd, 4th column to Wood orbs, Deal 450% damage + Absorb Fire, Water
     damage for 3 turns
-  desc_jp: Change 3rd, 4th column to Wood orbs, Deal 450% damage + Absorb Fire, Water
     damage for 3 turns
   max_atk_pct: null
   name_en: Gaia Beam + Inhale
@@ -134,7 +120,6 @@ records:
 - !SkillRecord
   desc_en: Change 3rd, 4th column to Wood orbs, Deal 450% damage + Absorb Water, Wood
     damage for 3 turns
-  desc_jp: Change 3rd, 4th column to Wood orbs, Deal 450% damage + Absorb Water, Wood
     damage for 3 turns
   max_atk_pct: null
   name_en: Gaia Beam + Inhale
@@ -144,7 +129,6 @@ records:
 - !SkillRecord
   desc_en: Change 3rd, 4th column to Wood orbs, Deal 450% damage + Absorb Wood, Light
     damage for 3 turns
-  desc_jp: Change 3rd, 4th column to Wood orbs, Deal 450% damage + Absorb Wood, Light
     damage for 3 turns
   max_atk_pct: null
   name_en: Gaia Beam + Inhale
@@ -154,7 +138,6 @@ records:
 - !SkillRecord
   desc_en: Change 3rd, 4th column to Wood orbs, Deal 450% damage + Absorb Light, Dark
     damage for 3 turns
-  desc_jp: Change 3rd, 4th column to Wood orbs, Deal 450% damage + Absorb Light, Dark
     damage for 3 turns
   max_atk_pct: null
   name_en: Gaia Beam + Inhale
@@ -164,7 +147,6 @@ records:
 - !SkillRecord
   desc_en: Change 3rd, 4th column to Wood orbs, Deal 450% damage + Absorb Fire, Dark
     damage for 3 turns
-  desc_jp: Change 3rd, 4th column to Wood orbs, Deal 450% damage + Absorb Fire, Dark
     damage for 3 turns
   max_atk_pct: null
   name_en: Gaia Beam + Inhale
@@ -173,7 +155,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -181,7 +162,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Delay active skills by 3~5 turns, Deal 260% damage
-  desc_jp: Delay active skills by 3~5 turns, Deal 260% damage
   max_atk_pct: 260
   name_en: Skill Break
   one_time: 0
@@ -189,7 +169,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -197,7 +176,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6
   one_time: null
@@ -205,7 +183,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -500% HP
-  desc_jp: Player -500% HP
   max_atk_pct: null
   name_en: Grand Ray
   one_time: 1
@@ -214,7 +191,6 @@ records:
 - !SkillRecord
   desc_en: Lock 6 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 340% damage
-  desc_jp: Lock 6 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 340% damage
   max_atk_pct: 340
   name_en: Hardened Sign
@@ -223,7 +199,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 360% damage
-  desc_jp: Blind all orbs on the board, Deal 360% damage
   max_atk_pct: 360
   name_en: Earth's Mantle Press
   one_time: 0
@@ -231,7 +206,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
   one_time: null
@@ -239,7 +213,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Enemy recover 10% hp, Deal 420% damage
-  desc_jp: Enemy recover 10% hp, Deal 420% damage
   max_atk_pct: 420
   name_en: Cell Mending
   one_time: 0
@@ -247,7 +220,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Bind 1 random for 5 turns, Deal 410% damage
-  desc_jp: Bind 1 random for 5 turns, Deal 410% damage
   max_atk_pct: 410
   name_en: Great Vine
   one_time: 0
@@ -255,7 +227,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -263,7 +234,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -500% HP
-  desc_jp: Player -500% HP
   max_atk_pct: null
   name_en: Grand Ray
   one_time: 0

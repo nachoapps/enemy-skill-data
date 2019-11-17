@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from Healer, Attacker by 50%
-  desc_jp: Reduce damage from Healer, Attacker by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -26,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Poison skyfall +15% for 7 turns + Specific orbs change every 1.0s for 7
     turns (Preemptive)
-  desc_jp: Poison skyfall +15% for 7 turns + Specific orbs change every 1.0s for 7
     turns (Preemptive)
   max_atk_pct: null
   name_en: Summon Poison Orbs!... + If you don't want to die
@@ -35,7 +33,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: When afflicted by delay/poison
   one_time: null
@@ -43,7 +40,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 200% for the next 999 turns
-  desc_jp: Increase damage to 200% for the next 999 turns
   max_atk_pct: null
   name_en: Resentment
   one_time: 0
@@ -51,7 +47,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -59,7 +54,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Poison to Dark, Deal 290% damage
-  desc_jp: Change Poison to Dark, Deal 290% damage
   max_atk_pct: 290
   name_en: Dark Slash
   one_time: 0
@@ -67,7 +61,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 1050% damage (7 hits, 150% each)
-  desc_jp: Deal 1050% damage (7 hits, 150% each)
   max_atk_pct: 1050
   name_en: Death Edge
   one_time: 0

@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -25,7 +24,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind all orbs on the board
-  desc_jp: Blind all orbs on the board
   max_atk_pct: null
   name_en: Dark Flash
   one_time: 1
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 75
   one_time: null
@@ -41,7 +38,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 120%~240% damage (3~6 hits, 40% each)
-  desc_jp: Deal 120%~240% damage (3~6 hits, 40% each)
   max_atk_pct: 240
   name_en: Legion Thrust
   one_time: 0

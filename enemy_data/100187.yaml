@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Lock 20 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs + Voids status ailments for 999 turns (Preemptive)
-  desc_jp: Lock 20 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs + Voids status ailments for 999 turns (Preemptive)
   max_atk_pct: null
   name_en: Supercell + King of Gods' Majesty
@@ -27,7 +26,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -35,7 +33,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random 6 to Poison, Deal 50% damage + Lock all Mortal Poison orbs
-  desc_jp: Change Random 6 to Poison, Deal 50% damage + Lock all Mortal Poison orbs
   max_atk_pct: null
   name_en: Poison Lightning + Constrain
   one_time: 3
@@ -43,7 +40,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2-4
   one_time: null
@@ -51,7 +47,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Heal to Jammer, Deal 70% damage
-  desc_jp: Change Heal to Jammer, Deal 70% damage
   max_atk_pct: 70
   name_en: Tera Bolt
   one_time: 0
@@ -59,7 +54,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 75
   one_time: null
@@ -67,7 +61,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -75,7 +68,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random 6 to Poison, Deal 50% damage + Lock all Mortal Poison orbs
-  desc_jp: Change Random 6 to Poison, Deal 50% damage + Lock all Mortal Poison orbs
   max_atk_pct: null
   name_en: Poison Lightning + Constrain
   one_time: 3
@@ -83,7 +75,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2-4
   one_time: null
@@ -91,7 +82,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 150% damage
-  desc_jp: Deal 150% damage
   max_atk_pct: 150
   name_en: Lightning of God
   one_time: 0
@@ -99,7 +89,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Change Heal to Jammer, Deal 70% damage
-  desc_jp: Change Heal to Jammer, Deal 70% damage
   max_atk_pct: 70
   name_en: Tera Bolt
   one_time: 0
@@ -107,7 +96,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -115,7 +103,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -123,7 +110,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random 6 to Poison, Deal 50% damage + Lock all Mortal Poison orbs
-  desc_jp: Change Random 6 to Poison, Deal 50% damage + Lock all Mortal Poison orbs
   max_atk_pct: null
   name_en: Poison Lightning + Constrain
   one_time: 3
@@ -131,7 +117,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -139,7 +124,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind God cards for 2~4 turns
-  desc_jp: Bind God cards for 2~4 turns
   max_atk_pct: null
   name_en: Glare of Zeus
   one_time: 0
@@ -147,7 +131,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1-2
   one_time: null
@@ -155,7 +138,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 150% damage
-  desc_jp: Deal 150% damage
   max_atk_pct: 150
   name_en: Lightning of God
   one_time: 0
@@ -163,7 +145,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Change Heal to Jammer, Deal 70% damage
-  desc_jp: Change Heal to Jammer, Deal 70% damage
   max_atk_pct: 70
   name_en: Tera Bolt
   one_time: 0
@@ -171,7 +152,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -179,7 +159,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random 6 to Poison, Deal 50% damage + Lock all Mortal Poison orbs
-  desc_jp: Change Random 6 to Poison, Deal 50% damage + Lock all Mortal Poison orbs
   max_atk_pct: null
   name_en: Poison Lightning + Constrain
   one_time: 3
@@ -187,7 +166,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 4
   one_time: null
@@ -195,7 +173,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 150% damage
-  desc_jp: Deal 150% damage
   max_atk_pct: 150
   name_en: Lightning of God
   one_time: 0
@@ -203,7 +180,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Change Heal to Jammer, Deal 70% damage
-  desc_jp: Change Heal to Jammer, Deal 70% damage
   max_atk_pct: 70
   name_en: Tera Bolt
   one_time: 0
@@ -211,7 +187,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -219,7 +194,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 250% damage (10 hits, 25% each)
-  desc_jp: Deal 250% damage (10 hits, 25% each)
   max_atk_pct: 250
   name_en: Super Nova
   one_time: 0

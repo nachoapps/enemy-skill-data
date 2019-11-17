@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from Fire by 50%
-  desc_jp: Reduce damage from Fire by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 50%
-  desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -41,7 +39,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from Fire by 50%
-  desc_jp: Reduce damage from Fire by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -49,7 +46,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 50%
-  desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -58,7 +54,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 5 turns + Change all orbs to Wood, Light, Heal,
     Deal 130% damage (Preemptive)
-  desc_jp: Voids status ailments for 5 turns + Change all orbs to Wood, Light, Heal,
     Deal 130% damage (Preemptive)
   max_atk_pct: null
   name_en: I don't care about your hopes! + Storm Lightning
@@ -67,7 +62,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -75,7 +69,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 200% for the next 1 turns, (if [2508, 2509] on team)
-  desc_jp: Increase damage to 200% for the next 1 turns, (if [2508, 2509] on team)
   max_atk_pct: null
   name_en: You're a troublesome one, aren't you?
   one_time: 1
@@ -83,7 +76,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Increase damage to 200% for the next 1 turns
-  desc_jp: Increase damage to 200% for the next 1 turns
   max_atk_pct: null
   name_en: Raising Flap
   one_time: 1
@@ -91,7 +83,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -99,7 +90,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -107,7 +97,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 110% damage (2 hits, 55% each)
-  desc_jp: Deal 110% damage (2 hits, 55% each)
   max_atk_pct: 110
   name_en: Storm Raid
   one_time: 0
@@ -115,7 +104,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Change 3rd column to Light orbs, 4th column to Wood orbs, Deal 95% damage
-  desc_jp: Change 3rd column to Light orbs, 4th column to Wood orbs, Deal 95% damage
   max_atk_pct: 95
   name_en: Green Wind Soul Cutter
   one_time: 0
@@ -123,7 +111,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Spawn random 8 Wood orbs, Deal 90% damage
-  desc_jp: Spawn random 8 Wood orbs, Deal 90% damage
   max_atk_pct: 90
   name_en: Mountain Haze's Guidance
   one_time: 0
@@ -131,7 +118,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -139,7 +125,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 200% for the next 1 turns
-  desc_jp: Increase damage to 200% for the next 1 turns
   max_atk_pct: null
   name_en: Raising Flap
   one_time: 1
@@ -147,7 +132,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -155,7 +139,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -164,7 +147,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Wood damage for 1 turns + Change 2nd, 4th row to Wood, Jammer orbs,
     Deal 100% damage
-  desc_jp: Absorb Wood damage for 1 turns + Change 2nd, 4th row to Wood, Jammer orbs,
     Deal 100% damage
   max_atk_pct: null
   name_en: Storm Hawk Dragon's Trial + Splitting Storm Wind
@@ -173,7 +155,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -181,7 +162,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 200% for the next 1 turns
-  desc_jp: Increase damage to 200% for the next 1 turns
   max_atk_pct: null
   name_en: Raising Flap
   one_time: 1
@@ -189,7 +169,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -197,7 +176,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 110% damage (2 hits, 55% each)
-  desc_jp: Deal 110% damage (2 hits, 55% each)
   max_atk_pct: 110
   name_en: Storm Raid
   one_time: 0
@@ -205,7 +183,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Change 3rd column to Light orbs, 4th column to Wood orbs, Deal 95% damage
-  desc_jp: Change 3rd column to Light orbs, 4th column to Wood orbs, Deal 95% damage
   max_atk_pct: 95
   name_en: Green Wind Soul Cutter
   one_time: 0
@@ -213,7 +190,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Spawn random 8 Wood orbs, Deal 90% damage
-  desc_jp: Spawn random 8 Wood orbs, Deal 90% damage
   max_atk_pct: 90
   name_en: Mountain Haze's Guidance
   one_time: 0
@@ -221,7 +197,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -230,7 +205,6 @@ records:
 - !SkillRecord
   desc_en: Deal 110% damage (2 hits, 55% each) + Change all orbs to Wood, Light, Heal,
     Deal 130% damage
-  desc_jp: Deal 110% damage (2 hits, 55% each) + Change all orbs to Wood, Light, Heal,
     Deal 130% damage
   max_atk_pct: null
   name_en: Storm Raid + Storm Lightning
@@ -239,7 +213,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Enemy is defeated
   one_time: null
@@ -247,7 +220,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -255,7 +227,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Enemy recover 50% hp + Increase damage to 200% for the next 1 turns
-  desc_jp: Enemy recover 50% hp + Increase damage to 200% for the next 1 turns
   max_atk_pct: null
   name_en: Overcoming Will + Raising Flap
   one_time: 1
@@ -263,7 +234,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -272,7 +242,6 @@ records:
 - !SkillRecord
   desc_en: Deal 110% damage (2 hits, 55% each) + Change all orbs to Wood, Light, Heal,
     Deal 130% damage
-  desc_jp: Deal 110% damage (2 hits, 55% each) + Change all orbs to Wood, Light, Heal,
     Deal 130% damage
   max_atk_pct: null
   name_en: Storm Raid + Storm Lightning

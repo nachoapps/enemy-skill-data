@@ -18,7 +18,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from Water by 50%
-  desc_jp: Reduce damage from Water by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -26,7 +25,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Player recover 100% hp (Preemptive)
-  desc_jp: Player recover 100% hp (Preemptive)
   max_atk_pct: null
   name_en: Are you worth saving?
   one_time: 0
@@ -35,7 +33,6 @@ records:
 - !SkillRecord
   desc_en: Lock 8 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 300% damage
-  desc_jp: Lock 8 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 300% damage
   max_atk_pct: 300
   name_en: Sharptooth
@@ -44,7 +41,6 @@ records:
   usage_pct: 40
 - !SkillRecord
   desc_en: Bind active skills for 5 turns, Deal 350% damage
-  desc_jp: Bind active skills for 5 turns, Deal 350% damage
   max_atk_pct: 350
   name_en: Sanctifying Waters
   one_time: 0
@@ -52,7 +48,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Blind random 5 orbs for 1 turns, Deal 300% damage
-  desc_jp: Blind random 5 orbs for 1 turns, Deal 300% damage
   max_atk_pct: 300
   name_en: Ice Metal Needle
   one_time: 0
@@ -60,7 +55,6 @@ records:
   usage_pct: 40
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 80
   one_time: null
@@ -68,7 +62,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -76,7 +69,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb Wood damage for 3 turns + Deal 400% damage (4 hits, 100% each)
-  desc_jp: Absorb Wood damage for 3 turns + Deal 400% damage (4 hits, 100% each)
   max_atk_pct: null
   name_en: Deep Aqua + Ether Screw
   one_time: 1
@@ -85,7 +77,6 @@ records:
 - !SkillRecord
   desc_en: Mortal Poison skyfall +15% for 3 turns + Deal 400% damage (4 hits, 100%
     each)
-  desc_jp: Mortal Poison skyfall +15% for 3 turns + Deal 400% damage (4 hits, 100%
     each)
   max_atk_pct: null
   name_en: Poison Swirl + Ether Screw
@@ -95,7 +86,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 3 turns + Deal 400% damage (4
     hits, 100% each)
-  desc_jp: Reduce damage from all sources by 75% for 3 turns + Deal 400% damage (4
     hits, 100% each)
   max_atk_pct: null
   name_en: Shell Scales + Ether Screw
@@ -104,7 +94,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -112,7 +101,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -121,7 +109,6 @@ records:
 - !SkillRecord
   desc_en: Mortal Poison skyfall +15% for 3 turns + Deal 400% damage (4 hits, 100%
     each)
-  desc_jp: Mortal Poison skyfall +15% for 3 turns + Deal 400% damage (4 hits, 100%
     each)
   max_atk_pct: null
   name_en: Poison Swirl + Ether Screw
@@ -130,7 +117,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
   one_time: null
@@ -138,7 +124,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -147,7 +132,6 @@ records:
 - !SkillRecord
   desc_en: Mortal Poison skyfall +15% for 3 turns + Deal 400% damage (4 hits, 100%
     each)
-  desc_jp: Mortal Poison skyfall +15% for 3 turns + Deal 400% damage (4 hits, 100%
     each)
   max_atk_pct: null
   name_en: Poison Swirl + Ether Screw
@@ -156,7 +140,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -165,7 +148,6 @@ records:
 - !SkillRecord
   desc_en: Voids player buff effects + Change all orbs to Mortal Poison, Deal 10000%
     damage
-  desc_jp: Voids player buff effects + Change all orbs to Mortal Poison, Deal 10000%
     damage
   max_atk_pct: null
   name_en: Cold Break + Blue Calamity Abyss

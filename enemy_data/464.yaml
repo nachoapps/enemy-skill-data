@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Change Random 3 to Poison (Preemptive)
-  desc_jp: Change Random 3 to Poison (Preemptive)
   max_atk_pct: null
   name_en: '*****'
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 75
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 200% for the next 5 turns
-  desc_jp: Increase damage to 200% for the next 5 turns
   max_atk_pct: null
   name_en: Malboro Song
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -57,7 +52,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind 6 random cards for 1~3 turns
-  desc_jp: Bind 6 random cards for 1~3 turns
   max_atk_pct: null
   name_en: Bad Breath
   one_time: 1

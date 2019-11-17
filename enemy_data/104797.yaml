@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Random 2 orbs change every 1.0s for 3 turns + Voids status ailments for
     999 turns (Preemptive)
-  desc_jp: Random 2 orbs change every 1.0s for 3 turns + Voids status ailments for
     999 turns (Preemptive)
   max_atk_pct: null
   name_en: Cup of Soaring Frenzy + Dragon's Spirit
@@ -27,7 +26,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Bind 1 subs for 1 turns, Deal 100% damage
-  desc_jp: Bind 1 subs for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Fire Chain of Jasmin
   one_time: 0
@@ -35,7 +33,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 120% damage (3 hits, 40% each)
-  desc_jp: Deal 120% damage (3 hits, 40% each)
   max_atk_pct: 120
   name_en: Dividing Thorn Strike
   one_time: 0
@@ -43,7 +40,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 75
   one_time: null
@@ -51,7 +47,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -59,7 +54,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb combo <= 6 damage for 3 turns
-  desc_jp: Absorb combo <= 6 damage for 3 turns
   max_atk_pct: null
   name_en: Burning Feather
   one_time: 2
@@ -67,7 +61,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -75,7 +68,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -84,7 +76,6 @@ records:
 - !SkillRecord
   desc_en: Specific orbs change every 1.0s for 3 turns + Spawn Bomb orbs in the specified
     positions
-  desc_jp: Specific orbs change every 1.0s for 3 turns + Spawn Bomb orbs in the specified
     positions
   max_atk_pct: null
   name_en: Fire Knot + Devil Judgment
@@ -93,7 +84,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 5
   one_time: null
@@ -102,7 +92,6 @@ records:
 - !SkillRecord
   desc_en: Change 1st, 3rd, 5th column to Fire orbs, 2nd, 4th, 6th column to Water
     orbs, Deal 250% damage
-  desc_jp: Change 1st, 3rd, 5th column to Fire orbs, 2nd, 4th, 6th column to Water
     orbs, Deal 250% damage
   max_atk_pct: 250
   name_en: Crimson & Blue Flames

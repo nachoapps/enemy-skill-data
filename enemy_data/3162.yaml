@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Voids status ailments for 1 turns (Preemptive)
-  desc_jp: Voids status ailments for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: 'Awoken Phantom God Odin,
 
@@ -27,7 +26,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 50% damage
-  desc_jp: Deal 50% damage
   max_atk_pct: 50
   name_en: BURNING-TAMA!
   one_time: 0

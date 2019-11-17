@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Bind Light cards for 2~4 turns
-  desc_jp: Bind Light cards for 2~4 turns
   max_atk_pct: null
   name_en: Flash Bind
   one_time: 0

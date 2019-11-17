@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Player recover 100% hp + Absorb Fire, Water damage for 2 turns (Preemptive)
-  desc_jp: Player recover 100% hp + Absorb Fire, Water damage for 2 turns (Preemptive)
   max_atk_pct: null
   name_en: Are you worth saving? + Truth Gate
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 10
 - !SkillRecord
   desc_en: Player recover 100% hp + Absorb Fire, Wood damage for 2 turns (Preemptive)
-  desc_jp: Player recover 100% hp + Absorb Fire, Wood damage for 2 turns (Preemptive)
   max_atk_pct: null
   name_en: Are you worth saving? + Truth Gate
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 10
 - !SkillRecord
   desc_en: Player recover 100% hp + Absorb Fire, Light damage for 2 turns (Preemptive)
-  desc_jp: Player recover 100% hp + Absorb Fire, Light damage for 2 turns (Preemptive)
   max_atk_pct: null
   name_en: Are you worth saving? + Truth Gate
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 10
 - !SkillRecord
   desc_en: Player recover 100% hp + Absorb Fire, Dark damage for 2 turns (Preemptive)
-  desc_jp: Player recover 100% hp + Absorb Fire, Dark damage for 2 turns (Preemptive)
   max_atk_pct: null
   name_en: Are you worth saving? + Truth Gate
   one_time: 0
@@ -49,7 +45,6 @@ records:
   usage_pct: 10
 - !SkillRecord
   desc_en: Player recover 100% hp + Absorb Water, Wood damage for 2 turns (Preemptive)
-  desc_jp: Player recover 100% hp + Absorb Water, Wood damage for 2 turns (Preemptive)
   max_atk_pct: null
   name_en: Are you worth saving? + Truth Gate
   one_time: 0
@@ -57,7 +52,6 @@ records:
   usage_pct: 10
 - !SkillRecord
   desc_en: Player recover 100% hp + Absorb Water, Light damage for 2 turns (Preemptive)
-  desc_jp: Player recover 100% hp + Absorb Water, Light damage for 2 turns (Preemptive)
   max_atk_pct: null
   name_en: Are you worth saving? + Truth Gate
   one_time: 0
@@ -65,7 +59,6 @@ records:
   usage_pct: 10
 - !SkillRecord
   desc_en: Player recover 100% hp + Absorb Water, Dark damage for 2 turns (Preemptive)
-  desc_jp: Player recover 100% hp + Absorb Water, Dark damage for 2 turns (Preemptive)
   max_atk_pct: null
   name_en: Are you worth saving? + Truth Gate
   one_time: 0
@@ -73,7 +66,6 @@ records:
   usage_pct: 10
 - !SkillRecord
   desc_en: Player recover 100% hp + Absorb Wood, Light damage for 2 turns (Preemptive)
-  desc_jp: Player recover 100% hp + Absorb Wood, Light damage for 2 turns (Preemptive)
   max_atk_pct: null
   name_en: Are you worth saving? + Truth Gate
   one_time: 0
@@ -81,7 +73,6 @@ records:
   usage_pct: 10
 - !SkillRecord
   desc_en: Player recover 100% hp + Absorb Wood, Dark damage for 2 turns (Preemptive)
-  desc_jp: Player recover 100% hp + Absorb Wood, Dark damage for 2 turns (Preemptive)
   max_atk_pct: null
   name_en: Are you worth saving? + Truth Gate
   one_time: 0
@@ -89,7 +80,6 @@ records:
   usage_pct: 10
 - !SkillRecord
   desc_en: Player recover 100% hp + Absorb Light, Dark damage for 2 turns (Preemptive)
-  desc_jp: Player recover 100% hp + Absorb Light, Dark damage for 2 turns (Preemptive)
   max_atk_pct: null
   name_en: Are you worth saving? + Truth Gate
   one_time: 0
@@ -97,7 +87,6 @@ records:
   usage_pct: 10
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -105,7 +94,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind 1 subs for 2 turns, Deal 50% damage
-  desc_jp: Bind 1 subs for 2 turns, Deal 50% damage
   max_atk_pct: 50
   name_en: Sacred Sacrifice
   one_time: 0
@@ -113,7 +101,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: Change Random to Random, Deal 75% damage
-  desc_jp: Change Random to Random, Deal 75% damage
   max_atk_pct: 75
   name_en: Rainbow Contract
   one_time: 0
@@ -121,7 +108,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Change Random to Heal, Deal 100% damage
-  desc_jp: Change Random to Heal, Deal 100% damage
   max_atk_pct: 100
   name_en: Twinkle Hope
   one_time: 0
@@ -129,7 +115,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -137,7 +122,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -99% HP + Absorb Fire, Water damage for 2 turns
-  desc_jp: Player -99% HP + Absorb Fire, Water damage for 2 turns
   max_atk_pct: null
   name_en: Ark Impact + Truth Gate
   one_time: 0
@@ -145,7 +129,6 @@ records:
   usage_pct: 10
 - !SkillRecord
   desc_en: Player -99% HP + Absorb Fire, Wood damage for 2 turns
-  desc_jp: Player -99% HP + Absorb Fire, Wood damage for 2 turns
   max_atk_pct: null
   name_en: Ark Impact + Truth Gate
   one_time: 0
@@ -153,7 +136,6 @@ records:
   usage_pct: 10
 - !SkillRecord
   desc_en: Player -99% HP + Absorb Fire, Light damage for 2 turns
-  desc_jp: Player -99% HP + Absorb Fire, Light damage for 2 turns
   max_atk_pct: null
   name_en: Ark Impact + Truth Gate
   one_time: 0
@@ -161,7 +143,6 @@ records:
   usage_pct: 10
 - !SkillRecord
   desc_en: Player -99% HP + Absorb Fire, Dark damage for 2 turns
-  desc_jp: Player -99% HP + Absorb Fire, Dark damage for 2 turns
   max_atk_pct: null
   name_en: Ark Impact + Truth Gate
   one_time: 0
@@ -169,7 +150,6 @@ records:
   usage_pct: 10
 - !SkillRecord
   desc_en: Player -99% HP + Absorb Water, Wood damage for 2 turns
-  desc_jp: Player -99% HP + Absorb Water, Wood damage for 2 turns
   max_atk_pct: null
   name_en: Ark Impact + Truth Gate
   one_time: 0
@@ -177,7 +157,6 @@ records:
   usage_pct: 10
 - !SkillRecord
   desc_en: Player -99% HP + Absorb Water, Light damage for 2 turns
-  desc_jp: Player -99% HP + Absorb Water, Light damage for 2 turns
   max_atk_pct: null
   name_en: Ark Impact + Truth Gate
   one_time: 0
@@ -185,7 +164,6 @@ records:
   usage_pct: 10
 - !SkillRecord
   desc_en: Player -99% HP + Absorb Water, Dark damage for 2 turns
-  desc_jp: Player -99% HP + Absorb Water, Dark damage for 2 turns
   max_atk_pct: null
   name_en: Ark Impact + Truth Gate
   one_time: 0
@@ -193,7 +171,6 @@ records:
   usage_pct: 10
 - !SkillRecord
   desc_en: Player -99% HP + Absorb Wood, Light damage for 2 turns
-  desc_jp: Player -99% HP + Absorb Wood, Light damage for 2 turns
   max_atk_pct: null
   name_en: Ark Impact + Truth Gate
   one_time: 0
@@ -201,7 +178,6 @@ records:
   usage_pct: 10
 - !SkillRecord
   desc_en: Player -99% HP + Absorb Wood, Dark damage for 2 turns
-  desc_jp: Player -99% HP + Absorb Wood, Dark damage for 2 turns
   max_atk_pct: null
   name_en: Ark Impact + Truth Gate
   one_time: 0
@@ -209,7 +185,6 @@ records:
   usage_pct: 10
 - !SkillRecord
   desc_en: Player -99% HP + Absorb Light, Dark damage for 2 turns
-  desc_jp: Player -99% HP + Absorb Light, Dark damage for 2 turns
   max_atk_pct: null
   name_en: Ark Impact + Truth Gate
   one_time: 0
@@ -217,7 +192,6 @@ records:
   usage_pct: 10
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -225,7 +199,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 2000% damage (2 hits, 1000% each)
-  desc_jp: Deal 2000% damage (2 hits, 1000% each)
   max_atk_pct: 2000
   name_en: Punishment Thunder
   one_time: 0

@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Do nothing + Movetime 300% for 10 turns + Reduce self HP to 0 (Preemptive)
-  desc_jp: Do nothing + Movetime 300% for 10 turns + Reduce self HP to 0 (Preemptive)
   max_atk_pct: null
   name_en: Oh! Business with the master? + By all means! Please go through♪ + Well,
     please excuse me

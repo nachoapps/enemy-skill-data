@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Bind God cards for 2~4 turns
-  desc_jp: Bind God cards for 2~4 turns
   max_atk_pct: null
   name_en: Glare of Zeus
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 10
 - !SkillRecord
   desc_en: Change Heal to Jammer
-  desc_jp: Change Heal to Jammer
   max_atk_pct: null
   name_en: Heal change to Block
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 10
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 75
   one_time: null
@@ -41,7 +38,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 150% damage
-  desc_jp: Deal 150% damage
   max_atk_pct: 150
   name_en: Lightning of God
   one_time: 0
@@ -49,7 +45,6 @@ records:
   usage_pct: 40
 - !SkillRecord
   desc_en: Bind God cards for 2~4 turns
-  desc_jp: Bind God cards for 2~4 turns
   max_atk_pct: null
   name_en: Glare of Zeus
   one_time: 0
@@ -57,7 +52,6 @@ records:
   usage_pct: 10
 - !SkillRecord
   desc_en: Change Heal to Jammer
-  desc_jp: Change Heal to Jammer
   max_atk_pct: null
   name_en: Heal change to Block
   one_time: 0
@@ -65,7 +59,6 @@ records:
   usage_pct: 10
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -73,7 +66,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 250% damage (10 hits, 25% each)
-  desc_jp: Deal 250% damage (10 hits, 25% each)
   max_atk_pct: 250
   name_en: Super Nova
   one_time: 0
@@ -81,7 +73,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: Deal 150% damage
-  desc_jp: Deal 150% damage
   max_atk_pct: 150
   name_en: Lightning of God
   one_time: 0
@@ -89,7 +80,6 @@ records:
   usage_pct: 40
 - !SkillRecord
   desc_en: Bind God cards for 2~4 turns
-  desc_jp: Bind God cards for 2~4 turns
   max_atk_pct: null
   name_en: Glare of Zeus
   one_time: 0
@@ -97,7 +87,6 @@ records:
   usage_pct: 10
 - !SkillRecord
   desc_en: Change Heal to Jammer
-  desc_jp: Change Heal to Jammer
   max_atk_pct: null
   name_en: Heal change to Block
   one_time: 0

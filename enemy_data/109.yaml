@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 75
   one_time: null
@@ -25,7 +24,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Light to Dark
-  desc_jp: Change Light to Dark
   max_atk_pct: null
   name_en: Dark Orb change
   one_time: 0

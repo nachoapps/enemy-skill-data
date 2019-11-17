@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Blind all orbs on the board (Preemptive)
-  desc_jp: Blind all orbs on the board (Preemptive)
   max_atk_pct: null
   name_en: New Moon
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 150% damage
-  desc_jp: Deal 150% damage
   max_atk_pct: 150
   name_en: Night Sword
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 40
 - !SkillRecord
   desc_en: Change Random to Dark, Deal 100% damage
-  desc_jp: Change Random to Dark, Deal 100% damage
   max_atk_pct: 100
   name_en: Shadowed Moon
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 150% damage
-  desc_jp: Deal 150% damage
   max_atk_pct: 150
   name_en: Night Sword
   one_time: 0
@@ -57,7 +52,6 @@ records:
   usage_pct: 40
 - !SkillRecord
   desc_en: Change Random to Light, Deal 100% damage
-  desc_jp: Change Random to Light, Deal 100% damage
   max_atk_pct: 100
   name_en: Moonlight
   one_time: 0
@@ -65,7 +59,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
   one_time: null
@@ -73,7 +66,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -81,7 +73,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Do nothing
-  desc_jp: Do nothing
   max_atk_pct: null
   name_en: Change the...
   one_time: 1
@@ -89,7 +80,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -97,7 +87,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 1200% damage (12 hits, 100% each)
-  desc_jp: Deal 1200% damage (12 hits, 100% each)
   max_atk_pct: 1200
   name_en: World!
   one_time: 0

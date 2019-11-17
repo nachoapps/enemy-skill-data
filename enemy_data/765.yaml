@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -25,7 +24,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 200% for the next 999 turns (When 1 enemy remains)
-  desc_jp: Increase damage to 200% for the next 999 turns (When 1 enemy remains)
   max_atk_pct: null
   name_en: SPEED UP
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -41,7 +38,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Wood to Jammer, Deal 70% damage
-  desc_jp: Change Wood to Jammer, Deal 70% damage
   max_atk_pct: 70
   name_en: INVASION
   one_time: 1

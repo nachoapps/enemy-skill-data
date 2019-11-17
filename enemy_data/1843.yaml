@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Poison skyfall +20% for 99 turns + Bind awoken skills for 5 turns (Preemptive)
-  desc_jp: Poison skyfall +20% for 99 turns + Bind awoken skills for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: Gloomy Rose + Hey! I'm not done playing with you!
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 110% damage, (if [2508, 2509] on team)
-  desc_jp: Blind all orbs on the board, Deal 110% damage, (if [2508, 2509] on team)
   max_atk_pct: 110
   name_en: Sorry, I'm tired of looking at your face
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change 1st column to Fire orbs, 6th column to Wood orbs, Deal 140% damage
-  desc_jp: Change 1st column to Fire orbs, 6th column to Wood orbs, Deal 140% damage
   max_atk_pct: 140
   name_en: Vanir Rose
   one_time: 0
@@ -49,7 +45,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -57,7 +52,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Fire, Light skyfall +20% for 99 turns, (if [1950, 1951] on team)
-  desc_jp: Fire, Light skyfall +20% for 99 turns, (if [1950, 1951] on team)
   max_atk_pct: null
   name_en: You seem to be funnier than the world
   one_time: 0
@@ -65,7 +59,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 150% damage (3 hits, 50% each)
-  desc_jp: Deal 150% damage (3 hits, 50% each)
   max_atk_pct: 150
   name_en: Glass Storm
   one_time: 0
@@ -73,7 +66,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -81,7 +73,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 150% damage (3 hits, 50% each)
-  desc_jp: Deal 150% damage (3 hits, 50% each)
   max_atk_pct: 150
   name_en: Glass Storm
   one_time: 0
@@ -89,7 +80,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Change 1st column to Fire orbs, 6th column to Wood orbs, Deal 140% damage
-  desc_jp: Change 1st column to Fire orbs, 6th column to Wood orbs, Deal 140% damage
   max_atk_pct: 140
   name_en: Vanir Rose
   one_time: 0
@@ -97,7 +87,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 90
   one_time: null
@@ -105,7 +94,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -113,7 +101,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind 3 random cards for 3 turns
-  desc_jp: Bind 3 random cards for 3 turns
   max_atk_pct: null
   name_en: Petal Chain
   one_time: 1
@@ -121,7 +108,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -129,7 +115,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 110% damage, (if [2508, 2509] on team)
-  desc_jp: Blind all orbs on the board, Deal 110% damage, (if [2508, 2509] on team)
   max_atk_pct: 110
   name_en: Sorry, I'm tired of looking at your face
   one_time: 0
@@ -137,7 +122,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change 1st column to Fire orbs, 6th column to Wood orbs, Deal 140% damage
-  desc_jp: Change 1st column to Fire orbs, 6th column to Wood orbs, Deal 140% damage
   max_atk_pct: 140
   name_en: Vanir Rose
   one_time: 0
@@ -145,7 +129,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -153,7 +136,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Fire, Light skyfall +20% for 99 turns, (if [1950, 1951] on team)
-  desc_jp: Fire, Light skyfall +20% for 99 turns, (if [1950, 1951] on team)
   max_atk_pct: null
   name_en: You seem to be funnier than the world
   one_time: 0
@@ -161,7 +143,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 150% damage (3 hits, 50% each)
-  desc_jp: Deal 150% damage (3 hits, 50% each)
   max_atk_pct: 150
   name_en: Glass Storm
   one_time: 0
@@ -169,7 +150,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -177,7 +157,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 3rd, 4th column to Wood orbs, Deal 150% damage
-  desc_jp: Change 3rd, 4th column to Wood orbs, Deal 150% damage
   max_atk_pct: 150
   name_en: Gale Impact
   one_time: 0
@@ -185,7 +164,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 140% damage
-  desc_jp: Blind all orbs on the board, Deal 140% damage
   max_atk_pct: 140
   name_en: Floral Mist
   one_time: 0
@@ -193,7 +171,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 40
   one_time: null
@@ -201,7 +178,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -209,7 +185,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind active skills for 10 turns
-  desc_jp: Bind active skills for 10 turns
   max_atk_pct: null
   name_en: No way! I won't let you end this yet!
   one_time: 0
@@ -217,7 +192,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change 3rd, 4th column to Wood orbs, Deal 150% damage
-  desc_jp: Change 3rd, 4th column to Wood orbs, Deal 150% damage
   max_atk_pct: 150
   name_en: Gale Impact
   one_time: 0
@@ -225,7 +199,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 140% damage
-  desc_jp: Blind all orbs on the board, Deal 140% damage
   max_atk_pct: 140
   name_en: Floral Mist
   one_time: 0
@@ -233,7 +206,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -241,7 +213,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -249,7 +220,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind active skills for 10 turns
-  desc_jp: Bind active skills for 10 turns
   max_atk_pct: null
   name_en: No way! I won't let you end this yet!
   one_time: 0
@@ -257,7 +227,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 600% damage (2 hits, 300% each)
-  desc_jp: Deal 600% damage (2 hits, 300% each)
   max_atk_pct: 600
   name_en: Ventus Anima
   one_time: 0

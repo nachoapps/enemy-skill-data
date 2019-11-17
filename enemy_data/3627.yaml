@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Poison skyfall +15% for 5 turns (Preemptive)
-  desc_jp: Poison skyfall +15% for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: Dark Snow
   one_time: 1
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 150% damage (3 hits, 50% each)
-  desc_jp: Deal 150% damage (3 hits, 50% each)
   max_atk_pct: 150
   name_en: Dark Nebula
   one_time: 1
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -41,7 +38,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -50,7 +46,6 @@ records:
 - !SkillRecord
   desc_en: Do nothing + Do nothing + Do nothing + Player -150% HP, (if [3608, 3609]
     on team)
-  desc_jp: Do nothing + Do nothing + Do nothing + Player -150% HP, (if [3608, 3609]
     on team)
   max_atk_pct: null
   name_en: You are a remarkable man... + Be consumed by the darkness... + That swallows
@@ -60,7 +55,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Do nothing + Do nothing + Player -150% HP
-  desc_jp: Do nothing + Do nothing + Player -150% HP
   max_atk_pct: null
   name_en: Be consumed by the darkness... + That swallows even the void of night...
     + Dead End

@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from Physical, Attacker by 50%
-  desc_jp: Reduce damage from Physical, Attacker by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Bind awoken skills for 3 turns + Voids status ailments for 999 turns (Preemptive)
-  desc_jp: Bind awoken skills for 3 turns + Voids status ailments for 999 turns (Preemptive)
   max_atk_pct: null
   name_en: Over Slap + Grand Shield
   one_time: 4
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -41,7 +38,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind 1 random subs for 5 turns
-  desc_jp: Bind 1 random subs for 5 turns
   max_atk_pct: null
   name_en: There's no escape
   one_time: 2
@@ -49,7 +45,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -57,7 +52,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 300% damage (2 hits, 150% each)
-  desc_jp: Deal 300% damage (2 hits, 150% each)
   max_atk_pct: 300
   name_en: Wind Slash
   one_time: 0
@@ -65,7 +59,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -73,7 +66,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -81,7 +73,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind active skills for 5 turns
-  desc_jp: Bind active skills for 5 turns
   max_atk_pct: null
   name_en: Earth Cage
   one_time: 1
@@ -89,7 +80,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 360% damage (3 hits, 120% each)
-  desc_jp: Deal 360% damage (3 hits, 120% each)
   max_atk_pct: 360
   name_en: Gigas Break
   one_time: 0

@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Voids status ailments for 5 turns (Preemptive)
-  desc_jp: Voids status ailments for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: ここか、祭りの場所は…
   one_time: 2
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 100% damage
-  desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: ベノバイザー
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Spawn random 3 Poison orbs, Deal 80% damage
-  desc_jp: Spawn random 3 Poison orbs, Deal 80% damage
   max_atk_pct: 80
   name_en: ベノスネーカー
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 50
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -57,7 +52,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 5 turns
-  desc_jp: Increase damage to 150% for the next 5 turns
   max_atk_pct: null
   name_en: イライラするんだよ
   one_time: 1
@@ -65,7 +59,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Do nothing + Deal 120% damage (3 hits, 40% each)
-  desc_jp: Do nothing + Deal 120% damage (3 hits, 40% each)
   max_atk_pct: null
   name_en: ソードベント + ベノサーベル
   one_time: 0
@@ -73,7 +66,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Deal 100% damage
-  desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: ベノバイザー
   one_time: 0
@@ -81,7 +73,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Spawn random 3 Poison orbs, Deal 80% damage
-  desc_jp: Spawn random 3 Poison orbs, Deal 80% damage
   max_atk_pct: 80
   name_en: ベノスネーカー
   one_time: 0
@@ -89,7 +80,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 15
   one_time: null
@@ -97,7 +87,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Do nothing + Deal 160% damage (4 hits, 40% each)
-  desc_jp: Do nothing + Deal 160% damage (4 hits, 40% each)
   max_atk_pct: null
   name_en: ファイナルベント + ベノクラッシュ
   one_time: 0

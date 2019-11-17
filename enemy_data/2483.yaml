@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Movetime -1s for 5 turns (Preemptive)
-  desc_jp: Movetime -1s for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: Hehehehe
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 100% damage, (if [2457, 2458, 2459] on team)
-  desc_jp: Deal 100% damage, (if [2457, 2458, 2459] on team)
   max_atk_pct: 100
   name_en: Share a grave with your comrades!
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 3 Poison orbs
-  desc_jp: Spawn random 3 Poison orbs
   max_atk_pct: null
   name_en: Summoning Saimyosho
   one_time: 0
@@ -57,7 +52,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: Change Random to Poison, Deal 120% damage
-  desc_jp: Change Random to Poison, Deal 120% damage
   max_atk_pct: 120
   name_en: Miasma
   one_time: 0
@@ -65,7 +59,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 70
   one_time: null
@@ -73,7 +66,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -81,7 +73,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 100% damage, (if [2457, 2458, 2459] on team)
-  desc_jp: Deal 100% damage, (if [2457, 2458, 2459] on team)
   max_atk_pct: 100
   name_en: Share a grave with your comrades!
   one_time: 0
@@ -89,7 +80,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Absorb combo <= 3 damage for 10 turns
-  desc_jp: Absorb combo <= 3 damage for 10 turns
   max_atk_pct: null
   name_en: Barrier
   one_time: 1
@@ -97,7 +87,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -105,7 +94,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -113,7 +101,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Do nothing
-  desc_jp: Do nothing
   max_atk_pct: null
   name_en: Tentacles are spreading around
   one_time: 0
@@ -121,7 +108,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change all orbs to Mortal Poison
-  desc_jp: Change all orbs to Mortal Poison
   max_atk_pct: null
   name_en: Death by Illusion
   one_time: 0

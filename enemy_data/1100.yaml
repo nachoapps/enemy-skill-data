@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Player -99% HP (Preemptive)
-  desc_jp: Player -99% HP (Preemptive)
   max_atk_pct: null
   name_en: Abyssal Pressure
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 50% damage
-  desc_jp: Deal 50% damage
   max_atk_pct: 50
   name_en: Song of Destruction
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 100% damage
-  desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: Song of Destruction
   one_time: 0
@@ -57,7 +52,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -65,7 +59,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 200% damage
-  desc_jp: Deal 200% damage
   max_atk_pct: 200
   name_en: Song of Destruction
   one_time: 0
@@ -73,7 +66,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 4
   one_time: null
@@ -81,7 +73,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 800% damage
-  desc_jp: Deal 800% damage
   max_atk_pct: 800
   name_en: Song of Destruction
   one_time: 0
@@ -89,7 +80,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -97,7 +87,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -105,7 +94,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind Wood cards for 2~3 turns
-  desc_jp: Bind Wood cards for 2~3 turns
   max_atk_pct: null
   name_en: Voice of Misfortune
   one_time: 1
@@ -113,7 +101,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 50% damage
-  desc_jp: Deal 50% damage
   max_atk_pct: 50
   name_en: Song of Destruction
   one_time: 0
@@ -121,7 +108,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -129,7 +115,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 100% damage
-  desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: Song of Destruction
   one_time: 0
@@ -137,7 +122,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -145,7 +129,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 200% damage
-  desc_jp: Deal 200% damage
   max_atk_pct: 200
   name_en: Song of Destruction
   one_time: 0
@@ -153,7 +136,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -161,7 +143,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 800% damage
-  desc_jp: Deal 800% damage
   max_atk_pct: 800
   name_en: Song of Destruction
   one_time: 0
@@ -169,7 +150,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 4
   one_time: null
@@ -177,7 +157,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 50% damage
-  desc_jp: Deal 50% damage
   max_atk_pct: 50
   name_en: Song of Destruction
   one_time: 0

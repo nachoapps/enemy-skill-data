@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Bind 1 random subs for 2~3 turns (Preemptive)
-  desc_jp: Bind 1 random subs for 2~3 turns (Preemptive)
   max_atk_pct: null
   name_en: You're not getting through.
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 2nd, 4th column to Light orbs, Deal 80% damage
-  desc_jp: Change 2nd, 4th column to Light orbs, Deal 80% damage
   max_atk_pct: 80
   name_en: Legendary Golden Horn
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind 1 random for 1 turns, Deal 100% damage
-  desc_jp: Bind 1 random for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: First Edelweiss
   one_time: 1

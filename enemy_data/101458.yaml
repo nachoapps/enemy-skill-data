@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Bind awoken skills for 6 turns, Deal
     100% damage (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Bind awoken skills for 6 turns, Deal
     100% damage (Preemptive)
   max_atk_pct: null
   name_en: OOPArt Effect + Wisdom from Very Ancient Times
@@ -27,7 +26,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -35,7 +33,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -99% HP
-  desc_jp: Player -99% HP
   max_atk_pct: null
   name_en: Weight of the Trilithon
   one_time: 0
@@ -43,7 +40,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Change Random to Jammer, Deal 80% damage
-  desc_jp: Change Random to Jammer, Deal 80% damage
   max_atk_pct: 80
   name_en: Glyph of Plunder, Monkey
   one_time: 0
@@ -51,7 +47,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Deal 120% damage (2 hits, 60% each)
-  desc_jp: Deal 120% damage (2 hits, 60% each)
   max_atk_pct: 120
   name_en: Crystal Fang
   one_time: 0
@@ -59,7 +54,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: Deal 140% damage (7 hits, 20% each)
-  desc_jp: Deal 140% damage (7 hits, 20% each)
   max_atk_pct: 140
   name_en: Annihilating Light of the Pleiades
   one_time: 0
@@ -67,7 +61,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -76,7 +69,6 @@ records:
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 200% damage + Change own attribute to
     random one of Fire, Water, Wood, Light, Dark
-  desc_jp: Blind all orbs on the board, Deal 200% damage + Change own attribute to
     random one of Fire, Water, Wood, Light, Dark
   max_atk_pct: null
   name_en: Cattle Mutilation + Full Element
@@ -85,7 +77,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 3
   one_time: null
@@ -93,7 +84,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -99% HP
-  desc_jp: Player -99% HP
   max_atk_pct: null
   name_en: Weight of the Trilithon
   one_time: 0
@@ -101,7 +91,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Change Random to Jammer, Deal 80% damage
-  desc_jp: Change Random to Jammer, Deal 80% damage
   max_atk_pct: 80
   name_en: Glyph of Plunder, Monkey
   one_time: 0
@@ -109,7 +98,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Deal 120% damage (2 hits, 60% each)
-  desc_jp: Deal 120% damage (2 hits, 60% each)
   max_atk_pct: 120
   name_en: Crystal Fang
   one_time: 0
@@ -117,7 +105,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: Deal 140% damage (7 hits, 20% each)
-  desc_jp: Deal 140% damage (7 hits, 20% each)
   max_atk_pct: 140
   name_en: Annihilating Light of the Pleiades
   one_time: 0
@@ -125,7 +112,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -133,7 +119,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -141,7 +126,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Movetime -2s for 5 turns
-  desc_jp: Movetime -2s for 5 turns
   max_atk_pct: null
   name_en: Lost Technology
   one_time: 0
@@ -149,7 +133,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -158,7 +141,6 @@ records:
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 200% damage + Change own attribute to
     random one of Fire, Water, Wood, Light, Dark
-  desc_jp: Blind all orbs on the board, Deal 200% damage + Change own attribute to
     random one of Fire, Water, Wood, Light, Dark
   max_atk_pct: null
   name_en: Cattle Mutilation + Full Element
@@ -167,7 +149,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2-3
   one_time: null
@@ -175,7 +156,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -99% HP
-  desc_jp: Player -99% HP
   max_atk_pct: null
   name_en: Weight of the Trilithon
   one_time: 0
@@ -183,7 +163,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Change Random to Jammer, Deal 80% damage
-  desc_jp: Change Random to Jammer, Deal 80% damage
   max_atk_pct: 80
   name_en: Glyph of Plunder, Monkey
   one_time: 0
@@ -191,7 +170,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Deal 120% damage (2 hits, 60% each)
-  desc_jp: Deal 120% damage (2 hits, 60% each)
   max_atk_pct: 120
   name_en: Crystal Fang
   one_time: 0
@@ -199,7 +177,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: Deal 140% damage (7 hits, 20% each)
-  desc_jp: Deal 140% damage (7 hits, 20% each)
   max_atk_pct: 140
   name_en: Annihilating Light of the Pleiades
   one_time: 0
@@ -207,7 +184,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -215,7 +191,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 300% damage (3 hits, 100% each)
-  desc_jp: Deal 300% damage (3 hits, 100% each)
   max_atk_pct: 300
   name_en: Gear Tempest
   one_time: 0

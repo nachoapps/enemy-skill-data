@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Change all orbs to Heal (Preemptive)
-  desc_jp: Change all orbs to Heal (Preemptive)
   max_atk_pct: null
   name_en: Guard Stance-Water
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Bind 1 subs for 2 turns, Deal 80% damage (Preemptive)
-  desc_jp: Bind 1 subs for 2 turns, Deal 80% damage (Preemptive)
   max_atk_pct: 80
   name_en: The Sound of Confinement
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -41,7 +38,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 6th column to Poison orbs
-  desc_jp: Change 6th column to Poison orbs
   max_atk_pct: null
   name_en: Noise Affliction
   one_time: 1
@@ -49,7 +45,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -57,7 +52,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind 1 subs for 2 turns, Deal 80% damage
-  desc_jp: Bind 1 subs for 2 turns, Deal 80% damage
   max_atk_pct: 80
   name_en: The Sound of Confinement
   one_time: 0
@@ -65,7 +59,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Spawn random 1 Water orbs, Deal 100% damage
-  desc_jp: Spawn random 1 Water orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Sparkling Voice
   one_time: 0

@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from Water by 50%
-  desc_jp: Reduce damage from Water by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -26,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Void damage >= 25000000 for 999 turns
     + Unable to match Fire orbs for 1 turns, Deal 120% damage (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Void damage >= 25000000 for 999 turns
     + Unable to match Fire orbs for 1 turns, Deal 120% damage (Preemptive)
   max_atk_pct: null
   name_en: Water & Light Divine View + One Stoke of the Rain Dragon's Cloud + Leaving
@@ -37,7 +35,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Void damage >= 25000000 for 999 turns
     + Unable to match Water orbs for 1 turns, Deal 120% damage (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Void damage >= 25000000 for 999 turns
     + Unable to match Water orbs for 1 turns, Deal 120% damage (Preemptive)
   max_atk_pct: null
   name_en: Water & Light Divine View + One Stoke of the Rain Dragon's Cloud + Leaving
@@ -48,7 +45,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Void damage >= 25000000 for 999 turns
     + Unable to match Wood orbs for 1 turns, Deal 120% damage (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Void damage >= 25000000 for 999 turns
     + Unable to match Wood orbs for 1 turns, Deal 120% damage (Preemptive)
   max_atk_pct: null
   name_en: Water & Light Divine View + One Stoke of the Rain Dragon's Cloud + Leaving
@@ -59,7 +55,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Void damage >= 25000000 for 999 turns
     + Unable to match Light orbs for 1 turns, Deal 120% damage (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Void damage >= 25000000 for 999 turns
     + Unable to match Light orbs for 1 turns, Deal 120% damage (Preemptive)
   max_atk_pct: null
   name_en: Water & Light Divine View + One Stoke of the Rain Dragon's Cloud + Leaving
@@ -70,7 +65,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Void damage >= 25000000 for 999 turns
     + Unable to match Dark orbs for 1 turns, Deal 120% damage (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Void damage >= 25000000 for 999 turns
     + Unable to match Dark orbs for 1 turns, Deal 120% damage (Preemptive)
   max_atk_pct: null
   name_en: Water & Light Divine View + One Stoke of the Rain Dragon's Cloud + Leaving
@@ -80,7 +74,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -88,7 +81,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Unable to match Fire orbs for 1 turns, Deal 120% damage
-  desc_jp: Unable to match Fire orbs for 1 turns, Deal 120% damage
   max_atk_pct: 120
   name_en: Leaving it to the Fortune of Chance
   one_time: 1
@@ -96,7 +88,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Unable to match Water orbs for 1 turns, Deal 120% damage
-  desc_jp: Unable to match Water orbs for 1 turns, Deal 120% damage
   max_atk_pct: 120
   name_en: Leaving it to the Fortune of Chance
   one_time: 1
@@ -104,7 +95,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Unable to match Wood orbs for 1 turns, Deal 120% damage
-  desc_jp: Unable to match Wood orbs for 1 turns, Deal 120% damage
   max_atk_pct: 120
   name_en: Leaving it to the Fortune of Chance
   one_time: 1
@@ -112,7 +102,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Unable to match Light orbs for 1 turns, Deal 120% damage
-  desc_jp: Unable to match Light orbs for 1 turns, Deal 120% damage
   max_atk_pct: 120
   name_en: Leaving it to the Fortune of Chance
   one_time: 1
@@ -120,7 +109,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Unable to match Dark orbs for 1 turns, Deal 120% damage
-  desc_jp: Unable to match Dark orbs for 1 turns, Deal 120% damage
   max_atk_pct: 120
   name_en: Leaving it to the Fortune of Chance
   one_time: 1
@@ -128,7 +116,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -137,7 +124,6 @@ records:
 - !SkillRecord
   desc_en: Change 1st, 6th column to Water, Jammer, Poison orbs, Deal 50% damage +
     Reduce damage from all sources by 50% for 1 turns, Deal 50% damage
-  desc_jp: Change 1st, 6th column to Water, Jammer, Poison orbs, Deal 50% damage +
     Reduce damage from all sources by 50% for 1 turns, Deal 50% damage
   max_atk_pct: null
   name_en: Ocean Wave of the Mighty Rivals + Attack and Defense Splash
@@ -147,7 +133,6 @@ records:
 - !SkillRecord
   desc_en: Change 1st, 5th row to Water, Jammer, Poison orbs, Deal 50% damage + Bind
     2 subs for 1~2 turns, Deal 50% damage
-  desc_jp: Change 1st, 5th row to Water, Jammer, Poison orbs, Deal 50% damage + Bind
     2 subs for 1~2 turns, Deal 50% damage
   max_atk_pct: null
   name_en: Ocean Wave of the Mighty Rivals + God's Will of the Playful Dream
@@ -156,7 +141,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -164,7 +148,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -173,7 +156,6 @@ records:
 - !SkillRecord
   desc_en: Blind random 15 orbs for 5 turns + 2x5 cloud appear for 10 turns at 1st
     row, 3rd column
-  desc_jp: Blind random 15 orbs for 5 turns + 2x5 cloud appear for 10 turns at 1st
     row, 3rd column
   max_atk_pct: null
   name_en: Finishing Touch Towards Accomplishment + Fury Overflow of Righteous Indignation
@@ -182,7 +164,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
   one_time: null
@@ -190,7 +171,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Voids player buff effects + Deal 1600% damage (4 hits, 400% each)
-  desc_jp: Voids player buff effects + Deal 1600% damage (4 hits, 400% each)
   max_atk_pct: null
   name_en: A Bolt Out of the Blue + Life & Death are ruled by fate
   one_time: 0

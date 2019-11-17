@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Delay active skills by 10 turns + Absorb damage >= 1000000 damage for 99
     turns (Preemptive)
-  desc_jp: Delay active skills by 10 turns + Absorb damage >= 1000000 damage for 99
     turns (Preemptive)
   max_atk_pct: null
   name_en: Fight is Everything!! + Vayu's Divine Protection
@@ -27,7 +26,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -35,7 +33,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Heal skyfall +10% for 5 turns, Deal 100% damage
-  desc_jp: Heal skyfall +10% for 5 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Prasaadah Tapah
   one_time: 8
@@ -43,7 +40,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -51,7 +47,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 3 Heal orbs, Deal 130% damage
-  desc_jp: Spawn random 3 Heal orbs, Deal 130% damage
   max_atk_pct: 130
   name_en: Maitrii Kleza
   one_time: 4
@@ -59,7 +54,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -67,7 +61,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 110% damage
-  desc_jp: Blind all orbs on the board, Deal 110% damage
   max_atk_pct: 110
   name_en: Darsana Layaanaam
   one_time: 2
@@ -75,7 +68,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -83,7 +75,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -91,7 +82,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -99% HP
-  desc_jp: Player -99% HP
   max_atk_pct: null
   name_en: Pramaada Dukkha
   one_time: 0
@@ -99,7 +89,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -107,7 +96,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Enemy recover 5%~8% hp, Deal 100% damage
-  desc_jp: Enemy recover 5%~8% hp, Deal 100% damage
   max_atk_pct: 100
   name_en: Aatma Yogah
   one_time: 0
@@ -115,7 +103,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -123,7 +110,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 132% damage (3 hits, 44% each)
-  desc_jp: Deal 132% damage (3 hits, 44% each)
   max_atk_pct: 132
   name_en: Nairantarya
   one_time: 0
@@ -131,7 +117,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 4
   one_time: null
@@ -139,7 +124,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb combo <= 6 damage for 1 turns, Deal 140% damage
-  desc_jp: Absorb combo <= 6 damage for 1 turns, Deal 140% damage
   max_atk_pct: 140
   name_en: Guruh Karma
   one_time: 0
@@ -147,7 +131,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -155,7 +138,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -163,7 +145,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind 1 random for 3 turns, Deal 150% damage
-  desc_jp: Bind 1 random for 3 turns, Deal 150% damage
   max_atk_pct: 150
   name_en: Pratibandhii
   one_time: 1
@@ -171,7 +152,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
   one_time: null
@@ -179,7 +159,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -187,7 +166,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Heal to Jammer, Deal 160% damage
-  desc_jp: Change Heal to Jammer, Deal 160% damage
   max_atk_pct: 160
   name_en: Pratisedha
   one_time: 0
@@ -195,7 +173,6 @@ records:
   usage_pct: 15
 - !SkillRecord
   desc_en: Player -99% HP
-  desc_jp: Player -99% HP
   max_atk_pct: null
   name_en: Pramaada Dukkha
   one_time: 0
@@ -203,7 +180,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -211,7 +187,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Heal to Jammer, Deal 160% damage
-  desc_jp: Change Heal to Jammer, Deal 160% damage
   max_atk_pct: 160
   name_en: Pratisedha
   one_time: 0
@@ -219,7 +194,6 @@ records:
   usage_pct: 15
 - !SkillRecord
   desc_en: Enemy recover 5%~8% hp, Deal 100% damage
-  desc_jp: Enemy recover 5%~8% hp, Deal 100% damage
   max_atk_pct: 100
   name_en: Aatma Yogah
   one_time: 0
@@ -227,7 +201,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -235,7 +208,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Heal to Jammer, Deal 160% damage
-  desc_jp: Change Heal to Jammer, Deal 160% damage
   max_atk_pct: 160
   name_en: Pratisedha
   one_time: 0
@@ -243,7 +215,6 @@ records:
   usage_pct: 15
 - !SkillRecord
   desc_en: Deal 132% damage (3 hits, 44% each)
-  desc_jp: Deal 132% damage (3 hits, 44% each)
   max_atk_pct: 132
   name_en: Nairantarya
   one_time: 0
@@ -251,7 +222,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 4
   one_time: null
@@ -259,7 +229,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Heal to Jammer, Deal 160% damage
-  desc_jp: Change Heal to Jammer, Deal 160% damage
   max_atk_pct: 160
   name_en: Pratisedha
   one_time: 0
@@ -267,7 +236,6 @@ records:
   usage_pct: 15
 - !SkillRecord
   desc_en: Absorb combo <= 6 damage for 1 turns, Deal 140% damage
-  desc_jp: Absorb combo <= 6 damage for 1 turns, Deal 140% damage
   max_atk_pct: 140
   name_en: Guruh Karma
   one_time: 0
@@ -275,7 +243,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
   one_time: null
@@ -283,7 +250,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 300% damage (3 hits, 100% each)
-  desc_jp: Deal 300% damage (3 hits, 100% each)
   max_atk_pct: 300
   name_en: Daurmanasya
   one_time: 0

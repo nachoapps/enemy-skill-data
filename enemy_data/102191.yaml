@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 76%
-  desc_jp: Survive attacks with 1 HP when HP > 76%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -26,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 5 turns + Change all orbs to Water, Wood, Light,
     Dark, Poison (Preemptive)
-  desc_jp: Voids status ailments for 5 turns + Change all orbs to Water, Wood, Light,
     Dark, Poison (Preemptive)
   max_atk_pct: null
   name_en: Arctic Coating + Frozen Grounds
@@ -35,7 +33,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Jammer to Water, Deal 300% damage
-  desc_jp: Change Jammer to Water, Deal 300% damage
   max_atk_pct: 300
   name_en: Auto Sweeper
   one_time: 0
@@ -43,7 +40,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Poison to Water, Deal 250% damage
-  desc_jp: Change Poison to Water, Deal 250% damage
   max_atk_pct: 250
   name_en: Auto Freezer
   one_time: 0
@@ -52,7 +48,6 @@ records:
 - !SkillRecord
   desc_en: Change 6th column to Water orbs, Deal 100% damage + Blind all orbs on the
     board
-  desc_jp: Change 6th column to Water orbs, Deal 100% damage + Blind all orbs on the
     board
   max_atk_pct: null
   name_en: Blizzard Signal + Steam Release
@@ -62,7 +57,6 @@ records:
 - !SkillRecord
   desc_en: Change 6th column to Water orbs, Deal 100% damage + Change Random 3 to
     Poison
-  desc_jp: Change 6th column to Water orbs, Deal 100% damage + Change Random 3 to
     Poison
   max_atk_pct: null
   name_en: Blizzard Signal + Toxic Gas Cloud
@@ -72,7 +66,6 @@ records:
 - !SkillRecord
   desc_en: Change 6th column to Water orbs, Deal 100% damage + Spawn random 3 Jammer
     orbs
-  desc_jp: Change 6th column to Water orbs, Deal 100% damage + Spawn random 3 Jammer
     orbs
   max_atk_pct: null
   name_en: Blizzard Signal + Scattered Clump of Earth
@@ -81,7 +74,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 75
   one_time: null
@@ -89,7 +81,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -97,7 +88,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Jammer to Water, Deal 300% damage
-  desc_jp: Change Jammer to Water, Deal 300% damage
   max_atk_pct: 300
   name_en: Auto Sweeper
   one_time: 0
@@ -105,7 +95,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Poison to Water, Deal 250% damage
-  desc_jp: Change Poison to Water, Deal 250% damage
   max_atk_pct: 250
   name_en: Auto Freezer
   one_time: 0
@@ -114,7 +103,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Water damage for 3 turns + Change 5th, 6th column to Water orbs,
     Deal 160% damage
-  desc_jp: Absorb Water damage for 3 turns + Change 5th, 6th column to Water orbs,
     Deal 160% damage
   max_atk_pct: null
   name_en: Sapphire Drive + Blizzard Double Signal
@@ -123,7 +111,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -131,7 +118,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Jammer to Water, Deal 300% damage
-  desc_jp: Change Jammer to Water, Deal 300% damage
   max_atk_pct: 300
   name_en: Auto Sweeper
   one_time: 0
@@ -139,7 +125,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Poison to Water, Deal 250% damage
-  desc_jp: Change Poison to Water, Deal 250% damage
   max_atk_pct: 250
   name_en: Auto Freezer
   one_time: 0
@@ -147,7 +132,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change 1st, 2nd, 3rd, 4th, 5th, 6th row to Water orbs, Deal 600% damage
-  desc_jp: Change 1st, 2nd, 3rd, 4th, 5th, 6th row to Water orbs, Deal 600% damage
   max_atk_pct: 600
   name_en: Blizzard All Signal
   one_time: 0
@@ -155,7 +139,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Enemy is defeated
   one_time: null
@@ -163,7 +146,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Jammer to Water, Deal 300% damage
-  desc_jp: Change Jammer to Water, Deal 300% damage
   max_atk_pct: 300
   name_en: Auto Sweeper
   one_time: 0
@@ -171,7 +153,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Poison to Water, Deal 250% damage
-  desc_jp: Change Poison to Water, Deal 250% damage
   max_atk_pct: 250
   name_en: Auto Freezer
   one_time: 0
@@ -180,7 +161,6 @@ records:
 - !SkillRecord
   desc_en: Change 1st, 2nd, 3rd, 4th, 5th, 6th row to Water orbs, Deal 600% damage
     + Enemy recover 76% hp
-  desc_jp: Change 1st, 2nd, 3rd, 4th, 5th, 6th row to Water orbs, Deal 600% damage
     + Enemy recover 76% hp
   max_atk_pct: null
   name_en: Blizzard All Signal + Metal Repair

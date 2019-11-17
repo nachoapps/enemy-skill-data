@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Do nothing
-  desc_jp: Do nothing
   max_atk_pct: null
   name_en: アイスクリームはおいしいな！
   one_time: 0
@@ -33,7 +32,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Do nothing
-  desc_jp: Do nothing
   max_atk_pct: null
   name_en: アイスクリームはおいしいな！
   one_time: 0
@@ -41,7 +39,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Change Random to Wood, Deal 80% damage
-  desc_jp: Change Random to Wood, Deal 80% damage
   max_atk_pct: 80
   name_en: 抹茶
   one_time: 1

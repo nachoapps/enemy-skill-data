@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Change Random 2 to Jammer (Preemptive)
-  desc_jp: Change Random 2 to Jammer (Preemptive)
   max_atk_pct: null
   name_en: Blow it hard!
   one_time: 0
@@ -26,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Deal 60%
     damage
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Deal 60%
     damage
   max_atk_pct: 60
   name_en: Shakuhachi Whirlwind
@@ -35,7 +33,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: When 1 enemy remains
   one_time: null
@@ -43,7 +40,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -51,7 +47,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 300% for the next 999 turns
-  desc_jp: Increase damage to 300% for the next 999 turns
   max_atk_pct: null
   name_en: Demon Solo
   one_time: 0
@@ -59,7 +54,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -67,7 +61,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Wood skyfall +15% for 10 turns, Deal 50% damage
-  desc_jp: Wood skyfall +15% for 10 turns, Deal 50% damage
   max_atk_pct: 50
   name_en: Resonating Wood
   one_time: 0

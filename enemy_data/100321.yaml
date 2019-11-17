@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Water, Wood + Reduce damage
     from all sources by 50% for 5 turns (Preemptive)
-  desc_jp: Change own attribute to random one of Fire, Water, Wood + Reduce damage
     from all sources by 50% for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: Rainbow Armor + Miracle Shield
@@ -27,7 +26,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -35,7 +33,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Water, Wood, Light, Dark
-  desc_jp: Change own attribute to random one of Fire, Water, Wood, Light, Dark
   max_atk_pct: null
   name_en: Rainbow Armor
   one_time: 8
@@ -43,7 +40,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -51,7 +47,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Water, Wood, Light, Dark
-  desc_jp: Change own attribute to random one of Fire, Water, Wood, Light, Dark
   max_atk_pct: null
   name_en: Rainbow Armor
   one_time: 4
@@ -59,7 +54,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -67,7 +61,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Water, Wood, Light, Dark
-  desc_jp: Change own attribute to random one of Fire, Water, Wood, Light, Dark
   max_atk_pct: null
   name_en: Rainbow Armor
   one_time: 2
@@ -75,7 +68,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -83,7 +75,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Water, Wood, Light, Dark
-  desc_jp: Change own attribute to random one of Fire, Water, Wood, Light, Dark
   max_atk_pct: null
   name_en: Rainbow Armor
   one_time: 1
@@ -91,7 +82,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -99,7 +89,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind awoken skills for 1 turns + Deal 6000% damage (10 hits, 600% each)
-  desc_jp: Bind awoken skills for 1 turns + Deal 6000% damage (10 hits, 600% each)
   max_atk_pct: null
   name_en: Shield Smash + Ultimate Lance
   one_time: 0

@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 7 turns + Reduce damage from all sources by 75%
     for 3 turns (Preemptive)
-  desc_jp: Voids status ailments for 7 turns + Reduce damage from all sources by 75%
     for 3 turns (Preemptive)
   max_atk_pct: null
   name_en: Let's battle! + I wonder if you can strike me down
@@ -27,7 +26,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1-2
   one_time: null
@@ -35,7 +33,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Jammer to Heal, Deal 150% damage
-  desc_jp: Change Jammer to Heal, Deal 150% damage
   max_atk_pct: 150
   name_en: Taghyir Zahar
   one_time: 0
@@ -43,7 +40,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Spawn random 7 Jammer orbs, Deal 100% damage
-  desc_jp: Spawn random 7 Jammer orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Sune Kaburya
   one_time: 0
@@ -51,7 +47,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Deal 110% damage (2 hits, 55% each)
-  desc_jp: Deal 110% damage (2 hits, 55% each)
   max_atk_pct: 110
   name_en: Athnan Maqas
   one_time: 0
@@ -59,7 +54,6 @@ records:
   usage_pct: 34
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -67,7 +61,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind awoken skills for 1 turns
-  desc_jp: Bind awoken skills for 1 turns
   max_atk_pct: null
   name_en: Well, what are you going to do?
   one_time: 4
@@ -75,7 +68,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Bind awoken skills for 3 turns
-  desc_jp: Bind awoken skills for 3 turns
   max_atk_pct: null
   name_en: What are you doing?!
   one_time: 2
@@ -83,7 +75,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Bind active skills for 3 turns
-  desc_jp: Bind active skills for 3 turns
   max_atk_pct: null
   name_en: Gotcha!
   one_time: 2
@@ -91,7 +82,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Jammer to Heal, Deal 150% damage
-  desc_jp: Change Jammer to Heal, Deal 150% damage
   max_atk_pct: 150
   name_en: Taghyir Zahar
   one_time: 0
@@ -99,7 +89,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Spawn random 7 Jammer orbs, Deal 100% damage
-  desc_jp: Spawn random 7 Jammer orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Sune Kaburya
   one_time: 0
@@ -107,7 +96,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Deal 110% damage (2 hits, 55% each)
-  desc_jp: Deal 110% damage (2 hits, 55% each)
   max_atk_pct: 110
   name_en: Athnan Maqas
   one_time: 0
@@ -115,7 +103,6 @@ records:
   usage_pct: 34
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -123,7 +110,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind awoken skills for 3 turns
-  desc_jp: Bind awoken skills for 3 turns
   max_atk_pct: null
   name_en: What are you doing?!
   one_time: 2
@@ -131,7 +117,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Bind active skills for 3 turns
-  desc_jp: Bind active skills for 3 turns
   max_atk_pct: null
   name_en: Gotcha!
   one_time: 2
@@ -139,7 +124,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Jammer to Heal, Deal 150% damage
-  desc_jp: Change Jammer to Heal, Deal 150% damage
   max_atk_pct: 150
   name_en: Taghyir Zahar
   one_time: 0
@@ -147,7 +131,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Spawn random 7 Jammer orbs, Deal 100% damage
-  desc_jp: Spawn random 7 Jammer orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Sune Kaburya
   one_time: 0
@@ -155,7 +138,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Deal 110% damage (2 hits, 55% each)
-  desc_jp: Deal 110% damage (2 hits, 55% each)
   max_atk_pct: 110
   name_en: Athnan Maqas
   one_time: 0
@@ -163,7 +145,6 @@ records:
   usage_pct: 34
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
   one_time: null
@@ -171,7 +152,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Delay active skills by 10 turns
-  desc_jp: Delay active skills by 10 turns
   max_atk_pct: null
   name_en: You're in trouble now!
   one_time: 1
@@ -179,7 +159,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -187,7 +166,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Jammer to Heal, Deal 150% damage
-  desc_jp: Change Jammer to Heal, Deal 150% damage
   max_atk_pct: 150
   name_en: Taghyir Zahar
   one_time: 0
@@ -195,7 +173,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Spawn random 7 Jammer orbs, Deal 100% damage
-  desc_jp: Spawn random 7 Jammer orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Sune Kaburya
   one_time: 0
@@ -203,7 +180,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Deal 110% damage (2 hits, 55% each)
-  desc_jp: Deal 110% damage (2 hits, 55% each)
   max_atk_pct: 110
   name_en: Athnan Maqas
   one_time: 0
@@ -211,7 +187,6 @@ records:
   usage_pct: 34
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -219,7 +194,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -228,7 +202,6 @@ records:
 - !SkillRecord
   desc_en: Absorb combo <= 7 damage for 10 turns + Change 1st column to Water, Jammer
     orbs, 6th column to Fire, Jammer orbs, Deal 100% damage
-  desc_jp: Absorb combo <= 7 damage for 10 turns + Change 1st column to Water, Jammer
     orbs, 6th column to Fire, Jammer orbs, Deal 100% damage
   max_atk_pct: null
   name_en: I'm...not done...yet + Athnan Musmar
@@ -237,7 +210,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 15
   one_time: null
@@ -245,7 +217,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 450% damage (3 hits, 150% each)
-  desc_jp: Deal 450% damage (3 hits, 150% each)
   max_atk_pct: 450
   name_en: This is my victory!
   one_time: 0

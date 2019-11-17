@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Spawn random 1 Poison orbs (Preemptive)
-  desc_jp: Spawn random 1 Poison orbs (Preemptive)
   max_atk_pct: null
   name_en: Souvenir
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Spawn random 1 Poison orbs
-  desc_jp: Spawn random 1 Poison orbs
   max_atk_pct: null
   name_en: Souvenir
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: When 2 enemy remains
   one_time: null
@@ -41,7 +38,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 300% damage (3 hits, 100% each)
-  desc_jp: Deal 300% damage (3 hits, 100% each)
   max_atk_pct: 300
   name_en: Quick Attack
   one_time: 0

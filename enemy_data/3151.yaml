@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Spawn random 15 Heal orbs (Preemptive)
-  desc_jp: Spawn random 15 Heal orbs (Preemptive)
   max_atk_pct: null
   name_en: What a good feeling!♪
   one_time: 4
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Delay active skills by 6 turns
-  desc_jp: Delay active skills by 6 turns
   max_atk_pct: null
   name_en: Let's chill out!♪
   one_time: 2
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -50,7 +46,6 @@ records:
 - !SkillRecord
   desc_en: Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 95% damage
-  desc_jp: Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 95% damage
   max_atk_pct: 95
   name_en: I don't want to move!
@@ -59,7 +54,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 110% damage
-  desc_jp: Deal 110% damage
   max_atk_pct: 110
   name_en: Rolling, rolling!
   one_time: 0
@@ -67,7 +61,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -75,7 +68,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -83,7 +75,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Poison skyfall +20% for 5 turns
-  desc_jp: Poison skyfall +20% for 5 turns
   max_atk_pct: null
   name_en: Oh! Sun shower!
   one_time: 1
@@ -91,7 +82,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 20
   one_time: null
@@ -99,7 +89,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 245% damage (7 hits, 35% each)
-  desc_jp: Deal 245% damage (7 hits, 35% each)
   max_atk_pct: 245
   name_en: Northern Seven-Star Formation
   one_time: 0

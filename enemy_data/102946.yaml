@@ -18,7 +18,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 90%
-  desc_jp: Survive attacks with 1 HP when HP > 90%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -26,7 +25,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Bind awoken skills for 7 turns + Voids status ailments for 999 turns (Preemptive)
-  desc_jp: Bind awoken skills for 7 turns + Voids status ailments for 999 turns (Preemptive)
   max_atk_pct: null
   name_en: Gleaming Queen's Whisper + Protection of the Gods
   one_time: 0
@@ -34,7 +32,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -42,7 +39,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind 1 subs for 10 turns, Deal 400% damage
-  desc_jp: Bind 1 subs for 10 turns, Deal 400% damage
   max_atk_pct: 400
   name_en: Bolt Arrow
   one_time: 2
@@ -50,7 +46,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -58,7 +53,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Dark to Light, Deal 280% damage
-  desc_jp: Change Dark to Light, Deal 280% damage
   max_atk_pct: 280
   name_en: Shine Blast
   one_time: 0
@@ -66,7 +60,6 @@ records:
   usage_pct: 60
 - !SkillRecord
   desc_en: Movetime -1s for 1 turns, Deal 280% damage
-  desc_jp: Movetime -1s for 1 turns, Deal 280% damage
   max_atk_pct: 280
   name_en: Resting Pulse
   one_time: 0
@@ -74,7 +67,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -82,7 +74,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -90,7 +81,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb combo <= 8 damage for 8 turns
-  desc_jp: Absorb combo <= 8 damage for 8 turns
   max_atk_pct: null
   name_en: Gleaming Queen's Trial
   one_time: 1
@@ -98,7 +88,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3-9
   one_time: null
@@ -107,7 +96,6 @@ records:
 - !SkillRecord
   desc_en: Fix orb movement starting point to random position on the board, Deal 300%
     damage
-  desc_jp: Fix orb movement starting point to random position on the board, Deal 300%
     damage
   max_atk_pct: 300
   name_en: Gleaming Chains
@@ -116,7 +104,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Player -99% HP + Deal 15000% damage (5 hits, 3000% each)
-  desc_jp: Player -99% HP + Deal 15000% damage (5 hits, 3000% each)
   max_atk_pct: null
   name_en: Sorry + Gleaming Queen's Judgment
   one_time: 0

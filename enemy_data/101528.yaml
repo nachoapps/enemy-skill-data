@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Absorb combo <= 5 damage for 3 turns (Preemptive)
-  desc_jp: Absorb combo <= 5 damage for 3 turns (Preemptive)
   max_atk_pct: null
   name_en: Hidden Among the Leaves
   one_time: 4
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind orbs in specific positions for 1 turns, Deal 100% damage
-  desc_jp: Blind orbs in specific positions for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: 'Tree Escape: Into the Clearing'
   one_time: 2
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 1000% for the next 1 turns
-  desc_jp: Increase damage to 1000% for the next 1 turns
   max_atk_pct: null
   name_en: Sword at the Ready
   one_time: 1
@@ -57,7 +52,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -65,7 +59,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 600% damage (2 hits, 300% each)
-  desc_jp: Deal 600% damage (2 hits, 300% each)
   max_atk_pct: 600
   name_en: 'Sarutobi Style: Heaven''s Blade'
   one_time: 0

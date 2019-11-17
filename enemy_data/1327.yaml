@@ -18,7 +18,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 75% damage
-  desc_jp: Blind all orbs on the board, Deal 75% damage
   max_atk_pct: 75
   name_en: Medjebeam
   one_time: 0
@@ -26,7 +25,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Change Random 9 to Poison, Deal 100% damage
-  desc_jp: Change Random 9 to Poison, Deal 100% damage
   max_atk_pct: 100
   name_en: Hell Poison Breath
   one_time: 0

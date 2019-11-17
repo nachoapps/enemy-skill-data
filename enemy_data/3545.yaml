@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from Light by 50%
-  desc_jp: Reduce damage from Light by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Absorb combo <= 6 damage for 999 turns (Preemptive)
-  desc_jp: Absorb combo <= 6 damage for 999 turns (Preemptive)
   max_atk_pct: null
   name_en: Lucent Ring
   one_time: 1
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: When afflicted by delay/poison
   one_time: null
@@ -41,7 +38,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 200% for the next 999 turns
-  desc_jp: Increase damage to 200% for the next 999 turns
   max_atk_pct: null
   name_en: Draco Radiance
   one_time: 0
@@ -49,7 +45,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -58,7 +53,6 @@ records:
 - !SkillRecord
   desc_en: Enemy recover 50% hp + Change all orbs to Fire, Water, Wood, Light, Dark,
     Heal, Jammer, Deal 300% damage
-  desc_jp: Enemy recover 50% hp + Change all orbs to Fire, Water, Wood, Light, Dark,
     Heal, Jammer, Deal 300% damage
   max_atk_pct: null
   name_en: Life Benediction + Iris Genesis

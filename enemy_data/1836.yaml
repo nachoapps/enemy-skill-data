@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Lock all Poison, Mortal Poison orbs (Preemptive)
-  desc_jp: Lock all Poison, Mortal Poison orbs (Preemptive)
   max_atk_pct: null
   name_en: Medjetic Eye
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Bind awoken skills for 2 turns (Preemptive)
-  desc_jp: Bind awoken skills for 2 turns (Preemptive)
   max_atk_pct: null
   name_en: Medjetic Eye
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -42,7 +39,6 @@ records:
 - !SkillRecord
   desc_en: Lock 1 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 100% damage
-  desc_jp: Lock 1 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Medje Kick
@@ -51,7 +47,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -59,7 +54,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Delay active skills by 1 turns, Deal 80% damage
-  desc_jp: Delay active skills by 1 turns, Deal 80% damage
   max_atk_pct: 80
   name_en: Medje Tackle
   one_time: 0
@@ -67,7 +61,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -75,7 +68,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -83,7 +75,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Leader changes to random sub for 3 turns
-  desc_jp: Leader changes to random sub for 3 turns
   max_atk_pct: null
   name_en: Medjellusion
   one_time: 0
@@ -91,7 +82,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 15
   one_time: null
@@ -99,7 +89,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -107,7 +96,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind active skills for 5 turns
-  desc_jp: Bind active skills for 5 turns
   max_atk_pct: null
   name_en: Maga Maga
   one_time: 0
@@ -115,7 +103,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 240% damage (3 hits, 80% each)
-  desc_jp: Deal 240% damage (3 hits, 80% each)
   max_atk_pct: 240
   name_en: Medje The End
   one_time: 0

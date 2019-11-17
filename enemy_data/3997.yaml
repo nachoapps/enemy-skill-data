@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Absorb combo <= 5 damage for 1 turns, Deal 100% damage (Preemptive)
-  desc_jp: Absorb combo <= 5 damage for 1 turns, Deal 100% damage (Preemptive)
   max_atk_pct: 100
   name_en: Lick Lick Burn
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Bind 1 subs for 1 turns, Deal 100% damage
-  desc_jp: Bind 1 subs for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Bandage Ghoul Roll
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Spawn random 1 Dark orbs, Deal 110% damage
-  desc_jp: Spawn random 1 Dark orbs, Deal 110% damage
   max_atk_pct: 110
   name_en: Tiny Halloween
   one_time: 0

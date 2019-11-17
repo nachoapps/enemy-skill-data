@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Player -75% HP (Preemptive)
-  desc_jp: Player -75% HP (Preemptive)
   max_atk_pct: null
   name_en: 悪罵の王子
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random to Light, Deal 120% damage
-  desc_jp: Change Random to Light, Deal 120% damage
   max_atk_pct: 120
   name_en: Hシュート
   one_time: 1
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 2 turns, Deal 100% damage
-  desc_jp: Reduce damage from all sources by 50% for 2 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: 重い球
   one_time: 0
@@ -57,7 +52,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Delay active skills by 2 turns, Deal 100% damage
-  desc_jp: Delay active skills by 2 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: 荒れ球
   one_time: 0
@@ -65,7 +59,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
   one_time: null
@@ -73,7 +66,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Specific orbs change every 2.0s for 1 turns, Deal 150% damage
-  desc_jp: Specific orbs change every 2.0s for 1 turns, Deal 150% damage
   max_atk_pct: 150
   name_en: エクスカリバー！！！
   one_time: 0

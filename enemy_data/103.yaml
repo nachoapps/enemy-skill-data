@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 75
   one_time: null
@@ -25,7 +24,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Fire to Wood
-  desc_jp: Change Fire to Wood
   max_atk_pct: null
   name_en: Wood Orb change
   one_time: 0

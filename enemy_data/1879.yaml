@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from Dark by 50%
-  desc_jp: Reduce damage from Dark by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns (Preemptive)
   max_atk_pct: null
   name_en: Light Sword Scale
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -41,7 +38,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 3rd row to Jammer orbs, Deal 100% damage
-  desc_jp: Change 3rd row to Jammer orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Tail Slash
   one_time: 1
@@ -49,7 +45,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -57,7 +52,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 90%~150% damage (3~5 hits, 30% each)
-  desc_jp: Deal 90%~150% damage (3~5 hits, 30% each)
   max_atk_pct: 150
   name_en: Sword Phalanx
   one_time: 0
@@ -65,7 +59,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -73,7 +66,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -81,7 +73,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb combo <= 4 damage for 2 turns
-  desc_jp: Absorb combo <= 4 damage for 2 turns
   max_atk_pct: null
   name_en: Sword Mountain Stance
   one_time: 0
@@ -89,7 +80,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -97,7 +87,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random to Light, Deal 85% damage
-  desc_jp: Change Random to Light, Deal 85% damage
   max_atk_pct: 85
   name_en: Pouring Light Blade
   one_time: 0
@@ -105,7 +94,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 3
   one_time: null
@@ -113,7 +101,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 2nd, 3rd, 4th row to Light orbs, Deal 300% damage
-  desc_jp: Change 2nd, 3rd, 4th row to Light orbs, Deal 300% damage
   max_atk_pct: 300
   name_en: Lightning Horizon
   one_time: 0

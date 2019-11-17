@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Absorb damage >= 6000000 damage for 5 turns (Preemptive)
-  desc_jp: Absorb damage >= 6000000 damage for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: Respect for the Weak
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Voids status ailments for 5 turns + Change own attribute to Fire
-  desc_jp: Voids status ailments for 5 turns + Change own attribute to Fire
   max_atk_pct: null
   name_en: Immovable Faith + Rigorous Obedience
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2-4
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 3rd row to Heal orbs, Deal 120% damage
-  desc_jp: Change 3rd row to Heal orbs, Deal 120% damage
   max_atk_pct: 120
   name_en: Flash of Affection
   one_time: 1
@@ -57,7 +52,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Change 2nd row to Fire orbs, 4th row to Water orbs, Deal 100% damage
-  desc_jp: Change 2nd row to Fire orbs, 4th row to Water orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: One Sword, Two Outcomes
   one_time: 0
@@ -65,7 +59,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Deal 105% damage (3 hits, 35% each)
-  desc_jp: Deal 105% damage (3 hits, 35% each)
   max_atk_pct: 105
   name_en: Sublime Sword Technique
   one_time: 0
@@ -73,7 +66,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -81,7 +73,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind random 5~10 orbs for 1 turns + Deal 150% damage (5 hits, 30% each)
-  desc_jp: Blind random 5~10 orbs for 1 turns + Deal 150% damage (5 hits, 30% each)
   max_atk_pct: null
   name_en: Frivolous Dark Moon + Holy Boisterous Dance of the Sword
   one_time: 0
@@ -89,7 +80,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -97,7 +87,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -105,7 +94,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Voids status ailments for 5 turns + Delay active skills by 2~3 turns
-  desc_jp: Voids status ailments for 5 turns + Delay active skills by 2~3 turns
   max_atk_pct: null
   name_en: Immovable Faith + Duty to the Seal Lord
   one_time: 0
@@ -113,7 +101,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -121,7 +108,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 400% damage (4 hits, 100% each)
-  desc_jp: Deal 400% damage (4 hits, 100% each)
   max_atk_pct: 400
   name_en: Righteous Judgment
   one_time: 0

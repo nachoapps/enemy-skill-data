@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Movetime -2s for 1 turns (Preemptive)
-  desc_jp: Movetime -2s for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: Scary Face
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 160% damage (2 hits, 80% each)
-  desc_jp: Deal 160% damage (2 hits, 80% each)
   max_atk_pct: 160
   name_en: Gulp!
   one_time: 0

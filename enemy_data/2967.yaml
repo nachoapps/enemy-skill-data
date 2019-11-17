@@ -18,7 +18,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from Dark by 50%
-  desc_jp: Reduce damage from Dark by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -26,7 +25,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Movetime -2s for 5 turns (Preemptive)
-  desc_jp: Movetime -2s for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: Try to find my real form!
   one_time: 0
@@ -34,7 +32,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: When player has any buff
   one_time: null
@@ -42,7 +39,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Voids player buff effects
-  desc_jp: Voids player buff effects
   max_atk_pct: null
   name_en: Time Skip
   one_time: 0
@@ -50,7 +46,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -58,7 +53,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -66,7 +60,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -80% HP
-  desc_jp: Player -80% HP
   max_atk_pct: null
   name_en: Life Bender
   one_time: 0
@@ -74,7 +67,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -82,7 +74,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 5 Jammer orbs, Deal 140% damage
-  desc_jp: Spawn random 5 Jammer orbs, Deal 140% damage
   max_atk_pct: 140
   name_en: Color Stealing Forgotten Sword
   one_time: 0
@@ -90,7 +81,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 3
   one_time: null
@@ -98,7 +88,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind 2 random subs for 1 turns
-  desc_jp: Bind 2 random subs for 1 turns
   max_atk_pct: null
   name_en: Time Bind
   one_time: 0
@@ -106,7 +95,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -114,7 +102,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -123,7 +110,6 @@ records:
 - !SkillRecord
   desc_en: Absorb combo <= 5 damage for 1 turns + Fix orb movement starting point
     to random position on the board
-  desc_jp: Absorb combo <= 5 damage for 1 turns + Fix orb movement starting point
     to random position on the board
   max_atk_pct: null
   name_en: Strain + Time Warp
@@ -132,7 +118,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -140,7 +125,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -99% HP
-  desc_jp: Player -99% HP
   max_atk_pct: null
   name_en: Life Bender
   one_time: 0
@@ -148,7 +132,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -156,7 +139,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 10 Jammer orbs, Deal 160% damage
-  desc_jp: Spawn random 10 Jammer orbs, Deal 160% damage
   max_atk_pct: 160
   name_en: Color Stealing Forgotten Sword
   one_time: 0
@@ -164,7 +146,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -172,7 +153,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind 3 random cards for 1 turns
-  desc_jp: Bind 3 random cards for 1 turns
   max_atk_pct: null
   name_en: Time Bind
   one_time: 2
@@ -180,7 +160,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -188,7 +167,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -99% HP
-  desc_jp: Player -99% HP
   max_atk_pct: null
   name_en: Life Bender
   one_time: 0
@@ -196,7 +174,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -204,7 +181,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 10 Jammer orbs, Deal 160% damage
-  desc_jp: Spawn random 10 Jammer orbs, Deal 160% damage
   max_atk_pct: 160
   name_en: Color Stealing Forgotten Sword
   one_time: 0
@@ -212,7 +188,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
   one_time: null
@@ -220,7 +195,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -200% HP
-  desc_jp: Player -200% HP
   max_atk_pct: null
   name_en: War Claws
   one_time: 0

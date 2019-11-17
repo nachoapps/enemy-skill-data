@@ -18,7 +18,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Do nothing + Change 1st row to Fire orbs, Deal 100% damage (Preemptive)
-  desc_jp: Do nothing + Change 1st row to Fire orbs, Deal 100% damage (Preemptive)
   max_atk_pct: null
   name_en: Monsters! + Dragon Summoning!!!
   one_time: 0
@@ -26,7 +25,6 @@ records:
   usage_pct: 34
 - !SkillRecord
   desc_en: Do nothing + Change 1st row to Water orbs, Deal 100% damage (Preemptive)
-  desc_jp: Do nothing + Change 1st row to Water orbs, Deal 100% damage (Preemptive)
   max_atk_pct: null
   name_en: Monsters! + Dragon Summoning!!!
   one_time: 0
@@ -34,7 +32,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Do nothing + Change 1st row to Wood orbs, Deal 100% damage (Preemptive)
-  desc_jp: Do nothing + Change 1st row to Wood orbs, Deal 100% damage (Preemptive)
   max_atk_pct: null
   name_en: Monsters! + Dragon Summoning!!!
   one_time: 0
@@ -42,7 +39,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -51,7 +47,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 2 turns + Deal 140% damage (7
     hits, 20% each)
-  desc_jp: Reduce damage from all sources by 75% for 2 turns + Deal 140% damage (7
     hits, 20% each)
   max_atk_pct: null
   name_en: Scorching Heat Mantle + 7 combos!!
@@ -60,7 +55,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -68,7 +62,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -99% HP
-  desc_jp: Player -99% HP
   max_atk_pct: null
   name_en: Blazing Tail
   one_time: 0
@@ -76,7 +69,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -84,7 +76,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Heal to Water, Deal 80% damage
-  desc_jp: Change Heal to Water, Deal 80% damage
   max_atk_pct: 80
   name_en: Beauty of the Four Seasons
   one_time: 0
@@ -92,7 +83,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Spawn random 9 Water orbs, Deal 110% damage
-  desc_jp: Spawn random 9 Water orbs, Deal 110% damage
   max_atk_pct: 110
   name_en: Ice Sword
   one_time: 0
@@ -100,7 +90,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -108,7 +97,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb combo <= 5 damage for 2 turns + Deal 140% damage (7 hits, 20% each)
-  desc_jp: Absorb combo <= 5 damage for 2 turns + Deal 140% damage (7 hits, 20% each)
   max_atk_pct: null
   name_en: Wind Wing's Dance + 7 combos!!
   one_time: 2
@@ -116,7 +104,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
   one_time: null
@@ -124,7 +111,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Jammer, Deal 100% damage
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Jammer, Deal 100% damage
   max_atk_pct: 100
   name_en: Feather Rain
   one_time: 0
@@ -132,7 +118,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 6
   one_time: null
@@ -141,7 +126,6 @@ records:
 - !SkillRecord
   desc_en: Change 1st row to Fire orbs, Deal 100% damage + Bind awoken skills for
     1 turns
-  desc_jp: Change 1st row to Fire orbs, Deal 100% damage + Bind awoken skills for
     1 turns
   max_atk_pct: null
   name_en: Dragon Summoning!!! + We're gonna do our best too TAMA!
@@ -151,7 +135,6 @@ records:
 - !SkillRecord
   desc_en: Change 1st row to Water orbs, Deal 100% damage + Bind awoken skills for
     1 turns
-  desc_jp: Change 1st row to Water orbs, Deal 100% damage + Bind awoken skills for
     1 turns
   max_atk_pct: null
   name_en: Dragon Summoning!!! + We're gonna do our best too TAMA!
@@ -161,7 +144,6 @@ records:
 - !SkillRecord
   desc_en: Change 1st row to Wood orbs, Deal 100% damage + Bind awoken skills for
     1 turns
-  desc_jp: Change 1st row to Wood orbs, Deal 100% damage + Bind awoken skills for
     1 turns
   max_atk_pct: null
   name_en: Dragon Summoning!!! + We're gonna do our best too TAMA!
@@ -170,7 +152,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -178,7 +159,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Delay active skills by 1~2 turns + Deal 200% damage (10 hits, 20% each)
-  desc_jp: Delay active skills by 1~2 turns + Deal 200% damage (10 hits, 20% each)
   max_atk_pct: null
   name_en: Count on us TAMA! + 10 combos!!
   one_time: 0

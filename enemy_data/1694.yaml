@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Absorb combo <= 3 damage for 5 turns (Preemptive)
-  desc_jp: Absorb combo <= 3 damage for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: Evil Genius
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 90%~150% damage (3~5 hits, 30% each)
-  desc_jp: Deal 90%~150% damage (3~5 hits, 30% each)
   max_atk_pct: 150
   name_en: LexCorp Resources
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -41,7 +38,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 200% for the next 999 turns
-  desc_jp: Increase damage to 200% for the next 999 turns
   max_atk_pct: null
   name_en: Warsuit
   one_time: 0
@@ -65,7 +60,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Absorb combo <= 4 damage for 5 turns (Preemptive)
-  desc_jp: Absorb combo <= 4 damage for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: Evil Genius
   one_time: 0
@@ -73,7 +67,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 90%~150% damage (3~5 hits, 30% each)
-  desc_jp: Deal 90%~150% damage (3~5 hits, 30% each)
   max_atk_pct: 150
   name_en: LexCorp Resources
   one_time: 0
@@ -81,7 +74,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -89,7 +81,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -97,7 +88,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 200% for the next 999 turns
-  desc_jp: Increase damage to 200% for the next 999 turns
   max_atk_pct: null
   name_en: Warsuit
   one_time: 0

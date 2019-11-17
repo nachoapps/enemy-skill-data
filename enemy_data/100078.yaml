@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Random 2 orbs change every 1.0s for 2 turns (Preemptive)
-  desc_jp: Random 2 orbs change every 1.0s for 2 turns (Preemptive)
   max_atk_pct: null
   name_en: Variety Flare
   one_time: 1
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Spawn random 1 Fire orbs, Deal 400% damage
-  desc_jp: Spawn random 1 Fire orbs, Deal 400% damage
   max_atk_pct: 400
   name_en: Burning Punch
   one_time: 0

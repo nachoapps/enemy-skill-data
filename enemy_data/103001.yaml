@@ -18,7 +18,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 50%
-  desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -34,7 +33,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 50%
-  desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -42,7 +40,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Delay active skills by 2 turns + Change Random 3 to Jammer (Preemptive)
-  desc_jp: Delay active skills by 2 turns + Change Random 3 to Jammer (Preemptive)
   max_atk_pct: null
   name_en: Which one of you will be my opponent? + Dimension-Curse of the Sea God
   one_time: 0
@@ -50,7 +47,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -59,7 +55,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Change Random to Heal, Deal 140%
     damage, (if [2143, 2144, 2971] on team)
-  desc_jp: Voids status ailments for 999 turns + Change Random to Heal, Deal 140%
     damage, (if [2143, 2144, 2971] on team)
   max_atk_pct: null
   name_en: It's time you stop acting so crazy! + Dimension-Curse of the Sacred Waters
@@ -68,7 +63,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Jammer to Poison, Deal 140% damage
-  desc_jp: Change Jammer to Poison, Deal 140% damage
   max_atk_pct: 140
   name_en: Sea Punishment
   one_time: 0
@@ -77,7 +71,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Change Random to Heal, Deal 140%
     damage
-  desc_jp: Voids status ailments for 999 turns + Change Random to Heal, Deal 140%
     damage
   max_atk_pct: null
   name_en: Sea Dragon God's Protection + Dimension-Curse of the Sacred Waters
@@ -86,7 +79,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -94,7 +86,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -102,7 +93,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Jammer to Poison, Deal 140% damage
-  desc_jp: Change Jammer to Poison, Deal 140% damage
   max_atk_pct: 140
   name_en: Sea Punishment
   one_time: 0
@@ -110,7 +100,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Spawn random 3 Water, Heal orbs, Deal 30% damage
-  desc_jp: Spawn random 3 Water, Heal orbs, Deal 30% damage
   max_atk_pct: 30
   name_en: Blue Life Calm Waves
   one_time: 0
@@ -118,7 +107,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -126,7 +114,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Jammer to Poison, Deal 140% damage
-  desc_jp: Change Jammer to Poison, Deal 140% damage
   max_atk_pct: 140
   name_en: Sea Punishment
   one_time: 0
@@ -134,7 +121,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Spawn random 3 Water, Jammer orbs, Deal 160% damage
-  desc_jp: Spawn random 3 Water, Jammer orbs, Deal 160% damage
   max_atk_pct: 160
   name_en: Blue Dust Raging Wave
   one_time: 0
@@ -142,7 +128,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -150,7 +135,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -160,7 +144,6 @@ records:
   desc_en: Voids status ailments for 999 turns + Change Random to Heal, Deal 140%
     damage + Change all orbs to Fire, Water, Wood, Light, Dark, Jammer, Deal 50% damage,
     (if [2143, 2144, 2971] on team)
-  desc_jp: Voids status ailments for 999 turns + Change Random to Heal, Deal 140%
     damage + Change all orbs to Fire, Water, Wood, Light, Dark, Jammer, Deal 50% damage,
     (if [2143, 2144, 2971] on team)
   max_atk_pct: null
@@ -171,7 +154,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Jammer to Poison, Deal 140% damage
-  desc_jp: Change Jammer to Poison, Deal 140% damage
   max_atk_pct: 140
   name_en: Sea Punishment
   one_time: 0
@@ -180,7 +162,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Change Random to Heal, Deal 140%
     damage + Change all orbs to Fire, Water, Wood, Light, Dark, Jammer, Deal 50% damage
-  desc_jp: Voids status ailments for 999 turns + Change Random to Heal, Deal 140%
     damage + Change all orbs to Fire, Water, Wood, Light, Dark, Jammer, Deal 50% damage
   max_atk_pct: null
   name_en: Sea Dragon God's Protection + Dimension-Curse of the Sacred Waters + Indigo
@@ -190,7 +171,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -198,7 +178,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Jammer to Poison, Deal 140% damage
-  desc_jp: Change Jammer to Poison, Deal 140% damage
   max_atk_pct: 140
   name_en: Sea Punishment
   one_time: 0
@@ -206,7 +185,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 400% damage
-  desc_jp: Deal 400% damage
   max_atk_pct: 400
   name_en: Sea Dragon God's Strike
   one_time: 0

@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Do nothing (Preemptive)
-  desc_jp: Do nothing (Preemptive)
   max_atk_pct: null
   name_en: Let's have some fun, then!
   one_time: 0
@@ -33,7 +32,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Absorb combo <= 4 damage for 5 turns (Preemptive)
-  desc_jp: Absorb combo <= 4 damage for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: Let's have some fun, then!
   one_time: 0
@@ -41,7 +39,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -49,7 +46,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Do nothing + Player -99% HP
-  desc_jp: Do nothing + Player -99% HP
   max_atk_pct: null
   name_en: It could really all be ours. + I'm gettin' my prize!
   one_time: 0
@@ -57,7 +53,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -65,7 +60,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: 2x1 cloud appear for 1 turns at random location, Deal 100% damage
-  desc_jp: 2x1 cloud appear for 1 turns at random location, Deal 100% damage
   max_atk_pct: 100
   name_en: Tornado Fist
   one_time: 0
@@ -73,7 +67,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -81,7 +74,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -90,7 +82,6 @@ records:
 - !SkillRecord
   desc_en: Row of cloud appear for 1 turns at 1st column + Reduce damage from all
     sources by 50% for 1 turns
-  desc_jp: Row of cloud appear for 1 turns at 1st column + Reduce damage from all
     sources by 50% for 1 turns
   max_atk_pct: null
   name_en: 'Been a blast playin'' defender,
@@ -101,7 +92,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -109,7 +99,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 120% damage (2 hits, 60% each)
-  desc_jp: Deal 120% damage (2 hits, 60% each)
   max_atk_pct: 120
   name_en: I can't be waitin' any more! Let's play!
   one_time: 1
@@ -117,7 +106,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -125,7 +113,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: 2x1 cloud appear for 1 turns at random location, Deal 100% damage
-  desc_jp: 2x1 cloud appear for 1 turns at random location, Deal 100% damage
   max_atk_pct: 100
   name_en: Tornado Fist
   one_time: 0

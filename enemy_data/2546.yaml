@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Change 1st, 2nd, 3rd, 4th, 5th row to Fire, Water, Wood, Light, Dark, Heal
     orbs (Preemptive)
-  desc_jp: Change 1st, 2nd, 3rd, 4th, 5th row to Fire, Water, Wood, Light, Dark, Heal
     orbs (Preemptive)
   max_atk_pct: null
   name_en: Un!
@@ -27,7 +26,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -35,7 +33,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random to Light, Deal 70% damage
-  desc_jp: Change Random to Light, Deal 70% damage
   max_atk_pct: 70
   name_en: Lightning
   one_time: 0
@@ -43,7 +40,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -51,7 +47,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind active skills for 1 turns
-  desc_jp: Bind active skills for 1 turns
   max_atk_pct: null
   name_en: With Rage
   one_time: 1
@@ -59,7 +54,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Lock 3 random Fire, Water, Wood, Light, Dark orbs, Deal 40% damage
-  desc_jp: Lock 3 random Fire, Water, Wood, Light, Dark orbs, Deal 40% damage
   max_atk_pct: 40
   name_en: Strange
   one_time: 0
@@ -67,7 +61,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -75,7 +68,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -83,7 +75,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random to Light, Deal 70% damage
-  desc_jp: Change Random to Light, Deal 70% damage
   max_atk_pct: 70
   name_en: Lightning
   one_time: 0
@@ -91,7 +82,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -99,7 +89,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Lock 3 random Fire, Water, Wood, Light, Dark orbs, Deal 40% damage
-  desc_jp: Lock 3 random Fire, Water, Wood, Light, Dark orbs, Deal 40% damage
   max_atk_pct: 40
   name_en: Strange
   one_time: 0
@@ -107,7 +96,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: When 1 enemy remains
   one_time: null
@@ -115,7 +103,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -123,7 +110,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 200% for the next 999 turns
-  desc_jp: Increase damage to 200% for the next 999 turns
   max_atk_pct: null
   name_en: Curse you!
   one_time: 0
@@ -131,7 +117,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -139,7 +124,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random to Light, Deal 70% damage
-  desc_jp: Change Random to Light, Deal 70% damage
   max_atk_pct: 70
   name_en: Lightning
   one_time: 0
@@ -147,7 +131,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -155,7 +138,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind active skills for 1 turns
-  desc_jp: Bind active skills for 1 turns
   max_atk_pct: null
   name_en: With Rage
   one_time: 1
@@ -163,7 +145,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Lock 3 random Fire, Water, Wood, Light, Dark orbs, Deal 40% damage
-  desc_jp: Lock 3 random Fire, Water, Wood, Light, Dark orbs, Deal 40% damage
   max_atk_pct: 40
   name_en: Strange
   one_time: 0

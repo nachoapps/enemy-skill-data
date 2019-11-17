@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Voids status ailments for 10 turns (Preemptive)
-  desc_jp: Voids status ailments for 10 turns (Preemptive)
   max_atk_pct: null
   name_en: 阿修羅デビル心覚醒！
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 75
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -41,7 +38,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Jammer skyfall +10% for 99 turns
-  desc_jp: Jammer skyfall +10% for 99 turns
   max_atk_pct: null
   name_en: ブラック戒律発動
   one_time: 1
@@ -49,7 +45,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -57,7 +52,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Light to Jammer, Deal 150% damage
-  desc_jp: Change Light to Jammer, Deal 150% damage
   max_atk_pct: 150
   name_en: 重魔棒
   one_time: 0

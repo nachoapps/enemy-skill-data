@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Spawn random 1 Bomb orbs (Preemptive)
-  desc_jp: Spawn random 1 Bomb orbs (Preemptive)
   max_atk_pct: null
   name_en: Mini-bomb
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Spawn random 1 Bomb orbs
-  desc_jp: Spawn random 1 Bomb orbs
   max_atk_pct: null
   name_en: Mini-bomb
   one_time: 0

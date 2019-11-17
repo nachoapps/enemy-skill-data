@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: 2x2 cloud appear for 3 turns at random location (Preemptive)
-  desc_jp: 2x2 cloud appear for 3 turns at random location (Preemptive)
   max_atk_pct: null
   name_en: Sparce Clouds
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Spawn random 3 Water orbs, Deal 105% damage
-  desc_jp: Spawn random 3 Water orbs, Deal 105% damage
   max_atk_pct: 105
   name_en: Teardrop
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Change Dark to Water, Deal 100% damage
-  desc_jp: Change Dark to Water, Deal 100% damage
   max_atk_pct: 100
   name_en: Aqua Breath
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Deal 120% damage (3 hits, 40% each)
-  desc_jp: Deal 120% damage (3 hits, 40% each)
   max_atk_pct: 120
   name_en: Aqua Rush
   one_time: 0
@@ -49,7 +45,6 @@ records:
   usage_pct: 34
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -57,7 +52,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -66,7 +60,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 3 turns + 3x3 cloud appear for
     1 turns at random location
-  desc_jp: Reduce damage from all sources by 50% for 3 turns + 3x3 cloud appear for
     1 turns at random location
   max_atk_pct: null
   name_en: Defense Instinct + Mass Clouds
@@ -75,7 +68,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 160% damage (2 hits, 80% each)
-  desc_jp: Deal 160% damage (2 hits, 80% each)
   max_atk_pct: 160
   name_en: Twin Feathers
   one_time: 0

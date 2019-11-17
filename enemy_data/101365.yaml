@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 5 turns + Voids status ailments
     for 5 turns (Preemptive)
-  desc_jp: Reduce damage from all sources by 75% for 5 turns + Voids status ailments
     for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: Soon, I shall... + ...test your abilities!
@@ -27,7 +26,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -35,7 +33,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Movetime -2s for 5 turns
-  desc_jp: Movetime -2s for 5 turns
   max_atk_pct: null
   name_en: Violet Moonflower Eyes
   one_time: 16
@@ -43,7 +40,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -51,7 +47,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 16 Dark orbs, Deal 170% damage
-  desc_jp: Spawn random 16 Dark orbs, Deal 170% damage
   max_atk_pct: 170
   name_en: Lunar Sky Cataclysm
   one_time: 8
@@ -59,7 +54,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 198% damage (9 hits, 22% each)
-  desc_jp: Deal 198% damage (9 hits, 22% each)
   max_atk_pct: 198
   name_en: Nine Dragon Claws - Leilei
   one_time: 4
@@ -67,7 +61,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -75,7 +68,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 198% damage (9 hits, 22% each)
-  desc_jp: Deal 198% damage (9 hits, 22% each)
   max_atk_pct: 198
   name_en: Nine Dragon Claws - Leilei
   one_time: 4
@@ -83,7 +75,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -91,7 +82,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 255% damage (3 hits, 85% each)
-  desc_jp: Deal 255% damage (3 hits, 85% each)
   max_atk_pct: 255
   name_en: Moonlight Sword Dance
   one_time: 2
@@ -99,7 +89,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
   one_time: null
@@ -107,7 +96,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb combo <= 7 damage for 1 turns
-  desc_jp: Absorb combo <= 7 damage for 1 turns
   max_atk_pct: null
   name_en: The end is nigh
   one_time: 1
@@ -115,7 +103,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -123,7 +110,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -1000% HP
-  desc_jp: Player -1000% HP
   max_atk_pct: null
   name_en: Moon's Falling Petals
   one_time: 0

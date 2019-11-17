@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Change 2nd, 5th column to Light orbs, Deal 70% damage (Preemptive)
-  desc_jp: Change 2nd, 5th column to Light orbs, Deal 70% damage (Preemptive)
   max_atk_pct: 70
   name_en: 高速突撃
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 100% damage (2 hits, 50% each)
-  desc_jp: Deal 100% damage (2 hits, 50% each)
   max_atk_pct: 100
   name_en: Ｗ・ブレイカー
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -41,7 +38,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind Light cards for 2 turns
-  desc_jp: Bind Light cards for 2 turns
   max_atk_pct: null
   name_en: オプティック・バインド
   one_time: 1
@@ -57,7 +52,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Enemy recover 30% hp
-  desc_jp: Enemy recover 30% hp
   max_atk_pct: null
   name_en: フォトニック・チャージ
   one_time: 1

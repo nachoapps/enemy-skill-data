@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 75%
-  desc_jp: Survive attacks with 1 HP when HP > 75%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Absorb combo <= 7 damage for 10 turns + Bind Dark cards for 10 turns (Preemptive)
-  desc_jp: Absorb combo <= 7 damage for 10 turns + Bind Dark cards for 10 turns (Preemptive)
   max_atk_pct: null
   name_en: Leaping Sword Technique + Evil Destroying Sword Slash
   one_time: 2
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change 1st, 6th column to Wood orbs, Deal 95% damage
-  desc_jp: Change 1st, 6th column to Wood orbs, Deal 95% damage
   max_atk_pct: 95
   name_en: Evil Vanquishing Sword
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Delay active skills by 2 turns, Deal 100% damage
-  desc_jp: Delay active skills by 2 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Phantom Sword
   one_time: 0
@@ -50,7 +46,6 @@ records:
 - !SkillRecord
   desc_en: Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 105% damage
-  desc_jp: Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 105% damage
   max_atk_pct: 105
   name_en: Constraining Sword
@@ -59,7 +54,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Deal 112% damage (4 hits, 28% each)
-  desc_jp: Deal 112% damage (4 hits, 28% each)
   max_atk_pct: 112
   name_en: Perfect Strike Sword
   one_time: 0
@@ -67,7 +61,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 75
   one_time: null
@@ -75,7 +68,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -84,7 +76,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Increase damage to 150% for the next
     999 turns
-  desc_jp: Voids status ailments for 999 turns + Increase damage to 150% for the next
     999 turns
   max_atk_pct: null
   name_en: Evil Vanquishing Shield + Talented Man's Sword
@@ -93,7 +84,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -101,7 +91,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -109,7 +98,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Movetime 25% for 1 turns
-  desc_jp: Movetime 25% for 1 turns
   max_atk_pct: null
   name_en: Constraining Martial Art
   one_time: 1
@@ -117,7 +105,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 420% damage (6 hits, 70% each)
-  desc_jp: Deal 420% damage (6 hits, 70% each)
   max_atk_pct: 420
   name_en: Hero's Sword
   one_time: 0
@@ -125,7 +112,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Enemy is defeated
   one_time: null
@@ -133,7 +119,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -141,7 +126,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Enemy recover 75% hp + Reduce damage from all sources by 75% for 10 turns
-  desc_jp: Enemy recover 75% hp + Reduce damage from all sources by 75% for 10 turns
   max_atk_pct: null
   name_en: Unbreakable Will + Sacred Treasures' Protection
   one_time: 0
@@ -149,7 +133,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -157,7 +140,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Movetime 25% for 1 turns
-  desc_jp: Movetime 25% for 1 turns
   max_atk_pct: null
   name_en: Constraining Martial Art
   one_time: 1

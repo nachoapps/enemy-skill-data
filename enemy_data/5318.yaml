@@ -19,7 +19,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Void damage >= 20000000 for 999 turns
     + unknown (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Void damage >= 20000000 for 999 turns
     + unknown (Preemptive)
   max_atk_pct: null
   name_en: 不和の侮蔑 + 災炎の神躯 + 錯乱の惹起
@@ -28,7 +27,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: When player has any buff
   one_time: null
@@ -36,7 +34,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Voids player buff effects, Deal 200% damage
-  desc_jp: Voids player buff effects, Deal 200% damage
   max_atk_pct: 200
   name_en: 神火の息吹
   one_time: 0
@@ -44,7 +41,6 @@ records:
   usage_pct: 10
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -52,7 +48,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1-9
   one_time: null
@@ -61,7 +56,6 @@ records:
 - !SkillRecord
   desc_en: Spawn locked Bomb orbs in the specified positions + Fix orb movement starting
     point to random position on the board, Deal 200% damage
-  desc_jp: Spawn locked Bomb orbs in the specified positions + Fix orb movement starting
     point to random position on the board, Deal 200% damage
   max_atk_pct: null
   name_en: 不和の果実 + アグリィカンペティション
@@ -71,7 +65,6 @@ records:
 - !SkillRecord
   desc_en: Spawn random 4 Jammer, Poison orbs + Bind 3 subs for 2 turns, Deal 190%
     damage
-  desc_jp: Spawn random 4 Jammer, Poison orbs + Bind 3 subs for 2 turns, Deal 190%
     damage
   max_atk_pct: null
   name_en: ニューマラスインシネレート + クルーエルディスピュート
@@ -81,7 +74,6 @@ records:
 - !SkillRecord
   desc_en: Deal 120% damage (3 hits, 40% each) + Delay active skills by 2 turns, Deal
     100% damage
-  desc_jp: Deal 120% damage (3 hits, 40% each) + Delay active skills by 2 turns, Deal
     100% damage
   max_atk_pct: null
   name_en: ヘイトリッドラッシュ + ホールドアグラッジ
@@ -90,7 +82,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: Deal 1000% damage (5 hits, 200% each)
-  desc_jp: Deal 1000% damage (5 hits, 200% each)
   max_atk_pct: 1000
   name_en: レイジイラプション
   one_time: 0
@@ -98,7 +89,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 80
   one_time: null
@@ -106,7 +96,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -114,7 +103,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: unknown + Absorb combo <= 6 damage for 5 turns
-  desc_jp: unknown + Absorb combo <= 6 damage for 5 turns
   max_atk_pct: null
   name_en: 錯乱の惹起 + 軋轢の合戦
   one_time: 0
@@ -122,7 +110,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2-10
   one_time: null
@@ -131,7 +118,6 @@ records:
 - !SkillRecord
   desc_en: Spawn locked Bomb orbs in the specified positions + Fix orb movement starting
     point to random position on the board, Deal 100% damage
-  desc_jp: Spawn locked Bomb orbs in the specified positions + Fix orb movement starting
     point to random position on the board, Deal 100% damage
   max_atk_pct: null
   name_en: 不和の果実 + アグリィカンペティション
@@ -141,7 +127,6 @@ records:
 - !SkillRecord
   desc_en: Spawn random 4 Jammer, Poison orbs + Bind 3 subs for 2 turns, Deal 95%
     damage
-  desc_jp: Spawn random 4 Jammer, Poison orbs + Bind 3 subs for 2 turns, Deal 95%
     damage
   max_atk_pct: null
   name_en: ニューマラスインシネレート + クルーエルディスピュート
@@ -151,7 +136,6 @@ records:
 - !SkillRecord
   desc_en: Deal 60% damage (3 hits, 20% each) + Delay active skills by 2 turns, Deal
     50% damage
-  desc_jp: Deal 60% damage (3 hits, 20% each) + Delay active skills by 2 turns, Deal
     50% damage
   max_atk_pct: null
   name_en: ヘイトリッドラッシュ + ホールドアグラッジ
@@ -160,7 +144,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 70
   one_time: null
@@ -168,7 +151,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -176,7 +158,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: unknown + Player -99% HP
-  desc_jp: unknown + Player -99% HP
   max_atk_pct: null
   name_en: 錯乱の惹起 + 絶えぬ火種
   one_time: 0
@@ -184,7 +165,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -192,7 +172,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind random 10 orbs for 1 turns
-  desc_jp: Blind random 10 orbs for 1 turns
   max_atk_pct: null
   name_en: 光を奪う陰り
   one_time: 1
@@ -200,7 +179,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -208,7 +186,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind random 10 orbs for 1 turns
-  desc_jp: Blind random 10 orbs for 1 turns
   max_atk_pct: null
   name_en: 光を奪う陰り
   one_time: 1
@@ -216,7 +193,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6
   one_time: null
@@ -224,7 +200,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind random 10 orbs for 1 turns
-  desc_jp: Blind random 10 orbs for 1 turns
   max_atk_pct: null
   name_en: 光を奪う陰り
   one_time: 1
@@ -232,7 +207,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 8
   one_time: null
@@ -240,7 +214,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind random 10 orbs for 1 turns
-  desc_jp: Blind random 10 orbs for 1 turns
   max_atk_pct: null
   name_en: 光を奪う陰り
   one_time: 1
@@ -248,7 +221,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 10
   one_time: null
@@ -256,7 +228,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind random 10 orbs for 1 turns
-  desc_jp: Blind random 10 orbs for 1 turns
   max_atk_pct: null
   name_en: 光を奪う陰り
   one_time: 1
@@ -264,7 +235,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -272,7 +242,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -280,7 +249,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 99 turns + unknown
-  desc_jp: Reduce damage from all sources by 75% for 99 turns + unknown
   max_atk_pct: null
   name_en: 女神の障壁 + 錯乱の惹起
   one_time: 0
@@ -288,7 +256,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Random 2 orbs change every 1.0s for 2 turns, Deal 130% damage
-  desc_jp: Random 2 orbs change every 1.0s for 2 turns, Deal 130% damage
   max_atk_pct: 130
   name_en: 目まぐるしい変化
   one_time: 1
@@ -297,7 +264,6 @@ records:
 - !SkillRecord
   desc_en: Spawn locked Bomb orbs in the specified positions + Fix orb movement starting
     point to random position on the board, Deal 125% damage
-  desc_jp: Spawn locked Bomb orbs in the specified positions + Fix orb movement starting
     point to random position on the board, Deal 125% damage
   max_atk_pct: null
   name_en: 不和の果実 + アグリィカンペティション
@@ -307,7 +273,6 @@ records:
 - !SkillRecord
   desc_en: Spawn random 4 Jammer, Poison orbs + Bind 3 subs for 2 turns, Deal 120%
     damage
-  desc_jp: Spawn random 4 Jammer, Poison orbs + Bind 3 subs for 2 turns, Deal 120%
     damage
   max_atk_pct: null
   name_en: ニューマラスインシネレート + クルーエルディスピュート
@@ -317,7 +282,6 @@ records:
 - !SkillRecord
   desc_en: Deal 75% damage (3 hits, 25% each) + Delay active skills by 2 turns, Deal
     55% damage
-  desc_jp: Deal 75% damage (3 hits, 25% each) + Delay active skills by 2 turns, Deal
     55% damage
   max_atk_pct: null
   name_en: ヘイトリッドラッシュ + ホールドアグラッジ
@@ -326,7 +290,6 @@ records:
   usage_pct: 15
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 15
   one_time: null
@@ -334,7 +297,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -343,7 +305,6 @@ records:
 - !SkillRecord
   desc_en: Bind awoken skills for 5 turns + Increase damage to 200% for the next 999
     turns
-  desc_jp: Bind awoken skills for 5 turns + Increase damage to 200% for the next 999
     turns
   max_atk_pct: null
   name_en: スケアスクリーム + マッドスローター
@@ -361,7 +322,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Void damage >= 20000000 for 999 turns
     + unknown (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Void damage >= 20000000 for 999 turns
     + unknown (Preemptive)
   max_atk_pct: null
   name_en: 不和の侮蔑 + 災炎の神躯 + 錯乱の惹起
@@ -370,7 +330,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: When player has any buff
   one_time: null
@@ -378,7 +337,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Voids player buff effects, Deal 200% damage
-  desc_jp: Voids player buff effects, Deal 200% damage
   max_atk_pct: 200
   name_en: 神火の息吹
   one_time: 0
@@ -386,7 +344,6 @@ records:
   usage_pct: 10
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -394,7 +351,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1-9
   one_time: null
@@ -403,7 +359,6 @@ records:
 - !SkillRecord
   desc_en: Spawn locked Bomb orbs in the specified positions + Fix orb movement starting
     point to random position on the board, Deal 200% damage
-  desc_jp: Spawn locked Bomb orbs in the specified positions + Fix orb movement starting
     point to random position on the board, Deal 200% damage
   max_atk_pct: null
   name_en: 不和の果実 + アグリィカンペティション
@@ -413,7 +368,6 @@ records:
 - !SkillRecord
   desc_en: Spawn random 4 Jammer, Poison orbs + Bind 3 subs for 2 turns, Deal 190%
     damage
-  desc_jp: Spawn random 4 Jammer, Poison orbs + Bind 3 subs for 2 turns, Deal 190%
     damage
   max_atk_pct: null
   name_en: ニューマラスインシネレート + クルーエルディスピュート
@@ -423,7 +377,6 @@ records:
 - !SkillRecord
   desc_en: Deal 120% damage (3 hits, 40% each) + Delay active skills by 2 turns, Deal
     100% damage
-  desc_jp: Deal 120% damage (3 hits, 40% each) + Delay active skills by 2 turns, Deal
     100% damage
   max_atk_pct: null
   name_en: ヘイトリッドラッシュ + ホールドアグラッジ
@@ -432,7 +385,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: Deal 1000% damage (5 hits, 200% each)
-  desc_jp: Deal 1000% damage (5 hits, 200% each)
   max_atk_pct: 1000
   name_en: レイジイラプション
   one_time: 0
@@ -440,7 +392,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 80
   one_time: null
@@ -448,7 +399,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -456,7 +406,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: unknown + Absorb combo <= 6 damage for 10 turns
-  desc_jp: unknown + Absorb combo <= 6 damage for 10 turns
   max_atk_pct: null
   name_en: 錯乱の惹起 + 軋轢の合戦
   one_time: 0
@@ -464,7 +413,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2-10
   one_time: null
@@ -473,7 +421,6 @@ records:
 - !SkillRecord
   desc_en: Spawn locked Bomb orbs in the specified positions + Fix orb movement starting
     point to random position on the board, Deal 100% damage
-  desc_jp: Spawn locked Bomb orbs in the specified positions + Fix orb movement starting
     point to random position on the board, Deal 100% damage
   max_atk_pct: null
   name_en: 不和の果実 + アグリィカンペティション
@@ -483,7 +430,6 @@ records:
 - !SkillRecord
   desc_en: Spawn random 4 Jammer, Poison orbs + Bind 3 subs for 2 turns, Deal 95%
     damage
-  desc_jp: Spawn random 4 Jammer, Poison orbs + Bind 3 subs for 2 turns, Deal 95%
     damage
   max_atk_pct: null
   name_en: ニューマラスインシネレート + クルーエルディスピュート
@@ -493,7 +439,6 @@ records:
 - !SkillRecord
   desc_en: Deal 60% damage (3 hits, 20% each) + Delay active skills by 2 turns, Deal
     50% damage
-  desc_jp: Deal 60% damage (3 hits, 20% each) + Delay active skills by 2 turns, Deal
     50% damage
   max_atk_pct: null
   name_en: ヘイトリッドラッシュ + ホールドアグラッジ
@@ -502,7 +447,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 70
   one_time: null
@@ -510,7 +454,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -518,7 +461,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: unknown + Player -99% HP
-  desc_jp: unknown + Player -99% HP
   max_atk_pct: null
   name_en: 錯乱の惹起 + 絶えぬ火種
   one_time: 0
@@ -526,7 +468,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -534,7 +475,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind random 10 orbs for 1 turns
-  desc_jp: Blind random 10 orbs for 1 turns
   max_atk_pct: null
   name_en: 光を奪う陰り
   one_time: 1
@@ -542,7 +482,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -550,7 +489,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind random 10 orbs for 1 turns
-  desc_jp: Blind random 10 orbs for 1 turns
   max_atk_pct: null
   name_en: 光を奪う陰り
   one_time: 1
@@ -558,7 +496,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6
   one_time: null
@@ -566,7 +503,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind random 10 orbs for 1 turns
-  desc_jp: Blind random 10 orbs for 1 turns
   max_atk_pct: null
   name_en: 光を奪う陰り
   one_time: 1
@@ -574,7 +510,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 8
   one_time: null
@@ -582,7 +517,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind random 10 orbs for 1 turns
-  desc_jp: Blind random 10 orbs for 1 turns
   max_atk_pct: null
   name_en: 光を奪う陰り
   one_time: 1
@@ -590,7 +524,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 10
   one_time: null
@@ -598,7 +531,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind random 10 orbs for 1 turns
-  desc_jp: Blind random 10 orbs for 1 turns
   max_atk_pct: null
   name_en: 光を奪う陰り
   one_time: 1
@@ -606,7 +538,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -614,7 +545,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -622,7 +552,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 99 turns + unknown
-  desc_jp: Reduce damage from all sources by 75% for 99 turns + unknown
   max_atk_pct: null
   name_en: 女神の障壁 + 錯乱の惹起
   one_time: 0
@@ -630,7 +559,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Random 2 orbs change every 1.0s for 2 turns, Deal 130% damage
-  desc_jp: Random 2 orbs change every 1.0s for 2 turns, Deal 130% damage
   max_atk_pct: 130
   name_en: 目まぐるしい変化
   one_time: 1
@@ -639,7 +567,6 @@ records:
 - !SkillRecord
   desc_en: Spawn locked Bomb orbs in the specified positions + Fix orb movement starting
     point to random position on the board, Deal 125% damage
-  desc_jp: Spawn locked Bomb orbs in the specified positions + Fix orb movement starting
     point to random position on the board, Deal 125% damage
   max_atk_pct: null
   name_en: 不和の果実 + アグリィカンペティション
@@ -649,7 +576,6 @@ records:
 - !SkillRecord
   desc_en: Spawn random 4 Jammer, Poison orbs + Bind 3 subs for 2 turns, Deal 120%
     damage
-  desc_jp: Spawn random 4 Jammer, Poison orbs + Bind 3 subs for 2 turns, Deal 120%
     damage
   max_atk_pct: null
   name_en: ニューマラスインシネレート + クルーエルディスピュート
@@ -659,7 +585,6 @@ records:
 - !SkillRecord
   desc_en: Deal 75% damage (3 hits, 25% each) + Delay active skills by 2 turns, Deal
     55% damage
-  desc_jp: Deal 75% damage (3 hits, 25% each) + Delay active skills by 2 turns, Deal
     55% damage
   max_atk_pct: null
   name_en: ヘイトリッドラッシュ + ホールドアグラッジ
@@ -668,7 +593,6 @@ records:
   usage_pct: 15
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 15
   one_time: null
@@ -676,7 +600,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -685,7 +608,6 @@ records:
 - !SkillRecord
   desc_en: Bind awoken skills for 5 turns + Increase damage to 200% for the next 999
     turns
-  desc_jp: Bind awoken skills for 5 turns + Increase damage to 200% for the next 999
     turns
   max_atk_pct: null
   name_en: スケアスクリーム + マッドスローター

@@ -18,7 +18,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 50%
-  desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -27,7 +26,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Void damage >= 10000000 for 999 turns
     + Rcv 50% for 20 turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Void damage >= 10000000 for 999 turns
     + Rcv 50% for 20 turns (Preemptive)
   max_atk_pct: null
   name_en: White Valkyrie Shield + Fylgja Fur + Discerning Lifechains
@@ -36,7 +34,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Player -50% HP + Deal 50% damage (2 hits, 25% each)
-  desc_jp: Player -50% HP + Deal 50% damage (2 hits, 25% each)
   max_atk_pct: null
   name_en: Bash + Double Slash
   one_time: 0
@@ -44,7 +41,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 90
   one_time: null
@@ -52,7 +48,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -60,7 +55,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb combo <= 5 damage for 10 turns
-  desc_jp: Absorb combo <= 5 damage for 10 turns
   max_atk_pct: null
   name_en: Test of Skill
   one_time: 16
@@ -68,7 +62,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 80
   one_time: null
@@ -76,7 +69,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -84,7 +76,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: 2x3 cloud appear for 10 turns at 2nd row, 3rd column
-  desc_jp: 2x3 cloud appear for 10 turns at 2nd row, 3rd column
   max_atk_pct: null
   name_en: Test of Perception
   one_time: 8
@@ -92,7 +83,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 70
   one_time: null
@@ -100,7 +90,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -108,7 +97,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Movetime 50% for 10 turns
-  desc_jp: Movetime 50% for 10 turns
   max_atk_pct: null
   name_en: Test of Speed
   one_time: 4
@@ -116,7 +104,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 60
   one_time: null
@@ -124,7 +111,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -134,7 +120,6 @@ records:
   desc_en: Absorb combo <= 5 damage for 10 turns + 2x3 cloud appear for 10 turns at
     2nd row, 3rd column + Movetime 50% for 10 turns + Increase damage to 150% for
     the next 10 turns
-  desc_jp: Absorb combo <= 5 damage for 10 turns + 2x3 cloud appear for 10 turns at
     2nd row, 3rd column + Movetime 50% for 10 turns + Increase damage to 150% for
     the next 10 turns
   max_atk_pct: null
@@ -144,7 +129,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -153,7 +137,6 @@ records:
 - !SkillRecord
   desc_en: Enemy recover 100% hp + Change own attribute to random one of Fire, Water,
     Wood, Light, Dark
-  desc_jp: Enemy recover 100% hp + Change own attribute to random one of Fire, Water,
     Wood, Light, Dark
   max_atk_pct: null
   name_en: Resurrection + Sweeping Spirit Garments

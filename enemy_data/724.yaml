@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Change Fire to Jammer
-  desc_jp: Change Fire to Jammer
   max_atk_pct: null
   name_en: Jamming
   one_time: 0

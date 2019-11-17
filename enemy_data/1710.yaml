@@ -18,7 +18,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns (Preemptive)
   max_atk_pct: null
   name_en: Zhao Zilong attacks!
   one_time: 0
@@ -26,7 +25,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -34,7 +32,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb combo <= 4 damage for 99 turns
-  desc_jp: Absorb combo <= 4 damage for 99 turns
   max_atk_pct: null
   name_en: Strength of a Thousand
   one_time: 0
@@ -42,7 +39,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -50,7 +46,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random to Light, Deal 75% damage
-  desc_jp: Change Random to Light, Deal 75% damage
   max_atk_pct: 75
   name_en: Spear of Loyalty
   one_time: 0
@@ -58,7 +53,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 75% damage
-  desc_jp: Blind all orbs on the board, Deal 75% damage
   max_atk_pct: 75
   name_en: Dragon Wing Strike
   one_time: 0
@@ -66,7 +60,6 @@ records:
   usage_pct: 60
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
   one_time: null
@@ -74,7 +67,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 240% damage (4 hits, 60% each)
-  desc_jp: Deal 240% damage (4 hits, 60% each)
   max_atk_pct: 240
   name_en: Unbeatable Northern Formation
   one_time: 0
@@ -90,7 +82,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns (Preemptive)
   max_atk_pct: null
   name_en: Zhao Zilong attacks!
   one_time: 0
@@ -98,7 +89,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -106,7 +96,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb combo <= 5 damage for 99 turns
-  desc_jp: Absorb combo <= 5 damage for 99 turns
   max_atk_pct: null
   name_en: Strength of a Thousand
   one_time: 0
@@ -114,7 +103,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -122,7 +110,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random to Light, Deal 75% damage
-  desc_jp: Change Random to Light, Deal 75% damage
   max_atk_pct: 75
   name_en: Spear of Loyalty
   one_time: 0
@@ -130,7 +117,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 75% damage
-  desc_jp: Blind all orbs on the board, Deal 75% damage
   max_atk_pct: 75
   name_en: Dragon Wing Strike
   one_time: 0
@@ -138,7 +124,6 @@ records:
   usage_pct: 60
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
   one_time: null
@@ -146,7 +131,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 240% damage (4 hits, 60% each)
-  desc_jp: Deal 240% damage (4 hits, 60% each)
   max_atk_pct: 240
   name_en: Unbeatable Northern Formation
   one_time: 0

@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -25,7 +24,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 999 turns (When 1 enemy remains)
-  desc_jp: Increase damage to 150% for the next 999 turns (When 1 enemy remains)
   max_atk_pct: null
   name_en: 楽士の絆
   one_time: 1
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -41,7 +38,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Random 2 orbs change every 1.0s for 1 turns, Deal 95% damage
-  desc_jp: Random 2 orbs change every 1.0s for 1 turns, Deal 95% damage
   max_atk_pct: 95
   name_en: フリフリステッキ
   one_time: 0
@@ -50,7 +46,6 @@ records:
 - !SkillRecord
   desc_en: Spawn random 1 Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison orbs,
     Deal 100% damage
-  desc_jp: Spawn random 1 Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison orbs,
     Deal 100% damage
   max_atk_pct: 100
   name_en: 行進の道標

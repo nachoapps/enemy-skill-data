@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: On death
   one_time: null
@@ -25,7 +24,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 1 Heal orbs
-  desc_jp: Spawn random 1 Heal orbs
   max_atk_pct: null
   name_en: It's dangerous inside so be careful...!
   one_time: 0
@@ -42,7 +40,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 1 turns, (if [3930, 3931, 3942,
     3943] on team) (Preemptive)
-  desc_jp: Reduce damage from all sources by 75% for 1 turns, (if [3930, 3931, 3942,
     3943] on team) (Preemptive)
   max_atk_pct: null
   name_en: W...Welcome home?...
@@ -51,7 +48,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 1 turns (Preemptive)
-  desc_jp: Reduce damage from all sources by 75% for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: Oh! A visitor?!
   one_time: 2
@@ -59,7 +55,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: 2x2 cloud appear for 1 turns at random location, Deal 120% damage
-  desc_jp: 2x2 cloud appear for 1 turns at random location, Deal 120% damage
   max_atk_pct: 120
   name_en: Sweeping Duster
   one_time: 0
@@ -68,7 +63,6 @@ records:
 - !SkillRecord
   desc_en: Change 1st, 3rd, 5th row to Heal orbs, 2nd row to Fire orbs, 4th row to
     Fire, Jammer orbs, Deal 50% damage
-  desc_jp: Change 1st, 3rd, 5th row to Heal orbs, 2nd row to Fire orbs, 4th row to
     Fire, Jammer orbs, Deal 50% damage
   max_atk_pct: 50
   name_en: Neat and Tidy
@@ -77,7 +71,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Spawn random 5 Jammer orbs, Deal 130% damage
-  desc_jp: Spawn random 5 Jammer orbs, Deal 130% damage
   max_atk_pct: 130
   name_en: Terrible Tumble
   one_time: 0
@@ -85,7 +78,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -93,7 +85,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -101,7 +92,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Delay active skills by 2 turns
-  desc_jp: Delay active skills by 2 turns
   max_atk_pct: null
   name_en: Flying Bucket
   one_time: 1
@@ -109,7 +99,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -117,7 +106,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 220% damage
-  desc_jp: Deal 220% damage
   max_atk_pct: 220
   name_en: Toppling Bookshelf
   one_time: 0
@@ -125,7 +113,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: On death
   one_time: null
@@ -133,7 +120,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 1 Heal orbs
-  desc_jp: Spawn random 1 Heal orbs
   max_atk_pct: null
   name_en: It's dangerous inside so be careful...!
   one_time: 0

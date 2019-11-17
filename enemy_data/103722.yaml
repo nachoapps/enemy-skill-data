@@ -18,7 +18,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from Fire by 50%
-  desc_jp: Reduce damage from Fire by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0

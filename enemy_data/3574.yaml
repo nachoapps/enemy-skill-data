@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from Fire by 50%
-  desc_jp: Reduce damage from Fire by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -26,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Void damage >= 10000000 for 999 turns + Rcv 200% for 9 turns + Deal 760%
     damage (Preemptive)
-  desc_jp: Void damage >= 10000000 for 999 turns + Rcv 200% for 9 turns + Deal 760%
     damage (Preemptive)
   max_atk_pct: null
   name_en: Blaze Armor + Salvation Flame + Crossdraw Breath
@@ -36,7 +34,6 @@ records:
 - !SkillRecord
   desc_en: Fix orb movement starting point to random position on the board + Deal
     450% damage (3 hits, 150% each)
-  desc_jp: Fix orb movement starting point to random position on the board + Deal
     450% damage (3 hits, 150% each)
   max_atk_pct: null
   name_en: First Glisten + Triple Blaze
@@ -45,7 +42,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -53,7 +49,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -62,7 +57,6 @@ records:
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Light + Voids status ailments
     for 999 turns + Unable to match Dark orbs for 3 turns
-  desc_jp: Change own attribute to random one of Fire, Light + Voids status ailments
     for 999 turns + Unable to match Dark orbs for 3 turns
   max_atk_pct: null
   name_en: Bonfire + Guardian Dragon Formation + Pure Blaze
@@ -72,7 +66,6 @@ records:
 - !SkillRecord
   desc_en: Fix orb movement starting point to random position on the board + Deal
     600% damage (6 hits, 100% each)
-  desc_jp: Fix orb movement starting point to random position on the board + Deal
     600% damage (6 hits, 100% each)
   max_atk_pct: null
   name_en: First Glisten + Fanning Breath
@@ -81,7 +74,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
   one_time: null
@@ -90,7 +82,6 @@ records:
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Light + Deal 10000% damage
     (5 hits, 2000% each)
-  desc_jp: Change own attribute to random one of Fire, Light + Deal 10000% damage
     (5 hits, 2000% each)
   max_atk_pct: null
   name_en: Bonfire + Burst End

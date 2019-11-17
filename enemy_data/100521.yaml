@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Deal 40% damage
-  desc_jp: Deal 40% damage
   max_atk_pct: 40
   name_en: Gift Breath
   one_time: 0

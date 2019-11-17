@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Change Random 3 to Jammer (Preemptive)
-  desc_jp: Change Random 3 to Jammer (Preemptive)
   max_atk_pct: null
   name_en: Draconic Howling
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Dark to Light, Deal 75% damage
-  desc_jp: Change Dark to Light, Deal 75% damage
   max_atk_pct: 75
   name_en: Lightning Wing
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -41,7 +38,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Do nothing
-  desc_jp: Do nothing
   max_atk_pct: null
   name_en: He's drawn his sword
   one_time: 0
@@ -57,7 +52,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Random to Light, Deal 150% damage
-  desc_jp: Change Random to Light, Deal 150% damage
   max_atk_pct: 150
   name_en: Excalibur
   one_time: 0

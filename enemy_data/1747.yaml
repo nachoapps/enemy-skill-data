@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Reduce damage from all sources by
     50% for 1 turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Reduce damage from all sources by
     50% for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: Dance of the Goddess + Released Chakra
@@ -27,7 +26,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 1200% damage (6 hits, 200% each)
-  desc_jp: Deal 1200% damage (6 hits, 200% each)
   max_atk_pct: 1200
   name_en: Muladhara
   one_time: 0
@@ -35,7 +33,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 65
   one_time: null
@@ -43,7 +40,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 180% damage (2 hits, 90% each) + Bind 1 random cards for 2 turns
-  desc_jp: Deal 180% damage (2 hits, 90% each) + Bind 1 random cards for 2 turns
   max_atk_pct: null
   name_en: Svadhishthana + Manipura
   one_time: 0
@@ -51,7 +47,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Deal 180% damage (2 hits, 90% each) + Blind all orbs on the board
-  desc_jp: Deal 180% damage (2 hits, 90% each) + Blind all orbs on the board
   max_atk_pct: null
   name_en: Svadhishthana + Anahata
   one_time: 0
@@ -59,7 +54,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Deal 180% damage (2 hits, 90% each) + Change Random 3 to Poison
-  desc_jp: Deal 180% damage (2 hits, 90% each) + Change Random 3 to Poison
   max_atk_pct: null
   name_en: Svadhishthana + Vishuddha
   one_time: 0
@@ -67,7 +61,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Deal 180% damage (2 hits, 90% each) + Player -99% HP
-  desc_jp: Deal 180% damage (2 hits, 90% each) + Player -99% HP
   max_atk_pct: null
   name_en: Svadhishthana + Ajna
   one_time: 0
@@ -75,7 +68,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Bind active skills for 10 turns, Deal 150% damage
-  desc_jp: Bind active skills for 10 turns, Deal 150% damage
   max_atk_pct: 150
   name_en: Kalam
   one_time: 0
@@ -83,7 +75,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 5
   one_time: null
@@ -91,7 +82,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 1500% damage
-  desc_jp: Deal 1500% damage
   max_atk_pct: 1500
   name_en: Sahasrara
   one_time: 0

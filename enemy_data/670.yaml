@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Change Random 2 to Jammer (Preemptive)
-  desc_jp: Change Random 2 to Jammer (Preemptive)
   max_atk_pct: null
   name_en: It's Show Time!
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 180% damage (3 hits, 60% each)
-  desc_jp: Deal 180% damage (3 hits, 60% each)
   max_atk_pct: 180
   name_en: Killing Joke
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random 6 to Poison
-  desc_jp: Change Random 6 to Poison
   max_atk_pct: null
   name_en: Acid Blossom
   one_time: 0
@@ -57,7 +52,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 180% damage (3 hits, 60% each)
-  desc_jp: Deal 180% damage (3 hits, 60% each)
   max_atk_pct: 180
   name_en: Killing Joke
   one_time: 0
@@ -65,7 +59,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -73,7 +66,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random to Jammer, Deal 130% damage
-  desc_jp: Change Random to Jammer, Deal 130% damage
   max_atk_pct: 130
   name_en: Laughing Gas
   one_time: 0
@@ -81,7 +73,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -89,7 +80,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 180% damage (3 hits, 60% each)
-  desc_jp: Deal 180% damage (3 hits, 60% each)
   max_atk_pct: 180
   name_en: Killing Joke
   one_time: 0
@@ -97,7 +87,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
   one_time: null
@@ -105,7 +94,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random 6 to Poison
-  desc_jp: Change Random 6 to Poison
   max_atk_pct: null
   name_en: Acid Blossom
   one_time: 0
@@ -113,7 +101,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Display '4' and skip turn
-  desc_jp: Display '4' and skip turn
   max_atk_pct: null
   name_en: Countdown Message
   one_time: 0
@@ -121,7 +108,6 @@ records:
   usage_pct: 0
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -129,7 +115,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -137,7 +122,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Display '3' and skip turn
-  desc_jp: Display '3' and skip turn
   max_atk_pct: null
   name_en: Countdown Message
   one_time: 0
@@ -145,7 +129,6 @@ records:
   usage_pct: 0
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -153,7 +136,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Display '2' and skip turn
-  desc_jp: Display '2' and skip turn
   max_atk_pct: null
   name_en: Countdown Message
   one_time: 0
@@ -161,7 +143,6 @@ records:
   usage_pct: 0
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -169,7 +150,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Display '1' and skip turn
-  desc_jp: Display '1' and skip turn
   max_atk_pct: null
   name_en: Countdown Message
   one_time: 0
@@ -177,7 +157,6 @@ records:
   usage_pct: 0
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -185,7 +164,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 1000% damage (5 hits, 200% each)
-  desc_jp: Deal 1000% damage (5 hits, 200% each)
   max_atk_pct: 1000
   name_en: Maniac Mastermind
   one_time: 0
@@ -193,7 +171,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 5
   one_time: null
@@ -201,7 +178,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Display '4' and skip turn
-  desc_jp: Display '4' and skip turn
   max_atk_pct: null
   name_en: Countdown Message
   one_time: 0
@@ -217,7 +193,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Change Random 2 to Jammer (Preemptive)
-  desc_jp: Change Random 2 to Jammer (Preemptive)
   max_atk_pct: null
   name_en: It's Show Time!
   one_time: 0
@@ -225,7 +200,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -233,7 +207,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 180% damage (3 hits, 60% each)
-  desc_jp: Deal 180% damage (3 hits, 60% each)
   max_atk_pct: 180
   name_en: Killing Joke
   one_time: 0
@@ -241,7 +214,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -249,7 +221,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random 6 to Poison
-  desc_jp: Change Random 6 to Poison
   max_atk_pct: null
   name_en: Acid Blossom
   one_time: 0
@@ -257,7 +228,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 180% damage (3 hits, 60% each)
-  desc_jp: Deal 180% damage (3 hits, 60% each)
   max_atk_pct: 180
   name_en: Killing Joke
   one_time: 0
@@ -265,7 +235,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -273,7 +242,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random to Jammer, Deal 130% damage
-  desc_jp: Change Random to Jammer, Deal 130% damage
   max_atk_pct: 130
   name_en: Laughing Gas
   one_time: 0
@@ -281,7 +249,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -289,7 +256,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 180% damage (3 hits, 60% each)
-  desc_jp: Deal 180% damage (3 hits, 60% each)
   max_atk_pct: 180
   name_en: Killing Joke
   one_time: 0
@@ -297,7 +263,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
   one_time: null
@@ -305,7 +270,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random 6 to Poison
-  desc_jp: Change Random 6 to Poison
   max_atk_pct: null
   name_en: Acid Blossom
   one_time: 0
@@ -313,7 +277,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Display '4' and skip turn
-  desc_jp: Display '4' and skip turn
   max_atk_pct: null
   name_en: Countdown Message
   one_time: 0
@@ -321,7 +284,6 @@ records:
   usage_pct: 0
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -329,7 +291,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -337,7 +298,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Display '3' and skip turn
-  desc_jp: Display '3' and skip turn
   max_atk_pct: null
   name_en: Countdown Message
   one_time: 0
@@ -345,7 +305,6 @@ records:
   usage_pct: 0
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -353,7 +312,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Display '2' and skip turn
-  desc_jp: Display '2' and skip turn
   max_atk_pct: null
   name_en: Countdown Message
   one_time: 0
@@ -361,7 +319,6 @@ records:
   usage_pct: 0
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -369,7 +326,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Display '1' and skip turn
-  desc_jp: Display '1' and skip turn
   max_atk_pct: null
   name_en: Countdown Message
   one_time: 0
@@ -377,7 +333,6 @@ records:
   usage_pct: 0
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -385,7 +340,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 1000% damage (5 hits, 200% each)
-  desc_jp: Deal 1000% damage (5 hits, 200% each)
   max_atk_pct: 1000
   name_en: Maniac Mastermind
   one_time: 0
@@ -393,7 +347,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 5
   one_time: null
@@ -401,7 +354,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Display '4' and skip turn
-  desc_jp: Display '4' and skip turn
   max_atk_pct: null
   name_en: Countdown Message
   one_time: 0

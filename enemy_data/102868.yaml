@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Delay active skills by 2 turns (Preemptive)
-  desc_jp: Delay active skills by 2 turns (Preemptive)
   max_atk_pct: null
   name_en: Glacial Eyes
   one_time: 4
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 120% damage, (if [2861, 2862] on team)
-  desc_jp: Deal 120% damage, (if [2861, 2862] on team)
   max_atk_pct: 120
   name_en: Farewell... Detective!!
   one_time: 2
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 120% damage
-  desc_jp: Deal 120% damage
   max_atk_pct: 120
   name_en: This ends here!!!
   one_time: 2
@@ -49,7 +45,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -57,7 +52,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Movetime -1s for 2 turns
-  desc_jp: Movetime -1s for 2 turns
   max_atk_pct: null
   name_en: Last Chance...
   one_time: 1
@@ -65,7 +59,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -73,7 +66,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random 5 to Poison, Deal 10% damage
-  desc_jp: Change Random 5 to Poison, Deal 10% damage
   max_atk_pct: 10
   name_en: APTX4869
   one_time: 0

@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 90%
-  desc_jp: Survive attacks with 1 HP when HP > 90%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 1100% damage (Preemptive)
-  desc_jp: Deal 1100% damage (Preemptive)
   max_atk_pct: 1100
   name_en: Body Slam
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 1100% damage
-  desc_jp: Deal 1100% damage
   max_atk_pct: 1100
   name_en: Body Slam
   one_time: 0
@@ -49,7 +46,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 90%
-  desc_jp: Survive attacks with 1 HP when HP > 90%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -57,7 +53,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Bind 1 random cards for 2 turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Bind 1 random cards for 2 turns (Preemptive)
   max_atk_pct: null
   name_en: Massacre Force + Roar
   one_time: 0
@@ -65,7 +60,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 1100% damage
-  desc_jp: Deal 1100% damage
   max_atk_pct: 1100
   name_en: Body Slam
   one_time: 0
@@ -73,7 +67,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Deal 1000% damage (2 hits, 500% each)
-  desc_jp: Deal 1000% damage (2 hits, 500% each)
   max_atk_pct: 1000
   name_en: Tail Swing
   one_time: 0
@@ -81,7 +74,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Spawn random 3 Jammer orbs, Deal 1000% damage
-  desc_jp: Spawn random 3 Jammer orbs, Deal 1000% damage
   max_atk_pct: 1000
   name_en: Dash Attack
   one_time: 0
@@ -89,7 +81,6 @@ records:
   usage_pct: 34
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 90
   one_time: null
@@ -97,7 +88,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -106,7 +96,6 @@ records:
 - !SkillRecord
   desc_en: Bind active skills for 3 turns + Do nothing + Reduce damage from all sources
     by 75% for 1 turns
-  desc_jp: Bind active skills for 3 turns + Do nothing + Reduce damage from all sources
     by 75% for 1 turns
   max_atk_pct: null
   name_en: Roar + Enter Fury State + Burrow
@@ -115,7 +104,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -123,7 +111,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 1500% damage
-  desc_jp: Deal 1500% damage
   max_atk_pct: 1500
   name_en: Burrowed Assault
   one_time: 4
@@ -132,7 +119,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 120% for the next 1 turns + Change Random to Jammer,
     Deal 1200% damage
-  desc_jp: Increase damage to 120% for the next 1 turns + Change Random to Jammer,
     Deal 1200% damage
   max_atk_pct: null
   name_en: Rage + Horn Gouge
@@ -142,7 +128,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 120% for the next 1 turns + Blind all orbs on the board,
     Deal 1200% damage
-  desc_jp: Increase damage to 120% for the next 1 turns + Blind all orbs on the board,
     Deal 1200% damage
   max_atk_pct: null
   name_en: Rage + Springing Burrow
@@ -152,7 +137,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 120% for the next 1 turns + Deal 1000%~1500% damage
     (2~3 hits, 500% each)
-  desc_jp: Increase damage to 120% for the next 1 turns + Deal 1000%~1500% damage
     (2~3 hits, 500% each)
   max_atk_pct: null
   name_en: Rage + Combo Horn Thrash
@@ -161,7 +145,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 70
   one_time: null
@@ -170,7 +153,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 130% for the next 1 turns + Change Random to Jammer,
     Deal 1200% damage
-  desc_jp: Increase damage to 130% for the next 1 turns + Change Random to Jammer,
     Deal 1200% damage
   max_atk_pct: null
   name_en: Rage + Horn Gouge
@@ -180,7 +162,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 130% for the next 1 turns + Blind all orbs on the board,
     Deal 1200% damage
-  desc_jp: Increase damage to 130% for the next 1 turns + Blind all orbs on the board,
     Deal 1200% damage
   max_atk_pct: null
   name_en: Rage + Springing Burrow
@@ -190,7 +171,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 130% for the next 1 turns + Deal 1000%~1500% damage
     (2~3 hits, 500% each)
-  desc_jp: Increase damage to 130% for the next 1 turns + Deal 1000%~1500% damage
     (2~3 hits, 500% each)
   max_atk_pct: null
   name_en: Rage + Combo Horn Thrash
@@ -199,7 +179,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 60
   one_time: null
@@ -208,7 +187,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 140% for the next 1 turns + Change Random to Jammer,
     Deal 1200% damage
-  desc_jp: Increase damage to 140% for the next 1 turns + Change Random to Jammer,
     Deal 1200% damage
   max_atk_pct: null
   name_en: Rage + Horn Gouge
@@ -218,7 +196,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 140% for the next 1 turns + Blind all orbs on the board,
     Deal 1200% damage
-  desc_jp: Increase damage to 140% for the next 1 turns + Blind all orbs on the board,
     Deal 1200% damage
   max_atk_pct: null
   name_en: Rage + Springing Burrow
@@ -228,7 +205,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 140% for the next 1 turns + Deal 1000%~1500% damage
     (2~3 hits, 500% each)
-  desc_jp: Increase damage to 140% for the next 1 turns + Deal 1000%~1500% damage
     (2~3 hits, 500% each)
   max_atk_pct: null
   name_en: Rage + Combo Horn Thrash
@@ -237,7 +213,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 40
   one_time: null
@@ -246,7 +221,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 1 turns + Change Random to Jammer,
     Deal 1200% damage
-  desc_jp: Increase damage to 150% for the next 1 turns + Change Random to Jammer,
     Deal 1200% damage
   max_atk_pct: null
   name_en: Rage + Horn Gouge
@@ -256,7 +230,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 1 turns + Blind all orbs on the board,
     Deal 1200% damage
-  desc_jp: Increase damage to 150% for the next 1 turns + Blind all orbs on the board,
     Deal 1200% damage
   max_atk_pct: null
   name_en: Rage + Springing Burrow
@@ -266,7 +239,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 1 turns + Deal 1000%~1500% damage
     (2~3 hits, 500% each)
-  desc_jp: Increase damage to 150% for the next 1 turns + Deal 1000%~1500% damage
     (2~3 hits, 500% each)
   max_atk_pct: null
   name_en: Rage + Combo Horn Thrash
@@ -275,7 +247,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -283,7 +254,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -292,7 +262,6 @@ records:
 - !SkillRecord
   desc_en: Bind awoken skills for 3 turns + Do nothing + Reduce damage from all sources
     by 75% for 1 turns
-  desc_jp: Bind awoken skills for 3 turns + Do nothing + Reduce damage from all sources
     by 75% for 1 turns
   max_atk_pct: null
   name_en: Roar + Enter Rampaging State + Burrow
@@ -301,7 +270,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -310,7 +278,6 @@ records:
 - !SkillRecord
   desc_en: Deal 1500% damage + Player -99% HP + Change all orbs to Water, Deal 12000%
     damage
-  desc_jp: Deal 1500% damage + Player -99% HP + Change all orbs to Water, Deal 12000%
     damage
   max_atk_pct: null
   name_en: Burrowed Assault + Rampaging Downstrike + Rampaging Geyser
@@ -320,7 +287,6 @@ records:
 - !SkillRecord
   desc_en: Deal 3000% damage (3 hits, 1000% each) + Change all orbs to Water, Deal
     12000% damage
-  desc_jp: Deal 3000% damage (3 hits, 1000% each) + Change all orbs to Water, Deal
     12000% damage
   max_atk_pct: null
   name_en: Rampaging Triple Dash + Rampaging Geyser
@@ -329,7 +295,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Enemy is defeated
   one_time: null
@@ -337,7 +302,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -346,7 +310,6 @@ records:
 - !SkillRecord
   desc_en: Bind active skills for 3 turns + Enemy recover 60% hp + Reduce damage from
     all sources by 75% for 1 turns
-  desc_jp: Bind active skills for 3 turns + Enemy recover 60% hp + Reduce damage from
     all sources by 75% for 1 turns
   max_atk_pct: null
   name_en: Roar + Enter Fury State + Burrow

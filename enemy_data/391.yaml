@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns (Preemptive)
   max_atk_pct: null
   name_en: Protection of the Gods
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random 5 to Poison, Deal 25% damage
-  desc_jp: Change Random 5 to Poison, Deal 25% damage
   max_atk_pct: 25
   name_en: Hydra's Poison
   one_time: 1
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Light to Dark, Deal 100% damage
-  desc_jp: Change Light to Dark, Deal 100% damage
   max_atk_pct: 100
   name_en: Dark Trident
   one_time: 0
@@ -57,7 +52,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -65,7 +59,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random 12 to Poison, Deal 50% damage
-  desc_jp: Change Random 12 to Poison, Deal 50% damage
   max_atk_pct: 50
   name_en: Witness the power of the abyss!
   one_time: 0

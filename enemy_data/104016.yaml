@@ -19,7 +19,6 @@ records:
   desc_en: Reduce damage from all sources by 75% for 20 turns + Voids status ailments
     for 999 turns + Void damage >= 30000000 for 999 turns, (if [3940, 3941] on team)
     (Preemptive)
-  desc_jp: Reduce damage from all sources by 75% for 20 turns + Voids status ailments
     for 999 turns + Void damage >= 30000000 for 999 turns, (if [3940, 3941] on team)
     (Preemptive)
   max_atk_pct: null
@@ -31,7 +30,6 @@ records:
   desc_en: Reduce damage from all sources by 75% for 20 turns + Voids status ailments
     for 999 turns + Void damage >= 30000000 for 999 turns, (if [2442, 2443, 3768,
     3769, 1948, 1949, 2745, 3908] on team) (Preemptive)
-  desc_jp: Reduce damage from all sources by 75% for 20 turns + Voids status ailments
     for 999 turns + Void damage >= 30000000 for 999 turns, (if [2442, 2443, 3768,
     3769, 1948, 1949, 2745, 3908] on team) (Preemptive)
   max_atk_pct: null
@@ -42,7 +40,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 20 turns + Voids status ailments
     for 999 turns + Void damage >= 30000000 for 999 turns (Preemptive)
-  desc_jp: Reduce damage from all sources by 75% for 20 turns + Voids status ailments
     for 999 turns + Void damage >= 30000000 for 999 turns (Preemptive)
   max_atk_pct: null
   name_en: You leave me no choice... + Quarryla + Fervor Flame Wings
@@ -51,7 +48,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -59,7 +55,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Do nothing
-  desc_jp: Do nothing
   max_atk_pct: null
   name_en: Shall I show a little dragon power?
   one_time: 1024
@@ -67,7 +62,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -75,7 +69,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 12 locked Bomb orbs, Deal 300% damage
-  desc_jp: Spawn random 12 locked Bomb orbs, Deal 300% damage
   max_atk_pct: 300
   name_en: Rhuentel
   one_time: 512
@@ -83,7 +76,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -91,7 +83,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Do nothing + Bind 1 random subs for 10 turns
-  desc_jp: Do nothing + Bind 1 random subs for 10 turns
   max_atk_pct: null
   name_en: Not bad, but get ready for... + Draaagon Eyes!!
   one_time: 256
@@ -99,7 +90,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -107,7 +97,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb combo <= 6 damage for 5 turns
-  desc_jp: Absorb combo <= 6 damage for 5 turns
   max_atk_pct: null
   name_en: Brace yourself for my attack!
   one_time: 128
@@ -115,7 +104,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
   one_time: null
@@ -123,7 +111,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -99% HP
-  desc_jp: Player -99% HP
   max_atk_pct: null
   name_en: Vrusilla
   one_time: 64
@@ -131,7 +118,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6-8
   one_time: null
@@ -139,7 +125,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 3rd row to Poison orbs, Deal 150% damage
-  desc_jp: Change 3rd row to Poison orbs, Deal 150% damage
   max_atk_pct: 150
   name_en: Larskerk
   one_time: 0
@@ -148,7 +133,6 @@ records:
 - !SkillRecord
   desc_en: Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 160% damage
-  desc_jp: Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 160% damage
   max_atk_pct: 160
   name_en: Fescas
@@ -157,7 +141,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Deal 180% damage (3 hits, 60% each)
-  desc_jp: Deal 180% damage (3 hits, 60% each)
   max_atk_pct: 180
   name_en: Squilla
   one_time: 0
@@ -165,7 +148,6 @@ records:
   usage_pct: 34
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 9
   one_time: null
@@ -173,7 +155,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind all orbs on the board + Enemy recover 40% hp
-  desc_jp: Blind all orbs on the board + Enemy recover 40% hp
   max_atk_pct: null
   name_en: I'm tired of concentrating + Let's take a break!
   one_time: 32
@@ -181,7 +162,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 10
   one_time: null
@@ -190,7 +170,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 1000% for the next 999 turns + Change 1st column to
     Fire orbs
-  desc_jp: Increase damage to 1000% for the next 999 turns + Change 1st column to
     Fire orbs
   max_atk_pct: null
   name_en: Sorry, but I want to return soon + Ancient firedrake, your power unto me!
@@ -199,7 +178,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 11
   one_time: null
@@ -207,7 +185,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 1st row to Fire orbs
-  desc_jp: Change 1st row to Fire orbs
   max_atk_pct: null
   name_en: Embrace and watch over me...
   one_time: 8
@@ -215,7 +192,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 12
   one_time: null
@@ -223,7 +199,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 6th column to Fire orbs
-  desc_jp: Change 6th column to Fire orbs
   max_atk_pct: null
   name_en: 1,000 flames of roaring power...
   one_time: 4
@@ -231,7 +206,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 13
   one_time: null
@@ -239,7 +213,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 5th row to Fire orbs
-  desc_jp: Change 5th row to Fire orbs
   max_atk_pct: null
   name_en: Engulf this adversary...
   one_time: 2
@@ -247,7 +220,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 14
   one_time: null
@@ -255,7 +227,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind awoken skills for 1 turns + Deal 20000% damage (10 hits, 2000% each)
-  desc_jp: Bind awoken skills for 1 turns + Deal 20000% damage (10 hits, 2000% each)
   max_atk_pct: null
   name_en: Until only ash remains! + Relentless Flames - Galvana
   one_time: 1
@@ -263,7 +234,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -271,7 +241,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 100% damage
-  desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: Please take over!
   one_time: 0

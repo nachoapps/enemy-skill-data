@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Void damage >= 10000000 for 999 turns + Leader changes to random sub for
     3 turns (Preemptive)
-  desc_jp: Void damage >= 10000000 for 999 turns + Leader changes to random sub for
     3 turns (Preemptive)
   max_atk_pct: null
   name_en: Let's take it easy for now, eh? + Sly Prank
@@ -27,7 +26,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: When afflicted by delay/poison
   one_time: null
@@ -35,7 +33,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 200% for the next 999 turns
-  desc_jp: Increase damage to 200% for the next 999 turns
   max_atk_pct: null
   name_en: Trickster's Trap
   one_time: 0
@@ -43,7 +40,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -51,7 +47,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -59,7 +54,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Jammer, Poison skyfall +8% for 5 turns + Player -98% HP
-  desc_jp: Jammer, Poison skyfall +8% for 5 turns + Player -98% HP
   max_atk_pct: null
   name_en: Shadow of Jörmungandr! Unleash chaos! + Deathline Rune
   one_time: 4
@@ -67,7 +61,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1-4
   one_time: null
@@ -76,7 +69,6 @@ records:
 - !SkillRecord
   desc_en: Spawn random 3 Jammer, Poison orbs + Bind 1 random for 1 turns, Deal 100%
     damage
-  desc_jp: Spawn random 3 Jammer, Poison orbs + Bind 1 random for 1 turns, Deal 100%
     damage
   max_atk_pct: null
   name_en: Blessings of the Trickster God + Fake Spear Gungnir
@@ -86,7 +78,6 @@ records:
 - !SkillRecord
   desc_en: Spawn random 3 Jammer, Poison orbs + Bind awoken skills for 1 turns, Deal
     100% damage
-  desc_jp: Spawn random 3 Jammer, Poison orbs + Bind awoken skills for 1 turns, Deal
     100% damage
   max_atk_pct: null
   name_en: Blessings of the Trickster God + Fake Ring Draupnir
@@ -96,7 +87,6 @@ records:
 - !SkillRecord
   desc_en: Spawn random 3 Jammer, Poison orbs + Lock 5 random Fire, Water, Wood, Light,
     Dark orbs, Deal 100% damage
-  desc_jp: Spawn random 3 Jammer, Poison orbs + Lock 5 random Fire, Water, Wood, Light,
     Dark orbs, Deal 100% damage
   max_atk_pct: null
   name_en: Blessings of the Trickster God + Fake Hammer Mjölnir
@@ -106,7 +96,6 @@ records:
 - !SkillRecord
   desc_en: Spawn random 3 Jammer, Poison orbs + Change 5th row to Fire orbs, Deal
     100% damage
-  desc_jp: Spawn random 3 Jammer, Poison orbs + Change 5th row to Fire orbs, Deal
     100% damage
   max_atk_pct: null
   name_en: Blessings of the Trickster God + Fake Blade Lævateinn
@@ -115,7 +104,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Spawn random 3 Jammer, Poison orbs + Player -99% HP
-  desc_jp: Spawn random 3 Jammer, Poison orbs + Player -99% HP
   max_atk_pct: null
   name_en: Blessings of the Trickster God + Fake Ship Skidbladnir
   one_time: 0
@@ -123,7 +111,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 5
   one_time: null
@@ -131,7 +118,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change all orbs to Jammer, Mortal Poison
-  desc_jp: Change all orbs to Jammer, Mortal Poison
   max_atk_pct: null
   name_en: World Serpent's Coil
   one_time: 4
@@ -139,7 +125,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 75
   one_time: null
@@ -147,7 +132,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -155,7 +139,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Rcv 50% for 99 turns + Player -99% HP
-  desc_jp: Rcv 50% for 99 turns + Player -99% HP
   max_atk_pct: null
   name_en: Shadow of Hel! Extinguish all life! + Deathland Rune
   one_time: 0
@@ -163,7 +146,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Lock all Poison, Mortal Poison orbs, Deal 150% damage
-  desc_jp: Lock all Poison, Mortal Poison orbs, Deal 150% damage
   max_atk_pct: 150
   name_en: Dead Judgment
   one_time: 0
@@ -172,7 +154,6 @@ records:
 - !SkillRecord
   desc_en: Spawn random 3 Jammer, Poison orbs + Bind 1 random for 1 turns, Deal 100%
     damage
-  desc_jp: Spawn random 3 Jammer, Poison orbs + Bind 1 random for 1 turns, Deal 100%
     damage
   max_atk_pct: null
   name_en: Blessings of the Trickster God + Fake Spear Gungnir
@@ -182,7 +163,6 @@ records:
 - !SkillRecord
   desc_en: Spawn random 3 Jammer, Poison orbs + Bind awoken skills for 1 turns, Deal
     100% damage
-  desc_jp: Spawn random 3 Jammer, Poison orbs + Bind awoken skills for 1 turns, Deal
     100% damage
   max_atk_pct: null
   name_en: Blessings of the Trickster God + Fake Ring Draupnir
@@ -192,7 +172,6 @@ records:
 - !SkillRecord
   desc_en: Spawn random 3 Jammer, Poison orbs + Lock 5 random Fire, Water, Wood, Light,
     Dark orbs, Deal 100% damage
-  desc_jp: Spawn random 3 Jammer, Poison orbs + Lock 5 random Fire, Water, Wood, Light,
     Dark orbs, Deal 100% damage
   max_atk_pct: null
   name_en: Blessings of the Trickster God + Fake Hammer Mjölnir
@@ -202,7 +181,6 @@ records:
 - !SkillRecord
   desc_en: Spawn random 3 Jammer, Poison orbs + Change 5th row to Fire orbs, Deal
     100% damage
-  desc_jp: Spawn random 3 Jammer, Poison orbs + Change 5th row to Fire orbs, Deal
     100% damage
   max_atk_pct: null
   name_en: Blessings of the Trickster God + Fake Blade Lævateinn
@@ -211,7 +189,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Spawn random 3 Jammer, Poison orbs + Player -99% HP
-  desc_jp: Spawn random 3 Jammer, Poison orbs + Player -99% HP
   max_atk_pct: null
   name_en: Blessings of the Trickster God + Fake Ship Skidbladnir
   one_time: 0
@@ -219,7 +196,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -227,7 +203,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -235,7 +210,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: 4x2 cloud appear for 10 turns at 1st row, 2nd column + Player -100% HP
-  desc_jp: 4x2 cloud appear for 10 turns at 1st row, 2nd column + Player -100% HP
   max_atk_pct: null
   name_en: Shadow of Fenrir! Seal the heavens! + Death Rune
   one_time: 0
@@ -243,7 +217,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Spawn random 1 Dark orbs, Deal 150% damage
-  desc_jp: Spawn random 1 Dark orbs, Deal 150% damage
   max_atk_pct: 150
   name_en: Chain Crunch
   one_time: 0
@@ -252,7 +225,6 @@ records:
 - !SkillRecord
   desc_en: Spawn random 3 Jammer, Poison orbs + Bind 1 random for 1 turns, Deal 100%
     damage
-  desc_jp: Spawn random 3 Jammer, Poison orbs + Bind 1 random for 1 turns, Deal 100%
     damage
   max_atk_pct: null
   name_en: Blessings of the Trickster God + Fake Spear Gungnir
@@ -262,7 +234,6 @@ records:
 - !SkillRecord
   desc_en: Spawn random 3 Jammer, Poison orbs + Bind awoken skills for 1 turns, Deal
     100% damage
-  desc_jp: Spawn random 3 Jammer, Poison orbs + Bind awoken skills for 1 turns, Deal
     100% damage
   max_atk_pct: null
   name_en: Blessings of the Trickster God + Fake Ring Draupnir
@@ -272,7 +243,6 @@ records:
 - !SkillRecord
   desc_en: Spawn random 3 Jammer, Poison orbs + Lock 5 random Fire, Water, Wood, Light,
     Dark orbs, Deal 100% damage
-  desc_jp: Spawn random 3 Jammer, Poison orbs + Lock 5 random Fire, Water, Wood, Light,
     Dark orbs, Deal 100% damage
   max_atk_pct: null
   name_en: Blessings of the Trickster God + Fake Hammer Mjölnir
@@ -282,7 +252,6 @@ records:
 - !SkillRecord
   desc_en: Spawn random 3 Jammer, Poison orbs + Change 5th row to Fire orbs, Deal
     100% damage
-  desc_jp: Spawn random 3 Jammer, Poison orbs + Change 5th row to Fire orbs, Deal
     100% damage
   max_atk_pct: null
   name_en: Blessings of the Trickster God + Fake Blade Lævateinn
@@ -291,7 +260,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Spawn random 3 Jammer, Poison orbs + Player -99% HP
-  desc_jp: Spawn random 3 Jammer, Poison orbs + Player -99% HP
   max_atk_pct: null
   name_en: Blessings of the Trickster God + Fake Ship Skidbladnir
   one_time: 0
@@ -299,7 +267,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -307,7 +274,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -316,7 +282,6 @@ records:
 - !SkillRecord
   desc_en: Change all orbs to Light, Heal, Jammer + Movetime 25% for 1 turns + Delay
     active skills by 30 turns
-  desc_jp: Change all orbs to Light, Heal, Jammer + Movetime 25% for 1 turns + Delay
     active skills by 30 turns
   max_atk_pct: null
   name_en: Hold on! It's not your turn yet! + Oh, fine... I'll let you have your fun
@@ -326,7 +291,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Jammer to Dark, Deal 1000% damage
-  desc_jp: Change Jammer to Dark, Deal 1000% damage
   max_atk_pct: 1000
   name_en: Nope, guess not!
   one_time: 0
@@ -334,7 +298,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Do nothing + Reduce self HP to 0
-  desc_jp: Do nothing + Reduce self HP to 0
   max_atk_pct: null
   name_en: Guess now's as good a time as any + Well then, if you'll excuse me...
   one_time: 0

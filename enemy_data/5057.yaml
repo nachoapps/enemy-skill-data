@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 95%
-  desc_jp: Survive attacks with 1 HP when HP > 95%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -26,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Bind awoken skills for 1 turns +
     Bind active skills for 1 turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Bind awoken skills for 1 turns +
     Bind active skills for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: Halo of the Goddess + Let the test begin + Well, win your freedom
@@ -35,7 +33,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -44,7 +41,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Wood, Dark damage for 10 turns + Reduce damage from all sources
     by 75% for 10 turns
-  desc_jp: Absorb Wood, Dark damage for 10 turns + Reduce damage from all sources
     by 75% for 10 turns
   max_atk_pct: null
   name_en: Until you can be free + This is the time you have left
@@ -53,7 +49,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -61,7 +56,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Movetime 25% for 1 turns + Spawn random 10 Bomb orbs
-  desc_jp: Movetime 25% for 1 turns + Spawn random 10 Bomb orbs
   max_atk_pct: null
   name_en: Value of Freedom + Independent Assembly
   one_time: 2
@@ -69,7 +63,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3-4
   one_time: null
@@ -78,7 +71,6 @@ records:
 - !SkillRecord
   desc_en: Change 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, Poison
     orbs, Deal 52% damage + Blind random 7~10 orbs for 1 turns, Deal 48% damage
-  desc_jp: Change 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, Poison
     orbs, Deal 52% damage + Blind random 7~10 orbs for 1 turns, Deal 48% damage
   max_atk_pct: null
   name_en: Seven Lands and Seas + Torch Light
@@ -88,7 +80,6 @@ records:
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Mortal Poison,
     Deal 50% damage + Blind random 7~10 orbs for 1 turns, Deal 48% damage
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Mortal Poison,
     Deal 50% damage + Blind random 7~10 orbs for 1 turns, Deal 48% damage
   max_atk_pct: null
   name_en: Seven Lands and Seas + Torch Light
@@ -99,7 +90,6 @@ records:
   desc_en: Change 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, Poison
     orbs, Deal 52% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
-  desc_jp: Change 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, Poison
     orbs, Deal 52% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
   max_atk_pct: null
@@ -111,7 +101,6 @@ records:
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Mortal Poison,
     Deal 50% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Mortal Poison,
     Deal 50% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
   max_atk_pct: null
@@ -121,7 +110,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
   one_time: null
@@ -129,7 +117,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Movetime 25% for 1 turns + Spawn random 10 Bomb orbs
-  desc_jp: Movetime 25% for 1 turns + Spawn random 10 Bomb orbs
   max_atk_pct: null
   name_en: Value of Freedom + Independent Assembly
   one_time: 2
@@ -137,7 +124,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6-7
   one_time: null
@@ -146,7 +132,6 @@ records:
 - !SkillRecord
   desc_en: Change 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, Poison
     orbs, Deal 52% damage + Blind random 7~10 orbs for 1 turns, Deal 48% damage
-  desc_jp: Change 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, Poison
     orbs, Deal 52% damage + Blind random 7~10 orbs for 1 turns, Deal 48% damage
   max_atk_pct: null
   name_en: Seven Lands and Seas + Torch Light
@@ -156,7 +141,6 @@ records:
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Mortal Poison,
     Deal 50% damage + Blind random 7~10 orbs for 1 turns, Deal 48% damage
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Mortal Poison,
     Deal 50% damage + Blind random 7~10 orbs for 1 turns, Deal 48% damage
   max_atk_pct: null
   name_en: Seven Lands and Seas + Torch Light
@@ -167,7 +151,6 @@ records:
   desc_en: Change 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, Poison
     orbs, Deal 52% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
-  desc_jp: Change 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, Poison
     orbs, Deal 52% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
   max_atk_pct: null
@@ -179,7 +162,6 @@ records:
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Mortal Poison,
     Deal 50% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Mortal Poison,
     Deal 50% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
   max_atk_pct: null
@@ -189,7 +171,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 8
   one_time: null
@@ -197,7 +178,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Movetime 25% for 1 turns + Spawn random 10 Bomb orbs
-  desc_jp: Movetime 25% for 1 turns + Spawn random 10 Bomb orbs
   max_atk_pct: null
   name_en: Value of Freedom + Independent Assembly
   one_time: 2
@@ -205,7 +185,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 9-10
   one_time: null
@@ -214,7 +193,6 @@ records:
 - !SkillRecord
   desc_en: Change 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, Poison
     orbs, Deal 52% damage + Blind random 7~10 orbs for 1 turns, Deal 48% damage
-  desc_jp: Change 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, Poison
     orbs, Deal 52% damage + Blind random 7~10 orbs for 1 turns, Deal 48% damage
   max_atk_pct: null
   name_en: Seven Lands and Seas + Torch Light
@@ -224,7 +202,6 @@ records:
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Mortal Poison,
     Deal 50% damage + Blind random 7~10 orbs for 1 turns, Deal 48% damage
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Mortal Poison,
     Deal 50% damage + Blind random 7~10 orbs for 1 turns, Deal 48% damage
   max_atk_pct: null
   name_en: Seven Lands and Seas + Torch Light
@@ -235,7 +212,6 @@ records:
   desc_en: Change 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, Poison
     orbs, Deal 52% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
-  desc_jp: Change 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, Poison
     orbs, Deal 52% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
   max_atk_pct: null
@@ -247,7 +223,6 @@ records:
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Mortal Poison,
     Deal 50% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Mortal Poison,
     Deal 50% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
   max_atk_pct: null
@@ -257,7 +232,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 11
   one_time: null
@@ -266,7 +240,6 @@ records:
 - !SkillRecord
   desc_en: Random 2 orbs change every 1.0s for 10 turns + Change all orbs to Light,
     Jammer, Deal 700% damage
-  desc_jp: Random 2 orbs change every 1.0s for 10 turns + Change all orbs to Light,
     Jammer, Deal 700% damage
   max_atk_pct: null
   name_en: Flowing Agony + Light of Hope and Despair
@@ -275,7 +248,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -283,7 +255,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -291,7 +262,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Movetime 25% for 1 turns + Spawn random 10 Bomb orbs
-  desc_jp: Movetime 25% for 1 turns + Spawn random 10 Bomb orbs
   max_atk_pct: null
   name_en: Value of Freedom + Independent Assembly
   one_time: 2
@@ -299,7 +269,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2-3
   one_time: null
@@ -308,7 +277,6 @@ records:
 - !SkillRecord
   desc_en: Change 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, Poison
     orbs, Deal 52% damage + Blind random 7~10 orbs for 1 turns, Deal 48% damage
-  desc_jp: Change 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, Poison
     orbs, Deal 52% damage + Blind random 7~10 orbs for 1 turns, Deal 48% damage
   max_atk_pct: null
   name_en: Seven Lands and Seas + Torch Light
@@ -318,7 +286,6 @@ records:
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Mortal Poison,
     Deal 50% damage + Blind random 7~10 orbs for 1 turns, Deal 48% damage
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Mortal Poison,
     Deal 50% damage + Blind random 7~10 orbs for 1 turns, Deal 48% damage
   max_atk_pct: null
   name_en: Seven Lands and Seas + Torch Light
@@ -329,7 +296,6 @@ records:
   desc_en: Change 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, Poison
     orbs, Deal 52% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
-  desc_jp: Change 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, Poison
     orbs, Deal 52% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
   max_atk_pct: null
@@ -341,7 +307,6 @@ records:
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Mortal Poison,
     Deal 50% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Mortal Poison,
     Deal 50% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
   max_atk_pct: null
@@ -351,7 +316,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 95
   one_time: null
@@ -359,7 +323,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -367,7 +330,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Seal 1st, 5th row for 5 turns + Void damage >= 15000000 for 99 turns
-  desc_jp: Seal 1st, 5th row for 5 turns + Void damage >= 15000000 for 99 turns
   max_atk_pct: null
   name_en: While impaired + Find your freedom
   one_time: 0
@@ -375,7 +337,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6
   one_time: null
@@ -383,7 +344,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Random 3 orbs change every 1.0s for 5 turns, Deal 200% damage
-  desc_jp: Random 3 orbs change every 1.0s for 5 turns, Deal 200% damage
   max_atk_pct: 200
   name_en: Flowing Agony
   one_time: 0
@@ -391,7 +351,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 11
   one_time: null
@@ -399,7 +358,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Random 3 orbs change every 1.0s for 5 turns, Deal 200% damage
-  desc_jp: Random 3 orbs change every 1.0s for 5 turns, Deal 200% damage
   max_atk_pct: 200
   name_en: Flowing Agony
   one_time: 0
@@ -407,7 +365,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 12
   one_time: null
@@ -415,7 +372,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Movetime 25% for 1 turns + Spawn random 10 Bomb orbs
-  desc_jp: Movetime 25% for 1 turns + Spawn random 10 Bomb orbs
   max_atk_pct: null
   name_en: Value of Freedom + Independent Assembly
   one_time: 2
@@ -423,7 +379,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 13-14
   one_time: null
@@ -432,7 +387,6 @@ records:
 - !SkillRecord
   desc_en: Change 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, Poison
     orbs, Deal 52% damage + Blind random 7~10 orbs for 1 turns, Deal 48% damage
-  desc_jp: Change 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, Poison
     orbs, Deal 52% damage + Blind random 7~10 orbs for 1 turns, Deal 48% damage
   max_atk_pct: null
   name_en: Seven Lands and Seas + Torch Light
@@ -442,7 +396,6 @@ records:
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Mortal Poison,
     Deal 50% damage + Blind random 7~10 orbs for 1 turns, Deal 48% damage
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Mortal Poison,
     Deal 50% damage + Blind random 7~10 orbs for 1 turns, Deal 48% damage
   max_atk_pct: null
   name_en: Seven Lands and Seas + Torch Light
@@ -453,7 +406,6 @@ records:
   desc_en: Change 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, Poison
     orbs, Deal 52% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
-  desc_jp: Change 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, Poison
     orbs, Deal 52% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
   max_atk_pct: null
@@ -465,7 +417,6 @@ records:
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Mortal Poison,
     Deal 50% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Mortal Poison,
     Deal 50% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
   max_atk_pct: null
@@ -475,7 +426,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 15
   one_time: null
@@ -483,7 +433,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Movetime 25% for 1 turns + Spawn random 10 Bomb orbs
-  desc_jp: Movetime 25% for 1 turns + Spawn random 10 Bomb orbs
   max_atk_pct: null
   name_en: Value of Freedom + Independent Assembly
   one_time: 2
@@ -491,7 +440,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 16
   one_time: null
@@ -499,7 +447,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Random 3 orbs change every 1.0s for 5 turns, Deal 200% damage
-  desc_jp: Random 3 orbs change every 1.0s for 5 turns, Deal 200% damage
   max_atk_pct: 200
   name_en: Flowing Agony
   one_time: 0
@@ -507,7 +454,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 17
   one_time: null
@@ -516,7 +462,6 @@ records:
 - !SkillRecord
   desc_en: Change 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, Poison
     orbs, Deal 52% damage + Blind random 7~10 orbs for 1 turns, Deal 48% damage
-  desc_jp: Change 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, Poison
     orbs, Deal 52% damage + Blind random 7~10 orbs for 1 turns, Deal 48% damage
   max_atk_pct: null
   name_en: Seven Lands and Seas + Torch Light
@@ -526,7 +471,6 @@ records:
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Mortal Poison,
     Deal 50% damage + Blind random 7~10 orbs for 1 turns, Deal 48% damage
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Mortal Poison,
     Deal 50% damage + Blind random 7~10 orbs for 1 turns, Deal 48% damage
   max_atk_pct: null
   name_en: Seven Lands and Seas + Torch Light
@@ -537,7 +481,6 @@ records:
   desc_en: Change 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, Poison
     orbs, Deal 52% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
-  desc_jp: Change 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, Poison
     orbs, Deal 52% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
   max_atk_pct: null
@@ -549,7 +492,6 @@ records:
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Mortal Poison,
     Deal 50% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Mortal Poison,
     Deal 50% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
   max_atk_pct: null
@@ -559,7 +501,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 18
   one_time: null
@@ -567,7 +508,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Movetime 25% for 1 turns + Spawn random 10 Bomb orbs
-  desc_jp: Movetime 25% for 1 turns + Spawn random 10 Bomb orbs
   max_atk_pct: null
   name_en: Value of Freedom + Independent Assembly
   one_time: 2
@@ -576,7 +516,6 @@ records:
 - !SkillRecord
   desc_en: Change 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, Poison
     orbs, Deal 52% damage + Blind random 7~10 orbs for 1 turns, Deal 48% damage
-  desc_jp: Change 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, Poison
     orbs, Deal 52% damage + Blind random 7~10 orbs for 1 turns, Deal 48% damage
   max_atk_pct: null
   name_en: Seven Lands and Seas + Torch Light
@@ -586,7 +525,6 @@ records:
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Mortal Poison,
     Deal 50% damage + Blind random 7~10 orbs for 1 turns, Deal 48% damage
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Mortal Poison,
     Deal 50% damage + Blind random 7~10 orbs for 1 turns, Deal 48% damage
   max_atk_pct: null
   name_en: Seven Lands and Seas + Torch Light
@@ -597,7 +535,6 @@ records:
   desc_en: Change 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, Poison
     orbs, Deal 52% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
-  desc_jp: Change 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, Poison
     orbs, Deal 52% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
   max_atk_pct: null
@@ -609,7 +546,6 @@ records:
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Mortal Poison,
     Deal 50% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Mortal Poison,
     Deal 50% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
   max_atk_pct: null
@@ -619,7 +555,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -627,7 +562,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -635,7 +569,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind awoken skills for 5 turns + Voids player buff effects
-  desc_jp: Bind awoken skills for 5 turns + Voids player buff effects
   max_atk_pct: null
   name_en: I won't let you do as you like + Saint Judge
   one_time: 0
@@ -643,7 +576,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -651,7 +583,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind active skills for 10 turns + Voids player buff effects
-  desc_jp: Bind active skills for 10 turns + Voids player buff effects
   max_atk_pct: null
   name_en: I will seal your power + Saint Judge
   one_time: 0
@@ -659,7 +590,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -667,7 +597,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Movetime 25% for 1 turns + Spawn random 10 Bomb orbs
-  desc_jp: Movetime 25% for 1 turns + Spawn random 10 Bomb orbs
   max_atk_pct: null
   name_en: Value of Freedom + Independent Assembly
   one_time: 2
@@ -675,7 +604,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
   one_time: null
@@ -684,7 +612,6 @@ records:
 - !SkillRecord
   desc_en: Change 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, Poison
     orbs, Deal 52% damage + Blind random 7~10 orbs for 1 turns, Deal 48% damage
-  desc_jp: Change 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, Poison
     orbs, Deal 52% damage + Blind random 7~10 orbs for 1 turns, Deal 48% damage
   max_atk_pct: null
   name_en: Seven Lands and Seas + Torch Light
@@ -694,7 +621,6 @@ records:
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Mortal Poison,
     Deal 50% damage + Blind random 7~10 orbs for 1 turns, Deal 48% damage
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Mortal Poison,
     Deal 50% damage + Blind random 7~10 orbs for 1 turns, Deal 48% damage
   max_atk_pct: null
   name_en: Seven Lands and Seas + Torch Light
@@ -705,7 +631,6 @@ records:
   desc_en: Change 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, Poison
     orbs, Deal 52% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
-  desc_jp: Change 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, Poison
     orbs, Deal 52% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
   max_atk_pct: null
@@ -717,7 +642,6 @@ records:
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Mortal Poison,
     Deal 50% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Mortal Poison,
     Deal 50% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
   max_atk_pct: null
@@ -727,7 +651,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 7
   one_time: null
@@ -735,7 +658,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Movetime 25% for 1 turns + Spawn random 10 Bomb orbs
-  desc_jp: Movetime 25% for 1 turns + Spawn random 10 Bomb orbs
   max_atk_pct: null
   name_en: Value of Freedom + Independent Assembly
   one_time: 2
@@ -743,7 +665,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 8
   one_time: null
@@ -752,7 +673,6 @@ records:
 - !SkillRecord
   desc_en: Change 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, Poison
     orbs, Deal 52% damage + Blind random 7~10 orbs for 1 turns, Deal 48% damage
-  desc_jp: Change 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, Poison
     orbs, Deal 52% damage + Blind random 7~10 orbs for 1 turns, Deal 48% damage
   max_atk_pct: null
   name_en: Seven Lands and Seas + Torch Light
@@ -762,7 +682,6 @@ records:
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Mortal Poison,
     Deal 50% damage + Blind random 7~10 orbs for 1 turns, Deal 48% damage
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Mortal Poison,
     Deal 50% damage + Blind random 7~10 orbs for 1 turns, Deal 48% damage
   max_atk_pct: null
   name_en: Seven Lands and Seas + Torch Light
@@ -773,7 +692,6 @@ records:
   desc_en: Change 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, Poison
     orbs, Deal 52% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
-  desc_jp: Change 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, Poison
     orbs, Deal 52% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
   max_atk_pct: null
@@ -785,7 +703,6 @@ records:
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Mortal Poison,
     Deal 50% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Mortal Poison,
     Deal 50% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
   max_atk_pct: null
@@ -795,7 +712,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 10
   one_time: null
@@ -803,7 +719,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Movetime 25% for 1 turns + Spawn random 10 Bomb orbs
-  desc_jp: Movetime 25% for 1 turns + Spawn random 10 Bomb orbs
   max_atk_pct: null
   name_en: Value of Freedom + Independent Assembly
   one_time: 2
@@ -811,7 +726,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 11
   one_time: null
@@ -820,7 +734,6 @@ records:
 - !SkillRecord
   desc_en: Change 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, Poison
     orbs, Deal 52% damage + Blind random 7~10 orbs for 1 turns, Deal 48% damage
-  desc_jp: Change 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, Poison
     orbs, Deal 52% damage + Blind random 7~10 orbs for 1 turns, Deal 48% damage
   max_atk_pct: null
   name_en: Seven Lands and Seas + Torch Light
@@ -830,7 +743,6 @@ records:
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Mortal Poison,
     Deal 50% damage + Blind random 7~10 orbs for 1 turns, Deal 48% damage
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Mortal Poison,
     Deal 50% damage + Blind random 7~10 orbs for 1 turns, Deal 48% damage
   max_atk_pct: null
   name_en: Seven Lands and Seas + Torch Light
@@ -841,7 +753,6 @@ records:
   desc_en: Change 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, Poison
     orbs, Deal 52% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
-  desc_jp: Change 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, Poison
     orbs, Deal 52% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
   max_atk_pct: null
@@ -853,7 +764,6 @@ records:
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Mortal Poison,
     Deal 50% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Mortal Poison,
     Deal 50% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
   max_atk_pct: null
@@ -863,7 +773,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 12
   one_time: null
@@ -872,7 +781,6 @@ records:
 - !SkillRecord
   desc_en: Random 2 orbs change every 1.0s for 10 turns + Change all orbs to Light,
     Jammer, Deal 700% damage
-  desc_jp: Random 2 orbs change every 1.0s for 10 turns + Change all orbs to Light,
     Jammer, Deal 700% damage
   max_atk_pct: null
   name_en: Flowing Agony + Light of Hope and Despair
@@ -881,7 +789,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 5
   one_time: null
@@ -890,7 +797,6 @@ records:
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Water, Wood, Light, Dark +
     Change all orbs to Light, Jammer, Deal 700% damage
-  desc_jp: Change own attribute to random one of Fire, Water, Wood, Light, Dark +
     Change all orbs to Light, Jammer, Deal 700% damage
   max_atk_pct: null
   name_en: Liberation + Light of Hope and Despair

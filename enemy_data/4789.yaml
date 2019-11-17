@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Bind 1 subs for 1 turns, Deal 100% damage
-  desc_jp: Bind 1 subs for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Great, right?
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Blind random 1~9 orbs for 1 turns, Deal 100% damage
-  desc_jp: Blind random 1~9 orbs for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: How many scoops?
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -41,7 +38,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 999 turns
-  desc_jp: Increase damage to 150% for the next 999 turns
   max_atk_pct: null
   name_en: It melted!
   one_time: 1
@@ -57,7 +52,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -65,7 +59,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 120% damage
-  desc_jp: Deal 120% damage
   max_atk_pct: 120
   name_en: Ice Sting
   one_time: 0

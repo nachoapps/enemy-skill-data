@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Deal 200% damage (Preemptive)
-  desc_jp: Deal 200% damage (Preemptive)
   max_atk_pct: 200
   name_en: Shoryuken
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 200% damage
-  desc_jp: Deal 200% damage
   max_atk_pct: 200
   name_en: Shoryuken
   one_time: 0
@@ -41,7 +39,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Locked Fire skyfall +100% for 5 turns (Preemptive)
-  desc_jp: Locked Fire skyfall +100% for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: Come on! I'll turn up the heat!
   one_time: 1
@@ -50,7 +47,6 @@ records:
 - !SkillRecord
   desc_en: Bind 1 subs for 1~2 turns, Deal 45% damage + Deal 100% damage + Deal 45%
     damage
-  desc_jp: Bind 1 subs for 1~2 turns, Deal 45% damage + Deal 100% damage + Deal 45%
     damage
   max_atk_pct: null
   name_en: Thunder Kick + Disable Skill + Hadoken
@@ -59,7 +55,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Player -25% HP + Deal 100% damage + Deal 50% damage
-  desc_jp: Player -25% HP + Deal 100% damage + Deal 50% damage
   max_atk_pct: null
   name_en: Inazuma Kick + Disable Skill + Shoryuken
   one_time: 0
@@ -68,7 +63,6 @@ records:
 - !SkillRecord
   desc_en: Deal 50% damage (2 hits, 25% each) + Deal 100% damage + Absorb combo <=
     4 damage for 1 turns, Deal 40% damage
-  desc_jp: Deal 50% damage (2 hits, 25% each) + Deal 100% damage + Absorb combo <=
     4 damage for 1 turns, Deal 40% damage
   max_atk_pct: null
   name_en: Lion Breaker + Disable Skill + Tatsumaki Senpukyaku
@@ -77,7 +71,6 @@ records:
   usage_pct: 34
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -85,7 +78,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -93,7 +85,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 5 turns + Do nothing
-  desc_jp: Increase damage to 150% for the next 5 turns + Do nothing
   max_atk_pct: null
   name_en: Heat Rush + I hit my boiling point!
   one_time: 0
@@ -102,7 +93,6 @@ records:
 - !SkillRecord
   desc_en: Bind 1 subs for 1~2 turns, Deal 45% damage + Deal 100% damage + Change
     3rd row to Fire orbs, Deal 45% damage
-  desc_jp: Bind 1 subs for 1~2 turns, Deal 45% damage + Deal 100% damage + Change
     3rd row to Fire orbs, Deal 45% damage
   max_atk_pct: null
   name_en: Thunder Kick + Disable Skill + Hadoken
@@ -112,7 +102,6 @@ records:
 - !SkillRecord
   desc_en: Player -25% HP + Deal 100% damage + Change 4th column to Fire orbs, Deal
     50% damage
-  desc_jp: Player -25% HP + Deal 100% damage + Change 4th column to Fire orbs, Deal
     50% damage
   max_atk_pct: null
   name_en: Inazuma Kick + Disable Skill + Shoryuken
@@ -121,7 +110,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 15
   one_time: null
@@ -129,7 +117,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 4th, 5th column to Fire orbs, Deal 400% damage
-  desc_jp: Change 4th, 5th column to Fire orbs, Deal 400% damage
   max_atk_pct: 400
   name_en: Guren Enjinkyaku
   one_time: 0

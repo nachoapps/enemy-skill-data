@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Void damage >= 100000 for 2 turns (Preemptive)
-  desc_jp: Void damage >= 100000 for 2 turns (Preemptive)
   max_atk_pct: null
   name_en: Oh! Raiders?
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: When HP is full
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -41,7 +38,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Delay active skills by 2 turns
-  desc_jp: Delay active skills by 2 turns
   max_atk_pct: null
   name_en: What Happened?
   one_time: 0
@@ -49,7 +45,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -57,7 +52,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 200% for the next 999 turns
-  desc_jp: Increase damage to 200% for the next 999 turns
   max_atk_pct: null
   name_en: Let's Go!
   one_time: 1
@@ -65,7 +59,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Jammer to Fire, Deal 70% damage
-  desc_jp: Change Jammer to Fire, Deal 70% damage
   max_atk_pct: 70
   name_en: Rose Flare
   one_time: 0
@@ -73,7 +66,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Spawn random 5 Jammer orbs, Deal 50% damage
-  desc_jp: Spawn random 5 Jammer orbs, Deal 50% damage
   max_atk_pct: 50
   name_en: Snake Bite
   one_time: 0
@@ -81,7 +73,6 @@ records:
   usage_pct: 60
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 40% damage
-  desc_jp: Blind all orbs on the board, Deal 40% damage
   max_atk_pct: 40
   name_en: Shadow Tail
   one_time: 0
@@ -89,7 +80,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: When HP is not full
   one_time: null
@@ -97,7 +87,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -105,7 +94,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 200% for the next 999 turns
-  desc_jp: Increase damage to 200% for the next 999 turns
   max_atk_pct: null
   name_en: Let's Go!
   one_time: 1
@@ -113,7 +101,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -121,7 +108,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -129,7 +115,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind 1 random cards for 1 turns
-  desc_jp: Bind 1 random cards for 1 turns
   max_atk_pct: null
   name_en: Black Magic Charge
   one_time: 2
@@ -137,7 +122,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Spawn random 11 Jammer orbs
-  desc_jp: Spawn random 11 Jammer orbs
   max_atk_pct: null
   name_en: Violet Flaaa!
   one_time: 0
@@ -145,7 +129,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 45
   one_time: null
@@ -153,7 +136,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 160% damage (2 hits, 80% each)
-  desc_jp: Deal 160% damage (2 hits, 80% each)
   max_atk_pct: 160
   name_en: Violet Flame
   one_time: 0

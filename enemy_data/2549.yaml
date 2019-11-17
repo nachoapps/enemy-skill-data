@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns (Preemptive)
   max_atk_pct: null
   name_en: What are you doing on my grounds!
   one_time: 1
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Lock 6 random Fire, Water, Wood, Light, Dark orbs, Deal 100% damage
-  desc_jp: Lock 6 random Fire, Water, Wood, Light, Dark orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Miracle
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 105% damage (3 hits, 35% each)
-  desc_jp: Deal 105% damage (3 hits, 35% each)
   max_atk_pct: 105
   name_en: Shower of Blossoms
   one_time: 0
@@ -49,7 +45,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -57,7 +52,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Fire to Jammer, Deal 140% damage
-  desc_jp: Change Fire to Jammer, Deal 140% damage
   max_atk_pct: 140
   name_en: Fire Fighting Black Dog
   one_time: 2
@@ -65,7 +59,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Change 3rd, 4th column to Jammer orbs, Deal 140% damage
-  desc_jp: Change 3rd, 4th column to Jammer orbs, Deal 140% damage
   max_atk_pct: 140
   name_en: Guiding White Dog
   one_time: 2
@@ -73,7 +66,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 3
   one_time: null
@@ -81,7 +73,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Lock 6 random Fire, Water, Wood, Light, Dark orbs, Deal 100% damage
-  desc_jp: Lock 6 random Fire, Water, Wood, Light, Dark orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Miracle
   one_time: 0
@@ -89,7 +80,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 105% damage (3 hits, 35% each)
-  desc_jp: Deal 105% damage (3 hits, 35% each)
   max_atk_pct: 105
   name_en: Shower of Blossoms
   one_time: 0
@@ -97,7 +87,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 40
   one_time: null
@@ -105,7 +94,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -113,7 +101,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Enemy recover 30% hp
-  desc_jp: Enemy recover 30% hp
   max_atk_pct: null
   name_en: Amenotamu-zake
   one_time: 0
@@ -121,7 +108,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Random to Water, Deal 160% damage
-  desc_jp: Change Random to Water, Deal 160% damage
   max_atk_pct: 160
   name_en: Behold my Magnificent Strength!
   one_time: 0
@@ -129,7 +115,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -137,7 +122,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -145,7 +129,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -100% HP
-  desc_jp: Player -100% HP
   max_atk_pct: null
   name_en: Spirit of Kagutsuchi
   one_time: 0
@@ -153,7 +136,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 320% damage (2 hits, 160% each)
-  desc_jp: Deal 320% damage (2 hits, 160% each)
   max_atk_pct: 320
   name_en: God of War's Great Strength
   one_time: 0

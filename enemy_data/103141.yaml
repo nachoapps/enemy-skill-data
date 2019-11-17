@@ -18,7 +18,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Lock all Fire orbs, Deal 100% damage (Preemptive)
-  desc_jp: Lock all Fire orbs, Deal 100% damage (Preemptive)
   max_atk_pct: 100
   name_en: Senton Quebradora
   one_time: 0
@@ -26,7 +25,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 100% damage (Preemptive)
-  desc_jp: Deal 100% damage (Preemptive)
   max_atk_pct: 100
   name_en: Senton Quebradora
   one_time: 0
@@ -34,7 +32,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 80%~120% damage (2~3 hits, 40% each)
-  desc_jp: Deal 80%~120% damage (2~3 hits, 40% each)
   max_atk_pct: 120
   name_en: Muscle Revenger
   one_time: 0
@@ -42,7 +39,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -50,7 +46,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -58,7 +53,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb Fire damage for 3 turns
-  desc_jp: Absorb Fire damage for 3 turns
   max_atk_pct: null
   name_en: Moctezuma Defense
   one_time: 64
@@ -66,7 +60,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -74,7 +67,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind own leader for 4 turns, Deal 50% damage
-  desc_jp: Bind own leader for 4 turns, Deal 50% damage
   max_atk_pct: 50
   name_en: 'Secret Art: Steel Domination'
   one_time: 32
@@ -82,7 +74,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -90,7 +81,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random to Fire, Deal 80% damage
-  desc_jp: Change Random to Fire, Deal 80% damage
   max_atk_pct: 80
   name_en: Aztec Drop
   one_time: 16
@@ -98,7 +88,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -106,7 +95,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Lock all Fire orbs, Deal 100% damage
-  desc_jp: Lock all Fire orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Aztec Senton
   one_time: 8
@@ -114,7 +102,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 100% damage
-  desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: Aztec Senton
   one_time: 8
@@ -122,7 +109,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
   one_time: null
@@ -130,7 +116,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 4 Fire orbs, Deal 80% damage
-  desc_jp: Spawn random 4 Fire orbs, Deal 80% damage
   max_atk_pct: 80
   name_en: Aztec Knee Drop
   one_time: 4
@@ -138,7 +123,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6
   one_time: null
@@ -146,7 +130,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -99% HP
-  desc_jp: Player -99% HP
   max_atk_pct: null
   name_en: Aztec Headbutt
   one_time: 2
@@ -154,7 +137,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 7
   one_time: null
@@ -162,7 +144,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 360% damage (6 hits, 60% each)
-  desc_jp: Deal 360% damage (6 hits, 60% each)
   max_atk_pct: 360
   name_en: Muscle Revenger!!
   one_time: 1
@@ -170,7 +151,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Reduce self HP to 0
-  desc_jp: Reduce self HP to 0
   max_atk_pct: null
   name_en: Divine Retribution
   one_time: 0

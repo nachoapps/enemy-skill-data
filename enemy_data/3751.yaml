@@ -19,7 +19,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Absorb combo <= 6 damage for 1 turns
     + Movetime 25% for 1 turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Absorb combo <= 6 damage for 1 turns
     + Movetime 25% for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: 乗り越えてみろ + 王の試練 + 王の勅令
@@ -28,7 +27,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: When HP is full
   one_time: null
@@ -36,7 +34,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -44,7 +41,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind awoken skills for 10 turns
-  desc_jp: Bind awoken skills for 10 turns
   max_atk_pct: null
   name_en: その程度か？
   one_time: 0
@@ -52,7 +48,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change 3rd row to Wood, Jammer orbs, Deal 95% damage
-  desc_jp: Change 3rd row to Wood, Jammer orbs, Deal 95% damage
   max_atk_pct: 95
   name_en: ジャッジメントアダマス
   one_time: 0
@@ -60,7 +55,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Delay active skills by 2 turns, Deal 100% damage
-  desc_jp: Delay active skills by 2 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: ブレイクスワロー
   one_time: 0
@@ -68,7 +62,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Deal 110% damage (2 hits, 55% each)
-  desc_jp: Deal 110% damage (2 hits, 55% each)
   max_atk_pct: 110
   name_en: キラーサイズ
   one_time: 0
@@ -76,7 +69,6 @@ records:
   usage_pct: 34
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: When HP is not full
   one_time: null
@@ -84,7 +76,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -92,7 +83,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 10 turns
-  desc_jp: Reduce damage from all sources by 75% for 10 turns
   max_atk_pct: null
   name_en: 少しはできるようだな
   one_time: 0
@@ -100,7 +90,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -108,7 +97,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -116,7 +104,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Locked random skyfall +20% for 10 turns + Jammer skyfall +15% for 10 turns
-  desc_jp: Locked random skyfall +20% for 10 turns + Jammer skyfall +15% for 10 turns
   max_atk_pct: null
   name_en: 少し物足りないな + これで楽しめそうだな
   one_time: 0
@@ -124,7 +111,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -132,7 +118,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -140,7 +125,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind awoken skills for 1 turns + Change player HP to 1000 for 1 turns
-  desc_jp: Bind awoken skills for 1 turns + Change player HP to 1000 for 1 turns
   max_atk_pct: null
   name_en: もう十分だ + 終わらせよう
   one_time: 0
@@ -148,7 +132,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 320% damage (4 hits, 80% each)
-  desc_jp: Deal 320% damage (4 hits, 80% each)
   max_atk_pct: 320
   name_en: バニッシュメントアダマス
   one_time: 0

@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Void damage >= 250000 for 1 turns (Preemptive)
-  desc_jp: Void damage >= 250000 for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: Super Armor
   one_time: 1
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 100% damage (2 hits, 50% each)
-  desc_jp: Deal 100% damage (2 hits, 50% each)
   max_atk_pct: 100
   name_en: Have at you!
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
   one_time: null
@@ -41,7 +38,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 150% damage
-  desc_jp: Deal 150% damage
   max_atk_pct: 150
   name_en: Megaton Slash
   one_time: 0

@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Change Random 2 to Jammer (Preemptive)
-  desc_jp: Change Random 2 to Jammer (Preemptive)
   max_atk_pct: null
   name_en: Mystery Illusion
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Wood to Water, Deal 90% damage
-  desc_jp: Change Wood to Water, Deal 90% damage
   max_atk_pct: 90
   name_en: Magical Wash
   one_time: 1
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -41,7 +38,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Do nothing
-  desc_jp: Do nothing
   max_atk_pct: null
   name_en: Ride On
   one_time: 0
@@ -57,7 +52,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 150% damage (2 hits, 75% each)
-  desc_jp: Deal 150% damage (2 hits, 75% each)
   max_atk_pct: 150
   name_en: Twin Cross Bomb
   one_time: 0

@@ -18,7 +18,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 50%
-  desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -26,7 +25,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Absorb combo <= 7 damage for 10 turns (Preemptive)
-  desc_jp: Absorb combo <= 7 damage for 10 turns (Preemptive)
   max_atk_pct: null
   name_en: Tamahagane Iron Skin
   one_time: 0
@@ -34,7 +32,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -42,7 +39,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change own attribute to Water
-  desc_jp: Change own attribute to Water
   max_atk_pct: null
   name_en: Hollow Slice like Flowing Water
   one_time: 0
@@ -50,7 +46,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -58,7 +53,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 3rd column to Wood orbs, Deal 250% damage
-  desc_jp: Change 3rd column to Wood orbs, Deal 250% damage
   max_atk_pct: 250
   name_en: Piercing Wind
   one_time: 0
@@ -66,7 +60,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Rcv 50% for 1 turns, Deal 220% damage
-  desc_jp: Rcv 50% for 1 turns, Deal 220% damage
   max_atk_pct: 220
   name_en: Flower Cutter
   one_time: 0
@@ -74,7 +67,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Random 3 orbs change every 1.0s for 1 turns, Deal 230% damage
-  desc_jp: Random 3 orbs change every 1.0s for 1 turns, Deal 230% damage
   max_atk_pct: 230
   name_en: Uzu Tomoe
   one_time: 0
@@ -82,7 +74,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Deal 280% damage (10 hits, 28% each)
-  desc_jp: Deal 280% damage (10 hits, 28% each)
   max_atk_pct: 280
   name_en: 1,000 Cuts
   one_time: 0
@@ -90,7 +81,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -98,7 +88,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -107,7 +96,6 @@ records:
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Mortal Poison + Bind 1 random for 5 turns, Deal 280% damage
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Mortal Poison + Bind 1 random for 5 turns, Deal 280% damage
   max_atk_pct: null
   name_en: Kaleidoscope + Unbind
@@ -116,7 +104,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -124,7 +111,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 3 turns
-  desc_jp: Reduce damage from all sources by 75% for 3 turns
   max_atk_pct: null
   name_en: Forge Folding
   one_time: 1
@@ -132,7 +118,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 15
   one_time: null
@@ -140,7 +125,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Enemy recover 60% hp
-  desc_jp: Enemy recover 60% hp
   max_atk_pct: null
   name_en: Reforge
   one_time: 0

@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Player recover 100% hp (Preemptive)
-  desc_jp: Player recover 100% hp (Preemptive)
   max_atk_pct: null
   name_en: Keep yourselves in top condition.
   one_time: 4
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind awoken skills for 3 turns
-  desc_jp: Bind awoken skills for 3 turns
   max_atk_pct: null
   name_en: This is a waste of time.
   one_time: 2
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 4th column to Dark orbs, Deal 100% damage
-  desc_jp: Change 4th column to Dark orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Stationary Transmutation
   one_time: 0
@@ -57,7 +52,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Change 3rd row to Dark orbs, Deal 100% damage
-  desc_jp: Change 3rd row to Dark orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Stationary Transmutation
   one_time: 0
@@ -65,7 +59,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Spawn random 6 Jammer orbs, Deal 100% damage
-  desc_jp: Spawn random 6 Jammer orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Stationary Transmutation
   one_time: 0
@@ -73,7 +66,6 @@ records:
   usage_pct: 15
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 1 turns, Deal 100% damage
-  desc_jp: Reduce damage from all sources by 50% for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Stationary Transmutation
   one_time: 0
@@ -82,7 +74,6 @@ records:
 - !SkillRecord
   desc_en: Lock 8 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 100% damage
-  desc_jp: Lock 8 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Stationary Transmutation
@@ -91,7 +82,6 @@ records:
   usage_pct: 15
 - !SkillRecord
   desc_en: Spawn random 3 Poison orbs, Deal 100% damage
-  desc_jp: Spawn random 3 Poison orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Stationary Transmutation
   one_time: 0
@@ -99,7 +89,6 @@ records:
   usage_pct: 15
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -107,7 +96,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -115,7 +103,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind awoken skills for 3 turns
-  desc_jp: Bind awoken skills for 3 turns
   max_atk_pct: null
   name_en: This is a waste of time.
   one_time: 2
@@ -123,7 +110,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Increase damage to 300% for the next 999 turns
-  desc_jp: Increase damage to 300% for the next 999 turns
   max_atk_pct: null
   name_en: I will become a perfect being.
   one_time: 1

@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 54%
-  desc_jp: Survive attacks with 1 HP when HP > 54%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -26,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Fire, Water skyfall +20% for 99 turns + Locked Fire, Water skyfall +100%
     for 99 turns (Preemptive)
-  desc_jp: Fire, Water skyfall +20% for 99 turns + Locked Fire, Water skyfall +100%
     for 99 turns (Preemptive)
   max_atk_pct: null
   name_en: Aquaflame Evocation + Enchant Lock
@@ -35,7 +33,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Delay active skills by 3 turns
-  desc_jp: Delay active skills by 3 turns
   max_atk_pct: null
   name_en: Power Suction
   one_time: 0
@@ -43,7 +40,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 90
   one_time: null
@@ -51,7 +47,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 150% damage (3 hits, 50% each), (if [2442, 2443] on team)
-  desc_jp: Deal 150% damage (3 hits, 50% each), (if [2442, 2443] on team)
   max_atk_pct: 150
   name_en: Vortex Breath
   one_time: 0
@@ -59,7 +54,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Change 3rd row to Water orbs, Deal 100% damage, (if [2442, 2443] on team)
-  desc_jp: Change 3rd row to Water orbs, Deal 100% damage, (if [2442, 2443] on team)
   max_atk_pct: 100
   name_en: Press Wave
   one_time: 0
@@ -67,7 +61,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 65
   one_time: null
@@ -75,7 +68,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -83,7 +75,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb Wood damage for 3 turns
-  desc_jp: Absorb Wood damage for 3 turns
   max_atk_pct: null
   name_en: Anti-Plant
   one_time: 0
@@ -91,7 +82,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -99,7 +89,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -107,7 +96,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 3rd row to Water orbs, Deal 100% damage, (if [2442, 2443] on team)
-  desc_jp: Change 3rd row to Water orbs, Deal 100% damage, (if [2442, 2443] on team)
   max_atk_pct: 100
   name_en: Press Wave
   one_time: 0
@@ -115,7 +103,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 150% damage (3 hits, 50% each), (if [2442, 2443] on team)
-  desc_jp: Deal 150% damage (3 hits, 50% each), (if [2442, 2443] on team)
   max_atk_pct: 150
   name_en: Vortex Breath
   one_time: 0
@@ -123,7 +110,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Bind active skills for 10 turns, (if [2442, 2443] on team)
-  desc_jp: Bind active skills for 10 turns, (if [2442, 2443] on team)
   max_atk_pct: null
   name_en: I don't need to fight with you.
   one_time: 0
@@ -131,7 +117,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Player -99% HP, (if [1948, 1949] on team)
-  desc_jp: Player -99% HP, (if [1948, 1949] on team)
   max_atk_pct: null
   name_en: Can you fight through my trial?
   one_time: 0
@@ -139,7 +124,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Player -99% HP + Bind active skills for 10 turns
-  desc_jp: Player -99% HP + Bind active skills for 10 turns
   max_atk_pct: null
   name_en: Flare Tick Explosion + Sea King's Eye
   one_time: 0
@@ -147,7 +131,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -155,7 +138,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 500% damage (5 hits, 100% each)
-  desc_jp: Deal 500% damage (5 hits, 100% each)
   max_atk_pct: 500
   name_en: Flare Stream
   one_time: 0
@@ -163,7 +145,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Enemy is defeated
   one_time: null
@@ -172,7 +153,6 @@ records:
 - !SkillRecord
   desc_en: Delay active skills by 5 turns + Bind 6 random for 5 turns, Deal 2500%
     damage
-  desc_jp: Delay active skills by 5 turns + Bind 6 random for 5 turns, Deal 2500%
     damage
   max_atk_pct: null
   name_en: Wrath of Water + Swirl Cage

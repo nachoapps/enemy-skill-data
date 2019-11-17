@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Deal 60% damage (Preemptive)
-  desc_jp: Deal 60% damage (Preemptive)
   max_atk_pct: 60
   name_en: Gale Thrust
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 300% for the next 999 turns (When 1 enemy remains)
-  desc_jp: Increase damage to 300% for the next 999 turns (When 1 enemy remains)
   max_atk_pct: null
   name_en: Lone Force
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 105%~140% damage (3~4 hits, 35% each)
-  desc_jp: Deal 105%~140% damage (3~4 hits, 35% each)
   max_atk_pct: 140
   name_en: Rainfall Thrust
   one_time: 0
@@ -57,7 +52,6 @@ records:
   usage_pct: 70
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
   one_time: null
@@ -65,7 +59,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -73,7 +66,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 10% damage
-  desc_jp: Deal 10% damage
   max_atk_pct: 10
   name_en: A little closer...
   one_time: 1
@@ -81,7 +73,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -89,7 +80,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 200% damage
-  desc_jp: Deal 200% damage
   max_atk_pct: 200
   name_en: Critical Charge
   one_time: 0
@@ -105,7 +95,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Deal 60% damage (Preemptive)
-  desc_jp: Deal 60% damage (Preemptive)
   max_atk_pct: 60
   name_en: Gale Thrust
   one_time: 0
@@ -113,7 +102,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -121,7 +109,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 300% for the next 999 turns (When 1 enemy remains)
-  desc_jp: Increase damage to 300% for the next 999 turns (When 1 enemy remains)
   max_atk_pct: null
   name_en: Lone Force
   one_time: 0
@@ -129,7 +116,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -137,7 +123,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 105%~140% damage (3~4 hits, 35% each)
-  desc_jp: Deal 105%~140% damage (3~4 hits, 35% each)
   max_atk_pct: 140
   name_en: Rainfall Thrust
   one_time: 0
@@ -145,7 +130,6 @@ records:
   usage_pct: 70
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
   one_time: null
@@ -153,7 +137,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -161,7 +144,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 10% damage
-  desc_jp: Deal 10% damage
   max_atk_pct: 10
   name_en: A little closer...
   one_time: 1
@@ -169,7 +151,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -177,7 +158,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 200% damage
-  desc_jp: Deal 200% damage
   max_atk_pct: 200
   name_en: Critical Charge
   one_time: 0

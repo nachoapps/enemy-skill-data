@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Deal 100% damage
-  desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: Preemptive
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 100% damage (2 hits, 50% each)
-  desc_jp: Deal 100% damage (2 hits, 50% each)
   max_atk_pct: 100
   name_en: Flame Slash
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -41,7 +38,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind Dark cards for 2~4 turns
-  desc_jp: Bind Dark cards for 2~4 turns
   max_atk_pct: null
   name_en: Dark Bind
   one_time: 1
@@ -57,7 +52,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Do nothing
-  desc_jp: Do nothing
   max_atk_pct: null
   name_en: Countless Dark Bullets Appear
   one_time: 0
@@ -65,7 +59,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 120%~180% damage (4~6 hits, 30% each)
-  desc_jp: Deal 120%~180% damage (4~6 hits, 30% each)
   max_atk_pct: 180
   name_en: Barrage Bomb
   one_time: 0
@@ -81,7 +74,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Deal 100% damage
-  desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: Preemptive
   one_time: 0
@@ -89,7 +81,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 100% damage (2 hits, 50% each)
-  desc_jp: Deal 100% damage (2 hits, 50% each)
   max_atk_pct: 100
   name_en: Flame Slash
   one_time: 0
@@ -97,7 +88,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -105,7 +95,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -113,7 +102,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind Dark cards for 10 turns
-  desc_jp: Bind Dark cards for 10 turns
   max_atk_pct: null
   name_en: Hyper Dark Bind
   one_time: 1
@@ -121,7 +109,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Do nothing
-  desc_jp: Do nothing
   max_atk_pct: null
   name_en: Countless Dark Bullets Appear
   one_time: 0
@@ -129,7 +116,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 120%~180% damage (4~6 hits, 30% each)
-  desc_jp: Deal 120%~180% damage (4~6 hits, 30% each)
   max_atk_pct: 180
   name_en: Barrage Bomb
   one_time: 0

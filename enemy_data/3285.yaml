@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: On death
   one_time: null
@@ -25,7 +24,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 3 Poison orbs
-  desc_jp: Spawn random 3 Poison orbs
   max_atk_pct: null
   name_en: I-I lost...*sniff*
   one_time: 0
@@ -42,7 +40,6 @@ records:
 - !SkillRecord
   desc_en: Player -99% HP + Voids status ailments for 5 turns, (if [2744] on team)
     (Preemptive)
-  desc_jp: Player -99% HP + Voids status ailments for 5 turns, (if [2744] on team)
     (Preemptive)
   max_atk_pct: null
   name_en: Uwahahaha! Respect my authority! + Sure, I'll let you go...if you win!
@@ -51,7 +48,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Player -99% HP + Voids status ailments for 5 turns (Preemptive)
-  desc_jp: Player -99% HP + Voids status ailments for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: Uwahahaha! Respect my authority! + I'm the baddest of the bad!
   one_time: 0
@@ -59,7 +55,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -67,7 +62,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Do nothing, (if [1849] on team)
-  desc_jp: Do nothing, (if [1849] on team)
   max_atk_pct: null
   name_en: Oh, hello Father♪
   one_time: 0
@@ -75,7 +69,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -83,7 +76,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 1st row to Jammer orbs, Deal 120% damage
-  desc_jp: Change 1st row to Jammer orbs, Deal 120% damage
   max_atk_pct: 120
   name_en: Scythe of Divine Judgment
   one_time: 0
@@ -91,7 +83,6 @@ records:
   usage_pct: 60
 - !SkillRecord
   desc_en: Change Random 2 to Mortal Poison
-  desc_jp: Change Random 2 to Mortal Poison
   max_atk_pct: null
   name_en: Dead Gift
   one_time: 0
@@ -99,7 +90,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -107,7 +97,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -115,7 +104,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Do nothing + Player -99% HP
-  desc_jp: Do nothing + Player -99% HP
   max_atk_pct: null
   name_en: You've got some nerve! I will end you! + Death Sentence
   one_time: 8
@@ -123,7 +111,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -131,7 +118,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random 3 to Mortal Poison
-  desc_jp: Change Random 3 to Mortal Poison
   max_atk_pct: null
   name_en: '3'
   one_time: 4
@@ -139,7 +125,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Random 3 to Mortal Poison
-  desc_jp: Change Random 3 to Mortal Poison
   max_atk_pct: null
   name_en: '2'
   one_time: 2
@@ -147,7 +132,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Random 3 to Mortal Poison
-  desc_jp: Change Random 3 to Mortal Poison
   max_atk_pct: null
   name_en: '1'
   one_time: 1
@@ -155,7 +139,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 2000% damage (2 hits, 1000% each)
-  desc_jp: Deal 2000% damage (2 hits, 1000% each)
   max_atk_pct: 2000
   name_en: Catastrophe
   one_time: 0
@@ -163,7 +146,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -171,7 +153,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random 3 to Mortal Poison
-  desc_jp: Change Random 3 to Mortal Poison
   max_atk_pct: null
   name_en: '2'
   one_time: 2
@@ -179,7 +160,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Random 3 to Mortal Poison
-  desc_jp: Change Random 3 to Mortal Poison
   max_atk_pct: null
   name_en: '1'
   one_time: 1
@@ -187,7 +167,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 2000% damage (2 hits, 1000% each)
-  desc_jp: Deal 2000% damage (2 hits, 1000% each)
   max_atk_pct: 2000
   name_en: Catastrophe
   one_time: 0
@@ -195,7 +174,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -203,7 +181,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random 3 to Mortal Poison
-  desc_jp: Change Random 3 to Mortal Poison
   max_atk_pct: null
   name_en: '1'
   one_time: 1
@@ -211,7 +188,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 2000% damage (2 hits, 1000% each)
-  desc_jp: Deal 2000% damage (2 hits, 1000% each)
   max_atk_pct: 2000
   name_en: Catastrophe
   one_time: 0
@@ -219,7 +195,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 2000% damage (2 hits, 1000% each)
-  desc_jp: Deal 2000% damage (2 hits, 1000% each)
   max_atk_pct: 2000
   name_en: Catastrophe
   one_time: 0
@@ -227,7 +202,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: On death
   one_time: null
@@ -235,7 +209,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 3 Poison orbs
-  desc_jp: Spawn random 3 Poison orbs
   max_atk_pct: null
   name_en: I-I lost...*sniff*
   one_time: 0

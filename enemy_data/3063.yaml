@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Absorb combo <= 5 damage for 99 turns (Preemptive)
-  desc_jp: Absorb combo <= 5 damage for 99 turns (Preemptive)
   max_atk_pct: null
   name_en: Stop TAMA!
   one_time: 1
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Spawn random 3 Fire orbs, Deal 100% damage
-  desc_jp: Spawn random 3 Fire orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Dragon Flare
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 40
   one_time: null
@@ -41,7 +38,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Do nothing
-  desc_jp: Do nothing
   max_atk_pct: null
   name_en: Draco Summon TAMA!
   one_time: 0
@@ -57,7 +52,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Spawn random 10 Fire orbs, Deal 500% damage
-  desc_jp: Spawn random 10 Fire orbs, Deal 500% damage
   max_atk_pct: 500
   name_en: Meteo Flame
   one_time: 0

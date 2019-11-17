@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from Healer by 50%
-  desc_jp: Reduce damage from Healer by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -26,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 90% for 1 turns + Voids status ailments
     for 6 turns (Preemptive)
-  desc_jp: Reduce damage from all sources by 90% for 1 turns + Voids status ailments
     for 6 turns (Preemptive)
   max_atk_pct: null
   name_en: Dance of the Stronghold + Hero's Pride
@@ -35,7 +33,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -43,7 +40,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change own attribute to Wood + Unable to match Fire orbs for 2 turns
-  desc_jp: Change own attribute to Wood + Unable to match Fire orbs for 2 turns
   max_atk_pct: null
   name_en: Style Change + Fire Chain
   one_time: 1
@@ -51,7 +47,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2-5
   one_time: null
@@ -59,7 +54,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 1st column to Fire orbs, Deal 130% damage
-  desc_jp: Change 1st column to Fire orbs, Deal 130% damage
   max_atk_pct: 130
   name_en: Flame Sword
   one_time: 0
@@ -67,7 +61,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Spawn random 5 Wood orbs, Deal 130% damage
-  desc_jp: Spawn random 5 Wood orbs, Deal 130% damage
   max_atk_pct: 130
   name_en: Wind Sword
   one_time: 0
@@ -75,7 +68,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6
   one_time: null
@@ -83,7 +75,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb damage >= 4000000 damage for 5 turns + Player -99% HP
-  desc_jp: Absorb damage >= 4000000 damage for 5 turns + Player -99% HP
   max_atk_pct: null
   name_en: Dance of Aggression + Axe Kick
   one_time: 0
@@ -91,7 +82,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -99,7 +89,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 1st column to Fire orbs, Deal 130% damage
-  desc_jp: Change 1st column to Fire orbs, Deal 130% damage
   max_atk_pct: 130
   name_en: Flame Sword
   one_time: 0
@@ -107,7 +96,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Spawn random 5 Wood orbs, Deal 130% damage
-  desc_jp: Spawn random 5 Wood orbs, Deal 130% damage
   max_atk_pct: 130
   name_en: Wind Sword
   one_time: 0
@@ -115,7 +103,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 40
   one_time: null
@@ -123,7 +110,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2-5
   one_time: null
@@ -132,7 +118,6 @@ records:
 - !SkillRecord
   desc_en: Change 1st, 2nd, 3rd column to Fire orbs, 4th, 5th, 6th column to Wood
     orbs, Deal 180% damage
-  desc_jp: Change 1st, 2nd, 3rd column to Fire orbs, 4th, 5th, 6th column to Wood
     orbs, Deal 180% damage
   max_atk_pct: 180
   name_en: Twin Blade Dance
@@ -141,7 +126,6 @@ records:
   usage_pct: 70
 - !SkillRecord
   desc_en: Change 1st column to Fire orbs, Deal 130% damage
-  desc_jp: Change 1st column to Fire orbs, Deal 130% damage
   max_atk_pct: 130
   name_en: Flame Sword
   one_time: 0
@@ -149,7 +133,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Spawn random 5 Wood orbs, Deal 130% damage
-  desc_jp: Spawn random 5 Wood orbs, Deal 130% damage
   max_atk_pct: 130
   name_en: Wind Sword
   one_time: 0

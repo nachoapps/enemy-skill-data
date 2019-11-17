@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Enemy turn counter change to 3 when HP <= 50%
-  desc_jp: Enemy turn counter change to 3 when HP <= 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 50%
-  desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -34,7 +32,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Void damage >= 10000000 for 999 turns
     + Delay active skills by 3 turns, Deal 125% damage (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Void damage >= 10000000 for 999 turns
     + Delay active skills by 3 turns, Deal 125% damage (Preemptive)
   max_atk_pct: null
   name_en: That's a good look + Try to beat me! + Darkstrom
@@ -43,7 +40,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1-2
   one_time: null
@@ -51,7 +47,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Poison to Mortal Poison, Deal 150% damage
-  desc_jp: Change Poison to Mortal Poison, Deal 150% damage
   max_atk_pct: 150
   name_en: Chaostrom
   one_time: 0
@@ -59,7 +54,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Spawn random 8 Poison orbs, Deal 100% damage
-  desc_jp: Spawn random 8 Poison orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Abysstrom
   one_time: 0
@@ -67,7 +61,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 110% damage (2 hits, 55% each)
-  desc_jp: Deal 110% damage (2 hits, 55% each)
   max_atk_pct: 110
   name_en: Double Scissors
   one_time: 0
@@ -75,7 +68,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -83,7 +75,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb combo <= 7 damage for 99 turns
-  desc_jp: Absorb combo <= 7 damage for 99 turns
   max_atk_pct: null
   name_en: Novice
   one_time: 0
@@ -91,7 +82,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -99,7 +89,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Poison to Mortal Poison, Deal 150% damage
-  desc_jp: Change Poison to Mortal Poison, Deal 150% damage
   max_atk_pct: 150
   name_en: Chaostrom
   one_time: 0
@@ -107,7 +96,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Spawn random 8 Poison orbs, Deal 100% damage
-  desc_jp: Spawn random 8 Poison orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Abysstrom
   one_time: 0
@@ -115,7 +103,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 110% damage (2 hits, 55% each)
-  desc_jp: Deal 110% damage (2 hits, 55% each)
   max_atk_pct: 110
   name_en: Double Scissors
   one_time: 0
@@ -123,7 +110,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -131,7 +117,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -140,7 +125,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 99 turns + Movetime 50% for 10
     turns
-  desc_jp: Reduce damage from all sources by 50% for 99 turns + Movetime 50% for 10
     turns
   max_atk_pct: null
   name_en: Finally, you will struggle... + Prepare yourself!
@@ -149,7 +133,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 1000% damage (5 hits, 200% each)
-  desc_jp: Deal 1000% damage (5 hits, 200% each)
   max_atk_pct: 1000
   name_en: Abyss Maelstrom
   one_time: 0
@@ -157,7 +140,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Enemy is defeated
   one_time: null
@@ -165,7 +147,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -173,7 +154,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Enemy recover 50% hp + Reduce damage from all sources by 75% for 99 turns
-  desc_jp: Enemy recover 50% hp + Reduce damage from all sources by 75% for 99 turns
   max_atk_pct: null
   name_en: How regrettable + Finally, you will struggle
   one_time: 1

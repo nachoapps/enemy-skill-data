@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Player recover 100% hp + Movetime 150% for 5 turns (Preemptive)
-  desc_jp: Player recover 100% hp + Movetime 150% for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: ツチノコスマイル + しあわせ　あげちゃうっ！
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 110% damage
-  desc_jp: Deal 110% damage
   max_atk_pct: 110
   name_en: カプッ！
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Change Random to Wood, Deal 90% damage
-  desc_jp: Change Random to Wood, Deal 90% damage
   max_atk_pct: 90
   name_en: クローバー　ふやしちゃおっ！
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Change 3rd row to Heal orbs, Deal 100% damage
-  desc_jp: Change 3rd row to Heal orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: しあわせだなぁ～
   one_time: 0
@@ -49,7 +45,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Bind 4 random subs for 1 turns, Deal 80% damage
-  desc_jp: Bind 4 random subs for 1 turns, Deal 80% damage
   max_atk_pct: 80
   name_en: みんな　なかよくしよっ！
   one_time: 1
@@ -57,7 +52,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -65,7 +59,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -73,7 +66,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 5 turns (When 1 enemy remains)
-  desc_jp: Increase damage to 150% for the next 5 turns (When 1 enemy remains)
   max_atk_pct: null
   name_en: キュピーン！
   one_time: 0

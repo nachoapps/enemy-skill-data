@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Void damage >= 35000000 for 999 turns
     (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Void damage >= 35000000 for 999 turns
     (Preemptive)
   max_atk_pct: null
   name_en: 'Wonderful! I''ve been waiting for you! + Just a warning: I won''t hold
@@ -28,7 +27,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -36,7 +34,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -99% HP
-  desc_jp: Player -99% HP
   max_atk_pct: null
   name_en: Have at you!
   one_time: 32
@@ -44,7 +41,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -52,7 +48,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 200% damage (2 hits, 100% each)
-  desc_jp: Deal 200% damage (2 hits, 100% each)
   max_atk_pct: 200
   name_en: Think again!
   one_time: 16
@@ -60,7 +55,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -68,7 +62,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind 2 subs for 3 turns, Deal 180% damage
-  desc_jp: Bind 2 subs for 3 turns, Deal 180% damage
   max_atk_pct: 180
   name_en: How's this?
   one_time: 8
@@ -76,7 +69,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -84,7 +76,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 1 turns
-  desc_jp: Reduce damage from all sources by 75% for 1 turns
   max_atk_pct: null
   name_en: Barrier!
   one_time: 4
@@ -92,7 +83,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
   one_time: null
@@ -100,7 +90,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Random 2 orbs change every 1.0s for 1 turns, Deal 180% damage
-  desc_jp: Random 2 orbs change every 1.0s for 1 turns, Deal 180% damage
   max_atk_pct: 180
   name_en: Hah!
   one_time: 2
@@ -108,7 +97,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6
   one_time: null
@@ -116,7 +104,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: 2x1 cloud appear for 1 turns at random location, Deal 190% damage
-  desc_jp: 2x1 cloud appear for 1 turns at random location, Deal 190% damage
   max_atk_pct: 190
   name_en: Hmph!
   one_time: 1
@@ -124,7 +111,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 7
   one_time: null
@@ -133,7 +119,6 @@ records:
 - !SkillRecord
   desc_en: Do nothing + Player recover 100% hp + Increase damage to 150% for the next
     999 turns
-  desc_jp: Do nothing + Player recover 100% hp + Increase damage to 150% for the next
     999 turns
   max_atk_pct: null
   name_en: Whoa... + Tough guy, huh! + Now we're getting somewhere!
@@ -142,7 +127,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -150,7 +134,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Lock all Jammer orbs, Deal 250% damage
-  desc_jp: Lock all Jammer orbs, Deal 250% damage
   max_atk_pct: 250
   name_en: Left yourself wide open!
   one_time: 0
@@ -158,7 +141,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Spawn random 5 Jammer orbs, Deal 200% damage
-  desc_jp: Spawn random 5 Jammer orbs, Deal 200% damage
   max_atk_pct: 200
   name_en: Burn!
   one_time: 0
@@ -166,7 +148,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Player -99% HP
-  desc_jp: Player -99% HP
   max_atk_pct: null
   name_en: Once again!
   one_time: 0
@@ -174,7 +155,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 1 turns
-  desc_jp: Reduce damage from all sources by 75% for 1 turns
   max_atk_pct: null
   name_en: Barrier!
   one_time: 0
@@ -182,7 +162,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Random 2 orbs change every 1.0s for 1 turns, Deal 180% damage
-  desc_jp: Random 2 orbs change every 1.0s for 1 turns, Deal 180% damage
   max_atk_pct: 180
   name_en: Hyah!
   one_time: 0
@@ -190,7 +169,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: 2x1 cloud appear for 1 turns at random location, Deal 190% damage
-  desc_jp: 2x1 cloud appear for 1 turns at random location, Deal 190% damage
   max_atk_pct: 190
   name_en: I don't think so!
   one_time: 0
@@ -198,7 +176,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -206,7 +183,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -215,7 +191,6 @@ records:
 - !SkillRecord
   desc_en: Do nothing + Player recover 100% hp + Increase damage to 150% for the next
     999 turns
-  desc_jp: Do nothing + Player recover 100% hp + Increase damage to 150% for the next
     999 turns
   max_atk_pct: null
   name_en: Whoa... + Tough guy, huh! + Now we're getting somewhere!
@@ -224,7 +199,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -232,7 +206,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -99% HP
-  desc_jp: Player -99% HP
   max_atk_pct: null
   name_en: Have at you!
   one_time: 32
@@ -240,7 +213,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -248,7 +220,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 200% damage (2 hits, 100% each)
-  desc_jp: Deal 200% damage (2 hits, 100% each)
   max_atk_pct: 200
   name_en: Think again!
   one_time: 16
@@ -256,7 +227,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -264,7 +234,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind 2 subs for 3 turns, Deal 180% damage
-  desc_jp: Bind 2 subs for 3 turns, Deal 180% damage
   max_atk_pct: 180
   name_en: How's this?
   one_time: 8
@@ -272,7 +241,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
   one_time: null
@@ -280,7 +248,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 1 turns
-  desc_jp: Reduce damage from all sources by 75% for 1 turns
   max_atk_pct: null
   name_en: Barrier!
   one_time: 4
@@ -288,7 +255,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6
   one_time: null
@@ -296,7 +262,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Random 2 orbs change every 1.0s for 1 turns, Deal 180% damage
-  desc_jp: Random 2 orbs change every 1.0s for 1 turns, Deal 180% damage
   max_atk_pct: 180
   name_en: Hah!
   one_time: 2
@@ -304,7 +269,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 7
   one_time: null
@@ -312,7 +276,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: 2x1 cloud appear for 1 turns at random location, Deal 190% damage
-  desc_jp: 2x1 cloud appear for 1 turns at random location, Deal 190% damage
   max_atk_pct: 190
   name_en: Hmph!
   one_time: 1
@@ -320,7 +283,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 40
   one_time: null
@@ -328,7 +290,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -337,7 +298,6 @@ records:
 - !SkillRecord
   desc_en: Enemy recover 30% hp + Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs
-  desc_jp: Enemy recover 30% hp + Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs
   max_atk_pct: null
   name_en: I'm no pushover, you know. Scared yet? + Well, let's continue!
@@ -346,7 +306,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -355,7 +314,6 @@ records:
 - !SkillRecord
   desc_en: Do nothing + Player recover 100% hp + Increase damage to 150% for the next
     999 turns
-  desc_jp: Do nothing + Player recover 100% hp + Increase damage to 150% for the next
     999 turns
   max_atk_pct: null
   name_en: Whoa... + Tough guy, huh! + Now we're getting somewhere!
@@ -364,7 +322,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -372,7 +329,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Random 2 orbs change every 1.0s for 1 turns, Deal 180% damage
-  desc_jp: Random 2 orbs change every 1.0s for 1 turns, Deal 180% damage
   max_atk_pct: 180
   name_en: Hah!
   one_time: 2
@@ -380,7 +336,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -388,7 +343,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: 2x1 cloud appear for 1 turns at random location, Deal 190% damage
-  desc_jp: 2x1 cloud appear for 1 turns at random location, Deal 190% damage
   max_atk_pct: 190
   name_en: Hmph!
   one_time: 1
@@ -396,7 +350,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 5
   one_time: null
@@ -404,7 +357,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -412,7 +364,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Do nothing + Bind awoken skills for 2 turns
-  desc_jp: Do nothing + Bind awoken skills for 2 turns
   max_atk_pct: null
   name_en: Uh-oh... Not good... + Let's end this!
   one_time: 0
@@ -420,7 +371,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 20000% damage (10 hits, 2000% each)
-  desc_jp: Deal 20000% damage (10 hits, 2000% each)
   max_atk_pct: 20000
   name_en: Pyro Starburst!!
   one_time: 0

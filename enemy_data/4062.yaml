@@ -18,7 +18,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from Machine by 50%
-  desc_jp: Reduce damage from Machine by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -34,7 +33,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from Machine by 50%
-  desc_jp: Reduce damage from Machine by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -43,7 +41,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Void damage >= 25000000 for 99 turns
     + Absorb combo <= 6 damage for 99 turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Void damage >= 25000000 for 99 turns
     + Absorb combo <= 6 damage for 99 turns (Preemptive)
   max_atk_pct: null
   name_en: I'm...the strongest!!! + X Wall + Absorb Sechs
@@ -52,7 +49,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1-10
   one_time: null
@@ -60,7 +56,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Do nothing
-  desc_jp: Do nothing
   max_atk_pct: null
   name_en: Hold
   one_time: 0
@@ -68,7 +63,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 11
   one_time: null
@@ -76,7 +70,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change all orbs to Jammer, Deal 370% damage
-  desc_jp: Change all orbs to Jammer, Deal 370% damage
   max_atk_pct: 370
   name_en: Extreme Burst
   one_time: 0
@@ -84,7 +77,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -92,7 +84,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Do nothing
-  desc_jp: Do nothing
   max_atk_pct: null
   name_en: Hold
   one_time: 0
@@ -100,7 +91,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -108,7 +98,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -116,7 +105,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Enemy recover 30% hp + Bind awoken skills for 5 turns
-  desc_jp: Enemy recover 30% hp + Bind awoken skills for 5 turns
   max_atk_pct: null
   name_en: Aaaahhhhhh! I won't forgive you!! + I'll weaken you!!
   one_time: 0
@@ -124,7 +112,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2-10
   one_time: null
@@ -132,7 +119,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change all orbs to Fire, Dark, Deal 400% damage
-  desc_jp: Change all orbs to Fire, Dark, Deal 400% damage
   max_atk_pct: 400
   name_en: Twin Explosion
   one_time: 0
@@ -140,7 +126,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change all orbs to Fire, Dark, Deal 400% damage
-  desc_jp: Change all orbs to Fire, Dark, Deal 400% damage
   max_atk_pct: 400
   name_en: Twin Explosion
   one_time: 0

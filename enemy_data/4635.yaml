@@ -18,7 +18,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 50%
-  desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -28,7 +27,6 @@ records:
   desc_en: Immune to damage from all sources for 999 turns + Voids status ailments
     for 999 turns + Spawn random 6 Fire, Water, Wood, Light, Dark orbs + Blind random
     4 orbs for 1 turns (Preemptive)
-  desc_jp: Immune to damage from all sources for 999 turns + Voids status ailments
     for 999 turns + Spawn random 6 Fire, Water, Wood, Light, Dark orbs + Blind random
     4 orbs for 1 turns (Preemptive)
   max_atk_pct: null
@@ -39,7 +37,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -48,7 +45,6 @@ records:
 - !SkillRecord
   desc_en: Spawn random 6 Fire, Water, Wood, Light, Dark orbs + 1x3 cloud appear for
     1 turns at random location
-  desc_jp: Spawn random 6 Fire, Water, Wood, Light, Dark orbs + 1x3 cloud appear for
     1 turns at random location
   max_atk_pct: null
   name_en: The second one... + Some Clouds...
@@ -57,7 +53,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -66,7 +61,6 @@ records:
 - !SkillRecord
   desc_en: Spawn random 6 Fire, Water, Wood, Light, Dark orbs + Random 2 orbs change
     every 1.0s for 1 turns
-  desc_jp: Spawn random 6 Fire, Water, Wood, Light, Dark orbs + Random 2 orbs change
     every 1.0s for 1 turns
   max_atk_pct: null
   name_en: Aaaand the third one... + Orb change!
@@ -75,7 +69,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -85,7 +78,6 @@ records:
   desc_en: Remove damage immunity effect + Blind orbs in specific positions for 15
     turns + 2x1 cloud appear for 15 turns at 2nd row, 2nd column + Void damage >=
     20000000 for 30 turns, (if >=8 combos last turn)
-  desc_jp: Remove damage immunity effect + Blind orbs in specific positions for 15
     turns + 2x1 cloud appear for 15 turns at 2nd row, 2nd column + Void damage >=
     20000000 for 30 turns, (if >=8 combos last turn)
   max_atk_pct: null
@@ -97,7 +89,6 @@ records:
 - !SkillRecord
   desc_en: Remove damage immunity effect + Reduce damage from all sources by 75% for
     5 turns + Void damage >= 20000000 for 30 turns + Delay active skills by 99 turns
-  desc_jp: Remove damage immunity effect + Reduce damage from all sources by 75% for
     5 turns + Void damage >= 20000000 for 30 turns + Delay active skills by 99 turns
   max_atk_pct: null
   name_en: The examination is over! + My goodness! + You need a little checkup + Lay
@@ -107,7 +98,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -115,7 +105,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind random 5 orbs for 1 turns, Deal 330% damage
-  desc_jp: Blind random 5 orbs for 1 turns, Deal 330% damage
   max_atk_pct: 330
   name_en: Get used to the dark!
   one_time: 0
@@ -123,7 +112,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: 2x2 cloud appear for 1 turns at random location, Deal 330% damage
-  desc_jp: 2x2 cloud appear for 1 turns at random location, Deal 330% damage
   max_atk_pct: 330
   name_en: Get used to the Clouds!
   one_time: 0
@@ -131,7 +119,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Random 3 orbs change every 1.0s for 1 turns, Deal 330% damage
-  desc_jp: Random 3 orbs change every 1.0s for 1 turns, Deal 330% damage
   max_atk_pct: 330
   name_en: Get used to the changing Orbs!
   one_time: 0
@@ -140,7 +127,6 @@ records:
 - !SkillRecord
   desc_en: Lock 3 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 330% damage
-  desc_jp: Lock 3 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 330% damage
   max_atk_pct: 330
   name_en: Stitches
@@ -149,7 +135,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Deal 340% damage (2 hits, 170% each)
-  desc_jp: Deal 340% damage (2 hits, 170% each)
   max_atk_pct: 340
   name_en: Seven Scalpel Cuts
   one_time: 0
@@ -157,7 +142,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -165,7 +149,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -173,7 +156,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Seal 1st, 5th row for 5 turns
-  desc_jp: Seal 1st, 5th row for 5 turns
   max_atk_pct: null
   name_en: Time to sleep!
   one_time: 1
@@ -181,7 +163,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
   one_time: null
@@ -190,7 +171,6 @@ records:
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Water, Wood, Light, Dark +
     Deal 12000% damage (2 hits, 6000% each)
-  desc_jp: Change own attribute to random one of Fire, Water, Wood, Light, Dark +
     Deal 12000% damage (2 hits, 6000% each)
   max_atk_pct: null
   name_en: That's all for now! + Please come again!

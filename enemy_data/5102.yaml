@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Absorb combo <= 4 damage for 5 turns (Preemptive)
-  desc_jp: Absorb combo <= 4 damage for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: 'For those who I wish to protect...
 
@@ -27,7 +26,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 80% damage + Player -40% HP
-  desc_jp: Deal 80% damage + Player -40% HP
   max_atk_pct: null
   name_en: Lift Upper + Lift Combination
   one_time: 0
@@ -36,7 +34,6 @@ records:
 - !SkillRecord
   desc_en: Deal 50% damage (2 hits, 25% each) + Deal 100% damage + Change 5th row
     to Wood orbs, Deal 45% damage
-  desc_jp: Deal 50% damage (2 hits, 25% each) + Deal 100% damage + Change 5th row
     to Wood orbs, Deal 45% damage
   max_atk_pct: null
   name_en: Knee Bullet + Disable Skill + Spiral Arrow
@@ -45,7 +42,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Random 2 orbs change every 1.0s for 1 turns, Deal 200% damage
-  desc_jp: Random 2 orbs change every 1.0s for 1 turns, Deal 200% damage
   max_atk_pct: 200
   name_en: Axel Spin Knuckle
   one_time: 0
@@ -53,7 +49,6 @@ records:
   usage_pct: 34
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 75
   one_time: null
@@ -62,7 +57,6 @@ records:
 - !SkillRecord
   desc_en: Random 1 orbs change every 2.0s for 1 turns + Seal 5th row for 1 turns,
     Deal 190% damage
-  desc_jp: Random 1 orbs change every 2.0s for 1 turns + Seal 5th row for 1 turns,
     Deal 190% damage
   max_atk_pct: null
   name_en: Hooligan Combination + Lazer Edge Slicer
@@ -71,7 +65,6 @@ records:
   usage_pct: 15
 - !SkillRecord
   desc_en: Random 1 orbs change every 2.0s for 1 turns + Deal 210% damage
-  desc_jp: Random 1 orbs change every 2.0s for 1 turns + Deal 210% damage
   max_atk_pct: null
   name_en: Hooligan Combination + Fatal Leg Twister
   one_time: 0
@@ -79,7 +72,6 @@ records:
   usage_pct: 15
 - !SkillRecord
   desc_en: Random 1 orbs change every 2.0s for 1 turns + Player -75% HP
-  desc_jp: Random 1 orbs change every 2.0s for 1 turns + Player -75% HP
   max_atk_pct: null
   name_en: Hooligan Combination + Cross Scissors Pressure
   one_time: 0
@@ -88,7 +80,6 @@ records:
 - !SkillRecord
   desc_en: Random 1 orbs change every 2.0s for 1 turns + Change 4th column to Fire,
     Wood orbs, Deal 200% damage
-  desc_jp: Random 1 orbs change every 2.0s for 1 turns + Change 4th column to Fire,
     Wood orbs, Deal 200% damage
   max_atk_pct: null
   name_en: Hooligan Combination + Cannon Strike
@@ -97,7 +88,6 @@ records:
   usage_pct: 15
 - !SkillRecord
   desc_en: Deal 80% damage + Player -40% HP
-  desc_jp: Deal 80% damage + Player -40% HP
   max_atk_pct: null
   name_en: Lift Upper + Lift Combination
   one_time: 0
@@ -106,7 +96,6 @@ records:
 - !SkillRecord
   desc_en: Deal 50% damage (2 hits, 25% each) + Deal 100% damage + Change 5th row
     to Wood orbs, Deal 45% damage
-  desc_jp: Deal 50% damage (2 hits, 25% each) + Deal 100% damage + Change 5th row
     to Wood orbs, Deal 45% damage
   max_atk_pct: null
   name_en: Knee Bullet + Disable Skill + Spiral Arrow
@@ -115,7 +104,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Random 2 orbs change every 1.0s for 1 turns, Deal 200% damage
-  desc_jp: Random 2 orbs change every 1.0s for 1 turns, Deal 200% damage
   max_atk_pct: 200
   name_en: Axel Spin Knuckle
   one_time: 0
@@ -123,7 +111,6 @@ records:
   usage_pct: 34
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -131,7 +118,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -139,7 +125,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 5 turns
-  desc_jp: Increase damage to 150% for the next 5 turns
   max_atk_pct: null
   name_en: Delta Drive
   one_time: 1
@@ -147,7 +132,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 15
   one_time: null
@@ -155,7 +139,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 1st, 3rd, 5th column to Fire, Wood orbs, Deal 350% damage
-  desc_jp: Change 1st, 3rd, 5th column to Fire, Wood orbs, Deal 350% damage
   max_atk_pct: 350
   name_en: Cross Stinger Assault
   one_time: 0

@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Spawn random 1 Water orbs, Deal 100% damage
-  desc_jp: Spawn random 1 Water orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Water Soul Carry
   one_time: 0

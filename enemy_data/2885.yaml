@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 50%
-  desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -33,7 +32,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 50%
-  desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -41,7 +39,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Delay active skills by 5 turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Delay active skills by 5 turns (Preemptive)
   max_atk_pct: null
   name_en: Memory Protect + Star Awake
   one_time: 0
@@ -49,7 +46,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
   one_time: null
@@ -57,7 +53,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 1000% damage (4 hits, 250% each)
-  desc_jp: Deal 1000% damage (4 hits, 250% each)
   max_atk_pct: 1000
   name_en: Starlight Ray
   one_time: 0

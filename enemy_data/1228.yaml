@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Bind 1 random cards for 3 turns (Preemptive)
-  desc_jp: Bind 1 random cards for 3 turns (Preemptive)
   max_atk_pct: null
   name_en: Pure Smile
   one_time: 1
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Random to Light, Deal 200% damage
-  desc_jp: Change Random to Light, Deal 200% damage
   max_atk_pct: 200
   name_en: Gungnir TAMA!
   one_time: 0

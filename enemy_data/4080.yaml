@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Change 5th row to Fire orbs (Preemptive)
-  desc_jp: Change 5th row to Fire orbs (Preemptive)
   max_atk_pct: null
   name_en: Hey, c'mon c'mon!
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind 1 random subs for 2 turns, Deal 70% damage
-  desc_jp: Bind 1 random subs for 2 turns, Deal 70% damage
   max_atk_pct: 70
   name_en: Burning Knuckle
   one_time: 1
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 4th column to Fire orbs, Deal 100% damage
-  desc_jp: Change 4th column to Fire orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Crack Shoot
   one_time: 0
@@ -57,7 +52,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 105% damage (7 hits, 15% each)
-  desc_jp: Deal 105% damage (7 hits, 15% each)
   max_atk_pct: 105
   name_en: Rising Tackle
   one_time: 0
@@ -65,7 +59,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -73,7 +66,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind 1 random subs for 2 turns, Deal 70% damage
-  desc_jp: Bind 1 random subs for 2 turns, Deal 70% damage
   max_atk_pct: 70
   name_en: Burning Knuckle
   one_time: 1
@@ -81,7 +73,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -89,7 +80,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 4th column to Fire orbs, Deal 100% damage
-  desc_jp: Change 4th column to Fire orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Crack Shoot
   one_time: 0
@@ -97,7 +87,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 105% damage (7 hits, 15% each)
-  desc_jp: Deal 105% damage (7 hits, 15% each)
   max_atk_pct: 105
   name_en: Rising Tackle
   one_time: 0
@@ -105,7 +94,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
   one_time: null
@@ -113,7 +101,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind 1 random subs for 2 turns, Deal 70% damage
-  desc_jp: Bind 1 random subs for 2 turns, Deal 70% damage
   max_atk_pct: 70
   name_en: Burning Knuckle
   one_time: 1
@@ -121,7 +108,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6
   one_time: null
@@ -129,7 +115,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 4th column to Fire orbs, Deal 100% damage
-  desc_jp: Change 4th column to Fire orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Crack Shoot
   one_time: 0
@@ -137,7 +122,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 105% damage (7 hits, 15% each)
-  desc_jp: Deal 105% damage (7 hits, 15% each)
   max_atk_pct: 105
   name_en: Rising Tackle
   one_time: 0
@@ -145,7 +129,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 7
   one_time: null
@@ -153,7 +136,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind 1 random subs for 2 turns, Deal 70% damage
-  desc_jp: Bind 1 random subs for 2 turns, Deal 70% damage
   max_atk_pct: 70
   name_en: Burning Knuckle
   one_time: 1
@@ -161,7 +143,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 8
   one_time: null
@@ -169,7 +150,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 4th column to Fire orbs, Deal 100% damage
-  desc_jp: Change 4th column to Fire orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Crack Shoot
   one_time: 0
@@ -177,7 +157,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 105% damage (7 hits, 15% each)
-  desc_jp: Deal 105% damage (7 hits, 15% each)
   max_atk_pct: 105
   name_en: Rising Tackle
   one_time: 0
@@ -185,7 +164,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 9
   one_time: null
@@ -193,7 +171,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind 1 random subs for 2 turns, Deal 70% damage
-  desc_jp: Bind 1 random subs for 2 turns, Deal 70% damage
   max_atk_pct: 70
   name_en: Burning Knuckle
   one_time: 1
@@ -201,7 +178,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 10
   one_time: null
@@ -209,7 +185,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 4th column to Fire orbs, Deal 100% damage
-  desc_jp: Change 4th column to Fire orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Crack Shoot
   one_time: 0
@@ -217,7 +192,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 105% damage (7 hits, 15% each)
-  desc_jp: Deal 105% damage (7 hits, 15% each)
   max_atk_pct: 105
   name_en: Rising Tackle
   one_time: 0
@@ -225,7 +199,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 11
   one_time: null
@@ -233,7 +206,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 350% damage
-  desc_jp: Deal 350% damage
   max_atk_pct: 350
   name_en: High Angle Geyser
   one_time: 0
@@ -241,7 +213,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -249,7 +220,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -257,7 +227,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind 1 random subs for 2 turns, Deal 70% damage
-  desc_jp: Bind 1 random subs for 2 turns, Deal 70% damage
   max_atk_pct: 70
   name_en: Burning Knuckle
   one_time: 1
@@ -265,7 +234,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -273,7 +241,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 4th column to Fire orbs, Deal 100% damage
-  desc_jp: Change 4th column to Fire orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Crack Shoot
   one_time: 0
@@ -281,7 +248,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 105% damage (7 hits, 15% each)
-  desc_jp: Deal 105% damage (7 hits, 15% each)
   max_atk_pct: 105
   name_en: Rising Tackle
   one_time: 0
@@ -289,7 +255,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 25
   one_time: null
@@ -297,7 +262,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1-10
   one_time: null
@@ -305,7 +269,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 2nd column to Fire orbs, 4th column to Fire orbs, Deal 140% damage
-  desc_jp: Change 2nd column to Fire orbs, 4th column to Fire orbs, Deal 140% damage
   max_atk_pct: 140
   name_en: Power Geyser
   one_time: 0
@@ -313,7 +276,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change 2nd column to Fire orbs, 4th column to Fire orbs, Deal 140% damage
-  desc_jp: Change 2nd column to Fire orbs, 4th column to Fire orbs, Deal 140% damage
   max_atk_pct: 140
   name_en: Power Geyser
   one_time: 0

@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Deal 140% damage (2 hits, 70% each) (Preemptive)
-  desc_jp: Deal 140% damage (2 hits, 70% each) (Preemptive)
   max_atk_pct: 140
   name_en: Double Strike
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 140% damage (2 hits, 70% each)
-  desc_jp: Deal 140% damage (2 hits, 70% each)
   max_atk_pct: 140
   name_en: Double Strike
   one_time: 0

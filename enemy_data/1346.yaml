@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Player recover 100% hp + Voids status ailments for 999 turns (Preemptive)
-  desc_jp: Player recover 100% hp + Voids status ailments for 999 turns (Preemptive)
   max_atk_pct: null
   name_en: Welcome! + I'll do my best, too!
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 3 Heal orbs, (if [368, 369, 652, 1344] on team)
-  desc_jp: Spawn random 3 Heal orbs, (if [368, 369, 652, 1344] on team)
   max_atk_pct: null
   name_en: Keep it up, big brother!
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 3 Wood orbs, Deal 90% damage
-  desc_jp: Spawn random 3 Wood orbs, Deal 90% damage
   max_atk_pct: 90
   name_en: Piggy Attack
   one_time: 0
@@ -57,7 +52,6 @@ records:
   usage_pct: 35
 - !SkillRecord
   desc_en: Deal 120% damage (2 hits, 60% each)
-  desc_jp: Deal 120% damage (2 hits, 60% each)
   max_atk_pct: 120
   name_en: Kitty Attack
   one_time: 0
@@ -65,7 +59,6 @@ records:
   usage_pct: 35
 - !SkillRecord
   desc_en: Spawn random 3 Light orbs, Deal 90% damage
-  desc_jp: Spawn random 3 Light orbs, Deal 90% damage
   max_atk_pct: 90
   name_en: Hawk Attack
   one_time: 0
@@ -73,7 +66,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 70
   one_time: null
@@ -81,7 +73,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -89,7 +80,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 3 Heal orbs, (if [368, 369, 652, 1344] on team)
-  desc_jp: Spawn random 3 Heal orbs, (if [368, 369, 652, 1344] on team)
   max_atk_pct: null
   name_en: Keep it up, big brother!
   one_time: 0
@@ -97,7 +87,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Bind active skills for 2 turns
-  desc_jp: Bind active skills for 2 turns
   max_atk_pct: null
   name_en: Collar of Brisingar
   one_time: 1
@@ -105,7 +94,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Movetime -2s for 5 turns
-  desc_jp: Movetime -2s for 5 turns
   max_atk_pct: null
   name_en: Sessrumnir
   one_time: 1
@@ -113,7 +101,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -121,7 +108,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -129,7 +115,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 3 Heal orbs, (if [368, 369, 652, 1344] on team)
-  desc_jp: Spawn random 3 Heal orbs, (if [368, 369, 652, 1344] on team)
   max_atk_pct: null
   name_en: Keep it up, big brother!
   one_time: 0
@@ -137,7 +122,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Bind 6 random cards for 2~3 turns
-  desc_jp: Bind 6 random cards for 2~3 turns
   max_atk_pct: null
   name_en: Fertility Goddess's Embrace
   one_time: 2
@@ -145,7 +129,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -153,7 +136,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind active skills for 2 turns
-  desc_jp: Bind active skills for 2 turns
   max_atk_pct: null
   name_en: Collar of Brisingar
   one_time: 1
@@ -161,7 +143,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Movetime -2s for 5 turns
-  desc_jp: Movetime -2s for 5 turns
   max_atk_pct: null
   name_en: Sessrumnir
   one_time: 1
@@ -169,7 +150,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -177,7 +157,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 300% damage (3 hits, 100% each)
-  desc_jp: Deal 300% damage (3 hits, 100% each)
   max_atk_pct: 300
   name_en: Simultaneous Animal Attack
   one_time: 0

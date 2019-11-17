@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from God by 50%
-  desc_jp: Reduce damage from God by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -26,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Void damage >= 50000000 for 999 turns
     + Absorb combo <= 7 damage for 1 turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Void damage >= 50000000 for 999 turns
     + Absorb combo <= 7 damage for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: Overflowing Bloodlust + Serpent Barrier + Sky-High Jump
@@ -35,7 +33,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -43,7 +40,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 100% damage, (if >=8 combos last turn)
-  desc_jp: Deal 100% damage, (if >=8 combos last turn)
   max_atk_pct: 100
   name_en: Fall from the sky
   one_time: 0
@@ -51,7 +47,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 180% damage
-  desc_jp: Deal 180% damage
   max_atk_pct: 180
   name_en: Snake Fist Drive Strike
   one_time: 0
@@ -59,7 +54,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -67,7 +61,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -75,7 +68,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 5 turns + Seal 5th row for 5 turns
-  desc_jp: Increase damage to 150% for the next 5 turns + Seal 5th row for 5 turns
   max_atk_pct: null
   name_en: Raging Roar + Hitting the ground
   one_time: 0
@@ -83,7 +75,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2-6
   one_time: null
@@ -91,7 +82,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 7 Poison orbs, Deal 90% damage
-  desc_jp: Spawn random 7 Poison orbs, Deal 90% damage
   max_atk_pct: 90
   name_en: Snake Venom Breath
   one_time: 0
@@ -99,7 +89,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Bind 2 random cards for 1~3 turns, Deal 100% damage
-  desc_jp: Bind 2 random cards for 1~3 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Twin Snake Bite
   one_time: 0
@@ -107,7 +96,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Deal 105% damage
-  desc_jp: Deal 105% damage
   max_atk_pct: 105
   name_en: Very Strong Charge
   one_time: 0
@@ -115,7 +103,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Deal 112% damage (4 hits, 28% each)
-  desc_jp: Deal 112% damage (4 hits, 28% each)
   max_atk_pct: 112
   name_en: Rising Fist
   one_time: 0
@@ -123,7 +110,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -131,7 +117,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -139,7 +124,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Do nothing + Poison skyfall +20% for 99 turns
-  desc_jp: Do nothing + Poison skyfall +20% for 99 turns
   max_atk_pct: null
   name_en: Wearing Miasma + Surrounded by Miasma
   one_time: 1
@@ -147,7 +131,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Spawn random 7 Mortal Poison orbs, Deal 90% damage
-  desc_jp: Spawn random 7 Mortal Poison orbs, Deal 90% damage
   max_atk_pct: 90
   name_en: Snake Venom Breath
   one_time: 0
@@ -155,7 +138,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Bind 3 random cards for 2~4 turns, Deal 100% damage
-  desc_jp: Bind 3 random cards for 2~4 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Twin Snake Bite
   one_time: 0
@@ -163,7 +145,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Spawn random 4 Poison orbs, Deal 105% damage
-  desc_jp: Spawn random 4 Poison orbs, Deal 105% damage
   max_atk_pct: 105
   name_en: Very Strong Charge
   one_time: 0
@@ -171,7 +152,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Deal 115% damage (5 hits, 23% each)
-  desc_jp: Deal 115% damage (5 hits, 23% each)
   max_atk_pct: 115
   name_en: Rising Fist
   one_time: 0
@@ -179,7 +159,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
   one_time: null
@@ -187,7 +166,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -195,7 +173,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb combo <= 9 damage for 1 turns
-  desc_jp: Absorb combo <= 9 damage for 1 turns
   max_atk_pct: null
   name_en: Heaven-High Jump
   one_time: 0
@@ -203,7 +180,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -211,7 +187,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 500% damage
-  desc_jp: Deal 500% damage
   max_atk_pct: 500
   name_en: Double Snake Fist Drive Impact
   one_time: 0
@@ -227,7 +202,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from God by 50%
-  desc_jp: Reduce damage from God by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -236,7 +210,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Void damage >= 50000000 for 999 turns
     + Absorb combo <= 8 damage for 1 turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Void damage >= 50000000 for 999 turns
     + Absorb combo <= 8 damage for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: Overflowing Bloodlust + Serpent Barrier + Sky-High Jump
@@ -245,7 +218,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -253,7 +225,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 100% damage, (if >=9 combos last turn)
-  desc_jp: Deal 100% damage, (if >=9 combos last turn)
   max_atk_pct: 100
   name_en: Fall from the sky
   one_time: 0
@@ -261,7 +232,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 180% damage
-  desc_jp: Deal 180% damage
   max_atk_pct: 180
   name_en: Snake Fist Drive Strike
   one_time: 0
@@ -269,7 +239,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -277,7 +246,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -285,7 +253,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 5 turns + Seal 5th row for 5 turns
-  desc_jp: Increase damage to 150% for the next 5 turns + Seal 5th row for 5 turns
   max_atk_pct: null
   name_en: Raging Roar + Hitting the ground
   one_time: 0
@@ -293,7 +260,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2-6
   one_time: null
@@ -301,7 +267,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 7 Poison orbs, Deal 90% damage
-  desc_jp: Spawn random 7 Poison orbs, Deal 90% damage
   max_atk_pct: 90
   name_en: Snake Venom Breath
   one_time: 0
@@ -309,7 +274,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Bind 2 random cards for 1~3 turns, Deal 100% damage
-  desc_jp: Bind 2 random cards for 1~3 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Twin Snake Bite
   one_time: 0
@@ -317,7 +281,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Deal 105% damage
-  desc_jp: Deal 105% damage
   max_atk_pct: 105
   name_en: Very Strong Charge
   one_time: 0
@@ -325,7 +288,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Deal 112% damage (4 hits, 28% each)
-  desc_jp: Deal 112% damage (4 hits, 28% each)
   max_atk_pct: 112
   name_en: Rising Fist
   one_time: 0
@@ -333,7 +295,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -341,7 +302,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -349,7 +309,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Do nothing + Poison skyfall +20% for 99 turns
-  desc_jp: Do nothing + Poison skyfall +20% for 99 turns
   max_atk_pct: null
   name_en: Wearing Miasma + Surrounded by Miasma
   one_time: 1
@@ -357,7 +316,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Spawn random 7 Mortal Poison orbs, Deal 90% damage
-  desc_jp: Spawn random 7 Mortal Poison orbs, Deal 90% damage
   max_atk_pct: 90
   name_en: Snake Venom Breath
   one_time: 0
@@ -365,7 +323,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Bind 3 random cards for 2~4 turns, Deal 100% damage
-  desc_jp: Bind 3 random cards for 2~4 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Twin Snake Bite
   one_time: 0
@@ -373,7 +330,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Spawn random 4 Poison orbs, Deal 105% damage
-  desc_jp: Spawn random 4 Poison orbs, Deal 105% damage
   max_atk_pct: 105
   name_en: Very Strong Charge
   one_time: 0
@@ -381,7 +337,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Deal 115% damage (5 hits, 23% each)
-  desc_jp: Deal 115% damage (5 hits, 23% each)
   max_atk_pct: 115
   name_en: Rising Fist
   one_time: 0
@@ -389,7 +344,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
   one_time: null
@@ -397,7 +351,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -405,7 +358,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb combo <= 9 damage for 1 turns
-  desc_jp: Absorb combo <= 9 damage for 1 turns
   max_atk_pct: null
   name_en: Heaven-High Jump
   one_time: 0
@@ -413,7 +365,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -421,7 +372,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 500% damage
-  desc_jp: Deal 500% damage
   max_atk_pct: 500
   name_en: Double Snake Fist Drive Impact
   one_time: 0

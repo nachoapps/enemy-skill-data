@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Spawn Bomb orbs in the specified positions + Change Heal to Jammer, Deal
     100% damage (Preemptive)
-  desc_jp: Spawn Bomb orbs in the specified positions + Change Heal to Jammer, Deal
     100% damage (Preemptive)
   max_atk_pct: null
   name_en: Death Bomb + Heart Crush
@@ -27,7 +26,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Spawn Bomb orbs in the specified positions, Deal 100% damage
-  desc_jp: Spawn Bomb orbs in the specified positions, Deal 100% damage
   max_atk_pct: 100
   name_en: Exploding Fist
   one_time: 0
@@ -35,7 +33,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -43,7 +40,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -51,7 +47,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 9 turns
-  desc_jp: Reduce damage from all sources by 50% for 9 turns
   max_atk_pct: null
   name_en: Iron Shackles
   one_time: 1
@@ -59,7 +54,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change all orbs to Jammer, Deal 150% damage
-  desc_jp: Change all orbs to Jammer, Deal 150% damage
   max_atk_pct: 150
   name_en: Heart Smash
   one_time: 0
@@ -67,7 +61,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Spawn Bomb orbs in the specified positions, Deal 170% damage
-  desc_jp: Spawn Bomb orbs in the specified positions, Deal 170% damage
   max_atk_pct: 170
   name_en: Burst Bomb
   one_time: 0
@@ -75,7 +68,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 15
   one_time: null
@@ -83,7 +75,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 1000% damage (2 hits, 500% each)
-  desc_jp: Deal 1000% damage (2 hits, 500% each)
   max_atk_pct: 1000
   name_en: Suppressed Torment
   one_time: 0

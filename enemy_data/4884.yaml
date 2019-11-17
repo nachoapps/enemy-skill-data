@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 50%
-  desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -33,7 +32,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 50%
-  desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -41,7 +39,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Player -99% HP (Preemptive)
-  desc_jp: Player -99% HP (Preemptive)
   max_atk_pct: null
   name_en: Slam
   one_time: 0
@@ -49,7 +46,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -57,7 +53,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Enemy recover 50% hp
-  desc_jp: Enemy recover 50% hp
   max_atk_pct: null
   name_en: White Great Holy Tree
   one_time: 0
@@ -65,7 +60,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -73,7 +67,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Delay active skills by 2 turns, Deal 100% damage
-  desc_jp: Delay active skills by 2 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Downward Sword Slash
   one_time: 0
@@ -81,7 +74,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Change 2nd row to Light orbs, Deal 105% damage
-  desc_jp: Change 2nd row to Light orbs, Deal 105% damage
   max_atk_pct: 105
   name_en: Sweeping Beam Attack
   one_time: 0
@@ -89,7 +81,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Change 3rd row to Light orbs, Deal 105% damage
-  desc_jp: Change 3rd row to Light orbs, Deal 105% damage
   max_atk_pct: 105
   name_en: Sweeping Beam Attack
   one_time: 0
@@ -97,7 +88,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Change 4th row to Light orbs, Deal 105% damage
-  desc_jp: Change 4th row to Light orbs, Deal 105% damage
   max_atk_pct: 105
   name_en: Sweeping Beam Attack
   one_time: 0
@@ -105,7 +95,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Deal 110% damage (2 hits, 55% each)
-  desc_jp: Deal 110% damage (2 hits, 55% each)
   max_atk_pct: 110
   name_en: Black Great Holy Tree
   one_time: 0
@@ -113,7 +102,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 95
   one_time: null
@@ -121,7 +109,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -129,7 +116,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 110% damage (2 hits, 55% each)
-  desc_jp: Deal 110% damage (2 hits, 55% each)
   max_atk_pct: 110
   name_en: Black Great Holy Tree
   one_time: 0
@@ -137,7 +123,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 50
   one_time: null
@@ -145,7 +130,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -153,7 +137,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Enemy recover 50% hp
-  desc_jp: Enemy recover 50% hp
   max_atk_pct: null
   name_en: White Great Holy Tree
   one_time: 0
@@ -161,7 +144,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -170,7 +152,6 @@ records:
 - !SkillRecord
   desc_en: Blind orbs in specific positions for 1 turns + Change Random to Wood, Deal
     120% damage
-  desc_jp: Blind orbs in specific positions for 1 turns + Change Random to Wood, Deal
     120% damage
   max_atk_pct: null
   name_en: Massive Dust Cloud + Splitting Ground
@@ -179,7 +160,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -187,7 +167,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Delay active skills by 2 turns, Deal 100% damage
-  desc_jp: Delay active skills by 2 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Downward Sword Slash
   one_time: 0
@@ -195,7 +174,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Change 2nd row to Light orbs, Deal 105% damage
-  desc_jp: Change 2nd row to Light orbs, Deal 105% damage
   max_atk_pct: 105
   name_en: Sweeping Beam Attack
   one_time: 0
@@ -203,7 +181,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Change 3rd row to Light orbs, Deal 105% damage
-  desc_jp: Change 3rd row to Light orbs, Deal 105% damage
   max_atk_pct: 105
   name_en: Sweeping Beam Attack
   one_time: 0
@@ -211,7 +188,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Change 4th row to Light orbs, Deal 105% damage
-  desc_jp: Change 4th row to Light orbs, Deal 105% damage
   max_atk_pct: 105
   name_en: Sweeping Beam Attack
   one_time: 0
@@ -219,7 +195,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Deal 110% damage (2 hits, 55% each)
-  desc_jp: Deal 110% damage (2 hits, 55% each)
   max_atk_pct: 110
   name_en: Black Great Holy Tree
   one_time: 0
@@ -227,7 +202,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
   one_time: null
@@ -235,7 +209,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 300% damage (3 hits, 100% each)
-  desc_jp: Deal 300% damage (3 hits, 100% each)
   max_atk_pct: 300
   name_en: Spear Throw
   one_time: 0

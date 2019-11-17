@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Lock 2 random Light orbs, Deal 70% damage (Preemptive)
-  desc_jp: Lock 2 random Light orbs, Deal 70% damage (Preemptive)
   max_atk_pct: 70
   name_en: Howl!
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 100% damage
-  desc_jp: Blind all orbs on the board, Deal 100% damage
   max_atk_pct: 100
   name_en: Sage Technique Scroll
   one_time: 0

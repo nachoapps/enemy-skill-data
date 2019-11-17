@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Change Random to Jammer, Deal 50% damage
-  desc_jp: Change Random to Jammer, Deal 50% damage
   max_atk_pct: 50
   name_en: Oil Panic
   one_time: 1

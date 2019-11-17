@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Blind all orbs on the board (Preemptive)
-  desc_jp: Blind all orbs on the board (Preemptive)
   max_atk_pct: null
   name_en: Dark World
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Blind all orbs on the board
-  desc_jp: Blind all orbs on the board
   max_atk_pct: null
   name_en: Dark World
   one_time: 0

@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from Devil by 50%
-  desc_jp: Reduce damage from Devil by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Movetime -3s for 5 turns (Preemptive)
-  desc_jp: Movetime -3s for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: Cold Gaze
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1-4
   one_time: null
@@ -41,7 +38,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random to Light, Deal 75% damage
-  desc_jp: Change Random to Light, Deal 75% damage
   max_atk_pct: 75
   name_en: Shining Ray
   one_time: 0
@@ -49,7 +45,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Change Heal to Jammer, Deal 50% damage
-  desc_jp: Change Heal to Jammer, Deal 50% damage
   max_atk_pct: 50
   name_en: Heart Break
   one_time: 0
@@ -57,7 +52,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
   one_time: null
@@ -66,7 +60,6 @@ records:
 - !SkillRecord
   desc_en: Bind 1 random subs for 20 turns + Increase damage to 150% for the next
     99 turns
-  desc_jp: Bind 1 random subs for 20 turns + Increase damage to 150% for the next
     99 turns
   max_atk_pct: null
   name_en: Judgment from Heaven + Divine Protection
@@ -75,7 +68,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -83,7 +75,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random to Light, Deal 75% damage
-  desc_jp: Change Random to Light, Deal 75% damage
   max_atk_pct: 75
   name_en: Shining Ray
   one_time: 0
@@ -91,7 +82,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Change Heal to Jammer, Deal 50% damage
-  desc_jp: Change Heal to Jammer, Deal 50% damage
   max_atk_pct: 50
   name_en: Heart Break
   one_time: 0
@@ -99,7 +89,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 75
   one_time: null
@@ -107,7 +96,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -115,7 +103,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Enemy recover 100% hp
-  desc_jp: Enemy recover 100% hp
   max_atk_pct: null
   name_en: Resurrection
   one_time: 1

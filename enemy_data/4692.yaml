@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 2 turns (Preemptive)
-  desc_jp: Reduce damage from all sources by 75% for 2 turns (Preemptive)
   max_atk_pct: null
   name_en: Take care, sister!
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 75
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -41,7 +38,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb combo <= 5 damage for 3 turns
-  desc_jp: Absorb combo <= 5 damage for 3 turns
   max_atk_pct: null
   name_en: Humph, I'll play around with you
   one_time: 2
@@ -49,7 +45,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
   one_time: null
@@ -57,7 +52,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -65,7 +59,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 300% for the next 1 turns
-  desc_jp: Increase damage to 300% for the next 1 turns
   max_atk_pct: null
   name_en: Wisdom of the Twin Star
   one_time: 1
@@ -73,7 +66,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Spawn Bomb orbs in the specified positions, Deal 200% damage
-  desc_jp: Spawn Bomb orbs in the specified positions, Deal 200% damage
   max_atk_pct: 200
   name_en: Evil Vanguard that dwells in death
   one_time: 0

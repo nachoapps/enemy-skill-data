@@ -18,7 +18,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Do nothing + Change 3rd, 4th row to Dark orbs, Deal 500% damage (Preemptive)
-  desc_jp: Do nothing + Change 3rd, 4th row to Dark orbs, Deal 500% damage (Preemptive)
   max_atk_pct: null
   name_en: Away with you! + Ultimate Psycho Crusher
   one_time: 0
@@ -26,7 +25,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Do nothing + Change 3rd, 4th row to Dark orbs, Deal 500% damage
-  desc_jp: Do nothing + Change 3rd, 4th row to Dark orbs, Deal 500% damage
   max_atk_pct: null
   name_en: Away with you! + Ultimate Psycho Crusher
   one_time: 0

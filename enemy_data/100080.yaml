@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Water skyfall +15% for 20 turns (Preemptive)
-  desc_jp: Water skyfall +15% for 20 turns (Preemptive)
   max_atk_pct: null
   name_en: Ice Cascade
   one_time: 1
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Spawn random 1 Water orbs, Deal 400% damage
-  desc_jp: Spawn random 1 Water orbs, Deal 400% damage
   max_atk_pct: 400
   name_en: Freezing Punch
   one_time: 0

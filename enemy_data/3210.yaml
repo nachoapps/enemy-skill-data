@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 71%
-  desc_jp: Survive attacks with 1 HP when HP > 71%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -33,7 +32,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 71%
-  desc_jp: Survive attacks with 1 HP when HP > 71%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -42,7 +40,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 1 turns + Change all orbs to Fire, Water, Wood,
     Light, Dark, Heal, Deal 130% damage (Preemptive)
-  desc_jp: Voids status ailments for 1 turns + Change all orbs to Fire, Water, Wood,
     Light, Dark, Heal, Deal 130% damage (Preemptive)
   max_atk_pct: null
   name_en: Northern Lightning's Divine Protection + Purifying Thunderplains
@@ -51,7 +48,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -59,7 +55,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Delay active skills by 3 turns
-  desc_jp: Delay active skills by 3 turns
   max_atk_pct: null
   name_en: Diverging Flash
   one_time: 0
@@ -67,7 +62,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -75,7 +69,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 5 Heal orbs, Deal 150% damage
-  desc_jp: Spawn random 5 Heal orbs, Deal 150% damage
   max_atk_pct: 150
   name_en: Thunder Vajra
   one_time: 0
@@ -84,7 +77,6 @@ records:
 - !SkillRecord
   desc_en: Lock 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 100% damage
-  desc_jp: Lock 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Lightning Vajra
@@ -93,7 +85,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 70
   one_time: null
@@ -101,7 +92,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -109,7 +99,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind 1 own leader for 2 turns
-  desc_jp: Bind 1 own leader for 2 turns
   max_atk_pct: null
   name_en: Converging Flash
   one_time: 0
@@ -117,7 +106,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -125,7 +113,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Heal to Jammer, Deal 110% damage
-  desc_jp: Change Heal to Jammer, Deal 110% damage
   max_atk_pct: 110
   name_en: Bolt Vajra
   one_time: 2
@@ -133,7 +120,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Spawn random 5 Heal orbs, Deal 150% damage
-  desc_jp: Spawn random 5 Heal orbs, Deal 150% damage
   max_atk_pct: 150
   name_en: Thunder Vajra
   one_time: 0
@@ -142,7 +128,6 @@ records:
 - !SkillRecord
   desc_en: Lock 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 100% damage
-  desc_jp: Lock 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Lightning Vajra
@@ -151,7 +136,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2-3
   one_time: null
@@ -159,7 +143,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 5 Heal orbs, Deal 150% damage
-  desc_jp: Spawn random 5 Heal orbs, Deal 150% damage
   max_atk_pct: 150
   name_en: Thunder Vajra
   one_time: 0
@@ -168,7 +151,6 @@ records:
 - !SkillRecord
   desc_en: Lock 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 100% damage
-  desc_jp: Lock 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Lightning Vajra
@@ -177,7 +159,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
   one_time: null
@@ -185,7 +166,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -193,7 +173,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Enemy recover 10% hp + Bind 6 random cards for 4 turns
-  desc_jp: Enemy recover 10% hp + Bind 6 random cards for 4 turns
   max_atk_pct: null
   name_en: Crisis Wisdom + Lightning strikes the field
   one_time: 0
@@ -201,7 +180,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 600% damage (6 hits, 100% each)
-  desc_jp: Deal 600% damage (6 hits, 100% each)
   max_atk_pct: 600
   name_en: Six Flash Thunder Blade
   one_time: 0

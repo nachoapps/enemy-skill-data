@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Bind 2 random subs for 1 turns (Preemptive)
-  desc_jp: Bind 2 random subs for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: Young Dragon's Cries
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Spawn random 3 Fire orbs, Deal 300% damage
-  desc_jp: Spawn random 3 Fire orbs, Deal 300% damage
   max_atk_pct: 300
   name_en: Baby Flare
   one_time: 0

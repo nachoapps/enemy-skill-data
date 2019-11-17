@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Spawn random 1 Dark orbs, Deal 100% damage
-  desc_jp: Spawn random 1 Dark orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Dark Soul Carry
   one_time: 0

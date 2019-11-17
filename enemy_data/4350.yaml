@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -25,7 +24,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb Wood damage for 2 turns
-  desc_jp: Absorb Wood damage for 2 turns
   max_atk_pct: null
   name_en: I finished my homework!
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -41,7 +38,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: 2x2 cloud appear for 1 turns at random location, Deal 80% damage
-  desc_jp: 2x2 cloud appear for 1 turns at random location, Deal 80% damage
   max_atk_pct: 80
   name_en: Soft Tail
   one_time: 0
@@ -49,7 +45,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: Deal 100% damage
-  desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: Adolescent Punch
   one_time: 0

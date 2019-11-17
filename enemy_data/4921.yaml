@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Bind 2 random subs for 2 turns (Preemptive)
-  desc_jp: Bind 2 random subs for 2 turns (Preemptive)
   max_atk_pct: null
   name_en: Ｖ３電熱チョップ
   one_time: 2
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1-2
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 95% damage
-  desc_jp: Deal 95% damage
   max_atk_pct: 95
   name_en: Ｖ３チョップ
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Deal 100% damage
-  desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: Ｖ３パンチ
   one_time: 0
@@ -49,7 +45,6 @@ records:
   usage_pct: 34
 - !SkillRecord
   desc_en: Deal 105% damage (3 hits, 35% each)
-  desc_jp: Deal 105% damage (3 hits, 35% each)
   max_atk_pct: 105
   name_en: ハリケーンラストダッシュ
   one_time: 0
@@ -57,7 +52,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -65,7 +59,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 60% damage + Deal 60% damage
-  desc_jp: Deal 60% damage + Deal 60% damage
   max_atk_pct: null
   name_en: Ｖ３キック + Ｖ３反転キック
   one_time: 0
@@ -73,7 +66,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4-5
   one_time: null
@@ -81,7 +73,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 95% damage
-  desc_jp: Deal 95% damage
   max_atk_pct: 95
   name_en: Ｖ３チョップ
   one_time: 0
@@ -89,7 +80,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Deal 100% damage
-  desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: Ｖ３パンチ
   one_time: 0
@@ -97,7 +87,6 @@ records:
   usage_pct: 34
 - !SkillRecord
   desc_en: Deal 105% damage (3 hits, 35% each)
-  desc_jp: Deal 105% damage (3 hits, 35% each)
   max_atk_pct: 105
   name_en: ハリケーンラストダッシュ
   one_time: 0
@@ -105,7 +94,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6
   one_time: null
@@ -114,7 +102,6 @@ records:
 - !SkillRecord
   desc_en: Deal 60% damage + Random 2 orbs change every 1.0s for 1 turns, Deal 60%
     damage
-  desc_jp: Deal 60% damage + Random 2 orbs change every 1.0s for 1 turns, Deal 60%
     damage
   max_atk_pct: null
   name_en: Ｖ３きりもみキック + Ｖ３きりもみ反転キック
@@ -123,7 +110,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -131,7 +117,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1-2
   one_time: null
@@ -139,7 +124,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 95% damage
-  desc_jp: Deal 95% damage
   max_atk_pct: 95
   name_en: Ｖ３チョップ
   one_time: 0
@@ -147,7 +131,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Deal 100% damage
-  desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: Ｖ３パンチ
   one_time: 0
@@ -155,7 +138,6 @@ records:
   usage_pct: 34
 - !SkillRecord
   desc_en: Deal 105% damage (3 hits, 35% each)
-  desc_jp: Deal 105% damage (3 hits, 35% each)
   max_atk_pct: 105
   name_en: ハリケーンラストダッシュ
   one_time: 0
@@ -163,7 +145,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 3
   one_time: null
@@ -171,7 +152,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 180% damage (3 hits, 60% each)
-  desc_jp: Deal 180% damage (3 hits, 60% each)
   max_atk_pct: 180
   name_en: Ｖ３きりもみ回転３段キック
   one_time: 0
@@ -179,7 +159,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -187,7 +166,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -195,7 +173,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -99% HP
-  desc_jp: Player -99% HP
   max_atk_pct: null
   name_en: レッドボーン・リング
   one_time: 0
@@ -203,7 +180,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 15
   one_time: null
@@ -211,7 +187,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -220,7 +195,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 200% for the next 1 turns + Reduce damage from all sources
     by 50% for 1 turns
-  desc_jp: Increase damage to 200% for the next 1 turns + Reduce damage from all sources
     by 50% for 1 turns
   max_atk_pct: null
   name_en: レッドボーンパワー + レッドランプパワー
@@ -229,7 +203,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 100% damage (2 hits, 50% each)
-  desc_jp: Deal 100% damage (2 hits, 50% each)
   max_atk_pct: 100
   name_en: Ｖ３回転ダブルキック
   one_time: 0

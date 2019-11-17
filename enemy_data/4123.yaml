@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Voids status ailments for 99 turns (Preemptive)
-  desc_jp: Voids status ailments for 99 turns (Preemptive)
   max_atk_pct: null
   name_en: Hellish Flame
   one_time: 1
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 90% damage (3 hits, 30% each)
-  desc_jp: Deal 90% damage (3 hits, 30% each)
   max_atk_pct: 90
   name_en: Burn
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -41,7 +38,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 6 locked Bomb orbs
-  desc_jp: Spawn random 6 locked Bomb orbs
   max_atk_pct: null
   name_en: Incandescent Surge
   one_time: 0
@@ -57,7 +52,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -65,7 +59,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Movetime 150% for 5 turns, (if >=8 combos last turn)
-  desc_jp: Movetime 150% for 5 turns, (if >=8 combos last turn)
   max_atk_pct: null
   name_en: Guardian Flame
   one_time: 0
@@ -73,7 +66,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Absorb Fire damage for 3 turns
-  desc_jp: Absorb Fire damage for 3 turns
   max_atk_pct: null
   name_en: Anti-Fire
   one_time: 0
@@ -81,7 +73,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Absorb Water damage for 3 turns
-  desc_jp: Absorb Water damage for 3 turns
   max_atk_pct: null
   name_en: Anti-Fire
   one_time: 0
@@ -89,7 +80,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Absorb Wood damage for 3 turns
-  desc_jp: Absorb Wood damage for 3 turns
   max_atk_pct: null
   name_en: Anti-Fire
   one_time: 0
@@ -97,7 +87,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Absorb Light damage for 3 turns
-  desc_jp: Absorb Light damage for 3 turns
   max_atk_pct: null
   name_en: Anti-Fire
   one_time: 0
@@ -105,7 +94,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Absorb Dark damage for 3 turns
-  desc_jp: Absorb Dark damage for 3 turns
   max_atk_pct: null
   name_en: Anti-Fire
   one_time: 0
@@ -113,7 +101,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: When 2 enemy remains
   one_time: null
@@ -121,7 +108,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -129,7 +115,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 250% for the next 99 turns
-  desc_jp: Increase damage to 250% for the next 99 turns
   max_atk_pct: null
   name_en: Crimson
   one_time: 0

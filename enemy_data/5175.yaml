@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from Fire by 50%
-  desc_jp: Reduce damage from Fire by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -26,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Absorb combo <= 9 damage for 1 turns
     + Void damage >= 50000000 for 999 turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Absorb combo <= 9 damage for 1 turns
     + Void damage >= 50000000 for 999 turns (Preemptive)
   max_atk_pct: null
   name_en: Cool Breeze of Summer's First Night + Winds of Dawn Blowing for a Thousand
@@ -36,7 +34,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: When HP is full
   one_time: null
@@ -44,7 +41,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -54,7 +50,6 @@ records:
   desc_en: Absorb combo <= 5 damage for 99 turns + Random 1 orbs change every 0.5s
     for 3 turns + Fix orb movement starting point to random position on the board,
     Deal 100% damage
-  desc_jp: Absorb combo <= 5 damage for 99 turns + Random 1 orbs change every 0.5s
     for 3 turns + Fix orb movement starting point to random position on the board,
     Deal 100% damage
   max_atk_pct: null
@@ -65,7 +60,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change player HP to 50% for 1 turns, Deal 110% damage
-  desc_jp: Change player HP to 50% for 1 turns, Deal 110% damage
   max_atk_pct: 110
   name_en: Cool Shadow of the Canopy
   one_time: 0
@@ -73,7 +67,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: When HP is not full
   one_time: null
@@ -81,7 +74,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2-10
   one_time: null
@@ -90,7 +82,6 @@ records:
 - !SkillRecord
   desc_en: Random 1 orbs change every 0.5s for 3 turns + Fix orb movement starting
     point to random position on the board, Deal 100% damage
-  desc_jp: Random 1 orbs change every 0.5s for 3 turns + Fix orb movement starting
     point to random position on the board, Deal 100% damage
   max_atk_pct: null
   name_en: Shade of a Tree After Rain + Murmuring Southerly Wind
@@ -99,7 +90,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 11
   one_time: null
@@ -108,7 +98,6 @@ records:
 - !SkillRecord
   desc_en: Bind awoken skills for 10 turns + Increase damage to 200% for the next
     999 turns
-  desc_jp: Bind awoken skills for 10 turns + Increase damage to 200% for the next
     999 turns
   max_atk_pct: null
   name_en: Flower Rot of Bean Curd in the Summer Rain + Germination's Sunlight on
@@ -118,7 +107,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 12
   one_time: null
@@ -127,7 +115,6 @@ records:
 - !SkillRecord
   desc_en: Movetime -2s for 99 turns + Change player HP to 50% for 1 turns, Deal 110%
     damage
-  desc_jp: Movetime -2s for 99 turns + Change player HP to 50% for 1 turns, Deal 110%
     damage
   max_atk_pct: null
   name_en: Relentless Heat of the Mountain Breeze + Cool Shadow of the Canopy
@@ -137,7 +124,6 @@ records:
 - !SkillRecord
   desc_en: Random 1 orbs change every 0.5s for 3 turns + Fix orb movement starting
     point to random position on the board, Deal 100% damage
-  desc_jp: Random 1 orbs change every 0.5s for 3 turns + Fix orb movement starting
     point to random position on the board, Deal 100% damage
   max_atk_pct: null
   name_en: Shade of a Tree After Rain + Murmuring Southerly Wind
@@ -146,7 +132,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 75
   one_time: null
@@ -154,7 +139,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -163,7 +147,6 @@ records:
 - !SkillRecord
   desc_en: Movetime -2s for 99 turns + Change player HP to 50% for 1 turns, Deal 110%
     damage
-  desc_jp: Movetime -2s for 99 turns + Change player HP to 50% for 1 turns, Deal 110%
     damage
   max_atk_pct: null
   name_en: Relentless Heat of the Mountain Breeze + Cool Shadow of the Canopy
@@ -172,7 +155,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -180,7 +162,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -189,7 +170,6 @@ records:
 - !SkillRecord
   desc_en: Bind awoken skills for 10 turns + Increase damage to 200% for the next
     999 turns
-  desc_jp: Bind awoken skills for 10 turns + Increase damage to 200% for the next
     999 turns
   max_atk_pct: null
   name_en: Flower Rot of Bean Curd in the Summer Rain + Germination's Sunlight on
@@ -199,7 +179,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -208,7 +187,6 @@ records:
 - !SkillRecord
   desc_en: Movetime -2s for 99 turns + Change player HP to 50% for 1 turns, Deal 110%
     damage
-  desc_jp: Movetime -2s for 99 turns + Change player HP to 50% for 1 turns, Deal 110%
     damage
   max_atk_pct: null
   name_en: Relentless Heat of the Mountain Breeze + Cool Shadow of the Canopy
@@ -217,7 +195,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
   one_time: null
@@ -226,7 +203,6 @@ records:
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Water, Wood, Light, Dark +
     Deal 1500% damage (5 hits, 300% each)
-  desc_jp: Change own attribute to random one of Fire, Water, Wood, Light, Dark +
     Deal 1500% damage (5 hits, 300% each)
   max_atk_pct: null
   name_en: Changing Southeasterly Winds + Floating Cogongrass of Neverending Winds
@@ -243,7 +219,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from Fire by 50%
-  desc_jp: Reduce damage from Fire by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -252,7 +227,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Absorb combo <= 9 damage for 1 turns
     + Void damage >= 50000000 for 999 turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Absorb combo <= 9 damage for 1 turns
     + Void damage >= 50000000 for 999 turns (Preemptive)
   max_atk_pct: null
   name_en: Cool Breeze of Summer's First Night + Winds of Dawn Blowing for a Thousand
@@ -262,7 +236,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: When HP is full
   one_time: null
@@ -270,7 +243,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -280,7 +252,6 @@ records:
   desc_en: Absorb combo <= 7 damage for 99 turns + Random 1 orbs change every 0.5s
     for 3 turns + Fix orb movement starting point to random position on the board,
     Deal 100% damage
-  desc_jp: Absorb combo <= 7 damage for 99 turns + Random 1 orbs change every 0.5s
     for 3 turns + Fix orb movement starting point to random position on the board,
     Deal 100% damage
   max_atk_pct: null
@@ -291,7 +262,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change player HP to 50% for 1 turns, Deal 110% damage
-  desc_jp: Change player HP to 50% for 1 turns, Deal 110% damage
   max_atk_pct: 110
   name_en: Cool Shadow of the Canopy
   one_time: 0
@@ -299,7 +269,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: When HP is not full
   one_time: null
@@ -307,7 +276,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2-10
   one_time: null
@@ -316,7 +284,6 @@ records:
 - !SkillRecord
   desc_en: Random 1 orbs change every 0.5s for 3 turns + Fix orb movement starting
     point to random position on the board, Deal 100% damage
-  desc_jp: Random 1 orbs change every 0.5s for 3 turns + Fix orb movement starting
     point to random position on the board, Deal 100% damage
   max_atk_pct: null
   name_en: Shade of a Tree After Rain + Murmuring Southerly Wind
@@ -325,7 +292,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 11
   one_time: null
@@ -334,7 +300,6 @@ records:
 - !SkillRecord
   desc_en: Bind awoken skills for 10 turns + Increase damage to 200% for the next
     999 turns
-  desc_jp: Bind awoken skills for 10 turns + Increase damage to 200% for the next
     999 turns
   max_atk_pct: null
   name_en: Flower Rot of Bean Curd in the Summer Rain + Germination's Sunlight on
@@ -344,7 +309,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 12
   one_time: null
@@ -353,7 +317,6 @@ records:
 - !SkillRecord
   desc_en: Movetime -2s for 99 turns + Change player HP to 50% for 1 turns, Deal 110%
     damage
-  desc_jp: Movetime -2s for 99 turns + Change player HP to 50% for 1 turns, Deal 110%
     damage
   max_atk_pct: null
   name_en: Relentless Heat of the Mountain Breeze + Cool Shadow of the Canopy
@@ -363,7 +326,6 @@ records:
 - !SkillRecord
   desc_en: Random 1 orbs change every 0.5s for 3 turns + Fix orb movement starting
     point to random position on the board, Deal 100% damage
-  desc_jp: Random 1 orbs change every 0.5s for 3 turns + Fix orb movement starting
     point to random position on the board, Deal 100% damage
   max_atk_pct: null
   name_en: Shade of a Tree After Rain + Murmuring Southerly Wind
@@ -372,7 +334,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 75
   one_time: null
@@ -380,7 +341,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -389,7 +349,6 @@ records:
 - !SkillRecord
   desc_en: Movetime -2s for 99 turns + Change player HP to 50% for 1 turns, Deal 110%
     damage
-  desc_jp: Movetime -2s for 99 turns + Change player HP to 50% for 1 turns, Deal 110%
     damage
   max_atk_pct: null
   name_en: Relentless Heat of the Mountain Breeze + Cool Shadow of the Canopy
@@ -398,7 +357,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -406,7 +364,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -415,7 +372,6 @@ records:
 - !SkillRecord
   desc_en: Bind awoken skills for 10 turns + Increase damage to 200% for the next
     999 turns
-  desc_jp: Bind awoken skills for 10 turns + Increase damage to 200% for the next
     999 turns
   max_atk_pct: null
   name_en: Flower Rot of Bean Curd in the Summer Rain + Germination's Sunlight on
@@ -425,7 +381,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -434,7 +389,6 @@ records:
 - !SkillRecord
   desc_en: Movetime -2s for 99 turns + Change player HP to 50% for 1 turns, Deal 110%
     damage
-  desc_jp: Movetime -2s for 99 turns + Change player HP to 50% for 1 turns, Deal 110%
     damage
   max_atk_pct: null
   name_en: Relentless Heat of the Mountain Breeze + Cool Shadow of the Canopy
@@ -443,7 +397,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
   one_time: null
@@ -452,7 +405,6 @@ records:
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Water, Wood, Light, Dark +
     Deal 1500% damage (5 hits, 300% each)
-  desc_jp: Change own attribute to random one of Fire, Water, Wood, Light, Dark +
     Deal 1500% damage (5 hits, 300% each)
   max_atk_pct: null
   name_en: Changing Southeasterly Winds + Floating Cogongrass of Neverending Winds

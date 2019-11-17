@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Player -99% HP (Preemptive)
-  desc_jp: Player -99% HP (Preemptive)
   max_atk_pct: null
   name_en: Wave of Cold Air
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random to Water, Deal 80% damage
-  desc_jp: Change Random to Water, Deal 80% damage
   max_atk_pct: 80
   name_en: Ice Pillar Creation
   one_time: 1
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 120%~150% damage (4~5 hits, 30% each)
-  desc_jp: Deal 120%~150% damage (4~5 hits, 30% each)
   max_atk_pct: 150
   name_en: Ice Block Bullets
   one_time: 0
@@ -57,7 +52,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
   one_time: null
@@ -65,7 +59,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 200%~250% damage (4~5 hits, 50% each)
-  desc_jp: Deal 200%~250% damage (4~5 hits, 50% each)
   max_atk_pct: 250
   name_en: Target-Seeking Ice Block Bullets
   one_time: 0

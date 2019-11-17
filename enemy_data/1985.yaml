@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 80
   one_time: null
@@ -25,7 +24,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind 1 random for 2~3 turns, Deal 90% damage
-  desc_jp: Bind 1 random for 2~3 turns, Deal 90% damage
   max_atk_pct: 90
   name_en: Gleaming Amaterasu Ring
   one_time: 1

@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from Healer, Attacker by 50%
-  desc_jp: Reduce damage from Healer, Attacker by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -27,7 +26,6 @@ records:
   desc_en: Voids status ailments for 999 turns + Absorb combo <= 4 damage for 999
     turns + 6x3 cloud appear for 1 turns at 2nd row, 1st column, Deal 120% damage
     (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Absorb combo <= 4 damage for 999
     turns + 6x3 cloud appear for 1 turns at 2nd row, 1st column, Deal 120% damage
     (Preemptive)
   max_atk_pct: null
@@ -37,7 +35,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -45,7 +42,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Specific orbs change every 1.0s for 1 turns, (if >=5 combos last turn)
-  desc_jp: Specific orbs change every 1.0s for 1 turns, (if >=5 combos last turn)
   max_atk_pct: null
   name_en: Hum! What about this?
   one_time: 0
@@ -53,7 +49,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Movetime 25% for 1 turns
-  desc_jp: Movetime 25% for 1 turns
   max_atk_pct: null
   name_en: Hehe! You give up?
   one_time: 0
@@ -61,7 +56,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -69,7 +63,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: 4x5 cloud appear for 1 turns at 1st row, 2nd column, Deal 100% damage
-  desc_jp: 4x5 cloud appear for 1 turns at 1st row, 2nd column, Deal 100% damage
   max_atk_pct: 100
   name_en: Run more!
   one_time: 0
@@ -77,7 +70,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -85,7 +77,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Specific orbs change every 1.0s for 1 turns, (if >=5 combos last turn)
-  desc_jp: Specific orbs change every 1.0s for 1 turns, (if >=5 combos last turn)
   max_atk_pct: null
   name_en: Hum! What about this?
   one_time: 0
@@ -93,7 +84,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Movetime 25% for 1 turns
-  desc_jp: Movetime 25% for 1 turns
   max_atk_pct: null
   name_en: Hehe! You give up?
   one_time: 0
@@ -101,7 +91,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -109,7 +98,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 200% damage (5 hits, 40% each)
-  desc_jp: Deal 200% damage (5 hits, 40% each)
   max_atk_pct: 200
   name_en: Let's attack together!
   one_time: 0
@@ -117,7 +105,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -125,7 +112,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: 6x3 cloud appear for 1 turns at 2nd row, 1st column, Deal 120% damage
-  desc_jp: 6x3 cloud appear for 1 turns at 2nd row, 1st column, Deal 120% damage
   max_atk_pct: 120
   name_en: Run, run, run!
   one_time: 0

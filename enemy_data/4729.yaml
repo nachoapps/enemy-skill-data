@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 98
   one_time: null
@@ -25,7 +24,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 4 Poison orbs
-  desc_jp: Spawn random 4 Poison orbs
   max_atk_pct: null
   name_en: Curse of the Tree
   one_time: 0

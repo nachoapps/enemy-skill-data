@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Heal skyfall +25% for 3 turns (Preemptive)
-  desc_jp: Heal skyfall +25% for 3 turns (Preemptive)
   max_atk_pct: null
   name_en: Oh ♪ Welcome
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Light to Jammer, Deal 80% damage
-  desc_jp: Change Light to Jammer, Deal 80% damage
   max_atk_pct: 80
   name_en: I don't need this!
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Heal to Poison, Deal 80% damage
-  desc_jp: Change Heal to Poison, Deal 80% damage
   max_atk_pct: 80
   name_en: Don't need this!
   one_time: 0
@@ -49,7 +45,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -57,7 +52,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change all orbs to Dark, Deal 60% damage
-  desc_jp: Change all orbs to Dark, Deal 60% damage
   max_atk_pct: 60
   name_en: Dye it!
   one_time: 0
@@ -65,7 +59,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 3
   one_time: null
@@ -73,7 +66,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 180% damage (3 hits, 60% each)
-  desc_jp: Deal 180% damage (3 hits, 60% each)
   max_atk_pct: 180
   name_en: I'm bored of this now
   one_time: 0

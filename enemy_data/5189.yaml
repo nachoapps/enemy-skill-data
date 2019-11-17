@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Change Dark to Jammer, Deal 80% damage (Preemptive)
-  desc_jp: Change Dark to Jammer, Deal 80% damage (Preemptive)
   max_atk_pct: 80
   name_en: Scaleblade Swing
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1-2
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 100% damage
-  desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: Tackle
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Change Random to Light, Deal 95% damage
-  desc_jp: Change Random to Light, Deal 95% damage
   max_atk_pct: 95
   name_en: Talon Scratch
   one_time: 0
@@ -49,7 +45,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 3
   one_time: null
@@ -58,7 +53,6 @@ records:
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 45% damage + Change Dark to Jammer, Deal
     80% damage
-  desc_jp: Blind all orbs on the board, Deal 45% damage + Change Dark to Jammer, Deal
     80% damage
   max_atk_pct: null
   name_en: Jumping Strike Attack + Scaleblade Swing
@@ -67,7 +61,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 50% damage + Change Dark to Jammer, Deal 80% damage
-  desc_jp: Deal 50% damage + Change Dark to Jammer, Deal 80% damage
   max_atk_pct: null
   name_en: Spinning Tail Attack + Scaleblade Swing
   one_time: 0

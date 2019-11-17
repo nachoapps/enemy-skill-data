@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 50%
-  desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -26,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Absorb combo <= 7 damage for 3 turns + Voids status ailments for 3 turns
     (Preemptive)
-  desc_jp: Absorb combo <= 7 damage for 3 turns + Voids status ailments for 3 turns
     (Preemptive)
   max_atk_pct: null
   name_en: Celestial Prelude + I'd be glad if you could listen quietly
@@ -35,7 +33,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -44,7 +41,6 @@ records:
 - !SkillRecord
   desc_en: Change 1st, 3rd, 5th row to Light orbs, 2nd, 4th row to Wood orbs, Deal
     100% damage
-  desc_jp: Change 1st, 3rd, 5th row to Light orbs, 2nd, 4th row to Wood orbs, Deal
     100% damage
   max_atk_pct: 100
   name_en: Holy Tree's Staff
@@ -53,7 +49,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -61,7 +56,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Deal 200% damage
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Deal 200% damage
   max_atk_pct: 200
   name_en: Six Strings' Timbre
   one_time: 1
@@ -69,7 +63,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -78,7 +71,6 @@ records:
 - !SkillRecord
   desc_en: Change Random to Light, Deal 300% damage + Reduce damage from all sources
     by 50% for 3 turns
-  desc_jp: Change Random to Light, Deal 300% damage + Reduce damage from all sources
     by 50% for 3 turns
   max_atk_pct: null
   name_en: Last Movement - Flash + The show is over...
@@ -87,7 +79,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -95,7 +86,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind God cards for 5 turns
-  desc_jp: Bind God cards for 5 turns
   max_atk_pct: null
   name_en: Blinding Chain of God's Ruin
   one_time: 0
@@ -103,7 +93,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Bind Dark cards for 5 turns
-  desc_jp: Bind Dark cards for 5 turns
   max_atk_pct: null
   name_en: Blinding Chain of Devil's Ruin
   one_time: 8
@@ -111,7 +100,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Bind 1 both leaders for 5 turns
-  desc_jp: Bind 1 both leaders for 5 turns
   max_atk_pct: null
   name_en: Blinding Chain of Good & Evil's Ruin
   one_time: 0
@@ -119,7 +107,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -127,7 +114,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -135,7 +121,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change all orbs to Fire, Wood, Light, Jammer, Deal 150% damage
-  desc_jp: Change all orbs to Fire, Wood, Light, Jammer, Deal 150% damage
   max_atk_pct: 150
   name_en: Hyacinth's Lamentation
   one_time: 0
@@ -143,7 +128,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -151,7 +135,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Jammer to Heal, Deal 300% damage
-  desc_jp: Change Jammer to Heal, Deal 300% damage
   max_atk_pct: 300
   name_en: Sunlight Gift
   one_time: 0
@@ -159,7 +142,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Wood to Fire, Deal 200% damage
-  desc_jp: Change Wood to Fire, Deal 200% damage
   max_atk_pct: 200
   name_en: Sunlight Glow
   one_time: 0
@@ -167,7 +149,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Fire to Water, Deal 200% damage
-  desc_jp: Change Fire to Water, Deal 200% damage
   max_atk_pct: 200
   name_en: Sunlight Tears
   one_time: 0
@@ -175,7 +156,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Lock all Light orbs, Deal 200% damage
-  desc_jp: Lock all Light orbs, Deal 200% damage
   max_atk_pct: 200
   name_en: Sunlight Flash
   one_time: 0
@@ -183,7 +163,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change all orbs to Fire, Wood, Light, Jammer, Deal 150% damage
-  desc_jp: Change all orbs to Fire, Wood, Light, Jammer, Deal 150% damage
   max_atk_pct: 150
   name_en: Hyacinth's Lamentation
   one_time: 0
@@ -191,7 +170,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
   one_time: null
@@ -199,7 +177,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -500% HP
-  desc_jp: Player -500% HP
   max_atk_pct: null
   name_en: Glorious Postlude
   one_time: 0

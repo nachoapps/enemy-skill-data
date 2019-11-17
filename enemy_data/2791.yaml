@@ -18,7 +18,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Do nothing (Preemptive)
-  desc_jp: Do nothing (Preemptive)
   max_atk_pct: null
   name_en: Go back to oblivion!
   one_time: 511
@@ -35,7 +34,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 3 turns + Voids status ailments
     for 8 turns (Preemptive)
-  desc_jp: Reduce damage from all sources by 75% for 3 turns + Voids status ailments
     for 8 turns (Preemptive)
   max_atk_pct: null
   name_en: Go back to oblivion! + Doom
@@ -44,7 +42,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: When player has any buff
   one_time: null
@@ -52,7 +49,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Voids player buff effects
-  desc_jp: Voids player buff effects
   max_atk_pct: null
   name_en: Temporal Hollow
   one_time: 16
@@ -60,7 +56,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -68,7 +63,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -76,7 +70,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 100%~150% damage (2~3 hits, 50% each)
-  desc_jp: Deal 100%~150% damage (2~3 hits, 50% each)
   max_atk_pct: 150
   name_en: Sanction
   one_time: 128
@@ -84,7 +77,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -92,7 +84,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Delay active skills by 1 turns, Deal 50% damage
-  desc_jp: Delay active skills by 1 turns, Deal 50% damage
   max_atk_pct: 50
   name_en: Emitter
   one_time: 64
@@ -100,7 +91,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -109,7 +99,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 2 turns + Deal 100%~150% damage
     (2~3 hits, 50% each)
-  desc_jp: Reduce damage from all sources by 75% for 2 turns + Deal 100%~150% damage
     (2~3 hits, 50% each)
   max_atk_pct: null
   name_en: Destruction is inevitable. + Sanction
@@ -118,7 +107,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -126,7 +114,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Delay active skills by 1 turns, Deal 50% damage
-  desc_jp: Delay active skills by 1 turns, Deal 50% damage
   max_atk_pct: 50
   name_en: Emitter
   one_time: 16
@@ -134,7 +121,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 80%~120% damage (2~3 hits, 40% each)
-  desc_jp: Deal 80%~120% damage (2~3 hits, 40% each)
   max_atk_pct: 120
   name_en: Sanction
   one_time: 16
@@ -142,7 +128,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
   one_time: null
@@ -151,7 +136,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 2 turns + Deal 100%~150% damage
     (2~3 hits, 50% each)
-  desc_jp: Reduce damage from all sources by 75% for 2 turns + Deal 100%~150% damage
     (2~3 hits, 50% each)
   max_atk_pct: null
   name_en: Ignorant slaves of Pulse. + Sanction
@@ -160,7 +144,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6
   one_time: null
@@ -168,7 +151,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Delay active skills by 1 turns, Deal 50% damage
-  desc_jp: Delay active skills by 1 turns, Deal 50% damage
   max_atk_pct: 50
   name_en: Emitter
   one_time: 4
@@ -176,7 +158,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 7
   one_time: null
@@ -185,7 +166,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 2 turns + Deal 100%~150% damage
     (2~3 hits, 50% each)
-  desc_jp: Reduce damage from all sources by 75% for 2 turns + Deal 100%~150% damage
     (2~3 hits, 50% each)
   max_atk_pct: null
   name_en: Surrender your will. + Sanction
@@ -194,7 +174,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 8
   one_time: null
@@ -202,7 +181,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 500% damage
-  desc_jp: Deal 500% damage
   max_atk_pct: 500
   name_en: The world shall know redemption.
   one_time: 1
@@ -210,7 +188,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 700% damage
-  desc_jp: Deal 700% damage
   max_atk_pct: 700
   name_en: Kaleidoscopic Ray
   one_time: 0
@@ -218,7 +195,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 60
   one_time: null
@@ -226,7 +202,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -234,7 +209,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Jammer skyfall +15% for 3 turns + Deal 100% damage
-  desc_jp: Jammer skyfall +15% for 3 turns + Deal 100% damage
   max_atk_pct: null
   name_en: It's acting differently. + Black Ruin
   one_time: 32
@@ -242,7 +216,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -250,7 +223,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 100% damage
-  desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: Black Ruin
   one_time: 16
@@ -258,7 +230,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
   one_time: null
@@ -267,7 +238,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 2 turns + Change Random to Heal,
     Deal 200% damage
-  desc_jp: Reduce damage from all sources by 75% for 2 turns + Change Random to Heal,
     Deal 200% damage
   max_atk_pct: null
   name_en: Ignorant slaves of Pulse. + Rebirth

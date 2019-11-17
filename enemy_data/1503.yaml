@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Leader changes to random sub for 1 turns (Preemptive)
-  desc_jp: Leader changes to random sub for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: 火龍の酔狂
   one_time: 4
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Specific orbs change every 1.0s for 5 turns
-  desc_jp: Specific orbs change every 1.0s for 5 turns
   max_atk_pct: null
   name_en: 幻炎の輪舞
   one_time: 2
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 1st column to Fire orbs, Deal 100% damage
-  desc_jp: Change 1st column to Fire orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: ブレイズブレード
   one_time: 0
@@ -57,7 +52,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Rcv 50% for 1 turns, Deal 95% damage
-  desc_jp: Rcv 50% for 1 turns, Deal 95% damage
   max_atk_pct: 95
   name_en: 熱傷
   one_time: 0
@@ -65,7 +59,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -73,7 +66,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -81,7 +73,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Seal 6th column for 1 turns
-  desc_jp: Seal 6th column for 1 turns
   max_atk_pct: null
   name_en: 炎壁の境界
   one_time: 1
@@ -89,7 +80,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Spawn random 15 Fire orbs, Deal 250% damage
-  desc_jp: Spawn random 15 Fire orbs, Deal 250% damage
   max_atk_pct: 250
   name_en: 爆炎剣
   one_time: 0

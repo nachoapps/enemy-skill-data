@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Voids status ailments for 5 turns (Preemptive)
-  desc_jp: Voids status ailments for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: 継界龍呼・トルヴィオ＝ブル
   one_time: 1
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1-4
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 90% damage (3 hits, 30% each)
-  desc_jp: Deal 90% damage (3 hits, 30% each)
   max_atk_pct: 90
   name_en: 黒針撃
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 5
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Enemy recover 100% hp
-  desc_jp: Enemy recover 100% hp
   max_atk_pct: null
   name_en: オーバーホール
   one_time: 0

@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 99% for 1 turns (Preemptive)
-  desc_jp: Reduce damage from all sources by 99% for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: Frightened
   one_time: 1
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 75
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 140% damage (2 hits, 70% each)
-  desc_jp: Deal 140% damage (2 hits, 70% each)
   max_atk_pct: 140
   name_en: Double Strike
   one_time: 0
@@ -49,7 +46,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 99% for 1 turns (Preemptive)
-  desc_jp: Reduce damage from all sources by 99% for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: Frightened
   one_time: 1
@@ -57,7 +53,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 75
   one_time: null
@@ -65,7 +60,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 140% damage (2 hits, 70% each)
-  desc_jp: Deal 140% damage (2 hits, 70% each)
   max_atk_pct: 140
   name_en: Double Strike
   one_time: 0

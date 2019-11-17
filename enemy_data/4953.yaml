@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Absorb combo <= 5 damage for 5 turns + Locked Fire skyfall +100% for 99
     turns (Preemptive)
-  desc_jp: Absorb combo <= 5 damage for 5 turns + Locked Fire skyfall +100% for 99
     turns (Preemptive)
   max_atk_pct: null
   name_en: なんかオラ　燃えてきたズラ！ + もんげーーっ！
@@ -27,7 +26,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 105% damage (3 hits, 35% each)
-  desc_jp: Deal 105% damage (3 hits, 35% each)
   max_atk_pct: 105
   name_en: ズラズラズラ～っ！
   one_time: 0
@@ -35,7 +33,6 @@ records:
   usage_pct: 34
 - !SkillRecord
   desc_en: Player -75% HP
-  desc_jp: Player -75% HP
   max_atk_pct: null
   name_en: ズラッ！
   one_time: 1
@@ -43,7 +40,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Change Random to Fire, Deal 95% damage
-  desc_jp: Change Random to Fire, Deal 95% damage
   max_atk_pct: 95
   name_en: あっちいズラよ～！
   one_time: 0
@@ -51,7 +47,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -59,7 +54,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -68,7 +62,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 5 turns + Bind 4 random subs for 2
     turns
-  desc_jp: Increase damage to 150% for the next 5 turns + Bind 4 random subs for 2
     turns
   max_atk_pct: null
   name_en: Ｓのチカラ　わいてくるズラ… + オラ　止まんないズラ～！！
@@ -77,7 +70,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -85,7 +77,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind awoken skills for 1 turns
-  desc_jp: Bind awoken skills for 1 turns
   max_atk_pct: null
   name_en: いいかげんにするズラ～！
   one_time: 0
@@ -93,7 +84,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 200% damage (5 hits, 40% each)
-  desc_jp: Deal 200% damage (5 hits, 40% each)
   max_atk_pct: 200
   name_en: ひとだま乱舞
   one_time: 0

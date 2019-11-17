@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns (Preemptive)
   max_atk_pct: null
   name_en: Protection of the Gods
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind Water cards for 10 turns
-  desc_jp: Bind Water cards for 10 turns
   max_atk_pct: null
   name_en: Eternal Thirst
   one_time: 1
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 135% damage (3 hits, 45% each)
-  desc_jp: Deal 135% damage (3 hits, 45% each)
   max_atk_pct: 135
   name_en: Flame Pillar
   one_time: 0
@@ -57,7 +52,6 @@ records:
   usage_pct: 70
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -65,7 +59,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 170% damage
-  desc_jp: Deal 170% damage
   max_atk_pct: 170
   name_en: High Kick
   one_time: 0
@@ -73,7 +66,6 @@ records:
   usage_pct: 70
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 25
   one_time: null
@@ -81,7 +73,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -89,7 +80,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Do nothing
-  desc_jp: Do nothing
   max_atk_pct: null
   name_en: Released Magical Power
   one_time: 0
@@ -97,7 +87,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 600% damage
-  desc_jp: Deal 600% damage
   max_atk_pct: 600
   name_en: Graviton Bomb
   one_time: 0
@@ -113,7 +102,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns (Preemptive)
   max_atk_pct: null
   name_en: Protection of the Gods
   one_time: 0
@@ -121,7 +109,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -129,7 +116,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind Water cards for 10 turns
-  desc_jp: Bind Water cards for 10 turns
   max_atk_pct: null
   name_en: Eternal Thirst
   one_time: 1
@@ -137,7 +123,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -145,7 +130,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 135% damage (3 hits, 45% each)
-  desc_jp: Deal 135% damage (3 hits, 45% each)
   max_atk_pct: 135
   name_en: Flame Pillar
   one_time: 0
@@ -153,7 +137,6 @@ records:
   usage_pct: 70
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -161,7 +144,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 170% damage
-  desc_jp: Deal 170% damage
   max_atk_pct: 170
   name_en: High Kick
   one_time: 0
@@ -169,7 +151,6 @@ records:
   usage_pct: 70
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 25
   one_time: null
@@ -177,7 +158,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -185,7 +165,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Do nothing
-  desc_jp: Do nothing
   max_atk_pct: null
   name_en: Released Magical Power
   one_time: 0
@@ -193,7 +172,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 600% damage
-  desc_jp: Deal 600% damage
   max_atk_pct: 600
   name_en: Graviton Bomb
   one_time: 0

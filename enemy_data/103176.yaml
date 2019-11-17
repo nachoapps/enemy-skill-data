@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Fire, Water, Wood damage for 5 turns + Movetime 50% for 10 turns
     (Preemptive)
-  desc_jp: Absorb Fire, Water, Wood damage for 5 turns + Movetime 50% for 10 turns
     (Preemptive)
   max_atk_pct: null
   name_en: Ripening of the Land + Second Hand's Limited Time
@@ -27,7 +26,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -35,7 +33,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Fire skyfall +20% for 1 turns + Lock all Fire orbs, Deal 130% damage
-  desc_jp: Fire skyfall +20% for 1 turns + Lock all Fire orbs, Deal 130% damage
   max_atk_pct: null
   name_en: Landing Ground + Freedom Exploitation
   one_time: 0
@@ -43,7 +40,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Water skyfall +20% for 1 turns + Lock all Water orbs, Deal 130% damage
-  desc_jp: Water skyfall +20% for 1 turns + Lock all Water orbs, Deal 130% damage
   max_atk_pct: null
   name_en: Landing Ground + Freedom Exploitation
   one_time: 0
@@ -51,7 +47,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Wood skyfall +20% for 1 turns + Lock all Wood orbs, Deal 130% damage
-  desc_jp: Wood skyfall +20% for 1 turns + Lock all Wood orbs, Deal 130% damage
   max_atk_pct: null
   name_en: Landing Ground + Freedom Exploitation
   one_time: 0
@@ -59,7 +54,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -67,7 +61,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -75,7 +68,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Fire skyfall +20% for 1 turns + Lock all Fire orbs, Deal 130% damage
-  desc_jp: Fire skyfall +20% for 1 turns + Lock all Fire orbs, Deal 130% damage
   max_atk_pct: null
   name_en: Landing Ground + Freedom Exploitation
   one_time: 0
@@ -83,7 +75,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Water skyfall +20% for 1 turns + Lock all Water orbs, Deal 130% damage
-  desc_jp: Water skyfall +20% for 1 turns + Lock all Water orbs, Deal 130% damage
   max_atk_pct: null
   name_en: Landing Ground + Freedom Exploitation
   one_time: 0
@@ -91,7 +82,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -99,7 +89,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Fire skyfall +20% for 1 turns + Lock all Fire orbs, Deal 130% damage
-  desc_jp: Fire skyfall +20% for 1 turns + Lock all Fire orbs, Deal 130% damage
   max_atk_pct: null
   name_en: Landing Ground + Freedom Exploitation
   one_time: 0
@@ -107,7 +96,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Wood skyfall +20% for 1 turns + Lock all Wood orbs, Deal 130% damage
-  desc_jp: Wood skyfall +20% for 1 turns + Lock all Wood orbs, Deal 130% damage
   max_atk_pct: null
   name_en: Landing Ground + Freedom Exploitation
   one_time: 0
@@ -115,7 +103,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -123,7 +110,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -132,7 +118,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 20 turns + Locked Light, Dark
     skyfall +100% for 20 turns
-  desc_jp: Reduce damage from all sources by 75% for 20 turns + Locked Light, Dark
     skyfall +100% for 20 turns
   max_atk_pct: null
   name_en: Settling Down + World-Wrecking Rumble
@@ -141,7 +126,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -149,7 +133,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Fire skyfall +20% for 1 turns + Lock all Fire orbs, Deal 130% damage
-  desc_jp: Fire skyfall +20% for 1 turns + Lock all Fire orbs, Deal 130% damage
   max_atk_pct: null
   name_en: Landing Ground + Freedom Exploitation
   one_time: 0
@@ -157,7 +140,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Water skyfall +20% for 1 turns + Lock all Water orbs, Deal 130% damage
-  desc_jp: Water skyfall +20% for 1 turns + Lock all Water orbs, Deal 130% damage
   max_atk_pct: null
   name_en: Landing Ground + Freedom Exploitation
   one_time: 0
@@ -165,7 +147,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Wood skyfall +20% for 1 turns + Lock all Wood orbs, Deal 130% damage
-  desc_jp: Wood skyfall +20% for 1 turns + Lock all Wood orbs, Deal 130% damage
   max_atk_pct: null
   name_en: Landing Ground + Freedom Exploitation
   one_time: 0
@@ -173,7 +154,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 15
   one_time: null
@@ -181,7 +161,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -189,7 +168,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind awoken skills for 1 turns
-  desc_jp: Bind awoken skills for 1 turns
   max_atk_pct: null
   name_en: Tiger Snake Roar
   one_time: 1
@@ -197,7 +175,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 600% damage (6 hits, 100% each)
-  desc_jp: Deal 600% damage (6 hits, 100% each)
   max_atk_pct: 600
   name_en: Claw & Fang Double Strike
   one_time: 0

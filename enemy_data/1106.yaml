@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Absorb Dark damage for 5 turns (Preemptive)
-  desc_jp: Absorb Dark damage for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: Magic Absorbing Eye
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1-4
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random 5 to Poison, Deal 80% damage
-  desc_jp: Change Random 5 to Poison, Deal 80% damage
   max_atk_pct: 80
   name_en: Poison Bouquet
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random to Heal, Deal 400% damage
-  desc_jp: Change Random to Heal, Deal 400% damage
   max_atk_pct: 400
   name_en: Kiss of Death
   one_time: 0
@@ -57,7 +52,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
   one_time: null
@@ -65,7 +59,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -73,7 +66,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind active skills for 5 turns
-  desc_jp: Bind active skills for 5 turns
   max_atk_pct: null
   name_en: Serpent's Temptation
   one_time: 1
@@ -81,7 +73,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Random 5 to Poison, Deal 80% damage
-  desc_jp: Change Random 5 to Poison, Deal 80% damage
   max_atk_pct: 80
   name_en: Poison Bouquet
   one_time: 0

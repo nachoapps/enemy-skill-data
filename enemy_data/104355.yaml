@@ -18,7 +18,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from Light by 50%
-  desc_jp: Reduce damage from Light by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -26,7 +25,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 99%
-  desc_jp: Survive attacks with 1 HP when HP > 99%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -42,7 +40,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from Light by 50%
-  desc_jp: Reduce damage from Light by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -50,7 +47,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 99%
-  desc_jp: Survive attacks with 1 HP when HP > 99%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -60,7 +56,6 @@ records:
   desc_en: Voids status ailments for 999 turns + Absorb Light damage for 10 turns
     + Specific orbs change every 1.5s for 20 turns + Void damage >= 15000000 for 999
     turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Absorb Light damage for 10 turns
     + Specific orbs change every 1.5s for 20 turns + Void damage >= 15000000 for 999
     turns (Preemptive)
   max_atk_pct: null
@@ -71,7 +66,6 @@ records:
 - !SkillRecord
   desc_en: Specific orbs change every 0.8s for 20 turns + Deal 129% damage (3 hits,
     43% each), (if >=9 combos last turn)
-  desc_jp: Specific orbs change every 0.8s for 20 turns + Deal 129% damage (3 hits,
     43% each), (if >=9 combos last turn)
   max_atk_pct: null
   name_en: Traversing Radiance + Shining Arrow
@@ -81,7 +75,6 @@ records:
 - !SkillRecord
   desc_en: Specific orbs change every 0.8s for 20 turns + Bind 1 subs for 2 turns,
     Deal 120% damage, (if >=9 combos last turn)
-  desc_jp: Specific orbs change every 0.8s for 20 turns + Bind 1 subs for 2 turns,
     Deal 120% damage, (if >=9 combos last turn)
   max_atk_pct: null
   name_en: Traversing Radiance + Light Prison
@@ -91,7 +84,6 @@ records:
 - !SkillRecord
   desc_en: Specific orbs change every 1.0s for 20 turns + Deal 129% damage (3 hits,
     43% each), (if >=6 combos last turn)
-  desc_jp: Specific orbs change every 1.0s for 20 turns + Deal 129% damage (3 hits,
     43% each), (if >=6 combos last turn)
   max_atk_pct: null
   name_en: Traversing Radiance + Shining Arrow
@@ -101,7 +93,6 @@ records:
 - !SkillRecord
   desc_en: Specific orbs change every 1.0s for 20 turns + Bind 1 subs for 2 turns,
     Deal 120% damage, (if >=6 combos last turn)
-  desc_jp: Specific orbs change every 1.0s for 20 turns + Bind 1 subs for 2 turns,
     Deal 120% damage, (if >=6 combos last turn)
   max_atk_pct: null
   name_en: Traversing Radiance + Light Prison
@@ -111,7 +102,6 @@ records:
 - !SkillRecord
   desc_en: Specific orbs change every 1.5s for 20 turns + Bind 1 subs for 2 turns,
     Deal 120% damage
-  desc_jp: Specific orbs change every 1.5s for 20 turns + Bind 1 subs for 2 turns,
     Deal 120% damage
   max_atk_pct: null
   name_en: Traversing Radiance + Light Prison
@@ -121,7 +111,6 @@ records:
 - !SkillRecord
   desc_en: Specific orbs change every 1.5s for 20 turns + Deal 129% damage (3 hits,
     43% each)
-  desc_jp: Specific orbs change every 1.5s for 20 turns + Deal 129% damage (3 hits,
     43% each)
   max_atk_pct: null
   name_en: Traversing Radiance + Shining Arrow
@@ -130,7 +119,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 75
   one_time: null
@@ -138,7 +126,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -147,7 +134,6 @@ records:
 - !SkillRecord
   desc_en: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
     orbs, Deal 160% damage
-  desc_jp: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
     orbs, Deal 160% damage
   max_atk_pct: 160
   name_en: Shadow of Fate
@@ -156,7 +142,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -164,7 +149,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -173,7 +157,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 200% for the next 1 turns + Absorb combo <= 6 damage
     for 15 turns
-  desc_jp: Increase damage to 200% for the next 1 turns + Absorb combo <= 6 damage
     for 15 turns
   max_atk_pct: null
   name_en: Philysians + Prism Mirror
@@ -182,7 +165,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
   one_time: null
@@ -190,7 +172,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -199,7 +180,6 @@ records:
 - !SkillRecord
   desc_en: Absorb combo <= 9 damage for 1 turns + Specific orbs change every 1.0s
     for 20 turns
-  desc_jp: Absorb combo <= 9 damage for 1 turns + Specific orbs change every 1.0s
     for 20 turns
   max_atk_pct: null
   name_en: Prism Mirror + Traversing Radiance
@@ -208,7 +188,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 10000% damage (10 hits, 1000% each)
-  desc_jp: Deal 10000% damage (10 hits, 1000% each)
   max_atk_pct: 10000
   name_en: Gleaming Sword of Alvaliere
   one_time: 0

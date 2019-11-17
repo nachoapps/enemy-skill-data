@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Void damage >= 5000000 for 99 turns
     + Absorb Fire, Light damage for 1 turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Void damage >= 5000000 for 99 turns
     + Absorb Fire, Light damage for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: アークスケイル + 聖舶の護壁 + 蒼天の虹
@@ -28,7 +27,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Void damage >= 5000000 for 99 turns
     + Absorb Fire, Dark damage for 1 turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Void damage >= 5000000 for 99 turns
     + Absorb Fire, Dark damage for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: アークスケイル + 聖舶の護壁 + 蒼天の虹
@@ -38,7 +36,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Void damage >= 5000000 for 99 turns
     + Absorb Water, Light damage for 1 turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Void damage >= 5000000 for 99 turns
     + Absorb Water, Light damage for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: アークスケイル + 聖舶の護壁 + 蒼天の虹
@@ -48,7 +45,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Void damage >= 5000000 for 99 turns
     + Absorb Water, Dark damage for 1 turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Void damage >= 5000000 for 99 turns
     + Absorb Water, Dark damage for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: アークスケイル + 聖舶の護壁 + 蒼天の虹
@@ -58,7 +54,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Void damage >= 5000000 for 99 turns
     + Absorb Wood, Light damage for 1 turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Void damage >= 5000000 for 99 turns
     + Absorb Wood, Light damage for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: アークスケイル + 聖舶の護壁 + 蒼天の虹
@@ -68,7 +63,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Void damage >= 5000000 for 99 turns
     + Absorb Wood, Dark damage for 1 turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Void damage >= 5000000 for 99 turns
     + Absorb Wood, Dark damage for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: アークスケイル + 聖舶の護壁 + 蒼天の虹
@@ -78,7 +72,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Fire, Light damage for 1 turns + Change Random to Fire, Deal 100%
     damage + Bind 1 subs for 1 turns, Deal 50% damage
-  desc_jp: Absorb Fire, Light damage for 1 turns + Change Random to Fire, Deal 100%
     damage + Bind 1 subs for 1 turns, Deal 50% damage
   max_atk_pct: null
   name_en: 蒼天の虹 + プリズミックサンダー + ストランドサクリファイス
@@ -88,7 +81,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Fire, Light damage for 1 turns + Change Random to Light, Deal 100%
     damage + Bind 1 subs for 1 turns, Deal 50% damage
-  desc_jp: Absorb Fire, Light damage for 1 turns + Change Random to Light, Deal 100%
     damage + Bind 1 subs for 1 turns, Deal 50% damage
   max_atk_pct: null
   name_en: 蒼天の虹 + プリズミックサンダー + ストランドサクリファイス
@@ -98,7 +90,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Fire, Dark damage for 1 turns + Change Random to Fire, Deal 100%
     damage + Bind 1 subs for 1 turns, Deal 50% damage
-  desc_jp: Absorb Fire, Dark damage for 1 turns + Change Random to Fire, Deal 100%
     damage + Bind 1 subs for 1 turns, Deal 50% damage
   max_atk_pct: null
   name_en: 蒼天の虹 + プリズミックサンダー + ストランドサクリファイス
@@ -108,7 +99,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Fire, Dark damage for 1 turns + Change Random to Dark, Deal 100%
     damage + Bind 1 subs for 1 turns, Deal 50% damage
-  desc_jp: Absorb Fire, Dark damage for 1 turns + Change Random to Dark, Deal 100%
     damage + Bind 1 subs for 1 turns, Deal 50% damage
   max_atk_pct: null
   name_en: 蒼天の虹 + プリズミックサンダー + ストランドサクリファイス
@@ -118,7 +108,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Water, Light damage for 1 turns + Change Random to Water, Deal 100%
     damage + Bind 1 subs for 1 turns, Deal 50% damage
-  desc_jp: Absorb Water, Light damage for 1 turns + Change Random to Water, Deal 100%
     damage + Bind 1 subs for 1 turns, Deal 50% damage
   max_atk_pct: null
   name_en: 蒼天の虹 + プリズミックサンダー + ストランドサクリファイス
@@ -128,7 +117,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Water, Light damage for 1 turns + Change Random to Light, Deal 100%
     damage + Bind 1 subs for 1 turns, Deal 50% damage
-  desc_jp: Absorb Water, Light damage for 1 turns + Change Random to Light, Deal 100%
     damage + Bind 1 subs for 1 turns, Deal 50% damage
   max_atk_pct: null
   name_en: 蒼天の虹 + プリズミックサンダー + ストランドサクリファイス
@@ -138,7 +126,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Water, Dark damage for 1 turns + Change Random to Water, Deal 100%
     damage + Bind 1 subs for 1 turns, Deal 50% damage
-  desc_jp: Absorb Water, Dark damage for 1 turns + Change Random to Water, Deal 100%
     damage + Bind 1 subs for 1 turns, Deal 50% damage
   max_atk_pct: null
   name_en: 蒼天の虹 + プリズミックサンダー + ストランドサクリファイス
@@ -148,7 +135,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Water, Dark damage for 1 turns + Change Random to Dark, Deal 100%
     damage + Bind 1 subs for 1 turns, Deal 50% damage
-  desc_jp: Absorb Water, Dark damage for 1 turns + Change Random to Dark, Deal 100%
     damage + Bind 1 subs for 1 turns, Deal 50% damage
   max_atk_pct: null
   name_en: 蒼天の虹 + プリズミックサンダー + ストランドサクリファイス
@@ -158,7 +144,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Wood, Light damage for 1 turns + Change Random to Wood, Deal 100%
     damage + Bind 1 subs for 1 turns, Deal 50% damage
-  desc_jp: Absorb Wood, Light damage for 1 turns + Change Random to Wood, Deal 100%
     damage + Bind 1 subs for 1 turns, Deal 50% damage
   max_atk_pct: null
   name_en: 蒼天の虹 + プリズミックサンダー + ストランドサクリファイス
@@ -168,7 +153,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Wood, Light damage for 1 turns + Change Random to Light, Deal 100%
     damage + Bind 1 subs for 1 turns, Deal 50% damage
-  desc_jp: Absorb Wood, Light damage for 1 turns + Change Random to Light, Deal 100%
     damage + Bind 1 subs for 1 turns, Deal 50% damage
   max_atk_pct: null
   name_en: 蒼天の虹 + プリズミックサンダー + ストランドサクリファイス
@@ -178,7 +162,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Wood, Dark damage for 1 turns + Change Random to Wood, Deal 100%
     damage + Bind 1 subs for 1 turns, Deal 50% damage
-  desc_jp: Absorb Wood, Dark damage for 1 turns + Change Random to Wood, Deal 100%
     damage + Bind 1 subs for 1 turns, Deal 50% damage
   max_atk_pct: null
   name_en: 蒼天の虹 + プリズミックサンダー + ストランドサクリファイス
@@ -188,7 +171,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Wood, Dark damage for 1 turns + Change Random to Dark, Deal 100%
     damage + Bind 1 subs for 1 turns, Deal 50% damage
-  desc_jp: Absorb Wood, Dark damage for 1 turns + Change Random to Dark, Deal 100%
     damage + Bind 1 subs for 1 turns, Deal 50% damage
   max_atk_pct: null
   name_en: 蒼天の虹 + プリズミックサンダー + ストランドサクリファイス
@@ -197,7 +179,6 @@ records:
   usage_pct: 8
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 90
   one_time: null
@@ -205,7 +186,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -214,7 +194,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 1 turns + Bind active skills
     for 10 turns + Change all orbs to Fire, Water, Wood, Light, Dark, Deal 450% damage
-  desc_jp: Reduce damage from all sources by 75% for 1 turns + Bind active skills
     for 10 turns + Change all orbs to Fire, Water, Wood, Light, Dark, Deal 450% damage
   max_atk_pct: null
   name_en: リトリートアーク + フォッグボウ・シール + ファーストジャッジメント
@@ -223,7 +202,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 70
   one_time: null
@@ -231,7 +209,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -240,7 +217,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 1 turns + Blind all orbs on the
     board + Change all orbs to Fire, Water, Wood, Light, Dark, Deal 600% damage
-  desc_jp: Reduce damage from all sources by 75% for 1 turns + Blind all orbs on the
     board + Change all orbs to Fire, Water, Wood, Light, Dark, Deal 600% damage
   max_atk_pct: null
   name_en: リトリートアーク + フォッグボウ・ヘイズ + セカンドジャッジメント
@@ -249,7 +225,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -257,7 +232,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -266,7 +240,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 1 turns + Delay active skills
     by 5 turns + Deal 1200% damage (3 hits, 400% each)
-  desc_jp: Reduce damage from all sources by 75% for 1 turns + Delay active skills
     by 5 turns + Deal 1200% damage (3 hits, 400% each)
   max_atk_pct: null
   name_en: リトリートアーク + フォッグボウ・ゲイズ + サードジャッジメント
@@ -276,7 +249,6 @@ records:
 - !SkillRecord
   desc_en: Change Random to Jammer, Deal 150% damage + Bind 1 subs for 1 turns, Deal
     50% damage + Player -99% HP
-  desc_jp: Change Random to Jammer, Deal 150% damage + Bind 1 subs for 1 turns, Deal
     50% damage + Player -99% HP
   max_atk_pct: null
   name_en: レインボーブランク + ストランドサクリファイス + アークインパクト
@@ -285,7 +257,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
   one_time: null
@@ -293,7 +264,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -302,7 +272,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 1 turns + Bind awoken skills
     for 2 turns + Change all orbs to Fire, Water, Wood, Light, Dark, Deal 2000% damage
-  desc_jp: Reduce damage from all sources by 75% for 1 turns + Bind awoken skills
     for 2 turns + Change all orbs to Fire, Water, Wood, Light, Dark, Deal 2000% damage
   max_atk_pct: null
   name_en: リトリートアーク + フォッグボウ・グレイズ + フォースジャッジメント
@@ -311,7 +280,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
   one_time: null
@@ -320,7 +288,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 1 turns + Voids player buff effects
     + Deal 3000% damage (3 hits, 1000% each)
-  desc_jp: Reduce damage from all sources by 75% for 1 turns + Voids player buff effects
     + Deal 3000% damage (3 hits, 1000% each)
   max_atk_pct: null
   name_en: リトリートアーク + フォッグボウ・パージ + ジャッジメントエンド

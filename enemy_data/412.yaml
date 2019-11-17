@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Blind all orbs on the board
-  desc_jp: Blind all orbs on the board
   max_atk_pct: null
   name_en: Dark Wind
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 5
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 75
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 225% damage (3 hits, 75% each)
-  desc_jp: Deal 225% damage (3 hits, 75% each)
   max_atk_pct: 225
   name_en: God Hell Breath
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 70
 - !SkillRecord
   desc_en: Blind all orbs on the board
-  desc_jp: Blind all orbs on the board
   max_atk_pct: null
   name_en: Dark Wind
   one_time: 0

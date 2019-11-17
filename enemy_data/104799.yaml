@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Poison skyfall +15% for 3 turns (Preemptive)
-  desc_jp: Poison skyfall +15% for 3 turns (Preemptive)
   max_atk_pct: null
   name_en: Poison Poison Poison
   one_time: 2
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Delay active skills by 1 turns, Deal 100% damage
-  desc_jp: Delay active skills by 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Death Voice
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 117% damage (9 hits, 13% each)
-  desc_jp: Deal 117% damage (9 hits, 13% each)
   max_atk_pct: 117
   name_en: Needle Rain
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -57,7 +52,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Movetime 50% for 2 turns + Player -99% HP
-  desc_jp: Movetime 50% for 2 turns + Player -99% HP
   max_atk_pct: null
   name_en: Abomination + Black Pain
   one_time: 1
@@ -65,7 +59,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
   one_time: null
@@ -73,7 +66,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 250% damage
-  desc_jp: Deal 250% damage
   max_atk_pct: 250
   name_en: The Destroyer
   one_time: 0

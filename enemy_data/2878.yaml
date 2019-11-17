@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 50%
-  desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Reduce damage from Dark by 50%
-  desc_jp: Reduce damage from Dark by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -41,7 +39,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 50%
-  desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -49,7 +46,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Reduce damage from Dark by 50%
-  desc_jp: Reduce damage from Dark by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -58,7 +54,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 5 turns + Change all orbs to Fire, Light, Heal,
     Deal 130% damage (Preemptive)
-  desc_jp: Voids status ailments for 5 turns + Change all orbs to Fire, Light, Heal,
     Deal 130% damage (Preemptive)
   max_atk_pct: null
   name_en: Tell me your wish! + Shine Flare Ring
@@ -67,7 +62,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -75,7 +69,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind active skills for 3 turns
-  desc_jp: Bind active skills for 3 turns
   max_atk_pct: null
   name_en: Brightness Blink
   one_time: 0
@@ -83,7 +76,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Bind active skills for 3 turns
-  desc_jp: Bind active skills for 3 turns
   max_atk_pct: null
   name_en: Your friends are so important?
   one_time: 0
@@ -91,7 +83,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 1 turns
-  desc_jp: Reduce damage from all sources by 50% for 1 turns
   max_atk_pct: null
   name_en: Leap
   one_time: 1
@@ -99,7 +90,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -107,7 +97,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -115,7 +104,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 185% damage (5 hits, 37% each)
-  desc_jp: Deal 185% damage (5 hits, 37% each)
   max_atk_pct: 185
   name_en: Shining Claw
   one_time: 0
@@ -123,7 +111,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: Change 5th column to Light orbs, 6th column to Fire orbs, Deal 170% damage
-  desc_jp: Change 5th column to Light orbs, 6th column to Fire orbs, Deal 170% damage
   max_atk_pct: 170
   name_en: Orange Light's Judging Spirit
   one_time: 0
@@ -131,7 +118,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Spawn random 8 Light orbs, Deal 170% damage
-  desc_jp: Spawn random 8 Light orbs, Deal 170% damage
   max_atk_pct: 170
   name_en: Brightness Guidance
   one_time: 0
@@ -139,7 +125,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -147,7 +132,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 1 turns
-  desc_jp: Reduce damage from all sources by 50% for 1 turns
   max_atk_pct: null
   name_en: Leap
   one_time: 1
@@ -155,7 +139,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -163,7 +146,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -172,7 +154,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Light damage for 1 turns + Change 2nd, 5th column to Light orbs,
     Deal 100% damage
-  desc_jp: Absorb Light damage for 1 turns + Change 2nd, 5th column to Light orbs,
     Deal 100% damage
   max_atk_pct: null
   name_en: Gleaming Rabbit Dragon's Trial + Flower Piercing Light
@@ -181,7 +162,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -189,7 +169,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 1 turns
-  desc_jp: Reduce damage from all sources by 75% for 1 turns
   max_atk_pct: null
   name_en: Big Jump
   one_time: 1
@@ -197,7 +176,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -205,7 +183,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 185% damage (5 hits, 37% each)
-  desc_jp: Deal 185% damage (5 hits, 37% each)
   max_atk_pct: 185
   name_en: Shining Claw
   one_time: 0
@@ -213,7 +190,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: Change 5th column to Light orbs, 6th column to Fire orbs, Deal 170% damage
-  desc_jp: Change 5th column to Light orbs, 6th column to Fire orbs, Deal 170% damage
   max_atk_pct: 170
   name_en: Orange Light's Judging Spirit
   one_time: 0
@@ -221,7 +197,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Spawn random 8 Light orbs, Deal 170% damage
-  desc_jp: Spawn random 8 Light orbs, Deal 170% damage
   max_atk_pct: 170
   name_en: Brightness Guidance
   one_time: 0
@@ -229,7 +204,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -237,7 +211,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -245,7 +218,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Enemy recover 19% hp + Reduce damage from all sources by 75% for 1 turns
-  desc_jp: Enemy recover 19% hp + Reduce damage from all sources by 75% for 1 turns
   max_atk_pct: null
   name_en: Overcoming Will + Big Jump
   one_time: 1
@@ -253,7 +225,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -262,7 +233,6 @@ records:
 - !SkillRecord
   desc_en: Deal 185% damage (5 hits, 37% each) + Change all orbs to Fire, Light, Heal,
     Deal 130% damage
-  desc_jp: Deal 185% damage (5 hits, 37% each) + Change all orbs to Fire, Light, Heal,
     Deal 130% damage
   max_atk_pct: null
   name_en: Shining Claw + Shine Flare Ring

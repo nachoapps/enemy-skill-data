@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Change Heal to Jammer
-  desc_jp: Change Heal to Jammer
   max_atk_pct: null
   name_en: Heal Jammer
   one_time: 1

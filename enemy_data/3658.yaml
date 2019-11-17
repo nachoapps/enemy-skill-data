@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Bind 1 random subs for 1 turns + Do nothing (Preemptive)
-  desc_jp: Bind 1 random subs for 1 turns + Do nothing (Preemptive)
   max_atk_pct: null
   name_en: Roar + Fireball Charge
   one_time: 7
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 6 Fire orbs, Deal 110% damage
-  desc_jp: Spawn random 6 Fire orbs, Deal 110% damage
   max_atk_pct: 110
   name_en: Fire Wave
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Deal 120% damage
-  desc_jp: Deal 120% damage
   max_atk_pct: 120
   name_en: Tail Slam
   one_time: 0
@@ -49,7 +45,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Player -70% HP
-  desc_jp: Player -70% HP
   max_atk_pct: null
   name_en: Jumping Tail Strike
   one_time: 0
@@ -57,7 +52,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2-3
   one_time: null
@@ -65,7 +59,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 3 Fire orbs, Deal 100% damage
-  desc_jp: Spawn random 3 Fire orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Bite
   one_time: 1
@@ -73,7 +66,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Spawn random 3 Bomb orbs, Deal 100% damage
-  desc_jp: Spawn random 3 Bomb orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Fireball Breath
   one_time: 1
@@ -81,7 +73,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Spawn random 6 Fire orbs, Deal 110% damage
-  desc_jp: Spawn random 6 Fire orbs, Deal 110% damage
   max_atk_pct: 110
   name_en: Fire Wave
   one_time: 0
@@ -89,7 +80,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Deal 120% damage
-  desc_jp: Deal 120% damage
   max_atk_pct: 120
   name_en: Tail Slam
   one_time: 0
@@ -97,7 +87,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Player -70% HP
-  desc_jp: Player -70% HP
   max_atk_pct: null
   name_en: Jumping Tail Strike
   one_time: 0
@@ -105,7 +94,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -113,7 +101,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 10 turns
-  desc_jp: Increase damage to 150% for the next 10 turns
   max_atk_pct: null
   name_en: Scalding Tail
   one_time: 3
@@ -121,7 +108,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5-6
   one_time: null
@@ -129,7 +115,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 3 Fire orbs, Deal 100% damage
-  desc_jp: Spawn random 3 Fire orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Bite
   one_time: 1
@@ -137,7 +122,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Spawn random 3 Bomb orbs, Deal 100% damage
-  desc_jp: Spawn random 3 Bomb orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Fireball Breath
   one_time: 1
@@ -145,7 +129,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Spawn random 6 Fire orbs, Deal 110% damage
-  desc_jp: Spawn random 6 Fire orbs, Deal 110% damage
   max_atk_pct: 110
   name_en: Fire Wave
   one_time: 0
@@ -153,7 +136,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Deal 120% damage
-  desc_jp: Deal 120% damage
   max_atk_pct: 120
   name_en: Tail Slam
   one_time: 0
@@ -161,7 +143,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Player -70% HP
-  desc_jp: Player -70% HP
   max_atk_pct: null
   name_en: Jumping Tail Strike
   one_time: 0
@@ -169,7 +150,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -177,7 +157,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1-2
   one_time: null
@@ -185,7 +164,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 3 Fire orbs, Deal 100% damage
-  desc_jp: Spawn random 3 Fire orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Bite
   one_time: 1
@@ -193,7 +171,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Spawn random 3 Bomb orbs, Deal 100% damage
-  desc_jp: Spawn random 3 Bomb orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Fireball Breath
   one_time: 1
@@ -201,7 +178,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Spawn random 6 Fire orbs, Deal 110% damage
-  desc_jp: Spawn random 6 Fire orbs, Deal 110% damage
   max_atk_pct: 110
   name_en: Fire Wave
   one_time: 0
@@ -209,7 +185,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Deal 120% damage
-  desc_jp: Deal 120% damage
   max_atk_pct: 120
   name_en: Tail Slam
   one_time: 0
@@ -217,7 +192,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Player -70% HP
-  desc_jp: Player -70% HP
   max_atk_pct: null
   name_en: Jumping Tail Strike
   one_time: 0
@@ -225,7 +199,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -233,7 +206,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 4100% for the next attack
-  desc_jp: Increase damage to 4100% for the next attack
   max_atk_pct: null
   name_en: Great Tailspin Stance
   one_time: 5
@@ -241,7 +213,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 4-5
   one_time: null
@@ -249,7 +220,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 3 Fire orbs, Deal 100% damage
-  desc_jp: Spawn random 3 Fire orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Bite
   one_time: 1
@@ -257,7 +227,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Spawn random 3 Bomb orbs, Deal 100% damage
-  desc_jp: Spawn random 3 Bomb orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Fireball Breath
   one_time: 1
@@ -265,7 +234,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Spawn random 6 Fire orbs, Deal 110% damage
-  desc_jp: Spawn random 6 Fire orbs, Deal 110% damage
   max_atk_pct: 110
   name_en: Fire Wave
   one_time: 0
@@ -273,7 +241,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Deal 120% damage
-  desc_jp: Deal 120% damage
   max_atk_pct: 120
   name_en: Tail Slam
   one_time: 0
@@ -281,7 +248,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Player -70% HP
-  desc_jp: Player -70% HP
   max_atk_pct: null
   name_en: Jumping Tail Strike
   one_time: 0
@@ -289,7 +255,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 40
   one_time: null
@@ -297,7 +262,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1-3
   one_time: null
@@ -305,7 +269,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 6 Bomb orbs, Deal 100% damage
-  desc_jp: Spawn random 6 Bomb orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Three-hit Fireball Breath
   one_time: 0
@@ -313,7 +276,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 140% damage (2 hits, 70% each)
-  desc_jp: Deal 140% damage (2 hits, 70% each)
   max_atk_pct: 140
   name_en: Combo Jumping Tail Strike
   one_time: 0
@@ -321,7 +283,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5-6
   one_time: null
@@ -329,7 +290,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 6 Bomb orbs, Deal 100% damage
-  desc_jp: Spawn random 6 Bomb orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Three-hit Fireball Breath
   one_time: 0
@@ -337,7 +297,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 140% damage (2 hits, 70% each)
-  desc_jp: Deal 140% damage (2 hits, 70% each)
   max_atk_pct: 140
   name_en: Combo Jumping Tail Strike
   one_time: 0
@@ -345,7 +304,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1-2
   one_time: null
@@ -353,7 +311,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 6 Bomb orbs, Deal 100% damage
-  desc_jp: Spawn random 6 Bomb orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Three-hit Fireball Breath
   one_time: 0
@@ -361,7 +318,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 140% damage (2 hits, 70% each)
-  desc_jp: Deal 140% damage (2 hits, 70% each)
   max_atk_pct: 140
   name_en: Combo Jumping Tail Strike
   one_time: 0
@@ -369,7 +325,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -377,7 +332,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 4100% for the next attack
-  desc_jp: Increase damage to 4100% for the next attack
   max_atk_pct: null
   name_en: Great Tailspin Stance
   one_time: 5
@@ -385,7 +339,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 4-5
   one_time: null
@@ -393,7 +346,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 6 Bomb orbs, Deal 100% damage
-  desc_jp: Spawn random 6 Bomb orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Three-hit Fireball Breath
   one_time: 0
@@ -401,7 +353,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 140% damage (2 hits, 70% each)
-  desc_jp: Deal 140% damage (2 hits, 70% each)
   max_atk_pct: 140
   name_en: Combo Jumping Tail Strike
   one_time: 0

@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Absorb Wood damage for 5 turns (Preemptive)
-  desc_jp: Absorb Wood damage for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: Burning Shield
   one_time: 5
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random to Water, Deal 120% damage
-  desc_jp: Change Random to Water, Deal 120% damage
   max_atk_pct: 120
   name_en: Aqua Jet
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 70
 - !SkillRecord
   desc_en: Deal 140% damage (2 hits, 70% each)
-  desc_jp: Deal 140% damage (2 hits, 70% each)
   max_atk_pct: 140
   name_en: Crunch Fang
   one_time: 0
@@ -49,7 +45,6 @@ records:
   usage_pct: 70
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -57,7 +52,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1-3
   one_time: null
@@ -65,7 +59,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random to Water, Deal 120% damage
-  desc_jp: Change Random to Water, Deal 120% damage
   max_atk_pct: 120
   name_en: Aqua Jet
   one_time: 0
@@ -73,7 +66,6 @@ records:
   usage_pct: 70
 - !SkillRecord
   desc_en: Deal 140% damage (2 hits, 70% each)
-  desc_jp: Deal 140% damage (2 hits, 70% each)
   max_atk_pct: 140
   name_en: Crunch Fang
   one_time: 0
@@ -81,7 +73,6 @@ records:
   usage_pct: 70
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 4
   one_time: null
@@ -89,7 +80,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind 1 random for 2 turns, Deal 320% damage
-  desc_jp: Bind 1 random for 2 turns, Deal 320% damage
   max_atk_pct: 320
   name_en: Shark Horn Blade
   one_time: 4
@@ -97,7 +87,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 60
   one_time: null
@@ -105,7 +94,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -113,7 +101,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Lock all Fire, Water orbs, Deal 80% damage
-  desc_jp: Lock all Fire, Water orbs, Deal 80% damage
   max_atk_pct: 80
   name_en: Vortex Cage
   one_time: 0

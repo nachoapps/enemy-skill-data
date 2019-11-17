@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Change Heal to Water, Deal 100% damage
-  desc_jp: Change Heal to Water, Deal 100% damage
   max_atk_pct: 100
   name_en: Snow Flower
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Spawn random 6 Water orbs, Deal 130% damage
-  desc_jp: Spawn random 6 Water orbs, Deal 130% damage
   max_atk_pct: 130
   name_en: Ice Blade
   one_time: 0

@@ -19,7 +19,6 @@ records:
 - !SkillRecord
   desc_en: Movetime 50% for 10 turns + Reduce damage from all sources by 99% for 1
     turns + Voids status ailments for 999 turns, (if [2983] on team) (Preemptive)
-  desc_jp: Movetime 50% for 10 turns + Reduce damage from all sources by 99% for 1
     turns + Voids status ailments for 999 turns, (if [2983] on team) (Preemptive)
   max_atk_pct: null
   name_en: Eyes are fixed on the prey + Solid Scales + Yashiori's Protective Wine
@@ -29,7 +28,6 @@ records:
 - !SkillRecord
   desc_en: Movetime 50% for 10 turns + Reduce damage from all sources by 99% for 1
     turns + Voids status ailments for 999 turns, (if [2323] on team) (Preemptive)
-  desc_jp: Movetime 50% for 10 turns + Reduce damage from all sources by 99% for 1
     turns + Voids status ailments for 999 turns, (if [2323] on team) (Preemptive)
   max_atk_pct: null
   name_en: Menacing Bloodshot Eyes + Saw someone and prepared to fight + Yashiori's
@@ -40,7 +38,6 @@ records:
 - !SkillRecord
   desc_en: Movetime 50% for 10 turns + Reduce damage from all sources by 99% for 1
     turns + Voids status ailments for 999 turns (Preemptive)
-  desc_jp: Movetime 50% for 10 turns + Reduce damage from all sources by 99% for 1
     turns + Voids status ailments for 999 turns (Preemptive)
   max_atk_pct: null
   name_en: Menacing Bloodshot Eyes + Solid Scales + Yashiori's Protective Wine
@@ -49,7 +46,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -57,7 +53,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Delay active skills by 4 turns + Void damage >= 800000 for 8 turns
-  desc_jp: Delay active skills by 4 turns + Void damage >= 800000 for 8 turns
   max_atk_pct: null
   name_en: Eight-headed Vicious Suppression + Flexible Armored Scales
   one_time: 7
@@ -65,7 +60,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -73,7 +67,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1-7
   one_time: null
@@ -82,7 +75,6 @@ records:
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Deal 100% damage + Change Random 3 to Poison
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Deal 100% damage + Change Random 3 to Poison
   max_atk_pct: null
   name_en: Octabreath + Floating Radiance
@@ -92,7 +84,6 @@ records:
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Deal 100% damage + Change Random to Jammer, Deal 100% damage
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Deal 100% damage + Change Random to Jammer, Deal 100% damage
   max_atk_pct: null
   name_en: Octabreath + Evil Swamp
@@ -102,7 +93,6 @@ records:
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Deal 100% damage + Blind orbs in specific positions for 1 turns, Deal 100% damage
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Deal 100% damage + Blind orbs in specific positions for 1 turns, Deal 100% damage
   max_atk_pct: null
   name_en: Octabreath + Dark Ocean
@@ -112,7 +102,6 @@ records:
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Deal 100% damage + Bind 2 subs for 1 turns, Deal 100% damage
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Deal 100% damage + Bind 2 subs for 1 turns, Deal 100% damage
   max_atk_pct: null
   name_en: Octabreath + Rippling Chains
@@ -122,7 +111,6 @@ records:
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Deal 100% damage + Enemy recover 20% hp
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Deal 100% damage + Enemy recover 20% hp
   max_atk_pct: null
   name_en: Octabreath + Lake of Healing
@@ -133,7 +121,6 @@ records:
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Deal 100% damage + Lock 8 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 100% damage
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Deal 100% damage + Lock 8 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 100% damage
   max_atk_pct: null
@@ -144,7 +131,6 @@ records:
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Deal 100% damage + Player -99% HP
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Deal 100% damage + Player -99% HP
   max_atk_pct: null
   name_en: Octabreath + Heavy Whirlpool
@@ -154,7 +140,6 @@ records:
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Deal 100% damage + Bind 1 subs for 4 turns, Deal 100% damage
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Deal 100% damage + Bind 1 subs for 4 turns, Deal 100% damage
   max_atk_pct: null
   name_en: Octabreath + Crushing Tide
@@ -163,7 +148,6 @@ records:
   usage_pct: 12
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 8
   one_time: null
@@ -171,7 +155,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Delay active skills by 4 turns + Deal 6400% damage (8 hits, 800% each)
-  desc_jp: Delay active skills by 4 turns + Deal 6400% damage (8 hits, 800% each)
   max_atk_pct: null
   name_en: Eight-headed Vicious Suppression + Dragon River Octastrike
   one_time: 7
@@ -179,7 +162,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 95
   one_time: null
@@ -187,7 +169,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -196,7 +177,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 800% for the next 999 turns + Lock all Fire, Water,
     Wood, Light, Dark orbs
-  desc_jp: Increase damage to 800% for the next 999 turns + Lock all Fire, Water,
     Wood, Light, Dark orbs
   max_atk_pct: null
   name_en: Countercurrent Scales + Pentagramic Tremble
@@ -205,7 +185,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -213,7 +192,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -222,7 +200,6 @@ records:
 - !SkillRecord
   desc_en: Delay active skills by 4 turns + Lock all Fire, Water, Wood, Light, Dark
     orbs
-  desc_jp: Delay active skills by 4 turns + Lock all Fire, Water, Wood, Light, Dark
     orbs
   max_atk_pct: null
   name_en: Eight-headed Vicious Suppression + Pentagramic Tremble
@@ -231,7 +208,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1-6
   one_time: null
@@ -240,7 +216,6 @@ records:
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Deal 100% damage + Change Random 3 to Poison
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Deal 100% damage + Change Random 3 to Poison
   max_atk_pct: null
   name_en: Octabreath + Floating Radiance
@@ -250,7 +225,6 @@ records:
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Deal 100% damage + Change Random to Jammer, Deal 100% damage
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Deal 100% damage + Change Random to Jammer, Deal 100% damage
   max_atk_pct: null
   name_en: Octabreath + Evil Swamp
@@ -260,7 +234,6 @@ records:
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Deal 100% damage + Blind orbs in specific positions for 1 turns, Deal 100% damage
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Deal 100% damage + Blind orbs in specific positions for 1 turns, Deal 100% damage
   max_atk_pct: null
   name_en: Octabreath + Dark Ocean
@@ -270,7 +243,6 @@ records:
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Deal 100% damage + Bind 2 subs for 1 turns, Deal 100% damage
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Deal 100% damage + Bind 2 subs for 1 turns, Deal 100% damage
   max_atk_pct: null
   name_en: Octabreath + Rippling Chains
@@ -280,7 +252,6 @@ records:
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Deal 100% damage + Enemy recover 20% hp
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Deal 100% damage + Enemy recover 20% hp
   max_atk_pct: null
   name_en: Octabreath + Lake of Healing
@@ -291,7 +262,6 @@ records:
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Deal 100% damage + Lock 8 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 100% damage
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Deal 100% damage + Lock 8 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 100% damage
   max_atk_pct: null
@@ -302,7 +272,6 @@ records:
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Deal 100% damage + Player -99% HP
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Deal 100% damage + Player -99% HP
   max_atk_pct: null
   name_en: Octabreath + Heavy Whirlpool
@@ -312,7 +281,6 @@ records:
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Deal 100% damage + Bind 1 subs for 4 turns, Deal 100% damage
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Deal 100% damage + Bind 1 subs for 4 turns, Deal 100% damage
   max_atk_pct: null
   name_en: Octabreath + Crushing Tide
@@ -321,7 +289,6 @@ records:
   usage_pct: 12
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 7
   one_time: null
@@ -329,7 +296,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Delay active skills by 4 turns + Deal 6400% damage (8 hits, 800% each)
-  desc_jp: Delay active skills by 4 turns + Deal 6400% damage (8 hits, 800% each)
   max_atk_pct: null
   name_en: Eight-headed Vicious Suppression + Dragon River Octastrike
   one_time: 7
@@ -337,7 +303,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 8
   one_time: null
@@ -346,7 +311,6 @@ records:
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Deal 100% damage + Change Random 3 to Poison
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Deal 100% damage + Change Random 3 to Poison
   max_atk_pct: null
   name_en: Octabreath + Floating Radiance
@@ -356,7 +320,6 @@ records:
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Deal 100% damage + Change Random to Jammer, Deal 100% damage
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Deal 100% damage + Change Random to Jammer, Deal 100% damage
   max_atk_pct: null
   name_en: Octabreath + Evil Swamp
@@ -366,7 +329,6 @@ records:
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Deal 100% damage + Blind orbs in specific positions for 1 turns, Deal 100% damage
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Deal 100% damage + Blind orbs in specific positions for 1 turns, Deal 100% damage
   max_atk_pct: null
   name_en: Octabreath + Dark Ocean
@@ -376,7 +338,6 @@ records:
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Deal 100% damage + Bind 2 subs for 1 turns, Deal 100% damage
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Deal 100% damage + Bind 2 subs for 1 turns, Deal 100% damage
   max_atk_pct: null
   name_en: Octabreath + Rippling Chains
@@ -386,7 +347,6 @@ records:
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Deal 100% damage + Enemy recover 20% hp
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Deal 100% damage + Enemy recover 20% hp
   max_atk_pct: null
   name_en: Octabreath + Lake of Healing
@@ -397,7 +357,6 @@ records:
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Deal 100% damage + Lock 8 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 100% damage
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Deal 100% damage + Lock 8 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 100% damage
   max_atk_pct: null
@@ -408,7 +367,6 @@ records:
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Deal 100% damage + Player -99% HP
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Deal 100% damage + Player -99% HP
   max_atk_pct: null
   name_en: Octabreath + Heavy Whirlpool
@@ -418,7 +376,6 @@ records:
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Deal 100% damage + Bind 1 subs for 4 turns, Deal 100% damage
-  desc_jp: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Deal 100% damage + Bind 1 subs for 4 turns, Deal 100% damage
   max_atk_pct: null
   name_en: Octabreath + Crushing Tide

@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Change 2nd row to Light orbs, Deal 70% damage
-  desc_jp: Change 2nd row to Light orbs, Deal 70% damage
   max_atk_pct: 70
   name_en: Quick Revolution
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -41,7 +38,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: 2x2 cloud appear for 1 turns at random location
-  desc_jp: 2x2 cloud appear for 1 turns at random location
   max_atk_pct: null
   name_en: Flapping
   one_time: 0
@@ -49,7 +45,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Increase damage to 300% for the next attack
-  desc_jp: Increase damage to 300% for the next attack
   max_atk_pct: null
   name_en: Super Acceleration
   one_time: 1

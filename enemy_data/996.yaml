@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Absorb combo <= 3 damage for 99 turns (Preemptive)
-  desc_jp: Absorb combo <= 3 damage for 99 turns (Preemptive)
   max_atk_pct: null
   name_en: Heavenly Star-Mother
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind Fire cards for 5 turns
-  desc_jp: Bind Fire cards for 5 turns
   max_atk_pct: null
   name_en: Holy Sea Blessing
   one_time: 1
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change all orbs to Water, Wood, Light, Heal, Deal 160% damage
-  desc_jp: Change all orbs to Water, Wood, Light, Heal, Deal 160% damage
   max_atk_pct: 160
   name_en: The Beckoning of the Nile
   one_time: 0
@@ -65,7 +60,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Absorb combo <= 4 damage for 99 turns (Preemptive)
-  desc_jp: Absorb combo <= 4 damage for 99 turns (Preemptive)
   max_atk_pct: null
   name_en: Heavenly Star-Mother
   one_time: 0
@@ -73,7 +67,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -81,7 +74,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind Fire cards for 5 turns
-  desc_jp: Bind Fire cards for 5 turns
   max_atk_pct: null
   name_en: Holy Sea Blessing
   one_time: 1
@@ -89,7 +81,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -97,7 +88,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change all orbs to Water, Wood, Light, Heal, Deal 160% damage
-  desc_jp: Change all orbs to Water, Wood, Light, Heal, Deal 160% damage
   max_atk_pct: 160
   name_en: The Beckoning of the Nile
   one_time: 0

@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Bind active skills for 5 turns (Preemptive)
-  desc_jp: Bind active skills for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: I'm not even going to wait 1 turn!
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: When HP is full
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 3rd row to Fire orbs, Deal 150% damage
-  desc_jp: Change 3rd row to Fire orbs, Deal 150% damage
   max_atk_pct: 150
   name_en: Burn!
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: When HP is not full
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -57,7 +52,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 1 turns, (if [2263] on team)
-  desc_jp: Reduce damage from all sources by 50% for 1 turns, (if [2263] on team)
   max_atk_pct: null
   name_en: Why are you there?!
   one_time: 0
@@ -65,7 +59,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns
-  desc_jp: Voids status ailments for 999 turns
   max_atk_pct: null
   name_en: I'll show you hell!
   one_time: 0
@@ -73,7 +66,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change 1st column to Fire orbs, 3rd column to Poison orbs, Deal 80% damage
-  desc_jp: Change 1st column to Fire orbs, 3rd column to Poison orbs, Deal 80% damage
   max_atk_pct: 80
   name_en: Flame Curse
   one_time: 1
@@ -81,7 +73,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -89,7 +80,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 3rd, 4th column to Fire orbs, Deal 300% damage
-  desc_jp: Change 3rd, 4th column to Fire orbs, Deal 300% damage
   max_atk_pct: 300
   name_en: Flame Road
   one_time: 0

@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 10 turns + Reduce damage from all sources by
     50% for 5 turns (Preemptive)
-  desc_jp: Voids status ailments for 10 turns + Reduce damage from all sources by
     50% for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: 私は仮面ライダーゲンム・・・神だ！ + マルチアンブレイカー
@@ -27,7 +26,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -35,7 +33,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Movetime -1s for 5 turns
-  desc_jp: Movetime -1s for 5 turns
   max_atk_pct: null
   name_en: アンチバグスターエリア
   one_time: 4
@@ -43,7 +40,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -51,7 +47,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1-4
   one_time: null
@@ -59,7 +54,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 100% damage
-  desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: GMグロウスアーム
   one_time: 0
@@ -67,7 +61,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Spawn random 4 Dark orbs, Deal 95% damage
-  desc_jp: Spawn random 4 Dark orbs, Deal 95% damage
   max_atk_pct: 95
   name_en: アルファイトシューズ
   one_time: 0
@@ -75,7 +68,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 5
   one_time: null
@@ -83,7 +75,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: 2x1 cloud appear for 5 turns at random location
-  desc_jp: 2x1 cloud appear for 5 turns at random location
   max_atk_pct: null
   name_en: 滞空
   one_time: 0
@@ -91,7 +82,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Absorb combo <= 4 damage for 5 turns
-  desc_jp: Absorb combo <= 4 damage for 5 turns
   max_atk_pct: null
   name_en: 二段ジャンプ
   one_time: 0
@@ -99,7 +89,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -107,7 +96,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -115,7 +103,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 3 turns, Deal 100% damage
-  desc_jp: Increase damage to 150% for the next 3 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: ゲインライザー
   one_time: 2
@@ -123,7 +110,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 20
   one_time: null
@@ -131,7 +117,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -139,7 +124,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb Fire damage for 3 turns
-  desc_jp: Absorb Fire damage for 3 turns
   max_atk_pct: null
   name_en: メックビルドガード
   one_time: 1
@@ -147,7 +131,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Spawn random 6 Dark orbs + Deal 160% damage (8 hits, 20% each)
-  desc_jp: Spawn random 6 Dark orbs + Deal 160% damage (8 hits, 20% each)
   max_atk_pct: null
   name_en: ガシャット！キメワザ！ + マイティクリティカルストライク
   one_time: 0

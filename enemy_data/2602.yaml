@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 90%
-  desc_jp: Survive attacks with 1 HP when HP > 90%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Reduce damage from Wood by 50%
-  desc_jp: Reduce damage from Wood by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -41,7 +38,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Bind 1 random cards for 2 turns
-  desc_jp: Voids status ailments for 999 turns + Bind 1 random cards for 2 turns
   max_atk_pct: null
   name_en: 鏖魔の覇気 + 咆哮
   one_time: 0
@@ -49,7 +45,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -57,7 +52,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 1100% damage
-  desc_jp: Deal 1100% damage
   max_atk_pct: 1100
   name_en: 体当たり
   one_time: 0
@@ -65,7 +59,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Deal 1000% damage (2 hits, 500% each)
-  desc_jp: Deal 1000% damage (2 hits, 500% each)
   max_atk_pct: 1000
   name_en: 尻尾振り攻撃
   one_time: 0
@@ -73,7 +66,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Spawn random 3 Jammer orbs, Deal 1000% damage
-  desc_jp: Spawn random 3 Jammer orbs, Deal 1000% damage
   max_atk_pct: 1000
   name_en: 突進
   one_time: 0
@@ -81,7 +73,6 @@ records:
   usage_pct: 34
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 90
   one_time: null
@@ -89,7 +80,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
   one_time: null
@@ -98,7 +88,6 @@ records:
 - !SkillRecord
   desc_en: Bind active skills for 3 turns + Do nothing + Reduce damage from all sources
     by 75% for 1 turns
-  desc_jp: Bind active skills for 3 turns + Do nothing + Reduce damage from all sources
     by 75% for 1 turns
   max_atk_pct: null
   name_en: 咆哮 + 暴走状態へ移行 + 地中潜り
@@ -107,7 +96,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6
   one_time: null
@@ -115,7 +103,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 1500% damage
-  desc_jp: Deal 1500% damage
   max_atk_pct: 1500
   name_en: 地中からの強急襲
   one_time: 4
@@ -124,7 +111,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 120% for the next 1 turns + Change Random to Jammer,
     Deal 1200% damage
-  desc_jp: Increase damage to 120% for the next 1 turns + Change Random to Jammer,
     Deal 1200% damage
   max_atk_pct: null
   name_en: 怒り + 地表角抉り攻撃
@@ -134,7 +120,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 120% for the next 1 turns + Blind all orbs on the board,
     Deal 1200% damage
-  desc_jp: Increase damage to 120% for the next 1 turns + Blind all orbs on the board,
     Deal 1200% damage
   max_atk_pct: null
   name_en: 怒り + 飛びかかり潜り
@@ -144,7 +129,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 120% for the next 1 turns + Deal 1000%~1500% damage
     (2~3 hits, 500% each)
-  desc_jp: Increase damage to 120% for the next 1 turns + Deal 1000%~1500% damage
     (2~3 hits, 500% each)
   max_atk_pct: null
   name_en: 怒り + 連続角振り回し
@@ -153,7 +137,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 70
   one_time: null
@@ -162,7 +145,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 130% for the next 1 turns + Change Random to Jammer,
     Deal 1200% damage
-  desc_jp: Increase damage to 130% for the next 1 turns + Change Random to Jammer,
     Deal 1200% damage
   max_atk_pct: null
   name_en: 怒り + 地表角抉り攻撃
@@ -172,7 +154,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 130% for the next 1 turns + Blind all orbs on the board,
     Deal 1200% damage
-  desc_jp: Increase damage to 130% for the next 1 turns + Blind all orbs on the board,
     Deal 1200% damage
   max_atk_pct: null
   name_en: 怒り + 飛びかかり潜り
@@ -182,7 +163,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 130% for the next 1 turns + Deal 1000%~1500% damage
     (2~3 hits, 500% each)
-  desc_jp: Increase damage to 130% for the next 1 turns + Deal 1000%~1500% damage
     (2~3 hits, 500% each)
   max_atk_pct: null
   name_en: 怒り + 連続角振り回し
@@ -191,7 +171,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 60
   one_time: null
@@ -200,7 +179,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 140% for the next 1 turns + Change Random to Jammer,
     Deal 1200% damage
-  desc_jp: Increase damage to 140% for the next 1 turns + Change Random to Jammer,
     Deal 1200% damage
   max_atk_pct: null
   name_en: 怒り + 地表角抉り攻撃
@@ -210,7 +188,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 140% for the next 1 turns + Blind all orbs on the board,
     Deal 1200% damage
-  desc_jp: Increase damage to 140% for the next 1 turns + Blind all orbs on the board,
     Deal 1200% damage
   max_atk_pct: null
   name_en: 怒り + 飛びかかり潜り
@@ -220,7 +197,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 140% for the next 1 turns + Deal 1000%~1500% damage
     (2~3 hits, 500% each)
-  desc_jp: Increase damage to 140% for the next 1 turns + Deal 1000%~1500% damage
     (2~3 hits, 500% each)
   max_atk_pct: null
   name_en: 怒り + 連続角振り回し
@@ -229,7 +205,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 40
   one_time: null
@@ -238,7 +213,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 1 turns + Change Random to Jammer,
     Deal 1200% damage
-  desc_jp: Increase damage to 150% for the next 1 turns + Change Random to Jammer,
     Deal 1200% damage
   max_atk_pct: null
   name_en: 怒り + 地表角抉り攻撃
@@ -248,7 +222,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 1 turns + Blind all orbs on the board,
     Deal 1200% damage
-  desc_jp: Increase damage to 150% for the next 1 turns + Blind all orbs on the board,
     Deal 1200% damage
   max_atk_pct: null
   name_en: 怒り + 飛びかかり潜り
@@ -258,7 +231,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 1 turns + Deal 1000%~1500% damage
     (2~3 hits, 500% each)
-  desc_jp: Increase damage to 150% for the next 1 turns + Deal 1000%~1500% damage
     (2~3 hits, 500% each)
   max_atk_pct: null
   name_en: 怒り + 連続角振り回し
@@ -267,7 +239,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -275,7 +246,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 7
   one_time: null
@@ -284,7 +254,6 @@ records:
 - !SkillRecord
   desc_en: Bind awoken skills for 3 turns + Do nothing + Reduce damage from all sources
     by 75% for 1 turns
-  desc_jp: Bind awoken skills for 3 turns + Do nothing + Reduce damage from all sources
     by 75% for 1 turns
   max_atk_pct: null
   name_en: 咆哮 + 狂暴走状態へ移行 + 地中潜り
@@ -293,7 +262,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 8
   one_time: null
@@ -302,7 +270,6 @@ records:
 - !SkillRecord
   desc_en: Deal 1500% damage + Player -99% HP + Change all orbs to Water, Deal 12000%
     damage
-  desc_jp: Deal 1500% damage + Player -99% HP + Change all orbs to Water, Deal 12000%
     damage
   max_atk_pct: null
   name_en: 地中からの強急襲 + 狂暴走急降下攻撃 + 狂暴走水蒸気爆発
@@ -312,7 +279,6 @@ records:
 - !SkillRecord
   desc_en: Deal 3000% damage (3 hits, 1000% each) + Change all orbs to Water, Deal
     12000% damage
-  desc_jp: Deal 3000% damage (3 hits, 1000% each) + Change all orbs to Water, Deal
     12000% damage
   max_atk_pct: null
   name_en: 狂暴走3連突進 + 狂暴走水蒸気爆発
@@ -321,7 +287,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Enemy is defeated
   one_time: null
@@ -329,7 +294,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
   one_time: null
@@ -338,7 +302,6 @@ records:
 - !SkillRecord
   desc_en: Bind active skills for 3 turns + Enemy recover 60% hp + Reduce damage from
     all sources by 75% for 1 turns
-  desc_jp: Bind active skills for 3 turns + Enemy recover 60% hp + Reduce damage from
     all sources by 75% for 1 turns
   max_atk_pct: null
   name_en: 咆哮 + 暴走状態へ移行 + 地中潜り
@@ -355,7 +318,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 90%
-  desc_jp: Survive attacks with 1 HP when HP > 90%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -363,7 +325,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Reduce damage from Wood by 50%
-  desc_jp: Reduce damage from Wood by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -371,7 +332,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1-3
   one_time: null
@@ -379,7 +339,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind orbs in specific positions for 1 turns, Deal 100% damage
-  desc_jp: Blind orbs in specific positions for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: ドットパンチ
   one_time: 0
@@ -387,7 +346,6 @@ records:
   usage_pct: 17
 - !SkillRecord
   desc_en: Blind orbs in specific positions for 1 turns, Deal 100% damage
-  desc_jp: Blind orbs in specific positions for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: ドットパンチ
   one_time: 0
@@ -395,7 +353,6 @@ records:
   usage_pct: 17
 - !SkillRecord
   desc_en: Blind orbs in specific positions for 1 turns, Deal 100% damage
-  desc_jp: Blind orbs in specific positions for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: ドットパンチ
   one_time: 0
@@ -403,7 +360,6 @@ records:
   usage_pct: 17
 - !SkillRecord
   desc_en: Blind orbs in specific positions for 1 turns, Deal 100% damage
-  desc_jp: Blind orbs in specific positions for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: ドットパンチ
   one_time: 0
@@ -411,7 +367,6 @@ records:
   usage_pct: 17
 - !SkillRecord
   desc_en: Blind orbs in specific positions for 1 turns, Deal 100% damage
-  desc_jp: Blind orbs in specific positions for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: ドットパンチ
   one_time: 0
@@ -419,7 +374,6 @@ records:
   usage_pct: 16
 - !SkillRecord
   desc_en: Blind orbs in specific positions for 1 turns, Deal 100% damage
-  desc_jp: Blind orbs in specific positions for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: ドットパンチ
   one_time: 0
@@ -427,7 +381,6 @@ records:
   usage_pct: 16
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -435,7 +388,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Bind 1 random cards for 2 turns
-  desc_jp: Voids status ailments for 999 turns + Bind 1 random cards for 2 turns
   max_atk_pct: null
   name_en: 鏖魔の覇気 + 咆哮
   one_time: 0
@@ -443,7 +395,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -451,7 +402,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 1100% damage
-  desc_jp: Deal 1100% damage
   max_atk_pct: 1100
   name_en: 体当たり
   one_time: 0
@@ -459,7 +409,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Deal 1000% damage (2 hits, 500% each)
-  desc_jp: Deal 1000% damage (2 hits, 500% each)
   max_atk_pct: 1000
   name_en: 尻尾振り攻撃
   one_time: 0
@@ -467,7 +416,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Spawn random 3 Jammer orbs, Deal 1000% damage
-  desc_jp: Spawn random 3 Jammer orbs, Deal 1000% damage
   max_atk_pct: 1000
   name_en: 突進
   one_time: 0
@@ -475,7 +423,6 @@ records:
   usage_pct: 34
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 90
   one_time: null
@@ -483,7 +430,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
   one_time: null
@@ -492,7 +438,6 @@ records:
 - !SkillRecord
   desc_en: Bind active skills for 3 turns + Do nothing + Reduce damage from all sources
     by 75% for 1 turns
-  desc_jp: Bind active skills for 3 turns + Do nothing + Reduce damage from all sources
     by 75% for 1 turns
   max_atk_pct: null
   name_en: 咆哮 + 暴走状態へ移行 + 地中潜り
@@ -501,7 +446,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6
   one_time: null
@@ -509,7 +453,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 1500% damage
-  desc_jp: Deal 1500% damage
   max_atk_pct: 1500
   name_en: 地中からの強急襲
   one_time: 4
@@ -518,7 +461,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 120% for the next 1 turns + Change Random to Jammer,
     Deal 1200% damage
-  desc_jp: Increase damage to 120% for the next 1 turns + Change Random to Jammer,
     Deal 1200% damage
   max_atk_pct: null
   name_en: 怒り + 地表角抉り攻撃
@@ -528,7 +470,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 120% for the next 1 turns + Blind all orbs on the board,
     Deal 1200% damage
-  desc_jp: Increase damage to 120% for the next 1 turns + Blind all orbs on the board,
     Deal 1200% damage
   max_atk_pct: null
   name_en: 怒り + 飛びかかり潜り
@@ -538,7 +479,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 120% for the next 1 turns + Deal 1000%~1500% damage
     (2~3 hits, 500% each)
-  desc_jp: Increase damage to 120% for the next 1 turns + Deal 1000%~1500% damage
     (2~3 hits, 500% each)
   max_atk_pct: null
   name_en: 怒り + 連続角振り回し
@@ -547,7 +487,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 70
   one_time: null
@@ -556,7 +495,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 130% for the next 1 turns + Change Random to Jammer,
     Deal 1200% damage
-  desc_jp: Increase damage to 130% for the next 1 turns + Change Random to Jammer,
     Deal 1200% damage
   max_atk_pct: null
   name_en: 怒り + 地表角抉り攻撃
@@ -566,7 +504,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 130% for the next 1 turns + Blind all orbs on the board,
     Deal 1200% damage
-  desc_jp: Increase damage to 130% for the next 1 turns + Blind all orbs on the board,
     Deal 1200% damage
   max_atk_pct: null
   name_en: 怒り + 飛びかかり潜り
@@ -576,7 +513,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 130% for the next 1 turns + Deal 1000%~1500% damage
     (2~3 hits, 500% each)
-  desc_jp: Increase damage to 130% for the next 1 turns + Deal 1000%~1500% damage
     (2~3 hits, 500% each)
   max_atk_pct: null
   name_en: 怒り + 連続角振り回し
@@ -585,7 +521,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 60
   one_time: null
@@ -594,7 +529,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 140% for the next 1 turns + Change Random to Jammer,
     Deal 1200% damage
-  desc_jp: Increase damage to 140% for the next 1 turns + Change Random to Jammer,
     Deal 1200% damage
   max_atk_pct: null
   name_en: 怒り + 地表角抉り攻撃
@@ -604,7 +538,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 140% for the next 1 turns + Blind all orbs on the board,
     Deal 1200% damage
-  desc_jp: Increase damage to 140% for the next 1 turns + Blind all orbs on the board,
     Deal 1200% damage
   max_atk_pct: null
   name_en: 怒り + 飛びかかり潜り
@@ -614,7 +547,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 140% for the next 1 turns + Deal 1000%~1500% damage
     (2~3 hits, 500% each)
-  desc_jp: Increase damage to 140% for the next 1 turns + Deal 1000%~1500% damage
     (2~3 hits, 500% each)
   max_atk_pct: null
   name_en: 怒り + 連続角振り回し
@@ -623,7 +555,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 40
   one_time: null
@@ -632,7 +563,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 1 turns + Change Random to Jammer,
     Deal 1200% damage
-  desc_jp: Increase damage to 150% for the next 1 turns + Change Random to Jammer,
     Deal 1200% damage
   max_atk_pct: null
   name_en: 怒り + 地表角抉り攻撃
@@ -642,7 +572,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 1 turns + Blind all orbs on the board,
     Deal 1200% damage
-  desc_jp: Increase damage to 150% for the next 1 turns + Blind all orbs on the board,
     Deal 1200% damage
   max_atk_pct: null
   name_en: 怒り + 飛びかかり潜り
@@ -652,7 +581,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 1 turns + Deal 1000%~1500% damage
     (2~3 hits, 500% each)
-  desc_jp: Increase damage to 150% for the next 1 turns + Deal 1000%~1500% damage
     (2~3 hits, 500% each)
   max_atk_pct: null
   name_en: 怒り + 連続角振り回し
@@ -661,7 +589,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -669,7 +596,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 7
   one_time: null
@@ -678,7 +604,6 @@ records:
 - !SkillRecord
   desc_en: Bind awoken skills for 3 turns + Do nothing + Reduce damage from all sources
     by 75% for 1 turns
-  desc_jp: Bind awoken skills for 3 turns + Do nothing + Reduce damage from all sources
     by 75% for 1 turns
   max_atk_pct: null
   name_en: 咆哮 + 狂暴走状態へ移行 + 地中潜り
@@ -687,7 +612,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 8
   one_time: null
@@ -696,7 +620,6 @@ records:
 - !SkillRecord
   desc_en: Deal 1500% damage + Player -99% HP + Change all orbs to Water, Deal 12000%
     damage
-  desc_jp: Deal 1500% damage + Player -99% HP + Change all orbs to Water, Deal 12000%
     damage
   max_atk_pct: null
   name_en: 地中からの強急襲 + 狂暴走急降下攻撃 + 狂暴走水蒸気爆発
@@ -706,7 +629,6 @@ records:
 - !SkillRecord
   desc_en: Deal 3000% damage (3 hits, 1000% each) + Change all orbs to Water, Deal
     12000% damage
-  desc_jp: Deal 3000% damage (3 hits, 1000% each) + Change all orbs to Water, Deal
     12000% damage
   max_atk_pct: null
   name_en: 狂暴走3連突進 + 狂暴走水蒸気爆発
@@ -715,7 +637,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Enemy is defeated
   one_time: null
@@ -723,7 +644,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
   one_time: null
@@ -732,7 +652,6 @@ records:
 - !SkillRecord
   desc_en: Bind active skills for 3 turns + Enemy recover 60% hp + Reduce damage from
     all sources by 75% for 1 turns
-  desc_jp: Bind active skills for 3 turns + Enemy recover 60% hp + Reduce damage from
     all sources by 75% for 1 turns
   max_atk_pct: null
   name_en: 咆哮 + 暴走状態へ移行 + 地中潜り

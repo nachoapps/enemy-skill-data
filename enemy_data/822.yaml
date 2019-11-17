@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 76%
-  desc_jp: Survive attacks with 1 HP when HP > 76%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Absorb combo <= 3 damage for 5 turns + Fire skyfall +15% for 5 turns (Preemptive)
-  desc_jp: Absorb combo <= 3 damage for 5 turns + Fire skyfall +15% for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: Wings of the Blazing Knight + Burning Aura
   one_time: 5
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1-5
   one_time: null
@@ -41,7 +38,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Enemy recover 10% hp, Deal 100% damage
-  desc_jp: Enemy recover 10% hp, Deal 100% damage
   max_atk_pct: 100
   name_en: Healing Heat
   one_time: 0
@@ -49,7 +45,6 @@ records:
   usage_pct: 70
 - !SkillRecord
   desc_en: Spawn random 4 Fire orbs, Deal 100% damage
-  desc_jp: Spawn random 4 Fire orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Flame Thrust
   one_time: 0
@@ -57,7 +52,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 6
   one_time: null
@@ -65,7 +59,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Water to Fire, Deal 300% damage
-  desc_jp: Change Water to Fire, Deal 300% damage
   max_atk_pct: 300
   name_en: Orb Alteration - Flame
   one_time: 5
@@ -73,7 +66,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Enemy recover 10% hp, Deal 100% damage
-  desc_jp: Enemy recover 10% hp, Deal 100% damage
   max_atk_pct: 100
   name_en: Healing Heat
   one_time: 0
@@ -81,7 +73,6 @@ records:
   usage_pct: 70
 - !SkillRecord
   desc_en: Spawn random 4 Fire orbs, Deal 100% damage
-  desc_jp: Spawn random 4 Fire orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Flame Thrust
   one_time: 0
@@ -89,7 +80,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Enemy is defeated
   one_time: null
@@ -97,7 +87,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Enemy recover 100% hp
-  desc_jp: Enemy recover 100% hp
   max_atk_pct: null
   name_en: Soul of the Phoenix
   one_time: 0

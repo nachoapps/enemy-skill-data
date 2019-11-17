@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Change all orbs to Water, Wood, Light, Dark, Deal 100% damage + Spawn random
     1 Jammer orbs (Preemptive)
-  desc_jp: Change all orbs to Water, Wood, Light, Dark, Deal 100% damage + Spawn random
     1 Jammer orbs (Preemptive)
   max_atk_pct: null
   name_en: Magic Circle Tuning + I give you this.
@@ -27,7 +26,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -36,7 +34,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Change 5th row to Wood orbs, Deal
     90% damage
-  desc_jp: Voids status ailments for 999 turns + Change 5th row to Wood orbs, Deal
     90% damage
   max_atk_pct: null
   name_en: Sacred Tree's Divine Protection + Tree Spell
@@ -45,7 +42,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -53,7 +49,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -62,7 +57,6 @@ records:
 - !SkillRecord
   desc_en: Absorb combo <= 5 damage for 1 turns + Change 5th row to Wood orbs, Deal
     90% damage
-  desc_jp: Absorb combo <= 5 damage for 1 turns + Change 5th row to Wood orbs, Deal
     90% damage
   max_atk_pct: null
   name_en: Windy Trees Barrier + Tree Spell
@@ -71,7 +65,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -80,7 +73,6 @@ records:
 - !SkillRecord
   desc_en: Change 5th row to Wood orbs, Deal 90% damage + Fix orb movement starting
     point to random position on the board
-  desc_jp: Change 5th row to Wood orbs, Deal 90% damage + Fix orb movement starting
     point to random position on the board
   max_atk_pct: null
   name_en: Tree Spell + Sacred Tree's Tear
@@ -89,7 +81,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -97,7 +88,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -105,7 +95,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change all orbs to Heal
-  desc_jp: Change all orbs to Heal
   max_atk_pct: null
   name_en: Thanks for taking care of it ♪
   one_time: 0
@@ -113,7 +102,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Enemy recover 100% hp
-  desc_jp: Enemy recover 100% hp
   max_atk_pct: null
   name_en: I told you to take care of it...
   one_time: 0
@@ -121,7 +109,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -129,7 +116,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change all orbs to Fire, Heal, Jammer, Poison, Deal 200% damage
-  desc_jp: Change all orbs to Fire, Heal, Jammer, Poison, Deal 200% damage
   max_atk_pct: 200
   name_en: Magic Circle Anomaly
   one_time: 1
@@ -137,7 +123,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -145,7 +130,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change all orbs to Water, Wood, Light, Dark, Deal 100% damage
-  desc_jp: Change all orbs to Water, Wood, Light, Dark, Deal 100% damage
   max_atk_pct: 100
   name_en: Magic Circle Tuning
   one_time: 0

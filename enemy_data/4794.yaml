@@ -18,7 +18,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 50%
-  desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -27,7 +26,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Void damage >= 40000000 for 99 turns
     + Change player HP to 500000 for 99 turns + Voids player buff effects (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Void damage >= 40000000 for 99 turns
     + Change player HP to 500000 for 99 turns + Voids player buff effects (Preemptive)
   max_atk_pct: null
   name_en: I wonder if your life means anything + Defense of the Twin Ships + Ark
@@ -37,7 +35,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change player HP to 500000 for 99 turns
-  desc_jp: Change player HP to 500000 for 99 turns
   max_atk_pct: null
   name_en: Ark Contract
   one_time: 0
@@ -45,7 +42,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -53,7 +49,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -61,7 +56,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind awoken skills for 5 turns + Player -99% HP
-  desc_jp: Bind awoken skills for 5 turns + Player -99% HP
   max_atk_pct: null
   name_en: Deminishing Fighting Spirit + Vanishing Judgment
   one_time: 0
@@ -69,7 +63,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
   one_time: null
@@ -78,7 +71,6 @@ records:
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Water, Wood, Light, Dark +
     Deal 50000% damage (4 hits, 12500% each)
-  desc_jp: Change own attribute to random one of Fire, Water, Wood, Light, Dark +
     Deal 50000% damage (4 hits, 12500% each)
   max_atk_pct: null
   name_en: Gear Shift + Banishing Lightning

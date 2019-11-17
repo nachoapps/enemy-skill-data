@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Spawn random 5 Fire orbs, Deal 300% damage
-  desc_jp: Spawn random 5 Fire orbs, Deal 300% damage
   max_atk_pct: 300
   name_en: Brilliant Red
   one_time: 0

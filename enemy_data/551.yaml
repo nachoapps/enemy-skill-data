@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Deal 50% damage (Preemptive)
-  desc_jp: Deal 50% damage (Preemptive)
   max_atk_pct: 50
   name_en: Quick as Lightning
   one_time: 0

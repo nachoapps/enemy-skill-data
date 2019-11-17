@@ -19,7 +19,6 @@ records:
   desc_en: Bind awoken skills for 1 turns + Bind active skills for 2 turns + Absorb
     combo <= 3 damage for 1 turns + Change all orbs to Fire, Water, Wood, Light, Dark,
     Heal (Preemptive)
-  desc_jp: Bind awoken skills for 1 turns + Bind active skills for 2 turns + Absorb
     combo <= 3 damage for 1 turns + Change all orbs to Fire, Water, Wood, Light, Dark,
     Heal (Preemptive)
   max_atk_pct: null
@@ -30,7 +29,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Player -500% HP
-  desc_jp: Player -500% HP
   max_atk_pct: null
   name_en: Come at me again!
   one_time: 0
@@ -38,7 +36,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 50
   one_time: null
@@ -46,7 +43,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -55,7 +51,6 @@ records:
 - !SkillRecord
   desc_en: Absorb combo <= 6 damage for 1 turns + Change all orbs to Fire, Water,
     Wood, Light, Dark, Heal
-  desc_jp: Absorb combo <= 6 damage for 1 turns + Change all orbs to Fire, Water,
     Wood, Light, Dark, Heal
   max_atk_pct: null
   name_en: Fine then, try to strike me down! + If you can't do it, this ends here!

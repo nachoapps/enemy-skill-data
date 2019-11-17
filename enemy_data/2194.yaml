@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Absorb Light damage for 10 turns (Preemptive)
-  desc_jp: Absorb Light damage for 10 turns (Preemptive)
   max_atk_pct: null
   name_en: Black Energy Barrier
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: When afflicted by delay/poison
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 1000% for the next 999 turns
-  desc_jp: Increase damage to 1000% for the next 999 turns
   max_atk_pct: null
   name_en: Shining Eyes
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -57,7 +52,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Do nothing
-  desc_jp: Do nothing
   max_atk_pct: null
   name_en: Quietly gazes in your direction
   one_time: 256
@@ -65,7 +59,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -73,7 +66,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Do nothing
-  desc_jp: Do nothing
   max_atk_pct: null
   name_en: Quietly gazes in your direction
   one_time: 128
@@ -81,7 +73,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -89,7 +80,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Do nothing
-  desc_jp: Do nothing
   max_atk_pct: null
   name_en: Quietly gazes in your direction
   one_time: 64
@@ -97,7 +87,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -105,7 +94,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Dark, Heal
-  desc_jp: Change all orbs to Fire, Water, Wood, Dark, Heal
   max_atk_pct: null
   name_en: Mechanical Wolf Howling
   one_time: 32
@@ -113,7 +101,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
   one_time: null
@@ -121,7 +108,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 400% damage (2 hits, 200% each)
-  desc_jp: Deal 400% damage (2 hits, 200% each)
   max_atk_pct: 400
   name_en: Ur Flare
   one_time: 16
@@ -129,7 +115,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6
   one_time: null
@@ -137,7 +122,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Do nothing
-  desc_jp: Do nothing
   max_atk_pct: null
   name_en: Quietly gazes in your direction
   one_time: 8
@@ -145,7 +129,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 7
   one_time: null
@@ -153,7 +136,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Do nothing
-  desc_jp: Do nothing
   max_atk_pct: null
   name_en: Quietly gazes in your direction
   one_time: 4
@@ -161,7 +143,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 8
   one_time: null
@@ -169,7 +150,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Do nothing
-  desc_jp: Do nothing
   max_atk_pct: null
   name_en: Quietly gazes in your direction
   one_time: 2
@@ -177,7 +157,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 9
   one_time: null
@@ -185,7 +164,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Do nothing
-  desc_jp: Do nothing
   max_atk_pct: null
   name_en: Quietly gazes in your direction
   one_time: 1
@@ -193,7 +171,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Delay active skills by 2~5 turns, Deal 1200% damage
-  desc_jp: Delay active skills by 2~5 turns, Deal 1200% damage
   max_atk_pct: 1200
   name_en: Dark Railgun
   one_time: 0
@@ -201,7 +178,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 5
   one_time: null
@@ -209,7 +185,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 2500% damage (5 hits, 500% each)
-  desc_jp: Deal 2500% damage (5 hits, 500% each)
   max_atk_pct: 2500
   name_en: Metal Deadly Fang
   one_time: 0

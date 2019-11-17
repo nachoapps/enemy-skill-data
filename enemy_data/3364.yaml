@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Movetime -1s for 2 turns (Preemptive)
-  desc_jp: Movetime -1s for 2 turns (Preemptive)
   max_atk_pct: null
   name_en: Not good.
   one_time: 8
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 100% damage
-  desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: Unacceptable
   one_time: 4
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -50,7 +46,6 @@ records:
 - !SkillRecord
   desc_en: Do nothing + Reduce damage from all sources by 50% for 1 turns, (if [2675,
     2676, 2677, 3353, 3354] on team)
-  desc_jp: Do nothing + Reduce damage from all sources by 50% for 1 turns, (if [2675,
     2676, 2677, 3353, 3354] on team)
   max_atk_pct: null
   name_en: You're sure a funny kid. + And you're not scared of me?
@@ -59,7 +54,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 1 turns
-  desc_jp: Reduce damage from all sources by 50% for 1 turns
   max_atk_pct: null
   name_en: 'All the more reason...
 
@@ -69,7 +63,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -77,7 +70,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Do nothing + Player -99% HP
-  desc_jp: Do nothing + Player -99% HP
   max_atk_pct: null
   name_en: This is my Zanpakuto. + Shoot to kill, Shinso..
   one_time: 1
@@ -85,7 +77,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -93,7 +84,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Reduce self HP to 0
-  desc_jp: Reduce self HP to 0
   max_atk_pct: null
   name_en: Bye-bye, now!
   one_time: 0

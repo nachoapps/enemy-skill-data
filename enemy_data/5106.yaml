@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 5 turns (Preemptive)
-  desc_jp: Reduce damage from all sources by 50% for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: My iron body is invincible! Beware!
   one_time: 32
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 150% damage
-  desc_jp: Blind all orbs on the board, Deal 150% damage
   max_atk_pct: 150
   name_en: Head Butt
   one_time: 16
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Seal 5th row for 2 turns, Deal 175% damage
-  desc_jp: Seal 5th row for 2 turns, Deal 175% damage
   max_atk_pct: 175
   name_en: Flying Body Press
   one_time: 8
@@ -57,7 +52,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -65,7 +59,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -25% HP
-  desc_jp: Player -25% HP
   max_atk_pct: null
   name_en: Screw Pile Driver
   one_time: 4
@@ -73,7 +66,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -82,7 +74,6 @@ records:
 - !SkillRecord
   desc_en: Deal 50% damage + Deal 100% damage + Random 1 orbs change every 2.0s for
     2 turns, Deal 50% damage
-  desc_jp: Deal 50% damage + Deal 100% damage + Random 1 orbs change every 2.0s for
     2 turns, Deal 50% damage
   max_atk_pct: null
   name_en: Knee Hammer + Disable Skill + Double Lariat
@@ -91,7 +82,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
   one_time: null
@@ -99,7 +89,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Leader changes to random sub for 2 turns, Deal 250% damage
-  desc_jp: Leader changes to random sub for 2 turns, Deal 250% damage
   max_atk_pct: 250
   name_en: Borscht Dynamite
   one_time: 1
@@ -107,7 +96,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -115,7 +103,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 4th, 5th row to Fire orbs, Deal 300% damage
-  desc_jp: Change 4th, 5th row to Fire orbs, Deal 300% damage
   max_atk_pct: 300
   name_en: Bolshoi Russian Suplex
   one_time: 0

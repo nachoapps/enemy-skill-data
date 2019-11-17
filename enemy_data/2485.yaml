@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Do nothing + Voids status ailments for 999 turns (Preemptive)
-  desc_jp: Do nothing + Voids status ailments for 999 turns (Preemptive)
   max_atk_pct: null
   name_en: I am Hakumen! From that name, + Comes the destruction of all!!
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind all orbs on the board, (if [2464, 2465] on team)
-  desc_jp: Blind all orbs on the board, (if [2464, 2465] on team)
   max_atk_pct: null
   name_en: Hate...more...
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Player -99% HP
-  desc_jp: Player -99% HP
   max_atk_pct: null
   name_en: Shumuna
   one_time: 0
@@ -49,7 +45,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Change 2nd, 3rd row to Fire orbs, Deal 150% damage
-  desc_jp: Change 2nd, 3rd row to Fire orbs, Deal 150% damage
   max_atk_pct: 150
   name_en: Towako
   one_time: 0
@@ -57,7 +52,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -65,7 +59,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Void damage >= 500000 for 2 turns
-  desc_jp: Void damage >= 500000 for 2 turns
   max_atk_pct: null
   name_en: Kuragi
   one_time: 0
@@ -73,7 +66,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 2 turns
-  desc_jp: Reduce damage from all sources by 50% for 2 turns
   max_atk_pct: null
   name_en: Ayakashi
   one_time: 0
@@ -81,7 +73,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -89,7 +80,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 4 Wood, Light orbs, Deal 190% damage
-  desc_jp: Spawn random 4 Wood, Light orbs, Deal 190% damage
   max_atk_pct: 190
   name_en: Storm and Lightning Tail
   one_time: 0
@@ -97,7 +87,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 195% damage (3 hits, 65% each)
-  desc_jp: Deal 195% damage (3 hits, 65% each)
   max_atk_pct: 195
   name_en: Spear-Shaped Tail
   one_time: 0
@@ -105,7 +94,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 80
   one_time: null
@@ -113,7 +101,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -121,7 +108,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind all orbs on the board, (if [2464, 2465] on team)
-  desc_jp: Blind all orbs on the board, (if [2464, 2465] on team)
   max_atk_pct: null
   name_en: Hate...more...
   one_time: 0
@@ -129,7 +115,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Bind 1 random cards for 3 turns
-  desc_jp: Bind 1 random cards for 3 turns
   max_atk_pct: null
   name_en: Waaaaaah!
   one_time: 1
@@ -137,7 +122,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -145,7 +129,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -99% HP
-  desc_jp: Player -99% HP
   max_atk_pct: null
   name_en: Shumuna
   one_time: 0
@@ -153,7 +136,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Change 2nd, 3rd row to Fire orbs, Deal 150% damage
-  desc_jp: Change 2nd, 3rd row to Fire orbs, Deal 150% damage
   max_atk_pct: 150
   name_en: Towako
   one_time: 0
@@ -161,7 +143,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -169,7 +150,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Void damage >= 500000 for 2 turns
-  desc_jp: Void damage >= 500000 for 2 turns
   max_atk_pct: null
   name_en: Kuragi
   one_time: 0
@@ -177,7 +157,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 2 turns
-  desc_jp: Reduce damage from all sources by 50% for 2 turns
   max_atk_pct: null
   name_en: Ayakashi
   one_time: 0

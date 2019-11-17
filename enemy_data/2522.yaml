@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Change 2nd column to Fire orbs, Deal 100% damage (Preemptive)
-  desc_jp: Change 2nd column to Fire orbs, Deal 100% damage (Preemptive)
   max_atk_pct: 100
   name_en: Christmas-ing
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Lock 2 random Fire, Water, Wood, Light, Dark orbs, Deal 100% damage
-  desc_jp: Lock 2 random Fire, Water, Wood, Light, Dark orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Reindeer Horn
   one_time: 1
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change 2nd column to Fire orbs, Deal 100% damage
-  desc_jp: Change 2nd column to Fire orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Christmas-ing
   one_time: 0
@@ -49,7 +45,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -57,7 +52,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 2nd column to Fire orbs, Deal 100% damage
-  desc_jp: Change 2nd column to Fire orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Christmas-ing
   one_time: 0

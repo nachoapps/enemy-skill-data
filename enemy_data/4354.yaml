@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from Wood by 50%
-  desc_jp: Reduce damage from Wood by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -33,7 +32,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from Wood by 50%
-  desc_jp: Reduce damage from Wood by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -43,7 +41,6 @@ records:
   desc_en: Voids status ailments for 999 turns + Void damage >= 15000000 for 999 turns
     + Absorb combo <= 6 damage for 999 turns + Locked Poison skyfall +100% for 20
     turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Void damage >= 15000000 for 999 turns
     + Absorb combo <= 6 damage for 999 turns + Locked Poison skyfall +100% for 20
     turns (Preemptive)
   max_atk_pct: null
@@ -54,7 +51,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: When HP is full
   one_time: null
@@ -62,7 +58,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 3 Mortal Poison orbs + Lock all Poison, Mortal Poison orbs
-  desc_jp: Spawn random 3 Mortal Poison orbs + Lock all Poison, Mortal Poison orbs
   max_atk_pct: null
   name_en: Sullied Fruit + Pure Lands
   one_time: 0
@@ -70,7 +65,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: When HP is not full
   one_time: null
@@ -78,7 +72,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -86,7 +79,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Poison skyfall +20% for 3 turns + Player -99% HP
-  desc_jp: Poison skyfall +20% for 3 turns + Player -99% HP
   max_atk_pct: null
   name_en: Fallen Fruit + Spoiled
   one_time: 3
@@ -94,7 +86,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2-4
   one_time: null
@@ -103,7 +94,6 @@ records:
 - !SkillRecord
   desc_en: Spawn random 6 Fire, Wood, Light, Dark, Poison, Mortal Poison orbs + Player
     -99% HP, (if >=3 combos last turn)
-  desc_jp: Spawn random 6 Fire, Wood, Light, Dark, Poison, Mortal Poison orbs + Player
     -99% HP, (if >=3 combos last turn)
   max_atk_pct: null
   name_en: Cataclysm + Spoiled
@@ -113,7 +103,6 @@ records:
 - !SkillRecord
   desc_en: Spawn random 6 Water, Wood, Light, Dark, Poison, Mortal Poison orbs + Player
     -99% HP, (if >=3 combos last turn)
-  desc_jp: Spawn random 6 Water, Wood, Light, Dark, Poison, Mortal Poison orbs + Player
     -99% HP, (if >=3 combos last turn)
   max_atk_pct: null
   name_en: Cataclysm + Spoiled
@@ -123,7 +112,6 @@ records:
 - !SkillRecord
   desc_en: Spawn random 6 Fire, Water, Wood, Dark, Poison, Mortal Poison orbs + Player
     -99% HP, (if >=3 combos last turn)
-  desc_jp: Spawn random 6 Fire, Water, Wood, Dark, Poison, Mortal Poison orbs + Player
     -99% HP, (if >=3 combos last turn)
   max_atk_pct: null
   name_en: Cataclysm + Spoiled
@@ -133,7 +121,6 @@ records:
 - !SkillRecord
   desc_en: Spawn random 6 Fire, Water, Wood, Light, Poison, Mortal Poison orbs + Player
     -99% HP, (if >=3 combos last turn)
-  desc_jp: Spawn random 6 Fire, Water, Wood, Light, Poison, Mortal Poison orbs + Player
     -99% HP, (if >=3 combos last turn)
   max_atk_pct: null
   name_en: Cataclysm + Spoiled
@@ -143,7 +130,6 @@ records:
 - !SkillRecord
   desc_en: Spawn random 6 Wood, Light, Dark, Heal, Poison, Mortal Poison orbs + Player
     -99% HP, (if >=3 combos last turn)
-  desc_jp: Spawn random 6 Wood, Light, Dark, Heal, Poison, Mortal Poison orbs + Player
     -99% HP, (if >=3 combos last turn)
   max_atk_pct: null
   name_en: Cataclysm + Spoiled
@@ -153,7 +139,6 @@ records:
 - !SkillRecord
   desc_en: Spawn random 6 Fire, Wood, Dark, Heal, Poison, Mortal Poison orbs + Player
     -99% HP, (if >=3 combos last turn)
-  desc_jp: Spawn random 6 Fire, Wood, Dark, Heal, Poison, Mortal Poison orbs + Player
     -99% HP, (if >=3 combos last turn)
   max_atk_pct: null
   name_en: Cataclysm + Spoiled
@@ -163,7 +148,6 @@ records:
 - !SkillRecord
   desc_en: Spawn random 6 Fire, Wood, Light, Heal, Poison, Mortal Poison orbs + Player
     -99% HP, (if >=3 combos last turn)
-  desc_jp: Spawn random 6 Fire, Wood, Light, Heal, Poison, Mortal Poison orbs + Player
     -99% HP, (if >=3 combos last turn)
   max_atk_pct: null
   name_en: Cataclysm + Spoiled
@@ -173,7 +157,6 @@ records:
 - !SkillRecord
   desc_en: Spawn random 6 Water, Wood, Dark, Heal, Poison, Mortal Poison orbs + Player
     -99% HP, (if >=3 combos last turn)
-  desc_jp: Spawn random 6 Water, Wood, Dark, Heal, Poison, Mortal Poison orbs + Player
     -99% HP, (if >=3 combos last turn)
   max_atk_pct: null
   name_en: Cataclysm + Spoiled
@@ -183,7 +166,6 @@ records:
 - !SkillRecord
   desc_en: Spawn random 6 Water, Wood, Light, Heal, Poison, Mortal Poison orbs + Player
     -99% HP, (if >=3 combos last turn)
-  desc_jp: Spawn random 6 Water, Wood, Light, Heal, Poison, Mortal Poison orbs + Player
     -99% HP, (if >=3 combos last turn)
   max_atk_pct: null
   name_en: Cataclysm + Spoiled
@@ -193,7 +175,6 @@ records:
 - !SkillRecord
   desc_en: Spawn random 6 Fire, Water, Wood, Heal, Poison, Mortal Poison orbs + Player
     -99% HP, (if >=3 combos last turn)
-  desc_jp: Spawn random 6 Fire, Water, Wood, Heal, Poison, Mortal Poison orbs + Player
     -99% HP, (if >=3 combos last turn)
   max_atk_pct: null
   name_en: Cataclysm + Spoiled
@@ -203,7 +184,6 @@ records:
 - !SkillRecord
   desc_en: Spawn random 6 Fire, Water, Wood, Heal, Poison, Mortal Poison orbs + Lock
     all Poison, Mortal Poison orbs
-  desc_jp: Spawn random 6 Fire, Water, Wood, Heal, Poison, Mortal Poison orbs + Lock
     all Poison, Mortal Poison orbs
   max_atk_pct: null
   name_en: Cataclysm + Pure Lands
@@ -213,7 +193,6 @@ records:
 - !SkillRecord
   desc_en: Spawn random 6 Water, Wood, Light, Heal, Poison, Mortal Poison orbs + Lock
     all Poison, Mortal Poison orbs
-  desc_jp: Spawn random 6 Water, Wood, Light, Heal, Poison, Mortal Poison orbs + Lock
     all Poison, Mortal Poison orbs
   max_atk_pct: null
   name_en: Cataclysm + Pure Lands
@@ -223,7 +202,6 @@ records:
 - !SkillRecord
   desc_en: Spawn random 6 Water, Wood, Dark, Heal, Poison, Mortal Poison orbs + Lock
     all Poison, Mortal Poison orbs
-  desc_jp: Spawn random 6 Water, Wood, Dark, Heal, Poison, Mortal Poison orbs + Lock
     all Poison, Mortal Poison orbs
   max_atk_pct: null
   name_en: Cataclysm + Pure Lands
@@ -233,7 +211,6 @@ records:
 - !SkillRecord
   desc_en: Spawn random 6 Fire, Wood, Light, Heal, Poison, Mortal Poison orbs + Lock
     all Poison, Mortal Poison orbs
-  desc_jp: Spawn random 6 Fire, Wood, Light, Heal, Poison, Mortal Poison orbs + Lock
     all Poison, Mortal Poison orbs
   max_atk_pct: null
   name_en: Cataclysm + Pure Lands
@@ -243,7 +220,6 @@ records:
 - !SkillRecord
   desc_en: Spawn random 6 Fire, Wood, Dark, Heal, Poison, Mortal Poison orbs + Lock
     all Poison, Mortal Poison orbs
-  desc_jp: Spawn random 6 Fire, Wood, Dark, Heal, Poison, Mortal Poison orbs + Lock
     all Poison, Mortal Poison orbs
   max_atk_pct: null
   name_en: Cataclysm + Pure Lands
@@ -253,7 +229,6 @@ records:
 - !SkillRecord
   desc_en: Spawn random 6 Wood, Light, Dark, Heal, Poison, Mortal Poison orbs + Lock
     all Poison, Mortal Poison orbs
-  desc_jp: Spawn random 6 Wood, Light, Dark, Heal, Poison, Mortal Poison orbs + Lock
     all Poison, Mortal Poison orbs
   max_atk_pct: null
   name_en: Cataclysm + Pure Lands
@@ -262,7 +237,6 @@ records:
   usage_pct: 17
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 75
   one_time: null
@@ -270,7 +244,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -279,7 +252,6 @@ records:
 - !SkillRecord
   desc_en: Change 1st, 3rd, 5th column to Wood orbs, 2nd, 4th, 6th column to Poison
     orbs + Movetime -3s for 99 turns
-  desc_jp: Change 1st, 3rd, 5th column to Wood orbs, 2nd, 4th, 6th column to Poison
     orbs + Movetime -3s for 99 turns
   max_atk_pct: null
   name_en: Wrath of the Great Tree + Great Path of Destruction
@@ -288,7 +260,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -296,7 +267,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -305,7 +275,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 99 turns + Change 1st, 3rd, 5th
     row to Poison orbs, 2nd, 4th row to Wood orbs
-  desc_jp: Reduce damage from all sources by 50% for 99 turns + Change 1st, 3rd, 5th
     row to Poison orbs, 2nd, 4th row to Wood orbs
   max_atk_pct: null
   name_en: Defenders of the Sacred Tree + Wrath of the Great Tree
@@ -314,7 +283,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
   one_time: null
@@ -322,7 +290,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind awoken skills for 1 turns + Change all orbs to Mortal Poison
-  desc_jp: Bind awoken skills for 1 turns + Change all orbs to Mortal Poison
   max_atk_pct: null
   name_en: Forest of the Decaying Sea + Ruining Grounds
   one_time: 0

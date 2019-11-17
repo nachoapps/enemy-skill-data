@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Movetime -2s for 2 turns (Preemptive)
-  desc_jp: Movetime -2s for 2 turns (Preemptive)
   max_atk_pct: null
   name_en: Say my name!
   one_time: 1
@@ -33,7 +32,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Movetime -2s for 2 turns (Preemptive)
-  desc_jp: Movetime -2s for 2 turns (Preemptive)
   max_atk_pct: null
   name_en: Say my name!
   one_time: 1
@@ -41,7 +39,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -49,7 +46,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random to Jammer, Deal 100% damage
-  desc_jp: Change Random to Jammer, Deal 100% damage
   max_atk_pct: 100
   name_en: Hokuto Rakan Geki!!
   one_time: 0
@@ -57,7 +53,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -65,7 +60,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -73,7 +67,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random to Jammer, Deal 100% damage
-  desc_jp: Change Random to Jammer, Deal 100% damage
   max_atk_pct: 100
   name_en: Hokuto Rakan Geki!!
   one_time: 0
@@ -81,7 +74,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -89,7 +81,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Movetime -2s for 2 turns
-  desc_jp: Movetime -2s for 2 turns
   max_atk_pct: null
   name_en: Say my name!
   one_time: 1
@@ -97,7 +88,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -105,7 +95,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -113,7 +102,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 3rd column to Dark orbs, Deal 150% damage
-  desc_jp: Change 3rd column to Dark orbs, Deal 150% damage
   max_atk_pct: 150
   name_en: You can't see through my Nanto Seiken!
   one_time: 0
@@ -121,7 +109,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -129,7 +116,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 3rd column to Dark orbs, Deal 150% damage
-  desc_jp: Change 3rd column to Dark orbs, Deal 150% damage
   max_atk_pct: 150
   name_en: You can't see through my Nanto Seiken!
   one_time: 0
@@ -137,7 +123,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -145,7 +130,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Movetime -2s for 2 turns
-  desc_jp: Movetime -2s for 2 turns
   max_atk_pct: null
   name_en: Say my name!
   one_time: 1

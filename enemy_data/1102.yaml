@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Bind 4 random subs for 4 turns (Preemptive)
-  desc_jp: Bind 4 random subs for 4 turns (Preemptive)
   max_atk_pct: null
   name_en: Nap Lullaby
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change 5th row to Wood, Jammer orbs, Deal 110% damage
-  desc_jp: Change 5th row to Wood, Jammer orbs, Deal 110% damage
   max_atk_pct: 110
   name_en: Breath of Life
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 40
 - !SkillRecord
   desc_en: Spawn random 5 Water orbs, Deal 75% damage
-  desc_jp: Spawn random 5 Water orbs, Deal 75% damage
   max_atk_pct: 75
   name_en: Holy Watering
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Spawn random 10 Water orbs, Deal 120% damage
-  desc_jp: Spawn random 10 Water orbs, Deal 120% damage
   max_atk_pct: 120
   name_en: Holy Watering
   one_time: 0
@@ -49,7 +45,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -57,7 +52,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -66,7 +60,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 5 turns + Increase damage to
     200% for the next 5 turns
-  desc_jp: Reduce damage from all sources by 50% for 5 turns + Increase damage to
     200% for the next 5 turns
   max_atk_pct: null
   name_en: Good Luck Charm + Now I'm serious ♪
@@ -75,7 +68,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -83,7 +75,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Enemy recover 100% hp
-  desc_jp: Enemy recover 100% hp
   max_atk_pct: null
   name_en: Cure
   one_time: 1

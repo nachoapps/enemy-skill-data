@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Change Random 6 to Poison, Deal 50% damage
-  desc_jp: Change Random 6 to Poison, Deal 50% damage
   max_atk_pct: 50
   name_en: Poison Fog
   one_time: 0

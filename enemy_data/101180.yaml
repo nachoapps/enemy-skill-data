@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Do nothing + Do nothing + Change all orbs to Fire, Water, Wood, Light,
     Dark, Heal + Reduce self HP to 0 (Preemptive)
-  desc_jp: Do nothing + Do nothing + Change all orbs to Fire, Water, Wood, Light,
     Dark, Heal + Reduce self HP to 0 (Preemptive)
   max_atk_pct: null
   name_en: '! + There''s a big, white serpent somewhere

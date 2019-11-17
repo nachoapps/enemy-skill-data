@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Change Random to Water, Deal 75% damage
-  desc_jp: Change Random to Water, Deal 75% damage
   max_atk_pct: 75
   name_en: Ice Ball
   one_time: 1

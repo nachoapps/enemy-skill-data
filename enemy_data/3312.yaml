@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Spawn random 8 Fire orbs, Deal 290% damage
-  desc_jp: Spawn random 8 Fire orbs, Deal 290% damage
   max_atk_pct: 290
   name_en: King's Flame
   one_time: 0

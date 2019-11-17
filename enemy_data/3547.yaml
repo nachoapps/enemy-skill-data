@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from Dark by 50%
-  desc_jp: Reduce damage from Dark by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -26,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 10 turns + Spawn random 3 locked Bomb orbs +
     Spawn random 3 Jammer, Mortal Poison orbs (Preemptive)
-  desc_jp: Voids status ailments for 10 turns + Spawn random 3 locked Bomb orbs +
     Spawn random 3 Jammer, Mortal Poison orbs (Preemptive)
   max_atk_pct: null
   name_en: Abnormal Dimension + Terror + Impurity
@@ -35,7 +33,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: When HP is full
   one_time: null
@@ -43,7 +40,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -51,7 +47,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change all orbs to Dark, Deal 1200% damage
-  desc_jp: Change all orbs to Dark, Deal 1200% damage
   max_atk_pct: 1200
   name_en: Arced Horn of Truth
   one_time: 4
@@ -59,7 +54,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Seal 6th column for 5 turns + Absorb combo <= 5 damage for 5 turns
-  desc_jp: Seal 6th column for 5 turns + Absorb combo <= 5 damage for 5 turns
   max_atk_pct: null
   name_en: Orb Rust + Distortion Field
   one_time: 4
@@ -67,7 +61,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Mortal Poison skyfall +25% for 1 turns, Deal 2400% damage
-  desc_jp: Mortal Poison skyfall +25% for 1 turns, Deal 2400% damage
   max_atk_pct: 2400
   name_en: Curse Invasion
   one_time: 0
@@ -75,7 +68,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: When HP is not full
   one_time: null
@@ -83,7 +75,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1-4
   one_time: null
@@ -91,7 +82,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind orbs in specific positions for 1 turns, Deal 300% damage
-  desc_jp: Blind orbs in specific positions for 1 turns, Deal 300% damage
   max_atk_pct: 300
   name_en: Eclipse Touch
   one_time: 0
@@ -99,7 +89,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Blind orbs in specific positions for 1 turns, Deal 300% damage
-  desc_jp: Blind orbs in specific positions for 1 turns, Deal 300% damage
   max_atk_pct: 300
   name_en: Eclipse Touch
   one_time: 0
@@ -107,7 +96,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Movetime -1s for 1 turns, Deal 300% damage
-  desc_jp: Movetime -1s for 1 turns, Deal 300% damage
   max_atk_pct: 300
   name_en: Time Mixup
   one_time: 0
@@ -115,7 +103,6 @@ records:
   usage_pct: 6
 - !SkillRecord
   desc_en: Movetime -2s for 1 turns, Deal 300% damage
-  desc_jp: Movetime -2s for 1 turns, Deal 300% damage
   max_atk_pct: 300
   name_en: Time Mixup
   one_time: 0
@@ -123,7 +110,6 @@ records:
   usage_pct: 6
 - !SkillRecord
   desc_en: Movetime -3s for 1 turns, Deal 300% damage
-  desc_jp: Movetime -3s for 1 turns, Deal 300% damage
   max_atk_pct: 300
   name_en: Time Mixup
   one_time: 0
@@ -131,7 +117,6 @@ records:
   usage_pct: 6
 - !SkillRecord
   desc_en: Movetime 50% for 1 turns, Deal 300% damage
-  desc_jp: Movetime 50% for 1 turns, Deal 300% damage
   max_atk_pct: 300
   name_en: Time Mixup
   one_time: 0
@@ -139,7 +124,6 @@ records:
   usage_pct: 6
 - !SkillRecord
   desc_en: Movetime 150% for 1 turns, Deal 300% damage
-  desc_jp: Movetime 150% for 1 turns, Deal 300% damage
   max_atk_pct: 300
   name_en: Time Mixup
   one_time: 0
@@ -147,7 +131,6 @@ records:
   usage_pct: 6
 - !SkillRecord
   desc_en: Deal 350% damage (7 hits, 50% each)
-  desc_jp: Deal 350% damage (7 hits, 50% each)
   max_atk_pct: 350
   name_en: Wonder Bolt
   one_time: 0
@@ -155,7 +138,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 5
   one_time: null
@@ -164,7 +146,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 5 turns + Increase damage to
     150% for the next 4 turns
-  desc_jp: Reduce damage from all sources by 75% for 5 turns + Increase damage to
     150% for the next 4 turns
   max_atk_pct: null
   name_en: Shadow Wall + Wicked
@@ -173,7 +154,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 5
   one_time: null
@@ -181,7 +161,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Mortal Poison skyfall +25% for 1 turns, Deal 2400% damage
-  desc_jp: Mortal Poison skyfall +25% for 1 turns, Deal 2400% damage
   max_atk_pct: 2400
   name_en: Curse Invasion
   one_time: 0

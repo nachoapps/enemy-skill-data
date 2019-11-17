@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Blind orbs in specific positions for 10 turns + Absorb combo <= 4 damage
     for 999 turns (Preemptive)
-  desc_jp: Blind orbs in specific positions for 10 turns + Absorb combo <= 4 damage
     for 999 turns (Preemptive)
   max_atk_pct: null
   name_en: Dark Night of the Witches + Midnight Soar
@@ -27,7 +26,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: When HP is full
   one_time: null
@@ -35,7 +33,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -43,7 +40,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 5th row to Light orbs, Deal 100% damage
-  desc_jp: Change 5th row to Light orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Moonlight Scythe
   one_time: 0
@@ -51,7 +47,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -59,7 +54,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 3rd row to Light orbs, Deal 100% damage
-  desc_jp: Change 3rd row to Light orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Moonlight Scythe
   one_time: 0
@@ -67,7 +61,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -75,7 +68,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 1st row to Light orbs, Deal 100% damage
-  desc_jp: Change 1st row to Light orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Moonlight Scythe
   one_time: 0
@@ -83,7 +75,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -91,7 +82,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Mortal Poison skyfall +10% for 10 turns + Reduce self HP to 0
-  desc_jp: Mortal Poison skyfall +10% for 10 turns + Reduce self HP to 0
   max_atk_pct: null
   name_en: Come on! I'm falling asleep here! + Yeah, I'm just gonna go...
   one_time: 0
@@ -99,7 +89,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change 5th row to Light orbs, Deal 100% damage
-  desc_jp: Change 5th row to Light orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Moonlight Scythe
   one_time: 0
@@ -107,7 +96,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Change 3rd row to Light orbs, Deal 100% damage
-  desc_jp: Change 3rd row to Light orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Moonlight Scythe
   one_time: 0
@@ -115,7 +103,6 @@ records:
   usage_pct: 34
 - !SkillRecord
   desc_en: Change 1st row to Light orbs, Deal 100% damage
-  desc_jp: Change 1st row to Light orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Moonlight Scythe
   one_time: 0
@@ -123,7 +110,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: When HP is not full
   one_time: null
@@ -131,7 +117,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -140,7 +125,6 @@ records:
 - !SkillRecord
   desc_en: Poison skyfall +10% for 10 turns + Increase damage to 300% for the next
     99 turns
-  desc_jp: Poison skyfall +10% for 10 turns + Increase damage to 300% for the next
     99 turns
   max_atk_pct: null
   name_en: Hahaha! Now you're talking! + Let the games begin!

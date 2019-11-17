@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Change all orbs to Fire + Bind awoken skills for 3 turns (Preemptive)
-  desc_jp: Change all orbs to Fire + Bind awoken skills for 3 turns (Preemptive)
   max_atk_pct: null
   name_en: RRMMB + Let there be peace on earth.
   one_time: 1
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Bind active skills for 1 turns, Deal 100% damage
-  desc_jp: Bind active skills for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: 'Instruments of Torture:
 
@@ -35,7 +33,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Bind 2 subs for 1~2 turns, Deal 90% damage
-  desc_jp: Bind 2 subs for 1~2 turns, Deal 90% damage
   max_atk_pct: 90
   name_en: To banish evil from this world!
   one_time: 0
@@ -43,7 +40,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -51,7 +47,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -59,7 +54,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -75% HP
-  desc_jp: Player -75% HP
   max_atk_pct: null
   name_en: It is proof of my resolve.
   one_time: 0
@@ -67,7 +61,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 15
   one_time: null
@@ -75,7 +68,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 200% damage
-  desc_jp: Deal 200% damage
   max_atk_pct: 200
   name_en: 'Verdict: Death'
   one_time: 0

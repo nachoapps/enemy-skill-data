@@ -18,7 +18,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Spawn random 3 Dark orbs (Preemptive)
-  desc_jp: Spawn random 3 Dark orbs (Preemptive)
   max_atk_pct: null
   name_en: Let's eat grapes together!
   one_time: 0
@@ -26,7 +25,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Spawn random 1 Heal orbs
-  desc_jp: Spawn random 1 Heal orbs
   max_atk_pct: null
   name_en: I'll take one
   one_time: 0
@@ -34,7 +32,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Heal to Jammer, Deal 100% damage
-  desc_jp: Change Heal to Jammer, Deal 100% damage
   max_atk_pct: 100
   name_en: No grapes? Let's eat this instead then!
   one_time: 0
@@ -42,7 +39,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Spawn random 3 Dark orbs
-  desc_jp: Spawn random 3 Dark orbs
   max_atk_pct: null
   name_en: Let's eat grapes together!
   one_time: 0

@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 50%
-  desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Delay active skills by 4 turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Delay active skills by 4 turns (Preemptive)
   max_atk_pct: null
   name_en: Mode-Ground Armor + Justice Aura
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: When player has any buff
   one_time: null
@@ -41,7 +38,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Voids player buff effects
-  desc_jp: Voids player buff effects
   max_atk_pct: null
   name_en: Justice Eye
   one_time: 0
@@ -49,7 +45,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -57,7 +52,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -65,7 +59,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 2nd row to Wood orbs, Deal 100% damage
-  desc_jp: Change 2nd row to Wood orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Justice Blade
   one_time: 0
@@ -73,7 +66,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -81,7 +73,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -99% HP
-  desc_jp: Player -99% HP
   max_atk_pct: null
   name_en: Justice Punch
   one_time: 0
@@ -89,7 +80,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -97,7 +87,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 120% damage (3 hits, 40% each)
-  desc_jp: Deal 120% damage (3 hits, 40% each)
   max_atk_pct: 120
   name_en: Justice Star Boomerang
   one_time: 0
@@ -105,7 +94,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -113,7 +101,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 2nd row to Wood orbs, Deal 100% damage
-  desc_jp: Change 2nd row to Wood orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Justice Blade
   one_time: 0
@@ -121,7 +108,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
   one_time: null
@@ -129,7 +115,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -99% HP
-  desc_jp: Player -99% HP
   max_atk_pct: null
   name_en: Justice Punch
   one_time: 0
@@ -137,7 +122,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6
   one_time: null
@@ -145,7 +129,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 120% damage (3 hits, 40% each)
-  desc_jp: Deal 120% damage (3 hits, 40% each)
   max_atk_pct: 120
   name_en: Justice Star Boomerang
   one_time: 0
@@ -153,7 +136,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 7
   one_time: null
@@ -161,7 +143,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 200% for the next 999 turns
-  desc_jp: Increase damage to 200% for the next 999 turns
   max_atk_pct: null
   name_en: Justice Booster
   one_time: 0
@@ -169,7 +150,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -177,7 +157,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 2nd row to Wood orbs, Deal 100% damage
-  desc_jp: Change 2nd row to Wood orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Justice Blade
   one_time: 0
@@ -185,7 +164,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -193,7 +171,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -99% HP
-  desc_jp: Player -99% HP
   max_atk_pct: null
   name_en: Justice Punch
   one_time: 0
@@ -201,7 +178,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 3
   one_time: null
@@ -209,7 +185,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 120% damage (3 hits, 40% each)
-  desc_jp: Deal 120% damage (3 hits, 40% each)
   max_atk_pct: 120
   name_en: Justice Star Boomerang
   one_time: 0
@@ -217,7 +192,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 70
   one_time: null
@@ -225,7 +199,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -233,7 +206,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 6 turns
-  desc_jp: Reduce damage from all sources by 50% for 6 turns
   max_atk_pct: null
   name_en: Justice Barrier
   one_time: 2
@@ -241,7 +213,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -249,7 +220,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 2nd row to Wood orbs, Deal 100% damage
-  desc_jp: Change 2nd row to Wood orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Justice Blade
   one_time: 0
@@ -257,7 +227,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -265,7 +234,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -99% HP
-  desc_jp: Player -99% HP
   max_atk_pct: null
   name_en: Justice Punch
   one_time: 0
@@ -273,7 +241,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -281,7 +248,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 120% damage (3 hits, 40% each)
-  desc_jp: Deal 120% damage (3 hits, 40% each)
   max_atk_pct: 120
   name_en: Justice Star Boomerang
   one_time: 0
@@ -289,7 +255,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
   one_time: null
@@ -297,7 +262,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 2nd row to Wood orbs, Deal 100% damage
-  desc_jp: Change 2nd row to Wood orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Justice Blade
   one_time: 0
@@ -305,7 +269,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6
   one_time: null
@@ -313,7 +276,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -99% HP
-  desc_jp: Player -99% HP
   max_atk_pct: null
   name_en: Justice Punch
   one_time: 0
@@ -321,7 +283,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -329,7 +290,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 120% damage (3 hits, 40% each)
-  desc_jp: Deal 120% damage (3 hits, 40% each)
   max_atk_pct: 120
   name_en: Justice Star Boomerang
   one_time: 0
@@ -337,7 +297,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -345,7 +304,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 2nd row to Wood orbs, Deal 100% damage
-  desc_jp: Change 2nd row to Wood orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Justice Blade
   one_time: 0
@@ -353,7 +311,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 3
   one_time: null
@@ -361,7 +318,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -99% HP
-  desc_jp: Player -99% HP
   max_atk_pct: null
   name_en: Justice Punch
   one_time: 0
@@ -369,7 +325,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -377,7 +332,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -385,7 +339,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Wood, Jammer, Poison skyfall +10% for 5 turns, Deal 100% damage
-  desc_jp: Wood, Jammer, Poison skyfall +10% for 5 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Justice Tornado
   one_time: 1
@@ -393,7 +346,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -401,7 +353,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 2nd row to Wood orbs, Deal 100% damage
-  desc_jp: Change 2nd row to Wood orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Justice Blade
   one_time: 0
@@ -409,7 +360,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -417,7 +367,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -99% HP
-  desc_jp: Player -99% HP
   max_atk_pct: null
   name_en: Justice Punch
   one_time: 0
@@ -425,7 +374,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
   one_time: null
@@ -433,7 +381,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 120% damage (3 hits, 40% each)
-  desc_jp: Deal 120% damage (3 hits, 40% each)
   max_atk_pct: 120
   name_en: Justice Star Boomerang
   one_time: 0
@@ -441,7 +388,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6
   one_time: null
@@ -449,7 +395,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 2nd row to Wood orbs, Deal 100% damage
-  desc_jp: Change 2nd row to Wood orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Justice Blade
   one_time: 0
@@ -457,7 +402,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -465,7 +409,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -99% HP
-  desc_jp: Player -99% HP
   max_atk_pct: null
   name_en: Justice Punch
   one_time: 0
@@ -473,7 +416,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -481,7 +423,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 120% damage (3 hits, 40% each)
-  desc_jp: Deal 120% damage (3 hits, 40% each)
   max_atk_pct: 120
   name_en: Justice Star Boomerang
   one_time: 0
@@ -489,7 +430,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 3
   one_time: null
@@ -497,7 +437,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 2nd row to Wood orbs, Deal 100% damage
-  desc_jp: Change 2nd row to Wood orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Justice Blade
   one_time: 0
@@ -505,7 +444,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 15
   one_time: null
@@ -513,7 +451,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1-6
   one_time: null
@@ -521,7 +458,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 800% damage (8 hits, 100% each)
-  desc_jp: Deal 800% damage (8 hits, 100% each)
   max_atk_pct: 800
   name_en: Justice Ultimate Storm
   one_time: 0
@@ -529,7 +465,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 800% damage (8 hits, 100% each)
-  desc_jp: Deal 800% damage (8 hits, 100% each)
   max_atk_pct: 800
   name_en: Justice Ultimate Storm
   one_time: 0

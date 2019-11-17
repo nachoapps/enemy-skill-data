@@ -18,7 +18,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Change Dark to Water, Deal 90% damage (Preemptive)
-  desc_jp: Change Dark to Water, Deal 90% damage (Preemptive)
   max_atk_pct: 90
   name_en: 界繕ノ剣
   one_time: 0
@@ -26,7 +25,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Dark to Water, Deal 90% damage
-  desc_jp: Change Dark to Water, Deal 90% damage
   max_atk_pct: 90
   name_en: 界繕ノ剣
   one_time: 0
@@ -34,7 +32,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -42,7 +39,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 160% damage (2 hits, 80% each)
-  desc_jp: Deal 160% damage (2 hits, 80% each)
   max_atk_pct: 160
   name_en: 天怒晃拷
   one_time: 0

@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Fire skyfall +15% for 99 turns (Preemptive)
-  desc_jp: Fire skyfall +15% for 99 turns (Preemptive)
   max_atk_pct: null
   name_en: Burn!!
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player recover 100% hp, (if [1424, 1425, 1241, 1242, 1243, 1244] on team)
-  desc_jp: Player recover 100% hp, (if [1424, 1425, 1241, 1242, 1243, 1244] on team)
   max_atk_pct: null
   name_en: Can you feel the heat, brother?
   one_time: 0
@@ -42,7 +39,6 @@ records:
 - !SkillRecord
   desc_en: Change 2nd column to Fire orbs, Deal 80% damage + Change 2nd row to Wood
     orbs, Deal 80% damage
-  desc_jp: Change 2nd column to Fire orbs, Deal 80% damage + Change 2nd row to Wood
     orbs, Deal 80% damage
   max_atk_pct: null
   name_en: Heat! + Christmas!
@@ -51,7 +47,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -59,7 +54,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1-3
   one_time: null
@@ -67,7 +61,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Wood to Fire, Deal 110% damage
-  desc_jp: Change Wood to Fire, Deal 110% damage
   max_atk_pct: 110
   name_en: Green Fire Transformation
   one_time: 0
@@ -75,7 +68,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 120% damage
-  desc_jp: Deal 120% damage
   max_atk_pct: 120
   name_en: Flame Dragon Sword
   one_time: 0
@@ -83,7 +75,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 4
   one_time: null
@@ -92,7 +83,6 @@ records:
 - !SkillRecord
   desc_en: Change 2nd column to Fire orbs, Deal 80% damage + Change 2nd row to Wood
     orbs, Deal 80% damage
-  desc_jp: Change 2nd column to Fire orbs, Deal 80% damage + Change 2nd row to Wood
     orbs, Deal 80% damage
   max_atk_pct: null
   name_en: Heat! + Christmas!
@@ -101,7 +91,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -109,7 +98,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -117,7 +105,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player recover 100% hp, (if [1424, 1425, 1241, 1242, 1243, 1244] on team)
-  desc_jp: Player recover 100% hp, (if [1424, 1425, 1241, 1242, 1243, 1244] on team)
   max_atk_pct: null
   name_en: Can you feel the heat, brother?
   one_time: 0
@@ -125,7 +112,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 130% damage
-  desc_jp: Blind all orbs on the board, Deal 130% damage
   max_atk_pct: 130
   name_en: Flame Dance
   one_time: 0
@@ -133,7 +119,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -142,7 +127,6 @@ records:
 - !SkillRecord
   desc_en: Change 2nd column to Fire orbs, Deal 80% damage + Change 2nd row to Wood
     orbs, Deal 80% damage
-  desc_jp: Change 2nd column to Fire orbs, Deal 80% damage + Change 2nd row to Wood
     orbs, Deal 80% damage
   max_atk_pct: null
   name_en: Heat! + Christmas!
@@ -151,7 +135,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2-4
   one_time: null
@@ -159,7 +142,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Wood to Fire, Deal 110% damage
-  desc_jp: Change Wood to Fire, Deal 110% damage
   max_atk_pct: 110
   name_en: Green Fire Transformation
   one_time: 0
@@ -167,7 +149,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 120% damage
-  desc_jp: Deal 120% damage
   max_atk_pct: 120
   name_en: Flame Dragon Sword
   one_time: 0
@@ -175,7 +156,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 25
   one_time: null
@@ -183,7 +163,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -191,7 +170,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Movetime -2s for 3 turns, Deal 250% damage
-  desc_jp: Movetime -2s for 3 turns, Deal 250% damage
   max_atk_pct: 250
   name_en: Blazing Banquet
   one_time: 0
@@ -199,7 +177,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -208,7 +185,6 @@ records:
 - !SkillRecord
   desc_en: Change 2nd column to Fire orbs, Deal 80% damage + Change 2nd row to Wood
     orbs, Deal 80% damage
-  desc_jp: Change 2nd column to Fire orbs, Deal 80% damage + Change 2nd row to Wood
     orbs, Deal 80% damage
   max_atk_pct: null
   name_en: Heat! + Christmas!
@@ -217,7 +193,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -225,7 +200,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Wood to Fire, Deal 110% damage
-  desc_jp: Change Wood to Fire, Deal 110% damage
   max_atk_pct: 110
   name_en: Green Fire Transformation
   one_time: 0
@@ -233,7 +207,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 120% damage
-  desc_jp: Deal 120% damage
   max_atk_pct: 120
   name_en: Flame Dragon Sword
   one_time: 0
@@ -241,7 +214,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -249,7 +221,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Movetime -2s for 3 turns, Deal 250% damage
-  desc_jp: Movetime -2s for 3 turns, Deal 250% damage
   max_atk_pct: 250
   name_en: Blazing Banquet
   one_time: 0
@@ -257,7 +228,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
   one_time: null
@@ -265,7 +235,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Wood to Fire, Deal 110% damage
-  desc_jp: Change Wood to Fire, Deal 110% damage
   max_atk_pct: 110
   name_en: Green Fire Transformation
   one_time: 0
@@ -273,7 +242,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 120% damage
-  desc_jp: Deal 120% damage
   max_atk_pct: 120
   name_en: Flame Dragon Sword
   one_time: 0
@@ -281,7 +249,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6
   one_time: null
@@ -290,7 +257,6 @@ records:
 - !SkillRecord
   desc_en: Change 2nd column to Fire orbs, Deal 80% damage + Change 2nd row to Wood
     orbs, Deal 80% damage
-  desc_jp: Change 2nd column to Fire orbs, Deal 80% damage + Change 2nd row to Wood
     orbs, Deal 80% damage
   max_atk_pct: null
   name_en: Heat! + Christmas!
@@ -299,7 +265,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 7
   one_time: null
@@ -307,7 +272,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Movetime -2s for 3 turns, Deal 250% damage
-  desc_jp: Movetime -2s for 3 turns, Deal 250% damage
   max_atk_pct: 250
   name_en: Blazing Banquet
   one_time: 0
@@ -315,7 +279,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 8-9
   one_time: null
@@ -323,7 +286,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Wood to Fire, Deal 110% damage
-  desc_jp: Change Wood to Fire, Deal 110% damage
   max_atk_pct: 110
   name_en: Green Fire Transformation
   one_time: 0
@@ -331,7 +293,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 120% damage
-  desc_jp: Deal 120% damage
   max_atk_pct: 120
   name_en: Flame Dragon Sword
   one_time: 0

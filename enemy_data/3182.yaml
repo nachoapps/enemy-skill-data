@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -25,7 +24,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Movetime -1s for 1 turns
-  desc_jp: Movetime -1s for 1 turns
   max_atk_pct: null
   name_en: Troll Dance
   one_time: 1
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -41,7 +38,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 1 Fire, Water orbs, Deal 80% damage
-  desc_jp: Spawn random 1 Fire, Water orbs, Deal 80% damage
   max_atk_pct: 80
   name_en: Blue Flame Slash
   one_time: 0

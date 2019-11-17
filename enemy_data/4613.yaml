@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Enemy turn counter change to 1 when HP <= 50%
-  desc_jp: Enemy turn counter change to 1 when HP <= 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -33,7 +32,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Enemy turn counter change to 1 when HP <= 50%
-  desc_jp: Enemy turn counter change to 1 when HP <= 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -41,7 +39,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns (Preemptive)
   max_atk_pct: null
   name_en: Darkness
   one_time: 0
@@ -49,7 +46,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -57,7 +53,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind 1 random cards for 2 turns, Deal 58% damage
-  desc_jp: Bind 1 random cards for 2 turns, Deal 58% damage
   max_atk_pct: 58
   name_en: Terror
   one_time: 2
@@ -65,7 +60,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -73,7 +67,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Delay active skills by 1~2 turns, Deal 60% damage
-  desc_jp: Delay active skills by 1~2 turns, Deal 60% damage
   max_atk_pct: 60
   name_en: Divest
   one_time: 0
@@ -81,7 +74,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -89,7 +81,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -97,7 +88,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind active skills for 3 turns, Deal 55% damage
-  desc_jp: Bind active skills for 3 turns, Deal 55% damage
   max_atk_pct: 55
   name_en: Nightsnare
   one_time: 0
@@ -105,7 +95,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -113,7 +102,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Delay active skills by 1~2 turns, Deal 60% damage
-  desc_jp: Delay active skills by 1~2 turns, Deal 60% damage
   max_atk_pct: 60
   name_en: Divest
   one_time: 0
@@ -121,7 +109,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Bind 1 random cards for 2 turns, Deal 58% damage
-  desc_jp: Bind 1 random cards for 2 turns, Deal 58% damage
   max_atk_pct: 58
   name_en: Terror
   one_time: 2
@@ -129,7 +116,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -137,7 +123,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -145,7 +130,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 400% for the next 1 turns
-  desc_jp: Increase damage to 400% for the next 1 turns
   max_atk_pct: null
   name_en: Scream of Fury
   one_time: 1
@@ -153,7 +137,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Enemy recover 10% hp + Deal 100% damage
-  desc_jp: Enemy recover 10% hp + Deal 100% damage
   max_atk_pct: null
   name_en: Corrupt + 通常攻撃
   one_time: 0

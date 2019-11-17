@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -25,7 +24,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind Water cards for 2~4 turns
-  desc_jp: Bind Water cards for 2~4 turns
   max_atk_pct: null
   name_en: Water Bind
   one_time: 1
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -41,7 +38,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Water to Wood
-  desc_jp: Change Water to Wood
   max_atk_pct: null
   name_en: 'Ninja Art: Wt to Wd'
   one_time: 0

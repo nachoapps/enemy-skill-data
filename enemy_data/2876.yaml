@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 50%
-  desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Reduce damage from Wood by 50%
-  desc_jp: Reduce damage from Wood by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -41,7 +39,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 50%
-  desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -49,7 +46,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Reduce damage from Wood by 50%
-  desc_jp: Reduce damage from Wood by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -58,7 +54,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 5 turns + Change all orbs to Water, Dark, Heal,
     Deal 130% damage (Preemptive)
-  desc_jp: Voids status ailments for 5 turns + Change all orbs to Water, Dark, Heal,
     Deal 130% damage (Preemptive)
   max_atk_pct: null
   name_en: Let's confirm your wishes + Abyss Dark Ring
@@ -67,7 +62,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -75,7 +69,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Delay active skills by 2 turns, (if [2442, 2443] on team)
-  desc_jp: Delay active skills by 2 turns, (if [2442, 2443] on team)
   max_atk_pct: null
   name_en: Use the Claws's power as you wish
   one_time: 0
@@ -83,7 +76,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Delay active skills by 2 turns
-  desc_jp: Delay active skills by 2 turns
   max_atk_pct: null
   name_en: Wave of Calmness
   one_time: 0
@@ -91,7 +83,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -99,7 +90,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 1st column to Dark orbs, 2nd column to Water orbs, Deal 100% damage
-  desc_jp: Change 1st column to Dark orbs, 2nd column to Water orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Blue Ice Revival
   one_time: 0
@@ -107,7 +97,6 @@ records:
   usage_pct: 40
 - !SkillRecord
   desc_en: Deal 120% damage (4 hits, 30% each)
-  desc_jp: Deal 120% damage (4 hits, 30% each)
   max_atk_pct: 120
   name_en: Abyss Hole
   one_time: 0
@@ -115,7 +104,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Spawn random 8 Water orbs, Deal 100% damage
-  desc_jp: Spawn random 8 Water orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Abyss' Guidance
   one_time: 0
@@ -123,7 +111,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -131,7 +118,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -139,7 +125,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb Water damage for 1 turns + Change Heal to Poison, Deal 50% damage
-  desc_jp: Absorb Water damage for 1 turns + Change Heal to Poison, Deal 50% damage
   max_atk_pct: null
   name_en: Abyssal Shark Dragon's Trial + Chopping Ring of the Deep Sea
   one_time: 0
@@ -147,7 +132,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -155,7 +139,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -163,7 +146,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Enemy recover 55% hp + Increase damage to 200% for the next 999 turns
-  desc_jp: Enemy recover 55% hp + Increase damage to 200% for the next 999 turns
   max_atk_pct: null
   name_en: Conquering Will + Dragonbound's Wrath
   one_time: 1
@@ -172,7 +154,6 @@ records:
 - !SkillRecord
   desc_en: Deal 120% damage (4 hits, 30% each) + Change all orbs to Water, Dark, Heal,
     Deal 130% damage
-  desc_jp: Deal 120% damage (4 hits, 30% each) + Change all orbs to Water, Dark, Heal,
     Deal 130% damage
   max_atk_pct: null
   name_en: Abyss Hole + Abyss Dark Ring

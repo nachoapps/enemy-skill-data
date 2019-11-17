@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Absorb combo <= 4 damage for 10 turns (Preemptive)
-  desc_jp: Absorb combo <= 4 damage for 10 turns (Preemptive)
   max_atk_pct: null
   name_en: Trick or Treat!
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random to Jammer, Deal 100% damage + Do nothing
-  desc_jp: Change Random to Jammer, Deal 100% damage + Do nothing
   max_atk_pct: null
   name_en: Gimme candy! + zzZZZ
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random to Jammer, Deal 150% damage + Do nothing
-  desc_jp: Change Random to Jammer, Deal 150% damage + Do nothing
   max_atk_pct: null
   name_en: More! + zzZZZ
   one_time: 0
@@ -57,7 +52,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -65,7 +59,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Do nothing + Increase damage to 200% for the next 999 turns
-  desc_jp: Do nothing + Increase damage to 200% for the next 999 turns
   max_atk_pct: null
   name_en: Wake up already! + Oops, sorry about that!
   one_time: 1
@@ -73,7 +66,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -81,7 +73,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random to Heal, Deal 100% damage + Spawn random 3 Poison orbs
-  desc_jp: Change Random to Heal, Deal 100% damage + Spawn random 3 Poison orbs
   max_atk_pct: null
   name_en: Take that! + Underworld Glow
   one_time: 0
@@ -89,7 +80,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -97,7 +87,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random to Jammer, Deal 120% damage + Spawn random 3 Poison orbs
-  desc_jp: Change Random to Jammer, Deal 120% damage + Spawn random 3 Poison orbs
   max_atk_pct: null
   name_en: And that! + Underworld Glow
   one_time: 0
@@ -105,7 +94,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
   one_time: null
@@ -114,7 +102,6 @@ records:
 - !SkillRecord
   desc_en: Change Random to Jammer, Deal 120% damage + Spawn random 6 Mortal Poison
     orbs
-  desc_jp: Change Random to Jammer, Deal 120% damage + Spawn random 6 Mortal Poison
     orbs
   max_atk_pct: null
   name_en: And that! + Magic Pumpkin Shot

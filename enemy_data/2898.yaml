@@ -20,7 +20,6 @@ records:
   desc_en: Absorb combo <= 4 damage for 1 turns + Change all orbs to Fire, Water,
     Wood, Light, Dark, Heal + Blind all orbs on the board, (if >=4 combos last turn)
     (Preemptive)
-  desc_jp: Absorb combo <= 4 damage for 1 turns + Change all orbs to Fire, Water,
     Wood, Light, Dark, Heal + Blind all orbs on the board, (if >=4 combos last turn)
     (Preemptive)
   max_atk_pct: null
@@ -30,7 +29,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Player -1000% HP (Preemptive)
-  desc_jp: Player -1000% HP (Preemptive)
   max_atk_pct: null
   name_en: Is that your best? Then begone!
   one_time: 0
@@ -38,7 +36,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Player -1000% HP
-  desc_jp: Player -1000% HP
   max_atk_pct: null
   name_en: Is that your best? Then begone!
   one_time: 0

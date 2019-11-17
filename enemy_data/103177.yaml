@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Bind awoken skills for 5 turns + Change all orbs to Light, Dark, Jammer,
     Deal 130% damage (Preemptive)
-  desc_jp: Bind awoken skills for 5 turns + Change all orbs to Light, Dark, Jammer,
     Deal 130% damage (Preemptive)
   max_atk_pct: null
   name_en: Tiger Snake Roar + Wicked Blue Life Mutation
@@ -27,7 +26,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Bind 1 random cards for 2 turns, Deal 95% damage
-  desc_jp: Bind 1 random cards for 2 turns, Deal 95% damage
   max_atk_pct: 95
   name_en: Strong Dash
   one_time: 0
@@ -35,7 +33,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Delay active skills by 1~2 turns, Deal 100% damage
-  desc_jp: Delay active skills by 1~2 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Snake Fang Assault
   one_time: 0
@@ -43,7 +40,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Deal 112% damage (4 hits, 28% each)
-  desc_jp: Deal 112% damage (4 hits, 28% each)
   max_atk_pct: 112
   name_en: Moonlight Claws
   one_time: 0
@@ -51,7 +47,6 @@ records:
   usage_pct: 34
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -59,7 +54,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -68,7 +62,6 @@ records:
 - !SkillRecord
   desc_en: Seal 5th row for 5 turns + Reduce damage from all sources by 50% for 5
     turns
-  desc_jp: Seal 5th row for 5 turns + Reduce damage from all sources by 50% for 5
     turns
   max_atk_pct: null
   name_en: Ground Drilling + Rolling Up
@@ -77,7 +70,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 15
   one_time: null
@@ -85,7 +77,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -93,7 +84,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change all orbs to Jammer, Deal 150% damage
-  desc_jp: Change all orbs to Jammer, Deal 150% damage
   max_atk_pct: 150
   name_en: Doubly Wicked Menace
   one_time: 1
@@ -101,7 +91,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 600% damage (6 hits, 100% each)
-  desc_jp: Deal 600% damage (6 hits, 100% each)
   max_atk_pct: 600
   name_en: Claw & Fang Double Strike
   one_time: 0

@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Player recover 100% hp (Preemptive)
-  desc_jp: Player recover 100% hp (Preemptive)
   max_atk_pct: null
   name_en: Happy New Year !☆
   one_time: 1
@@ -33,7 +32,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Player recover 100% hp (Preemptive)
-  desc_jp: Player recover 100% hp (Preemptive)
   max_atk_pct: null
   name_en: Happy New Year !☆
   one_time: 1
@@ -41,7 +39,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -49,7 +46,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 3 Heal orbs, (if [1362, 1363, 1364, 1365] on team)
-  desc_jp: Spawn random 3 Heal orbs, (if [1362, 1363, 1364, 1365] on team)
   max_atk_pct: null
   name_en: May thee have a great one!
   one_time: 0
@@ -58,7 +54,6 @@ records:
 - !SkillRecord
   desc_en: Change 1st, 3rd, 5th row to Fire, Water, Wood, Light, Dark, Heal orbs,
     Deal 130% damage
-  desc_jp: Change 1st, 3rd, 5th row to Fire, Water, Wood, Light, Dark, Heal orbs,
     Deal 130% damage
   max_atk_pct: 130
   name_en: Omikuji Blizzard
@@ -67,7 +62,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 150% damage (3 hits, 50% each)
-  desc_jp: Deal 150% damage (3 hits, 50% each)
   max_atk_pct: 150
   name_en: Clay TAMADRA Multi Throw
   one_time: 0
@@ -75,7 +69,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -83,7 +76,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -91,7 +83,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 1st, 6th column to Fire orbs, Deal 130% damage
-  desc_jp: Change 1st, 6th column to Fire orbs, Deal 130% damage
   max_atk_pct: 130
   name_en: Fantastic Yamatai
   one_time: 2
@@ -99,7 +90,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2-3
   one_time: null
@@ -108,7 +98,6 @@ records:
 - !SkillRecord
   desc_en: Change 1st, 3rd, 5th row to Fire, Water, Wood, Light, Dark, Heal orbs,
     Deal 130% damage
-  desc_jp: Change 1st, 3rd, 5th row to Fire, Water, Wood, Light, Dark, Heal orbs,
     Deal 130% damage
   max_atk_pct: 130
   name_en: Omikuji Blizzard
@@ -117,7 +106,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 150% damage (3 hits, 50% each)
-  desc_jp: Deal 150% damage (3 hits, 50% each)
   max_atk_pct: 150
   name_en: Clay TAMADRA Multi Throw
   one_time: 0
@@ -125,7 +113,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -133,7 +120,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -141,7 +127,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 3 Heal orbs, (if [1362, 1363, 1364, 1365] on team)
-  desc_jp: Spawn random 3 Heal orbs, (if [1362, 1363, 1364, 1365] on team)
   max_atk_pct: null
   name_en: May thee have a great one!
   one_time: 0
@@ -149,7 +134,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 1 turns
-  desc_jp: Reduce damage from all sources by 50% for 1 turns
   max_atk_pct: null
   name_en: Power of Magatama
   one_time: 0
@@ -157,7 +141,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -165,7 +148,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -173,7 +155,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Do nothing
-  desc_jp: Do nothing
   max_atk_pct: null
   name_en: okimiH suineG etuC
   one_time: 0
@@ -181,7 +162,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Player -150% HP
-  desc_jp: Player -150% HP
   max_atk_pct: null
   name_en: Huge Clay TAMADRA Press
   one_time: 0

@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Bind Wood cards for 3 turns (Preemptive)
-  desc_jp: Bind Wood cards for 3 turns (Preemptive)
   max_atk_pct: null
   name_en: Flame Cage
   one_time: 2
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Random to Light, Deal 75% damage (Preemptive)
-  desc_jp: Change Random to Light, Deal 75% damage (Preemptive)
   max_atk_pct: 75
   name_en: Lightning Arrow
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Random to Fire, Deal 125% damage
-  desc_jp: Change Random to Fire, Deal 125% damage
   max_atk_pct: 125
   name_en: Sunlight Bullet
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -57,7 +52,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind Devil cards for 3 turns
-  desc_jp: Bind Devil cards for 3 turns
   max_atk_pct: null
   name_en: Shining Lyre
   one_time: 1
@@ -65,7 +59,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Random to Fire, Deal 125% damage
-  desc_jp: Change Random to Fire, Deal 125% damage
   max_atk_pct: 125
   name_en: Sunlight Bullet
   one_time: 0
@@ -73,7 +66,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
   one_time: null
@@ -81,7 +73,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -89,7 +80,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind Devil cards for 3 turns
-  desc_jp: Bind Devil cards for 3 turns
   max_atk_pct: null
   name_en: Shining Lyre
   one_time: 1
@@ -97,7 +87,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Do nothing
-  desc_jp: Do nothing
   max_atk_pct: null
   name_en: Burn to ashes
   one_time: 0
@@ -105,7 +94,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 1000% damage
-  desc_jp: Deal 1000% damage
   max_atk_pct: 1000
   name_en: Grand Sun
   one_time: 0

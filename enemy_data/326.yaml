@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Change Random to Water (Preemptive)
-  desc_jp: Change Random to Water (Preemptive)
   max_atk_pct: null
   name_en: Water Dragon's Howl
   one_time: 1
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 1000% damage
-  desc_jp: Deal 1000% damage
   max_atk_pct: 1000
   name_en: Crunch
   one_time: 0

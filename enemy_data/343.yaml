@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Deal 125% damage
-  desc_jp: Deal 125% damage
   max_atk_pct: 125
   name_en: Fire Blast
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 100%~250% damage (2~5 hits, 50% each)
-  desc_jp: Deal 100%~250% damage (2~5 hits, 50% each)
   max_atk_pct: 250
   name_en: Burn Baby Burn!
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 60
 - !SkillRecord
   desc_en: Deal 125% damage
-  desc_jp: Deal 125% damage
   max_atk_pct: 125
   name_en: Fire Blast
   one_time: 0

@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Change Random to Jammer, Deal 100% damage
-  desc_jp: Change Random to Jammer, Deal 100% damage
   max_atk_pct: 100
   name_en: Gale
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Spawn random 4 Wood orbs, Deal 100% damage
-  desc_jp: Spawn random 4 Wood orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Earth Breath
   one_time: 0

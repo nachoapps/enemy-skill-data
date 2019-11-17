@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Do nothing + Do nothing (Preemptive)
-  desc_jp: Do nothing + Do nothing (Preemptive)
   max_atk_pct: null
   name_en: 'Neither of us has any reason
 
@@ -36,7 +35,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Change 1st, 6th column to Fire orbs
     (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Change 1st, 6th column to Fire orbs
     (Preemptive)
   max_atk_pct: null
   name_en: 'Neither of us has any reason
@@ -47,7 +45,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -55,7 +52,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 3 Fire orbs, Deal 100% damage
-  desc_jp: Spawn random 3 Fire orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: The First Secret Blow, "Homura Dama"!!
   one_time: 0
@@ -63,7 +59,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -71,7 +66,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -79,7 +73,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 3 Fire orbs + Change 3rd row to Fire orbs, Deal 120% damage
-  desc_jp: Spawn random 3 Fire orbs + Change 3rd row to Fire orbs, Deal 120% damage
   max_atk_pct: null
   name_en: Shaaaah!! + Shaaah!!
   one_time: 1
@@ -87,7 +80,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -95,7 +87,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 100% damage
-  desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: Hyohh!!!
   one_time: 0
@@ -103,7 +94,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -111,7 +101,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -120,7 +109,6 @@ records:
 - !SkillRecord
   desc_en: Bind active skills for 1 turns + Reduce damage from all sources by 30%
     for 2 turns
-  desc_jp: Bind active skills for 1 turns + Reduce damage from all sources by 30%
     for 2 turns
   max_atk_pct: null
   name_en: In this world, the strong live... + ...and the weak die.
@@ -129,7 +117,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 150% damage (3 hits, 50% each)
-  desc_jp: Deal 150% damage (3 hits, 50% each)
   max_atk_pct: 150
   name_en: One way or another, you will fall!
   one_time: 0
@@ -137,7 +124,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
   one_time: null
@@ -145,7 +131,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -153,7 +138,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random to Fire, Deal 180% damage
-  desc_jp: Change Random to Fire, Deal 180% damage
   max_atk_pct: 180
   name_en: The Second Secret, "Guren Kaina"!!
   one_time: 0
@@ -161,7 +145,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 140%~210% damage (2~3 hits, 70% each)
-  desc_jp: Deal 140%~210% damage (2~3 hits, 70% each)
   max_atk_pct: 210
   name_en: Hyohh!!!
   one_time: 0

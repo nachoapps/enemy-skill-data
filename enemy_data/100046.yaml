@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Heal skyfall +25% for 10 turns + Reduce self HP to 0 (Preemptive)
-  desc_jp: Heal skyfall +25% for 10 turns + Reduce self HP to 0 (Preemptive)
   max_atk_pct: null
   name_en: Eep! + Athenaaaaaa!
   one_time: 0

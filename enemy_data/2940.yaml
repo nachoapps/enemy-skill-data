@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Delay active skills by 5 turns + Absorb combo <= 5 damage for 10 turns
     (Preemptive)
-  desc_jp: Delay active skills by 5 turns + Absorb combo <= 5 damage for 10 turns
     (Preemptive)
   max_atk_pct: null
   name_en: Giant Whale's Sea Spray + Twinkle Blue
@@ -27,7 +26,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 150% damage (3 hits, 50% each)
-  desc_jp: Deal 150% damage (3 hits, 50% each)
   max_atk_pct: 150
   name_en: Tempest
   one_time: 0
@@ -35,7 +33,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 130% damage
-  desc_jp: Blind all orbs on the board, Deal 130% damage
   max_atk_pct: 130
   name_en: Swallowing Whole!
   one_time: 0
@@ -43,7 +40,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Movetime 50% for 1 turns, Deal 140% damage
-  desc_jp: Movetime 50% for 1 turns, Deal 140% damage
   max_atk_pct: 140
   name_en: Dazzler Splash
   one_time: 1
@@ -51,7 +47,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Spawn random 3 Water orbs, Deal 130% damage
-  desc_jp: Spawn random 3 Water orbs, Deal 130% damage
   max_atk_pct: 130
   name_en: Tail Slap
   one_time: 0
@@ -59,7 +54,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 70
   one_time: null
@@ -67,7 +61,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -75,7 +68,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 250% for the next attack
-  desc_jp: Increase damage to 250% for the next attack
   max_atk_pct: null
   name_en: Breaching
   one_time: 0
@@ -83,7 +75,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -91,7 +82,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -99,7 +89,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -99% HP
-  desc_jp: Player -99% HP
   max_atk_pct: null
   name_en: Skimming
   one_time: 0
@@ -107,7 +96,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 15
   one_time: null
@@ -115,7 +103,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 3rd, 4th column to Water orbs, Deal 750% damage
-  desc_jp: Change 3rd, 4th column to Water orbs, Deal 750% damage
   max_atk_pct: 750
   name_en: Hydro Cannon
   one_time: 0

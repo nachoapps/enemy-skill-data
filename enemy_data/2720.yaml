@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Absorb damage >= 2000000 damage for
     999 turns + Deal 400% damage (4 hits, 100% each) (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Absorb damage >= 2000000 damage for
     999 turns + Deal 400% damage (4 hits, 100% each) (Preemptive)
   max_atk_pct: null
   name_en: Black Body + Dark Ball + Darkdragon's Baptism
@@ -27,7 +26,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -35,7 +33,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Do nothing + Player recover 100% hp
-  desc_jp: Do nothing + Player recover 100% hp
   max_atk_pct: null
   name_en: Summon Vinus + Breath of Compassion
   one_time: 512
@@ -43,7 +40,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -51,7 +47,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 1000% damage (2 hits, 500% each)
-  desc_jp: Deal 1000% damage (2 hits, 500% each)
   max_atk_pct: 1000
   name_en: Brilliant World
   one_time: 256
@@ -59,7 +54,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -67,7 +61,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Do nothing + Player recover 100% hp
-  desc_jp: Do nothing + Player recover 100% hp
   max_atk_pct: null
   name_en: Summon Mineva + Breath of Compassion
   one_time: 128
@@ -75,7 +68,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -83,7 +75,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 1250% damage (5 hits, 250% each)
-  desc_jp: Deal 1250% damage (5 hits, 250% each)
   max_atk_pct: 1250
   name_en: Celestial Prison's Scorching Heat
   one_time: 64
@@ -91,7 +82,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
   one_time: null
@@ -99,7 +89,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Do nothing + Player recover 100% hp
-  desc_jp: Do nothing + Player recover 100% hp
   max_atk_pct: null
   name_en: Summon Seres + Breath of Compassion
   one_time: 32
@@ -107,7 +96,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6
   one_time: null
@@ -115,7 +103,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 1500% damage (3 hits, 500% each)
-  desc_jp: Deal 1500% damage (3 hits, 500% each)
   max_atk_pct: 1500
   name_en: Soul Burst
   one_time: 16
@@ -123,7 +110,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 7
   one_time: null
@@ -131,7 +117,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Do nothing + Player recover 100% hp
-  desc_jp: Do nothing + Player recover 100% hp
   max_atk_pct: null
   name_en: Summon Neptunus + Breath of Compassion
   one_time: 8
@@ -139,7 +124,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 8
   one_time: null
@@ -147,7 +131,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 1760% damage (4 hits, 440% each)
-  desc_jp: Deal 1760% damage (4 hits, 440% each)
   max_atk_pct: 1760
   name_en: Abysstrom
   one_time: 4
@@ -155,7 +138,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 9
   one_time: null
@@ -163,7 +145,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Do nothing + Player recover 100% hp
-  desc_jp: Do nothing + Player recover 100% hp
   max_atk_pct: null
   name_en: Summon Ades + Breath of Compassion
   one_time: 2
@@ -171,7 +152,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 10
   one_time: null
@@ -179,7 +159,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 2100% damage (6 hits, 350% each)
-  desc_jp: Deal 2100% damage (6 hits, 350% each)
   max_atk_pct: 2100
   name_en: Death Scythe
   one_time: 1
@@ -187,7 +166,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -195,7 +173,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -203,7 +180,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Do nothing
-  desc_jp: Do nothing
   max_atk_pct: null
   name_en: Gathering Magical Power
   one_time: 0
@@ -211,7 +187,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -219,7 +194,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Voids player buff effects + Deal 3000% damage (10 hits, 300% each)
-  desc_jp: Voids player buff effects + Deal 3000% damage (10 hits, 300% each)
   max_atk_pct: null
   name_en: Dark Eyes + Ultra Graviton Breath
   one_time: 0

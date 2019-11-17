@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Do nothing
-  desc_jp: Do nothing
   max_atk_pct: null
   name_en: Bouncing Merrily!
   one_time: 0
@@ -33,7 +32,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Do nothing
-  desc_jp: Do nothing
   max_atk_pct: null
   name_en: Bouncing Merrily!
   one_time: 0
@@ -41,7 +39,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: Change Wood to Water
-  desc_jp: Change Wood to Water
   max_atk_pct: null
   name_en: Blueberry Drop!
   one_time: 0
@@ -49,7 +46,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: Change Water to Fire
-  desc_jp: Change Water to Fire
   max_atk_pct: null
   name_en: Strawberry Drop!
   one_time: 0
@@ -57,7 +53,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
   one_time: null
@@ -65,7 +60,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 150% damage
-  desc_jp: Deal 150% damage
   max_atk_pct: 150
   name_en: Jump Attack!
   one_time: 0
@@ -73,7 +67,6 @@ records:
   usage_pct: 70
 - !SkillRecord
   desc_en: Do nothing
-  desc_jp: Do nothing
   max_atk_pct: null
   name_en: Bouncing Merrily!
   one_time: 0
@@ -81,7 +74,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: Change Wood to Water
-  desc_jp: Change Wood to Water
   max_atk_pct: null
   name_en: Blueberry Drop!
   one_time: 0
@@ -89,7 +81,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: Change Water to Fire
-  desc_jp: Change Water to Fire
   max_atk_pct: null
   name_en: Strawberry Drop!
   one_time: 0

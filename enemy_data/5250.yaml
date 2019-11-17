@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Absorb combo <= 5 damage for 10 turns (Preemptive)
-  desc_jp: Absorb combo <= 5 damage for 10 turns (Preemptive)
   max_atk_pct: null
   name_en: Weaklings.
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 105% damage (3 hits, 35% each)
-  desc_jp: Deal 105% damage (3 hits, 35% each)
   max_atk_pct: 105
   name_en: I'll destroy you next.
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Spawn random 4 Fire, Dark orbs, Deal 95% damage
-  desc_jp: Spawn random 4 Fire, Dark orbs, Deal 95% damage
   max_atk_pct: 95
   name_en: I've already been to hell. Boring...
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -57,7 +52,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -99% HP
-  desc_jp: Player -99% HP
   max_atk_pct: null
   name_en: The rest of you can live a little longer.
   one_time: 0
@@ -65,7 +59,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 15
   one_time: null
@@ -73,7 +66,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Delay active skills by 1~3 turns + Change Random to Jammer, Deal 200% damage
-  desc_jp: Delay active skills by 1~3 turns + Change Random to Jammer, Deal 200% damage
   max_atk_pct: null
   name_en: It's a feast. + Spirit of Fire
   one_time: 0

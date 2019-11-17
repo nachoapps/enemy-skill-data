@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from Healer, Machine by 50%
-  desc_jp: Reduce damage from Healer, Machine by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -26,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Absorb damage >= 3000000 damage for
     3 turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Absorb damage >= 3000000 damage for
     3 turns (Preemptive)
   max_atk_pct: null
   name_en: Good morning! + Divine Dawn Light
@@ -35,7 +33,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -44,7 +41,6 @@ records:
 - !SkillRecord
   desc_en: Seal 1st column for 1 turns + Change 6th column to Heal, Jammer orbs, Deal
     120% damage
-  desc_jp: Seal 1st column for 1 turns + Change 6th column to Heal, Jammer orbs, Deal
     120% damage
   max_atk_pct: null
   name_en: Rolling, rolling, rolling ♪ + Eat this!
@@ -53,7 +49,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -61,7 +56,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change all orbs to Poison, Deal 130% damage
-  desc_jp: Change all orbs to Poison, Deal 130% damage
   max_atk_pct: 130
   name_en: Drops from Heaven
   one_time: 128
@@ -69,7 +63,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 130% damage
-  desc_jp: Blind all orbs on the board, Deal 130% damage
   max_atk_pct: 130
   name_en: Holy Rays of the Sun
   one_time: 128
@@ -77,7 +70,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -85,7 +77,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind awoken skills for 3 turns
-  desc_jp: Bind awoken skills for 3 turns
   max_atk_pct: null
   name_en: Scarab's Heavenly Wings
   one_time: 64
@@ -94,7 +85,6 @@ records:
 - !SkillRecord
   desc_en: Seal 1st row for 1 turns + Change 5th row to Heal, Jammer orbs, Deal 120%
     damage
-  desc_jp: Seal 1st row for 1 turns + Change 5th row to Heal, Jammer orbs, Deal 120%
     damage
   max_atk_pct: null
   name_en: Eeny, meeny, miny, moe♪ + Eat this!
@@ -103,7 +93,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -112,7 +101,6 @@ records:
 - !SkillRecord
   desc_en: Seal 1st row for 1 turns + Change 5th row to Heal, Jammer orbs, Deal 120%
     damage
-  desc_jp: Seal 1st row for 1 turns + Change 5th row to Heal, Jammer orbs, Deal 120%
     damage
   max_atk_pct: null
   name_en: Eeny, meeny, miny, moe♪ + Eat this!
@@ -121,7 +109,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
   one_time: null
@@ -129,7 +116,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change all orbs to Poison, Deal 140% damage
-  desc_jp: Change all orbs to Poison, Deal 140% damage
   max_atk_pct: 140
   name_en: Drops from Heaven
   one_time: 16
@@ -137,7 +123,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 140% damage
-  desc_jp: Blind all orbs on the board, Deal 140% damage
   max_atk_pct: 140
   name_en: Holy Rays of the Sun
   one_time: 16
@@ -145,7 +130,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6
   one_time: null
@@ -153,7 +137,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 3 turns
-  desc_jp: Reduce damage from all sources by 50% for 3 turns
   max_atk_pct: null
   name_en: Ash-Shams Cloak
   one_time: 8
@@ -161,7 +144,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 7
   one_time: null
@@ -170,7 +152,6 @@ records:
 - !SkillRecord
   desc_en: Seal 6th column for 1 turns + Change 1st column to Heal, Jammer orbs, Deal
     120% damage
-  desc_jp: Seal 6th column for 1 turns + Change 1st column to Heal, Jammer orbs, Deal
     120% damage
   max_atk_pct: null
   name_en: Rolling, rolling, rolling, rolling ♪ + Eat this!
@@ -179,7 +160,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 8
   one_time: null
@@ -187,7 +167,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change all orbs to Poison, Deal 150% damage
-  desc_jp: Change all orbs to Poison, Deal 150% damage
   max_atk_pct: 150
   name_en: Drops from Heaven
   one_time: 2
@@ -195,7 +174,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 150% damage
-  desc_jp: Blind all orbs on the board, Deal 150% damage
   max_atk_pct: 150
   name_en: Holy Rays of the Sun
   one_time: 2
@@ -203,7 +181,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 9
   one_time: null
@@ -211,7 +188,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb combo <= 5 damage for 1 turns
-  desc_jp: Absorb combo <= 5 damage for 1 turns
   max_atk_pct: null
   name_en: Here we go!
   one_time: 1
@@ -219,7 +195,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -227,7 +202,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 2500% damage (5 hits, 500% each)
-  desc_jp: Deal 2500% damage (5 hits, 500% each)
   max_atk_pct: 2500
   name_en: Morning Glow Comet
   one_time: 0
@@ -243,7 +217,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from Healer, Machine by 50%
-  desc_jp: Reduce damage from Healer, Machine by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -252,7 +225,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Absorb damage >= 3000000 damage for
     3 turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Absorb damage >= 3000000 damage for
     3 turns (Preemptive)
   max_atk_pct: null
   name_en: Good morning! + Divine Dawn Light
@@ -261,7 +233,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -270,7 +241,6 @@ records:
 - !SkillRecord
   desc_en: Seal 1st column for 1 turns + Change 6th column to Heal, Jammer orbs, Deal
     120% damage
-  desc_jp: Seal 1st column for 1 turns + Change 6th column to Heal, Jammer orbs, Deal
     120% damage
   max_atk_pct: null
   name_en: Rolling, rolling, rolling ♪ + Eat this!
@@ -279,7 +249,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -287,7 +256,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change all orbs to Poison, Deal 130% damage
-  desc_jp: Change all orbs to Poison, Deal 130% damage
   max_atk_pct: 130
   name_en: Drops from Heaven
   one_time: 128
@@ -295,7 +263,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 130% damage
-  desc_jp: Blind all orbs on the board, Deal 130% damage
   max_atk_pct: 130
   name_en: Holy Rays of the Sun
   one_time: 128
@@ -303,7 +270,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -311,7 +277,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind awoken skills for 3 turns
-  desc_jp: Bind awoken skills for 3 turns
   max_atk_pct: null
   name_en: Scarab's Heavenly Wings
   one_time: 64
@@ -320,7 +285,6 @@ records:
 - !SkillRecord
   desc_en: Seal 1st row for 1 turns + Change 5th row to Heal, Jammer orbs, Deal 120%
     damage
-  desc_jp: Seal 1st row for 1 turns + Change 5th row to Heal, Jammer orbs, Deal 120%
     damage
   max_atk_pct: null
   name_en: Eeny, meeny, miny, moe♪ + Eat this!
@@ -329,7 +293,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -338,7 +301,6 @@ records:
 - !SkillRecord
   desc_en: Seal 1st row for 1 turns + Change 5th row to Heal, Jammer orbs, Deal 120%
     damage
-  desc_jp: Seal 1st row for 1 turns + Change 5th row to Heal, Jammer orbs, Deal 120%
     damage
   max_atk_pct: null
   name_en: Eeny, meeny, miny, moe♪ + Eat this!
@@ -347,7 +309,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
   one_time: null
@@ -355,7 +316,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change all orbs to Poison, Deal 140% damage
-  desc_jp: Change all orbs to Poison, Deal 140% damage
   max_atk_pct: 140
   name_en: Drops from Heaven
   one_time: 16
@@ -363,7 +323,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 140% damage
-  desc_jp: Blind all orbs on the board, Deal 140% damage
   max_atk_pct: 140
   name_en: Holy Rays of the Sun
   one_time: 16
@@ -371,7 +330,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6
   one_time: null
@@ -379,7 +337,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 3 turns
-  desc_jp: Reduce damage from all sources by 75% for 3 turns
   max_atk_pct: null
   name_en: Ash-Shams Divine Cloak
   one_time: 8
@@ -387,7 +344,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 7
   one_time: null
@@ -396,7 +352,6 @@ records:
 - !SkillRecord
   desc_en: Seal 6th column for 1 turns + Change 1st column to Heal, Jammer orbs, Deal
     120% damage
-  desc_jp: Seal 6th column for 1 turns + Change 1st column to Heal, Jammer orbs, Deal
     120% damage
   max_atk_pct: null
   name_en: Rolling, rolling, rolling, rolling ♪ + Eat this!
@@ -405,7 +360,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 8
   one_time: null
@@ -413,7 +367,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change all orbs to Poison, Deal 150% damage
-  desc_jp: Change all orbs to Poison, Deal 150% damage
   max_atk_pct: 150
   name_en: Drops from Heaven
   one_time: 2
@@ -421,7 +374,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 150% damage
-  desc_jp: Blind all orbs on the board, Deal 150% damage
   max_atk_pct: 150
   name_en: Holy Rays of the Sun
   one_time: 2
@@ -429,7 +381,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 9
   one_time: null
@@ -437,7 +388,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb combo <= 5 damage for 1 turns
-  desc_jp: Absorb combo <= 5 damage for 1 turns
   max_atk_pct: null
   name_en: Here we go!
   one_time: 1
@@ -445,7 +395,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -453,7 +402,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 2500% damage (5 hits, 500% each)
-  desc_jp: Deal 2500% damage (5 hits, 500% each)
   max_atk_pct: 2500
   name_en: Morning Glow Comet
   one_time: 0

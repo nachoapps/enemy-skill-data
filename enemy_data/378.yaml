@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Player -50% HP (Preemptive)
-  desc_jp: Player -50% HP (Preemptive)
   max_atk_pct: null
   name_en: HP Slicer
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Player -50% HP
-  desc_jp: Player -50% HP
   max_atk_pct: null
   name_en: HP Slicer
   one_time: 0

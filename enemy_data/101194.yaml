@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from God, Machine by 50%
-  desc_jp: Reduce damage from God, Machine by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -33,7 +32,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from God, Machine by 50%
-  desc_jp: Reduce damage from God, Machine by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -41,7 +39,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Bind awoken skills for 3 turns + Bind 1 both leaders for 3 turns (Preemptive)
-  desc_jp: Bind awoken skills for 3 turns + Bind 1 both leaders for 3 turns (Preemptive)
   max_atk_pct: null
   name_en: 'Who?! + Ninja Flash: Thunderbind'
   one_time: 0
@@ -49,7 +46,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -58,7 +54,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 2 turns + Reduce damage from all sources by 50%
     for 2 turns
-  desc_jp: Voids status ailments for 2 turns + Reduce damage from all sources by 50%
     for 2 turns
   max_atk_pct: null
   name_en: I won't let you do that! + Now is the time for endurance
@@ -67,7 +62,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -75,7 +69,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -83,7 +76,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 500% for the next 1 turns
-  desc_jp: Increase damage to 500% for the next 1 turns
   max_atk_pct: null
   name_en: The Purpose of Physical Training
   one_time: 1
@@ -91,7 +83,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -99,7 +90,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 84% damage (4 hits, 21% each)
-  desc_jp: Deal 84% damage (4 hits, 21% each)
   max_atk_pct: 84
   name_en: Thunderblade Dominance
   one_time: 0

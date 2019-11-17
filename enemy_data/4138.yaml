@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from Fire, Water by 50%
-  desc_jp: Reduce damage from Fire, Water by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -33,7 +32,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from Fire, Water by 50%
-  desc_jp: Reduce damage from Fire, Water by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -42,7 +40,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 5 turns + Bind 6 random cards
     for 1 turns (Preemptive)
-  desc_jp: Reduce damage from all sources by 50% for 5 turns + Bind 6 random cards
     for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: Extinction Dragon's Force + Roar
@@ -51,7 +48,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -59,7 +55,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 3rd row to Jammer orbs, Deal 80% damage
-  desc_jp: Change 3rd row to Jammer orbs, Deal 80% damage
   max_atk_pct: 80
   name_en: Spread Wing Attack
   one_time: 1
@@ -67,7 +62,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -75,7 +69,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 70% damage
-  desc_jp: Deal 70% damage
   max_atk_pct: 70
   name_en: Heavy Slam
   one_time: 0
@@ -83,7 +76,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 90% damage
-  desc_jp: Deal 90% damage
   max_atk_pct: 90
   name_en: Headbutt
   one_time: 0
@@ -91,7 +83,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 75
   one_time: null
@@ -99,7 +90,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -107,7 +97,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 3 turns
-  desc_jp: Increase damage to 150% for the next 3 turns
   max_atk_pct: null
   name_en: Destruction Impulse
   one_time: 0
@@ -115,7 +104,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -123,7 +111,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 70% damage + Seal 1st row for 4 turns
-  desc_jp: Deal 70% damage + Seal 1st row for 4 turns
   max_atk_pct: null
   name_en: Tail Scythe + Annihilation Spike Whirl
   one_time: 0
@@ -131,7 +118,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -139,7 +125,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Delay active skills by 1 turns, Deal 90% damage
-  desc_jp: Delay active skills by 1 turns, Deal 90% damage
   max_atk_pct: 90
   name_en: Foreleg Uppercut
   one_time: 0
@@ -147,7 +132,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 4
   one_time: null
@@ -155,7 +139,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -50% HP + Deal 60% damage (2 hits, 30% each)
-  desc_jp: Player -50% HP + Deal 60% damage (2 hits, 30% each)
   max_atk_pct: null
   name_en: Head Strike + Spike Shot
   one_time: 0
@@ -163,7 +146,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -171,7 +153,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -179,7 +160,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind awoken skills for 1 turns + Change Light to Jammer, Deal 110% damage
-  desc_jp: Bind awoken skills for 1 turns + Change Light to Jammer, Deal 110% damage
   max_atk_pct: null
   name_en: Roar + Pounce Attack
   one_time: 1
@@ -188,7 +168,6 @@ records:
 - !SkillRecord
   desc_en: Change Fire to Jammer, Deal 90% damage + Bind 1 own leader for 1 turns,
     Deal 30% damage
-  desc_jp: Change Fire to Jammer, Deal 90% damage + Bind 1 own leader for 1 turns,
     Deal 30% damage
   max_atk_pct: null
   name_en: Tail Strike + Binding Attack
@@ -197,7 +176,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -205,7 +183,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Enemy recover 10% hp + Deal 130% damage
-  desc_jp: Enemy recover 10% hp + Deal 130% damage
   max_atk_pct: null
   name_en: Spike Regeneration + Annihilation Fist
   one_time: 0
@@ -213,7 +190,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
   one_time: null
@@ -221,7 +197,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 600% damage (3 hits, 200% each)
-  desc_jp: Deal 600% damage (3 hits, 200% each)
   max_atk_pct: 600
   name_en: Aerial Annihilation Spike Whirl
   one_time: 0

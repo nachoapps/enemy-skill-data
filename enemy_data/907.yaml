@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Player recover 100% hp (Preemptive)
-  desc_jp: Player recover 100% hp (Preemptive)
   max_atk_pct: null
   name_en: Chivalric Spirit
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Random to Water, Deal 80% damage
-  desc_jp: Change Random to Water, Deal 80% damage
   max_atk_pct: 80
   name_en: Ice Force
   one_time: 1
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 25
   one_time: null
@@ -41,7 +38,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random to Water, Deal 125% damage
-  desc_jp: Change Random to Water, Deal 125% damage
   max_atk_pct: 125
   name_en: Ocean Spear
   one_time: 0

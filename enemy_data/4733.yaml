@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 50%
-  desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -26,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Unable to match Heal orbs for 1 turns
     (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Unable to match Heal orbs for 1 turns
     (Preemptive)
   max_atk_pct: null
   name_en: Flowing Green Scales + Extermination of Life
@@ -36,7 +34,6 @@ records:
 - !SkillRecord
   desc_en: Void damage >= 15000000 for 1 turns + Seal 1st row for 1 turns, Deal 100%
     damage
-  desc_jp: Void damage >= 15000000 for 1 turns + Seal 1st row for 1 turns, Deal 100%
     damage
   max_atk_pct: null
   name_en: Longing for Life + Demonic Region
@@ -46,7 +43,6 @@ records:
 - !SkillRecord
   desc_en: Absorb damage >= 20000000 damage for 1 turns + Water, Wood skyfall +20%
     for 1 turns, Deal 105% damage
-  desc_jp: Absorb damage >= 20000000 damage for 1 turns + Water, Wood skyfall +20%
     for 1 turns, Deal 105% damage
   max_atk_pct: null
   name_en: Starvation + Meteor Shower
@@ -55,7 +51,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Absorb Fire damage for 1 turns + Change Random to Fire, Deal 102% damage
-  desc_jp: Absorb Fire damage for 1 turns + Change Random to Fire, Deal 102% damage
   max_atk_pct: null
   name_en: Scaly Transformation + Required Force
   one_time: 0
@@ -63,7 +58,6 @@ records:
   usage_pct: 4
 - !SkillRecord
   desc_en: Absorb Water damage for 1 turns + Change Random to Water, Deal 102% damage
-  desc_jp: Absorb Water damage for 1 turns + Change Random to Water, Deal 102% damage
   max_atk_pct: null
   name_en: Scaly Transformation + Required Force
   one_time: 0
@@ -71,7 +65,6 @@ records:
   usage_pct: 4
 - !SkillRecord
   desc_en: Absorb Wood damage for 1 turns + Change Random to Wood, Deal 102% damage
-  desc_jp: Absorb Wood damage for 1 turns + Change Random to Wood, Deal 102% damage
   max_atk_pct: null
   name_en: Scaly Transformation + Required Force
   one_time: 0
@@ -79,7 +72,6 @@ records:
   usage_pct: 4
 - !SkillRecord
   desc_en: Absorb Light damage for 1 turns + Change Random to Light, Deal 102% damage
-  desc_jp: Absorb Light damage for 1 turns + Change Random to Light, Deal 102% damage
   max_atk_pct: null
   name_en: Scaly Transformation + Required Force
   one_time: 0
@@ -87,7 +79,6 @@ records:
   usage_pct: 4
 - !SkillRecord
   desc_en: Absorb Dark damage for 1 turns + Change Random to Dark, Deal 102% damage
-  desc_jp: Absorb Dark damage for 1 turns + Change Random to Dark, Deal 102% damage
   max_atk_pct: null
   name_en: Scaly Transformation + Required Force
   one_time: 0
@@ -96,7 +87,6 @@ records:
 - !SkillRecord
   desc_en: Absorb combo <= 8 damage for 1 turns + Row of cloud appear for 1 turns
     at random location, Deal 100% damage
-  desc_jp: Absorb combo <= 8 damage for 1 turns + Row of cloud appear for 1 turns
     at random location, Deal 100% damage
   max_atk_pct: null
   name_en: Withering Hope + Clouds of Yonder
@@ -106,7 +96,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 1 turns + Change all orbs to
     Heal, Deal 150% damage
-  desc_jp: Reduce damage from all sources by 75% for 1 turns + Change all orbs to
     Heal, Deal 150% damage
   max_atk_pct: null
   name_en: Encasing Strongscales + Rapids of Life
@@ -115,7 +104,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -123,7 +111,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -131,7 +118,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -99% HP + Delay active skills by 7 turns
-  desc_jp: Player -99% HP + Delay active skills by 7 turns
   max_atk_pct: null
   name_en: Life Constricting + Glint of Despair
   one_time: 0
@@ -139,7 +125,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -147,7 +132,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -156,7 +140,6 @@ records:
 - !SkillRecord
   desc_en: Bind awoken skills for 1 turns + Specific orbs change every 1.0s for 1
     turns
-  desc_jp: Bind awoken skills for 1 turns + Specific orbs change every 1.0s for 1
     turns
   max_atk_pct: null
   name_en: Crimson Snake Eyes + Groans of the Dancing Frenzy
@@ -166,7 +149,6 @@ records:
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Water, Wood, Light, Dark +
     Deal 1200% damage (4 hits, 300% each)
-  desc_jp: Change own attribute to random one of Fire, Water, Wood, Light, Dark +
     Deal 1200% damage (4 hits, 300% each)
   max_atk_pct: null
   name_en: Morph Scales + Frenzy of Absolute Power
@@ -175,7 +157,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Enemy is defeated
   one_time: null
@@ -183,7 +164,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Enemy recover 100% hp + Leader changes to random sub for 3 turns
-  desc_jp: Enemy recover 100% hp + Leader changes to random sub for 3 turns
   max_atk_pct: null
   name_en: Blessed Rain + Rondo of Life and Death
   one_time: 0

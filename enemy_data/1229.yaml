@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Bind 1 random cards for 3 turns (Preemptive)
-  desc_jp: Bind 1 random cards for 3 turns (Preemptive)
   max_atk_pct: null
   name_en: Pure Smile
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Random to Dark, Deal 90% damage
-  desc_jp: Change Random to Dark, Deal 90% damage
   max_atk_pct: 90
   name_en: Magic Spear Gungnir-TAMA!
   one_time: 1

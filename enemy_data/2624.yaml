@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: On death
   one_time: null
@@ -25,7 +24,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Heal skyfall +20% for 99 turns
-  desc_jp: Heal skyfall +20% for 99 turns
   max_atk_pct: null
   name_en: ま まだだ！
   one_time: 0
@@ -41,7 +39,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Bind 4 random subs for 1 turns (Preemptive)
-  desc_jp: Bind 4 random subs for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: オレにまかせてくれ
   one_time: 0
@@ -49,7 +46,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -57,7 +53,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player recover 100% hp, (if [2601, 2602] on team)
-  desc_jp: Player recover 100% hp, (if [2601, 2602] on team)
   max_atk_pct: null
   name_en: てめーとは後でゆっくり遊んでやる
   one_time: 0
@@ -65,7 +60,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Heal to Fire, Deal 150% damage
-  desc_jp: Change Heal to Fire, Deal 150% damage
   max_atk_pct: 150
   name_en: バカが
   one_time: 0
@@ -73,7 +67,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Spawn random 4 Fire orbs, Deal 150% damage
-  desc_jp: Spawn random 4 Fire orbs, Deal 150% damage
   max_atk_pct: 150
   name_en: バカが
   one_time: 0
@@ -81,7 +74,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -89,7 +81,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -97,7 +88,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -99% HP
-  desc_jp: Player -99% HP
   max_atk_pct: null
   name_en: いくぞ
   one_time: 0
@@ -105,7 +95,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -113,7 +102,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Heal to Fire, Deal 150% damage
-  desc_jp: Change Heal to Fire, Deal 150% damage
   max_atk_pct: 150
   name_en: バカが
   one_time: 0
@@ -121,7 +109,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Spawn random 4 Fire orbs, Deal 150% damage
-  desc_jp: Spawn random 4 Fire orbs, Deal 150% damage
   max_atk_pct: 150
   name_en: バカが
   one_time: 0
@@ -129,7 +116,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 90
   one_time: null
@@ -137,7 +123,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -145,7 +130,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player recover 100% hp, (if [2601, 2602] on team)
-  desc_jp: Player recover 100% hp, (if [2601, 2602] on team)
   max_atk_pct: null
   name_en: てめーとは後でゆっくり遊んでやる
   one_time: 0
@@ -153,7 +137,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Fire skyfall +15% for 99 turns
-  desc_jp: Fire skyfall +15% for 99 turns
   max_atk_pct: null
   name_en: コノヤロー
   one_time: 1
@@ -161,7 +144,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -169,7 +151,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Heal to Fire, Deal 150% damage
-  desc_jp: Change Heal to Fire, Deal 150% damage
   max_atk_pct: 150
   name_en: バカが
   one_time: 0
@@ -177,7 +158,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Spawn random 4 Fire orbs, Deal 150% damage
-  desc_jp: Spawn random 4 Fire orbs, Deal 150% damage
   max_atk_pct: 150
   name_en: バカが
   one_time: 0
@@ -185,7 +165,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -193,7 +172,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -99% HP
-  desc_jp: Player -99% HP
   max_atk_pct: null
   name_en: いくぞ
   one_time: 0
@@ -201,7 +179,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
   one_time: null
@@ -209,7 +186,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -217,7 +193,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player recover 100% hp, (if [2601, 2602] on team)
-  desc_jp: Player recover 100% hp, (if [2601, 2602] on team)
   max_atk_pct: null
   name_en: てめーとは後でゆっくり遊んでやる
   one_time: 0
@@ -225,7 +200,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Increase damage to 400% for the next 99 turns
-  desc_jp: Increase damage to 400% for the next 99 turns
   max_atk_pct: null
   name_en: もうちょっとつき合えや
   one_time: 0
@@ -233,7 +207,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: On death
   one_time: null
@@ -241,7 +214,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Heal skyfall +20% for 99 turns
-  desc_jp: Heal skyfall +20% for 99 turns
   max_atk_pct: null
   name_en: ま まだだ！
   one_time: 0

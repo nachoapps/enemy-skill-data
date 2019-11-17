@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 50%
-  desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Reduce damage from Dark by 50%
-  desc_jp: Reduce damage from Dark by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -35,7 +33,6 @@ records:
   desc_en: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
     orbs + Voids status ailments for 999 turns + Increase damage to 900% for the next
     1 turns (Preemptive)
-  desc_jp: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
     orbs + Voids status ailments for 999 turns + Increase damage to 900% for the next
     1 turns (Preemptive)
   max_atk_pct: null
@@ -45,7 +42,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -54,7 +50,6 @@ records:
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 50% damage + Lock all Fire, Water, Wood,
     Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs
-  desc_jp: Blind all orbs on the board, Deal 50% damage + Lock all Fire, Water, Wood,
     Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs
   max_atk_pct: null
   name_en: Raging Fire + Orb Flash
@@ -63,7 +58,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -71,7 +65,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn Bomb orbs in the specified positions, Deal 120% damage
-  desc_jp: Spawn Bomb orbs in the specified positions, Deal 120% damage
   max_atk_pct: 120
   name_en: Zelvarn
   one_time: 0
@@ -79,7 +72,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Change 2nd, 5th column to Jammer orbs, Deal 150% damage
-  desc_jp: Change 2nd, 5th column to Jammer orbs, Deal 150% damage
   max_atk_pct: 150
   name_en: Cruel Flare
   one_time: 0
@@ -87,7 +79,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -95,7 +86,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -103,7 +93,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb combo <= 8 damage for 9 turns, Deal 20% damage
-  desc_jp: Absorb combo <= 8 damage for 9 turns, Deal 20% damage
   max_atk_pct: 20
   name_en: Nine Seek
   one_time: 0
@@ -111,7 +100,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -119,7 +107,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn Bomb orbs in the specified positions, Deal 5000% damage
-  desc_jp: Spawn Bomb orbs in the specified positions, Deal 5000% damage
   max_atk_pct: 5000
   name_en: Void Burn
   one_time: 0
@@ -127,7 +114,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Enemy is defeated
   one_time: null
@@ -135,7 +121,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1-2
   one_time: null
@@ -143,7 +128,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Enemy recover 100% hp + Bind 1 random for 9 turns, Deal 200% damage
-  desc_jp: Enemy recover 100% hp + Bind 1 random for 9 turns, Deal 200% damage
   max_atk_pct: null
   name_en: Death Avoidance + Nampulse
   one_time: 1

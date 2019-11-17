@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Do nothing + Change 4th column to Heal orbs + Reduce self HP to 0 (Preemptive)
-  desc_jp: Do nothing + Change 4th column to Heal orbs + Reduce self HP to 0 (Preemptive)
   max_atk_pct: null
   name_en: You can't defy a god! + Lovely Arrow + I warned you!
   one_time: 0

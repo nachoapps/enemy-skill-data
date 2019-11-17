@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Voids status ailments for 15 turns (Preemptive)
-  desc_jp: Voids status ailments for 15 turns (Preemptive)
   max_atk_pct: null
   name_en: Protection of the Stone Soldier
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Seal 5th row for 2 turns
-  desc_jp: Seal 5th row for 2 turns
   max_atk_pct: null
   name_en: Rock Wall
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -57,7 +52,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 4 turns
-  desc_jp: Reduce damage from all sources by 50% for 4 turns
   max_atk_pct: null
   name_en: Defense Up
   one_time: 1

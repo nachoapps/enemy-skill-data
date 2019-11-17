@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Change Random to Water, Deal 80% damage
-  desc_jp: Change Random to Water, Deal 80% damage
   max_atk_pct: 80
   name_en: Petit Ice
   one_time: 1

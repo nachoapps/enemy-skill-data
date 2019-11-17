@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 50%
-  desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -26,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Void damage >= 100000000 for 999
     turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Void damage >= 100000000 for 999
     turns (Preemptive)
   max_atk_pct: null
   name_en: Protection of the Gods + Divine King's Armor
@@ -35,7 +33,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1-5
   one_time: null
@@ -43,7 +40,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 96%~160% damage (6~10 hits, 16% each)
-  desc_jp: Deal 96%~160% damage (6~10 hits, 16% each)
   max_atk_pct: 160
   name_en: Royal Sword
   one_time: 0
@@ -51,7 +47,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 6
   one_time: null
@@ -59,7 +54,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind random 1~5 orbs for 3 turns, Deal 140% damage
-  desc_jp: Blind random 1~5 orbs for 3 turns, Deal 140% damage
   max_atk_pct: 140
   name_en: Black Thunderstorm
   one_time: 0
@@ -67,7 +61,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Spawn random 3 Mortal Poison orbs, Deal 140% damage
-  desc_jp: Spawn random 3 Mortal Poison orbs, Deal 140% damage
   max_atk_pct: 140
   name_en: Black Thunderstorm
   one_time: 0
@@ -75,7 +68,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -83,7 +75,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -92,7 +83,6 @@ records:
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Water, Wood + Change 3rd column
     to Dark orbs, 4th column to Light orbs, Deal 250% damage
-  desc_jp: Change own attribute to random one of Fire, Water, Wood + Change 3rd column
     to Dark orbs, 4th column to Light orbs, Deal 250% damage
   max_atk_pct: null
   name_en: Psevdaisthíseis + ...Grovel at my feet
@@ -101,7 +91,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -109,7 +98,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change own attribute to Dark + Movetime -1s for 10 turns, Deal 150% damage
-  desc_jp: Change own attribute to Dark + Movetime -1s for 10 turns, Deal 150% damage
   max_atk_pct: null
   name_en: Dread + Keraunós
   one_time: 1
@@ -117,7 +105,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
   one_time: null
@@ -125,7 +112,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -134,7 +120,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 1000% for the next 999 turns + Bind awoken skills for
     10 turns
-  desc_jp: Increase damage to 1000% for the next 999 turns + Bind awoken skills for
     10 turns
   max_atk_pct: null
   name_en: Playtime's over... + Élenchos
@@ -143,7 +128,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -152,7 +136,6 @@ records:
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Water, Wood + Change 3rd column
     to Dark orbs, 4th column to Light orbs, Deal 250% damage
-  desc_jp: Change own attribute to random one of Fire, Water, Wood + Change 3rd column
     to Dark orbs, 4th column to Light orbs, Deal 250% damage
   max_atk_pct: null
   name_en: Psevdaisthíseis + ...Grovel at my feet
@@ -161,7 +144,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -169,7 +151,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change own attribute to Dark + Movetime -1s for 10 turns, Deal 150% damage
-  desc_jp: Change own attribute to Dark + Movetime -1s for 10 turns, Deal 150% damage
   max_atk_pct: null
   name_en: Dread + Keraunós
   one_time: 1

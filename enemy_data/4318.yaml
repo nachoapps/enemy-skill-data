@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Do nothing + Do nothing (Preemptive)
-  desc_jp: Do nothing + Do nothing (Preemptive)
   max_atk_pct: null
   name_en: Bang! + I am curious as to why...
   one_time: 0
@@ -33,7 +32,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Voids status ailments for 5 turns + Do nothing (Preemptive)
-  desc_jp: Voids status ailments for 5 turns + Do nothing (Preemptive)
   max_atk_pct: null
   name_en: Bang! + I am curious as to why...
   one_time: 0
@@ -41,7 +39,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -49,7 +46,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Do nothing + Do nothing + Spawn random 1 Bomb orbs
-  desc_jp: Do nothing + Do nothing + Spawn random 1 Bomb orbs
   max_atk_pct: null
   name_en: 'Like they say, + I wouldn''t want you to miss
 
@@ -59,7 +55,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -67,7 +62,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 4 Bomb orbs, Deal 100% damage
-  desc_jp: Spawn random 4 Bomb orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Trace Eyes
   one_time: 0
@@ -75,7 +69,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Spawn Bomb orbs in the specified positions, Deal 100% damage
-  desc_jp: Spawn Bomb orbs in the specified positions, Deal 100% damage
   max_atk_pct: 100
   name_en: That's what I call my Mad Bomb.
   one_time: 0
@@ -83,7 +76,6 @@ records:
   usage_pct: 26
 - !SkillRecord
   desc_en: Spawn Bomb orbs in the specified positions, Deal 100% damage
-  desc_jp: Spawn Bomb orbs in the specified positions, Deal 100% damage
   max_atk_pct: 100
   name_en: That's what I call my Mad Bomb.
   one_time: 0
@@ -91,7 +83,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -99,7 +90,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -107,7 +97,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn Bomb orbs in the specified positions, Deal 100% damage
-  desc_jp: Spawn Bomb orbs in the specified positions, Deal 100% damage
   max_atk_pct: 100
   name_en: My my, looks like you're surrounded.
   one_time: 0
@@ -115,7 +104,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -123,7 +111,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn Bomb orbs in the specified positions, Deal 100% damage
-  desc_jp: Spawn Bomb orbs in the specified positions, Deal 100% damage
   max_atk_pct: 100
   name_en: Hahahahahaha!
   one_time: 0

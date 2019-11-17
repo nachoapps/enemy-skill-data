@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Spawn random 10 Heal orbs (Preemptive)
-  desc_jp: Spawn random 10 Heal orbs (Preemptive)
   max_atk_pct: null
   name_en: 癒しの旋律
   one_time: 2
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Rcv 50% for 3 turns (Preemptive)
-  desc_jp: Rcv 50% for 3 turns (Preemptive)
   max_atk_pct: null
   name_en: シンフォニックハーモニー
   one_time: 1
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -41,7 +38,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Rcv 50% for 3 turns
-  desc_jp: Rcv 50% for 3 turns
   max_atk_pct: null
   name_en: シンフォニックハーモニー
   one_time: 1
@@ -49,7 +45,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -57,7 +52,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 1 Heal orbs, Deal 105% damage
-  desc_jp: Spawn random 1 Heal orbs, Deal 105% damage
   max_atk_pct: 105
   name_en: スフォルツァートペザンテ
   one_time: 0
@@ -65,7 +59,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Change Random to Light, Deal 95% damage
-  desc_jp: Change Random to Light, Deal 95% damage
   max_atk_pct: 95
   name_en: アダージョカランド
   one_time: 0
@@ -73,7 +66,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -81,7 +73,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 8 Light orbs, Deal 150% damage
-  desc_jp: Spawn random 8 Light orbs, Deal 150% damage
   max_atk_pct: 150
   name_en: リタルダンドアンビエント
   one_time: 0

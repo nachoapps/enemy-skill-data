@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Blind orbs in specific positions for 1 turns + Voids status ailments for
     999 turns (Preemptive)
-  desc_jp: Blind orbs in specific positions for 1 turns + Voids status ailments for
     999 turns (Preemptive)
   max_atk_pct: null
   name_en: I am the true Dragon King! + Acnologia Transformation
@@ -27,7 +26,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -36,7 +34,6 @@ records:
 - !SkillRecord
   desc_en: Fix orb movement starting point to random position on the board + Deal
     150% damage (3 hits, 50% each)
-  desc_jp: Fix orb movement starting point to random position on the board + Deal
     150% damage (3 hits, 50% each)
   max_atk_pct: null
   name_en: I recognize you as my enemy + GWAAAH-
@@ -45,7 +42,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -53,7 +49,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Movetime -1s for 3 turns
-  desc_jp: Movetime -1s for 3 turns
   max_atk_pct: null
   name_en: You can't escape
   one_time: 1
@@ -61,7 +56,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -69,7 +63,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 150% damage (3 hits, 50% each)
-  desc_jp: Deal 150% damage (3 hits, 50% each)
   max_atk_pct: 150
   name_en: GWAAAH-
   one_time: 0
@@ -77,7 +70,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 120% damage (2 hits, 60% each)
-  desc_jp: Deal 120% damage (2 hits, 60% each)
   max_atk_pct: 120
   name_en: DESTROY!!! DESTROY!!!
   one_time: 0
@@ -85,7 +77,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 35
   one_time: null
@@ -93,7 +84,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -101,7 +91,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 200% for the next 999 turns
-  desc_jp: Increase damage to 200% for the next 999 turns
   max_atk_pct: null
   name_en: Total Annihilation is what I seek!
   one_time: 0
@@ -109,7 +98,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change all orbs to Fire, Deal 500% damage
-  desc_jp: Change all orbs to Fire, Deal 500% damage
   max_atk_pct: 500
   name_en: Howl
   one_time: 0

@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Spawn random 6 Fire, Water, Wood,
     Light, Dark, Poison, Mortal Poison orbs (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Spawn random 6 Fire, Water, Wood,
     Light, Dark, Poison, Mortal Poison orbs (Preemptive)
   max_atk_pct: null
   name_en: Fertile Guard + Aurora Glass
@@ -27,7 +26,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -35,7 +33,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random to Heal, Deal 100% damage
-  desc_jp: Change Random to Heal, Deal 100% damage
   max_atk_pct: 100
   name_en: Flower Tail
   one_time: 1
@@ -43,7 +40,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -51,7 +47,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind 1 subs for 2 turns, Deal 75% damage
-  desc_jp: Bind 1 subs for 2 turns, Deal 75% damage
   max_atk_pct: 75
   name_en: Thorn Whip
   one_time: 0
@@ -59,7 +54,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -67,7 +61,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -75,7 +68,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind 4 random for 2~4 turns, Deal 50% damage
-  desc_jp: Bind 4 random for 2~4 turns, Deal 50% damage
   max_atk_pct: 50
   name_en: Thorn Cage
   one_time: 0
@@ -83,7 +75,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Heal to Water, Deal 300% damage
-  desc_jp: Change Heal to Water, Deal 300% damage
   max_atk_pct: 300
   name_en: Rose Ocean
   one_time: 0
@@ -91,7 +82,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Random to Heal, Deal 125% damage
-  desc_jp: Change Random to Heal, Deal 125% damage
   max_atk_pct: 125
   name_en: Beautiful Rose
   one_time: 0

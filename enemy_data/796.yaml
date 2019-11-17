@@ -18,7 +18,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 70
   one_time: null
@@ -26,7 +25,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 130% damage (2 hits, 65% each)
-  desc_jp: Deal 130% damage (2 hits, 65% each)
   max_atk_pct: 130
   name_en: Bloody Nail
   one_time: 0
@@ -42,7 +40,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Blind all orbs on the board (Preemptive)
-  desc_jp: Blind all orbs on the board (Preemptive)
   max_atk_pct: null
   name_en: Dark World
   one_time: 0
@@ -50,7 +47,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 70
   one_time: null
@@ -58,7 +54,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 130% damage (2 hits, 65% each)
-  desc_jp: Deal 130% damage (2 hits, 65% each)
   max_atk_pct: 130
   name_en: Bloody Nail
   one_time: 0
@@ -66,7 +61,6 @@ records:
   usage_pct: 70
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
   one_time: null
@@ -74,7 +68,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -82,7 +75,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind 5 random cards for 1~2 turns
-  desc_jp: Bind 5 random cards for 1~2 turns
   max_atk_pct: null
   name_en: Charm
   one_time: 1
@@ -98,7 +90,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Blind all orbs on the board (Preemptive)
-  desc_jp: Blind all orbs on the board (Preemptive)
   max_atk_pct: null
   name_en: Dark World
   one_time: 0
@@ -106,7 +97,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 70
   one_time: null
@@ -114,7 +104,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 130% damage (2 hits, 65% each)
-  desc_jp: Deal 130% damage (2 hits, 65% each)
   max_atk_pct: 130
   name_en: Bloody Nail
   one_time: 0
@@ -122,7 +111,6 @@ records:
   usage_pct: 70
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
   one_time: null
@@ -130,7 +118,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -138,7 +125,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind 5 random cards for 1~2 turns
-  desc_jp: Bind 5 random cards for 1~2 turns
   max_atk_pct: null
   name_en: Charm
   one_time: 1

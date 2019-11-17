@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from Water by 50%
-  desc_jp: Reduce damage from Water by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -26,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Locked random skyfall +20% for 10 turns + Voids status ailments for 4 turns
     (Preemptive)
-  desc_jp: Locked random skyfall +20% for 10 turns + Voids status ailments for 4 turns
     (Preemptive)
   max_atk_pct: null
   name_en: Wings of the Ice Wolf + Divine Name's Protection
@@ -35,7 +33,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: When afflicted by delay/poison
   one_time: null
@@ -43,7 +40,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 200% for the next 999 turns
-  desc_jp: Increase damage to 200% for the next 999 turns
   max_atk_pct: null
   name_en: Pulsating Rage
   one_time: 0
@@ -51,7 +47,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -59,7 +54,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -67,7 +61,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind orbs in specific positions for 1 turns, Deal 300% damage
-  desc_jp: Blind orbs in specific positions for 1 turns, Deal 300% damage
   max_atk_pct: 300
   name_en: Black Cut
   one_time: 8
@@ -75,7 +68,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -83,7 +75,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind orbs in specific positions for 1 turns, Deal 300% damage
-  desc_jp: Blind orbs in specific positions for 1 turns, Deal 300% damage
   max_atk_pct: 300
   name_en: Black Cut
   one_time: 4
@@ -91,7 +82,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -100,7 +90,6 @@ records:
 - !SkillRecord
   desc_en: Bind 2 subs for 3 turns, Deal 300% damage + Increase damage to 300% for
     the next 1 turns
-  desc_jp: Bind 2 subs for 3 turns, Deal 300% damage + Increase damage to 300% for
     the next 1 turns
   max_atk_pct: null
   name_en: Freeze Breath + Ocean Roar
@@ -109,7 +98,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -118,7 +106,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 3 turns + Deal 450% damage (3
     hits, 150% each)
-  desc_jp: Reduce damage from all sources by 50% for 3 turns + Deal 450% damage (3
     hits, 150% each)
   max_atk_pct: null
   name_en: Frozen Fur + Cold Impact
@@ -127,7 +114,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Blind orbs in specific positions for 1 turns, Deal 300% damage
-  desc_jp: Blind orbs in specific positions for 1 turns, Deal 300% damage
   max_atk_pct: 300
   name_en: Black Cut
   one_time: 0
@@ -135,7 +121,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Blind orbs in specific positions for 1 turns, Deal 300% damage
-  desc_jp: Blind orbs in specific positions for 1 turns, Deal 300% damage
   max_atk_pct: 300
   name_en: Black Cut
   one_time: 0
@@ -143,7 +128,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Deal 320% damage (2 hits, 160% each)
-  desc_jp: Deal 320% damage (2 hits, 160% each)
   max_atk_pct: 320
   name_en: Cold Fang
   one_time: 0
@@ -151,7 +135,6 @@ records:
   usage_pct: 60
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 15
   one_time: null
@@ -160,7 +143,6 @@ records:
 - !SkillRecord
   desc_en: Change own attribute to random one of Water, Dark + Deal 1800% damage (6
     hits, 300% each)
-  desc_jp: Change own attribute to random one of Water, Dark + Deal 1800% damage (6
     hits, 300% each)
   max_atk_pct: null
   name_en: Its body is glowing + Absolute Blue

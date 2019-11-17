@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 1%
-  desc_jp: Survive attacks with 1 HP when HP > 1%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Reduce damage from all sources by 20% for 2 turns (Preemptive)
-  desc_jp: Reduce damage from all sources by 20% for 2 turns (Preemptive)
   max_atk_pct: null
   name_en: Protect
   one_time: 1

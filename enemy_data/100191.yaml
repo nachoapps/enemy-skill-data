@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Spawn random 1 Bomb orbs, Deal 10% damage (Preemptive)
-  desc_jp: Spawn random 1 Bomb orbs, Deal 10% damage (Preemptive)
   max_atk_pct: 10
   name_en: Tiny Pyro
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Increase damage to 130% for the next 3 turns
-  desc_jp: Increase damage to 130% for the next 3 turns
   max_atk_pct: null
   name_en: Anger
   one_time: 0

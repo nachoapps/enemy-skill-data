@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Delay active skills by 4~6 turns + Voids status ailments for 999 turns
     + Absorb damage >= 4000000 damage for 99 turns (Preemptive)
-  desc_jp: Delay active skills by 4~6 turns + Voids status ailments for 999 turns
     + Absorb damage >= 4000000 damage for 99 turns (Preemptive)
   max_atk_pct: null
   name_en: Why do you fight? + I won't go easy on you + Iron DEF of Aegis
@@ -27,7 +26,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -35,7 +33,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 2nd column to Wood orbs, 5th column to Light orbs, Deal 380% damage
-  desc_jp: Change 2nd column to Wood orbs, 5th column to Light orbs, Deal 380% damage
   max_atk_pct: 380
   name_en: C-Shining Spear
   one_time: 0
@@ -43,7 +40,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Change own attribute to random one of Wood, Light, Deal 380% damage
-  desc_jp: Change own attribute to random one of Wood, Light, Deal 380% damage
   max_atk_pct: 380
   name_en: EB & Self Convert
   one_time: 0
@@ -51,7 +47,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -59,7 +54,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -150% HP
-  desc_jp: Player -150% HP
   max_atk_pct: null
   name_en: LB-Siculus Strike
   one_time: 3
@@ -68,7 +62,6 @@ records:
 - !SkillRecord
   desc_en: Blind orbs in specific positions for 3 turns + Bind 1 random for 3 turns,
     Deal 420% damage
-  desc_jp: Blind orbs in specific positions for 3 turns + Bind 1 random for 3 turns,
     Deal 420% damage
   max_atk_pct: null
   name_en: Color Delete + CFM-Pulse
@@ -77,7 +70,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 3-4
   one_time: null
@@ -85,7 +77,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 2nd column to Wood orbs, 5th column to Light orbs, Deal 380% damage
-  desc_jp: Change 2nd column to Wood orbs, 5th column to Light orbs, Deal 380% damage
   max_atk_pct: 380
   name_en: C-Shining Spear
   one_time: 0
@@ -93,7 +84,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Change own attribute to random one of Wood, Light, Deal 380% damage
-  desc_jp: Change own attribute to random one of Wood, Light, Deal 380% damage
   max_atk_pct: 380
   name_en: EB & Self Convert
   one_time: 0
@@ -101,7 +91,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -109,7 +98,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -117,7 +105,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Reduce damage from all sources by 99% for 2 turns
-  desc_jp: Reduce damage from all sources by 99% for 2 turns
   max_atk_pct: null
   name_en: AS-Complete Protection
   one_time: 0
@@ -125,7 +112,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -133,7 +119,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 1200% damage (6 hits, 200% each)
-  desc_jp: Deal 1200% damage (6 hits, 200% each)
   max_atk_pct: 1200
   name_en: Storm Punisher FPE
   one_time: 0
@@ -141,7 +126,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -149,7 +133,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -150% HP
-  desc_jp: Player -150% HP
   max_atk_pct: null
   name_en: LB-Siculus Strike
   one_time: 3
@@ -158,7 +141,6 @@ records:
 - !SkillRecord
   desc_en: Blind orbs in specific positions for 3 turns + Bind 1 random for 3 turns,
     Deal 420% damage
-  desc_jp: Blind orbs in specific positions for 3 turns + Bind 1 random for 3 turns,
     Deal 420% damage
   max_atk_pct: null
   name_en: Color Delete + CFM-Pulse
@@ -167,7 +149,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2-4
   one_time: null
@@ -175,7 +156,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 2nd column to Wood orbs, 5th column to Light orbs, Deal 380% damage
-  desc_jp: Change 2nd column to Wood orbs, 5th column to Light orbs, Deal 380% damage
   max_atk_pct: 380
   name_en: C-Shining Spear
   one_time: 0
@@ -183,7 +163,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Change own attribute to random one of Wood, Light, Deal 380% damage
-  desc_jp: Change own attribute to random one of Wood, Light, Deal 380% damage
   max_atk_pct: 380
   name_en: EB & Self Convert
   one_time: 0
@@ -191,7 +170,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -199,7 +177,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -207,7 +184,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Enemy recover 50% hp
-  desc_jp: Enemy recover 50% hp
   max_atk_pct: null
   name_en: AS-Overhaul
   one_time: 0
@@ -215,7 +191,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 10000% damage (10 hits, 1000% each)
-  desc_jp: Deal 10000% damage (10 hits, 1000% each)
   max_atk_pct: 10000
   name_en: Starburst SSE
   one_time: 0

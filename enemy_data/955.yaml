@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 75
   one_time: null
@@ -25,7 +24,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 125% damage
-  desc_jp: Deal 125% damage
   max_atk_pct: 125
   name_en: Slingshot
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
   one_time: null
@@ -41,7 +38,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 150% damage
-  desc_jp: Deal 150% damage
   max_atk_pct: 150
   name_en: Full Speed Ahead!
   one_time: 0
@@ -49,7 +45,6 @@ records:
   usage_pct: 70
 - !SkillRecord
   desc_en: Deal 125% damage
-  desc_jp: Deal 125% damage
   max_atk_pct: 125
   name_en: Slingshot
   one_time: 0

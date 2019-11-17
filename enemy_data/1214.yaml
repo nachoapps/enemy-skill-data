@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Change Random 2 to Jammer (Preemptive)
-  desc_jp: Change Random 2 to Jammer (Preemptive)
   max_atk_pct: null
   name_en: Hell Howl
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Random 3 to Poison, Deal 25% damage
-  desc_jp: Change Random 3 to Poison, Deal 25% damage
   max_atk_pct: 25
   name_en: Death Bite
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 25
   one_time: null
@@ -41,7 +38,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 150% damage (3 hits, 50% each)
-  desc_jp: Deal 150% damage (3 hits, 50% each)
   max_atk_pct: 150
   name_en: Trinity Fang
   one_time: 0

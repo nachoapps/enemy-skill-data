@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 50%
-  desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Enemy turn counter change to 1 when HP <= 50%
-  desc_jp: Enemy turn counter change to 1 when HP <= 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -42,7 +39,6 @@ records:
 - !SkillRecord
   desc_en: Enemy recover 100% hp + Reduce damage from all sources by 75% for 99 turns
     (When 1 enemy remains)
-  desc_jp: Enemy recover 100% hp + Reduce damage from all sources by 75% for 99 turns
     (When 1 enemy remains)
   max_atk_pct: null
   name_en: Pouring Fighting Spirit + Counterattack
@@ -51,7 +47,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -59,7 +54,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 100% damage
-  desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: Big Blade
   one_time: 0

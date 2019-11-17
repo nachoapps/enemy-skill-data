@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Delay active skills by 2 turns (Preemptive)
-  desc_jp: Delay active skills by 2 turns (Preemptive)
   max_atk_pct: null
   name_en: Don't tremble!
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Player -70% HP
-  desc_jp: Player -70% HP
   max_atk_pct: null
   name_en: Heavens-Shaking Drums
   one_time: 1
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: When 1 enemy remains
   one_time: null
@@ -41,7 +38,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 300% for the next 999 turns
-  desc_jp: Increase damage to 300% for the next 999 turns
   max_atk_pct: null
   name_en: Demon Solo
   one_time: 0
@@ -57,7 +52,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -65,7 +59,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Light skyfall +15% for 10 turns, Deal 50% damage
-  desc_jp: Light skyfall +15% for 10 turns, Deal 50% damage
   max_atk_pct: 50
   name_en: Resonating Light
   one_time: 0

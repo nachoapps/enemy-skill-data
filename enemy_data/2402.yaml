@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Spawn random 4 Poison orbs, Deal 150% damage (Preemptive)
-  desc_jp: Spawn random 4 Poison orbs, Deal 150% damage (Preemptive)
   max_atk_pct: 150
   name_en: Law of Hell
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns
-  desc_jp: Voids status ailments for 999 turns
   max_atk_pct: null
   name_en: Demon Half
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -57,7 +52,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Lock all Poison, Mortal Poison orbs, Deal 120% damage
-  desc_jp: Lock all Poison, Mortal Poison orbs, Deal 120% damage
   max_atk_pct: 120
   name_en: Dead Judgment
   one_time: 2
@@ -65,7 +59,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Spawn random 2 Mortal Poison orbs, Deal 120% damage
-  desc_jp: Spawn random 2 Mortal Poison orbs, Deal 120% damage
   max_atk_pct: 120
   name_en: Poison Nail
   one_time: 0
@@ -73,7 +66,6 @@ records:
   usage_pct: 80
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2-3
   one_time: null
@@ -81,7 +73,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 2 Mortal Poison orbs, Deal 120% damage
-  desc_jp: Spawn random 2 Mortal Poison orbs, Deal 120% damage
   max_atk_pct: 120
   name_en: Poison Nail
   one_time: 0
@@ -89,7 +80,6 @@ records:
   usage_pct: 80
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -97,7 +87,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -105,7 +94,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 1 turns
-  desc_jp: Reduce damage from all sources by 50% for 1 turns
   max_atk_pct: null
   name_en: Naglfar
   one_time: 0
@@ -113,7 +101,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Poison skyfall +10% for 10 turns
-  desc_jp: Poison skyfall +10% for 10 turns
   max_atk_pct: null
   name_en: Army of the Dead
   one_time: 0
@@ -121,7 +108,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Delay active skills by 1~2 turns
-  desc_jp: Delay active skills by 1~2 turns
   max_atk_pct: null
   name_en: Nightmare
   one_time: 0
@@ -129,7 +115,6 @@ records:
   usage_pct: 34
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
   one_time: null
@@ -137,7 +122,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -145,7 +129,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind God cards for 5 turns, (if [1423, 1925, 2179] on team)
-  desc_jp: Bind God cards for 5 turns, (if [1423, 1925, 2179] on team)
   max_atk_pct: null
   name_en: I won't forgive you
   one_time: 0
@@ -153,7 +136,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Bind God cards for 5 turns + Spawn random 4 Poison orbs
-  desc_jp: Bind God cards for 5 turns + Spawn random 4 Poison orbs
   max_atk_pct: null
   name_en: Glare of Garm + Decay
   one_time: 0
@@ -161,7 +143,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -169,7 +150,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -177,7 +157,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind God cards for 5 turns, (if [1423, 1925, 2179] on team)
-  desc_jp: Bind God cards for 5 turns, (if [1423, 1925, 2179] on team)
   max_atk_pct: null
   name_en: I won't forgive you
   one_time: 0
@@ -185,7 +164,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Heal to Dark, Deal 300% damage
-  desc_jp: Change Heal to Dark, Deal 300% damage
   max_atk_pct: 300
   name_en: Eat Heart Strike
   one_time: 0
@@ -193,7 +171,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Bind God cards for 5 turns + Spawn random 4 Poison orbs
-  desc_jp: Bind God cards for 5 turns + Spawn random 4 Poison orbs
   max_atk_pct: null
   name_en: Glare of Garm + Decay
   one_time: 0
@@ -201,7 +178,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -209,7 +185,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Heal to Dark, Deal 300% damage
-  desc_jp: Change Heal to Dark, Deal 300% damage
   max_atk_pct: 300
   name_en: Eat Heart Strike
   one_time: 0
@@ -217,7 +192,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Lock all Poison, Mortal Poison orbs, Deal 120% damage
-  desc_jp: Lock all Poison, Mortal Poison orbs, Deal 120% damage
   max_atk_pct: 120
   name_en: Dead Judgment
   one_time: 2
@@ -225,7 +199,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Spawn random 2 Mortal Poison orbs, Deal 120% damage
-  desc_jp: Spawn random 2 Mortal Poison orbs, Deal 120% damage
   max_atk_pct: 120
   name_en: Poison Nail
   one_time: 0
@@ -233,7 +206,6 @@ records:
   usage_pct: 80
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2-3
   one_time: null
@@ -241,7 +213,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Heal to Dark, Deal 300% damage
-  desc_jp: Change Heal to Dark, Deal 300% damage
   max_atk_pct: 300
   name_en: Eat Heart Strike
   one_time: 0
@@ -249,7 +220,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Spawn random 2 Mortal Poison orbs, Deal 120% damage
-  desc_jp: Spawn random 2 Mortal Poison orbs, Deal 120% damage
   max_atk_pct: 120
   name_en: Poison Nail
   one_time: 0

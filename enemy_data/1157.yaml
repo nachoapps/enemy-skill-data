@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Change Fire to Jammer, Deal 80% damage
-  desc_jp: Change Fire to Jammer, Deal 80% damage
   max_atk_pct: 80
   name_en: Fire Eating Attack
   one_time: 1
@@ -25,7 +24,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Change Water to Jammer, Deal 80% damage
-  desc_jp: Change Water to Jammer, Deal 80% damage
   max_atk_pct: 80
   name_en: Water Eating Attack
   one_time: 1
@@ -33,7 +31,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Change Wood to Jammer, Deal 80% damage
-  desc_jp: Change Wood to Jammer, Deal 80% damage
   max_atk_pct: 80
   name_en: Wood Eating Attack
   one_time: 1
@@ -41,7 +38,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Change Light to Jammer, Deal 80% damage
-  desc_jp: Change Light to Jammer, Deal 80% damage
   max_atk_pct: 80
   name_en: Light Eating Attack
   one_time: 1
@@ -49,7 +45,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 100% damage
-  desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: Disable Skill
   one_time: 0
@@ -57,7 +52,6 @@ records:
   usage_pct: 200
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 25
   one_time: null
@@ -65,7 +59,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 200% damage
-  desc_jp: Deal 200% damage
   max_atk_pct: 200
   name_en: Buster Horn
   one_time: 0
@@ -73,7 +66,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Change Random to Fire, Deal 75% damage
-  desc_jp: Change Random to Fire, Deal 75% damage
   max_atk_pct: 75
   name_en: Red Tackle
   one_time: 1
@@ -81,7 +73,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Change Random to Water, Deal 75% damage
-  desc_jp: Change Random to Water, Deal 75% damage
   max_atk_pct: 75
   name_en: Blue Tackle
   one_time: 1
@@ -89,7 +80,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Change Random to Wood, Deal 75% damage
-  desc_jp: Change Random to Wood, Deal 75% damage
   max_atk_pct: 75
   name_en: Green Tackle
   one_time: 1
@@ -97,7 +87,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 100% damage
-  desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: Disable Skill
   one_time: 0

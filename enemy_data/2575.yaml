@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Fire skyfall +15% for 99 turns (Preemptive)
-  desc_jp: Fire skyfall +15% for 99 turns (Preemptive)
   max_atk_pct: null
   name_en: Crimson Cambria
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 200% for the next 999 turns (When 1 enemy remains)
-  desc_jp: Increase damage to 200% for the next 999 turns (When 1 enemy remains)
   max_atk_pct: null
   name_en: Wind-Up Full Throttle
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Water to Jammer, Deal 100% damage
-  desc_jp: Change Water to Jammer, Deal 100% damage
   max_atk_pct: 100
   name_en: Target Predation - Water
   one_time: 0
@@ -57,7 +52,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Change Heal to Jammer, Deal 120% damage
-  desc_jp: Change Heal to Jammer, Deal 120% damage
   max_atk_pct: 120
   name_en: Target Predation - Heal
   one_time: 0
@@ -65,7 +59,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Spawn random 4 Fire orbs, Deal 120% damage
-  desc_jp: Spawn random 4 Fire orbs, Deal 120% damage
   max_atk_pct: 120
   name_en: Red Whip
   one_time: 0
@@ -73,7 +66,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -81,7 +73,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -89,7 +80,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 1 turns
-  desc_jp: Reduce damage from all sources by 50% for 1 turns
   max_atk_pct: null
   name_en: Sensing Danger
   one_time: 1
@@ -97,7 +87,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
   one_time: null
@@ -105,7 +94,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 300% damage
-  desc_jp: Deal 300% damage
   max_atk_pct: 300
   name_en: Enraged Tentacles Annihilation
   one_time: 0

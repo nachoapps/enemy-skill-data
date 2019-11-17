@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Player recover 100% hp (Preemptive)
-  desc_jp: Player recover 100% hp (Preemptive)
   max_atk_pct: null
   name_en: Fruity Goodness
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Heal to Dark, Deal 125% damage
-  desc_jp: Change Heal to Dark, Deal 125% damage
   max_atk_pct: 125
   name_en: Bubbly Grape
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Random to Heal, Deal 150% damage
-  desc_jp: Change Random to Heal, Deal 150% damage
   max_atk_pct: 150
   name_en: Grape Shower
   one_time: 0

@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns (Preemptive)
   max_atk_pct: null
   name_en: ゲームマスターの私こそが・・・神だ！
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -34,7 +32,6 @@ records:
 - !SkillRecord
   desc_en: Movetime -3s for 10 turns + Reduce damage from all sources by 50% for 10
     turns
-  desc_jp: Movetime -3s for 10 turns + Reduce damage from all sources by 50% for 10
     turns
   max_atk_pct: null
   name_en: アンチバグスターエリア + デンジャラスブレイカー
@@ -43,7 +40,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -51,7 +47,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 100% damage
-  desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: リビングデッドシューズα
   one_time: 0
@@ -59,7 +54,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Spawn random 4 Jammer orbs, Deal 95% damage
-  desc_jp: Spawn random 4 Jammer orbs, Deal 95% damage
   max_atk_pct: 95
   name_en: スパイク攻撃
   one_time: 0
@@ -67,7 +61,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -75,7 +68,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -83,7 +75,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 999 turns
-  desc_jp: Increase damage to 150% for the next 999 turns
   max_atk_pct: null
   name_en: ゲインライザー
   one_time: 0
@@ -91,7 +82,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -99,7 +89,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -108,7 +97,6 @@ records:
 - !SkillRecord
   desc_en: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
     orbs + Absorb combo <= 6 damage for 10 turns
-  desc_jp: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
     orbs + Absorb combo <= 6 damage for 10 turns
   max_atk_pct: null
   name_en: レブナントディスチャージャー + ボーンビルドガード
@@ -117,7 +105,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 300% damage
-  desc_jp: Deal 300% damage
   max_atk_pct: 300
   name_en: デンジャラスクリティカルストライク
   one_time: 0

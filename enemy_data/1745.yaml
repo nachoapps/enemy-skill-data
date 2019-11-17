@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Change Random 2 to Jammer (Preemptive)
-  desc_jp: Change Random 2 to Jammer (Preemptive)
   max_atk_pct: null
   name_en: I won't let you interfere with Zhou Yu!
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change 1st row to Light orbs, 5th row to Water orbs, Deal 90% damage
-  desc_jp: Change 1st row to Light orbs, 5th row to Water orbs, Deal 90% damage
   max_atk_pct: 90
   name_en: Celestial Observation
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Change Random 3 to Poison, Deal 75% damage
-  desc_jp: Change Random 3 to Poison, Deal 75% damage
   max_atk_pct: 75
   name_en: Guardian Dragon's Venomous Talons
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -57,7 +52,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Delay active skills by 2 turns
-  desc_jp: Delay active skills by 2 turns
   max_atk_pct: null
   name_en: Counting the Cost
   one_time: 2
@@ -65,7 +59,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2-3
   one_time: null
@@ -73,7 +66,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 1st row to Light orbs, 5th row to Water orbs, Deal 90% damage
-  desc_jp: Change 1st row to Light orbs, 5th row to Water orbs, Deal 90% damage
   max_atk_pct: 90
   name_en: Celestial Observation
   one_time: 0
@@ -81,7 +73,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Change Random 3 to Poison, Deal 75% damage
-  desc_jp: Change Random 3 to Poison, Deal 75% damage
   max_atk_pct: 75
   name_en: Guardian Dragon's Venomous Talons
   one_time: 0
@@ -89,7 +80,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
   one_time: null
@@ -97,7 +87,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -105,7 +94,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Delay active skills by 2 turns
-  desc_jp: Delay active skills by 2 turns
   max_atk_pct: null
   name_en: Counting the Cost
   one_time: 2
@@ -113,7 +101,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2-3
   one_time: null
@@ -121,7 +108,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 240%~320% damage (3~4 hits, 80% each)
-  desc_jp: Deal 240%~320% damage (3~4 hits, 80% each)
   max_atk_pct: 320
   name_en: Celestial Spectacle
   one_time: 0

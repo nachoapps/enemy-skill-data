@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Enemy turn counter change to 2 when HP <= 50%
-  desc_jp: Enemy turn counter change to 2 when HP <= 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Reduce damage from Wood by 50%
-  desc_jp: Reduce damage from Wood by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Voids status ailments for 5 turns (Preemptive)
-  desc_jp: Voids status ailments for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: Getting ready to headbutt
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 2400% damage (6 hits, 400% each) + Voids status ailments for 5 turns
-  desc_jp: Deal 2400% damage (6 hits, 400% each) + Voids status ailments for 5 turns
   max_atk_pct: null
   name_en: Thunderhorn Destruction + Getting ready to headbutt
   one_time: 0
@@ -49,7 +45,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -57,7 +52,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -66,7 +60,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 6 turns + Blind orbs in specific
     positions for 6 turns
-  desc_jp: Reduce damage from all sources by 50% for 6 turns + Blind orbs in specific
     positions for 6 turns
   max_atk_pct: null
   name_en: Fortified Cells + Colossal Dragon's Majesty
@@ -75,7 +68,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -83,7 +75,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 600% damage (2 hits, 300% each)
-  desc_jp: Deal 600% damage (2 hits, 300% each)
   max_atk_pct: 600
   name_en: Crushing Claw
   one_time: 4
@@ -91,7 +82,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -99,7 +89,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 600% damage (2 hits, 300% each)
-  desc_jp: Deal 600% damage (2 hits, 300% each)
   max_atk_pct: 600
   name_en: Crushing Claw
   one_time: 2
@@ -107,7 +96,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -116,7 +104,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 10 turns + Seal 5th row for 10
     turns
-  desc_jp: Reduce damage from all sources by 75% for 10 turns + Seal 5th row for 10
     turns
   max_atk_pct: null
   name_en: Traces of the Demon Army + Colossal Dragon's Pressure
@@ -125,7 +112,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 870% damage (3 hits, 290% each)
-  desc_jp: Deal 870% damage (3 hits, 290% each)
   max_atk_pct: 870
   name_en: Thunderhorn Catastrophe
   one_time: 0

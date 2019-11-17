@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Bind 1 random subs for 1 turns + Change 3rd column to Fire orbs, Deal 100%
     damage (Preemptive)
-  desc_jp: Bind 1 random subs for 1 turns + Change 3rd column to Fire orbs, Deal 100%
     damage (Preemptive)
   max_atk_pct: null
   name_en: Roar + Flame Breath
@@ -27,7 +26,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 100% damage
-  desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: Tailspin
   one_time: 0
@@ -36,7 +34,6 @@ records:
 - !SkillRecord
   desc_en: Lock 3 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 80% damage
-  desc_jp: Lock 3 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 80% damage
   max_atk_pct: 80
   name_en: Rushing Bite
@@ -45,7 +42,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 70
   one_time: null
@@ -53,7 +49,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -62,7 +57,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 126% for the next 10 turns + Absorb combo <= 5 damage
     for 10 turns
-  desc_jp: Increase damage to 126% for the next 10 turns + Absorb combo <= 5 damage
     for 10 turns
   max_atk_pct: null
   name_en: Rage + Take Flight
@@ -71,7 +65,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change 3rd column to Fire orbs, Deal 100% damage
-  desc_jp: Change 3rd column to Fire orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Flame Breath
   one_time: 0
@@ -79,7 +72,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Spawn random 4 Poison orbs, Deal 120% damage
-  desc_jp: Spawn random 4 Poison orbs, Deal 120% damage
   max_atk_pct: 120
   name_en: Flying Kick
   one_time: 0
@@ -87,7 +79,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Change 2nd row to Fire orbs, Deal 110% damage
-  desc_jp: Change 2nd row to Fire orbs, Deal 110% damage
   max_atk_pct: 110
   name_en: Airborne Heat Breath
   one_time: 0
@@ -96,7 +87,6 @@ records:
 - !SkillRecord
   desc_en: Lock 3 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 90% damage
-  desc_jp: Lock 3 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 90% damage
   max_atk_pct: 90
   name_en: Airborne Bite
@@ -105,7 +95,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 15
   one_time: null
@@ -113,7 +102,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 300% damage (3 hits, 100% each)
-  desc_jp: Deal 300% damage (3 hits, 100% each)
   max_atk_pct: 300
   name_en: Triple Flame Breath
   one_time: 0

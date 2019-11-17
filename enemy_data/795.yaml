@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Blind all orbs on the board
-  desc_jp: Blind all orbs on the board
   max_atk_pct: null
   name_en: Dark World
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Deal 125% damage
-  desc_jp: Deal 125% damage
   max_atk_pct: 125
   name_en: Slap
   one_time: 0

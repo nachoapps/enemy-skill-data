@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Absorb damage >= 200000 damage for 999 turns (Preemptive)
-  desc_jp: Absorb damage >= 200000 damage for 999 turns (Preemptive)
   max_atk_pct: null
   name_en: Protection of the Nile
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Do nothing
-  desc_jp: Do nothing
   max_atk_pct: null
   name_en: I'll wait two turns for you
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -57,7 +52,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Display '2' and skip turn
-  desc_jp: Display '2' and skip turn
   max_atk_pct: null
   name_en: Countdown Message
   one_time: 0
@@ -65,7 +59,6 @@ records:
   usage_pct: 0
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -73,7 +66,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Display '1' and skip turn
-  desc_jp: Display '1' and skip turn
   max_atk_pct: null
   name_en: Countdown Message
   one_time: 0
@@ -81,7 +73,6 @@ records:
   usage_pct: 0
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 3
   one_time: null
@@ -89,7 +80,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 1400% damage (7 hits, 200% each)
-  desc_jp: Deal 1400% damage (7 hits, 200% each)
   max_atk_pct: 1400
   name_en: Goodbye
   one_time: 0

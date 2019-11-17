@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Absorb combo <= 8 damage for 1 turns
     (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Absorb combo <= 8 damage for 1 turns
     (Preemptive)
   max_atk_pct: null
   name_en: Rock Barrier + Spirit of the Ancient Dragon Knight
@@ -27,7 +26,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -35,7 +33,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Locked random skyfall +100% for 99 turns, Deal 300% damage
-  desc_jp: Locked random skyfall +100% for 99 turns, Deal 300% damage
   max_atk_pct: 300
   name_en: Sword of Wandering
   one_time: 0
@@ -43,7 +40,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -51,7 +47,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -99% HP
-  desc_jp: Player -99% HP
   max_atk_pct: null
   name_en: Nothingness Life
   one_time: 2
@@ -59,7 +54,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 1 turns, Deal 100% damage
-  desc_jp: Reduce damage from all sources by 50% for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Rock-Slicing Destruction
   one_time: 0
@@ -67,7 +61,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 105% damage (3 hits, 35% each)
-  desc_jp: Deal 105% damage (3 hits, 35% each)
   max_atk_pct: 105
   name_en: Rock Breaking Hell Guidance
   one_time: 0
@@ -75,7 +68,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -83,7 +75,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -91,7 +82,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 300% for the next 999 turns
-  desc_jp: Increase damage to 300% for the next 999 turns
   max_atk_pct: null
   name_en: Power Released
   one_time: 0
@@ -99,7 +89,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 300% damage (10 hits, 30% each)
-  desc_jp: Deal 300% damage (10 hits, 30% each)
   max_atk_pct: 300
   name_en: Celestial Life Exorcism
   one_time: 0

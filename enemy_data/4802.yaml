@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Seal 1st row for 5 turns + Absorb combo <= 6 damage for 999 turns, (if
     [4796, 4797] on team) (Preemptive)
-  desc_jp: Seal 1st row for 5 turns + Absorb combo <= 6 damage for 999 turns, (if
     [4796, 4797] on team) (Preemptive)
   max_atk_pct: null
   name_en: Wait! This is off limits! + What are you doing, stupid Suou?!
@@ -27,7 +26,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Seal 1st row for 5 turns + Absorb combo <= 6 damage for 999 turns (Preemptive)
-  desc_jp: Seal 1st row for 5 turns + Absorb combo <= 6 damage for 999 turns (Preemptive)
   max_atk_pct: null
   name_en: Wait! This is off limits! + I've been entrusted to be on lookout!
   one_time: 0
@@ -35,7 +33,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Jammer to Fire, Deal 150% damage
-  desc_jp: Change Jammer to Fire, Deal 150% damage
   max_atk_pct: 150
   name_en: Need to burn more!
   one_time: 0
@@ -43,7 +40,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Delay active skills by 2 turns, Deal 95% damage
-  desc_jp: Delay active skills by 2 turns, Deal 95% damage
   max_atk_pct: 95
   name_en: I'll make you suffer!
   one_time: 0
@@ -51,7 +47,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Spawn random 5 Jammer orbs, Deal 100% damage
-  desc_jp: Spawn random 5 Jammer orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: I'll burn you to ashes!
   one_time: 0
@@ -59,7 +54,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Deal 110% damage (2 hits, 55% each)
-  desc_jp: Deal 110% damage (2 hits, 55% each)
   max_atk_pct: 110
   name_en: Hey, hey, hey!
   one_time: 0
@@ -67,7 +61,6 @@ records:
   usage_pct: 34
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -75,7 +68,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -83,7 +75,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn Bomb orbs in the specified positions + Movetime 50% for 5 turns
-  desc_jp: Spawn Bomb orbs in the specified positions + Movetime 50% for 5 turns
   max_atk_pct: null
   name_en: Your life is at an end! + You will regret that
   one_time: 0
@@ -91,7 +82,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -99,7 +89,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -107,7 +96,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 200% for the next 99 turns
-  desc_jp: Increase damage to 200% for the next 99 turns
   max_atk_pct: null
   name_en: I'll end this for you NOW!
   one_time: 1
@@ -115,7 +103,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change all orbs to Fire, Deal 250% damage
-  desc_jp: Change all orbs to Fire, Deal 250% damage
   max_atk_pct: 250
   name_en: Get out of my sight!
   one_time: 0

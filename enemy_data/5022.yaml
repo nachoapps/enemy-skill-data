@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Player -99% HP (Preemptive)
-  desc_jp: Player -99% HP (Preemptive)
   max_atk_pct: null
   name_en: Unleash me.
   one_time: 4
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: When HP is full
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind random 3~6 orbs for 1 turns, Deal 100% damage
-  desc_jp: Blind random 3~6 orbs for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Knives painted black
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 95% damage
-  desc_jp: Blind all orbs on the board, Deal 95% damage
   max_atk_pct: 95
   name_en: If you don't move, it will swallow you.
   one_time: 0
@@ -49,7 +45,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: When HP is not full
   one_time: null
@@ -57,7 +52,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -65,7 +59,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 6 Poison orbs
-  desc_jp: Spawn random 6 Poison orbs
   max_atk_pct: null
   name_en: You saw my face, did you?
   one_time: 2
@@ -73,7 +66,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 50
   one_time: null
@@ -81,7 +73,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -89,7 +80,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb combo <= 4 damage for 5 turns
-  desc_jp: Absorb combo <= 4 damage for 5 turns
   max_atk_pct: null
   name_en: Protection Against the Wind
   one_time: 1
@@ -97,7 +87,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -105,7 +94,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -50% HP + Deal 100% damage
-  desc_jp: Player -50% HP + Deal 100% damage
   max_atk_pct: null
   name_en: Noble Phantasm... Zabaniya! + You... lose!
   one_time: 0

@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from Balanced by 50%
-  desc_jp: Reduce damage from Balanced by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -26,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
     orbs + Locked random skyfall +100% for 3 turns (Preemptive)
-  desc_jp: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
     orbs + Locked random skyfall +100% for 3 turns (Preemptive)
   max_atk_pct: null
   name_en: Announcement of Fate + End of the Omen
@@ -35,7 +33,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -43,7 +40,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Display '3' and skip turn
-  desc_jp: Display '3' and skip turn
   max_atk_pct: null
   name_en: Countdown Message
   one_time: 0
@@ -51,7 +47,6 @@ records:
   usage_pct: 0
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -59,7 +54,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Display '2' and skip turn
-  desc_jp: Display '2' and skip turn
   max_atk_pct: null
   name_en: Countdown Message
   one_time: 0
@@ -67,7 +61,6 @@ records:
   usage_pct: 0
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -75,7 +68,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Display '1' and skip turn
-  desc_jp: Display '1' and skip turn
   max_atk_pct: null
   name_en: Countdown Message
   one_time: 0
@@ -83,7 +75,6 @@ records:
   usage_pct: 0
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 4
   one_time: null
@@ -91,7 +82,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 2000% damage (10 hits, 200% each)
-  desc_jp: Deal 2000% damage (10 hits, 200% each)
   max_atk_pct: 2000
   name_en: Sound of Death
   one_time: 0

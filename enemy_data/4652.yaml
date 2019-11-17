@@ -18,7 +18,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Enemy turn counter change to 1 when HP <= 50%
-  desc_jp: Enemy turn counter change to 1 when HP <= 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -26,7 +25,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Void damage >= 40000000 for 99 turns + Delay active skills by 7 turns (Preemptive)
-  desc_jp: Void damage >= 40000000 for 99 turns + Delay active skills by 7 turns (Preemptive)
   max_atk_pct: null
   name_en: Heat Armor + Form Collapse
   one_time: 0
@@ -34,7 +32,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change all orbs to Jammer + Bind 3 random for 2 turns, Deal 115% damage
-  desc_jp: Change all orbs to Jammer + Bind 3 random for 2 turns, Deal 115% damage
   max_atk_pct: null
   name_en: Breath of Decay + Liberation from Freedom
   one_time: 0
@@ -42,7 +39,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Change all orbs to Jammer + Change 3rd row to Poison orbs, Deal 100% damage
-  desc_jp: Change all orbs to Jammer + Change 3rd row to Poison orbs, Deal 100% damage
   max_atk_pct: null
   name_en: Breath of Decay + Abundant Maliciousness
   one_time: 0
@@ -51,7 +47,6 @@ records:
 - !SkillRecord
   desc_en: Change all orbs to Jammer + Jammer skyfall +20% for 1 turns, Deal 110%
     damage
-  desc_jp: Change all orbs to Jammer + Jammer skyfall +20% for 1 turns, Deal 110%
     damage
   max_atk_pct: null
   name_en: Breath of Decay + Corrosive Dust
@@ -60,7 +55,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Change all orbs to Jammer + Deal 120% damage (5 hits, 24% each)
-  desc_jp: Change all orbs to Jammer + Deal 120% damage (5 hits, 24% each)
   max_atk_pct: null
   name_en: Breath of Decay + Gnaw Away
   one_time: 0
@@ -68,7 +62,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -76,7 +69,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -85,7 +77,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Reduce damage from all sources by
     75% for 1 turns
-  desc_jp: Voids status ailments for 999 turns + Reduce damage from all sources by
     75% for 1 turns
   max_atk_pct: null
   name_en: Blazing Dragon Scales + Flames are gathering in the mouth
@@ -94,7 +85,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -102,7 +92,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change own attribute to Fire + Change all orbs to Fire, Deal 500% damage
-  desc_jp: Change own attribute to Fire + Change all orbs to Fire, Deal 500% damage
   max_atk_pct: null
   name_en: Its flames changed + Scorching Firelands
   one_time: 0
@@ -110,7 +99,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -118,7 +106,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Movetime -3s for 1 turns, Deal 100% damage
-  desc_jp: Movetime -3s for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Lamplight of the Echoing Sphere
   one_time: 1
@@ -126,7 +113,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Bind awoken skills for 1 turns, Deal 100% damage
-  desc_jp: Bind awoken skills for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Withering Darkflame
   one_time: 1
@@ -134,7 +120,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: 3x3 cloud appear for 1 turns at random location, Deal 108% damage
-  desc_jp: 3x3 cloud appear for 1 turns at random location, Deal 108% damage
   max_atk_pct: 108
   name_en: Enshrouding Miasma
   one_time: 0
@@ -142,7 +127,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Spawn random 8 Jammer orbs, Deal 108% damage
-  desc_jp: Spawn random 8 Jammer orbs, Deal 108% damage
   max_atk_pct: 108
   name_en: Rotting Desire
   one_time: 0
@@ -150,7 +134,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -158,7 +141,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: 3x3 cloud appear for 1 turns at random location, Deal 108% damage
-  desc_jp: 3x3 cloud appear for 1 turns at random location, Deal 108% damage
   max_atk_pct: 108
   name_en: Enshrouding Miasma
   one_time: 0
@@ -166,7 +148,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Spawn random 8 Jammer orbs, Deal 108% damage
-  desc_jp: Spawn random 8 Jammer orbs, Deal 108% damage
   max_atk_pct: 108
   name_en: Rotting Desire
   one_time: 0
@@ -174,7 +155,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -182,7 +162,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -191,7 +170,6 @@ records:
 - !SkillRecord
   desc_en: Change own attribute to random one of Dark, Fire + Deal 1000% damage (5
     hits, 200% each)
-  desc_jp: Change own attribute to random one of Dark, Fire + Deal 1000% damage (5
     hits, 200% each)
   max_atk_pct: null
   name_en: Spiral Flames + Devastating Flames
@@ -200,7 +178,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 5
   one_time: null
@@ -209,7 +186,6 @@ records:
 - !SkillRecord
   desc_en: Change own attribute to random one of Dark, Fire + Deal 1000% damage (5
     hits, 200% each)
-  desc_jp: Change own attribute to random one of Dark, Fire + Deal 1000% damage (5
     hits, 200% each)
   max_atk_pct: null
   name_en: Spiral Flames + Devastating Flames

@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from Wood, Light by 50%
-  desc_jp: Reduce damage from Wood, Light by 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Bind Dark cards for 3 turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Bind Dark cards for 3 turns (Preemptive)
   max_atk_pct: null
   name_en: Here I come, brave rival! + Dragon Knight
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: When player has any buff
   one_time: null
@@ -41,7 +38,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Voids player buff effects
-  desc_jp: Voids player buff effects
   max_atk_pct: null
   name_en: Brave Resistance
   one_time: 0
@@ -49,7 +45,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -58,7 +53,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 200% for the next 2 turns + Change 3rd row to Light
     orbs, Deal 80% damage
-  desc_jp: Increase damage to 200% for the next 2 turns + Change 3rd row to Light
     orbs, Deal 80% damage
   max_atk_pct: null
   name_en: His sword is raised + Proud Slash
@@ -67,7 +61,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: Deal 100% damage (2 hits, 50% each) + Absorb Water damage for 1 turns
-  desc_jp: Deal 100% damage (2 hits, 50% each) + Absorb Water damage for 1 turns
   max_atk_pct: null
   name_en: Ruthless Saw + Dragontree Shield
   one_time: 0
@@ -75,7 +68,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: Delay active skills by 1 turns + Deal 110% damage
-  desc_jp: Delay active skills by 1 turns + Deal 110% damage
   max_atk_pct: null
   name_en: Stun Buckler + Slash and Thrust
   one_time: 0
@@ -83,7 +75,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -91,7 +82,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -99,7 +89,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -99% HP
-  desc_jp: Player -99% HP
   max_atk_pct: null
   name_en: Brave Resistance
   one_time: 0
@@ -107,7 +96,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -115,7 +103,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 1000% damage (2 hits, 500% each)
-  desc_jp: Deal 1000% damage (2 hits, 500% each)
   max_atk_pct: 1000
   name_en: Last Belief
   one_time: 0

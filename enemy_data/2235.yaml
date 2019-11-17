@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 50%
-  desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -26,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Change 3rd row to Jammer orbs, Deal
     1000% damage (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Change 3rd row to Jammer orbs, Deal
     1000% damage (Preemptive)
   max_atk_pct: null
   name_en: War Deity's Ambition + Rapid Scalding
@@ -35,7 +33,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -43,7 +40,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind 4 subs for 1 turns, Deal 900% damage
-  desc_jp: Bind 4 subs for 1 turns, Deal 900% damage
   max_atk_pct: 900
   name_en: Trembling Lance
   one_time: 0
@@ -52,7 +48,6 @@ records:
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 100% damage + Change Random to Fire,
     Deal 600% damage
-  desc_jp: Blind all orbs on the board, Deal 100% damage + Change Random to Fire,
     Deal 600% damage
   max_atk_pct: null
   name_en: Cinder Storm + Hidden Ember
@@ -61,7 +56,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Change Random 3 to Jammer, Deal 800% damage
-  desc_jp: Change Random 3 to Jammer, Deal 800% damage
   max_atk_pct: 800
   name_en: Wall Burst
   one_time: 0
@@ -69,7 +63,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Jammer to Fire, Deal 3000% damage
-  desc_jp: Change Jammer to Fire, Deal 3000% damage
   max_atk_pct: 3000
   name_en: Rubble Incineration
   one_time: 0
@@ -77,7 +70,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Lock all Fire, Light orbs, Deal 700% damage
-  desc_jp: Lock all Fire, Light orbs, Deal 700% damage
   max_atk_pct: 700
   name_en: Constant Grimness
   one_time: 0
@@ -85,7 +77,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 750%~1250% damage (3~5 hits, 250% each)
-  desc_jp: Deal 750%~1250% damage (3~5 hits, 250% each)
   max_atk_pct: 1250
   name_en: Thrust Combination
   one_time: 0
@@ -93,7 +84,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -102,7 +92,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Fire damage for 1 turns + Change 1st, 3rd, 4th, 6th column to Fire
     orbs, Deal 1500% damage
-  desc_jp: Absorb Fire damage for 1 turns + Change 1st, 3rd, 4th, 6th column to Fire
     orbs, Deal 1500% damage
   max_atk_pct: null
   name_en: Mars Core + Wall Eruption
@@ -111,7 +100,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 70
   one_time: null
@@ -119,7 +107,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -127,7 +114,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind Water cards for 5 turns
-  desc_jp: Bind Water cards for 5 turns
   max_atk_pct: null
   name_en: Revenge Full of Hatred
   one_time: 2
@@ -135,7 +121,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Bind 4 subs for 1 turns, Deal 900% damage
-  desc_jp: Bind 4 subs for 1 turns, Deal 900% damage
   max_atk_pct: 900
   name_en: Trembling Lance
   one_time: 0
@@ -144,7 +129,6 @@ records:
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 100% damage + Change Random to Fire,
     Deal 600% damage
-  desc_jp: Blind all orbs on the board, Deal 100% damage + Change Random to Fire,
     Deal 600% damage
   max_atk_pct: null
   name_en: Cinder Storm + Hidden Ember
@@ -153,7 +137,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Change Random 3 to Jammer, Deal 800% damage
-  desc_jp: Change Random 3 to Jammer, Deal 800% damage
   max_atk_pct: 800
   name_en: Wall Burst
   one_time: 0
@@ -161,7 +144,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Jammer to Fire, Deal 3000% damage
-  desc_jp: Change Jammer to Fire, Deal 3000% damage
   max_atk_pct: 3000
   name_en: Rubble Incineration
   one_time: 0
@@ -169,7 +151,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Lock all Fire, Light orbs, Deal 700% damage
-  desc_jp: Lock all Fire, Light orbs, Deal 700% damage
   max_atk_pct: 700
   name_en: Constant Grimness
   one_time: 0
@@ -177,7 +158,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 750%~1250% damage (3~5 hits, 250% each)
-  desc_jp: Deal 750%~1250% damage (3~5 hits, 250% each)
   max_atk_pct: 1250
   name_en: Thrust Combination
   one_time: 0
@@ -185,7 +165,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -194,7 +173,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Fire damage for 1 turns + Change 1st, 3rd, 4th, 6th column to Fire
     orbs, Deal 1500% damage
-  desc_jp: Absorb Fire damage for 1 turns + Change 1st, 3rd, 4th, 6th column to Fire
     orbs, Deal 1500% damage
   max_atk_pct: null
   name_en: Mars Core + Wall Eruption
@@ -203,7 +181,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -211,7 +188,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind 4 subs for 1 turns, Deal 900% damage
-  desc_jp: Bind 4 subs for 1 turns, Deal 900% damage
   max_atk_pct: 900
   name_en: Trembling Lance
   one_time: 0
@@ -220,7 +196,6 @@ records:
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 100% damage + Change Random to Fire,
     Deal 600% damage
-  desc_jp: Blind all orbs on the board, Deal 100% damage + Change Random to Fire,
     Deal 600% damage
   max_atk_pct: null
   name_en: Cinder Storm + Hidden Ember
@@ -229,7 +204,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Change Random 3 to Jammer, Deal 800% damage
-  desc_jp: Change Random 3 to Jammer, Deal 800% damage
   max_atk_pct: 800
   name_en: Wall Burst
   one_time: 0
@@ -237,7 +211,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Jammer to Fire, Deal 3000% damage
-  desc_jp: Change Jammer to Fire, Deal 3000% damage
   max_atk_pct: 3000
   name_en: Rubble Incineration
   one_time: 0
@@ -245,7 +218,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Lock all Fire, Light orbs, Deal 700% damage
-  desc_jp: Lock all Fire, Light orbs, Deal 700% damage
   max_atk_pct: 700
   name_en: Constant Grimness
   one_time: 0
@@ -253,7 +225,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 750%~1250% damage (3~5 hits, 250% each)
-  desc_jp: Deal 750%~1250% damage (3~5 hits, 250% each)
   max_atk_pct: 1250
   name_en: Thrust Combination
   one_time: 0
@@ -261,7 +232,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -269,7 +239,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -277,7 +246,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Void damage >= 1000000 for 10 turns
-  desc_jp: Void damage >= 1000000 for 10 turns
   max_atk_pct: null
   name_en: Divine Body's Shining Flames
   one_time: 1
@@ -285,7 +253,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -293,7 +260,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind Water cards for 5 turns
-  desc_jp: Bind Water cards for 5 turns
   max_atk_pct: null
   name_en: Revenge Full of Hatred
   one_time: 2
@@ -301,7 +267,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Bind 4 subs for 1 turns, Deal 900% damage
-  desc_jp: Bind 4 subs for 1 turns, Deal 900% damage
   max_atk_pct: 900
   name_en: Trembling Lance
   one_time: 0
@@ -310,7 +275,6 @@ records:
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 100% damage + Change Random to Fire,
     Deal 600% damage
-  desc_jp: Blind all orbs on the board, Deal 100% damage + Change Random to Fire,
     Deal 600% damage
   max_atk_pct: null
   name_en: Cinder Storm + Hidden Ember
@@ -319,7 +283,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Change Random 3 to Jammer, Deal 800% damage
-  desc_jp: Change Random 3 to Jammer, Deal 800% damage
   max_atk_pct: 800
   name_en: Wall Burst
   one_time: 0
@@ -327,7 +290,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Jammer to Fire, Deal 3000% damage
-  desc_jp: Change Jammer to Fire, Deal 3000% damage
   max_atk_pct: 3000
   name_en: Rubble Incineration
   one_time: 0
@@ -335,7 +297,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Lock all Fire, Light orbs, Deal 700% damage
-  desc_jp: Lock all Fire, Light orbs, Deal 700% damage
   max_atk_pct: 700
   name_en: Constant Grimness
   one_time: 0
@@ -343,7 +304,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 750%~1250% damage (3~5 hits, 250% each)
-  desc_jp: Deal 750%~1250% damage (3~5 hits, 250% each)
   max_atk_pct: 1250
   name_en: Thrust Combination
   one_time: 0
@@ -351,7 +311,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
   one_time: null
@@ -359,7 +318,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -367,7 +325,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Enemy recover 40% hp + Void damage >= 1000000 for 10 turns
-  desc_jp: Enemy recover 40% hp + Void damage >= 1000000 for 10 turns
   max_atk_pct: null
   name_en: Blazing Spirit + Divine Body's Shining Flames
   one_time: 1
@@ -376,7 +333,6 @@ records:
 - !SkillRecord
   desc_en: Enemy recover 40% hp + Change 1st, 3rd, 4th, 6th column to Fire orbs, Deal
     1500% damage
-  desc_jp: Enemy recover 40% hp + Change 1st, 3rd, 4th, 6th column to Fire orbs, Deal
     1500% damage
   max_atk_pct: null
   name_en: Blazing Spirit + Wall Eruption

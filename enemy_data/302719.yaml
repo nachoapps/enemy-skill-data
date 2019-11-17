@@ -19,7 +19,6 @@ records:
 - !SkillRecord
   desc_en: Void damage >= 20000000 for 99 turns + Voids status ailments for 999 turns
     + Player -35% HP (Preemptive)
-  desc_jp: Void damage >= 20000000 for 99 turns + Voids status ailments for 999 turns
     + Player -35% HP (Preemptive)
   max_atk_pct: null
   name_en: 神王の雷衣 + ドラゴンスキン + ラース・オブ・ゼウス
@@ -28,7 +27,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Voids player buff effects + Player -500% HP
-  desc_jp: Voids player buff effects + Player -500% HP
   max_atk_pct: null
   name_en: 神龍眼 + ドラゴンノヴァ
   one_time: 0
@@ -36,7 +34,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 90
   one_time: null
@@ -45,7 +42,6 @@ records:
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Water, Wood, Light, Dark +
     Bind 1 random for 2 turns, Deal 200% damage
-  desc_jp: Change own attribute to random one of Fire, Water, Wood, Light, Dark +
     Bind 1 random for 2 turns, Deal 200% damage
   max_atk_pct: null
   name_en: 全知全能 + 縛雷
@@ -54,7 +50,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 80
   one_time: null
@@ -63,7 +58,6 @@ records:
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Water, Wood, Light, Dark +
     Blind all orbs on the board, Deal 240% damage
-  desc_jp: Change own attribute to random one of Fire, Water, Wood, Light, Dark +
     Blind all orbs on the board, Deal 240% damage
   max_atk_pct: null
   name_en: 全知全能 + ダークライトニング
@@ -72,7 +66,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 70
   one_time: null
@@ -81,7 +74,6 @@ records:
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Water, Wood, Light, Dark +
     Change Random 3 to Poison, Deal 260% damage
-  desc_jp: Change own attribute to random one of Fire, Water, Wood, Light, Dark +
     Change Random 3 to Poison, Deal 260% damage
   max_atk_pct: null
   name_en: 全知全能 + デッドファング
@@ -90,7 +82,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 60
   one_time: null
@@ -99,7 +90,6 @@ records:
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Water, Wood, Light, Dark +
     Change Heal to Jammer, Deal 280% damage
-  desc_jp: Change own attribute to random one of Fire, Water, Wood, Light, Dark +
     Change Heal to Jammer, Deal 280% damage
   max_atk_pct: null
   name_en: 全知全能 + ハートエンド
@@ -108,7 +98,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -116,7 +105,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -125,7 +113,6 @@ records:
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Water, Wood, Light, Dark +
     Absorb combo <= 7 damage for 3 turns + Deal 600% damage (4 hits, 150% each)
-  desc_jp: Change own attribute to random one of Fire, Water, Wood, Light, Dark +
     Absorb combo <= 7 damage for 3 turns + Deal 600% damage (4 hits, 150% each)
   max_atk_pct: null
   name_en: 全知全能 + 天空の試練 + 天戒
@@ -135,7 +122,6 @@ records:
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Water, Wood, Light, Dark +
     Change 3rd column to Jammer orbs, Deal 340% damage
-  desc_jp: Change own attribute to random one of Fire, Water, Wood, Light, Dark +
     Change 3rd column to Jammer orbs, Deal 340% damage
   max_atk_pct: null
   name_en: 全知全能 + ボルトレイ
@@ -144,7 +130,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 40
   one_time: null
@@ -152,7 +137,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 450% damage (5 hits, 90% each) + Change all orbs to Heal, Poison
-  desc_jp: Deal 450% damage (5 hits, 90% each) + Change all orbs to Heal, Poison
   max_atk_pct: null
   name_en: チェインブラスト + 新天
   one_time: 0
@@ -160,7 +144,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
   one_time: null
@@ -169,7 +152,6 @@ records:
 - !SkillRecord
   desc_en: Deal 780% damage (6 hits, 130% each) + Lock 15 random Fire, Water, Wood,
     Light, Dark, Heal, Jammer, Poison orbs
-  desc_jp: Deal 780% damage (6 hits, 130% each) + Lock 15 random Fire, Water, Wood,
     Light, Dark, Heal, Jammer, Poison orbs
   max_atk_pct: null
   name_en: ストームライトニング + 神煌
@@ -178,7 +160,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -186,7 +167,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Voids player buff effects + Player -500% HP
-  desc_jp: Voids player buff effects + Player -500% HP
   max_atk_pct: null
   name_en: 神龍眼 + ドラゴンノヴァ
   one_time: 0

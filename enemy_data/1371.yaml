@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Change all orbs to Poison, Deal 10% damage (Preemptive)
-  desc_jp: Change all orbs to Poison, Deal 10% damage (Preemptive)
   max_atk_pct: 10
   name_en: You get no mercy!!
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random to Jammer, Deal 100% damage
-  desc_jp: Change Random to Jammer, Deal 100% damage
   max_atk_pct: 100
   name_en: Hell's Charge
   one_time: 1
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 150% damage (5 hits, 30% each)
-  desc_jp: Deal 150% damage (5 hits, 30% each)
   max_atk_pct: 150
   name_en: Ora ora ora oraah!!
   one_time: 0
@@ -57,7 +52,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -65,7 +59,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -73,7 +66,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change all orbs to Poison, Deal 10% damage
-  desc_jp: Change all orbs to Poison, Deal 10% damage
   max_atk_pct: 10
   name_en: You're going down!!
   one_time: 0
@@ -81,7 +73,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Random 6 to Poison, Deal 125% damage
-  desc_jp: Change Random 6 to Poison, Deal 125% damage
   max_atk_pct: 125
   name_en: Infernal Drive
   one_time: 0

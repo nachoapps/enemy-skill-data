@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 50%
-  desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -26,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Absorb damage >= 30000000 damage
     for 30 turns + Fire, Water skyfall +20% for 3 turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Absorb damage >= 30000000 damage
     for 30 turns + Fire, Water skyfall +20% for 3 turns (Preemptive)
   max_atk_pct: null
   name_en: Protection of the Stars + Preserving Bottle + Waking Sun - Aqua
@@ -35,7 +33,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1-2
   one_time: null
@@ -44,7 +41,6 @@ records:
 - !SkillRecord
   desc_en: Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 100% damage
-  desc_jp: Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Calil Celcela
@@ -53,7 +49,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Delay active skills by 2 turns, Deal 100% damage
-  desc_jp: Delay active skills by 2 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Aidid Auda
   one_time: 0
@@ -61,7 +56,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Spawn random 6 Water orbs, Deal 100% damage
-  desc_jp: Spawn random 6 Water orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Sana Azlak
   one_time: 0
@@ -69,7 +63,6 @@ records:
   usage_pct: 34
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -77,7 +70,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 99 turns
-  desc_jp: Increase damage to 150% for the next 99 turns
   max_atk_pct: null
   name_en: Limit of the Sky
   one_time: 1
@@ -85,7 +77,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -94,7 +85,6 @@ records:
 - !SkillRecord
   desc_en: Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 100% damage
-  desc_jp: Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Calil Celcela
@@ -103,7 +93,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Delay active skills by 2 turns, Deal 100% damage
-  desc_jp: Delay active skills by 2 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Aidid Auda
   one_time: 0
@@ -111,7 +100,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Spawn random 6 Water orbs, Deal 100% damage
-  desc_jp: Spawn random 6 Water orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Sana Azlak
   one_time: 0
@@ -119,7 +107,6 @@ records:
   usage_pct: 34
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -127,7 +114,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -135,7 +121,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Specific orbs change every 1.0s for 3 turns + Rcv 50% for 3 turns
-  desc_jp: Specific orbs change every 1.0s for 3 turns + Rcv 50% for 3 turns
   max_atk_pct: null
   name_en: Dawaaran + Shifa'a
   one_time: 0
@@ -144,7 +129,6 @@ records:
 - !SkillRecord
   desc_en: Deal 108% damage (6 hits, 18% each) + Column of cloud appear for 1 turns
     at random location
-  desc_jp: Deal 108% damage (6 hits, 18% each) + Column of cloud appear for 1 turns
     at random location
   max_atk_pct: null
   name_en: Mhidofa Uvundukia + Gunpowder Smoke
@@ -153,7 +137,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
   one_time: null
@@ -161,7 +144,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -170,7 +152,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 1 turns + Increase damage to
     150% for the next 99 turns
-  desc_jp: Reduce damage from all sources by 75% for 1 turns + Increase damage to
     150% for the next 99 turns
   max_atk_pct: null
   name_en: Protection of the Planets + Limit of the Sky
@@ -179,7 +160,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 2000% damage (4 hits, 500% each)
-  desc_jp: Deal 2000% damage (4 hits, 500% each)
   max_atk_pct: 2000
   name_en: Intee Kamkadam
   one_time: 0

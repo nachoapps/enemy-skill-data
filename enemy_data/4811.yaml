@@ -19,7 +19,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Reduce damage from all sources by
     75% for 1 turns + Void damage >= 50000000 for 999 turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Reduce damage from all sources by
     75% for 1 turns + Void damage >= 50000000 for 999 turns (Preemptive)
   max_atk_pct: null
   name_en: Oh, welcome to my shop + You're the one doing errands huh? + Show me the
@@ -29,7 +28,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -38,7 +36,6 @@ records:
 - !SkillRecord
   desc_en: Jammer, Poison skyfall +10% for 99 turns + Specific orbs change every 1.0s
     for 99 turns
-  desc_jp: Jammer, Poison skyfall +10% for 99 turns + Specific orbs change every 1.0s
     for 99 turns
   max_atk_pct: null
   name_en: You're just a small-fry + Well, try your best!
@@ -47,7 +44,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -56,7 +52,6 @@ records:
 - !SkillRecord
   desc_en: Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 100% damage
-  desc_jp: Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Viscid Dragon
@@ -65,7 +60,6 @@ records:
   usage_pct: 16
 - !SkillRecord
   desc_en: Deal 105% damage (3 hits, 35% each)
-  desc_jp: Deal 105% damage (3 hits, 35% each)
   max_atk_pct: 105
   name_en: Snappy
   one_time: 0
@@ -73,7 +67,6 @@ records:
   usage_pct: 16
 - !SkillRecord
   desc_en: Change Random to Dark, Deal 100% damage
-  desc_jp: Change Random to Dark, Deal 100% damage
   max_atk_pct: 100
   name_en: Colorful Palette
   one_time: 0
@@ -81,7 +74,6 @@ records:
   usage_pct: 17
 - !SkillRecord
   desc_en: Movetime -4s for 1 turns, Deal 95% damage
-  desc_jp: Movetime -4s for 1 turns, Deal 95% damage
   max_atk_pct: 95
   name_en: Cracked Hourglass
   one_time: 0
@@ -89,7 +81,6 @@ records:
   usage_pct: 17
 - !SkillRecord
   desc_en: Spawn random 5 Bomb orbs, Deal 100% damage
-  desc_jp: Spawn random 5 Bomb orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Dangerous Tools
   one_time: 0
@@ -97,7 +88,6 @@ records:
   usage_pct: 17
 - !SkillRecord
   desc_en: Bind 3 random cards for 2 turns, Deal 95% damage
-  desc_jp: Bind 3 random cards for 2 turns, Deal 95% damage
   max_atk_pct: 95
   name_en: Welding
   one_time: 0
@@ -105,7 +95,6 @@ records:
   usage_pct: 17
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 90
   one_time: null
@@ -113,7 +102,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -122,7 +110,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 99 turns + Delay active skills
     by 10 turns
-  desc_jp: Reduce damage from all sources by 50% for 99 turns + Delay active skills
     by 10 turns
   max_atk_pct: null
   name_en: You're doing quite well + This is fine, right?
@@ -131,7 +118,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 75
   one_time: null
@@ -139,7 +125,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -147,7 +132,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -50% HP + Absorb combo <= 7 damage for 99 turns
-  desc_jp: Player -50% HP + Absorb combo <= 7 damage for 99 turns
   max_atk_pct: null
   name_en: It huuurts! + How about this?
   one_time: 0
@@ -155,7 +139,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -163,7 +146,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -171,7 +153,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -75% HP + Bind awoken skills for 3 turns
-  desc_jp: Player -75% HP + Bind awoken skills for 3 turns
   max_atk_pct: null
   name_en: It huuurts! + You won't have me again
   one_time: 0
@@ -179,7 +160,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 25
   one_time: null
@@ -187,7 +167,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -195,7 +174,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -99% HP + Absorb Light, Dark damage for 99 turns
-  desc_jp: Player -99% HP + Absorb Light, Dark damage for 99 turns
   max_atk_pct: null
   name_en: It huuurts! + Is it over already?
   one_time: 0
@@ -203,7 +181,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
   one_time: null
@@ -211,7 +188,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 3000% damage (3 hits, 1000% each)
-  desc_jp: Deal 3000% damage (3 hits, 1000% each)
   max_atk_pct: 3000
   name_en: Right, good job!
   one_time: 0

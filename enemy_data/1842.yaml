@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Wood skyfall +15% for 99 turns (Preemptive)
-  desc_jp: Wood skyfall +15% for 99 turns (Preemptive)
   max_atk_pct: null
   name_en: Did you come to see me?
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Void damage >= 400000 for 5 turns
-  desc_jp: Void damage >= 400000 for 5 turns
   max_atk_pct: null
   name_en: Floral Mirror
   one_time: 1
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 110% damage
-  desc_jp: Deal 110% damage
   max_atk_pct: 110
   name_en: Aero Ball
   one_time: 0
@@ -57,7 +52,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -65,7 +59,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -73,7 +66,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb combo <= 4 damage for 3 turns
-  desc_jp: Absorb combo <= 4 damage for 3 turns
   max_atk_pct: null
   name_en: I'm having so much fun!♪
   one_time: 0
@@ -81,7 +73,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change 1st row to Wood orbs, Deal 170% damage
-  desc_jp: Change 1st row to Wood orbs, Deal 170% damage
   max_atk_pct: 170
   name_en: Blossom Wind
   one_time: 0
@@ -89,7 +80,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Spawn random 5 Fire orbs, Deal 170% damage
-  desc_jp: Spawn random 5 Fire orbs, Deal 170% damage
   max_atk_pct: 170
   name_en: Rose Cyclone
   one_time: 0

@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Bind 3 random cards for 2~4 turns (Preemptive)
-  desc_jp: Bind 3 random cards for 2~4 turns (Preemptive)
   max_atk_pct: null
   name_en: Tri Bind
   one_time: 1

@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: On death
   one_time: null
@@ -25,7 +24,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 3 Heal orbs
-  desc_jp: Spawn random 3 Heal orbs
   max_atk_pct: null
   name_en: Can you still stand and continue?
   one_time: 0
@@ -42,7 +40,6 @@ records:
 - !SkillRecord
   desc_en: Do nothing + Player recover 100% hp, (if [2675, 2676, 2677, 3353, 3354]
     on team) (Preemptive)
-  desc_jp: Do nothing + Player recover 100% hp, (if [2675, 2676, 2677, 3353, 3354]
     on team) (Preemptive)
   max_atk_pct: null
   name_en: 'Amongst these swords, there is one...
@@ -53,7 +50,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Player recover 100% hp (Preemptive)
-  desc_jp: Player recover 100% hp (Preemptive)
   max_atk_pct: null
   name_en: Try to defeat me if you can!!
   one_time: 0
@@ -61,7 +57,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: When player has any buff
   one_time: null
@@ -69,7 +64,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Voids player buff effects
-  desc_jp: Voids player buff effects
   max_atk_pct: null
   name_en: 'You haven''t the time
 
@@ -79,7 +73,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -87,7 +80,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -95,7 +87,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 1 turns
-  desc_jp: Reduce damage from all sources by 50% for 1 turns
   max_atk_pct: null
   name_en: Too weak.
   one_time: 0
@@ -103,7 +94,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -111,7 +101,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 100% damage
-  desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: Disable Skill
   one_time: 0
@@ -119,7 +108,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -127,7 +115,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Voids status ailments for 3 turns
-  desc_jp: Voids status ailments for 3 turns
   max_atk_pct: null
   name_en: You don't have time to be kneeling!
   one_time: 0
@@ -135,7 +122,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -143,7 +129,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Lock all Dark orbs, Deal 100% damage
-  desc_jp: Lock all Dark orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Move on to the next one!
   one_time: 0
@@ -151,7 +136,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Increase damage to 200% for the next 1 turns
-  desc_jp: Increase damage to 200% for the next 1 turns
   max_atk_pct: null
   name_en: Never take your eyes off the enemy.
   one_time: 1
@@ -159,7 +143,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -167,7 +150,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 100% damage
-  desc_jp: Deal 100% damage
   max_atk_pct: 100
   name_en: Disable Skill
   one_time: 0
@@ -175,7 +157,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -183,7 +164,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 200% for the next 1 turns
-  desc_jp: Increase damage to 200% for the next 1 turns
   max_atk_pct: null
   name_en: Never take your eyes off the enemy.
   one_time: 1
@@ -191,7 +171,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: On death
   one_time: null
@@ -199,7 +178,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 3 Heal orbs
-  desc_jp: Spawn random 3 Heal orbs
   max_atk_pct: null
   name_en: Can you still stand and continue?
   one_time: 0

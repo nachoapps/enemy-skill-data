@@ -18,7 +18,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 50%
-  desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -27,7 +26,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 2 turns + Absorb combo <= 4 damage for 999 turns
     (Preemptive)
-  desc_jp: Voids status ailments for 2 turns + Absorb combo <= 4 damage for 999 turns
     (Preemptive)
   max_atk_pct: null
   name_en: You've done well to come this far + Let's have some fun!
@@ -36,7 +34,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1-2
   one_time: null
@@ -45,7 +42,6 @@ records:
 - !SkillRecord
   desc_en: Change 3rd column to Light orbs, 4th column to Light orbs, Deal 12000%
     damage + Deal 18000% damage (3 hits, 6000% each)
-  desc_jp: Change 3rd column to Light orbs, 4th column to Light orbs, Deal 12000%
     damage + Deal 18000% damage (3 hits, 6000% each)
   max_atk_pct: null
   name_en: Lightning of God + Double Slap
@@ -55,7 +51,6 @@ records:
 - !SkillRecord
   desc_en: Change 4th row to Light orbs, Deal 15000% damage + Change Light to Jammer,
     Deal 7500% damage
-  desc_jp: Change 4th row to Light orbs, Deal 15000% damage + Change Light to Jammer,
     Deal 7500% damage
   max_atk_pct: null
   name_en: Zeus Blade + Mischief by God
@@ -65,7 +60,6 @@ records:
 - !SkillRecord
   desc_en: Change 4th row to Light orbs, Deal 15000% damage + Deal 18000% damage (3
     hits, 6000% each)
-  desc_jp: Change 4th row to Light orbs, Deal 15000% damage + Deal 18000% damage (3
     hits, 6000% each)
   max_atk_pct: null
   name_en: Zeus Blade + Double Slap
@@ -75,7 +69,6 @@ records:
 - !SkillRecord
   desc_en: Change 3rd column to Light orbs, 4th column to Light orbs, Deal 12000%
     damage + Bind 1 subs for 1~2 turns, Deal 10000% damage
-  desc_jp: Change 3rd column to Light orbs, 4th column to Light orbs, Deal 12000%
     damage + Bind 1 subs for 1~2 turns, Deal 10000% damage
   max_atk_pct: null
   name_en: Lightning of God + Diabolic Embrace
@@ -84,7 +77,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Change 4th row to Light orbs, Deal 15000% damage + Player -99% HP
-  desc_jp: Change 4th row to Light orbs, Deal 15000% damage + Player -99% HP
   max_atk_pct: null
   name_en: Zeus Blade + Ultra Gravity
   one_time: 0
@@ -92,7 +84,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 3
   one_time: null
@@ -101,7 +92,6 @@ records:
 - !SkillRecord
   desc_en: Change 3rd column to Light orbs, 4th column to Light orbs, Deal 12000%
     damage + Voids status ailments for 2 turns
-  desc_jp: Change 3rd column to Light orbs, 4th column to Light orbs, Deal 12000%
     damage + Voids status ailments for 2 turns
   max_atk_pct: null
   name_en: Lightning of God + Preening
@@ -110,7 +100,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 40
   one_time: null
@@ -118,7 +107,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -126,7 +114,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind God cards for 2~4 turns + Do nothing
-  desc_jp: Bind God cards for 2~4 turns + Do nothing
   max_atk_pct: null
   name_en: Glare of Zeus + Time to finish you off!
   one_time: 0
@@ -134,7 +121,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 45000% damage (10 hits, 4500% each) + Deal 80000% damage
-  desc_jp: Deal 45000% damage (10 hits, 4500% each) + Deal 80000% damage
   max_atk_pct: null
   name_en: Super Nova + Graviton Bomb
   one_time: 0
@@ -142,7 +128,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
   one_time: null
@@ -150,7 +135,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -95% HP + Enemy recover 50% hp
-  desc_jp: Player -95% HP + Enemy recover 50% hp
   max_atk_pct: null
   name_en: Wrath of God + Blessing of the Gods
   one_time: 0

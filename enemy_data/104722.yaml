@@ -19,7 +19,6 @@ records:
 - !SkillRecord
   desc_en: Spawn random 3 Wood orbs + Bind active skills for 1 turns + Spawn random
     10 Light, Heal, Jammer, Mortal Poison orbs (Preemptive)
-  desc_jp: Spawn random 3 Wood orbs + Bind active skills for 1 turns + Spawn random
     10 Light, Heal, Jammer, Mortal Poison orbs (Preemptive)
   max_atk_pct: null
   name_en: Magia Points have recovered + Seiren's Singing Voice + Themis's Oracle
@@ -28,7 +27,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1-3
   one_time: null
@@ -36,7 +34,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 3 Wood orbs + Change 4th column to Light orbs, Deal 80% damage
-  desc_jp: Spawn random 3 Wood orbs + Change 4th column to Light orbs, Deal 80% damage
   max_atk_pct: null
   name_en: Magia Points have recovered + Lightning of Zeus
   one_time: 2
@@ -44,7 +41,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Spawn random 3 Wood orbs + Deal 120% damage
-  desc_jp: Spawn random 3 Wood orbs + Deal 120% damage
   max_atk_pct: null
   name_en: Magia Points have recovered + Arrow of Artemis
   one_time: 2
@@ -52,7 +48,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Spawn random 3 Wood orbs + Deal 60%~120% damage (2~4 hits, 30% each)
-  desc_jp: Spawn random 3 Wood orbs + Deal 60%~120% damage (2~4 hits, 30% each)
   max_atk_pct: null
   name_en: Magia Points have recovered + Hera's Jealousy
   one_time: 2
@@ -60,7 +55,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Spawn random 3 Wood orbs + Bind 1 subs for 2 turns, Deal 100% damage
-  desc_jp: Spawn random 3 Wood orbs + Bind 1 subs for 2 turns, Deal 100% damage
   max_atk_pct: null
   name_en: Magia Points have recovered + Gaze of the Gorgon
   one_time: 2
@@ -68,7 +62,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -76,7 +69,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 3 Wood orbs + Delay active skills by 2 turns
-  desc_jp: Spawn random 3 Wood orbs + Delay active skills by 2 turns
   max_atk_pct: null
   name_en: Magia Points have recovered + Cattle Thief
   one_time: 2
@@ -84,7 +76,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
   one_time: null
@@ -92,7 +83,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 3 Wood orbs + Change 4th column to Light orbs, Deal 80% damage
-  desc_jp: Spawn random 3 Wood orbs + Change 4th column to Light orbs, Deal 80% damage
   max_atk_pct: null
   name_en: Magia Points have recovered + Lightning of Zeus
   one_time: 2
@@ -100,7 +90,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Spawn random 3 Wood orbs + Deal 120% damage
-  desc_jp: Spawn random 3 Wood orbs + Deal 120% damage
   max_atk_pct: null
   name_en: Magia Points have recovered + Arrow of Artemis
   one_time: 2
@@ -108,7 +97,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Spawn random 3 Wood orbs + Deal 60%~120% damage (2~4 hits, 30% each)
-  desc_jp: Spawn random 3 Wood orbs + Deal 60%~120% damage (2~4 hits, 30% each)
   max_atk_pct: null
   name_en: Magia Points have recovered + Hera's Jealousy
   one_time: 2
@@ -116,7 +104,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Spawn random 3 Wood orbs + Bind 1 subs for 2 turns, Deal 100% damage
-  desc_jp: Spawn random 3 Wood orbs + Bind 1 subs for 2 turns, Deal 100% damage
   max_atk_pct: null
   name_en: Magia Points have recovered + Gaze of the Gorgon
   one_time: 2
@@ -124,7 +111,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6
   one_time: null
@@ -132,7 +118,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 3 Wood orbs + Increase damage to 200% for the next 1 turns
-  desc_jp: Spawn random 3 Wood orbs + Increase damage to 200% for the next 1 turns
   max_atk_pct: null
   name_en: Magia Points have recovered + Persephone's Return
   one_time: 1
@@ -140,7 +125,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -148,7 +132,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -156,7 +139,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 3 Wood orbs + Deal 150% damage
-  desc_jp: Spawn random 3 Wood orbs + Deal 150% damage
   max_atk_pct: null
   name_en: Magia Points have recovered + Overdrive
   one_time: 0
@@ -164,7 +146,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -172,7 +153,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 3 Wood orbs + Increase damage to 200% for the next 1 turns
-  desc_jp: Spawn random 3 Wood orbs + Increase damage to 200% for the next 1 turns
   max_atk_pct: null
   name_en: Magia Points have recovered + Magia Activation
   one_time: 0
@@ -180,7 +160,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 75
   one_time: null
@@ -188,7 +167,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -196,7 +174,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 3 Wood orbs + Poison skyfall +20% for 3 turns
-  desc_jp: Spawn random 3 Wood orbs + Poison skyfall +20% for 3 turns
   max_atk_pct: null
   name_en: Magia Points have recovered + Hydra Venom
   one_time: 0
@@ -204,7 +181,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -212,7 +188,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 3 Wood orbs + Change 4th column to Light orbs, Deal 80% damage
-  desc_jp: Spawn random 3 Wood orbs + Change 4th column to Light orbs, Deal 80% damage
   max_atk_pct: null
   name_en: Magia Points have recovered + Lightning of Zeus
   one_time: 2
@@ -220,7 +195,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Spawn random 3 Wood orbs + Deal 120% damage
-  desc_jp: Spawn random 3 Wood orbs + Deal 120% damage
   max_atk_pct: null
   name_en: Magia Points have recovered + Arrow of Artemis
   one_time: 2
@@ -228,7 +202,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Spawn random 3 Wood orbs + Deal 60%~120% damage (2~4 hits, 30% each)
-  desc_jp: Spawn random 3 Wood orbs + Deal 60%~120% damage (2~4 hits, 30% each)
   max_atk_pct: null
   name_en: Magia Points have recovered + Hera's Jealousy
   one_time: 2
@@ -236,7 +209,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Spawn random 3 Wood orbs + Bind 1 subs for 2 turns, Deal 100% damage
-  desc_jp: Spawn random 3 Wood orbs + Bind 1 subs for 2 turns, Deal 100% damage
   max_atk_pct: null
   name_en: Magia Points have recovered + Gaze of the Gorgon
   one_time: 2
@@ -244,7 +216,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
   one_time: null
@@ -252,7 +223,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 3 Wood orbs + Delay active skills by 2 turns
-  desc_jp: Spawn random 3 Wood orbs + Delay active skills by 2 turns
   max_atk_pct: null
   name_en: Magia Points have recovered + Cattle Thief
   one_time: 2
@@ -260,7 +230,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6
   one_time: null
@@ -268,7 +237,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 3 Wood orbs + Change 4th column to Light orbs, Deal 80% damage
-  desc_jp: Spawn random 3 Wood orbs + Change 4th column to Light orbs, Deal 80% damage
   max_atk_pct: null
   name_en: Magia Points have recovered + Lightning of Zeus
   one_time: 2
@@ -276,7 +244,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Spawn random 3 Wood orbs + Deal 120% damage
-  desc_jp: Spawn random 3 Wood orbs + Deal 120% damage
   max_atk_pct: null
   name_en: Magia Points have recovered + Arrow of Artemis
   one_time: 2
@@ -284,7 +251,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Spawn random 3 Wood orbs + Deal 60%~120% damage (2~4 hits, 30% each)
-  desc_jp: Spawn random 3 Wood orbs + Deal 60%~120% damage (2~4 hits, 30% each)
   max_atk_pct: null
   name_en: Magia Points have recovered + Hera's Jealousy
   one_time: 2
@@ -292,7 +258,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Spawn random 3 Wood orbs + Bind 1 subs for 2 turns, Deal 100% damage
-  desc_jp: Spawn random 3 Wood orbs + Bind 1 subs for 2 turns, Deal 100% damage
   max_atk_pct: null
   name_en: Magia Points have recovered + Gaze of the Gorgon
   one_time: 2
@@ -300,7 +265,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 7
   one_time: null
@@ -308,7 +272,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 3 Wood orbs + Increase damage to 200% for the next 1 turns
-  desc_jp: Spawn random 3 Wood orbs + Increase damage to 200% for the next 1 turns
   max_atk_pct: null
   name_en: Magia Points have recovered + Persephone's Return
   one_time: 1
@@ -316,7 +279,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -324,7 +286,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -333,7 +294,6 @@ records:
 - !SkillRecord
   desc_en: Spawn random 3 Wood orbs + Reduce damage from all sources by 50% for 3
     turns
-  desc_jp: Spawn random 3 Wood orbs + Reduce damage from all sources by 50% for 3
     turns
   max_atk_pct: null
   name_en: Magia Points have recovered + Aegis
@@ -342,7 +302,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 25
   one_time: null
@@ -350,7 +309,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -358,7 +316,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 3 Wood orbs + Increase damage to 200% for the next 1 turns
-  desc_jp: Spawn random 3 Wood orbs + Increase damage to 200% for the next 1 turns
   max_atk_pct: null
   name_en: Magia Points have recovered + Magia Activation
   one_time: 0
@@ -366,7 +323,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -374,7 +330,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 3 Wood orbs + Deal 150% damage
-  desc_jp: Spawn random 3 Wood orbs + Deal 150% damage
   max_atk_pct: null
   name_en: Magia Points have recovered + Overdrive
   one_time: 0

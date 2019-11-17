@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Spawn random 10 Jammer orbs, Deal 50% damage (Preemptive)
-  desc_jp: Spawn random 10 Jammer orbs, Deal 50% damage (Preemptive)
   max_atk_pct: 50
   name_en: Out of the way!
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Water skyfall +15% for 99 turns
-  desc_jp: Water skyfall +15% for 99 turns
   max_atk_pct: null
   name_en: Yusui Dish
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 4th column to Water orbs, Deal 150% damage
-  desc_jp: Change 4th column to Water orbs, Deal 150% damage
   max_atk_pct: 150
   name_en: Salmon Sword
   one_time: 1

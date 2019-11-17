@@ -19,7 +19,6 @@ records:
   desc_en: Voids status ailments for 999 turns + Change 1st, 2nd, 5th, 6th column
     to Fire, Mortal Poison orbs, Deal 100% damage + Locked random skyfall +50% for
     10 turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Change 1st, 2nd, 5th, 6th column
     to Fire, Mortal Poison orbs, Deal 100% damage + Locked random skyfall +50% for
     10 turns (Preemptive)
   max_atk_pct: null
@@ -29,7 +28,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1-5
   one_time: null
@@ -37,7 +35,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random to Jammer, Deal 170% damage
-  desc_jp: Change Random to Jammer, Deal 170% damage
   max_atk_pct: 170
   name_en: Work of the Devil
   one_time: 0
@@ -45,7 +42,6 @@ records:
   usage_pct: 34
 - !SkillRecord
   desc_en: Deal 190% damage (2 hits, 95% each)
-  desc_jp: Deal 190% damage (2 hits, 95% each)
   max_atk_pct: 190
   name_en: Devil Dragon's Blade
   one_time: 0
@@ -53,7 +49,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Absorb combo <= 6 damage for 1 turns, Deal 180% damage
-  desc_jp: Absorb combo <= 6 damage for 1 turns, Deal 180% damage
   max_atk_pct: 180
   name_en: No Mercy
   one_time: 0
@@ -61,7 +56,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 6
   one_time: null
@@ -70,7 +64,6 @@ records:
 - !SkillRecord
   desc_en: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
     orbs, Deal 800% damage
-  desc_jp: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
     orbs, Deal 800% damage
   max_atk_pct: 800
   name_en: Soaring Destruction
@@ -79,7 +72,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -87,7 +79,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -95,7 +86,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb Fire, Water, Wood damage for 2 turns
-  desc_jp: Absorb Fire, Water, Wood damage for 2 turns
   max_atk_pct: null
   name_en: Injustice
   one_time: 0
@@ -103,7 +93,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1-4
   one_time: null
@@ -111,7 +100,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random to Jammer, Deal 170% damage
-  desc_jp: Change Random to Jammer, Deal 170% damage
   max_atk_pct: 170
   name_en: Work of the Devil
   one_time: 0
@@ -119,7 +107,6 @@ records:
   usage_pct: 34
 - !SkillRecord
   desc_en: Deal 190% damage (2 hits, 95% each)
-  desc_jp: Deal 190% damage (2 hits, 95% each)
   max_atk_pct: 190
   name_en: Devil Dragon's Blade
   one_time: 0
@@ -127,7 +114,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Absorb combo <= 6 damage for 1 turns, Deal 180% damage
-  desc_jp: Absorb combo <= 6 damage for 1 turns, Deal 180% damage
   max_atk_pct: 180
   name_en: No Mercy
   one_time: 0
@@ -135,7 +121,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
   one_time: null
@@ -144,7 +129,6 @@ records:
 - !SkillRecord
   desc_en: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
     orbs, Deal 800% damage
-  desc_jp: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
     orbs, Deal 800% damage
   max_atk_pct: 800
   name_en: Soaring Destruction
@@ -153,7 +137,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 6
   one_time: null
@@ -161,7 +144,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random to Jammer, Deal 170% damage
-  desc_jp: Change Random to Jammer, Deal 170% damage
   max_atk_pct: 170
   name_en: Work of the Devil
   one_time: 0
@@ -169,7 +151,6 @@ records:
   usage_pct: 34
 - !SkillRecord
   desc_en: Deal 190% damage (2 hits, 95% each)
-  desc_jp: Deal 190% damage (2 hits, 95% each)
   max_atk_pct: 190
   name_en: Devil Dragon's Blade
   one_time: 0
@@ -177,7 +158,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Absorb combo <= 6 damage for 1 turns, Deal 180% damage
-  desc_jp: Absorb combo <= 6 damage for 1 turns, Deal 180% damage
   max_atk_pct: 180
   name_en: No Mercy
   one_time: 0

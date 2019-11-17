@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Do nothing + Voids status ailments for 999 turns (Preemptive)
-  desc_jp: Do nothing + Voids status ailments for 999 turns (Preemptive)
   max_atk_pct: null
   name_en: My time is almost up... + Reflect
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Lock 3 random Fire, Water, Wood, Light, Dark orbs, Deal 110% damage
-  desc_jp: Lock 3 random Fire, Water, Wood, Light, Dark orbs, Deal 110% damage
   max_atk_pct: 110
   name_en: Flare
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 75
 - !SkillRecord
   desc_en: Change 2nd, 4th row to Light orbs, Deal 120% damage
-  desc_jp: Change 2nd, 4th row to Light orbs, Deal 120% damage
   max_atk_pct: 120
   name_en: Holy
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 60
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Enemy recover 100% hp
-  desc_jp: Enemy recover 100% hp
   max_atk_pct: null
   name_en: Curaga
   one_time: 1
@@ -57,7 +52,6 @@ records:
   usage_pct: 40
 - !SkillRecord
   desc_en: Lock 3 random Fire, Water, Wood, Light, Dark orbs, Deal 110% damage
-  desc_jp: Lock 3 random Fire, Water, Wood, Light, Dark orbs, Deal 110% damage
   max_atk_pct: 110
   name_en: Flare
   one_time: 0
@@ -65,7 +59,6 @@ records:
   usage_pct: 75
 - !SkillRecord
   desc_en: Change 2nd, 4th row to Light orbs, Deal 120% damage
-  desc_jp: Change 2nd, 4th row to Light orbs, Deal 120% damage
   max_atk_pct: 120
   name_en: Holy
   one_time: 0
@@ -73,7 +66,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -81,7 +73,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Enemy recover 100% hp
-  desc_jp: Enemy recover 100% hp
   max_atk_pct: null
   name_en: Curaga
   one_time: 1
@@ -89,7 +80,6 @@ records:
   usage_pct: 40
 - !SkillRecord
   desc_en: Spawn random 8 Fire orbs, Deal 250% damage
-  desc_jp: Spawn random 8 Fire orbs, Deal 250% damage
   max_atk_pct: 250
   name_en: Flare Star
   one_time: 0

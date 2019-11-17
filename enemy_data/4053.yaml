@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Survive attacks with 1 HP when HP > 50%
-  desc_jp: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -26,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Absorb Light, Dark damage for 30
     turns + Light, Dark skyfall +20% for 3 turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Absorb Light, Dark damage for 30
     turns + Light, Dark skyfall +20% for 3 turns (Preemptive)
   max_atk_pct: null
   name_en: Protection of the Stars + Scales of Discernment + Waking Star - Dark
@@ -35,7 +33,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1-2
   one_time: null
@@ -43,7 +40,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind 4 random cards for 1~2 turns, Deal 100% damage
-  desc_jp: Bind 4 random cards for 1~2 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Entahaz Masaka
   one_time: 0
@@ -51,7 +47,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 100% damage
-  desc_jp: Blind all orbs on the board, Deal 100% damage
   max_atk_pct: 100
   name_en: Kokzaram
   one_time: 0
@@ -59,7 +54,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Spawn random 6 Dark orbs, Deal 100% damage
-  desc_jp: Spawn random 6 Dark orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Sanaa Aswad
   one_time: 0
@@ -67,7 +61,6 @@ records:
   usage_pct: 34
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -75,7 +68,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 99 turns
-  desc_jp: Increase damage to 150% for the next 99 turns
   max_atk_pct: null
   name_en: Limit of the Sky
   one_time: 1
@@ -83,7 +75,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -91,7 +82,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind 4 random cards for 1~2 turns, Deal 100% damage
-  desc_jp: Bind 4 random cards for 1~2 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Entahaz Masaka
   one_time: 0
@@ -99,7 +89,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 100% damage
-  desc_jp: Blind all orbs on the board, Deal 100% damage
   max_atk_pct: 100
   name_en: Kokzaram
   one_time: 0
@@ -107,7 +96,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Spawn random 6 Dark orbs, Deal 100% damage
-  desc_jp: Spawn random 6 Dark orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Sanaa Aswad
   one_time: 0
@@ -115,7 +103,6 @@ records:
   usage_pct: 34
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -123,7 +110,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -131,7 +117,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind awoken skills for 3 turns + Movetime 50% for 3 turns
-  desc_jp: Bind awoken skills for 3 turns + Movetime 50% for 3 turns
   max_atk_pct: null
   name_en: Mahatuha + Sahwakt
   one_time: 0
@@ -139,7 +124,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 108% damage (3 hits, 36% each) + Blind random 6 orbs for 1 turns
-  desc_jp: Deal 108% damage (3 hits, 36% each) + Blind random 6 orbs for 1 turns
   max_atk_pct: null
   name_en: Sout Yadoreb + Yasurek Sitta
   one_time: 0
@@ -147,7 +131,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
   one_time: null
@@ -155,7 +138,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -164,7 +146,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 1 turns + Increase damage to
     150% for the next 99 turns
-  desc_jp: Reduce damage from all sources by 75% for 1 turns + Increase damage to
     150% for the next 99 turns
   max_atk_pct: null
   name_en: Protection of the Planets + Limit of the Sky
@@ -173,7 +154,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 2000% damage (4 hits, 500% each)
-  desc_jp: Deal 2000% damage (4 hits, 500% each)
   max_atk_pct: 2000
   name_en: Shamar Zoful
   one_time: 0

@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Specific orbs change every 1.0s for 1 turns (Preemptive)
-  desc_jp: Specific orbs change every 1.0s for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: Dragon Pulse of Darkness
   one_time: 2
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 300% damage (3 hits, 100% each)
-  desc_jp: Deal 300% damage (3 hits, 100% each)
   max_atk_pct: 300
   name_en: Black Dragon's Dance
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -41,7 +38,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 200% for the next 1 turns
-  desc_jp: Increase damage to 200% for the next 1 turns
   max_atk_pct: null
   name_en: Black Dragon's Roar
   one_time: 1
@@ -57,7 +52,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
   one_time: null
@@ -65,7 +59,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change all orbs to Fire, Dark, Heal, Deal 400% damage
-  desc_jp: Change all orbs to Fire, Dark, Heal, Deal 400% damage
   max_atk_pct: 400
   name_en: Draco Summon - Dark, Fire & Life
   one_time: 0

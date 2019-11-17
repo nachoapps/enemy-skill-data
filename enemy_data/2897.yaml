@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Absorb combo <= 3 damage for 1 turns + Change all orbs to Fire, Water,
     Wood, Light, Dark, Heal + Spawn random 14 Jammer orbs (Preemptive)
-  desc_jp: Absorb combo <= 3 damage for 1 turns + Change all orbs to Fire, Water,
     Wood, Light, Dark, Heal + Spawn random 14 Jammer orbs (Preemptive)
   max_atk_pct: null
   name_en: I shall test your abilities, adventurer + I'm hoping for a good combo!
@@ -28,7 +27,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -37,7 +35,6 @@ records:
 - !SkillRecord
   desc_en: Absorb combo <= 4 damage for 1 turns + Change all orbs to Fire, Water,
     Wood, Light, Dark, Heal + Blind all orbs on the board, (if >=4 combos last turn)
-  desc_jp: Absorb combo <= 4 damage for 1 turns + Change all orbs to Fire, Water,
     Wood, Light, Dark, Heal + Blind all orbs on the board, (if >=4 combos last turn)
   max_atk_pct: null
   name_en: This is just the beginning + How tedious... + Just let me enjoy this
@@ -46,7 +43,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Player -1000% HP
-  desc_jp: Player -1000% HP
   max_atk_pct: null
   name_en: Is that your best? Then begone!
   one_time: 0
@@ -54,7 +50,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -64,7 +59,6 @@ records:
   desc_en: Absorb combo <= 5 damage for 1 turns + Change all orbs to Fire, Water,
     Wood, Light, Dark, Heal, Poison + Column of cloud appear for 1 turns at 1st row,
     (if >=5 combos last turn)
-  desc_jp: Absorb combo <= 5 damage for 1 turns + Change all orbs to Fire, Water,
     Wood, Light, Dark, Heal, Poison + Column of cloud appear for 1 turns at 1st row,
     (if >=5 combos last turn)
   max_atk_pct: null
@@ -74,7 +68,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Player -1000% HP
-  desc_jp: Player -1000% HP
   max_atk_pct: null
   name_en: Is that your best? Then begone!
   one_time: 0
@@ -82,7 +75,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 3
   one_time: null
@@ -92,7 +84,6 @@ records:
   desc_en: Absorb combo <= 6 damage for 1 turns + Change 3rd row to Jammer orbs +
     Spawn random 3 Fire, Water, Wood, Light, Dark, Heal orbs, (if >=6 combos last
     turn)
-  desc_jp: Absorb combo <= 6 damage for 1 turns + Change 3rd row to Jammer orbs +
     Spawn random 3 Fire, Water, Wood, Light, Dark, Heal orbs, (if >=6 combos last
     turn)
   max_atk_pct: null
@@ -103,7 +94,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Player -1000% HP
-  desc_jp: Player -1000% HP
   max_atk_pct: null
   name_en: Is that your best? Then begone!
   one_time: 0
@@ -111,7 +101,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 4
   one_time: null
@@ -121,7 +110,6 @@ records:
   desc_en: Absorb combo <= 7 damage for 1 turns + Spawn Bomb orbs in the specified
     positions + Spawn random 3 Fire, Water, Wood, Light, Dark, Heal, Jammer orbs,
     (if >=7 combos last turn)
-  desc_jp: Absorb combo <= 7 damage for 1 turns + Spawn Bomb orbs in the specified
     positions + Spawn random 3 Fire, Water, Wood, Light, Dark, Heal, Jammer orbs,
     (if >=7 combos last turn)
   max_atk_pct: null
@@ -132,7 +120,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Player -1000% HP
-  desc_jp: Player -1000% HP
   max_atk_pct: null
   name_en: Is that your best? Then begone!
   one_time: 0
@@ -140,7 +127,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
   one_time: null
@@ -150,7 +136,6 @@ records:
   desc_en: Absorb combo <= 8 damage for 1 turns + Spawn random 6 Fire, Water, Wood,
     Light, Dark orbs + Fix orb movement starting point to random position on the board,
     (if >=8 combos last turn)
-  desc_jp: Absorb combo <= 8 damage for 1 turns + Spawn random 6 Fire, Water, Wood,
     Light, Dark orbs + Fix orb movement starting point to random position on the board,
     (if >=8 combos last turn)
   max_atk_pct: null
@@ -160,7 +145,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Player -1000% HP
-  desc_jp: Player -1000% HP
   max_atk_pct: null
   name_en: Pathetic! Come back when you're stronger
   one_time: 0
@@ -168,7 +152,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 6
   one_time: null
@@ -176,7 +159,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Do nothing + Reduce self HP to 0, (if >=9 combos last turn)
-  desc_jp: Do nothing + Reduce self HP to 0, (if >=9 combos last turn)
   max_atk_pct: null
   name_en: You have proven yourself, adventurer + This was great for killing time
   one_time: 1
@@ -184,7 +166,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Player -1000% HP
-  desc_jp: Player -1000% HP
   max_atk_pct: null
   name_en: Pathetic! Come back when you're stronger
   one_time: 0
@@ -192,7 +173,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -200,7 +180,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -1000% HP
-  desc_jp: Player -1000% HP
   max_atk_pct: null
   name_en: Pathetic! Come back when you're stronger
   one_time: 0

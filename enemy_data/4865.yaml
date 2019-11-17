@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Enemy turn counter change to 1 when HP <= 50%
-  desc_jp: Enemy turn counter change to 1 when HP <= 50%
   max_atk_pct: null
   name_en: Ability
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Spawn random 3 locked Bomb orbs + Voids status ailments for 5 turns (Preemptive)
-  desc_jp: Spawn random 3 locked Bomb orbs + Voids status ailments for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: Then let's light him up! + I'll be playing to win.
   one_time: 1
@@ -34,7 +32,6 @@ records:
 - !SkillRecord
   desc_en: Fix orb movement starting point to random position on the board + Deal
     100% damage
-  desc_jp: Fix orb movement starting point to random position on the board + Deal
     100% damage
   max_atk_pct: null
   name_en: He won't even know what hit him. + Why you!
@@ -43,7 +40,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -51,7 +47,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -59,7 +54,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 8 Bomb orbs
-  desc_jp: Spawn random 8 Bomb orbs
   max_atk_pct: null
   name_en: They're pulling out all the stops tonight.
   one_time: 0

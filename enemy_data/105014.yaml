@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Seal 5th row for 5 turns (Preemptive)
-  desc_jp: Seal 5th row for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: Hey... Was that your handiwork?
   one_time: 2
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind 2 random subs for 3 turns, Deal 90% damage
-  desc_jp: Bind 2 random subs for 3 turns, Deal 90% damage
   max_atk_pct: 90
   name_en: I'm not letting you get away.
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -49,7 +45,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Do nothing + Deal 120% damage
-  desc_jp: Do nothing + Deal 120% damage
   max_atk_pct: null
   name_en: 'I''ll have your heart! + Gae Bolg:
 
@@ -59,7 +54,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 50
   one_time: null
@@ -67,7 +61,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -75,7 +68,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb combo <= 5 damage for 99 turns
-  desc_jp: Absorb combo <= 5 damage for 99 turns
   max_atk_pct: null
   name_en: Protection from Arrows
   one_time: 1
@@ -83,7 +75,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -91,7 +82,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind 2 random subs for 3 turns, Deal 90% damage
-  desc_jp: Bind 2 random subs for 3 turns, Deal 90% damage
   max_atk_pct: 90
   name_en: I'm not letting you get away.
   one_time: 0
@@ -99,7 +89,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 15
   one_time: null
@@ -107,7 +96,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Do nothing + Change 3rd row to Water orbs, Deal 200% damage
-  desc_jp: Do nothing + Change 3rd row to Water orbs, Deal 200% damage
   max_atk_pct: null
   name_en: 'It''s a bit far, but I''ll settle it now! + Gae Bolg:
 

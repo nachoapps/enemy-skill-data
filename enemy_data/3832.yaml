@@ -19,7 +19,6 @@ records:
   desc_en: Change 1st, 2nd, 4th, 5th row to Fire, Water, Wood, Light, Dark, Heal orbs,
     3rd row to Mortal Poison orbs, Deal 200% damage + Voids status ailments for 5
     turns (Preemptive)
-  desc_jp: Change 1st, 2nd, 4th, 5th row to Fire, Water, Wood, Light, Dark, Heal orbs,
     3rd row to Mortal Poison orbs, Deal 200% damage + Voids status ailments for 5
     turns (Preemptive)
   max_atk_pct: null
@@ -29,7 +28,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1-4
   one_time: null
@@ -37,7 +35,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 240% damage (2 hits, 120% each)
-  desc_jp: Deal 240% damage (2 hits, 120% each)
   max_atk_pct: 240
   name_en: Wham! Bam!
   one_time: 0
@@ -45,7 +42,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 260% damage (4 hits, 65% each)
-  desc_jp: Deal 260% damage (4 hits, 65% each)
   max_atk_pct: 260
   name_en: Take that and that and that!
   one_time: 0
@@ -53,7 +49,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 5
   one_time: null
@@ -61,7 +56,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Void damage >= 10000000 for 99 turns + Enemy recover 15% hp
-  desc_jp: Void damage >= 10000000 for 99 turns + Enemy recover 15% hp
   max_atk_pct: null
   name_en: How about that, eh? Still wanna fight? + War Cycle
   one_time: 0
@@ -69,7 +63,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -77,7 +70,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 240% damage (2 hits, 120% each)
-  desc_jp: Deal 240% damage (2 hits, 120% each)
   max_atk_pct: 240
   name_en: Wham! Bam!
   one_time: 0
@@ -85,7 +77,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 260% damage (4 hits, 65% each)
-  desc_jp: Deal 260% damage (4 hits, 65% each)
   max_atk_pct: 260
   name_en: Take that and that and that!
   one_time: 0
@@ -93,7 +84,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 32
   one_time: null
@@ -101,7 +91,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -109,7 +98,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind random 1~4 orbs for 1 turns, Deal 220% damage
-  desc_jp: Blind random 1~4 orbs for 1 turns, Deal 220% damage
   max_atk_pct: 220
   name_en: Steely Gaze
   one_time: 0
@@ -117,7 +105,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: Increase damage to 450% for the next attack
-  desc_jp: Increase damage to 450% for the next attack
   max_atk_pct: null
   name_en: Here I go!!
   one_time: 3
@@ -125,7 +112,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2-4
   one_time: null
@@ -133,7 +119,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind random 1~4 orbs for 1 turns, Deal 220% damage
-  desc_jp: Blind random 1~4 orbs for 1 turns, Deal 220% damage
   max_atk_pct: 220
   name_en: Steely Gaze
   one_time: 0
@@ -141,7 +126,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: Deal 240% damage (2 hits, 120% each)
-  desc_jp: Deal 240% damage (2 hits, 120% each)
   max_atk_pct: 240
   name_en: Wham! Bam!
   one_time: 0
@@ -149,7 +133,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 260% damage (4 hits, 65% each)
-  desc_jp: Deal 260% damage (4 hits, 65% each)
   max_atk_pct: 260
   name_en: Take that and that and that!
   one_time: 0
@@ -157,7 +140,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -165,7 +147,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind random 1~4 orbs for 1 turns, Deal 220% damage
-  desc_jp: Blind random 1~4 orbs for 1 turns, Deal 220% damage
   max_atk_pct: 220
   name_en: Steely Gaze
   one_time: 0
@@ -173,7 +154,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: Increase damage to 450% for the next attack
-  desc_jp: Increase damage to 450% for the next attack
   max_atk_pct: null
   name_en: Here I go!!
   one_time: 3
@@ -181,7 +161,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2-4
   one_time: null
@@ -189,7 +168,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind random 1~4 orbs for 1 turns, Deal 220% damage
-  desc_jp: Blind random 1~4 orbs for 1 turns, Deal 220% damage
   max_atk_pct: 220
   name_en: Steely Gaze
   one_time: 0
@@ -197,7 +175,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: Deal 240% damage (2 hits, 120% each)
-  desc_jp: Deal 240% damage (2 hits, 120% each)
   max_atk_pct: 240
   name_en: Wham! Bam!
   one_time: 0
@@ -205,7 +182,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 260% damage (4 hits, 65% each)
-  desc_jp: Deal 260% damage (4 hits, 65% each)
   max_atk_pct: 260
   name_en: Take that and that and that!
   one_time: 0
@@ -213,7 +189,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 5
   one_time: null
@@ -221,7 +196,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1-4
   one_time: null
@@ -229,7 +203,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 1000% damage (10 hits, 100% each)
-  desc_jp: Deal 1000% damage (10 hits, 100% each)
   max_atk_pct: 1000
   name_en: Matchless Vajra Barrage
   one_time: 0
@@ -237,7 +210,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 1000% damage (10 hits, 100% each)
-  desc_jp: Deal 1000% damage (10 hits, 100% each)
   max_atk_pct: 1000
   name_en: Matchless Vajra Barrage
   one_time: 0

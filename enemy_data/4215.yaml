@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Dark skyfall +15% for 3 turns (Preemptive)
-  desc_jp: Dark skyfall +15% for 3 turns (Preemptive)
   max_atk_pct: null
   name_en: Do you like it?
   one_time: 2
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1-3
   one_time: null
@@ -33,7 +31,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb combo <= 5 damage for 2 turns
-  desc_jp: Absorb combo <= 5 damage for 2 turns
   max_atk_pct: null
   name_en: Rosy Cheeks
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 15
 - !SkillRecord
   desc_en: Deal 100% damage (2 hits, 50% each)
-  desc_jp: Deal 100% damage (2 hits, 50% each)
   max_atk_pct: 100
   name_en: Sweet Combo
   one_time: 0
@@ -49,7 +45,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 4
   one_time: null
@@ -58,7 +53,6 @@ records:
 - !SkillRecord
   desc_en: Fix orb movement starting point to random position on the board, Deal 120%
     damage
-  desc_jp: Fix orb movement starting point to random position on the board, Deal 120%
     damage
   max_atk_pct: 120
   name_en: Don't get cocky now
@@ -67,7 +61,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -75,7 +68,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -83,7 +75,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb Dark damage for 2 turns
-  desc_jp: Absorb Dark damage for 2 turns
   max_atk_pct: null
   name_en: Byakko's Perception
   one_time: 1
@@ -91,7 +82,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 10
   one_time: null
@@ -99,7 +89,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Dark, Deal 180% damage
-  desc_jp: Change all orbs to Fire, Water, Dark, Deal 180% damage
   max_atk_pct: 180
   name_en: Byakko Seven-Star Perception
   one_time: 0

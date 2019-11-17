@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Delay active skills by 3~5 turns + Poison skyfall +20% for 15 turns (Preemptive)
-  desc_jp: Delay active skills by 3~5 turns + Poison skyfall +20% for 15 turns (Preemptive)
   max_atk_pct: null
   name_en: Deeper, into the endless darkness... + Flowing Hatred in the Crimson Rain
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -34,7 +32,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 10 turns + Blind orbs in specific
     positions for 1 turns, Deal 90% damage
-  desc_jp: Reduce damage from all sources by 75% for 10 turns + Blind orbs in specific
     positions for 1 turns, Deal 90% damage
   max_atk_pct: null
   name_en: Elemental Sphere Protection + Veiled Boundaries
@@ -43,7 +40,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP <= 100
   one_time: null
@@ -51,7 +47,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -59,7 +54,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind orbs in specific positions for 1 turns, Deal 100% damage
-  desc_jp: Blind orbs in specific positions for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: A Shroud from the East
   one_time: 0
@@ -67,7 +61,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Blind orbs in specific positions for 1 turns, Deal 100% damage
-  desc_jp: Blind orbs in specific positions for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: A Shroud from the West
   one_time: 0
@@ -75,7 +68,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Blind orbs in specific positions for 1 turns, Deal 90% damage
-  desc_jp: Blind orbs in specific positions for 1 turns, Deal 90% damage
   max_atk_pct: 90
   name_en: Blackened Heavens
   one_time: 0
@@ -83,7 +75,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Blind orbs in specific positions for 1 turns, Deal 90% damage
-  desc_jp: Blind orbs in specific positions for 1 turns, Deal 90% damage
   max_atk_pct: 90
   name_en: Blackened Earth
   one_time: 0
@@ -91,7 +82,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -99,7 +89,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 3rd row to Fire, Poison orbs, Deal 120% damage
-  desc_jp: Change 3rd row to Fire, Poison orbs, Deal 120% damage
   max_atk_pct: 120
   name_en: Shadow Flame Bloodbath
   one_time: 0
@@ -107,7 +96,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Bind 2 random for 1 turns, Deal 120% damage
-  desc_jp: Bind 2 random for 1 turns, Deal 120% damage
   max_atk_pct: 120
   name_en: Dark Flame Shackles
   one_time: 0
@@ -115,7 +103,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 3
   one_time: null
@@ -123,7 +110,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 180% damage (3 hits, 60% each)
-  desc_jp: Deal 180% damage (3 hits, 60% each)
   max_atk_pct: 180
   name_en: A Pounding in the Night
   one_time: 0
@@ -131,7 +117,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
   one_time: null
@@ -139,7 +124,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 2
   one_time: null
@@ -147,7 +131,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb damage >= 800000 damage for 10 turns
-  desc_jp: Absorb damage >= 800000 damage for 10 turns
   max_atk_pct: null
   name_en: Thousand-Year Imprisonment
   one_time: 1
@@ -155,7 +138,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Blind orbs in specific positions for 1 turns, Deal 600% damage
-  desc_jp: Blind orbs in specific positions for 1 turns, Deal 600% damage
   max_atk_pct: 600
   name_en: Stirring the Eternal Grudge
   one_time: 0

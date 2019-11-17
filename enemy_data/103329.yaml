@@ -19,7 +19,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Leader changes to random sub for
     1 turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns + Leader changes to random sub for
     1 turns (Preemptive)
   max_atk_pct: null
   name_en: Antibodies + Hypnotism
@@ -28,7 +27,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Execute repeatedly. Turn 1
   one_time: null
@@ -37,7 +35,6 @@ records:
 - !SkillRecord
   desc_en: Absorb combo <= 6 damage for 1 turns + Change own attribute to random one
     of Fire, Water, Wood, Light, Dark, Deal 135% damage
-  desc_jp: Absorb combo <= 6 damage for 1 turns + Change own attribute to random one
     of Fire, Water, Wood, Light, Dark, Deal 135% damage
   max_atk_pct: null
   name_en: Multiple Walls + Elemental Purée
@@ -47,7 +44,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 1 turns + Change own attribute
     to random one of Fire, Water, Wood, Light, Dark, Deal 135% damage
-  desc_jp: Reduce damage from all sources by 75% for 1 turns + Change own attribute
     to random one of Fire, Water, Wood, Light, Dark, Deal 135% damage
   max_atk_pct: null
   name_en: Reflescale + Elemental Purée
@@ -56,7 +52,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
   one_time: null
@@ -64,7 +59,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Leader changes to random sub for 1 turns, Deal 90% damage
-  desc_jp: Leader changes to random sub for 1 turns, Deal 90% damage
   max_atk_pct: 90
   name_en: Hypno Pursuit
   one_time: 0
@@ -72,7 +66,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 50
   one_time: null
@@ -80,7 +73,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -88,7 +80,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Poison skyfall +30% for 1 turns + Seal 1st, 5th row for 1 turns
-  desc_jp: Poison skyfall +30% for 1 turns + Seal 1st, 5th row for 1 turns
   max_atk_pct: null
   name_en: Mournful Meteor + Forbidden Area
   one_time: 2
@@ -96,7 +87,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 25
   one_time: null
@@ -104,7 +94,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: Turn 1
   one_time: null
@@ -112,7 +101,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 200% for the next 999 turns + Enemy recover 20% hp
-  desc_jp: Increase damage to 200% for the next 999 turns + Enemy recover 20% hp
   max_atk_pct: null
   name_en: Glitter Force + Remedy
   one_time: 3
@@ -120,7 +108,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 20
   one_time: null
@@ -128,7 +115,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 900% damage (9 hits, 100% each)
-  desc_jp: Deal 900% damage (9 hits, 100% each)
   max_atk_pct: 900
   name_en: Stardust Comet
   one_time: 0

@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns (Preemptive)
-  desc_jp: Voids status ailments for 999 turns (Preemptive)
   max_atk_pct: null
   name_en: Wisdom of the Ancients
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Random to Water, Deal 80% damage
-  desc_jp: Change Random to Water, Deal 80% damage
   max_atk_pct: 80
   name_en: Aquatic Star of Blessing
   one_time: 0
@@ -33,7 +31,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Player -50% HP
-  desc_jp: Player -50% HP
   max_atk_pct: null
   name_en: Malevolent Star of Disaster
   one_time: 0
@@ -41,7 +38,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 125% damage
-  desc_jp: Deal 125% damage
   max_atk_pct: 125
   name_en: Gear Impact
   one_time: 0
@@ -49,7 +45,6 @@ records:
   usage_pct: 75
 - !SkillRecord
   desc_en: ''
-  desc_jp: ''
   max_atk_pct: null
   name_en: HP < 30
   one_time: null
@@ -57,7 +52,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 180% damage (12 hits, 15% each)
-  desc_jp: Deal 180% damage (12 hits, 15% each)
   max_atk_pct: 180
   name_en: Constellation Blast
   one_time: 0

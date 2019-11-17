@@ -17,7 +17,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Movetime -1s for 5 turns (Preemptive)
-  desc_jp: Movetime -1s for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: Fear of Death
   one_time: 0
@@ -25,7 +24,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 400% damage (4 hits, 100% each)
-  desc_jp: Deal 400% damage (4 hits, 100% each)
   max_atk_pct: 400
   name_en: Death Scythe
   one_time: 0
