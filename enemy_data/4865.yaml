@@ -32,7 +32,6 @@ records:
 - !SkillRecord
   desc_en: Fix orb movement starting point to random position on the board + Deal
     100% damage
-    100% damage
   max_atk_pct: null
   name_en: He won't even know what hit him. + Why you!
   one_time: 0

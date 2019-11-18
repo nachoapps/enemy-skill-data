@@ -25,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Absorb damage >= 4000000 damage for 10 turns + 1x2 cloud appear for 10
     turns at random location (Preemptive)
-    turns at random location (Preemptive)
   max_atk_pct: null
   name_en: Crown of Death + Dark Cloud
   one_time: 0

@@ -53,7 +53,6 @@ records:
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 45% damage + Change Dark to Jammer, Deal
     80% damage
-    80% damage
   max_atk_pct: null
   name_en: Jumping Strike Attack + Scaleblade Swing
   one_time: 0

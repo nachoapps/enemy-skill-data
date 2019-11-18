@@ -138,7 +138,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Void damage >= 40000000 for 99 turns
     + Change player HP to 500000 for 99 turns + Voids player buff effects
-    + Change player HP to 500000 for 99 turns + Voids player buff effects
   max_atk_pct: null
   name_en: I wonder if your life means anything + Defense of the Twin Ships + Ark
     Contract + Requiem

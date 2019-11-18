@@ -40,7 +40,6 @@ records:
 - !SkillRecord
   desc_en: Movetime 50% for 10 turns + Change Heal to Jammer, Deal 120% damage + Voids
     status ailments for 999 turns (Preemptive)
-    status ailments for 999 turns (Preemptive)
   max_atk_pct: null
   name_en: Swirling Black Emotions + Threat Removal + Quat Dafiea Easifah
   one_time: 0
@@ -55,7 +54,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn locked Bomb orbs in the specified positions + Rcv 50% for 10 turns,
-    Deal 100% damage
     Deal 100% damage
   max_atk_pct: null
   name_en: Exploding Heresy + Look of False Evil

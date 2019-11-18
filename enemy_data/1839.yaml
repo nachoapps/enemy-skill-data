@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Locked random skyfall +30% for 99 turns + Voids status ailments for 999
     turns (Preemptive)
-    turns (Preemptive)
   max_atk_pct: null
   name_en: You better watch this radiance!! + Crystal Aura
   one_time: 0

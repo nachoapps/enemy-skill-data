@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Fire, Water, Wood damage for 5 turns + Movetime 50% for 10 turns
     (Preemptive)
-    (Preemptive)
   max_atk_pct: null
   name_en: Ripening of the Land + Second Hand's Limited Time
   one_time: 2
@@ -117,7 +116,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 20 turns + Locked Light, Dark
-    skyfall +100% for 20 turns
     skyfall +100% for 20 turns
   max_atk_pct: null
   name_en: Settling Down + World-Wrecking Rumble

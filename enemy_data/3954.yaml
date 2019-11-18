@@ -40,7 +40,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 1 turns, (if [3930, 3931, 3942,
     3943] on team) (Preemptive)
-    3943] on team) (Preemptive)
   max_atk_pct: null
   name_en: W...Welcome home?...
   one_time: 2
@@ -62,7 +61,6 @@ records:
   usage_pct: 34
 - !SkillRecord
   desc_en: Change 1st, 3rd, 5th row to Heal orbs, 2nd row to Fire orbs, 4th row to
-    Fire, Jammer orbs, Deal 50% damage
     Fire, Jammer orbs, Deal 50% damage
   max_atk_pct: 50
   name_en: Neat and Tidy

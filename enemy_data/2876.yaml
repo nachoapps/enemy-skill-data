@@ -54,7 +54,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 5 turns + Change all orbs to Water, Dark, Heal,
     Deal 130% damage (Preemptive)
-    Deal 130% damage (Preemptive)
   max_atk_pct: null
   name_en: Let's confirm your wishes + Abyss Dark Ring
   one_time: 0
@@ -153,7 +152,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 120% damage (4 hits, 30% each) + Change all orbs to Water, Dark, Heal,
-    Deal 130% damage
     Deal 130% damage
   max_atk_pct: null
   name_en: Abyss Hole + Abyss Dark Ring

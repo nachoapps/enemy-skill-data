@@ -39,7 +39,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 4 turns + Voids status ailments
     for 4 turns
-    for 4 turns
   max_atk_pct: null
   name_en: Magic Barrier + Ice Mirror Barrier
   one_time: 1
@@ -62,7 +61,6 @@ records:
 - !SkillRecord
   desc_en: Change 1st column to Water orbs, 2nd column to Water, Dark orbs, Deal 100%
     damage + Lock all Water orbs
-    damage + Lock all Water orbs
   max_atk_pct: null
   name_en: Frost Left + Chilled Aqua
   one_time: 0
@@ -78,7 +76,6 @@ records:
 - !SkillRecord
   desc_en: Change 5th column to Water, Dark orbs, 6th column to Dark orbs, Deal 100%
     damage + Lock all Dark orbs
-    damage + Lock all Dark orbs
   max_atk_pct: null
   name_en: Nightmare Right + Chilled Darkness
   one_time: 0
@@ -93,7 +90,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 3rd column to Dark orbs, 4th column to Water orbs, Deal 100% damage
-    + Lock 12 random Fire, Water, Wood, Light, Dark orbs
     + Lock 12 random Fire, Water, Wood, Light, Dark orbs
   max_atk_pct: null
   name_en: Median Joker + Chilled Shuffle

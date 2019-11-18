@@ -52,7 +52,6 @@ records:
 - !SkillRecord
   desc_en: Specific orbs change every 0.8s for 20 turns + Deal 129% damage (3 hits,
     43% each), (if >=9 combos last turn)
-    43% each), (if >=9 combos last turn)
   max_atk_pct: null
   name_en: Traversing Radiance + Shining Arrow
   one_time: 0
@@ -60,7 +59,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Specific orbs change every 0.8s for 20 turns + Bind 1 subs for 2 turns,
-    Deal 120% damage, (if >=9 combos last turn)
     Deal 120% damage, (if >=9 combos last turn)
   max_atk_pct: null
   name_en: Traversing Radiance + Light Prison
@@ -70,7 +68,6 @@ records:
 - !SkillRecord
   desc_en: Specific orbs change every 1.0s for 20 turns + Deal 129% damage (3 hits,
     43% each), (if >=6 combos last turn)
-    43% each), (if >=6 combos last turn)
   max_atk_pct: null
   name_en: Traversing Radiance + Shining Arrow
   one_time: 0
@@ -78,7 +75,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Specific orbs change every 1.0s for 20 turns + Bind 1 subs for 2 turns,
-    Deal 120% damage, (if >=6 combos last turn)
     Deal 120% damage, (if >=6 combos last turn)
   max_atk_pct: null
   name_en: Traversing Radiance + Light Prison
@@ -88,7 +84,6 @@ records:
 - !SkillRecord
   desc_en: Specific orbs change every 1.5s for 20 turns + Bind 1 subs for 2 turns,
     Deal 120% damage
-    Deal 120% damage
   max_atk_pct: null
   name_en: Traversing Radiance + Light Prison
   one_time: 0
@@ -96,7 +91,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Specific orbs change every 1.5s for 20 turns + Deal 129% damage (3 hits,
-    43% each)
     43% each)
   max_atk_pct: null
   name_en: Traversing Radiance + Shining Arrow
@@ -120,7 +114,6 @@ records:
 - !SkillRecord
   desc_en: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
     orbs, Deal 160% damage
-    orbs, Deal 160% damage
   max_atk_pct: 160
   name_en: Shadow of Fate
   one_time: 1
@@ -143,7 +136,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 200% for the next 1 turns + Absorb combo <= 6 damage
     for 15 turns
-    for 15 turns
   max_atk_pct: null
   name_en: Philysians + Prism Mirror
   one_time: 1
@@ -165,7 +157,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb combo <= 9 damage for 1 turns + Specific orbs change every 1.0s
-    for 20 turns
     for 20 turns
   max_atk_pct: null
   name_en: Prism Mirror + Traversing Radiance

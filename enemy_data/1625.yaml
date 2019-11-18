@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Movetime 25% for 1 turns + Change player HP to 1000000 for 1 turns + Spawn
     random 6 Bomb orbs (Preemptive)
-    random 6 Bomb orbs (Preemptive)
   max_atk_pct: null
   name_en: 足掻いてみるがいい + ほれ + せいぜい頑張るんじゃな
   one_time: 2
@@ -132,7 +131,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Movetime 25% for 1 turns + Change player HP to 1000000 for 1 turns + Spawn
-    random 8 locked Bomb orbs (Preemptive)
     random 8 locked Bomb orbs (Preemptive)
   max_atk_pct: null
   name_en: 足掻いてみるがいい + ほれ + せいぜい頑張るんじゃな

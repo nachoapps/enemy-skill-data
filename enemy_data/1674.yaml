@@ -68,7 +68,6 @@ records:
 - !SkillRecord
   desc_en: Absorb combo <= 5 damage for 99 turns + Void damage >= 10000000 for 6 turns
     (Preemptive)
-    (Preemptive)
   max_atk_pct: null
   name_en: Norn's Trace + Space-Time Barrier
   one_time: 0
@@ -84,7 +83,6 @@ records:
 - !SkillRecord
   desc_en: Change 1st column to Water orbs, 6th column to Wood orbs, Deal 155% damage
     + Spawn random 1 Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison orbs
-    + Spawn random 1 Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison orbs
   max_atk_pct: null
   name_en: Bifröst Obligation + Norn's Whim
   one_time: 0
@@ -92,7 +90,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Leader changes to random sub for 1 turns + Change all orbs to Water, Wood,
-    Heal, Deal 180% damage
     Heal, Deal 180% damage
   max_atk_pct: null
   name_en: Norn's Mischief + Norn Slave
@@ -151,7 +148,6 @@ records:
 - !SkillRecord
   desc_en: Change 1st row to Water orbs, 5th row to Wood orbs, Deal 110% damage +
     Reduce damage from all sources by 50% for 1 turns
-    Reduce damage from all sources by 50% for 1 turns
   max_atk_pct: null
   name_en: Bifröst Obligation + Fighting Maiden's Protection
   one_time: 0
@@ -208,7 +204,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Enemy recover 50% hp + Voids status ailments for 999 turns + Movetime 50%
-    for 12 turns
     for 12 turns
   max_atk_pct: null
   name_en: Healing Scratch + The cogs of fate are now in motion + Nornil Curse

@@ -26,7 +26,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Void damage >= 15000000 for 999 turns
     (Preemptive)
-    (Preemptive)
   max_atk_pct: null
   name_en: Radiance of Enlightenment + Halo of Truth
   one_time: 0
@@ -104,7 +103,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
-    orbs
     orbs
   max_atk_pct: null
   name_en: Jail of the Six Realms

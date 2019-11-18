@@ -25,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Void damage >= 500000 for 5 turns,
     (if [2141, 2142, 2143, 2144, 2145, 2146] on team) (Preemptive)
-    (if [2141, 2142, 2143, 2144, 2145, 2146] on team) (Preemptive)
   max_atk_pct: null
   name_en: Have you discovered the real me? + Your Dragon God is waiting for you...
   one_time: 512
@@ -33,7 +32,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Void damage >= 500000 for 5 turns
-    (Preemptive)
     (Preemptive)
   max_atk_pct: null
   name_en: Have you discovered the real me? + Space-Time Distortion
@@ -49,7 +47,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 3rd row to Heal, Jammer orbs, Deal 160% damage + Fix orb movement
-    starting point to random position on the board
     starting point to random position on the board
   max_atk_pct: null
   name_en: Continuous Border + Time Warp
@@ -94,7 +91,6 @@ records:
 - !SkillRecord
   desc_en: Change 3rd row to Heal, Jammer orbs, Deal 160% damage + Fix orb movement
     starting point to random position on the board
-    starting point to random position on the board
   max_atk_pct: null
   name_en: Continuous Border + Time Warp
   one_time: 32
@@ -137,7 +133,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 3rd row to Heal, Jammer orbs, Deal 160% damage + Fix orb movement
-    starting point to random position on the board
     starting point to random position on the board
   max_atk_pct: null
   name_en: Continuous Border + Time Warp
@@ -203,7 +198,6 @@ records:
 - !SkillRecord
   desc_en: Absorb combo <= 6 damage for 1 turns + Fix orb movement starting point
     to random position on the board
-    to random position on the board
   max_atk_pct: null
   name_en: Strain + Time Warp
   one_time: 0
@@ -218,7 +212,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 3rd row to Heal, Jammer orbs, Deal 160% damage + Fix orb movement
-    starting point to random position on the board
     starting point to random position on the board
   max_atk_pct: null
   name_en: Continuous Border + Time Warp
@@ -263,7 +256,6 @@ records:
 - !SkillRecord
   desc_en: Change 3rd row to Heal, Jammer orbs, Deal 160% damage + Fix orb movement
     starting point to random position on the board
-    starting point to random position on the board
   max_atk_pct: null
   name_en: Continuous Border + Time Warp
   one_time: 32
@@ -306,7 +298,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 3rd row to Heal, Jammer orbs, Deal 160% damage + Fix orb movement
-    starting point to random position on the board
     starting point to random position on the board
   max_atk_pct: null
   name_en: Continuous Border + Time Warp
@@ -373,7 +364,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Void damage >= 500000 for 5 turns,
     (if [2141, 2142, 2143, 2144, 2145, 2146] on team) (Preemptive)
-    (if [2141, 2142, 2143, 2144, 2145, 2146] on team) (Preemptive)
   max_atk_pct: null
   name_en: Have you discovered the real me? + Your Dragon God is waiting for you...
   one_time: 512
@@ -381,7 +371,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Void damage >= 500000 for 5 turns
-    (Preemptive)
     (Preemptive)
   max_atk_pct: null
   name_en: Have you discovered the real me? + Space-Time Distortion
@@ -397,7 +386,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 3rd row to Heal, Jammer orbs, Deal 160% damage + Fix orb movement
-    starting point to random position on the board
     starting point to random position on the board
   max_atk_pct: null
   name_en: Continuous Border + Time Warp
@@ -442,7 +430,6 @@ records:
 - !SkillRecord
   desc_en: Change 3rd row to Heal, Jammer orbs, Deal 160% damage + Fix orb movement
     starting point to random position on the board
-    starting point to random position on the board
   max_atk_pct: null
   name_en: Continuous Border + Time Warp
   one_time: 32
@@ -485,7 +472,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 3rd row to Heal, Jammer orbs, Deal 160% damage + Fix orb movement
-    starting point to random position on the board
     starting point to random position on the board
   max_atk_pct: null
   name_en: Continuous Border + Time Warp
@@ -551,7 +537,6 @@ records:
 - !SkillRecord
   desc_en: Absorb combo <= 7 damage for 1 turns + Fix orb movement starting point
     to random position on the board
-    to random position on the board
   max_atk_pct: null
   name_en: Strain + Time Warp
   one_time: 0
@@ -566,7 +551,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 3rd row to Heal, Jammer orbs, Deal 160% damage + Fix orb movement
-    starting point to random position on the board
     starting point to random position on the board
   max_atk_pct: null
   name_en: Continuous Border + Time Warp
@@ -611,7 +595,6 @@ records:
 - !SkillRecord
   desc_en: Change 3rd row to Heal, Jammer orbs, Deal 160% damage + Fix orb movement
     starting point to random position on the board
-    starting point to random position on the board
   max_atk_pct: null
   name_en: Continuous Border + Time Warp
   one_time: 32
@@ -654,7 +637,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 3rd row to Heal, Jammer orbs, Deal 160% damage + Fix orb movement
-    starting point to random position on the board
     starting point to random position on the board
   max_atk_pct: null
   name_en: Continuous Border + Time Warp

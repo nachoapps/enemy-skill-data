@@ -40,7 +40,6 @@ records:
 - !SkillRecord
   desc_en: Void damage >= 8000000 for 999 turns + Random 1 orbs change every 1.0s
     for 10 turns (Preemptive)
-    for 10 turns (Preemptive)
   max_atk_pct: null
   name_en: Twin Star Shadow + Dark Hole
   one_time: 2
@@ -62,7 +61,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: Lock 3 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
-    Poison orbs, Deal 150% damage
     Poison orbs, Deal 150% damage
   max_atk_pct: 150
   name_en: Tenjarie

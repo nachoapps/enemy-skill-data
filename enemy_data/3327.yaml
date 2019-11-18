@@ -19,7 +19,6 @@ records:
 - !SkillRecord
   desc_en: Movetime 200% for 20 turns + Absorb combo <= 7 damage for 999 turns, (if
     [2744] on team) (Preemptive)
-    [2744] on team) (Preemptive)
   max_atk_pct: null
   name_en: Miséricorde + Your humanity is meaningless to me.
   one_time: 128
@@ -41,7 +40,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Bind 1 subs for 4 turns, Deal 150%
-    damage
     damage
   max_atk_pct: null
   name_en: Bouclier du Vent + Embrassement du Vent
@@ -190,7 +188,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 3 turns + Increase damage to
-    200% for the next 999 turns
     200% for the next 999 turns
   max_atk_pct: null
   name_en: Woke up startled + I'm just a little cranky, you know?

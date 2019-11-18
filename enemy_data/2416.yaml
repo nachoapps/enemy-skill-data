@@ -40,7 +40,6 @@ records:
 - !SkillRecord
   desc_en: Poison skyfall +20% for 5 turns + Locked Poison skyfall +100% for 30 turns
     (Preemptive)
-    (Preemptive)
   max_atk_pct: null
   name_en: Look! + That's a lot of meteors!
   one_time: 0
@@ -55,7 +54,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb combo <= 6 damage for 15 turns + Unable to match Poison orbs for
-    1 turns
     1 turns
   max_atk_pct: null
   name_en: Like the stars in the night sky... + Show me your locus...

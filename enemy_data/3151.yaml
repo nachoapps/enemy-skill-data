@@ -46,7 +46,6 @@ records:
 - !SkillRecord
   desc_en: Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 95% damage
-    Poison orbs, Deal 95% damage
   max_atk_pct: 95
   name_en: I don't want to move!
   one_time: 0

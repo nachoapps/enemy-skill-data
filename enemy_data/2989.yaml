@@ -25,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Delay active skills by 3~5 turns
     (Preemptive)
-    (Preemptive)
   max_atk_pct: null
   name_en: Mode-Sea Armor + Justice Wave
   one_time: 0

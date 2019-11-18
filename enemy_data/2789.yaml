@@ -62,7 +62,6 @@ records:
 - !SkillRecord
   desc_en: Lock 6 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 150% damage
-    Poison orbs, Deal 150% damage
   max_atk_pct: 150
   name_en: Sentence
   one_time: 0
@@ -91,7 +90,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
-    orbs, Deal 130% damage
     orbs, Deal 130% damage
   max_atk_pct: 130
   name_en: Judgment

@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Fire damage for 5 turns + Change Water, Light, Dark to Fire, Deal
     180% damage (Preemptive)
-    180% damage (Preemptive)
   max_atk_pct: null
   name_en: War Scales + Raging Blaze
   one_time: 0
@@ -55,7 +54,6 @@ records:
 - !SkillRecord
   desc_en: Specific orbs change every 1.0s for 10 turns + Absorb combo <= 6 damage
     for 10 turns
-    for 10 turns
   max_atk_pct: null
   name_en: Flame Spiral + Hellfire Rope
   one_time: 1
@@ -70,7 +68,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Lock 4 random Fire, Water, Wood, Light, Dark, Heal orbs + Deal 165% damage
-    (3 hits, 55% each)
     (3 hits, 55% each)
   max_atk_pct: null
   name_en: Incineration + Brutal Inferno Fangs
@@ -87,7 +84,6 @@ records:
 - !SkillRecord
   desc_en: Lock 8 random Fire, Water, Wood, Light, Dark, Heal orbs + Deal 165% damage
     (3 hits, 55% each)
-    (3 hits, 55% each)
   max_atk_pct: null
   name_en: Incineration + Brutal Inferno Fangs
   one_time: 0
@@ -103,7 +99,6 @@ records:
 - !SkillRecord
   desc_en: Lock 12 random Fire, Water, Wood, Light, Dark, Heal orbs + Deal 165% damage
     (3 hits, 55% each)
-    (3 hits, 55% each)
   max_atk_pct: null
   name_en: Incineration + Brutal Inferno Fangs
   one_time: 0
@@ -118,7 +113,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
-    orbs, Deal 500% damage
     orbs, Deal 500% damage
   max_atk_pct: 500
   name_en: Roaring Destruction

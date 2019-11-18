@@ -32,7 +32,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 2 turns + Reduce damage from all sources by 50%
     for 2 turns
-    for 2 turns
   max_atk_pct: null
   name_en: I won't let you do that! + Now is the time for endurance
   one_time: 0

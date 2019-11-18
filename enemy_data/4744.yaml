@@ -36,7 +36,6 @@ records:
 - !SkillRecord
   desc_en: Change Random to Heal, Deal 90% damage + Blind all orbs on the board, Deal
     60% damage
-    60% damage
   max_atk_pct: null
   name_en: Noctilucence + Gloom
   one_time: 0
@@ -44,7 +43,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Change Random 3 to Poison, Deal 65% damage + Blind all orbs on the board,
-    Deal 60% damage
     Deal 60% damage
   max_atk_pct: null
   name_en: Rotting Heat + Gloom
@@ -54,7 +52,6 @@ records:
 - !SkillRecord
   desc_en: Change Random to Heal, Deal 90% damage + Bind 1 subs for 1 turns, Deal
     60% damage
-    60% damage
   max_atk_pct: null
   name_en: Noctilucence + Drought
   one_time: 0
@@ -62,7 +59,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Change Random 3 to Poison, Deal 65% damage + Bind 1 subs for 1 turns, Deal
-    60% damage
     60% damage
   max_atk_pct: null
   name_en: Rotting Heat + Drought
@@ -93,7 +89,6 @@ records:
 - !SkillRecord
   desc_en: Deal 80% damage (4 hits, 20% each) + Blind all orbs on the board, Deal
     60% damage
-    60% damage
   max_atk_pct: null
   name_en: Synchronized Burst + Gloom
   one_time: 1
@@ -101,7 +96,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Deal 80% damage (4 hits, 20% each) + Bind 1 subs for 1 turns, Deal 60%
-    damage
     damage
   max_atk_pct: null
   name_en: Synchronized Burst + Drought
@@ -131,7 +125,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Water, Wood, Light, Dark +
-    Deal 2500% damage (5 hits, 500% each)
     Deal 2500% damage (5 hits, 500% each)
   max_atk_pct: null
   name_en: Dusk + Demina Miracle

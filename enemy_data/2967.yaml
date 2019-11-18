@@ -110,7 +110,6 @@ records:
 - !SkillRecord
   desc_en: Absorb combo <= 5 damage for 1 turns + Fix orb movement starting point
     to random position on the board
-    to random position on the board
   max_atk_pct: null
   name_en: Strain + Time Warp
   one_time: 1

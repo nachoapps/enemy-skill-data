@@ -34,7 +34,6 @@ records:
 - !SkillRecord
   desc_en: Lock 3 random Fire, Water, Wood, Light, Dark, Heal, Jammer orbs, (if [2675,
     2676, 2677, 3353, 3354] on team)
-    2676, 2677, 3353, 3354] on team)
   max_atk_pct: null
   name_en: Well, "ichi", what say we be friends!
   one_time: 0

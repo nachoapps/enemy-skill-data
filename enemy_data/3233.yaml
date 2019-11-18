@@ -19,7 +19,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Absorb damage >= 6000000 damage for
     999 turns (Preemptive)
-    999 turns (Preemptive)
   max_atk_pct: null
   name_en: Barrier Charm + Heavenly Mirror Scales
   one_time: 0
@@ -42,7 +41,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Light damage for 2 turns + Bind 1 random for 2 turns, Deal 260%
     damage
-    damage
   max_atk_pct: null
   name_en: Thousand-Seal Prison + Silk Chains
   one_time: 4
@@ -57,7 +55,6 @@ records:
   usage_pct: 17
 - !SkillRecord
   desc_en: Absorb Water damage for 2 turns + Bind 1 random for 2 turns, Deal 260%
-    damage
     damage
   max_atk_pct: null
   name_en: Thousand-Seal Prison + Silk Chains

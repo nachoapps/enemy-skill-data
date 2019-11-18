@@ -25,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Void damage >= 10000000 for 999 turns + Jammer skyfall +10% for 99 turns
     (Preemptive)
-    (Preemptive)
   max_atk_pct: null
   name_en: Wicked Neigh + Dreaded Downpour
   one_time: 0
@@ -55,7 +54,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Reduce damage from all sources by
     99% for 1 turns
-    99% for 1 turns
   max_atk_pct: null
   name_en: Devil King's Barrier + Immortality
   one_time: 4
@@ -70,7 +68,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Dark + Deal 600000% damage
-    (6 hits, 100000% each)
     (6 hits, 100000% each)
   max_atk_pct: null
   name_en: Reversal of Fate + Cosmic End
@@ -149,7 +146,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Dark + Deal 600000% damage
-    (6 hits, 100000% each)
     (6 hits, 100000% each)
   max_atk_pct: null
   name_en: Reversal of Fate + Cosmic End
@@ -174,7 +170,6 @@ records:
 - !SkillRecord
   desc_en: Void damage >= 100000000 for 999 turns + Jammer skyfall +10% for 99 turns
     (Preemptive)
-    (Preemptive)
   max_atk_pct: null
   name_en: Wicked Neigh + Dreaded Downpour
   one_time: 0
@@ -204,7 +199,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Reduce damage from all sources by
     99% for 1 turns
-    99% for 1 turns
   max_atk_pct: null
   name_en: Devil King's Barrier + Immortality
   one_time: 4
@@ -219,7 +213,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Dark + Deal 600000% damage
-    (6 hits, 100000% each)
     (6 hits, 100000% each)
   max_atk_pct: null
   name_en: Reversal of Fate + Cosmic End
@@ -298,7 +291,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Dark + Deal 600000% damage
-    (6 hits, 100000% each)
     (6 hits, 100000% each)
   max_atk_pct: null
   name_en: Reversal of Fate + Cosmic End

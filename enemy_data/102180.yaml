@@ -32,7 +32,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 10 turns + Reduce damage from all sources by
     50% for 3 turns + Movetime 50% for 10 turns (Preemptive)
-    50% for 3 turns + Movetime 50% for 10 turns (Preemptive)
   max_atk_pct: null
   name_en: Dark Protection of Yomi + The Feathered Garment of Yomi + Malicious Laughter
   one_time: 0
@@ -97,7 +96,6 @@ records:
 - !SkillRecord
   desc_en: Change Random 11 to Poison + Lock all Fire, Water, Wood, Light, Dark, Heal,
     Jammer, Poison, Mortal Poison orbs
-    Jammer, Poison, Mortal Poison orbs
   max_atk_pct: null
   name_en: An Invitation to Death & Decay + Curse of the Eternal Land
   one_time: 0
@@ -147,7 +145,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random 11 to Poison + Lock all Fire, Water, Wood, Light, Dark, Heal,
-    Jammer, Poison, Mortal Poison orbs
     Jammer, Poison, Mortal Poison orbs
   max_atk_pct: null
   name_en: An Invitation to Death & Decay + Curse of the Eternal Land
@@ -199,7 +196,6 @@ records:
 - !SkillRecord
   desc_en: Change Random 11 to Poison + Lock all Fire, Water, Wood, Light, Dark, Heal,
     Jammer, Poison, Mortal Poison orbs
-    Jammer, Poison, Mortal Poison orbs
   max_atk_pct: null
   name_en: An Invitation to Death & Decay + Curse of the Eternal Land
   one_time: 0
@@ -250,7 +246,6 @@ records:
 - !SkillRecord
   desc_en: Change Random 11 to Poison + Lock all Fire, Water, Wood, Light, Dark, Heal,
     Jammer, Poison, Mortal Poison orbs
-    Jammer, Poison, Mortal Poison orbs
   max_atk_pct: null
   name_en: An Invitation to Death & Decay + Curse of the Eternal Land
   one_time: 0
@@ -293,7 +288,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb combo <= 7 damage for 999 turns + Blind orbs in specific positions
-    for 4 turns + Increase damage to 400% for the next 999 turns
     for 4 turns + Increase damage to 400% for the next 999 turns
   max_atk_pct: null
   name_en: Protection of the Eight Thunders + Boundary of Disdain + The Nature of
@@ -360,7 +354,6 @@ records:
 - !SkillRecord
   desc_en: Change Random 11 to Poison + Lock all Fire, Water, Wood, Light, Dark, Heal,
     Jammer, Poison, Mortal Poison orbs
-    Jammer, Poison, Mortal Poison orbs
   max_atk_pct: null
   name_en: An Invitation to Death & Decay + Curse of the Eternal Land
   one_time: 0
@@ -410,7 +403,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random 11 to Poison + Lock all Fire, Water, Wood, Light, Dark, Heal,
-    Jammer, Poison, Mortal Poison orbs
     Jammer, Poison, Mortal Poison orbs
   max_atk_pct: null
   name_en: An Invitation to Death & Decay + Curse of the Eternal Land
@@ -462,7 +454,6 @@ records:
 - !SkillRecord
   desc_en: Change Random 11 to Poison + Lock all Fire, Water, Wood, Light, Dark, Heal,
     Jammer, Poison, Mortal Poison orbs
-    Jammer, Poison, Mortal Poison orbs
   max_atk_pct: null
   name_en: An Invitation to Death & Decay + Curse of the Eternal Land
   one_time: 0
@@ -512,7 +503,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Enemy recover 4% hp + Absorb combo <= 7 damage for 999 turns + Blind orbs
-    in specific positions for 4 turns + Increase damage to 400% for the next 999 turns
     in specific positions for 4 turns + Increase damage to 400% for the next 999 turns
   max_atk_pct: null
   name_en: Unwavering Light + Protection of the Eight Thunders + Boundary of Disdain

@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 3 turns + Change all orbs to
     Fire, Water, Wood, Light, Dark, Deal 100% damage (Preemptive)
-    Fire, Water, Wood, Light, Dark, Deal 100% damage (Preemptive)
   max_atk_pct: null
   name_en: Cross On! + Flame Falcon Blinding Light
   one_time: 0
@@ -69,7 +68,6 @@ records:
 - !SkillRecord
   desc_en: Absorb combo <= 4 damage for 2 turns + Change 1st row to Fire orbs, Deal
     80% damage
-    80% damage
   max_atk_pct: null
   name_en: Five Origins' Sanctuary + Inferno Blast
   one_time: 0
@@ -78,7 +76,6 @@ records:
 - !SkillRecord
   desc_en: Absorb combo <= 4 damage for 2 turns + Change 1st row to Water orbs, Deal
     80% damage
-    80% damage
   max_atk_pct: null
   name_en: Five Origins' Sanctuary + Mirage Blade
   one_time: 0
@@ -86,7 +83,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Absorb combo <= 4 damage for 2 turns + Change 1st row to Wood orbs, Deal
-    80% damage
     80% damage
   max_atk_pct: null
   name_en: Five Origins' Sanctuary + Wind Spiral
@@ -117,7 +113,6 @@ records:
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark + Change 1st row to Fire
     orbs, Deal 80% damage
-    orbs, Deal 80% damage
   max_atk_pct: null
   name_en: Five Origins' Tuning + Inferno Blast
   one_time: 0
@@ -126,7 +121,6 @@ records:
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark + Change 1st row to Water
     orbs, Deal 80% damage
-    orbs, Deal 80% damage
   max_atk_pct: null
   name_en: Five Origins' Tuning + Mirage Blade
   one_time: 0
@@ -134,7 +128,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark + Change 1st row to Wood
-    orbs, Deal 80% damage
     orbs, Deal 80% damage
   max_atk_pct: null
   name_en: Five Origins' Tuning + Wind Spiral
@@ -158,7 +151,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Change Random to Jammer, Deal 75%
     damage
-    damage
   max_atk_pct: null
   name_en: Sky God Protection + Dragon Summoning!!!
   one_time: 1
@@ -180,7 +172,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Bind 4 subs for 3 turns, Deal 50%
-    damage
     damage
   max_atk_pct: null
   name_en: Sky God Protection + Dragon Summoning!!!
@@ -204,7 +195,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Change all orbs to Fire, Water, Wood,
     Light, Dark, Deal 100% damage + Deal 200% damage (10 hits, 20% each)
-    Light, Dark, Deal 100% damage + Deal 200% damage (10 hits, 20% each)
   max_atk_pct: null
   name_en: Sky God Protection + Flame Falcon Blinding Light + 10 combos!!
   one_time: 1
@@ -212,7 +202,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Deal 100% damage + Deal
-    200% damage (10 hits, 20% each)
     200% damage (10 hits, 20% each)
   max_atk_pct: null
   name_en: Flame Falcon Blinding Light + 10 combos!!

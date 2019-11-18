@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Void damage >= 1 for 999 turns + Absorb combo <= 8 damage for 999 turns
     + Spawn random 6 Light, Dark, Heal, Jammer, Poison orbs (Preemptive)
-    + Spawn random 6 Light, Dark, Heal, Jammer, Poison orbs (Preemptive)
   max_atk_pct: null
   name_en: I think you can do it + Now, grasp hold of hope... + Pandora's Box
   one_time: 1
@@ -33,7 +32,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Delay active skills by 10 turns + Movetime 50% for 10 turns + Reduce self
-    HP to 0
     HP to 0
   max_atk_pct: null
   name_en: Too bad... + Overflowed Despair + Farewell
@@ -51,7 +49,6 @@ records:
 - !SkillRecord
   desc_en: Void damage >= 1 for 999 turns + Absorb combo <= 9 damage for 999 turns
     + Spawn random 6 Light, Dark, Heal, Jammer, Poison orbs (Preemptive)
-    + Spawn random 6 Light, Dark, Heal, Jammer, Poison orbs (Preemptive)
   max_atk_pct: null
   name_en: I think you can do it + Now, grasp hold of hope... + Pandora's Box
   one_time: 1
@@ -60,7 +57,6 @@ records:
 - !SkillRecord
   desc_en: Movetime 200% for 10 turns + Reduce self HP to 0, (if >=10 combos last
     turn)
-    turn)
   max_atk_pct: null
   name_en: Congratulations + I give you hope
   one_time: 0
@@ -68,7 +64,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Delay active skills by 10 turns + Movetime 50% for 10 turns + Reduce self
-    HP to 0
     HP to 0
   max_atk_pct: null
   name_en: Too bad... + Overflowed Despair + Farewell

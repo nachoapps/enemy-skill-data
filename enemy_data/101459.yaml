@@ -25,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Delay active skills by 5 turns + Spawn random 5 Fire, Water, Wood, Light,
     Dark, Heal, Jammer, Poison, Mortal Poison orbs (Preemptive)
-    Dark, Heal, Jammer, Poison, Mortal Poison orbs (Preemptive)
   max_atk_pct: null
   name_en: Echoing Howl + Quinary Prism
   one_time: 0
@@ -139,7 +138,6 @@ records:
 - !SkillRecord
   desc_en: Delay active skills by 5 turns + Change all orbs to Fire, Water, Wood,
     Light, Dark, Heal, Jammer, Deal 150% damage
-    Light, Dark, Heal, Jammer, Deal 150% damage
   max_atk_pct: null
   name_en: Echoing Howl + Linking Rays
   one_time: 0
@@ -168,7 +166,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Delay active skills by 5 turns + Change all orbs to Fire, Water, Wood,
-    Light, Dark, Heal, Jammer, Deal 150% damage
     Light, Dark, Heal, Jammer, Deal 150% damage
   max_atk_pct: null
   name_en: Echoing Howl + Linking Rays

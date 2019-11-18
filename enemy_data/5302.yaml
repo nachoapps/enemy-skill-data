@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Immune to damage from all sources
     for 999 turns + unknown + Spawn random 6 Fire, Water, Wood, Light, Dark orbs (Preemptive)
-    for 999 turns + unknown + Spawn random 6 Fire, Water, Wood, Light, Dark orbs (Preemptive)
   max_atk_pct: null
   name_en: ようこそ新元号へ + 私の名前はレイワ + 覚えてくれると･･･嬉しい + がんばってコンボしてね
   one_time: 0
@@ -34,7 +33,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 5 turns + Remove damage immunity
     effect, (if >=10 combos last turn)
-    effect, (if >=10 combos last turn)
   max_atk_pct: null
   name_en: 君･･･すごいね + それじゃ、いくよ
   one_time: 0
@@ -42,7 +40,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 5 turns + Void damage >= 50000000
-    for 999 turns + Remove damage immunity effect, (if >=7 combos last turn)
     for 999 turns + Remove damage immunity effect, (if >=7 combos last turn)
   max_atk_pct: null
   name_en: おしかったね + スタビリティー + それじゃ、いくよ
@@ -91,7 +88,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Water damage for 2 turns + Change own attribute to random one of
     Fire, Water, Deal 100% damage
-    Fire, Water, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
   one_time: 2
@@ -99,7 +95,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Absorb Wood damage for 2 turns + Change own attribute to random one of
-    Water, Wood, Deal 100% damage
     Water, Wood, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
@@ -109,7 +104,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Fire damage for 2 turns + Change own attribute to random one of
     Wood, Fire, Deal 100% damage
-    Wood, Fire, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
   one_time: 2
@@ -118,7 +112,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Dark damage for 2 turns + Change own attribute to random one of
     Light, Dark, Deal 100% damage
-    Light, Dark, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
   one_time: 2
@@ -126,7 +119,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Absorb Light damage for 2 turns + Change own attribute to random one of
-    Dark, Light, Deal 100% damage
     Dark, Light, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
@@ -150,7 +142,6 @@ records:
 - !SkillRecord
   desc_en: Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs + Deal 105% damage (3 hits, 35% each)
-    Poison orbs + Deal 105% damage (3 hits, 35% each)
   max_atk_pct: null
   name_en: 漣錠 + ブレードダンス
   one_time: 0
@@ -166,7 +157,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Water damage for 2 turns + Change own attribute to random one of
     Fire, Water, Deal 100% damage
-    Fire, Water, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
   one_time: 2
@@ -174,7 +164,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Absorb Wood damage for 2 turns + Change own attribute to random one of
-    Water, Wood, Deal 100% damage
     Water, Wood, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
@@ -184,7 +173,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Fire damage for 2 turns + Change own attribute to random one of
     Wood, Fire, Deal 100% damage
-    Wood, Fire, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
   one_time: 2
@@ -193,7 +181,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Dark damage for 2 turns + Change own attribute to random one of
     Light, Dark, Deal 100% damage
-    Light, Dark, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
   one_time: 2
@@ -201,7 +188,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Absorb Light damage for 2 turns + Change own attribute to random one of
-    Dark, Light, Deal 100% damage
     Dark, Light, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
@@ -225,7 +211,6 @@ records:
 - !SkillRecord
   desc_en: Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs + Deal 105% damage (3 hits, 35% each)
-    Poison orbs + Deal 105% damage (3 hits, 35% each)
   max_atk_pct: null
   name_en: 漣錠 + ブレードダンス
   one_time: 0
@@ -241,7 +226,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Water damage for 2 turns + Change own attribute to random one of
     Fire, Water, Deal 100% damage
-    Fire, Water, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
   one_time: 2
@@ -249,7 +233,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Absorb Wood damage for 2 turns + Change own attribute to random one of
-    Water, Wood, Deal 100% damage
     Water, Wood, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
@@ -259,7 +242,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Fire damage for 2 turns + Change own attribute to random one of
     Wood, Fire, Deal 100% damage
-    Wood, Fire, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
   one_time: 2
@@ -268,7 +250,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Dark damage for 2 turns + Change own attribute to random one of
     Light, Dark, Deal 100% damage
-    Light, Dark, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
   one_time: 2
@@ -276,7 +257,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Absorb Light damage for 2 turns + Change own attribute to random one of
-    Dark, Light, Deal 100% damage
     Dark, Light, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
@@ -300,7 +280,6 @@ records:
 - !SkillRecord
   desc_en: Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs + Deal 105% damage (3 hits, 35% each)
-    Poison orbs + Deal 105% damage (3 hits, 35% each)
   max_atk_pct: null
   name_en: 漣錠 + ブレードダンス
   one_time: 0
@@ -308,7 +287,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Absorb Water damage for 2 turns + Change own attribute to random one of
-    Fire, Water, Deal 100% damage
     Fire, Water, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
@@ -318,7 +296,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Wood damage for 2 turns + Change own attribute to random one of
     Water, Wood, Deal 100% damage
-    Water, Wood, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
   one_time: 2
@@ -326,7 +303,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Absorb Fire damage for 2 turns + Change own attribute to random one of
-    Wood, Fire, Deal 100% damage
     Wood, Fire, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
@@ -336,7 +312,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Dark damage for 2 turns + Change own attribute to random one of
     Light, Dark, Deal 100% damage
-    Light, Dark, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
   one_time: 2
@@ -344,7 +319,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Absorb Light damage for 2 turns + Change own attribute to random one of
-    Dark, Light, Deal 100% damage
     Dark, Light, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
@@ -382,7 +356,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Water damage for 2 turns + Change own attribute to random one of
     Fire, Water, Deal 100% damage
-    Fire, Water, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
   one_time: 2
@@ -390,7 +363,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Absorb Wood damage for 2 turns + Change own attribute to random one of
-    Water, Wood, Deal 100% damage
     Water, Wood, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
@@ -400,7 +372,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Fire damage for 2 turns + Change own attribute to random one of
     Wood, Fire, Deal 100% damage
-    Wood, Fire, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
   one_time: 2
@@ -409,7 +380,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Dark damage for 2 turns + Change own attribute to random one of
     Light, Dark, Deal 100% damage
-    Light, Dark, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
   one_time: 2
@@ -417,7 +387,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Absorb Light damage for 2 turns + Change own attribute to random one of
-    Dark, Light, Deal 100% damage
     Dark, Light, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
@@ -441,7 +410,6 @@ records:
 - !SkillRecord
   desc_en: Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs + Deal 105% damage (3 hits, 35% each)
-    Poison orbs + Deal 105% damage (3 hits, 35% each)
   max_atk_pct: null
   name_en: 漣錠 + ブレードダンス
   one_time: 0
@@ -457,7 +425,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Water damage for 2 turns + Change own attribute to random one of
     Fire, Water, Deal 100% damage
-    Fire, Water, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
   one_time: 2
@@ -465,7 +432,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Absorb Wood damage for 2 turns + Change own attribute to random one of
-    Water, Wood, Deal 100% damage
     Water, Wood, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
@@ -475,7 +441,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Fire damage for 2 turns + Change own attribute to random one of
     Wood, Fire, Deal 100% damage
-    Wood, Fire, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
   one_time: 2
@@ -484,7 +449,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Dark damage for 2 turns + Change own attribute to random one of
     Light, Dark, Deal 100% damage
-    Light, Dark, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
   one_time: 2
@@ -492,7 +456,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Absorb Light damage for 2 turns + Change own attribute to random one of
-    Dark, Light, Deal 100% damage
     Dark, Light, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
@@ -516,7 +479,6 @@ records:
 - !SkillRecord
   desc_en: Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs + Deal 105% damage (3 hits, 35% each)
-    Poison orbs + Deal 105% damage (3 hits, 35% each)
   max_atk_pct: null
   name_en: 漣錠 + ブレードダンス
   one_time: 0
@@ -532,7 +494,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Water damage for 2 turns + Change own attribute to random one of
     Fire, Water, Deal 100% damage
-    Fire, Water, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
   one_time: 2
@@ -540,7 +501,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Absorb Wood damage for 2 turns + Change own attribute to random one of
-    Water, Wood, Deal 100% damage
     Water, Wood, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
@@ -550,7 +510,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Fire damage for 2 turns + Change own attribute to random one of
     Wood, Fire, Deal 100% damage
-    Wood, Fire, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
   one_time: 2
@@ -559,7 +518,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Dark damage for 2 turns + Change own attribute to random one of
     Light, Dark, Deal 100% damage
-    Light, Dark, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
   one_time: 2
@@ -567,7 +525,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Absorb Light damage for 2 turns + Change own attribute to random one of
-    Dark, Light, Deal 100% damage
     Dark, Light, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
@@ -577,7 +534,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Water damage for 2 turns + Change own attribute to random one of
     Fire, Water, Deal 100% damage
-    Fire, Water, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
   one_time: 2
@@ -585,7 +541,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Absorb Wood damage for 2 turns + Change own attribute to random one of
-    Water, Wood, Deal 100% damage
     Water, Wood, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
@@ -595,7 +550,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Fire damage for 2 turns + Change own attribute to random one of
     Wood, Fire, Deal 100% damage
-    Wood, Fire, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
   one_time: 2
@@ -604,7 +558,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Dark damage for 2 turns + Change own attribute to random one of
     Light, Dark, Deal 100% damage
-    Light, Dark, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
   one_time: 2
@@ -612,7 +565,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Absorb Light damage for 2 turns + Change own attribute to random one of
-    Dark, Light, Deal 100% damage
     Dark, Light, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
@@ -658,7 +610,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Immune to damage from all sources
     for 999 turns + unknown + Spawn random 6 Fire, Water, Wood, Light, Dark orbs (Preemptive)
-    for 999 turns + unknown + Spawn random 6 Fire, Water, Wood, Light, Dark orbs (Preemptive)
   max_atk_pct: null
   name_en: ようこそ新元号へ + 私の名前はレイワ + 覚えてくれると･･･嬉しい + がんばってコンボしてね
   one_time: 0
@@ -674,7 +625,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 5 turns + Remove damage immunity
     effect, (if >=10 combos last turn)
-    effect, (if >=10 combos last turn)
   max_atk_pct: null
   name_en: 君･･･すごいね + それじゃ、いくよ
   one_time: 0
@@ -682,7 +632,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 5 turns + Void damage >= 50000000
-    for 999 turns + Remove damage immunity effect, (if >=8 combos last turn)
     for 999 turns + Remove damage immunity effect, (if >=8 combos last turn)
   max_atk_pct: null
   name_en: おしかったね + スタビリティー + それじゃ、いくよ
@@ -731,7 +680,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Water damage for 2 turns + Change own attribute to random one of
     Fire, Water, Deal 100% damage
-    Fire, Water, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
   one_time: 2
@@ -739,7 +687,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Absorb Wood damage for 2 turns + Change own attribute to random one of
-    Water, Wood, Deal 100% damage
     Water, Wood, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
@@ -749,7 +696,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Fire damage for 2 turns + Change own attribute to random one of
     Wood, Fire, Deal 100% damage
-    Wood, Fire, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
   one_time: 2
@@ -758,7 +704,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Dark damage for 2 turns + Change own attribute to random one of
     Light, Dark, Deal 100% damage
-    Light, Dark, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
   one_time: 2
@@ -766,7 +711,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Absorb Light damage for 2 turns + Change own attribute to random one of
-    Dark, Light, Deal 100% damage
     Dark, Light, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
@@ -790,7 +734,6 @@ records:
 - !SkillRecord
   desc_en: Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs + Deal 105% damage (3 hits, 35% each)
-    Poison orbs + Deal 105% damage (3 hits, 35% each)
   max_atk_pct: null
   name_en: 漣錠 + ブレードダンス
   one_time: 0
@@ -806,7 +749,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Water damage for 2 turns + Change own attribute to random one of
     Fire, Water, Deal 100% damage
-    Fire, Water, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
   one_time: 2
@@ -814,7 +756,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Absorb Wood damage for 2 turns + Change own attribute to random one of
-    Water, Wood, Deal 100% damage
     Water, Wood, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
@@ -824,7 +765,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Fire damage for 2 turns + Change own attribute to random one of
     Wood, Fire, Deal 100% damage
-    Wood, Fire, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
   one_time: 2
@@ -833,7 +773,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Dark damage for 2 turns + Change own attribute to random one of
     Light, Dark, Deal 100% damage
-    Light, Dark, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
   one_time: 2
@@ -841,7 +780,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Absorb Light damage for 2 turns + Change own attribute to random one of
-    Dark, Light, Deal 100% damage
     Dark, Light, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
@@ -865,7 +803,6 @@ records:
 - !SkillRecord
   desc_en: Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs + Deal 105% damage (3 hits, 35% each)
-    Poison orbs + Deal 105% damage (3 hits, 35% each)
   max_atk_pct: null
   name_en: 漣錠 + ブレードダンス
   one_time: 0
@@ -881,7 +818,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Water damage for 2 turns + Change own attribute to random one of
     Fire, Water, Deal 100% damage
-    Fire, Water, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
   one_time: 2
@@ -889,7 +825,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Absorb Wood damage for 2 turns + Change own attribute to random one of
-    Water, Wood, Deal 100% damage
     Water, Wood, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
@@ -899,7 +834,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Fire damage for 2 turns + Change own attribute to random one of
     Wood, Fire, Deal 100% damage
-    Wood, Fire, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
   one_time: 2
@@ -908,7 +842,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Dark damage for 2 turns + Change own attribute to random one of
     Light, Dark, Deal 100% damage
-    Light, Dark, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
   one_time: 2
@@ -916,7 +849,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Absorb Light damage for 2 turns + Change own attribute to random one of
-    Dark, Light, Deal 100% damage
     Dark, Light, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
@@ -940,7 +872,6 @@ records:
 - !SkillRecord
   desc_en: Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs + Deal 105% damage (3 hits, 35% each)
-    Poison orbs + Deal 105% damage (3 hits, 35% each)
   max_atk_pct: null
   name_en: 漣錠 + ブレードダンス
   one_time: 0
@@ -948,7 +879,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Absorb Water damage for 2 turns + Change own attribute to random one of
-    Fire, Water, Deal 100% damage
     Fire, Water, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
@@ -958,7 +888,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Wood damage for 2 turns + Change own attribute to random one of
     Water, Wood, Deal 100% damage
-    Water, Wood, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
   one_time: 2
@@ -966,7 +895,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Absorb Fire damage for 2 turns + Change own attribute to random one of
-    Wood, Fire, Deal 100% damage
     Wood, Fire, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
@@ -976,7 +904,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Dark damage for 2 turns + Change own attribute to random one of
     Light, Dark, Deal 100% damage
-    Light, Dark, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
   one_time: 2
@@ -984,7 +911,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Absorb Light damage for 2 turns + Change own attribute to random one of
-    Dark, Light, Deal 100% damage
     Dark, Light, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
@@ -1022,7 +948,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Water damage for 2 turns + Change own attribute to random one of
     Fire, Water, Deal 100% damage
-    Fire, Water, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
   one_time: 2
@@ -1030,7 +955,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Absorb Wood damage for 2 turns + Change own attribute to random one of
-    Water, Wood, Deal 100% damage
     Water, Wood, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
@@ -1040,7 +964,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Fire damage for 2 turns + Change own attribute to random one of
     Wood, Fire, Deal 100% damage
-    Wood, Fire, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
   one_time: 2
@@ -1049,7 +972,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Dark damage for 2 turns + Change own attribute to random one of
     Light, Dark, Deal 100% damage
-    Light, Dark, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
   one_time: 2
@@ -1057,7 +979,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Absorb Light damage for 2 turns + Change own attribute to random one of
-    Dark, Light, Deal 100% damage
     Dark, Light, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
@@ -1081,7 +1002,6 @@ records:
 - !SkillRecord
   desc_en: Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs + Deal 105% damage (3 hits, 35% each)
-    Poison orbs + Deal 105% damage (3 hits, 35% each)
   max_atk_pct: null
   name_en: 漣錠 + ブレードダンス
   one_time: 0
@@ -1097,7 +1017,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Water damage for 2 turns + Change own attribute to random one of
     Fire, Water, Deal 100% damage
-    Fire, Water, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
   one_time: 2
@@ -1105,7 +1024,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Absorb Wood damage for 2 turns + Change own attribute to random one of
-    Water, Wood, Deal 100% damage
     Water, Wood, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
@@ -1115,7 +1033,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Fire damage for 2 turns + Change own attribute to random one of
     Wood, Fire, Deal 100% damage
-    Wood, Fire, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
   one_time: 2
@@ -1124,7 +1041,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Dark damage for 2 turns + Change own attribute to random one of
     Light, Dark, Deal 100% damage
-    Light, Dark, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
   one_time: 2
@@ -1132,7 +1048,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Absorb Light damage for 2 turns + Change own attribute to random one of
-    Dark, Light, Deal 100% damage
     Dark, Light, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
@@ -1156,7 +1071,6 @@ records:
 - !SkillRecord
   desc_en: Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs + Deal 105% damage (3 hits, 35% each)
-    Poison orbs + Deal 105% damage (3 hits, 35% each)
   max_atk_pct: null
   name_en: 漣錠 + ブレードダンス
   one_time: 0
@@ -1172,7 +1086,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Water damage for 2 turns + Change own attribute to random one of
     Fire, Water, Deal 100% damage
-    Fire, Water, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
   one_time: 2
@@ -1180,7 +1093,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Absorb Wood damage for 2 turns + Change own attribute to random one of
-    Water, Wood, Deal 100% damage
     Water, Wood, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
@@ -1190,7 +1102,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Fire damage for 2 turns + Change own attribute to random one of
     Wood, Fire, Deal 100% damage
-    Wood, Fire, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
   one_time: 2
@@ -1199,7 +1110,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Dark damage for 2 turns + Change own attribute to random one of
     Light, Dark, Deal 100% damage
-    Light, Dark, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
   one_time: 2
@@ -1207,7 +1117,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Absorb Light damage for 2 turns + Change own attribute to random one of
-    Dark, Light, Deal 100% damage
     Dark, Light, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
@@ -1217,7 +1126,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Water damage for 2 turns + Change own attribute to random one of
     Fire, Water, Deal 100% damage
-    Fire, Water, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
   one_time: 2
@@ -1225,7 +1133,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Absorb Wood damage for 2 turns + Change own attribute to random one of
-    Water, Wood, Deal 100% damage
     Water, Wood, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
@@ -1235,7 +1142,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Fire damage for 2 turns + Change own attribute to random one of
     Wood, Fire, Deal 100% damage
-    Wood, Fire, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
   one_time: 2
@@ -1244,7 +1150,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Dark damage for 2 turns + Change own attribute to random one of
     Light, Dark, Deal 100% damage
-    Light, Dark, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？
   one_time: 2
@@ -1252,7 +1157,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Absorb Light damage for 2 turns + Change own attribute to random one of
-    Dark, Light, Deal 100% damage
     Dark, Light, Deal 100% damage
   max_atk_pct: null
   name_en: 新しい時代･･･ + 君にはどんな色に見えてる？

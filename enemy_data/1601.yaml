@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 2 turns + Reduce damage from all sources by 90%
     for 2 turns (Preemptive)
-    for 2 turns (Preemptive)
   max_atk_pct: null
   name_en: Powder Wall of Empty Dances + Powder Wind of Protection
   one_time: 32

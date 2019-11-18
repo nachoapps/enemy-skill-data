@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Absorb combo <= 4 damage for 5 turns + Leader changes to random sub for
     1 turns (Preemptive)
-    1 turns (Preemptive)
   max_atk_pct: null
   name_en: ライダーファイト + ライダー投げ
   one_time: 0

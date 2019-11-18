@@ -32,7 +32,6 @@ records:
 - !SkillRecord
   desc_en: Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs
-    Poison orbs
   max_atk_pct: null
   name_en: Motley Memory
   one_time: 1

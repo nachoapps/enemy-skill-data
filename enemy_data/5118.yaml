@@ -36,7 +36,6 @@ records:
 - !SkillRecord
   desc_en: Lock 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 90% damage
-    Poison orbs, Deal 90% damage
   max_atk_pct: 90
   name_en: Chao
   one_time: 0

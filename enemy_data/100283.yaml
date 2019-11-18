@@ -53,7 +53,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 5 turns + Change Heal to Fire,
     Deal 200% damage
-    Deal 200% damage
   max_atk_pct: null
   name_en: Hard Coating + Piercing Burn
   one_time: 5

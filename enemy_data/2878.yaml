@@ -54,7 +54,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 5 turns + Change all orbs to Fire, Light, Heal,
     Deal 130% damage (Preemptive)
-    Deal 130% damage (Preemptive)
   max_atk_pct: null
   name_en: Tell me your wish! + Shine Flare Ring
   one_time: 0
@@ -154,7 +153,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Light damage for 1 turns + Change 2nd, 5th column to Light orbs,
     Deal 100% damage
-    Deal 100% damage
   max_atk_pct: null
   name_en: Gleaming Rabbit Dragon's Trial + Flower Piercing Light
   one_time: 0
@@ -232,7 +230,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 185% damage (5 hits, 37% each) + Change all orbs to Fire, Light, Heal,
-    Deal 130% damage
     Deal 130% damage
   max_atk_pct: null
   name_en: Shining Claw + Shine Flare Ring

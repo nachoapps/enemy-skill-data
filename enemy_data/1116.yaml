@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Bind 1 subs for 6 turns, Deal 120% damage + Absorb damage >= 1000000 damage
     for 6 turns (Preemptive)
-    for 6 turns (Preemptive)
   max_atk_pct: null
   name_en: That's as far as you'll get! + I've been training hard!
   one_time: 0
@@ -124,7 +123,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind awoken skills for 1 turns + Change 3rd, 4th column to Fire orbs, Deal
-    500% damage
     500% damage
   max_atk_pct: null
   name_en: Go, Tiggie! + Tagrah Ahgu

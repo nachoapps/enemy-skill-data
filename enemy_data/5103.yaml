@@ -47,7 +47,6 @@ records:
 - !SkillRecord
   desc_en: Bind 1 subs for 1~2 turns, Deal 45% damage + Deal 100% damage + Deal 45%
     damage
-    damage
   max_atk_pct: null
   name_en: Thunder Kick + Disable Skill + Hadoken
   one_time: 0
@@ -62,7 +61,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Deal 50% damage (2 hits, 25% each) + Deal 100% damage + Absorb combo <=
-    4 damage for 1 turns, Deal 40% damage
     4 damage for 1 turns, Deal 40% damage
   max_atk_pct: null
   name_en: Lion Breaker + Disable Skill + Tatsumaki Senpukyaku
@@ -93,7 +91,6 @@ records:
 - !SkillRecord
   desc_en: Bind 1 subs for 1~2 turns, Deal 45% damage + Deal 100% damage + Change
     3rd row to Fire orbs, Deal 45% damage
-    3rd row to Fire orbs, Deal 45% damage
   max_atk_pct: null
   name_en: Thunder Kick + Disable Skill + Hadoken
   one_time: 0
@@ -101,7 +98,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Player -25% HP + Deal 100% damage + Change 4th column to Fire orbs, Deal
-    50% damage
     50% damage
   max_atk_pct: null
   name_en: Inazuma Kick + Disable Skill + Shoryuken

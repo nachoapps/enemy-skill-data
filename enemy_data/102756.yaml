@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Spawn random 8 Fire, Water, Wood, Heal orbs + Spawn random 1 Heal orbs
     (Preemptive)
-    (Preemptive)
   max_atk_pct: null
   name_en: Colorful Melody + Love of Fair Crimson
   one_time: 1

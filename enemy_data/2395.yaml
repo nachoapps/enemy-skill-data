@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Absorb combo <= 5 damage for 999 turns + Row of cloud appear for 1 turns
     at random location + Locked Water, Light skyfall +100% for 10 turns (Preemptive)
-    at random location + Locked Water, Light skyfall +100% for 10 turns (Preemptive)
   max_atk_pct: null
   name_en: Don't get in my way... + Harbinger of Thunder + Warrior God's Call
   one_time: 0
@@ -48,7 +47,6 @@ records:
 - !SkillRecord
   desc_en: Row of cloud appear for 1 turns at random location + Change 2nd column
     to Light orbs, Deal 95% damage
-    to Light orbs, Deal 95% damage
   max_atk_pct: null
   name_en: Harbinger of Thunder + Thunder!!
   one_time: 0
@@ -56,7 +54,6 @@ records:
   usage_pct: 10
 - !SkillRecord
   desc_en: Row of cloud appear for 1 turns at random location + Change 3rd column
-    to Light orbs, Deal 95% damage
     to Light orbs, Deal 95% damage
   max_atk_pct: null
   name_en: Harbinger of Thunder + Thunder!!
@@ -66,7 +63,6 @@ records:
 - !SkillRecord
   desc_en: Row of cloud appear for 1 turns at random location + Change 4th column
     to Light orbs, Deal 95% damage
-    to Light orbs, Deal 95% damage
   max_atk_pct: null
   name_en: Harbinger of Thunder + Thunder!!
   one_time: 0
@@ -74,7 +70,6 @@ records:
   usage_pct: 10
 - !SkillRecord
   desc_en: Row of cloud appear for 1 turns at random location + Change 5th column
-    to Light orbs, Deal 95% damage
     to Light orbs, Deal 95% damage
   max_atk_pct: null
   name_en: Harbinger of Thunder + Thunder!!
@@ -94,7 +89,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: Row of cloud appear for 1 turns at random location + Deal 105% damage (3
-    hits, 35% each)
     hits, 35% each)
   max_atk_pct: null
   name_en: Harbinger of Thunder + Give me power, Megingjörd!
@@ -117,7 +111,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Reduce damage from all sources by
-    50% for 10 turns
     50% for 10 turns
   max_atk_pct: null
   name_en: Since you came this far... + ...just come and fight!
@@ -163,7 +156,6 @@ records:
 - !SkillRecord
   desc_en: Absorb combo <= 5 damage for 999 turns + 6x2 cloud appear for 1 turns at
     random location + Locked Water, Light skyfall +100% for 10 turns (Preemptive)
-    random location + Locked Water, Light skyfall +100% for 10 turns (Preemptive)
   max_atk_pct: null
   name_en: Don't get in my way... + Harbinger of Thunder + Warrior God's Call
   one_time: 0
@@ -193,7 +185,6 @@ records:
 - !SkillRecord
   desc_en: 6x2 cloud appear for 1 turns at random location + Change 2nd column to
     Light orbs, Deal 95% damage
-    Light orbs, Deal 95% damage
   max_atk_pct: null
   name_en: Harbinger of Thunder + Thunder!!
   one_time: 0
@@ -201,7 +192,6 @@ records:
   usage_pct: 10
 - !SkillRecord
   desc_en: 6x2 cloud appear for 1 turns at random location + Change 3rd column to
-    Light orbs, Deal 95% damage
     Light orbs, Deal 95% damage
   max_atk_pct: null
   name_en: Harbinger of Thunder + Thunder!!
@@ -211,7 +201,6 @@ records:
 - !SkillRecord
   desc_en: 6x2 cloud appear for 1 turns at random location + Change 4th column to
     Light orbs, Deal 95% damage
-    Light orbs, Deal 95% damage
   max_atk_pct: null
   name_en: Harbinger of Thunder + Thunder!!
   one_time: 0
@@ -219,7 +208,6 @@ records:
   usage_pct: 10
 - !SkillRecord
   desc_en: 6x2 cloud appear for 1 turns at random location + Change 5th column to
-    Light orbs, Deal 95% damage
     Light orbs, Deal 95% damage
   max_atk_pct: null
   name_en: Harbinger of Thunder + Thunder!!
@@ -239,7 +227,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: 6x2 cloud appear for 1 turns at random location + Deal 105% damage (3 hits,
-    35% each)
     35% each)
   max_atk_pct: null
   name_en: Harbinger of Thunder + Give me power, Megingjörd!
@@ -262,7 +249,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Reduce damage from all sources by
-    50% for 10 turns
     50% for 10 turns
   max_atk_pct: null
   name_en: Since you came this far... + ...just come and fight!

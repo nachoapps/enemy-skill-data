@@ -82,7 +82,6 @@ records:
 - !SkillRecord
   desc_en: Row of cloud appear for 1 turns at 1st column + Reduce damage from all
     sources by 50% for 1 turns
-    sources by 50% for 1 turns
   max_atk_pct: null
   name_en: 'Been a blast playin'' defender,
 

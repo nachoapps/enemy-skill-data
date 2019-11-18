@@ -19,7 +19,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Leader changes to random sub for
     2 turns (Preemptive)
-    2 turns (Preemptive)
   max_atk_pct: null
   name_en: Watch and learn! + Psycho Phoenix Wave
   one_time: 0
@@ -34,7 +33,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Do nothing + Change Random to Light, Deal 100% damage, (if [3124, 3125,
-    3850] on team)
     3850] on team)
   max_atk_pct: null
   name_en: Yo, Kinnikuman! + Face Flash

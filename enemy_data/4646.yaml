@@ -305,7 +305,6 @@ records:
 - !SkillRecord
   desc_en: Bind awoken skills for 1 turns + Increase damage to 200% for the next 99
     turns
-    turns
   max_atk_pct: null
   name_en: Eroding Sleep + Counterattack from the Abyss
   one_time: 0

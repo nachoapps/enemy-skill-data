@@ -25,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Lock 1 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 100% damage
-    Poison orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: dragon lance
   one_time: 0

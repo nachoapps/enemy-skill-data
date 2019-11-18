@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Bind awoken skills for 6 turns + Bind active skills for 6 turns + Change
     all orbs to Fire, Water, Wood, Light, Dark, Heal (Preemptive)
-    all orbs to Fire, Water, Wood, Light, Dark, Heal (Preemptive)
   max_atk_pct: null
   name_en: Let's plaaay! + It's Puzzle Fight Time! + It's gonna get harder! Get ready!
   one_time: 32
@@ -61,7 +60,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change 1st, 4th, 6th column to Water, Heal, Jammer orbs, 3rd column to
-    Jammer orbs
     Jammer orbs
   max_atk_pct: null
   name_en: Here I gooo!
@@ -126,7 +124,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Movetime -2s for 1 turns + Spawn random 4 Jammer orbs + Fix orb movement
-    starting point to random position on the board
     starting point to random position on the board
   max_atk_pct: null
   name_en: You're impressive! + This will finish it! + Eat this!

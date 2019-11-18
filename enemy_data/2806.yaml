@@ -32,7 +32,6 @@ records:
 - !SkillRecord
   desc_en: Absorb combo <= 4 damage for 999 turns + Increase damage to 200% for the
     next 3 turns (Preemptive)
-    next 3 turns (Preemptive)
   max_atk_pct: null
   name_en: Celestial Art Stance + Unforgivable Revision
   one_time: 0
@@ -61,7 +60,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Reduce damage from all sources by
-    75% for 99 turns + 6x3 cloud appear for 1 turns at 2nd row, 1st column
     75% for 99 turns + 6x3 cloud appear for 1 turns at 2nd row, 1st column
   max_atk_pct: null
   name_en: Divine Wind of Suwa + Terra Firma Stance + Minakata Fog

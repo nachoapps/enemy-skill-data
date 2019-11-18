@@ -46,7 +46,6 @@ records:
 - !SkillRecord
   desc_en: Spawn random 1 Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison orbs,
     Deal 100% damage
-    Deal 100% damage
   max_atk_pct: 100
   name_en: 行進の道標
   one_time: 0

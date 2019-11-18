@@ -96,7 +96,6 @@ records:
 - !SkillRecord
   desc_en: Bind active skills for 3 turns + Do nothing + Reduce damage from all sources
     by 75% for 1 turns
-    by 75% for 1 turns
   max_atk_pct: null
   name_en: Roar + Enter Fury State + Burrow
   one_time: 8
@@ -119,7 +118,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 120% for the next 1 turns + Change Random to Jammer,
     Deal 1200% damage
-    Deal 1200% damage
   max_atk_pct: null
   name_en: Rage + Horn Gouge
   one_time: 0
@@ -128,7 +126,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 120% for the next 1 turns + Blind all orbs on the board,
     Deal 1200% damage
-    Deal 1200% damage
   max_atk_pct: null
   name_en: Rage + Springing Burrow
   one_time: 0
@@ -136,7 +133,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Increase damage to 120% for the next 1 turns + Deal 1000%~1500% damage
-    (2~3 hits, 500% each)
     (2~3 hits, 500% each)
   max_atk_pct: null
   name_en: Rage + Combo Horn Thrash
@@ -153,7 +149,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 130% for the next 1 turns + Change Random to Jammer,
     Deal 1200% damage
-    Deal 1200% damage
   max_atk_pct: null
   name_en: Rage + Horn Gouge
   one_time: 0
@@ -162,7 +157,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 130% for the next 1 turns + Blind all orbs on the board,
     Deal 1200% damage
-    Deal 1200% damage
   max_atk_pct: null
   name_en: Rage + Springing Burrow
   one_time: 0
@@ -170,7 +164,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Increase damage to 130% for the next 1 turns + Deal 1000%~1500% damage
-    (2~3 hits, 500% each)
     (2~3 hits, 500% each)
   max_atk_pct: null
   name_en: Rage + Combo Horn Thrash
@@ -187,7 +180,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 140% for the next 1 turns + Change Random to Jammer,
     Deal 1200% damage
-    Deal 1200% damage
   max_atk_pct: null
   name_en: Rage + Horn Gouge
   one_time: 0
@@ -196,7 +188,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 140% for the next 1 turns + Blind all orbs on the board,
     Deal 1200% damage
-    Deal 1200% damage
   max_atk_pct: null
   name_en: Rage + Springing Burrow
   one_time: 0
@@ -204,7 +195,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Increase damage to 140% for the next 1 turns + Deal 1000%~1500% damage
-    (2~3 hits, 500% each)
     (2~3 hits, 500% each)
   max_atk_pct: null
   name_en: Rage + Combo Horn Thrash
@@ -221,7 +211,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 1 turns + Change Random to Jammer,
     Deal 1200% damage
-    Deal 1200% damage
   max_atk_pct: null
   name_en: Rage + Horn Gouge
   one_time: 0
@@ -230,7 +219,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 1 turns + Blind all orbs on the board,
     Deal 1200% damage
-    Deal 1200% damage
   max_atk_pct: null
   name_en: Rage + Springing Burrow
   one_time: 0
@@ -238,7 +226,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 1 turns + Deal 1000%~1500% damage
-    (2~3 hits, 500% each)
     (2~3 hits, 500% each)
   max_atk_pct: null
   name_en: Rage + Combo Horn Thrash
@@ -262,7 +249,6 @@ records:
 - !SkillRecord
   desc_en: Bind awoken skills for 3 turns + Do nothing + Reduce damage from all sources
     by 75% for 1 turns
-    by 75% for 1 turns
   max_atk_pct: null
   name_en: Roar + Enter Rampaging State + Burrow
   one_time: 2
@@ -278,7 +264,6 @@ records:
 - !SkillRecord
   desc_en: Deal 1500% damage + Player -99% HP + Change all orbs to Water, Deal 12000%
     damage
-    damage
   max_atk_pct: null
   name_en: Burrowed Assault + Rampaging Downstrike + Rampaging Geyser
   one_time: 1
@@ -286,7 +271,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 3000% damage (3 hits, 1000% each) + Change all orbs to Water, Deal
-    12000% damage
     12000% damage
   max_atk_pct: null
   name_en: Rampaging Triple Dash + Rampaging Geyser
@@ -309,7 +293,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind active skills for 3 turns + Enemy recover 60% hp + Reduce damage from
-    all sources by 75% for 1 turns
     all sources by 75% for 1 turns
   max_atk_pct: null
   name_en: Roar + Enter Fury State + Burrow

@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 99 turns + Bind 2 random subs
     for 2 turns (Preemptive)
-    for 2 turns (Preemptive)
   max_atk_pct: null
   name_en: Perfect Guard + It's impossible to best me!
   one_time: 0

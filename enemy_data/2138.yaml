@@ -60,7 +60,6 @@ records:
 - !SkillRecord
   desc_en: Change Random to Jammer, Deal 70% damage + Change Random to Jammer, Deal
     70% damage + Change Random to Jammer, Deal 70% damage
-    70% damage + Change Random to Jammer, Deal 70% damage
   max_atk_pct: null
   name_en: Fear Gas + Fear Gas + Fear Gas
   one_time: 0

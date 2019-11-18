@@ -292,7 +292,6 @@ records:
 - !SkillRecord
   desc_en: Spawn random 3 Wood orbs + Reduce damage from all sources by 50% for 3
     turns
-    turns
   max_atk_pct: null
   name_en: Magia Points have recovered + Aegis
   one_time: 0

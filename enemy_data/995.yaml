@@ -25,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Rcv 50% for 4 turns + Blind random
     25 orbs for 4 turns, Deal 150% damage (Preemptive)
-    25 orbs for 4 turns, Deal 150% damage (Preemptive)
   max_atk_pct: null
   name_en: Dhu Yahtariq Jadar + Sama' Shams Sakhr + Zalaam Dakhil Sataa Dhu
   one_time: 0
@@ -61,7 +60,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
-    Poison orbs, Deal 100% damage
     Poison orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Zil Yudi' Shams

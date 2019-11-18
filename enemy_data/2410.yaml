@@ -25,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Delay active skills by 3 turns, Deal
     120% damage (Preemptive)
-    120% damage (Preemptive)
   max_atk_pct: null
   name_en: Haughty + Bow before me
   one_time: 0
@@ -68,7 +67,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb combo <= 6 damage for 99 turns + Reduce damage from all sources
-    by 50% for 10 turns
     by 50% for 10 turns
   max_atk_pct: null
   name_en: Gleam of the Red Moon + Stand in awe of my power

@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 35% for 3 turns + Change 4th row to Fire
     orbs, Deal 100% damage (Preemptive)
-    orbs, Deal 100% damage (Preemptive)
   max_atk_pct: null
   name_en: You have guts to point your sword at me! + Burn!!
   one_time: 0

@@ -46,7 +46,6 @@ records:
 - !SkillRecord
   desc_en: Lock 6 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 100% damage
-    Poison orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: 誰にも俺達の真選組は汚させねェ
   one_time: 0
@@ -132,7 +131,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Lock 6 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
-    Poison orbs, Deal 100% damage
     Poison orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: 誰にも俺達の真選組は汚させねェ

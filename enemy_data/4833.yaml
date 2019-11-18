@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Movetime 50% for 15 turns + Reduce damage from all sources by 75% for 15
     turns + Voids status ailments for 999 turns (Preemptive)
-    turns + Voids status ailments for 999 turns (Preemptive)
   max_atk_pct: null
   name_en: Oh! Who are you?! + She's vigilant + Magic Dragon Costume
   one_time: 2
@@ -26,7 +25,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Player -50% HP + Random 4 orbs change every 1.0s for 1 turns, Deal 50%
-    damage
     damage
   max_atk_pct: null
   name_en: Aaah! The sweets! + Spinning Candy
@@ -50,7 +48,6 @@ records:
 - !SkillRecord
   desc_en: Player -50% HP + Change all orbs to Fire, Water, Wood, Light, Dark, Heal,
     Jammer, Poison, Mortal Poison, Deal 53% damage
-    Jammer, Poison, Mortal Poison, Deal 53% damage
   max_atk_pct: null
   name_en: Aaah! The sweets! + Rainbow Gummy
   one_time: 0
@@ -58,7 +55,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Player -50% HP + 2x3 cloud appear for 1 turns at 2nd row, 3rd column, Deal
-    49% damage
     49% damage
   max_atk_pct: null
   name_en: Aaah! The sweets! + Whipped Cream
@@ -82,7 +78,6 @@ records:
 - !SkillRecord
   desc_en: Player -50% HP + Random 4 orbs change every 1.0s for 1 turns, Deal 50%
     damage
-    damage
   max_atk_pct: null
   name_en: Aaah! The sweets! + Spinning Candy
   one_time: 0
@@ -104,7 +99,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Player -50% HP + Random 4 orbs change every 1.0s for 1 turns, Deal 50%
-    damage
     damage
   max_atk_pct: null
   name_en: Aaah! The sweets! + Spinning Candy
@@ -135,7 +129,6 @@ records:
 - !SkillRecord
   desc_en: Player -50% HP + Random 4 orbs change every 1.0s for 1 turns, Deal 50%
     damage
-    damage
   max_atk_pct: null
   name_en: Aaah! The sweets! + Spinning Candy
   one_time: 0
@@ -150,7 +143,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Player -50% HP + 2x3 cloud appear for 1 turns at 2nd row, 3rd column, Deal
-    49% damage
     49% damage
   max_atk_pct: null
   name_en: Aaah! The sweets! + Whipped Cream
@@ -173,7 +165,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Player -50% HP + Random 4 orbs change every 1.0s for 1 turns, Deal 50%
-    damage
     damage
   max_atk_pct: null
   name_en: Aaah! The sweets! + Spinning Candy
@@ -190,7 +181,6 @@ records:
 - !SkillRecord
   desc_en: Player -50% HP + Change all orbs to Fire, Water, Wood, Light, Dark, Heal,
     Jammer, Poison, Mortal Poison, Deal 53% damage
-    Jammer, Poison, Mortal Poison, Deal 53% damage
   max_atk_pct: null
   name_en: Aaah! The sweets! + Rainbow Gummy
   one_time: 0
@@ -198,7 +188,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Player -50% HP + 2x3 cloud appear for 1 turns at 2nd row, 3rd column, Deal
-    49% damage
     49% damage
   max_atk_pct: null
   name_en: Aaah! The sweets! + Whipped Cream
@@ -221,7 +210,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Player -50% HP + Random 4 orbs change every 1.0s for 1 turns, Deal 50%
-    damage
     damage
   max_atk_pct: null
   name_en: Aaah! The sweets! + Spinning Candy
@@ -266,7 +254,6 @@ records:
 - !SkillRecord
   desc_en: Player -50% HP + Change all orbs to Fire, Water, Wood, Light, Dark, Heal,
     Jammer, Poison, Mortal Poison, Deal 53% damage
-    Jammer, Poison, Mortal Poison, Deal 53% damage
   max_atk_pct: null
   name_en: Aaah! The sweets! + Rainbow Gummy
   one_time: 0
@@ -274,7 +261,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Player -50% HP + 2x3 cloud appear for 1 turns at 2nd row, 3rd column, Deal
-    49% damage
     49% damage
   max_atk_pct: null
   name_en: Aaah! The sweets! + Whipped Cream
@@ -297,7 +283,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Player -50% HP + Random 4 orbs change every 1.0s for 1 turns, Deal 50%
-    damage
     damage
   max_atk_pct: null
   name_en: Aaah! The sweets! + Spinning Candy
@@ -328,7 +313,6 @@ records:
 - !SkillRecord
   desc_en: Player -50% HP + Change all orbs to Fire, Water, Wood, Light, Dark, Heal,
     Jammer, Poison, Mortal Poison, Deal 53% damage
-    Jammer, Poison, Mortal Poison, Deal 53% damage
   max_atk_pct: null
   name_en: Aaah! The sweets! + Rainbow Gummy
   one_time: 0
@@ -336,7 +320,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Player -50% HP + 2x3 cloud appear for 1 turns at 2nd row, 3rd column, Deal
-    49% damage
     49% damage
   max_atk_pct: null
   name_en: Aaah! The sweets! + Whipped Cream
@@ -359,7 +342,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Player -50% HP + Random 4 orbs change every 1.0s for 1 turns, Deal 50%
-    damage
     damage
   max_atk_pct: null
   name_en: Aaah! The sweets! + Spinning Candy

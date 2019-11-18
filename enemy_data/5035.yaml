@@ -25,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Void damage >= 50000000 for 999 turns
     + Absorb combo <= 7 damage for 1 turns (Preemptive)
-    + Absorb combo <= 7 damage for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: Overflowing Bloodlust + Serpent Barrier + Sky-High Jump
   one_time: 2
@@ -209,7 +208,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Void damage >= 50000000 for 999 turns
-    + Absorb combo <= 8 damage for 1 turns (Preemptive)
     + Absorb combo <= 8 damage for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: Overflowing Bloodlust + Serpent Barrier + Sky-High Jump

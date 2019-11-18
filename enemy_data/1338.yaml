@@ -32,7 +32,6 @@ records:
 - !SkillRecord
   desc_en: Bind 1 both leaders for 4 turns + Absorb damage >= 5000000 damage for 10
     turns (Preemptive)
-    turns (Preemptive)
   max_atk_pct: null
   name_en: What do you want? + I don't like you
   one_time: 0
@@ -145,7 +144,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 999 turns + Change Dark to Jammer,
-    Deal 100% damage
     Deal 100% damage
   max_atk_pct: null
   name_en: Protect me! + Let me get rid of these!

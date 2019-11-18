@@ -19,7 +19,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Void damage >= 20000000 for 999 turns
     + unknown (Preemptive)
-    + unknown (Preemptive)
   max_atk_pct: null
   name_en: 不和の侮蔑 + 災炎の神躯 + 錯乱の惹起
   one_time: 0
@@ -56,7 +55,6 @@ records:
 - !SkillRecord
   desc_en: Spawn locked Bomb orbs in the specified positions + Fix orb movement starting
     point to random position on the board, Deal 200% damage
-    point to random position on the board, Deal 200% damage
   max_atk_pct: null
   name_en: 不和の果実 + アグリィカンペティション
   one_time: 0
@@ -65,7 +63,6 @@ records:
 - !SkillRecord
   desc_en: Spawn random 4 Jammer, Poison orbs + Bind 3 subs for 2 turns, Deal 190%
     damage
-    damage
   max_atk_pct: null
   name_en: ニューマラスインシネレート + クルーエルディスピュート
   one_time: 0
@@ -73,7 +70,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: Deal 120% damage (3 hits, 40% each) + Delay active skills by 2 turns, Deal
-    100% damage
     100% damage
   max_atk_pct: null
   name_en: ヘイトリッドラッシュ + ホールドアグラッジ
@@ -118,7 +114,6 @@ records:
 - !SkillRecord
   desc_en: Spawn locked Bomb orbs in the specified positions + Fix orb movement starting
     point to random position on the board, Deal 100% damage
-    point to random position on the board, Deal 100% damage
   max_atk_pct: null
   name_en: 不和の果実 + アグリィカンペティション
   one_time: 0
@@ -127,7 +122,6 @@ records:
 - !SkillRecord
   desc_en: Spawn random 4 Jammer, Poison orbs + Bind 3 subs for 2 turns, Deal 95%
     damage
-    damage
   max_atk_pct: null
   name_en: ニューマラスインシネレート + クルーエルディスピュート
   one_time: 0
@@ -135,7 +129,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: Deal 60% damage (3 hits, 20% each) + Delay active skills by 2 turns, Deal
-    50% damage
     50% damage
   max_atk_pct: null
   name_en: ヘイトリッドラッシュ + ホールドアグラッジ
@@ -264,7 +257,6 @@ records:
 - !SkillRecord
   desc_en: Spawn locked Bomb orbs in the specified positions + Fix orb movement starting
     point to random position on the board, Deal 125% damage
-    point to random position on the board, Deal 125% damage
   max_atk_pct: null
   name_en: 不和の果実 + アグリィカンペティション
   one_time: 0
@@ -273,7 +265,6 @@ records:
 - !SkillRecord
   desc_en: Spawn random 4 Jammer, Poison orbs + Bind 3 subs for 2 turns, Deal 120%
     damage
-    damage
   max_atk_pct: null
   name_en: ニューマラスインシネレート + クルーエルディスピュート
   one_time: 0
@@ -281,7 +272,6 @@ records:
   usage_pct: 15
 - !SkillRecord
   desc_en: Deal 75% damage (3 hits, 25% each) + Delay active skills by 2 turns, Deal
-    55% damage
     55% damage
   max_atk_pct: null
   name_en: ヘイトリッドラッシュ + ホールドアグラッジ
@@ -305,7 +295,6 @@ records:
 - !SkillRecord
   desc_en: Bind awoken skills for 5 turns + Increase damage to 200% for the next 999
     turns
-    turns
   max_atk_pct: null
   name_en: スケアスクリーム + マッドスローター
   one_time: 0
@@ -321,7 +310,6 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Void damage >= 20000000 for 999 turns
-    + unknown (Preemptive)
     + unknown (Preemptive)
   max_atk_pct: null
   name_en: 不和の侮蔑 + 災炎の神躯 + 錯乱の惹起
@@ -359,7 +347,6 @@ records:
 - !SkillRecord
   desc_en: Spawn locked Bomb orbs in the specified positions + Fix orb movement starting
     point to random position on the board, Deal 200% damage
-    point to random position on the board, Deal 200% damage
   max_atk_pct: null
   name_en: 不和の果実 + アグリィカンペティション
   one_time: 0
@@ -368,7 +355,6 @@ records:
 - !SkillRecord
   desc_en: Spawn random 4 Jammer, Poison orbs + Bind 3 subs for 2 turns, Deal 190%
     damage
-    damage
   max_atk_pct: null
   name_en: ニューマラスインシネレート + クルーエルディスピュート
   one_time: 0
@@ -376,7 +362,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: Deal 120% damage (3 hits, 40% each) + Delay active skills by 2 turns, Deal
-    100% damage
     100% damage
   max_atk_pct: null
   name_en: ヘイトリッドラッシュ + ホールドアグラッジ
@@ -421,7 +406,6 @@ records:
 - !SkillRecord
   desc_en: Spawn locked Bomb orbs in the specified positions + Fix orb movement starting
     point to random position on the board, Deal 100% damage
-    point to random position on the board, Deal 100% damage
   max_atk_pct: null
   name_en: 不和の果実 + アグリィカンペティション
   one_time: 0
@@ -430,7 +414,6 @@ records:
 - !SkillRecord
   desc_en: Spawn random 4 Jammer, Poison orbs + Bind 3 subs for 2 turns, Deal 95%
     damage
-    damage
   max_atk_pct: null
   name_en: ニューマラスインシネレート + クルーエルディスピュート
   one_time: 0
@@ -438,7 +421,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: Deal 60% damage (3 hits, 20% each) + Delay active skills by 2 turns, Deal
-    50% damage
     50% damage
   max_atk_pct: null
   name_en: ヘイトリッドラッシュ + ホールドアグラッジ
@@ -567,7 +549,6 @@ records:
 - !SkillRecord
   desc_en: Spawn locked Bomb orbs in the specified positions + Fix orb movement starting
     point to random position on the board, Deal 125% damage
-    point to random position on the board, Deal 125% damage
   max_atk_pct: null
   name_en: 不和の果実 + アグリィカンペティション
   one_time: 0
@@ -576,7 +557,6 @@ records:
 - !SkillRecord
   desc_en: Spawn random 4 Jammer, Poison orbs + Bind 3 subs for 2 turns, Deal 120%
     damage
-    damage
   max_atk_pct: null
   name_en: ニューマラスインシネレート + クルーエルディスピュート
   one_time: 0
@@ -584,7 +564,6 @@ records:
   usage_pct: 15
 - !SkillRecord
   desc_en: Deal 75% damage (3 hits, 25% each) + Delay active skills by 2 turns, Deal
-    55% damage
     55% damage
   max_atk_pct: null
   name_en: ヘイトリッドラッシュ + ホールドアグラッジ
@@ -607,7 +586,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind awoken skills for 5 turns + Increase damage to 200% for the next 999
-    turns
     turns
   max_atk_pct: null
   name_en: スケアスクリーム + マッドスローター

@@ -33,7 +33,6 @@ records:
 - !SkillRecord
   desc_en: Remove damage immunity effect + Voids status ailments for 66 turns + Void
     damage >= 66666666 for 999 turns
-    damage >= 66666666 for 999 turns
   max_atk_pct: null
   name_en: All Augites have successfully shattered + Chest Core's Shine + Fortified
     Scales
@@ -92,7 +91,6 @@ records:
 - !SkillRecord
   desc_en: Absorb combo <= 6 damage for 66 turns + Specific orbs change every 1.0s
     for 6 turns
-    for 6 turns
   max_atk_pct: null
   name_en: Secular Sword + Empty Teachings
   one_time: 4
@@ -150,7 +148,6 @@ records:
 - !SkillRecord
   desc_en: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
     orbs + Bind awoken skills for 3 turns
-    orbs + Bind awoken skills for 3 turns
   max_atk_pct: null
   name_en: Stellar Dragon's Glare + Barbed Chain Cage
   one_time: 0
@@ -158,7 +155,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change own attribute to random one of Water, Light + Deal 3600% damage
-    (6 hits, 600% each)
     (6 hits, 600% each)
   max_atk_pct: null
   name_en: Metamorphosis + Six Limitless Flashes

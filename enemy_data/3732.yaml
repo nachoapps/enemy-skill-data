@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Specific orbs change every 1.0s for 10 turns + Voids status ailments for
     999 turns + Void damage >= 20000000 for 999 turns (Preemptive)
-    999 turns + Void damage >= 20000000 for 999 turns (Preemptive)
   max_atk_pct: null
   name_en: Confusion + Dragonscale + Colossus
   one_time: 9
@@ -55,7 +54,6 @@ records:
 - !SkillRecord
   desc_en: Lock 4 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 260% damage
-    Poison orbs, Deal 260% damage
   max_atk_pct: 260
   name_en: Nova
   one_time: 0
@@ -85,7 +83,6 @@ records:
 - !SkillRecord
   desc_en: Random 3 orbs change every 1.0s for 10 turns + Bind awoken skills for 1
     turns + Deal 1500% damage (10 hits, 150% each) + Player recover 100% hp
-    turns + Deal 1500% damage (10 hits, 150% each) + Player recover 100% hp
   max_atk_pct: null
   name_en: Confusion + Suppression + X Burst + Dragon Tears
   one_time: 9
@@ -107,7 +104,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Lock 4 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
-    Poison orbs, Deal 260% damage
     Poison orbs, Deal 260% damage
   max_atk_pct: 260
   name_en: Nova
@@ -159,7 +155,6 @@ records:
 - !SkillRecord
   desc_en: Lock 4 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 260% damage
-    Poison orbs, Deal 260% damage
   max_atk_pct: 260
   name_en: Nova
   one_time: 0
@@ -189,7 +184,6 @@ records:
 - !SkillRecord
   desc_en: Random 3 orbs change every 1.0s for 10 turns + Bind awoken skills for 1
     turns + Deal 1500% damage (10 hits, 150% each) + Player recover 100% hp
-    turns + Deal 1500% damage (10 hits, 150% each) + Player recover 100% hp
   max_atk_pct: null
   name_en: Confusion + Suppression + X Burst + Dragon Tears
   one_time: 9
@@ -212,7 +206,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 3 turns + Leader changes to random
     sub for 3 turns, Deal 400% damage
-    sub for 3 turns, Deal 400% damage
   max_atk_pct: null
   name_en: Wall + Rejection
   one_time: 0
@@ -220,7 +213,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 3 turns + Leader changes to random
-    sub for 3 turns, Deal 400% damage
     sub for 3 turns, Deal 400% damage
   max_atk_pct: null
   name_en: Wall + Rejection
@@ -251,7 +243,6 @@ records:
 - !SkillRecord
   desc_en: Lock 4 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 260% damage
-    Poison orbs, Deal 260% damage
   max_atk_pct: 260
   name_en: Nova
   one_time: 0
@@ -281,7 +272,6 @@ records:
 - !SkillRecord
   desc_en: Random 3 orbs change every 1.0s for 10 turns + Bind awoken skills for 1
     turns + Deal 1500% damage (10 hits, 150% each) + Player recover 100% hp
-    turns + Deal 1500% damage (10 hits, 150% each) + Player recover 100% hp
   max_atk_pct: null
   name_en: Confusion + Suppression + X Burst + Dragon Tears
   one_time: 9
@@ -304,7 +294,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 3 turns + Bind awoken skills
     for 3 turns, Deal 400% damage
-    for 3 turns, Deal 400% damage
   max_atk_pct: null
   name_en: Wall + Suppression
   one_time: 0
@@ -312,7 +301,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 3 turns + Bind awoken skills
-    for 3 turns, Deal 400% damage
     for 3 turns, Deal 400% damage
   max_atk_pct: null
   name_en: Wall + Suppression

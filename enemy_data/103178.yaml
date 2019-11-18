@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 10 turns + Change 1st, 5th row
     to Mortal Poison orbs (Preemptive)
-    to Mortal Poison orbs (Preemptive)
   max_atk_pct: null
   name_en: Protecting Trees + Earth Mischief
   one_time: 0

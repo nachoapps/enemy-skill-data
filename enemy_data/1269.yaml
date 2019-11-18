@@ -25,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Fire, Water, Dark skyfall +25% for 3 turns + Absorb Fire, Water, Dark damage
     for 3 turns (Preemptive)
-    for 3 turns (Preemptive)
   max_atk_pct: null
   name_en: What are you doing here? + Stay away!
   one_time: 0

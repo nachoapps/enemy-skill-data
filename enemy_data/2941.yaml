@@ -96,7 +96,6 @@ records:
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 100% damage + Change Random 5 to Poison,
     Deal 100% damage
-    Deal 100% damage
   max_atk_pct: null
   name_en: The First Circle, Limbo + The Fourth Circle, Greed
   one_time: 6
@@ -119,7 +118,6 @@ records:
 - !SkillRecord
   desc_en: Change own attribute to Dark + Reduce damage from all sources by 99% for
     1 turns
-    1 turns
   max_atk_pct: null
   name_en: Devil's Half Divinity + Dephaser
   one_time: 0
@@ -134,7 +132,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 100% damage + Change Random 5 to Poison,
-    Deal 100% damage
     Deal 100% damage
   max_atk_pct: null
   name_en: The First Circle, Limbo + The Fourth Circle, Greed
@@ -157,7 +154,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 100% damage + Change Random 5 to Poison,
-    Deal 100% damage + Bind 3 random for 3 turns, Deal 100% damage
     Deal 100% damage + Bind 3 random for 3 turns, Deal 100% damage
   max_atk_pct: null
   name_en: The First Circle, Limbo + The Fourth Circle, Greed + The Eighth Circle,

@@ -25,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Lock 8 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 100% damage (Preemptive)
-    Poison orbs, Deal 100% damage (Preemptive)
   max_atk_pct: 100
   name_en: From this point...
   one_time: 0

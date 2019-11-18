@@ -25,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Reduce damage from all sources by
     50% for 1 turns (Preemptive)
-    50% for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: Knowledge Barrier + Demon's Wall
   one_time: 2
@@ -75,7 +74,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change all orbs to Fire, Light, Dark, Deal 100% damage + Change 3rd row
-    to Jammer orbs
     to Jammer orbs
   max_atk_pct: null
   name_en: Healing Element + Hinder Line
@@ -231,7 +229,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
-    Mortal Poison, Deal 400% damage
     Mortal Poison, Deal 400% damage
   max_atk_pct: 400
   name_en: Contraindication

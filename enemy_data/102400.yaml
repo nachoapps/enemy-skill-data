@@ -46,7 +46,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns, (if [376, 377, 656, 1348, 2396] on
     team)
-    team)
   max_atk_pct: null
   name_en: Guardian God's Five Senses
   one_time: 0
@@ -90,7 +89,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns, (if [376, 377, 656, 1348, 2396] on
     team)
-    team)
   max_atk_pct: null
   name_en: Guardian God's Five Senses
   one_time: 0
@@ -126,7 +124,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns, (if [376, 377, 656, 1348, 2396] on
-    team)
     team)
   max_atk_pct: null
   name_en: Guardian God's Five Senses

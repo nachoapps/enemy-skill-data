@@ -25,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Absorb combo <= 9 damage for 1 turns
     + Void damage >= 50000000 for 999 turns (Preemptive)
-    + Void damage >= 50000000 for 999 turns (Preemptive)
   max_atk_pct: null
   name_en: Cool Breeze of Summer's First Night + Winds of Dawn Blowing for a Thousand
     Miles + Springtime full of Flowery Fragrance
@@ -82,7 +81,6 @@ records:
 - !SkillRecord
   desc_en: Random 1 orbs change every 0.5s for 3 turns + Fix orb movement starting
     point to random position on the board, Deal 100% damage
-    point to random position on the board, Deal 100% damage
   max_atk_pct: null
   name_en: Shade of a Tree After Rain + Murmuring Southerly Wind
   one_time: 0
@@ -97,7 +95,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind awoken skills for 10 turns + Increase damage to 200% for the next
-    999 turns
     999 turns
   max_atk_pct: null
   name_en: Flower Rot of Bean Curd in the Summer Rain + Germination's Sunlight on
@@ -115,7 +112,6 @@ records:
 - !SkillRecord
   desc_en: Movetime -2s for 99 turns + Change player HP to 50% for 1 turns, Deal 110%
     damage
-    damage
   max_atk_pct: null
   name_en: Relentless Heat of the Mountain Breeze + Cool Shadow of the Canopy
   one_time: 1
@@ -123,7 +119,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Random 1 orbs change every 0.5s for 3 turns + Fix orb movement starting
-    point to random position on the board, Deal 100% damage
     point to random position on the board, Deal 100% damage
   max_atk_pct: null
   name_en: Shade of a Tree After Rain + Murmuring Southerly Wind
@@ -147,7 +142,6 @@ records:
 - !SkillRecord
   desc_en: Movetime -2s for 99 turns + Change player HP to 50% for 1 turns, Deal 110%
     damage
-    damage
   max_atk_pct: null
   name_en: Relentless Heat of the Mountain Breeze + Cool Shadow of the Canopy
   one_time: 1
@@ -170,7 +164,6 @@ records:
 - !SkillRecord
   desc_en: Bind awoken skills for 10 turns + Increase damage to 200% for the next
     999 turns
-    999 turns
   max_atk_pct: null
   name_en: Flower Rot of Bean Curd in the Summer Rain + Germination's Sunlight on
     the Growing Verdure
@@ -187,7 +180,6 @@ records:
 - !SkillRecord
   desc_en: Movetime -2s for 99 turns + Change player HP to 50% for 1 turns, Deal 110%
     damage
-    damage
   max_atk_pct: null
   name_en: Relentless Heat of the Mountain Breeze + Cool Shadow of the Canopy
   one_time: 1
@@ -202,7 +194,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Water, Wood, Light, Dark +
-    Deal 1500% damage (5 hits, 300% each)
     Deal 1500% damage (5 hits, 300% each)
   max_atk_pct: null
   name_en: Changing Southeasterly Winds + Floating Cogongrass of Neverending Winds
@@ -226,7 +217,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Absorb combo <= 9 damage for 1 turns
-    + Void damage >= 50000000 for 999 turns (Preemptive)
     + Void damage >= 50000000 for 999 turns (Preemptive)
   max_atk_pct: null
   name_en: Cool Breeze of Summer's First Night + Winds of Dawn Blowing for a Thousand
@@ -284,7 +274,6 @@ records:
 - !SkillRecord
   desc_en: Random 1 orbs change every 0.5s for 3 turns + Fix orb movement starting
     point to random position on the board, Deal 100% damage
-    point to random position on the board, Deal 100% damage
   max_atk_pct: null
   name_en: Shade of a Tree After Rain + Murmuring Southerly Wind
   one_time: 0
@@ -299,7 +288,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind awoken skills for 10 turns + Increase damage to 200% for the next
-    999 turns
     999 turns
   max_atk_pct: null
   name_en: Flower Rot of Bean Curd in the Summer Rain + Germination's Sunlight on
@@ -317,7 +305,6 @@ records:
 - !SkillRecord
   desc_en: Movetime -2s for 99 turns + Change player HP to 50% for 1 turns, Deal 110%
     damage
-    damage
   max_atk_pct: null
   name_en: Relentless Heat of the Mountain Breeze + Cool Shadow of the Canopy
   one_time: 1
@@ -325,7 +312,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Random 1 orbs change every 0.5s for 3 turns + Fix orb movement starting
-    point to random position on the board, Deal 100% damage
     point to random position on the board, Deal 100% damage
   max_atk_pct: null
   name_en: Shade of a Tree After Rain + Murmuring Southerly Wind
@@ -349,7 +335,6 @@ records:
 - !SkillRecord
   desc_en: Movetime -2s for 99 turns + Change player HP to 50% for 1 turns, Deal 110%
     damage
-    damage
   max_atk_pct: null
   name_en: Relentless Heat of the Mountain Breeze + Cool Shadow of the Canopy
   one_time: 1
@@ -372,7 +357,6 @@ records:
 - !SkillRecord
   desc_en: Bind awoken skills for 10 turns + Increase damage to 200% for the next
     999 turns
-    999 turns
   max_atk_pct: null
   name_en: Flower Rot of Bean Curd in the Summer Rain + Germination's Sunlight on
     the Growing Verdure
@@ -389,7 +373,6 @@ records:
 - !SkillRecord
   desc_en: Movetime -2s for 99 turns + Change player HP to 50% for 1 turns, Deal 110%
     damage
-    damage
   max_atk_pct: null
   name_en: Relentless Heat of the Mountain Breeze + Cool Shadow of the Canopy
   one_time: 1
@@ -404,7 +387,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Water, Wood, Light, Dark +
-    Deal 1500% damage (5 hits, 300% each)
     Deal 1500% damage (5 hits, 300% each)
   max_atk_pct: null
   name_en: Changing Southeasterly Winds + Floating Cogongrass of Neverending Winds

@@ -110,7 +110,6 @@ records:
 - !SkillRecord
   desc_en: Deal 120%~160% damage (3~4 hits, 40% each) + Deal 50%~200% damage (1~4
     hits, 50% each)
-    hits, 50% each)
   max_atk_pct: null
   name_en: Almagest + Comet
   one_time: 0

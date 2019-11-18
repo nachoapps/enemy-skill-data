@@ -46,7 +46,6 @@ records:
 - !SkillRecord
   desc_en: Change 2nd row to Fire orbs, Deal 30% damage + Change 4th column to Fire
     orbs, Deal 40% damage
-    orbs, Deal 40% damage
   max_atk_pct: null
   name_en: '114 Shiki: Aragami + 128 Shiki: Konokizu'
   one_time: 0
@@ -54,7 +53,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Change 2nd row to Fire orbs, Deal 30% damage + Change 3rd row to Fire orbs,
-    Deal 50% damage
     Deal 50% damage
   max_atk_pct: null
   name_en: '114 Shiki: Aragami + 127 Shiki: Yanosabi'
@@ -119,7 +117,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 2nd row to Fire orbs, 3rd row to Fire orbs, 4th row to Fire orbs,
-    Deal 100% damage
     Deal 100% damage
   max_atk_pct: 100
   name_en: 'Ura 108 Shiki: Orochinagi'

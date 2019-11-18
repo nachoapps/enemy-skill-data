@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Absorb combo <= 6 damage for 4 turns
     (Preemptive)
-    (Preemptive)
   max_atk_pct: null
   name_en: Emerald Coating + Storm Wall
   one_time: 8

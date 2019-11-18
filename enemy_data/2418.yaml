@@ -82,7 +82,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 90% for 99 turns + Lock all Fire, Water,
     Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 180% damage
-    Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 180% damage
   max_atk_pct: null
   name_en: Miracle☆Shield + Nice!
   one_time: 0

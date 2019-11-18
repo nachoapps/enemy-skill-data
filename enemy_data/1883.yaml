@@ -96,7 +96,6 @@ records:
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Mortal Poison + Bind 1 random for 5 turns, Deal 280% damage
-    Mortal Poison + Bind 1 random for 5 turns, Deal 280% damage
   max_atk_pct: null
   name_en: Kaleidoscope + Unbind
   one_time: 0

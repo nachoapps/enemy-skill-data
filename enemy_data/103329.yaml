@@ -19,7 +19,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Leader changes to random sub for
     1 turns (Preemptive)
-    1 turns (Preemptive)
   max_atk_pct: null
   name_en: Antibodies + Hypnotism
   one_time: 0
@@ -35,7 +34,6 @@ records:
 - !SkillRecord
   desc_en: Absorb combo <= 6 damage for 1 turns + Change own attribute to random one
     of Fire, Water, Wood, Light, Dark, Deal 135% damage
-    of Fire, Water, Wood, Light, Dark, Deal 135% damage
   max_atk_pct: null
   name_en: Multiple Walls + Elemental Purée
   one_time: 0
@@ -43,7 +41,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 1 turns + Change own attribute
-    to random one of Fire, Water, Wood, Light, Dark, Deal 135% damage
     to random one of Fire, Water, Wood, Light, Dark, Deal 135% damage
   max_atk_pct: null
   name_en: Reflescale + Elemental Purée

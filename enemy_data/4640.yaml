@@ -179,7 +179,6 @@ records:
 - !SkillRecord
   desc_en: 3x3 cloud appear for 1 turns at random location + Increase damage to 200%
     for the next 99 turns
-    for the next 99 turns
   max_atk_pct: null
   name_en: Groß Wolke + Calm Fighting Spirit
   one_time: 0

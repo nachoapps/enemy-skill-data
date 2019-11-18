@@ -79,7 +79,6 @@ records:
 - !SkillRecord
   desc_en: Bind 2 random for 3 turns, Deal 50% damage + Delay active skills by 1~2
     turns, Deal 50% damage
-    turns, Deal 50% damage
   max_atk_pct: null
   name_en: Thunder Reign + Panta Rhei
   one_time: 0
@@ -94,7 +93,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind random 5 orbs for 2 turns, Deal 50% damage + Bind awoken skills for
-    2 turns, Deal 50% damage
     2 turns, Deal 50% damage
   max_atk_pct: null
   name_en: Psycho Force + Atomic Flare

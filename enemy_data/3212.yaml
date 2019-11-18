@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Lock 8 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs (Preemptive)
-    Poison orbs (Preemptive)
   max_atk_pct: null
   name_en: Burning!
   one_time: 0

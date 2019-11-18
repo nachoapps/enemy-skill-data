@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Reduce damage from all sources by
     50% for 1 turns (Preemptive)
-    50% for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: Dance of the Goddess + Released Chakra
   one_time: 0
@@ -41,7 +40,6 @@ records:
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 90% damage + Change all orbs to Fire,
     Water, Wood, Light, Dark, Heal, Deal 90% damage
-    Water, Wood, Light, Dark, Heal, Deal 90% damage
   max_atk_pct: null
   name_en: Nirmanakaya + Dharmakaya
   one_time: 0
@@ -50,7 +48,6 @@ records:
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Deal 90% damage
     + Delay active skills by 1 turns, Deal 90% damage
-    + Delay active skills by 1 turns, Deal 90% damage
   max_atk_pct: null
   name_en: Dharmakaya + Sambhogakaya
   one_time: 0
@@ -58,7 +55,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Delay active skills by 1 turns, Deal 90% damage + Blind all orbs on the
-    board, Deal 90% damage
     board, Deal 90% damage
   max_atk_pct: null
   name_en: Sambhogakaya + Nirmanakaya

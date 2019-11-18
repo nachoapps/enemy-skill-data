@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Reduce damage from all sources by
     75% for 10 turns (Preemptive)
-    75% for 10 turns (Preemptive)
   max_atk_pct: null
   name_en: Swordsman's Resolution + Dual Blade Type
   one_time: 8
@@ -34,7 +33,6 @@ records:
 - !SkillRecord
   desc_en: Movetime 25% for 2 turns + Fix orb movement starting point to random position
     on the board, Deal 100% damage
-    on the board, Deal 100% damage
   max_atk_pct: null
   name_en: Syncronised Battle + Sword's Back Strike
   one_time: 4
@@ -49,7 +47,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind awoken skills for 1 turns + Blind all orbs on the board, Deal 100%
-    damage
     damage
   max_atk_pct: null
   name_en: Imminent Battle + Surprise Attack

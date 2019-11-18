@@ -26,7 +26,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 30 turns + Reduce damage from all sources by
     95% for 3 turns (Preemptive)
-    95% for 3 turns (Preemptive)
   max_atk_pct: null
   name_en: Enhancement of the 5 Senses + Strong Body Protected by Snow
   one_time: 0
@@ -62,7 +61,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 120% for the next 2 turns + Reduce damage from all sources
-    by 90% for 3 turns, Deal 110% damage
     by 90% for 3 turns, Deal 110% damage
   max_atk_pct: null
   name_en: Rage + Risky Attack
@@ -100,7 +98,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 140% for the next 2 turns + Reduce damage from all sources
     by 80% for 3 turns, Deal 110% damage
-    by 80% for 3 turns, Deal 110% damage
   max_atk_pct: null
   name_en: Rage + Risky Attack
   one_time: 256
@@ -136,7 +133,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 160% for the next 2 turns + Reduce damage from all sources
-    by 70% for 3 turns, Deal 110% damage
     by 70% for 3 turns, Deal 110% damage
   max_atk_pct: null
   name_en: Rage + Risky Attack
@@ -174,7 +170,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 180% for the next 2 turns + Reduce damage from all sources
     by 60% for 3 turns, Deal 110% damage
-    by 60% for 3 turns, Deal 110% damage
   max_atk_pct: null
   name_en: Rage + Risky Attack
   one_time: 64
@@ -211,7 +206,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 200% for the next 2 turns + Reduce damage from all sources
     by 50% for 3 turns, Deal 110% damage
-    by 50% for 3 turns, Deal 110% damage
   max_atk_pct: null
   name_en: Rage + Risky Attack
   one_time: 32
@@ -247,7 +241,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 220% for the next 2 turns + Reduce damage from all sources
-    by 40% for 3 turns, Deal 110% damage
     by 40% for 3 turns, Deal 110% damage
   max_atk_pct: null
   name_en: Rage + Risky Attack

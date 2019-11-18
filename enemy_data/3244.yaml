@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Spawn Bomb orbs in the specified positions + Change Heal to Jammer, Deal
     100% damage (Preemptive)
-    100% damage (Preemptive)
   max_atk_pct: null
   name_en: Death Bomb + Heart Crush
   one_time: 0

@@ -88,7 +88,6 @@ records:
 - !SkillRecord
   desc_en: Bind 1 random subs for 1 turns + Increase damage to 126% for the next 10
     turns
-    turns
   max_atk_pct: null
   name_en: Roar + Anger
   one_time: 5

@@ -25,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Change 3rd row to Jammer orbs, Deal
     1000% damage (Preemptive)
-    1000% damage (Preemptive)
   max_atk_pct: null
   name_en: War Deity's Ambition + Rapid Scalding
   one_time: 0
@@ -47,7 +46,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 100% damage + Change Random to Fire,
-    Deal 600% damage
     Deal 600% damage
   max_atk_pct: null
   name_en: Cinder Storm + Hidden Ember
@@ -91,7 +89,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb Fire damage for 1 turns + Change 1st, 3rd, 4th, 6th column to Fire
-    orbs, Deal 1500% damage
     orbs, Deal 1500% damage
   max_atk_pct: null
   name_en: Mars Core + Wall Eruption
@@ -129,7 +126,6 @@ records:
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 100% damage + Change Random to Fire,
     Deal 600% damage
-    Deal 600% damage
   max_atk_pct: null
   name_en: Cinder Storm + Hidden Ember
   one_time: 0
@@ -173,7 +169,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Fire damage for 1 turns + Change 1st, 3rd, 4th, 6th column to Fire
     orbs, Deal 1500% damage
-    orbs, Deal 1500% damage
   max_atk_pct: null
   name_en: Mars Core + Wall Eruption
   one_time: 0
@@ -195,7 +190,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 100% damage + Change Random to Fire,
-    Deal 600% damage
     Deal 600% damage
   max_atk_pct: null
   name_en: Cinder Storm + Hidden Ember
@@ -275,7 +269,6 @@ records:
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 100% damage + Change Random to Fire,
     Deal 600% damage
-    Deal 600% damage
   max_atk_pct: null
   name_en: Cinder Storm + Hidden Ember
   one_time: 0
@@ -332,7 +325,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Enemy recover 40% hp + Change 1st, 3rd, 4th, 6th column to Fire orbs, Deal
-    1500% damage
     1500% damage
   max_atk_pct: null
   name_en: Blazing Spirit + Wall Eruption

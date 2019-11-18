@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
     orbs (Preemptive)
-    orbs (Preemptive)
   max_atk_pct: null
   name_en: Welcome.
   one_time: 0
@@ -89,7 +88,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 200% for the next 999 turns + Absorb combo <= 3 damage
-    for 5 turns
     for 5 turns
   max_atk_pct: null
   name_en: Here I come!! + Tinbe

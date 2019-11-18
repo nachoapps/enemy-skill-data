@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 5 turns + Reduce damage from all sources by 50%
     for 5 turns (Preemptive)
-    for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: クイックファイトシューズ + マルチアンブレイカー
   one_time: 0
@@ -124,7 +123,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark + Deal 160% damage (8
-    hits, 20% each)
     hits, 20% each)
   max_atk_pct: null
   name_en: ガシャット！キメワザ！ + マイティクリティカルストライク

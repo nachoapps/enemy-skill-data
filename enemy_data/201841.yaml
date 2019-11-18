@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Locked Fire, Water skyfall +100%
     for 99 turns, (if [2442, 2443, 3768, 3769, 4812] on team) (Preemptive)
-    for 99 turns, (if [2442, 2443, 3768, 3769, 4812] on team) (Preemptive)
   max_atk_pct: null
   name_en: Are thou worthy of mine power? + I shall make sure of thy intent!
   one_time: 0
@@ -26,7 +25,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Locked Fire, Water skyfall +100%
-    for 99 turns (Preemptive)
     for 99 turns (Preemptive)
   max_atk_pct: null
   name_en: Are thou worthy of mine power? + We shall see...
@@ -126,7 +124,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Delay active skills by 5 turns + Bind 6 random for 5 turns, Deal 2500%
-    damage
     damage
   max_atk_pct: null
   name_en: Wrath of Water + Swirl Cage

@@ -32,7 +32,6 @@ records:
 - !SkillRecord
   desc_en: Void damage >= 10000000 for 999 turns + Voids status ailments for 999 turns
     + Reduce damage from all sources by 75% for 7 turns (Preemptive)
-    + Reduce damage from all sources by 75% for 7 turns (Preemptive)
   max_atk_pct: null
   name_en: Concealed Mountain Path + Guardian Dragon Formation + Mucus Skin
   one_time: 512
@@ -125,7 +124,6 @@ records:
 - !SkillRecord
   desc_en: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
     orbs, Deal 300% damage
-    orbs, Deal 300% damage
   max_atk_pct: 300
   name_en: Thousand-Blade Strike
   one_time: 8
@@ -140,7 +138,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Mortal Poison skyfall +20% for 7 turns + Unable to match Poison, Mortal
-    Poison orbs for 2 turns + Deal 420% damage (7 hits, 60% each)
     Poison orbs for 2 turns + Deal 420% damage (7 hits, 60% each)
   max_atk_pct: null
   name_en: The Allure of Swift Death + The Art of Contamination + Storm Rave
@@ -157,7 +154,6 @@ records:
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Water, Wood, Light, Dark +
     Bind 1 subs for 7 turns, Deal 330% damage
-    Bind 1 subs for 7 turns, Deal 330% damage
   max_atk_pct: null
   name_en: Rainbow Cloak + Paralysis Vine
   one_time: 2
@@ -172,7 +168,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Locked Poison, Mortal Poison skyfall +100% for 5 turns + Deal 490% damage
-    (7 hits, 70% each)
     (7 hits, 70% each)
   max_atk_pct: null
   name_en: Thorned Husk Fang + Cyclone Rave
@@ -189,7 +184,6 @@ records:
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Water, Wood, Light, Dark +
     Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Poison, Deal 400% damage
-    Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Poison, Deal 400% damage
   max_atk_pct: null
   name_en: Rainbow Cloak + Seven Gardens
   one_time: 0
@@ -198,7 +192,6 @@ records:
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Water, Wood, Light, Dark +
     Deal 490% damage (7 hits, 70% each)
-    Deal 490% damage (7 hits, 70% each)
   max_atk_pct: null
   name_en: Rainbow Cloak + Cyclone Rave
   one_time: 0
@@ -206,7 +199,6 @@ records:
   usage_pct: 40
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Water, Wood, Light, Dark +
-    Change Random 14 to Poison, Deal 400% damage
     Change Random 14 to Poison, Deal 400% damage
   max_atk_pct: null
   name_en: Rainbow Cloak + Dead Poison Rave
@@ -222,7 +214,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Water, Wood, Light, Dark +
-    Deal 12000% damage (10 hits, 1200% each)
     Deal 12000% damage (10 hits, 1200% each)
   max_atk_pct: null
   name_en: Rainbow Cloak + Everstorm Rainbow Blade

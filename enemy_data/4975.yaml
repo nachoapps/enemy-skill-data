@@ -67,7 +67,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 5 turns + Absorb combo <= 5 damage
     for 5 turns
-    for 5 turns
   max_atk_pct: null
   name_en: こうなったら　奥の手でござる！ + ぬははは！　勝利はもらった！
   one_time: 0
@@ -138,7 +137,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 5 turns + Absorb combo <= 5 damage
-    for 5 turns
     for 5 turns
   max_atk_pct: null
   name_en: こうなったら　奥の手でござる！ + ぬははは！　勝利はもらった！

@@ -61,7 +61,6 @@ records:
 - !SkillRecord
   desc_en: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
     orbs, Deal 160% damage
-    orbs, Deal 160% damage
   max_atk_pct: 160
   name_en: All Alert
   one_time: 0

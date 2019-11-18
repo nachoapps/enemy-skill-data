@@ -35,7 +35,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Change 1st, 6th column to Fire orbs
     (Preemptive)
-    (Preemptive)
   max_atk_pct: null
   name_en: 'Neither of us has any reason
 
@@ -108,7 +107,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind active skills for 1 turns + Reduce damage from all sources by 30%
-    for 2 turns
     for 2 turns
   max_atk_pct: null
   name_en: In this world, the strong live... + ...and the weak die.

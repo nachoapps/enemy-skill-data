@@ -96,7 +96,6 @@ records:
 - !SkillRecord
   desc_en: Fix orb movement starting point to random position on the board, Deal 300%
     damage
-    damage
   max_atk_pct: 300
   name_en: Gleaming Chains
   one_time: 0

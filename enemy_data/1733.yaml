@@ -40,7 +40,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Reduce damage from all sources by
     90% for 2 turns (Preemptive)
-    90% for 2 turns (Preemptive)
   max_atk_pct: null
   name_en: I'll reinforce my defenses + Can you hit me?
   one_time: 0
@@ -55,7 +54,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb damage >= 4000000 damage for 10 turns + Increase damage to 150%
-    for the next 2 turns
     for the next 2 turns
   max_atk_pct: null
   name_en: Not yet, ok? + Prepare yourself
@@ -107,7 +105,6 @@ records:
 - !SkillRecord
   desc_en: Change 2nd row to Water, Jammer orbs, 4th row to Water, Jammer orbs, Deal
     100% damage
-    100% damage
   max_atk_pct: 100
   name_en: How about this?
   one_time: 1
@@ -143,7 +140,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 2nd row to Water, Jammer orbs, 4th row to Water, Jammer orbs, Deal
-    100% damage
     100% damage
   max_atk_pct: 100
   name_en: How about this?
@@ -181,7 +177,6 @@ records:
 - !SkillRecord
   desc_en: Change 2nd row to Water, Jammer orbs, 4th row to Water, Jammer orbs, Deal
     100% damage
-    100% damage
   max_atk_pct: 100
   name_en: How about this?
   one_time: 1
@@ -217,7 +212,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 2nd row to Water, Jammer orbs, 4th row to Water, Jammer orbs, Deal
-    100% damage
     100% damage
   max_atk_pct: 100
   name_en: How about this?
@@ -269,7 +263,6 @@ records:
 - !SkillRecord
   desc_en: Change 2nd row to Water, Jammer orbs, 4th row to Water, Jammer orbs, Deal
     100% damage
-    100% damage
   max_atk_pct: 100
   name_en: How about this?
   one_time: 1
@@ -305,7 +298,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 2nd row to Water, Jammer orbs, 4th row to Water, Jammer orbs, Deal
-    100% damage
     100% damage
   max_atk_pct: 100
   name_en: How about this?
@@ -364,7 +356,6 @@ records:
 - !SkillRecord
   desc_en: Change 2nd column to Water, Jammer orbs, 5th column to Water, Jammer orbs,
     Deal 300% damage
-    Deal 300% damage
   max_atk_pct: 300
   name_en: Binding Azure Bladewings
   one_time: 0
@@ -372,7 +363,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change 2nd column to Water, Jammer orbs, 5th column to Water, Jammer orbs,
-    Deal 300% damage
     Deal 300% damage
   max_atk_pct: 300
   name_en: Binding Azure Bladewings

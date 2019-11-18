@@ -88,7 +88,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 1000% for the next 999 turns + Voids status ailments
     for 999 turns
-    for 999 turns
   max_atk_pct: null
   name_en: Awful! Now I'm mad! + Cheeks puffing up in anger
   one_time: 4

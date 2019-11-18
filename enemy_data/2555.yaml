@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 7 turns + Reduce damage from all sources by 75%
     for 3 turns (Preemptive)
-    for 3 turns (Preemptive)
   max_atk_pct: null
   name_en: Let's battle! + I wonder if you can strike me down
   one_time: 8
@@ -201,7 +200,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb combo <= 7 damage for 10 turns + Change 1st column to Water, Jammer
-    orbs, 6th column to Fire, Jammer orbs, Deal 100% damage
     orbs, 6th column to Fire, Jammer orbs, Deal 100% damage
   max_atk_pct: null
   name_en: I'm...not done...yet + Athnan Musmar

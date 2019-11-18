@@ -40,7 +40,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Void damage >= 25000000 for 99 turns
     + Absorb combo <= 6 damage for 99 turns (Preemptive)
-    + Absorb combo <= 6 damage for 99 turns (Preemptive)
   max_atk_pct: null
   name_en: I'm...the strongest!!! + X Wall + Absorb Sechs
   one_time: 0
@@ -55,7 +54,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 1st column to Poison orbs, 6th column to Jammer orbs, Deal 120%
-    damage + Unable to match Jammer, Poison orbs for 1 turns
     damage + Unable to match Jammer, Poison orbs for 1 turns
   max_atk_pct: null
   name_en: Double Sacrifice + Twin Protection
@@ -72,7 +70,6 @@ records:
 - !SkillRecord
   desc_en: Seal 6th column for 1 turns + Spawn Bomb orbs in the specified positions
     + Deal 100% damage
-    + Deal 100% damage
   max_atk_pct: null
   name_en: Protective Wall + Burst Out + Hyah!!!
   one_time: 1
@@ -80,7 +77,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Seal 1st column for 1 turns + Blind orbs in specific positions for 1 turns
-    + Deal 100% damage
     + Deal 100% damage
   max_atk_pct: null
   name_en: Protective Wall + Cross Saber + Hyah!!!
@@ -111,7 +107,6 @@ records:
 - !SkillRecord
   desc_en: Change 1st column to Poison orbs, 6th column to Jammer orbs, Deal 120%
     damage
-    damage
   max_atk_pct: 120
   name_en: Double Sacrifice
   one_time: 0
@@ -134,7 +129,6 @@ records:
 - !SkillRecord
   desc_en: Seal 6th column for 1 turns + Spawn Bomb orbs in the specified positions
     + Deal 100% damage
-    + Deal 100% damage
   max_atk_pct: null
   name_en: Protective Wall + Burst Out + Hyah!!!
   one_time: 1
@@ -142,7 +136,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Seal 1st column for 1 turns + Blind orbs in specific positions for 1 turns
-    + Deal 100% damage
     + Deal 100% damage
   max_atk_pct: null
   name_en: Protective Wall + Cross Saber + Hyah!!!
@@ -173,7 +166,6 @@ records:
 - !SkillRecord
   desc_en: Change 1st column to Poison orbs, 6th column to Jammer orbs, Deal 120%
     damage
-    damage
   max_atk_pct: 120
   name_en: Double Sacrifice
   one_time: 0
@@ -196,7 +188,6 @@ records:
 - !SkillRecord
   desc_en: Seal 6th column for 1 turns + Spawn Bomb orbs in the specified positions
     + Deal 100% damage
-    + Deal 100% damage
   max_atk_pct: null
   name_en: Protective Wall + Burst Out + Hyah!!!
   one_time: 1
@@ -204,7 +195,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Seal 1st column for 1 turns + Blind orbs in specific positions for 1 turns
-    + Deal 100% damage
     + Deal 100% damage
   max_atk_pct: null
   name_en: Protective Wall + Cross Saber + Hyah!!!
@@ -235,7 +225,6 @@ records:
 - !SkillRecord
   desc_en: Change 1st column to Poison orbs, 6th column to Jammer orbs, Deal 120%
     damage
-    damage
   max_atk_pct: 120
   name_en: Double Sacrifice
   one_time: 0
@@ -258,7 +247,6 @@ records:
 - !SkillRecord
   desc_en: Seal 6th column for 1 turns + Spawn Bomb orbs in the specified positions
     + Deal 100% damage
-    + Deal 100% damage
   max_atk_pct: null
   name_en: Protective Wall + Burst Out + Hyah!!!
   one_time: 1
@@ -266,7 +254,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Seal 1st column for 1 turns + Blind orbs in specific positions for 1 turns
-    + Deal 100% damage
     + Deal 100% damage
   max_atk_pct: null
   name_en: Protective Wall + Cross Saber + Hyah!!!
@@ -297,7 +284,6 @@ records:
 - !SkillRecord
   desc_en: Change 1st column to Poison orbs, 6th column to Jammer orbs, Deal 120%
     damage
-    damage
   max_atk_pct: 120
   name_en: Double Sacrifice
   one_time: 0
@@ -320,7 +306,6 @@ records:
 - !SkillRecord
   desc_en: Seal 6th column for 1 turns + Spawn Bomb orbs in the specified positions
     + Deal 100% damage
-    + Deal 100% damage
   max_atk_pct: null
   name_en: Protective Wall + Burst Out + Hyah!!!
   one_time: 1
@@ -328,7 +313,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Seal 1st column for 1 turns + Blind orbs in specific positions for 1 turns
-    + Deal 100% damage
     + Deal 100% damage
   max_atk_pct: null
   name_en: Protective Wall + Cross Saber + Hyah!!!
@@ -366,7 +350,6 @@ records:
 - !SkillRecord
   desc_en: Seal 6th column for 1 turns + Spawn Bomb orbs in the specified positions
     + Deal 100% damage
-    + Deal 100% damage
   max_atk_pct: null
   name_en: Protective Wall + Burst Out + Hyah!!!
   one_time: 1
@@ -374,7 +357,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Seal 1st column for 1 turns + Blind orbs in specific positions for 1 turns
-    + Deal 100% damage
     + Deal 100% damage
   max_atk_pct: null
   name_en: Protective Wall + Cross Saber + Hyah!!!
@@ -405,7 +387,6 @@ records:
 - !SkillRecord
   desc_en: Change 1st column to Poison orbs, 6th column to Jammer orbs, Deal 120%
     damage
-    damage
   max_atk_pct: 120
   name_en: Double Sacrifice
   one_time: 0
@@ -435,7 +416,6 @@ records:
 - !SkillRecord
   desc_en: Blind orbs in specific positions for 1 turns + Lock all Fire, Water, Wood,
     Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs + Deal 100% damage
-    Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs + Deal 100% damage
   max_atk_pct: null
   name_en: Double Saber + X Field + Hyah!!!
   one_time: 1
@@ -443,7 +423,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Seal 1st row for 1 turns + Blind orbs in specific positions for 1 turns
-    + Spawn Bomb orbs in the specified positions
     + Spawn Bomb orbs in the specified positions
   max_atk_pct: null
   name_en: Protective Wall + Cross Saber + Burst Out
@@ -502,7 +481,6 @@ records:
 - !SkillRecord
   desc_en: Blind orbs in specific positions for 1 turns + Lock all Fire, Water, Wood,
     Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs + Deal 100% damage
-    Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs + Deal 100% damage
   max_atk_pct: null
   name_en: Double Saber + X Field + Hyah!!!
   one_time: 1
@@ -510,7 +488,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Seal 1st row for 1 turns + Blind orbs in specific positions for 1 turns
-    + Spawn Bomb orbs in the specified positions
     + Spawn Bomb orbs in the specified positions
   max_atk_pct: null
   name_en: Protective Wall + Cross Saber + Burst Out
@@ -569,7 +546,6 @@ records:
 - !SkillRecord
   desc_en: Blind orbs in specific positions for 1 turns + Lock all Fire, Water, Wood,
     Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs + Deal 100% damage
-    Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs + Deal 100% damage
   max_atk_pct: null
   name_en: Double Saber + X Field + Hyah!!!
   one_time: 1
@@ -577,7 +553,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Seal 1st row for 1 turns + Blind orbs in specific positions for 1 turns
-    + Spawn Bomb orbs in the specified positions
     + Spawn Bomb orbs in the specified positions
   max_atk_pct: null
   name_en: Protective Wall + Cross Saber + Burst Out
@@ -636,7 +611,6 @@ records:
 - !SkillRecord
   desc_en: Blind orbs in specific positions for 1 turns + Lock all Fire, Water, Wood,
     Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs + Deal 100% damage
-    Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs + Deal 100% damage
   max_atk_pct: null
   name_en: Double Saber + X Field + Hyah!!!
   one_time: 1
@@ -644,7 +618,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Seal 1st row for 1 turns + Blind orbs in specific positions for 1 turns
-    + Spawn Bomb orbs in the specified positions
     + Spawn Bomb orbs in the specified positions
   max_atk_pct: null
   name_en: Protective Wall + Cross Saber + Burst Out
@@ -703,7 +676,6 @@ records:
 - !SkillRecord
   desc_en: Blind orbs in specific positions for 1 turns + Lock all Fire, Water, Wood,
     Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs + Deal 100% damage
-    Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs + Deal 100% damage
   max_atk_pct: null
   name_en: Double Saber + X Field + Hyah!!!
   one_time: 1
@@ -711,7 +683,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Seal 1st row for 1 turns + Blind orbs in specific positions for 1 turns
-    + Spawn Bomb orbs in the specified positions
     + Spawn Bomb orbs in the specified positions
   max_atk_pct: null
   name_en: Protective Wall + Cross Saber + Burst Out
@@ -770,7 +741,6 @@ records:
 - !SkillRecord
   desc_en: Blind orbs in specific positions for 1 turns + Lock all Fire, Water, Wood,
     Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs + Deal 100% damage
-    Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs + Deal 100% damage
   max_atk_pct: null
   name_en: Double Saber + X Field + Hyah!!!
   one_time: 1
@@ -778,7 +748,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Seal 1st row for 1 turns + Blind orbs in specific positions for 1 turns
-    + Spawn Bomb orbs in the specified positions
     + Spawn Bomb orbs in the specified positions
   max_atk_pct: null
   name_en: Protective Wall + Cross Saber + Burst Out

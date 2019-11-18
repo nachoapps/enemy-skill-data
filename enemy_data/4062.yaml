@@ -41,7 +41,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Void damage >= 25000000 for 99 turns
     + Absorb combo <= 6 damage for 99 turns (Preemptive)
-    + Absorb combo <= 6 damage for 99 turns (Preemptive)
   max_atk_pct: null
   name_en: I'm...the strongest!!! + X Wall + Absorb Sechs
   one_time: 0

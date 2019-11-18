@@ -61,7 +61,6 @@ records:
 - !SkillRecord
   desc_en: Lock 6 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 105% damage
-    Poison orbs, Deal 105% damage
   max_atk_pct: 105
   name_en: パズドラー恐るるに足らずってな！
   one_time: 0
@@ -167,7 +166,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random to Water, Deal 10% damage + Blind all orbs on the board,
-    Deal 10% damage + Deal 250% damage (5 hits, 50% each)
     Deal 10% damage + Deal 250% damage (5 hits, 50% each)
   max_atk_pct: null
   name_en: 俺はコラボ先でも + 自分の肉体が滅ぶまで + 背筋伸ばして生きてくだけよっ！！

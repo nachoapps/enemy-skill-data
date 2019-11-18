@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Reduce damage from all sources by
     75% for 7 turns + Void damage >= 6000000 for 99 turns (Preemptive)
-    75% for 7 turns + Void damage >= 6000000 for 99 turns (Preemptive)
   max_atk_pct: null
   name_en: アンチウイルス + ギガンティックボディ + エナジーカーム
   one_time: 0
@@ -104,7 +103,6 @@ records:
 - !SkillRecord
   desc_en: Change 3rd, 4th column to Wood orbs, Deal 450% damage + Absorb Fire, Water
     damage for 3 turns
-    damage for 3 turns
   max_atk_pct: null
   name_en: ガイアビーム + インヘイル
   one_time: 1
@@ -112,7 +110,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Change 3rd, 4th column to Wood orbs, Deal 450% damage + Absorb Water, Wood
-    damage for 3 turns
     damage for 3 turns
   max_atk_pct: null
   name_en: ガイアビーム + インヘイル
@@ -122,7 +119,6 @@ records:
 - !SkillRecord
   desc_en: Change 3rd, 4th column to Wood orbs, Deal 450% damage + Absorb Wood, Light
     damage for 3 turns
-    damage for 3 turns
   max_atk_pct: null
   name_en: ガイアビーム + インヘイル
   one_time: 1
@@ -131,7 +127,6 @@ records:
 - !SkillRecord
   desc_en: Change 3rd, 4th column to Wood orbs, Deal 450% damage + Absorb Light, Dark
     damage for 3 turns
-    damage for 3 turns
   max_atk_pct: null
   name_en: ガイアビーム + インヘイル
   one_time: 1
@@ -139,7 +134,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Change 3rd, 4th column to Wood orbs, Deal 450% damage + Absorb Fire, Dark
-    damage for 3 turns
     damage for 3 turns
   max_atk_pct: null
   name_en: ガイアビーム + インヘイル
@@ -183,7 +177,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Lock 6 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
-    Poison orbs, Deal 340% damage
     Poison orbs, Deal 340% damage
   max_atk_pct: 340
   name_en: ハードンサイン

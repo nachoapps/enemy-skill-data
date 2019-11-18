@@ -19,7 +19,6 @@ records:
 - !SkillRecord
   desc_en: Bind awoken skills for 5 turns + Bind active skills for 5 turns + Absorb
     combo <= 6 damage for 1 turns + Movetime 200% for 5 turns (Preemptive)
-    combo <= 6 damage for 1 turns + Movetime 200% for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: Is everyone ready? + Brace yourself! + Here I come! + Let's get excited
     ♪
@@ -73,7 +72,6 @@ records:
 - !SkillRecord
   desc_en: Do nothing + Spawn random 6 Fire, Water, Wood, Light, Dark, Heal, Jammer
     orbs + Absorb combo <= 9 damage for 1 turns, (if >=18 combos last turn)
-    orbs + Absorb combo <= 9 damage for 1 turns, (if >=18 combos last turn)
   max_atk_pct: null
   name_en: Good Soprano + Thanks for everything up to now! + This is the end!
   one_time: 0
@@ -107,7 +105,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 6 Fire, Water, Wood, Light, Dark, Heal, Jammer orbs + Absorb
-    combo <= 9 damage for 1 turns, (if >=9 combos last turn)
     combo <= 9 damage for 1 turns, (if >=9 combos last turn)
   max_atk_pct: null
   name_en: Thanks for everything up to now! + This is the end!

@@ -60,7 +60,6 @@ records:
 - !SkillRecord
   desc_en: Lock 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 120% damage
-    Poison orbs, Deal 120% damage
   max_atk_pct: 120
   name_en: Snipe Shot
   one_time: 0
@@ -117,7 +116,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind active skills for 5 turns + Increase damage to 200% for the next 99
-    turns
     turns
   max_atk_pct: null
   name_en: Skill Trap + Capture

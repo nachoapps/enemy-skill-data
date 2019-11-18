@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Absorb combo <= 6 damage for 999 turns + Poison skyfall +5% for 10 turns
     (Preemptive)
-    (Preemptive)
   max_atk_pct: null
   name_en: Gigantic Body + Black Missile
   one_time: 0

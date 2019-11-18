@@ -25,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 5 turns + Blind all orbs on the
     board (Preemptive)
-    board (Preemptive)
   max_atk_pct: null
   name_en: Guardian Dragon Barrier + Behold, Zhou Yu's ingenuity!
   one_time: 0
@@ -89,7 +88,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 1st row to Fire orbs, 5th row to Fire orbs, Deal 60% damage + Change
-    1st column to Fire orbs, 6th column to Fire orbs, Deal 60% damage
     1st column to Fire orbs, 6th column to Fire orbs, Deal 60% damage
   max_atk_pct: null
   name_en: Besieged by Fire + Can you prevail?

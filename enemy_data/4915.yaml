@@ -32,7 +32,6 @@ records:
 - !SkillRecord
   desc_en: Change 3rd row to Fire orbs, Deal 45% damage + Change 3rd, 4th column to
     Fire orbs, Deal 45% damage
-    Fire orbs, Deal 45% damage
   max_atk_pct: null
   name_en: 俺の必殺技 + パート２
   one_time: 0
@@ -62,7 +61,6 @@ records:
 - !SkillRecord
   desc_en: Blind orbs in specific positions for 1 turns + Change 3rd, 4th column to
     Fire orbs, Deal 110% damage
-    Fire orbs, Deal 110% damage
   max_atk_pct: null
   name_en: 俺の必殺技 + パート３
   one_time: 0
@@ -78,7 +76,6 @@ records:
 - !SkillRecord
   desc_en: Blind orbs in specific positions for 1 turns + Do nothing + Change 3rd
     row to Fire orbs, Deal 120% damage
-    row to Fire orbs, Deal 120% damage
   max_atk_pct: null
   name_en: 俺の必殺技　パート３！ + と見せかけて + ストレートど真ん中！！！
   one_time: 0
@@ -93,7 +90,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 2nd, 4th row to Fire orbs, Deal 65% damage + Change 3rd, 4th column
-    to Fire orbs, Deal 65% damage
     to Fire orbs, Deal 65% damage
   max_atk_pct: null
   name_en: 俺の必殺技 + パート５

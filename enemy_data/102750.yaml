@@ -25,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Absorb combo <= 8 damage for 3 turns + Voids status ailments for 3 turns
     (Preemptive)
-    (Preemptive)
   max_atk_pct: null
   name_en: Celestial Prelude + I'd be glad if you could listen quietly
   one_time: 4
@@ -40,7 +39,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 1st, 3rd, 5th row to Light orbs, 2nd, 4th row to Wood orbs, Deal
-    100% damage
     100% damage
   max_atk_pct: 100
   name_en: Holy Tree's Staff
@@ -70,7 +68,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random to Light, Deal 300% damage + Reduce damage from all sources
-    by 50% for 3 turns
     by 50% for 3 turns
   max_atk_pct: null
   name_en: Last Movement - Flash + The show is over...

@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Water damage for 5 turns + Lock all Water, Dark orbs, Deal 120%
     damage (Preemptive)
-    damage (Preemptive)
   max_atk_pct: null
   name_en: Grace of Mimir + Diabolic Lance Gungnir
   one_time: 0

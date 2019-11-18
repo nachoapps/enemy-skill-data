@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 6 turns + Bind 4 subs for 2 turns,
     Deal 50% damage (Preemptive)
-    Deal 50% damage (Preemptive)
   max_atk_pct: null
   name_en: Iceberg Sword's Iron Skin + Freezing Feather
   one_time: 0

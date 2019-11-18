@@ -32,7 +32,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Void damage >= 20000000 for 999 turns
     (Preemptive)
-    (Preemptive)
   max_atk_pct: null
   name_en: Concept of Boundless Worlds + Cycle of Scorched-Earth Madness
   one_time: 2

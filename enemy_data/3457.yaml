@@ -106,7 +106,6 @@ records:
 - !SkillRecord
   desc_en: Enemy recover 50% hp + Reduce damage from all sources by 75% for 99 turns,
     Deal 200% damage
-    Deal 200% damage
   max_atk_pct: null
   name_en: Fresh Blood of a Male Goat + Devil's Influence
   one_time: 1

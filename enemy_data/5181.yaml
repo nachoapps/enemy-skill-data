@@ -25,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Void damage >= 25000000 for 999 turns
     + Reduce damage from all sources by 90% for 4 turns (Preemptive)
-    + Reduce damage from all sources by 90% for 4 turns (Preemptive)
   max_atk_pct: null
   name_en: Aging Agar + Brilliant Recipe + Caramelise Coating
   one_time: 0
@@ -96,7 +95,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Water, Wood, Light, Dark, Deal
-    84% damage
     84% damage
   max_atk_pct: 84
   name_en: Fraise Brulée

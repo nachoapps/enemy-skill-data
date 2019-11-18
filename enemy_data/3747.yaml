@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Absorb Water, Wood damage for 1 turns
     (Preemptive)
-    (Preemptive)
   max_atk_pct: null
   name_en: Don't come here, it's dangerous! + Bellows of the Smelting Furnace
   one_time: 0
@@ -26,7 +25,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Absorb Water, Light damage for 1
-    turns (Preemptive)
     turns (Preemptive)
   max_atk_pct: null
   name_en: Don't come here, it's dangerous! + Bellows of the Smelting Furnace
@@ -36,7 +34,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Absorb Wood, Dark damage for 1 turns
     (Preemptive)
-    (Preemptive)
   max_atk_pct: null
   name_en: Don't come here, it's dangerous! + Bellows of the Smelting Furnace
   one_time: 0
@@ -44,7 +41,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Absorb Light, Dark damage for 1 turns
-    (Preemptive)
     (Preemptive)
   max_atk_pct: null
   name_en: Don't come here, it's dangerous! + Bellows of the Smelting Furnace
@@ -82,7 +78,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Water, Light damage for 1 turns + Change Random to Jammer, Deal
     100% damage
-    100% damage
   max_atk_pct: null
   name_en: Bellows of the Smelting Furnace + Sacred Fire Dust
   one_time: 0
@@ -91,7 +86,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Wood, Dark damage for 1 turns + Change 2nd, 4th row to Fire orbs,
     Deal 95% damage
-    Deal 95% damage
   max_atk_pct: null
   name_en: Bellows of the Smelting Furnace + Incineration
   one_time: 0
@@ -99,7 +93,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Absorb Light, Dark damage for 1 turns + Change 1st, 5th row to Fire orbs,
-    Deal 95% damage
     Deal 95% damage
   max_atk_pct: null
   name_en: Bellows of the Smelting Furnace + Incineration

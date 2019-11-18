@@ -67,7 +67,6 @@ records:
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 200% damage + Change own attribute to
     random one of Fire, Water, Wood, Light, Dark
-    random one of Fire, Water, Wood, Light, Dark
   max_atk_pct: null
   name_en: Cattle Mutilation + Full Element
   one_time: 2
@@ -138,7 +137,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 200% damage + Change own attribute to
-    random one of Fire, Water, Wood, Light, Dark
     random one of Fire, Water, Wood, Light, Dark
   max_atk_pct: null
   name_en: Cattle Mutilation + Full Element

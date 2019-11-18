@@ -26,7 +26,6 @@ records:
 - !SkillRecord
   desc_en: Void damage >= 10000000 for 999 turns + Voids status ailments for 999 turns
     + Absorb combo <= 7 damage for 999 turns (Preemptive)
-    + Absorb combo <= 7 damage for 999 turns (Preemptive)
   max_atk_pct: null
   name_en: Water Dragon Barrier + Guardian Dragon Formation + High Bubble Wall
   one_time: 0
@@ -34,7 +33,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Lock 8 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
-    Poison orbs, Deal 300% damage
     Poison orbs, Deal 300% damage
   max_atk_pct: 300
   name_en: Sharptooth
@@ -79,7 +77,6 @@ records:
 - !SkillRecord
   desc_en: Mortal Poison skyfall +15% for 3 turns + Deal 400% damage (4 hits, 100%
     each)
-    each)
   max_atk_pct: null
   name_en: Poison Swirl + Ether Screw
   one_time: 3
@@ -87,7 +84,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 3 turns + Deal 400% damage (4
-    hits, 100% each)
     hits, 100% each)
   max_atk_pct: null
   name_en: Shell Scales + Ether Screw
@@ -111,7 +107,6 @@ records:
 - !SkillRecord
   desc_en: Mortal Poison skyfall +15% for 3 turns + Deal 400% damage (4 hits, 100%
     each)
-    each)
   max_atk_pct: null
   name_en: Poison Swirl + Ether Screw
   one_time: 8
@@ -134,7 +129,6 @@ records:
 - !SkillRecord
   desc_en: Mortal Poison skyfall +15% for 3 turns + Deal 400% damage (4 hits, 100%
     each)
-    each)
   max_atk_pct: null
   name_en: Poison Swirl + Ether Screw
   one_time: 2
@@ -149,7 +143,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Voids player buff effects + Change all orbs to Mortal Poison, Deal 10000%
-    damage
     damage
   max_atk_pct: null
   name_en: Cold Break + Blue Calamity Abyss

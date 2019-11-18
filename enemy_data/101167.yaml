@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Spawn random 6 Fire, Water, Wood,
     Light, Dark, Poison, Mortal Poison orbs (Preemptive)
-    Light, Dark, Poison, Mortal Poison orbs (Preemptive)
   max_atk_pct: null
   name_en: Fertile Guard + Aurora Glass
   one_time: 0

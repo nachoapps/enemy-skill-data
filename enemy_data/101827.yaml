@@ -25,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Spawn Bomb orbs in the specified positions + Blind orbs in specific positions
     for 1 turns, Deal 160% damage (Preemptive)
-    for 1 turns, Deal 160% damage (Preemptive)
   max_atk_pct: null
   name_en: Flare Bomb + Flashburn
   one_time: 0
@@ -33,7 +32,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Random to Heal + Change 2nd, 3rd row to Fire, Water orbs, Deal 170%
-    damage
     damage
   max_atk_pct: null
   name_en: Healing Hymn + Scarlet Azure Blade
@@ -126,7 +124,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 1st, 3rd, 5th row to Fire orbs, 2nd, 4th row to Water orbs, Deal
-    1500% damage
     1500% damage
   max_atk_pct: 1500
   name_en: Lotus Sky Blades

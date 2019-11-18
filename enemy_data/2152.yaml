@@ -67,7 +67,6 @@ records:
 - !SkillRecord
   desc_en: Blind all orbs on the board + Change all orbs to Fire, Water, Wood, Light,
     Dark
-    Dark
   max_atk_pct: null
   name_en: 絶望のパズル + 隠されし希望
   one_time: 1

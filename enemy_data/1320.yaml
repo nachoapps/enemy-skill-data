@@ -32,7 +32,6 @@ records:
 - !SkillRecord
   desc_en: Deal 40%~60% damage (2~3 hits, 20% each) + Change 6th column to Water orbs,
     Deal 50% damage
-    Deal 50% damage
   max_atk_pct: null
   name_en: Hyaaa! + Blizzard Breath
   one_time: 0
@@ -41,7 +40,6 @@ records:
 - !SkillRecord
   desc_en: Change 3rd row to Wood orbs, Deal 40% damage + Bind 1 subs for 1~2 turns,
     Deal 40% damage
-    Deal 40% damage
   max_atk_pct: null
   name_en: Heeeey!! + Freeze Breath
   one_time: 1
@@ -49,7 +47,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: Change 3rd row to Wood orbs, Deal 40% damage + Change 6th column to Water
-    orbs, Deal 50% damage
     orbs, Deal 50% damage
   max_atk_pct: null
   name_en: Heeeey!! + Blizzard Breath
@@ -86,7 +83,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 1st row to Water orbs, 3rd row to Wood orbs, 5th row to Water orbs,
-    Deal 200% damage
     Deal 200% damage
   max_atk_pct: 200
   name_en: Dance of the Dragon War Princess

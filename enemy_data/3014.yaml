@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Jammer, Poison skyfall +15% for 5 turns + Reduce damage from all sources
     by 50% for 3 turns (Preemptive)
-    by 50% for 3 turns (Preemptive)
   max_atk_pct: null
   name_en: Heat Smoke + Started accumulating power in his fists
   one_time: 1

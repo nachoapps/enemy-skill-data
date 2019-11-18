@@ -25,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Rcv 50% for 6 turns + Reduce damage from all sources by 75% for 6 turns
     + Player -99% HP (Preemptive)
-    + Player -99% HP (Preemptive)
   max_atk_pct: null
   name_en: Show me your worth! + Holy Ark of Sanctuary + Ark Impact
   one_time: 8
@@ -40,7 +39,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Change all orbs to Water, Deal 100%
-    damage + Specific orbs change every 2.0s for 5 turns
     damage + Specific orbs change every 2.0s for 5 turns
   max_atk_pct: null
   name_en: Ark Protection + Dusky Glimmer + Hope on the Horizon
@@ -57,7 +55,6 @@ records:
 - !SkillRecord
   desc_en: Change all orbs to Water, Deal 100% damage + Jammer skyfall +20% for 3
     turns
-    turns
   max_atk_pct: null
   name_en: Dusky Glimmer + Judgment Rain
   one_time: 2
@@ -72,7 +69,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change all orbs to Water, Deal 100% damage + Locked random skyfall +100%
-    for 1 turns
     for 1 turns
   max_atk_pct: null
   name_en: Dusky Glimmer + Calvary Rain

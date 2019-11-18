@@ -53,7 +53,6 @@ records:
 - !SkillRecord
   desc_en: Change 1st, 5th row to Heal, Poison orbs, 3rd row to Mortal Poison orbs
     + Increase damage to 150% for the next 999 turns
-    + Increase damage to 150% for the next 999 turns
   max_atk_pct: null
   name_en: Deadly Scorpion Poison + Order of Destruction
   one_time: 4
@@ -89,7 +88,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Wood + Deal 10000% damage (10
-    hits, 1000% each)
     hits, 1000% each)
   max_atk_pct: null
   name_en: Strange Heavens + Enturione

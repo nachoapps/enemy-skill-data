@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Void damage >= 5000000 for 99 turns
     + Absorb Fire, Light damage for 1 turns (Preemptive)
-    + Absorb Fire, Light damage for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: Ark Scales + Sacred Boat Protective Walls + Blue Sky Rainbow
   one_time: 0
@@ -26,7 +25,6 @@ records:
   usage_pct: 17
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Void damage >= 5000000 for 99 turns
-    + Absorb Fire, Dark damage for 1 turns (Preemptive)
     + Absorb Fire, Dark damage for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: Ark Scales + Sacred Boat Protective Walls + Blue Sky Rainbow
@@ -36,7 +34,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Void damage >= 5000000 for 99 turns
     + Absorb Water, Light damage for 1 turns (Preemptive)
-    + Absorb Water, Light damage for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: Ark Scales + Sacred Boat Protective Walls + Blue Sky Rainbow
   one_time: 0
@@ -45,7 +42,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Void damage >= 5000000 for 99 turns
     + Absorb Water, Dark damage for 1 turns (Preemptive)
-    + Absorb Water, Dark damage for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: Ark Scales + Sacred Boat Protective Walls + Blue Sky Rainbow
   one_time: 0
@@ -53,7 +49,6 @@ records:
   usage_pct: 17
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Void damage >= 5000000 for 99 turns
-    + Absorb Wood, Light damage for 1 turns (Preemptive)
     + Absorb Wood, Light damage for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: Ark Scales + Sacred Boat Protective Walls + Blue Sky Rainbow
@@ -62,7 +57,6 @@ records:
   usage_pct: 16
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Void damage >= 5000000 for 99 turns
-    + Absorb Wood, Dark damage for 1 turns (Preemptive)
     + Absorb Wood, Dark damage for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: Ark Scales + Sacred Boat Protective Walls + Blue Sky Rainbow
@@ -72,7 +66,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Fire, Light damage for 1 turns + Change Random to Fire, Deal 100%
     damage + Bind 1 subs for 1 turns, Deal 50% damage
-    damage + Bind 1 subs for 1 turns, Deal 50% damage
   max_atk_pct: null
   name_en: Blue Sky Rainbow + Prismatic Thunder + Strand Sacrifice
   one_time: 0
@@ -80,7 +73,6 @@ records:
   usage_pct: 8
 - !SkillRecord
   desc_en: Absorb Fire, Light damage for 1 turns + Change Random to Light, Deal 100%
-    damage + Bind 1 subs for 1 turns, Deal 50% damage
     damage + Bind 1 subs for 1 turns, Deal 50% damage
   max_atk_pct: null
   name_en: Blue Sky Rainbow + Prismatic Thunder + Strand Sacrifice
@@ -90,7 +82,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Fire, Dark damage for 1 turns + Change Random to Fire, Deal 100%
     damage + Bind 1 subs for 1 turns, Deal 50% damage
-    damage + Bind 1 subs for 1 turns, Deal 50% damage
   max_atk_pct: null
   name_en: Blue Sky Rainbow + Prismatic Thunder + Strand Sacrifice
   one_time: 0
@@ -98,7 +89,6 @@ records:
   usage_pct: 8
 - !SkillRecord
   desc_en: Absorb Fire, Dark damage for 1 turns + Change Random to Dark, Deal 100%
-    damage + Bind 1 subs for 1 turns, Deal 50% damage
     damage + Bind 1 subs for 1 turns, Deal 50% damage
   max_atk_pct: null
   name_en: Blue Sky Rainbow + Prismatic Thunder + Strand Sacrifice
@@ -108,7 +98,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Water, Light damage for 1 turns + Change Random to Water, Deal 100%
     damage + Bind 1 subs for 1 turns, Deal 50% damage
-    damage + Bind 1 subs for 1 turns, Deal 50% damage
   max_atk_pct: null
   name_en: Blue Sky Rainbow + Prismatic Thunder + Strand Sacrifice
   one_time: 0
@@ -116,7 +105,6 @@ records:
   usage_pct: 9
 - !SkillRecord
   desc_en: Absorb Water, Light damage for 1 turns + Change Random to Light, Deal 100%
-    damage + Bind 1 subs for 1 turns, Deal 50% damage
     damage + Bind 1 subs for 1 turns, Deal 50% damage
   max_atk_pct: null
   name_en: Blue Sky Rainbow + Prismatic Thunder + Strand Sacrifice
@@ -126,7 +114,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Water, Dark damage for 1 turns + Change Random to Water, Deal 100%
     damage + Bind 1 subs for 1 turns, Deal 50% damage
-    damage + Bind 1 subs for 1 turns, Deal 50% damage
   max_atk_pct: null
   name_en: Blue Sky Rainbow + Prismatic Thunder + Strand Sacrifice
   one_time: 0
@@ -134,7 +121,6 @@ records:
   usage_pct: 9
 - !SkillRecord
   desc_en: Absorb Water, Dark damage for 1 turns + Change Random to Dark, Deal 100%
-    damage + Bind 1 subs for 1 turns, Deal 50% damage
     damage + Bind 1 subs for 1 turns, Deal 50% damage
   max_atk_pct: null
   name_en: Blue Sky Rainbow + Prismatic Thunder + Strand Sacrifice
@@ -144,7 +130,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Wood, Light damage for 1 turns + Change Random to Wood, Deal 100%
     damage + Bind 1 subs for 1 turns, Deal 50% damage
-    damage + Bind 1 subs for 1 turns, Deal 50% damage
   max_atk_pct: null
   name_en: Blue Sky Rainbow + Prismatic Thunder + Strand Sacrifice
   one_time: 0
@@ -152,7 +137,6 @@ records:
   usage_pct: 8
 - !SkillRecord
   desc_en: Absorb Wood, Light damage for 1 turns + Change Random to Light, Deal 100%
-    damage + Bind 1 subs for 1 turns, Deal 50% damage
     damage + Bind 1 subs for 1 turns, Deal 50% damage
   max_atk_pct: null
   name_en: Blue Sky Rainbow + Prismatic Thunder + Strand Sacrifice
@@ -162,7 +146,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Wood, Dark damage for 1 turns + Change Random to Wood, Deal 100%
     damage + Bind 1 subs for 1 turns, Deal 50% damage
-    damage + Bind 1 subs for 1 turns, Deal 50% damage
   max_atk_pct: null
   name_en: Blue Sky Rainbow + Prismatic Thunder + Strand Sacrifice
   one_time: 0
@@ -170,7 +153,6 @@ records:
   usage_pct: 8
 - !SkillRecord
   desc_en: Absorb Wood, Dark damage for 1 turns + Change Random to Dark, Deal 100%
-    damage + Bind 1 subs for 1 turns, Deal 50% damage
     damage + Bind 1 subs for 1 turns, Deal 50% damage
   max_atk_pct: null
   name_en: Blue Sky Rainbow + Prismatic Thunder + Strand Sacrifice
@@ -194,7 +176,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 1 turns + Bind active skills
     for 10 turns + Change all orbs to Fire, Water, Wood, Light, Dark, Deal 450% damage
-    for 10 turns + Change all orbs to Fire, Water, Wood, Light, Dark, Deal 450% damage
   max_atk_pct: null
   name_en: Retreat Ark + Fog Bow - Seal + First Judgement
   one_time: 8
@@ -216,7 +197,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 1 turns + Blind all orbs on the
-    board + Change all orbs to Fire, Water, Wood, Light, Dark, Deal 600% damage
     board + Change all orbs to Fire, Water, Wood, Light, Dark, Deal 600% damage
   max_atk_pct: null
   name_en: Retreat Ark + Fog Bow - Haze + Second Judgement
@@ -240,7 +220,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 1 turns + Delay active skills
     by 5 turns + Deal 1200% damage (3 hits, 400% each)
-    by 5 turns + Deal 1200% damage (3 hits, 400% each)
   max_atk_pct: null
   name_en: Retreat Ark + Fog Bow - Gaze + Third Judgement
   one_time: 2
@@ -248,7 +227,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Random to Jammer, Deal 150% damage + Bind 1 subs for 1 turns, Deal
-    50% damage + Player -99% HP
     50% damage + Player -99% HP
   max_atk_pct: null
   name_en: Rainbow Blank + Strand Sacrifice + Ark Impact
@@ -272,7 +250,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 1 turns + Bind awoken skills
     for 2 turns + Change all orbs to Fire, Water, Wood, Light, Dark, Deal 2000% damage
-    for 2 turns + Change all orbs to Fire, Water, Wood, Light, Dark, Deal 2000% damage
   max_atk_pct: null
   name_en: Retreat Ark + Fog Bow - Graze + Fourth Judgement
   one_time: 1
@@ -287,7 +264,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 1 turns + Voids player buff effects
-    + Deal 3000% damage (3 hits, 1000% each)
     + Deal 3000% damage (3 hits, 1000% each)
   max_atk_pct: null
   name_en: Retreat Ark + Fog Bow - Purge + Final Judgement

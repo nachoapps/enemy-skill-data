@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Bind 1 random for 3 turns, Deal 100% damage + Voids status ailments for
     999 turns (Preemptive)
-    999 turns (Preemptive)
   max_atk_pct: null
   name_en: Glitter of Devil's Eyes + Demonic Shield
   one_time: 4

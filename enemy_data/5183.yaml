@@ -25,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Void damage >= 60000000 for 999 turns
     + Mortal Poison skyfall +60% for 1 turns (Preemptive)
-    + Mortal Poison skyfall +60% for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: Devil Prince Dignity + Archdemon Relative + Deadly Poison Rain
   one_time: 2
@@ -40,7 +39,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Poison skyfall +15% for 30 turns + Reduce damage from all sources by 75%
-    for 1 turns, Deal 30% damage
     for 1 turns, Deal 30% damage
   max_atk_pct: null
   name_en: Poison World + Shell's Gift
@@ -85,7 +83,6 @@ records:
 - !SkillRecord
   desc_en: Bind 6 random cards for 5 turns + Change all orbs to Mortal Poison, Deal
     150% damage
-    150% damage
   max_atk_pct: null
   name_en: Devil Prince's Selfishness + Sea of Poison
   one_time: 0
@@ -100,7 +97,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Movetime 25% for 1 turns + Change all orbs to Mortal Poison, Deal 800%
-    damage
     damage
   max_atk_pct: null
   name_en: Annihilating Life + Sea of Hell

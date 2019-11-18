@@ -51,7 +51,6 @@ records:
 - !SkillRecord
   desc_en: Absorb combo <= 6 damage for 1 turns + Change all orbs to Fire, Water,
     Wood, Light, Dark, Heal
-    Wood, Light, Dark, Heal
   max_atk_pct: null
   name_en: Fine then, try to strike me down! + If you can't do it, this ends here!
   one_time: 1

@@ -19,7 +19,6 @@ records:
 - !SkillRecord
   desc_en: Do nothing + Change 1st column to Fire orbs, 6th column to Water orbs,
     Deal 80% damage (Preemptive)
-    Deal 80% damage (Preemptive)
   max_atk_pct: null
   name_en: Monsters! + Dragon Summoning!!!
   one_time: 1
@@ -28,7 +27,6 @@ records:
 - !SkillRecord
   desc_en: Do nothing + Change 1st column to Water orbs, 6th column to Wood orbs,
     Deal 80% damage (Preemptive)
-    Deal 80% damage (Preemptive)
   max_atk_pct: null
   name_en: Monsters! + Dragon Summoning!!!
   one_time: 1
@@ -36,7 +34,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Do nothing + Change 1st column to Wood orbs, 6th column to Fire orbs, Deal
-    80% damage (Preemptive)
     80% damage (Preemptive)
   max_atk_pct: null
   name_en: Monsters! + Dragon Summoning!!!
@@ -60,7 +57,6 @@ records:
 - !SkillRecord
   desc_en: Change Random to Water, Deal 60% damage + Deal 60% damage (3 hits, 20%
     each)
-    each)
   max_atk_pct: null
   name_en: Ice Blade + 3 combos ♪
   one_time: 0
@@ -76,7 +72,6 @@ records:
 - !SkillRecord
   desc_en: Change 1st column to Fire orbs, 6th column to Water orbs, Deal 80% damage
     + Reduce damage from all sources by 50% for 2 turns
-    + Reduce damage from all sources by 50% for 2 turns
   max_atk_pct: null
   name_en: Dragon Summoning!!! + The Monsters block the way
   one_time: 0
@@ -85,7 +80,6 @@ records:
 - !SkillRecord
   desc_en: Change 1st column to Water orbs, 6th column to Wood orbs, Deal 80% damage
     + Reduce damage from all sources by 50% for 2 turns
-    + Reduce damage from all sources by 50% for 2 turns
   max_atk_pct: null
   name_en: Dragon Summoning!!! + The Monsters block the way
   one_time: 0
@@ -93,7 +87,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Change 1st column to Wood orbs, 6th column to Fire orbs, Deal 80% damage
-    + Reduce damage from all sources by 50% for 2 turns
     + Reduce damage from all sources by 50% for 2 turns
   max_atk_pct: null
   name_en: Dragon Summoning!!! + The Monsters block the way

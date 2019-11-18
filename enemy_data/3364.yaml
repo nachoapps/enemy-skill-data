@@ -46,7 +46,6 @@ records:
 - !SkillRecord
   desc_en: Do nothing + Reduce damage from all sources by 50% for 1 turns, (if [2675,
     2676, 2677, 3353, 3354] on team)
-    2676, 2677, 3353, 3354] on team)
   max_atk_pct: null
   name_en: You're sure a funny kid. + And you're not scared of me?
   one_time: 2

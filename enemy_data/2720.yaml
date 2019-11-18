@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Absorb damage >= 2000000 damage for
     999 turns + Deal 400% damage (4 hits, 100% each) (Preemptive)
-    999 turns + Deal 400% damage (4 hits, 100% each) (Preemptive)
   max_atk_pct: null
   name_en: Black Body + Dark Ball + Darkdragon's Baptism
   one_time: 1024

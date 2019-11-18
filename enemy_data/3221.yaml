@@ -25,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Reduce damage from all sources by
     99% for 1 turns (Preemptive)
-    99% for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: Transparent Melody + Overture for the Impenetrable
   one_time: 0
@@ -76,7 +75,6 @@ records:
 - !SkillRecord
   desc_en: Blind orbs in specific positions for 1 turns + Change all orbs to Fire,
     Water, Wood, Light, Dark, Heal, Jammer, Deal 120% damage
-    Water, Wood, Light, Dark, Heal, Jammer, Deal 120% damage
   max_atk_pct: null
   name_en: Surely you can hear the Orbs' song ♪ + Rainbow Septet
   one_time: 0
@@ -84,7 +82,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Blind orbs in specific positions for 1 turns + Change all orbs to Fire,
-    Water, Wood, Light, Dark, Heal, Jammer, Deal 120% damage
     Water, Wood, Light, Dark, Heal, Jammer, Deal 120% damage
   max_atk_pct: null
   name_en: Feel the music in your heart ♪ + Rainbow Septet
@@ -100,7 +97,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
-    Poison orbs, Deal 130% damage
     Poison orbs, Deal 130% damage
   max_atk_pct: 130
   name_en: Obbligato of Ice Blades
@@ -130,7 +126,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind 1 random for 4 turns, Deal 140% damage + Reduce damage from all sources
-    by 50% for 5 turns
     by 50% for 5 turns
   max_atk_pct: null
   name_en: I simply can't lose ♪ + Steel Arabesque
@@ -218,7 +213,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Reduce damage from all sources by
     99% for 1 turns (Preemptive)
-    99% for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: Transparent Melody + Overture for the Impenetrable
   one_time: 0
@@ -269,7 +263,6 @@ records:
 - !SkillRecord
   desc_en: Blind orbs in specific positions for 1 turns + Change all orbs to Fire,
     Water, Wood, Light, Dark, Heal, Jammer, Deal 120% damage
-    Water, Wood, Light, Dark, Heal, Jammer, Deal 120% damage
   max_atk_pct: null
   name_en: Surely you can hear the Orbs' song ♪ + Rainbow Septet
   one_time: 0
@@ -277,7 +270,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Blind orbs in specific positions for 1 turns + Change all orbs to Fire,
-    Water, Wood, Light, Dark, Heal, Jammer, Deal 120% damage
     Water, Wood, Light, Dark, Heal, Jammer, Deal 120% damage
   max_atk_pct: null
   name_en: Feel the music in your heart ♪ + Rainbow Septet
@@ -293,7 +285,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
-    Poison orbs, Deal 130% damage
     Poison orbs, Deal 130% damage
   max_atk_pct: 130
   name_en: Obbligato of Ice Blades
@@ -323,7 +314,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind 1 random for 4 turns, Deal 140% damage + Reduce damage from all sources
-    by 50% for 5 turns
     by 50% for 5 turns
   max_atk_pct: null
   name_en: I simply can't lose ♪ + Steel Arabesque

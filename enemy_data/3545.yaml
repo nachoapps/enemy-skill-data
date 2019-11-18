@@ -53,7 +53,6 @@ records:
 - !SkillRecord
   desc_en: Enemy recover 50% hp + Change all orbs to Fire, Water, Wood, Light, Dark,
     Heal, Jammer, Deal 300% damage
-    Heal, Jammer, Deal 300% damage
   max_atk_pct: null
   name_en: Life Benediction + Iris Genesis
   one_time: 0

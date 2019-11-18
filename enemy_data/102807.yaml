@@ -25,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Light damage for 10 turns + Void damage >= 6000000 for 999 turns
     (Preemptive)
-    (Preemptive)
   max_atk_pct: null
   name_en: Photosynthesis + Mystic Viridian Barrier
   one_time: 0
@@ -96,7 +95,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change all orbs to Wood, Heal, Jammer, Poison, Deal 350% damage + Fix orb
-    movement starting point to random position on the board
     movement starting point to random position on the board
   max_atk_pct: null
   name_en: Hallucination + Start from here♪

@@ -67,7 +67,6 @@ records:
 - !SkillRecord
   desc_en: Change 3rd row to Fire orbs, Deal 45% damage + Change Random to Fire, Deal
     50% damage
-    50% damage
   max_atk_pct: null
   name_en: Yoga Fire + Yoga Gale
   one_time: 0

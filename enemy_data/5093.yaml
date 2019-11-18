@@ -25,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Lock 1 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs + Do nothing + Deal 105% damage (3 hits, 35% each)
-    Poison orbs + Do nothing + Deal 105% damage (3 hits, 35% each)
   max_atk_pct: null
   name_en: Haru Kaze + Yoisho! + Sakura Otoshi
   one_time: 0
@@ -34,7 +33,6 @@ records:
 - !SkillRecord
   desc_en: Lock 1 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs + Do nothing + Change Random to Fire, Deal 100% damage
-    Poison orbs + Do nothing + Change Random to Fire, Deal 100% damage
   max_atk_pct: null
   name_en: Haru Kaze + Yoisho! + Oukakyaku
   one_time: 0
@@ -42,7 +40,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Lock 1 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
-    Poison orbs + Do nothing + Bind 1 subs for 1 turns, Deal 95% damage
     Poison orbs + Do nothing + Bind 1 subs for 1 turns, Deal 95% damage
   max_atk_pct: null
   name_en: Haru Kaze + Yoisho! + Kashinfu
@@ -73,7 +70,6 @@ records:
 - !SkillRecord
   desc_en: Deal 100% damage + Deal 55% damage + Absorb combo <= 4 damage for 1 turns,
     Deal 50% damage
-    Deal 50% damage
   max_atk_pct: null
   name_en: Disable Skill + Hadoken + Shunpukyaku
   one_time: 0
@@ -81,7 +77,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Deal 60% damage + Deal 100% damage + Absorb combo <= 4 damage for 1 turns,
-    Deal 50% damage
     Deal 50% damage
   max_atk_pct: null
   name_en: Shouoken + Disable Skill + Shunpukyaku

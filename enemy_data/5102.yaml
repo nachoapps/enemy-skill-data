@@ -34,7 +34,6 @@ records:
 - !SkillRecord
   desc_en: Deal 50% damage (2 hits, 25% each) + Deal 100% damage + Change 5th row
     to Wood orbs, Deal 45% damage
-    to Wood orbs, Deal 45% damage
   max_atk_pct: null
   name_en: Knee Bullet + Disable Skill + Spiral Arrow
   one_time: 0
@@ -56,7 +55,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Random 1 orbs change every 2.0s for 1 turns + Seal 5th row for 1 turns,
-    Deal 190% damage
     Deal 190% damage
   max_atk_pct: null
   name_en: Hooligan Combination + Lazer Edge Slicer
@@ -80,7 +78,6 @@ records:
 - !SkillRecord
   desc_en: Random 1 orbs change every 2.0s for 1 turns + Change 4th column to Fire,
     Wood orbs, Deal 200% damage
-    Wood orbs, Deal 200% damage
   max_atk_pct: null
   name_en: Hooligan Combination + Cannon Strike
   one_time: 0
@@ -95,7 +92,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Deal 50% damage (2 hits, 25% each) + Deal 100% damage + Change 5th row
-    to Wood orbs, Deal 45% damage
     to Wood orbs, Deal 45% damage
   max_atk_pct: null
   name_en: Knee Bullet + Disable Skill + Spiral Arrow

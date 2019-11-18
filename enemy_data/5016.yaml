@@ -32,7 +32,6 @@ records:
 - !SkillRecord
   desc_en: Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 90% damage
-    Poison orbs, Deal 90% damage
   max_atk_pct: 90
   name_en: Chain Attack
   one_time: 0
@@ -61,7 +60,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
-    Poison orbs, Deal 90% damage
     Poison orbs, Deal 90% damage
   max_atk_pct: 90
   name_en: Chain Attack

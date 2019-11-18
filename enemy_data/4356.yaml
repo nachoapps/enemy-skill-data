@@ -178,7 +178,6 @@ records:
 - !SkillRecord
   desc_en: Blind all orbs for 1 turns, Deal 92% damage + Increase damage to 300% for
     the next 99 turns
-    the next 99 turns
   max_atk_pct: null
   name_en: Gloomy Darkness + Delusion of Carnage
   one_time: 0

@@ -40,7 +40,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Absorb combo <= 8 damage for 5 turns
     (Preemptive)
-    (Preemptive)
   max_atk_pct: null
   name_en: Who are you? + I'll cherish this
   one_time: 0

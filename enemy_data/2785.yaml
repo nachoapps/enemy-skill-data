@@ -130,7 +130,6 @@ records:
 - !SkillRecord
   desc_en: Change Random to Wood, Deal 150% damage + Change Random to Wood, Deal 150%
     damage
-    damage
   max_atk_pct: null
   name_en: Tornado + Tornado
   one_time: 0

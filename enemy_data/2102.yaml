@@ -53,7 +53,6 @@ records:
 - !SkillRecord
   desc_en: Change Random to Jammer, Deal 75% damage + Change Random 3 to Poison, Deal
     25% damage
-    25% damage
   max_atk_pct: null
   name_en: Death Smash + Death Bite
   one_time: 0

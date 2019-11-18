@@ -40,7 +40,6 @@ records:
 - !SkillRecord
   desc_en: Blind orbs in specific positions for 3 turns + Bind God cards for 10 turns
     (Preemptive)
-    (Preemptive)
   max_atk_pct: null
   name_en: Hey, it's daaark! + You're no good!
   one_time: 0
@@ -111,7 +110,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change all orbs to Fire, Dark, Poison + Spawn Bomb orbs in the specified
-    positions
     positions
   max_atk_pct: null
   name_en: I'll give it to you like thiiis + Have this too ♪

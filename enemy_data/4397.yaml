@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 3 turns + Voids status ailments for
     999 turns (Preemptive)
-    999 turns (Preemptive)
   max_atk_pct: null
   name_en: Matarukaja + Null Despair
   one_time: 0
@@ -55,7 +54,6 @@ records:
 - !SkillRecord
   desc_en: Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 110% damage
-    Poison orbs, Deal 110% damage
   max_atk_pct: 110
   name_en: Bufudyne
   one_time: 0
@@ -78,7 +76,6 @@ records:
 - !SkillRecord
   desc_en: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
     orbs, Deal 130% damage
-    orbs, Deal 130% damage
   max_atk_pct: 130
   name_en: Mabufudyne
   one_time: 0
@@ -86,7 +83,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
-    orbs, Deal 130% damage
     orbs, Deal 130% damage
   max_atk_pct: 130
   name_en: Mabufudyne
@@ -102,7 +98,6 @@ records:
   usage_pct: 30
 - !SkillRecord
   desc_en: Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
-    Poison orbs, Deal 110% damage
     Poison orbs, Deal 110% damage
   max_atk_pct: 110
   name_en: Bufudyne

@@ -25,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Spawn locked Bomb orbs in the specified positions + Void damage >= 25000000
     for 999 turns + Leader changes to random sub for 8 turns (Preemptive)
-    for 999 turns + Leader changes to random sub for 8 turns (Preemptive)
   max_atk_pct: null
   name_en: Rock You! Baby! + Full Up Distortion + Eighth Note Beats
   one_time: 1
@@ -41,7 +40,6 @@ records:
 - !SkillRecord
   desc_en: Deal 60% damage (3 hits, 20% each) + Bind 2 random for 1~2 turns, Deal
     50% damage
-    50% damage
   max_atk_pct: null
   name_en: Head Banging-Mosh + Overdrive-Death Growl
   one_time: 0
@@ -50,7 +48,6 @@ records:
 - !SkillRecord
   desc_en: Deal 60% damage (3 hits, 20% each) + Delay active skills by 1~2 turns,
     Deal 45% damage
-    Deal 45% damage
   max_atk_pct: null
   name_en: Head Banging-Mosh + Howling-Shout
   one_time: 0
@@ -58,7 +55,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Deal 60% damage (3 hits, 20% each) + Lock 15 random Fire, Water, Wood,
-    Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 40% damage
     Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 40% damage
   max_atk_pct: null
   name_en: Head Banging-Mosh + Accent-Fuzz
@@ -75,7 +71,6 @@ records:
 - !SkillRecord
   desc_en: Spawn locked Bomb orbs in the specified positions + Void damage >= 25000000
     for 999 turns + Leader changes to random sub for 8 turns
-    for 999 turns + Leader changes to random sub for 8 turns
   max_atk_pct: null
   name_en: Rock You! Baby! + Full Up Distortion + Eighth Note Beats
   one_time: 1
@@ -91,7 +86,6 @@ records:
 - !SkillRecord
   desc_en: Deal 60% damage (3 hits, 20% each) + Bind 2 random for 1~2 turns, Deal
     50% damage
-    50% damage
   max_atk_pct: null
   name_en: Head Banging-Mosh + Overdrive-Death Growl
   one_time: 0
@@ -100,7 +94,6 @@ records:
 - !SkillRecord
   desc_en: Deal 60% damage (3 hits, 20% each) + Delay active skills by 1~2 turns,
     Deal 45% damage
-    Deal 45% damage
   max_atk_pct: null
   name_en: Head Banging-Mosh + Howling-Shout
   one_time: 0
@@ -108,7 +101,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Deal 60% damage (3 hits, 20% each) + Lock 15 random Fire, Water, Wood,
-    Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 40% damage
     Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 40% damage
   max_atk_pct: null
   name_en: Head Banging-Mosh + Accent-Fuzz
@@ -125,7 +117,6 @@ records:
 - !SkillRecord
   desc_en: Spawn locked Bomb orbs in the specified positions + Void damage >= 25000000
     for 999 turns + Leader changes to random sub for 8 turns
-    for 999 turns + Leader changes to random sub for 8 turns
   max_atk_pct: null
   name_en: Rock You! Baby! + Full Up Distortion + Eighth Note Beats
   one_time: 1
@@ -141,7 +132,6 @@ records:
 - !SkillRecord
   desc_en: Deal 60% damage (3 hits, 20% each) + Bind 2 random for 1~2 turns, Deal
     50% damage
-    50% damage
   max_atk_pct: null
   name_en: Head Banging-Mosh + Overdrive-Death Growl
   one_time: 0
@@ -150,7 +140,6 @@ records:
 - !SkillRecord
   desc_en: Deal 60% damage (3 hits, 20% each) + Delay active skills by 1~2 turns,
     Deal 45% damage
-    Deal 45% damage
   max_atk_pct: null
   name_en: Head Banging-Mosh + Howling-Shout
   one_time: 0
@@ -158,7 +147,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Deal 60% damage (3 hits, 20% each) + Lock 15 random Fire, Water, Wood,
-    Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 40% damage
     Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 40% damage
   max_atk_pct: null
   name_en: Head Banging-Mosh + Accent-Fuzz
@@ -175,7 +163,6 @@ records:
 - !SkillRecord
   desc_en: Spawn locked Bomb orbs in the specified positions + Void damage >= 25000000
     for 999 turns + Leader changes to random sub for 8 turns
-    for 999 turns + Leader changes to random sub for 8 turns
   max_atk_pct: null
   name_en: Rock You! Baby! + Full Up Distortion + Eighth Note Beats
   one_time: 1
@@ -191,7 +178,6 @@ records:
 - !SkillRecord
   desc_en: Deal 60% damage (3 hits, 20% each) + Bind 2 random for 1~2 turns, Deal
     50% damage
-    50% damage
   max_atk_pct: null
   name_en: Head Banging-Mosh + Overdrive-Death Growl
   one_time: 0
@@ -200,7 +186,6 @@ records:
 - !SkillRecord
   desc_en: Deal 60% damage (3 hits, 20% each) + Delay active skills by 1~2 turns,
     Deal 45% damage
-    Deal 45% damage
   max_atk_pct: null
   name_en: Head Banging-Mosh + Howling-Shout
   one_time: 0
@@ -208,7 +193,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Deal 60% damage (3 hits, 20% each) + Lock 15 random Fire, Water, Wood,
-    Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 40% damage
     Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 40% damage
   max_atk_pct: null
   name_en: Head Banging-Mosh + Accent-Fuzz
@@ -225,7 +209,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 8 turns + Voids status ailments
     for 999 turns
-    for 999 turns
   max_atk_pct: null
   name_en: Stage Diving + Crowd Surfing
   one_time: 0
@@ -240,7 +223,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn locked Bomb orbs in the specified positions + Void damage >= 25000000
-    for 999 turns + Leader changes to random sub for 8 turns
     for 999 turns + Leader changes to random sub for 8 turns
   max_atk_pct: null
   name_en: Rock You! Baby! + Full Up Distortion + Eighth Note Beats
@@ -257,7 +239,6 @@ records:
 - !SkillRecord
   desc_en: Deal 60% damage (3 hits, 20% each) + Bind 2 random for 1~2 turns, Deal
     50% damage
-    50% damage
   max_atk_pct: null
   name_en: Head Banging-Mosh + Overdrive-Death Growl
   one_time: 0
@@ -266,7 +247,6 @@ records:
 - !SkillRecord
   desc_en: Deal 60% damage (3 hits, 20% each) + Delay active skills by 1~2 turns,
     Deal 45% damage
-    Deal 45% damage
   max_atk_pct: null
   name_en: Head Banging-Mosh + Howling-Shout
   one_time: 0
@@ -274,7 +254,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Deal 60% damage (3 hits, 20% each) + Lock 15 random Fire, Water, Wood,
-    Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 40% damage
     Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 40% damage
   max_atk_pct: null
   name_en: Head Banging-Mosh + Accent-Fuzz
@@ -291,7 +270,6 @@ records:
 - !SkillRecord
   desc_en: Spawn locked Bomb orbs in the specified positions + Void damage >= 25000000
     for 999 turns + Leader changes to random sub for 8 turns
-    for 999 turns + Leader changes to random sub for 8 turns
   max_atk_pct: null
   name_en: Rock You! Baby! + Full Up Distortion + Eighth Note Beats
   one_time: 1
@@ -307,7 +285,6 @@ records:
 - !SkillRecord
   desc_en: Deal 60% damage (3 hits, 20% each) + Bind 2 random for 1~2 turns, Deal
     50% damage
-    50% damage
   max_atk_pct: null
   name_en: Head Banging-Mosh + Overdrive-Death Growl
   one_time: 0
@@ -316,7 +293,6 @@ records:
 - !SkillRecord
   desc_en: Deal 60% damage (3 hits, 20% each) + Delay active skills by 1~2 turns,
     Deal 45% damage
-    Deal 45% damage
   max_atk_pct: null
   name_en: Head Banging-Mosh + Howling-Shout
   one_time: 0
@@ -324,7 +300,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Deal 60% damage (3 hits, 20% each) + Lock 15 random Fire, Water, Wood,
-    Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 40% damage
     Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 40% damage
   max_atk_pct: null
   name_en: Head Banging-Mosh + Accent-Fuzz
@@ -341,7 +316,6 @@ records:
 - !SkillRecord
   desc_en: Spawn locked Bomb orbs in the specified positions + Void damage >= 25000000
     for 999 turns + Leader changes to random sub for 8 turns
-    for 999 turns + Leader changes to random sub for 8 turns
   max_atk_pct: null
   name_en: Rock You! Baby! + Full Up Distortion + Eighth Note Beats
   one_time: 1
@@ -357,7 +331,6 @@ records:
 - !SkillRecord
   desc_en: Deal 60% damage (3 hits, 20% each) + Bind 2 random for 1~2 turns, Deal
     50% damage
-    50% damage
   max_atk_pct: null
   name_en: Head Banging-Mosh + Overdrive-Death Growl
   one_time: 0
@@ -366,7 +339,6 @@ records:
 - !SkillRecord
   desc_en: Deal 60% damage (3 hits, 20% each) + Delay active skills by 1~2 turns,
     Deal 45% damage
-    Deal 45% damage
   max_atk_pct: null
   name_en: Head Banging-Mosh + Howling-Shout
   one_time: 0
@@ -374,7 +346,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Deal 60% damage (3 hits, 20% each) + Lock 15 random Fire, Water, Wood,
-    Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 40% damage
     Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 40% damage
   max_atk_pct: null
   name_en: Head Banging-Mosh + Accent-Fuzz
@@ -391,7 +362,6 @@ records:
 - !SkillRecord
   desc_en: Spawn locked Bomb orbs in the specified positions + Void damage >= 25000000
     for 999 turns + Leader changes to random sub for 8 turns
-    for 999 turns + Leader changes to random sub for 8 turns
   max_atk_pct: null
   name_en: Rock You! Baby! + Full Up Distortion + Eighth Note Beats
   one_time: 1
@@ -406,7 +376,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 8 turns + Voids status ailments
-    for 999 turns
     for 999 turns
   max_atk_pct: null
   name_en: Stage Diving + Crowd Surfing
@@ -430,7 +399,6 @@ records:
 - !SkillRecord
   desc_en: Spawn locked Bomb orbs in the specified positions + Void damage >= 25000000
     for 999 turns + Leader changes to random sub for 8 turns
-    for 999 turns + Leader changes to random sub for 8 turns
   max_atk_pct: null
   name_en: Rock You! Baby! + Full Up Distortion + Eighth Note Beats
   one_time: 1
@@ -446,7 +414,6 @@ records:
 - !SkillRecord
   desc_en: Deal 60% damage (3 hits, 20% each) + Bind 2 random for 1~2 turns, Deal
     50% damage
-    50% damage
   max_atk_pct: null
   name_en: Head Banging-Mosh + Overdrive-Death Growl
   one_time: 0
@@ -455,7 +422,6 @@ records:
 - !SkillRecord
   desc_en: Deal 60% damage (3 hits, 20% each) + Delay active skills by 1~2 turns,
     Deal 45% damage
-    Deal 45% damage
   max_atk_pct: null
   name_en: Head Banging-Mosh + Howling-Shout
   one_time: 0
@@ -463,7 +429,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Deal 60% damage (3 hits, 20% each) + Lock 15 random Fire, Water, Wood,
-    Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 40% damage
     Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 40% damage
   max_atk_pct: null
   name_en: Head Banging-Mosh + Accent-Fuzz
@@ -487,7 +452,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 8 turns + Voids status ailments
     for 999 turns
-    for 999 turns
   max_atk_pct: null
   name_en: Stage Diving + Crowd Surfing
   one_time: 0
@@ -502,7 +466,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn locked Bomb orbs in the specified positions + Void damage >= 25000000
-    for 999 turns + Leader changes to random sub for 8 turns
     for 999 turns + Leader changes to random sub for 8 turns
   max_atk_pct: null
   name_en: Rock You! Baby! + Full Up Distortion + Eighth Note Beats
@@ -519,7 +482,6 @@ records:
 - !SkillRecord
   desc_en: Deal 60% damage (3 hits, 20% each) + Bind 2 random for 1~2 turns, Deal
     50% damage
-    50% damage
   max_atk_pct: null
   name_en: Head Banging-Mosh + Overdrive-Death Growl
   one_time: 0
@@ -528,7 +490,6 @@ records:
 - !SkillRecord
   desc_en: Deal 60% damage (3 hits, 20% each) + Delay active skills by 1~2 turns,
     Deal 45% damage
-    Deal 45% damage
   max_atk_pct: null
   name_en: Head Banging-Mosh + Howling-Shout
   one_time: 0
@@ -536,7 +497,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Deal 60% damage (3 hits, 20% each) + Lock 15 random Fire, Water, Wood,
-    Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 40% damage
     Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 40% damage
   max_atk_pct: null
   name_en: Head Banging-Mosh + Accent-Fuzz
@@ -553,7 +513,6 @@ records:
 - !SkillRecord
   desc_en: Spawn locked Bomb orbs in the specified positions + Void damage >= 25000000
     for 999 turns + Leader changes to random sub for 8 turns
-    for 999 turns + Leader changes to random sub for 8 turns
   max_atk_pct: null
   name_en: Rock You! Baby! + Full Up Distortion + Eighth Note Beats
   one_time: 1
@@ -569,7 +528,6 @@ records:
 - !SkillRecord
   desc_en: Deal 60% damage (3 hits, 20% each) + Bind 2 random for 1~2 turns, Deal
     50% damage
-    50% damage
   max_atk_pct: null
   name_en: Head Banging-Mosh + Overdrive-Death Growl
   one_time: 0
@@ -578,7 +536,6 @@ records:
 - !SkillRecord
   desc_en: Deal 60% damage (3 hits, 20% each) + Delay active skills by 1~2 turns,
     Deal 45% damage
-    Deal 45% damage
   max_atk_pct: null
   name_en: Head Banging-Mosh + Howling-Shout
   one_time: 0
@@ -586,7 +543,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Deal 60% damage (3 hits, 20% each) + Lock 15 random Fire, Water, Wood,
-    Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 40% damage
     Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 40% damage
   max_atk_pct: null
   name_en: Head Banging-Mosh + Accent-Fuzz
@@ -603,7 +559,6 @@ records:
 - !SkillRecord
   desc_en: Spawn locked Bomb orbs in the specified positions + Void damage >= 25000000
     for 999 turns + Leader changes to random sub for 8 turns
-    for 999 turns + Leader changes to random sub for 8 turns
   max_atk_pct: null
   name_en: Rock You! Baby! + Full Up Distortion + Eighth Note Beats
   one_time: 1
@@ -619,7 +574,6 @@ records:
 - !SkillRecord
   desc_en: Deal 60% damage (3 hits, 20% each) + Bind 2 random for 1~2 turns, Deal
     50% damage
-    50% damage
   max_atk_pct: null
   name_en: Head Banging-Mosh + Overdrive-Death Growl
   one_time: 0
@@ -628,7 +582,6 @@ records:
 - !SkillRecord
   desc_en: Deal 60% damage (3 hits, 20% each) + Delay active skills by 1~2 turns,
     Deal 45% damage
-    Deal 45% damage
   max_atk_pct: null
   name_en: Head Banging-Mosh + Howling-Shout
   one_time: 0
@@ -636,7 +589,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Deal 60% damage (3 hits, 20% each) + Lock 15 random Fire, Water, Wood,
-    Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 40% damage
     Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 40% damage
   max_atk_pct: null
   name_en: Head Banging-Mosh + Accent-Fuzz
@@ -653,7 +605,6 @@ records:
 - !SkillRecord
   desc_en: Spawn locked Bomb orbs in the specified positions + Void damage >= 25000000
     for 999 turns + Leader changes to random sub for 8 turns
-    for 999 turns + Leader changes to random sub for 8 turns
   max_atk_pct: null
   name_en: Rock You! Baby! + Full Up Distortion + Eighth Note Beats
   one_time: 1
@@ -668,7 +619,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Leader changes to random sub for 1 turns + Deal 1800%~2700% damage (6~9
-    hits, 300% each)
     hits, 300% each)
   max_atk_pct: null
   name_en: Mic Turn + Wall of Death

@@ -25,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + 1x3 cloud appear for 30 turns at
     random location (Preemptive)
-    random location (Preemptive)
   max_atk_pct: null
   name_en: Balance the World + Esenshi
   one_time: 0

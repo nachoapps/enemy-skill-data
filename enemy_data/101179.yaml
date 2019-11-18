@@ -67,7 +67,6 @@ records:
 - !SkillRecord
   desc_en: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
     orbs
-    orbs
   max_atk_pct: null
   name_en: Victor Book♪
   one_time: 1

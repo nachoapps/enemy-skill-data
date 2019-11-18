@@ -305,7 +305,6 @@ records:
 - !SkillRecord
   desc_en: Bind active skills for 1 turns + Increase damage to 200% for the next 99
     turns
-    turns
   max_atk_pct: null
   name_en: Trial of Judgment + Conviction
   one_time: 0

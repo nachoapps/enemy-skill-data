@@ -25,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 3 turns + Change Random to Heal, Deal 130% damage
     (Preemptive)
-    (Preemptive)
   max_atk_pct: null
   name_en: Cross On! + Mercy Flash
   one_time: 0
@@ -376,7 +375,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Deal 200% damage (10 hits, 20% each) + Change Heal to Light, Deal 100%
-    damage
     damage
   max_atk_pct: null
   name_en: 10 combos!! + Life Cutting Flash

@@ -19,7 +19,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 10 turns + Leader changes to random sub for 3
     turns (Preemptive)
-    turns (Preemptive)
   max_atk_pct: null
   name_en: White Valkyrie Shield + Valkyrie Dance
   one_time: 0
@@ -55,7 +54,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Fix orb movement starting point to random position on the board, Deal 150%
-    damage
     damage
   max_atk_pct: 150
   name_en: Sword of Fate

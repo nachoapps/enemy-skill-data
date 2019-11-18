@@ -54,7 +54,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 1 turns + Change all orbs to Fire, Water, Wood,
     Light, Dark, Heal, Deal 130% damage (Preemptive)
-    Light, Dark, Heal, Deal 130% damage (Preemptive)
   max_atk_pct: null
   name_en: Northern Lightning's Divine Protection + Purifying Thunderplains
   one_time: 0
@@ -90,7 +89,6 @@ records:
   usage_pct: 40
 - !SkillRecord
   desc_en: Lock 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
-    Poison orbs, Deal 100% damage
     Poison orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Lightning Vajra
@@ -142,7 +140,6 @@ records:
 - !SkillRecord
   desc_en: Lock 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 100% damage
-    Poison orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Lightning Vajra
   one_time: 0
@@ -164,7 +161,6 @@ records:
   usage_pct: 40
 - !SkillRecord
   desc_en: Lock 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
-    Poison orbs, Deal 100% damage
     Poison orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Lightning Vajra

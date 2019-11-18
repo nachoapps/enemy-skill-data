@@ -40,7 +40,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Void damage >= 15000000 for 999 turns
     + Spawn locked Bomb orbs in the specified positions (Preemptive)
-    + Spawn locked Bomb orbs in the specified positions (Preemptive)
   max_atk_pct: null
   name_en: Flaming Feather Robes + Horns of Immense Heat + Guidance Fire of Ruin
   one_time: 0
@@ -49,7 +48,6 @@ records:
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Deal 30% damage + Deal 60% damage (3 hits, 20% each)
-    Deal 30% damage + Deal 60% damage (3 hits, 20% each)
   max_atk_pct: null
   name_en: All Encompassing Conflagration + Rigid Flametail Attack
   one_time: 0
@@ -57,7 +55,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Change Random to Jammer, Deal 35% damage + Deal 60% damage (3 hits, 20%
-    each)
     each)
   max_atk_pct: null
   name_en: Sacred Flame Jet + Rigid Flametail Attack
@@ -109,7 +106,6 @@ records:
 - !SkillRecord
   desc_en: Change all orbs to Fire, Jammer, Deal 100% damage + Row of cloud appear
     for 3 turns at 1st column + Absorb combo <= 7 damage for 99 turns
-    for 3 turns at 1st column + Absorb combo <= 7 damage for 99 turns
   max_atk_pct: null
   name_en: Purgatory Flames of Damnation + Heat Haze + Flame Dance Incarnation
   one_time: 0
@@ -124,7 +120,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 3 Light, Heal, Jammer, Poison, Mortal Poison orbs + Player
-    -75% HP
     -75% HP
   max_atk_pct: null
   name_en: Alabaster Flame + Judgment Carving
@@ -148,7 +143,6 @@ records:
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Deal 115%
     damage + Bind awoken skills for 1 turns
-    damage + Bind awoken skills for 1 turns
   max_atk_pct: null
   name_en: Scarlet Flame + Judgment Carving
   one_time: 0
@@ -157,7 +151,6 @@ records:
 - !SkillRecord
   desc_en: Change 2nd, 5th column to Water, Jammer orbs, Deal 115% damage + Delay
     active skills by 1~2 turns
-    active skills by 1~2 turns
   max_atk_pct: null
   name_en: Cerulean Flame + Judgment Carving
   one_time: 0
@@ -165,7 +158,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Change 2nd, 4th row to Wood, Heal, Poison orbs, Deal 115% damage + Leader
-    changes to random sub for 1 turns
     changes to random sub for 1 turns
   max_atk_pct: null
   name_en: Virescent Flame + Judgment Carving
