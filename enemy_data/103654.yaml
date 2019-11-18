@@ -107,7 +107,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Bind 6 random for 5 turns, Deal 250% damage
+  desc_en: Bind 6 random cards for 5 turns, Deal 250% damage
   max_atk_pct: 250
   name_en: Great Thunderbolt
   one_time: 0
@@ -144,7 +144,7 @@ records:
 # Increase damage to 145% for the next 10 turns
 # [9] ESBindAttack(63:7243) -> Great Thunderbolt
 # 	Condition: When < 10% hp (ai:100 rnd:0)
-# Bind 6 random for 5 turns, Deal 250% damage
+# Bind 6 random cards for 5 turns, Deal 250% damage
 # [10] ESBranchHP(28:18) -> ESBranchHP
 # Branch on hp < 50, target rnd 16
 # [11] ESBindAttack(63:7245) -> Thunderbolt

@@ -38,7 +38,7 @@ records:
   record_type_name: ACTION
   usage_pct: 100
 - !SkillRecord
-  desc_en: Bind 6 random for 1 turns, Deal 100% damage
+  desc_en: Bind 6 random cards for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Food bitterness is scary right?
   one_time: 0
@@ -88,7 +88,7 @@ records:
 # [12] ESFlagOperation(24:14) -> ESFlagOperation
 # flag UNSET 0b10
 # [13] ESBindAttack(63:4261) -> Food bitterness is scary right?
-# Bind 6 random for 1 turns, Deal 100% damage
+# Bind 6 random cards for 1 turns, Deal 100% damage
 # [14] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [15] ESFlagOperation(24:14) -> ESFlagOperation

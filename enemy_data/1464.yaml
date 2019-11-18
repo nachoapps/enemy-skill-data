@@ -58,7 +58,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Bind 1 random for 3 turns, Deal 50% damage
+  desc_en: Bind 1 random cards for 3 turns, Deal 50% damage
   max_atk_pct: 50
   name_en: Playing with Time & Space
   one_time: 0
@@ -139,4 +139,4 @@ records:
 # [16] ESFlagOperation(24:14) -> ESFlagOperation
 # flag UNSET 0b110
 # [17] ESBindAttack(63:1265) -> Playing with Time & Space
-# Bind 1 random for 3 turns, Deal 50% damage
+# Bind 1 random cards for 3 turns, Deal 50% damage

@@ -131,7 +131,7 @@ records:
   record_type_name: ACTION
   usage_pct: 60
 - !SkillRecord
-  desc_en: Bind 1 random for 3 turns, Deal 170% damage
+  desc_en: Bind 1 random cards for 3 turns, Deal 170% damage
   max_atk_pct: 170
   name_en: Overhand Club
   one_time: 1
@@ -319,7 +319,7 @@ records:
 # Deal 180% damage (3 hits, 60% each)
 # [25] ESBindAttack(63:13058) -> Overhand Club
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
-# Bind 1 random for 3 turns, Deal 170% damage
+# Bind 1 random cards for 3 turns, Deal 170% damage
 # [26] ESAttackMultihit(15:13059) -> High Tension Call
 # Deal 480% damage (4 hits, 120% each)
 # [27] ESAttackUPRemainingEnemies(17:13060) -> Let's get more excited!

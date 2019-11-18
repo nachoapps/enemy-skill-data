@@ -59,7 +59,7 @@ records:
   record_type_name: ACTION
   usage_pct: 40
 - !SkillRecord
-  desc_en: Blind orbs in specific positions for 3 turns + Bind 1 random for 3 turns,
+  desc_en: Blind orbs in specific positions for 3 turns + Bind 1 random cards for 3 turns,
     Deal 420% damage
   max_atk_pct: null
   name_en: Color Delete + CFM-Pulse
@@ -137,7 +137,7 @@ records:
   record_type_name: ACTION
   usage_pct: 40
 - !SkillRecord
-  desc_en: Blind orbs in specific positions for 3 turns + Bind 1 random for 3 turns,
+  desc_en: Blind orbs in specific positions for 3 turns + Bind 1 random cards for 3 turns,
     Deal 420% damage
   max_atk_pct: null
   name_en: Color Delete + CFM-Pulse
@@ -233,7 +233,7 @@ records:
 # 	[0] ESBlindStickyFixed(98:5153) -> Color Delete
 # 	Blind orbs in specific positions for 3 turns
 # 	[1] ESBindAttack(63:5165) -> CFM-Pulse
-# 	Bind 1 random for 3 turns, Deal 420% damage
+# 	Bind 1 random cards for 3 turns, Deal 420% damage
 # [10] ESColumnSpawnMulti(77:5150) -> C-Shining Spear
 # 	Condition: 50% chance (ai:50 rnd:0)
 # Change 2nd column to Wood orbs, 5th column to Light orbs, Deal 380% damage

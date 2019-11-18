@@ -80,7 +80,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Bind 5 random for 5 turns, Deal 150% damage
+  desc_en: Bind 5 random cards for 5 turns, Deal 150% damage
   max_atk_pct: 150
   name_en: Inferno Bullet
   one_time: 0
@@ -152,7 +152,7 @@ records:
 # [15] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b1111
 # [16] ESBindAttack(63:2294) -> Inferno Bullet
-# Bind 5 random for 5 turns, Deal 150% damage
+# Bind 5 random cards for 5 turns, Deal 150% damage
 # [17] ESAttackMultihit(15:2295) -> Burst End
 # Deal 5000% damage (5 hits, 1000% each)
 # [18] ESAttributeResist(72:8246) -> Lifive Fire Halved

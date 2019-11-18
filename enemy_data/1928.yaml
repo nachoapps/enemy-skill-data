@@ -37,7 +37,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Bind 2 random for 1~2 turns, Deal 75% damage
+  desc_en: Bind 2 random cards for 1~2 turns, Deal 75% damage
   max_atk_pct: 75
   name_en: Beautiful World
   one_time: 1
@@ -65,7 +65,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Bind 2 random for 1~2 turns, Deal 75% damage
+  desc_en: Bind 2 random cards for 1~2 turns, Deal 75% damage
   max_atk_pct: 75
   name_en: Beautiful World
   one_time: 1
@@ -93,7 +93,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Bind 2 random for 1~2 turns, Deal 75% damage
+  desc_en: Bind 2 random cards for 1~2 turns, Deal 75% damage
   max_atk_pct: 75
   name_en: Beautiful World
   one_time: 1
@@ -128,7 +128,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Bind 2 random for 1~2 turns, Deal 75% damage
+  desc_en: Bind 2 random cards for 1~2 turns, Deal 75% damage
   max_atk_pct: 75
   name_en: Beautiful World
   one_time: 1
@@ -177,7 +177,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Bind 5 random for 1~2 turns, Deal 150% damage
+  desc_en: Bind 5 random cards for 1~2 turns, Deal 150% damage
   max_atk_pct: 150
   name_en: Brilliant World
   one_time: 0
@@ -191,7 +191,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Bind 5 random for 1~2 turns, Deal 150% damage
+  desc_en: Bind 5 random cards for 1~2 turns, Deal 150% damage
   max_atk_pct: 150
   name_en: Brilliant World
   one_time: 0
@@ -239,7 +239,7 @@ records:
 # Branch on hp < 30, target rnd 11
 # [8] ESBindAttack(63:2162) -> Beautiful World
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
-# Bind 2 random for 1~2 turns, Deal 75% damage
+# Bind 2 random cards for 1~2 turns, Deal 75% damage
 # [9] ESRandomSpawn(92:2160) -> Cupid Attack
 # 	Condition: When fire, water, wood, light, dark, heal, poison, mortal poison orbs are on the board (ai:100 rnd:0)
 # Spawn random 3 Jammer orbs, Deal 100% damage
@@ -254,7 +254,7 @@ records:
 # [14] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [15] ESBindAttack(63:2164) -> Brilliant World
-# Bind 5 random for 1~2 turns, Deal 150% damage
+# Bind 5 random cards for 1~2 turns, Deal 150% damage
 # [16] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [17] ESAttributeResist(72:2158) -> *****

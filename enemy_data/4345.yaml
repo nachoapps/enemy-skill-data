@@ -94,7 +94,7 @@ records:
   record_type_name: ACTION
   usage_pct: 50
 - !SkillRecord
-  desc_en: Bind 1 random for 1 turns, Deal 110% damage
+  desc_en: Bind 1 random cards for 1 turns, Deal 110% damage
   max_atk_pct: 110
   name_en: Like this
   one_time: 0
@@ -207,7 +207,7 @@ records:
 # Change 3rd row to Wood, Jammer orbs, Deal 110% damage
 # [21] ESBindAttack(63:13115) -> Like this
 # 	Condition: 50% chance (ai:0 rnd:50)
-# Bind 1 random for 1 turns, Deal 110% damage
+# Bind 1 random cards for 1 turns, Deal 110% damage
 # [22] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [23] ESFlagOperation(24:14) -> ESFlagOperation

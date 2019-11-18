@@ -125,7 +125,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Bind 1 random for 4 turns, Deal 140% damage + Reduce damage from all sources
+  desc_en: Bind 1 random cards for 4 turns, Deal 140% damage + Reduce damage from all sources
     by 50% for 5 turns
   max_atk_pct: null
   name_en: I simply can't lose ♪ + Steel Arabesque
@@ -313,7 +313,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Bind 1 random for 4 turns, Deal 140% damage + Reduce damage from all sources
+  desc_en: Bind 1 random cards for 4 turns, Deal 140% damage + Reduce damage from all sources
     by 50% for 5 turns
   max_atk_pct: null
   name_en: I simply can't lose ♪ + Steel Arabesque
@@ -431,7 +431,7 @@ records:
 # [13] SkillSet:
 # 	Condition: When < 99% hp (ai:100 rnd:0)
 # 	[0] ESBindAttack(63:5649) -> I simply can't lose ♪
-# 	Bind 1 random for 4 turns, Deal 140% damage
+# 	Bind 1 random cards for 4 turns, Deal 140% damage
 # 	[1] ESDamageShield(74:5659) -> Steel Arabesque
 # 	Reduce damage from all sources by 50% for 5 turns
 # [14] SkillSet:

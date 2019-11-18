@@ -66,7 +66,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Spawn random 3 Jammer, Poison orbs + Bind 1 random for 1 turns, Deal 100%
+  desc_en: Spawn random 3 Jammer, Poison orbs + Bind 1 random cards for 1 turns, Deal 100%
     damage
   max_atk_pct: null
   name_en: Blessings of the Trickster God + Fake Spear Gungnir
@@ -147,7 +147,7 @@ records:
   record_type_name: ACTION
   usage_pct: 100
 - !SkillRecord
-  desc_en: Spawn random 3 Jammer, Poison orbs + Bind 1 random for 1 turns, Deal 100%
+  desc_en: Spawn random 3 Jammer, Poison orbs + Bind 1 random cards for 1 turns, Deal 100%
     damage
   max_atk_pct: null
   name_en: Blessings of the Trickster God + Fake Spear Gungnir
@@ -214,7 +214,7 @@ records:
   record_type_name: ACTION
   usage_pct: 100
 - !SkillRecord
-  desc_en: Spawn random 3 Jammer, Poison orbs + Bind 1 random for 1 turns, Deal 100%
+  desc_en: Spawn random 3 Jammer, Poison orbs + Bind 1 random cards for 1 turns, Deal 100%
     damage
   max_atk_pct: null
   name_en: Blessings of the Trickster God + Fake Spear Gungnir
@@ -366,7 +366,7 @@ records:
 # 	[0] ESRandomSpawn(92:7156) -> Blessings of the Trickster God
 # 	Spawn random 3 Jammer, Poison orbs
 # 	[1] ESBindAttack(63:7157) -> Fake Spear Gungnir
-# 	Bind 1 random for 1 turns, Deal 100% damage
+# 	Bind 1 random cards for 1 turns, Deal 100% damage
 # [24] SkillSet:
 # 	Condition: 25% chance (ai:25 rnd:0)
 # 	[0] ESRandomSpawn(92:7156) -> Blessings of the Trickster God

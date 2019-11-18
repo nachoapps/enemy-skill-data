@@ -95,7 +95,7 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
-    Mortal Poison + Bind 1 random for 5 turns, Deal 280% damage
+    Mortal Poison + Bind 1 random cards for 5 turns, Deal 280% damage
   max_atk_pct: null
   name_en: Kaleidoscope + Unbind
   one_time: 0
@@ -196,7 +196,7 @@ records:
 # 	[0] ESBoardChange(84:8550) -> Kaleidoscope
 # 	Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
 # 	[1] ESBindAttack(63:8551) -> Unbind
-# 	Bind 1 random for 5 turns, Deal 280% damage
+# 	Bind 1 random cards for 5 turns, Deal 280% damage
 # [22] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [23] ESDamageShield(74:8554) -> Forge Folding

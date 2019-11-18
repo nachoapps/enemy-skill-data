@@ -30,7 +30,7 @@ records:
   record_type_name: ACTION
   usage_pct: 20
 - !SkillRecord
-  desc_en: Bind 1 random for 4 turns, Deal 100% damage
+  desc_en: Bind 1 random cards for 4 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Holy Bind
   one_time: 0
@@ -132,7 +132,7 @@ records:
 # Blind all orbs on the board, Deal 100% damage
 # [12] ESBindAttack(63:3238) -> Holy Bind
 # 	Condition: 40% chance (ai:0 rnd:40)
-# Bind 1 random for 4 turns, Deal 100% damage
+# Bind 1 random cards for 4 turns, Deal 100% damage
 # [13] ESOrbChangeAttack(48:3239) -> Energy Ball
 # 	Condition: 40% chance (ai:0 rnd:40)
 # Change Light to Jammer, Deal 120% damage

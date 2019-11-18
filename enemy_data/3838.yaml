@@ -17,7 +17,7 @@ level: 4
 overrides: []
 records:
 - !SkillRecord
-  desc_en: Absorb Light damage for 5 turns + Bind 2 random for 3 turns, Deal 200%
+  desc_en: Absorb Light damage for 5 turns + Bind 2 random cards for 3 turns, Deal 200%
     damage (Preemptive)
   max_atk_pct: null
   name_en: Electrified Golden Fur + Lightning Order
@@ -68,7 +68,7 @@ records:
   record_type_name: ACTION
   usage_pct: 100
 - !SkillRecord
-  desc_en: Bind 5 random for 6 turns, Deal 5000% damage
+  desc_en: Bind 5 random cards for 6 turns, Deal 5000% damage
   max_atk_pct: 5000
   name_en: Powerful Lightning Release
   one_time: 0
@@ -152,7 +152,7 @@ records:
 # 	[0] ESAbsorbAttribute(53:8050) -> Electrified Golden Fur
 # 	Absorb Light damage for 5 turns
 # 	[1] ESBindAttack(63:8051) -> Lightning Order
-# 	Bind 2 random for 3 turns, Deal 200% damage
+# 	Bind 2 random cards for 3 turns, Deal 200% damage
 # [7] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [8] ESBranchHP(28:18) -> ESBranchHP
@@ -219,6 +219,6 @@ records:
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 4)
 # Bind 4 subs for 5 turns, Deal 3000% damage
 # [29] ESBindAttack(63:8070) -> Powerful Lightning Release
-# Bind 5 random for 6 turns, Deal 5000% damage
+# Bind 5 random cards for 6 turns, Deal 5000% damage
 # [30] ESEndPath(36:26) -> ESEndPath
 # end_turn

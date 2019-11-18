@@ -154,7 +154,7 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 100% damage + Change Random 5 to Poison,
-    Deal 100% damage + Bind 3 random for 3 turns, Deal 100% damage
+    Deal 100% damage + Bind 3 random cards for 3 turns, Deal 100% damage
   max_atk_pct: null
   name_en: The First Circle, Limbo + The Fourth Circle, Greed + The Eighth Circle,
     Fraud
@@ -184,13 +184,13 @@ records:
 # 	[0] ESPoisonChangeRandomAttack(64:5200) -> The Fourth Circle, Greed
 # 	Change Random 5 to Poison, Deal 100% damage
 # 	[1] ESBindAttack(63:5201) -> The Eighth Circle, Fraud
-# 	Bind 3 random for 3 turns, Deal 100% damage
+# 	Bind 3 random cards for 3 turns, Deal 100% damage
 # ESPoisonChangeRandomAttack(64:5194) -> The Fourth Circle, Greed
 # 	Condition: When < 60% hp , one-time use (ai:100 rnd:0) (one-time: 2)
 # Change Random 5 to Poison, Deal 150% damage
 # ESBindAttack(63:5195) -> The Eighth Circle, Fraud
 # 	Condition: When < 40% hp , one-time use (ai:100 rnd:0) (one-time: 1)
-# Bind 3 random for 3 turns, Deal 160% damage
+# Bind 3 random cards for 3 turns, Deal 160% damage
 ############################################################
 ### ES Modifiers
 ############################################################
@@ -224,7 +224,7 @@ records:
 # 	[1] ESPoisonChangeRandomAttack(64:5200) -> The Fourth Circle, Greed
 # 	Change Random 5 to Poison, Deal 100% damage
 # 	[2] ESBindAttack(63:5201) -> The Eighth Circle, Fraud
-# 	Bind 3 random for 3 turns, Deal 100% damage
+# 	Bind 3 random cards for 3 turns, Deal 100% damage
 # [7] SkillSet:
 # 	Condition: When < 60% hp , one-time use (ai:100 rnd:0) (one-time: 6)
 # 	[0] ESBlind(62:5199) -> The First Circle, Limbo
@@ -239,13 +239,13 @@ records:
 # 	[0] ESPoisonChangeRandomAttack(64:5200) -> The Fourth Circle, Greed
 # 	Change Random 5 to Poison, Deal 100% damage
 # 	[1] ESBindAttack(63:5201) -> The Eighth Circle, Fraud
-# 	Bind 3 random for 3 turns, Deal 100% damage
+# 	Bind 3 random cards for 3 turns, Deal 100% damage
 # [10] ESPoisonChangeRandomAttack(64:5194) -> The Fourth Circle, Greed
 # 	Condition: When < 60% hp , one-time use (ai:100 rnd:0) (one-time: 2)
 # Change Random 5 to Poison, Deal 150% damage
 # [11] ESBindAttack(63:5195) -> The Eighth Circle, Fraud
 # 	Condition: When < 40% hp , one-time use (ai:100 rnd:0) (one-time: 1)
-# Bind 3 random for 3 turns, Deal 160% damage
+# Bind 3 random cards for 3 turns, Deal 160% damage
 # [12] ESColumnSpawnMulti(77:5197) -> Ondulazione
 # 	Condition: 50% chance (ai:50 rnd:0)
 # Change 1st column to Water orbs, Deal 140% damage

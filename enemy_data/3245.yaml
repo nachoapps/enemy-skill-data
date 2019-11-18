@@ -119,7 +119,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Enemy recover 100% hp + Bind 1 random for 9 turns, Deal 200% damage
+  desc_en: Enemy recover 100% hp + Bind 1 random cards for 9 turns, Deal 200% damage
   max_atk_pct: null
   name_en: Death Avoidance + Nampulse
   one_time: 1
@@ -189,7 +189,7 @@ records:
 # 	[0] ESRecoverEnemy(86:5640) -> Death Avoidance
 # 	Enemy recover 100% hp
 # 	[1] ESBindAttack(63:5675) -> Nampulse
-# 	Bind 1 random for 9 turns, Deal 200% damage
+# 	Bind 1 random cards for 9 turns, Deal 200% damage
 # [20] ESBombFixedSpawn(103:5641) -> Void Burn
 # 	Condition: When < 20% hp (ai:100 rnd:0)
 # Spawn Bomb orbs in the specified positions, Deal 5000% damage

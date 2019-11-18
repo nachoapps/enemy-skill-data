@@ -157,7 +157,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Delay active skills by 5 turns + Bind 6 random for 5 turns, Deal 2500%
+  desc_en: Delay active skills by 5 turns + Bind 6 random cards for 5 turns, Deal 2500%
     damage
   max_atk_pct: null
   name_en: Wrath of Water + Swirl Cage
@@ -194,7 +194,7 @@ records:
 # 	[0] ESSkillDelay(89:3250) -> Wrath of Water
 # 	Delay active skills by 5 turns
 # 	[1] ESBindAttack(63:3251) -> Swirl Cage
-# 	Bind 6 random for 5 turns, Deal 2500% damage
+# 	Bind 6 random cards for 5 turns, Deal 2500% damage
 # [7] ESAttackMultihit(15:3247) -> Flare Stream
 # 	Condition: When < 20% hp (ai:100 rnd:0)
 # Deal 500% damage (5 hits, 100% each)

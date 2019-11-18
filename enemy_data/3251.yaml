@@ -94,7 +94,7 @@ records:
   record_type_name: ACTION
   usage_pct: 50
 - !SkillRecord
-  desc_en: Bind 2 random for 1 turns, Deal 120% damage
+  desc_en: Bind 2 random cards for 1 turns, Deal 120% damage
   max_atk_pct: 120
   name_en: Dark Flame Shackles
   one_time: 0
@@ -207,7 +207,7 @@ records:
 # Change 3rd row to Fire, Poison orbs, Deal 120% damage
 # [21] ESBindAttack(63:5772) -> Dark Flame Shackles
 # 	Condition: 50% chance (ai:0 rnd:50)
-# Bind 2 random for 1 turns, Deal 120% damage
+# Bind 2 random cards for 1 turns, Deal 120% damage
 # [22] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [23] ESFlagOperation(24:14) -> ESFlagOperation

@@ -30,7 +30,7 @@ records:
   record_type_name: PREEMPT
   usage_pct: 100
 - !SkillRecord
-  desc_en: Bind 1 random for 4 turns, Deal 100% damage
+  desc_en: Bind 1 random cards for 4 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Dragon Monk Binding Law of Tathagata
   one_time: 0
@@ -147,7 +147,7 @@ records:
 # Delay active skills by 4 turns
 # [8] ESBindAttack(63:3059) -> Dragon Monk Binding Law of Tathagata
 # 	Condition: 30% chance (ai:30 rnd:0)
-# Bind 1 random for 4 turns, Deal 100% damage
+# Bind 1 random cards for 4 turns, Deal 100% damage
 # [9] ESAttackMultihit(15:3060) -> Rakshasa Power
 # Deal 150% damage (3 hits, 50% each)
 # [10] ESBranchFlag(43:10) -> ESBranchFlag

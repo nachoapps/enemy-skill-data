@@ -79,7 +79,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Reduce damage from all sources by 75% for 3 turns + Bind 1 random for 4
+  desc_en: Reduce damage from all sources by 75% for 3 turns + Bind 1 random cards for 4
     turns, Deal 300% damage
   max_atk_pct: null
   name_en: Fireform + Giant Iceflame Talons
@@ -137,7 +137,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Reduce damage from all sources by 75% for 3 turns + Bind 1 random for 4
+  desc_en: Reduce damage from all sources by 75% for 3 turns + Bind 1 random cards for 4
     turns, Deal 300% damage
   max_atk_pct: null
   name_en: Fireform + Giant Iceflame Talons
@@ -271,7 +271,7 @@ records:
 # 	[0] ESDamageShield(74:6856) -> Fireform
 # 	Reduce damage from all sources by 75% for 3 turns
 # 	[1] ESBindAttack(63:6864) -> Giant Iceflame Talons
-# 	Bind 1 random for 4 turns, Deal 300% damage
+# 	Bind 1 random cards for 4 turns, Deal 300% damage
 # [9] ESAttackMultihit(15:6866) -> Pyro Breath
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 32)
 # Deal 360% damage (3 hits, 120% each)
@@ -289,7 +289,7 @@ records:
 # 	[0] ESDamageShield(74:6856) -> Fireform
 # 	Reduce damage from all sources by 75% for 3 turns
 # 	[1] ESBindAttack(63:6864) -> Giant Iceflame Talons
-# 	Bind 1 random for 4 turns, Deal 300% damage
+# 	Bind 1 random cards for 4 turns, Deal 300% damage
 # [14] ESAttackMultihit(15:6871) -> Inferno Breath
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
 # Deal 450% damage (3 hits, 150% each)

@@ -46,7 +46,7 @@ records:
   record_type_name: ACTION
   usage_pct: 20
 - !SkillRecord
-  desc_en: Bind 3 random for 10 turns, Deal 310% damage
+  desc_en: Bind 3 random cards for 10 turns, Deal 310% damage
   max_atk_pct: 310
   name_en: Haunter of the Dark
   one_time: 7
@@ -123,7 +123,7 @@ records:
 # Change own attribute to random one of Fire, Water, Wood, Light, Dark, Deal 320% damage
 # [9] ESBindAttack(63:6807) -> Haunter of the Dark
 # 	Condition: One-time use (ai:0 rnd:10) (one-time: 7)
-# Bind 3 random for 10 turns, Deal 310% damage
+# Bind 3 random cards for 10 turns, Deal 310% damage
 # [10] ESAttributeBlock(107:6808) -> Insanity Emerging from the Darkness
 # 	Condition: One-time use (ai:0 rnd:10) (one-time: 7)
 # Unable to match Heal orbs for 2 turns, Deal 60% damage

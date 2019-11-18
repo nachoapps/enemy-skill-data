@@ -46,7 +46,7 @@ records:
   record_type_name: ACTION
   usage_pct: 15
 - !SkillRecord
-  desc_en: Bind 1 random for 3~5 turns, Deal 210% damage
+  desc_en: Bind 1 random cards for 3~5 turns, Deal 210% damage
   max_atk_pct: 210
   name_en: Stone Breath
   one_time: 0
@@ -240,7 +240,7 @@ records:
 # Bind awoken skills for 1 turns, Deal 240% damage
 # [13] ESBindAttack(63:7724) -> Stone Breath
 # 	Condition: 15% chance (ai:0 rnd:15)
-# Bind 1 random for 3~5 turns, Deal 210% damage
+# Bind 1 random cards for 3~5 turns, Deal 210% damage
 # [14] ESAttackMultihit(15:7725) -> Combo Attack
 # 	Condition: 20% chance (ai:0 rnd:20)
 # Deal 200% damage (2 hits, 100% each)

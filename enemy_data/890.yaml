@@ -37,7 +37,7 @@ records:
   record_type_name: ACTION
   usage_pct: 40
 - !SkillRecord
-  desc_en: Bind 4 random for 1~2 turns, Deal 50% damage
+  desc_en: Bind 4 random cards for 1~2 turns, Deal 50% damage
   max_atk_pct: 50
   name_en: Hypnos Letter
   one_time: 0
@@ -125,6 +125,6 @@ records:
 # Change Random to Heal, Deal 150% damage
 # [12] ESBindAttack(63:1445) -> Hypnos Letter
 # 	Condition: 30% chance (ai:30 rnd:0)
-# Bind 4 random for 1~2 turns, Deal 50% damage
+# Bind 4 random cards for 1~2 turns, Deal 50% damage
 # [13] ESOrbChangeAttack(48:1446) -> Thanatos Letter
 # Change Random to Jammer, Deal 100% damage

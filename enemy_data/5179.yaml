@@ -38,7 +38,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Deal 60% damage (3 hits, 20% each) + Bind 2 random for 1~2 turns, Deal
+  desc_en: Deal 60% damage (3 hits, 20% each) + Bind 2 random cards for 1~2 turns, Deal
     50% damage
   max_atk_pct: null
   name_en: Head Banging-Mosh + Overdrive-Death Growl
@@ -84,7 +84,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Deal 60% damage (3 hits, 20% each) + Bind 2 random for 1~2 turns, Deal
+  desc_en: Deal 60% damage (3 hits, 20% each) + Bind 2 random cards for 1~2 turns, Deal
     50% damage
   max_atk_pct: null
   name_en: Head Banging-Mosh + Overdrive-Death Growl
@@ -130,7 +130,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Deal 60% damage (3 hits, 20% each) + Bind 2 random for 1~2 turns, Deal
+  desc_en: Deal 60% damage (3 hits, 20% each) + Bind 2 random cards for 1~2 turns, Deal
     50% damage
   max_atk_pct: null
   name_en: Head Banging-Mosh + Overdrive-Death Growl
@@ -176,7 +176,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Deal 60% damage (3 hits, 20% each) + Bind 2 random for 1~2 turns, Deal
+  desc_en: Deal 60% damage (3 hits, 20% each) + Bind 2 random cards for 1~2 turns, Deal
     50% damage
   max_atk_pct: null
   name_en: Head Banging-Mosh + Overdrive-Death Growl
@@ -237,7 +237,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Deal 60% damage (3 hits, 20% each) + Bind 2 random for 1~2 turns, Deal
+  desc_en: Deal 60% damage (3 hits, 20% each) + Bind 2 random cards for 1~2 turns, Deal
     50% damage
   max_atk_pct: null
   name_en: Head Banging-Mosh + Overdrive-Death Growl
@@ -283,7 +283,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Deal 60% damage (3 hits, 20% each) + Bind 2 random for 1~2 turns, Deal
+  desc_en: Deal 60% damage (3 hits, 20% each) + Bind 2 random cards for 1~2 turns, Deal
     50% damage
   max_atk_pct: null
   name_en: Head Banging-Mosh + Overdrive-Death Growl
@@ -329,7 +329,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Deal 60% damage (3 hits, 20% each) + Bind 2 random for 1~2 turns, Deal
+  desc_en: Deal 60% damage (3 hits, 20% each) + Bind 2 random cards for 1~2 turns, Deal
     50% damage
   max_atk_pct: null
   name_en: Head Banging-Mosh + Overdrive-Death Growl
@@ -412,7 +412,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Deal 60% damage (3 hits, 20% each) + Bind 2 random for 1~2 turns, Deal
+  desc_en: Deal 60% damage (3 hits, 20% each) + Bind 2 random cards for 1~2 turns, Deal
     50% damage
   max_atk_pct: null
   name_en: Head Banging-Mosh + Overdrive-Death Growl
@@ -480,7 +480,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Deal 60% damage (3 hits, 20% each) + Bind 2 random for 1~2 turns, Deal
+  desc_en: Deal 60% damage (3 hits, 20% each) + Bind 2 random cards for 1~2 turns, Deal
     50% damage
   max_atk_pct: null
   name_en: Head Banging-Mosh + Overdrive-Death Growl
@@ -526,7 +526,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Deal 60% damage (3 hits, 20% each) + Bind 2 random for 1~2 turns, Deal
+  desc_en: Deal 60% damage (3 hits, 20% each) + Bind 2 random cards for 1~2 turns, Deal
     50% damage
   max_atk_pct: null
   name_en: Head Banging-Mosh + Overdrive-Death Growl
@@ -572,7 +572,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Deal 60% damage (3 hits, 20% each) + Bind 2 random for 1~2 turns, Deal
+  desc_en: Deal 60% damage (3 hits, 20% each) + Bind 2 random cards for 1~2 turns, Deal
     50% damage
   max_atk_pct: null
   name_en: Head Banging-Mosh + Overdrive-Death Growl
@@ -674,7 +674,7 @@ records:
 # 	[0] ESAttackMultihit(15:12880) -> Head Banging-Mosh
 # 	Deal 60% damage (3 hits, 20% each)
 # 	[1] ESBindAttack(63:12881) -> Overdrive-Death Growl
-# 	Bind 2 random for 1~2 turns, Deal 50% damage
+# 	Bind 2 random cards for 1~2 turns, Deal 50% damage
 # [12] SkillSet:
 # 	Condition: 33% chance (ai:0 rnd:33)
 # 	[0] ESAttackMultihit(15:12880) -> Head Banging-Mosh

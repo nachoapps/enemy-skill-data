@@ -131,7 +131,7 @@ records:
   record_type_name: ACTION
   usage_pct: 60
 - !SkillRecord
-  desc_en: Bind 1 random for 3 turns, Deal 170% damage
+  desc_en: Bind 1 random cards for 3 turns, Deal 170% damage
   max_atk_pct: 170
   name_en: Paralysis Sight
   one_time: 1
@@ -322,7 +322,7 @@ records:
 # Deal 180% damage (3 hits, 60% each)
 # [25] ESBindAttack(63:4293) -> Paralysis Sight
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
-# Bind 1 random for 3 turns, Deal 170% damage
+# Bind 1 random cards for 3 turns, Deal 170% damage
 # [26] ESAttackMultihit(15:4294) -> Core Full Burst
 # Deal 520% damage (4 hits, 130% each)
 # [27] ESAttackUPRemainingEnemies(17:4295) -> Awaken Force

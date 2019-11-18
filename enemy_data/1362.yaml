@@ -86,7 +86,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Bind 6 random for 1~2 turns, Deal 25% damage
+  desc_en: Bind 6 random cards for 1~2 turns, Deal 25% damage
   max_atk_pct: 25
   name_en: Nile-Style Moonsault Press
   one_time: 0
@@ -177,7 +177,7 @@ records:
 # [20] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b111
 # [21] ESBindAttack(63:1236) -> Nile-Style Moonsault Press
-# Bind 6 random for 1~2 turns, Deal 25% damage
+# Bind 6 random cards for 1~2 turns, Deal 25% damage
 # [22] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [23] ESInactivity(66:1238) -> Now sleep!

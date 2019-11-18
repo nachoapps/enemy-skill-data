@@ -205,7 +205,7 @@ records:
   record_type_name: ACTION
   usage_pct: 50
 - !SkillRecord
-  desc_en: Bind 1 random for 5 turns, Deal 410% damage
+  desc_en: Bind 1 random cards for 5 turns, Deal 410% damage
   max_atk_pct: 410
   name_en: Great Vine
   one_time: 0
@@ -318,7 +318,7 @@ records:
 # Enemy recover 10% hp, Deal 420% damage
 # [24] ESBindAttack(63:2983) -> Great Vine
 # 	Condition: When < 30% hp (ai:100 rnd:0)
-# Bind 1 random for 5 turns, Deal 410% damage
+# Bind 1 random cards for 5 turns, Deal 410% damage
 # [25] ESOrbLock(94:2980) -> Hardened Sign
 # 	Condition: 50% chance (ai:50 rnd:0)
 # Lock 6 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 340% damage

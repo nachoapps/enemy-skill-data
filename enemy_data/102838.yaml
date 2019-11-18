@@ -143,7 +143,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Bind 1 random for 3 turns, Deal 150% damage
+  desc_en: Bind 1 random cards for 3 turns, Deal 150% damage
   max_atk_pct: 150
   name_en: Pratibandhii
   one_time: 1
@@ -312,7 +312,7 @@ records:
 # Absorb combo <= 6 damage for 1 turns, Deal 140% damage
 # [19] ESBindAttack(63:4211) -> Pratibandhii
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
-# Bind 1 random for 3 turns, Deal 150% damage
+# Bind 1 random cards for 3 turns, Deal 150% damage
 # [20] ESOrbChangeAttack(48:4248) -> Pratisedha
 # 	Condition: 15% chance when < 30% hp (ai:15 rnd:0)
 # Change Heal to Jammer, Deal 160% damage

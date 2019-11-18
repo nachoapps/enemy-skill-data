@@ -45,7 +45,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Bind 1 random for 3 turns, Deal 80% damage
+  desc_en: Bind 1 random cards for 3 turns, Deal 80% damage
   max_atk_pct: 80
   name_en: Miraculous Vortex
   one_time: 0
@@ -131,7 +131,7 @@ records:
 # Delay active skills by 2 turns, Deal 75% damage
 # [10] ESBindAttack(63:3784) -> Miraculous Vortex
 # 	Condition: 30% chance (ai:30 rnd:0)
-# Bind 1 random for 3 turns, Deal 80% damage
+# Bind 1 random cards for 3 turns, Deal 80% damage
 # [11] ESAttackMultihit(15:3783) -> Fire Prison
 # Deal 100% damage (2 hits, 50% each)
 # [12] ESBranchFlag(43:10) -> ESBranchFlag

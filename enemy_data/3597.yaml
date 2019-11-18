@@ -109,7 +109,7 @@ records:
   record_type_name: ACTION
   usage_pct: 20
 - !SkillRecord
-  desc_en: Movetime -2s for 2 turns + Bind 1 random for 3 turns, Deal 180% damage
+  desc_en: Movetime -2s for 2 turns + Bind 1 random cards for 3 turns, Deal 180% damage
   max_atk_pct: null
   name_en: Black Metal Glare + Paralysis Dart
   one_time: 2
@@ -228,7 +228,7 @@ records:
 # 	[0] ESDebuffMovetime(39:6671) -> Black Metal Glare
 # 	Movetime -2s for 2 turns
 # 	[1] ESBindAttack(63:6674) -> Paralysis Dart
-# 	Bind 1 random for 3 turns, Deal 180% damage
+# 	Bind 1 random cards for 3 turns, Deal 180% damage
 # [22] ESBombRandomSpawn(102:6683) -> Evil Bomb
 # 	Condition: 60% chance (ai:0 rnd:60)
 # Spawn random 3 Bomb orbs, Deal 160% damage

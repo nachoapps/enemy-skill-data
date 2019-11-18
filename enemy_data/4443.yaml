@@ -23,7 +23,7 @@ records:
   record_type_name: PASSIVE
   usage_pct: 100
 - !SkillRecord
-  desc_en: Bind 2 random for 2 turns, Deal 105% damage (Preemptive)
+  desc_en: Bind 2 random cards for 2 turns, Deal 105% damage (Preemptive)
   max_atk_pct: 105
   name_en: テオザケル
   one_time: 0
@@ -167,7 +167,7 @@ records:
 # [3] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b1
 # [4] ESBindAttack(63:10121) -> テオザケル
-# Bind 2 random for 2 turns, Deal 105% damage
+# Bind 2 random cards for 2 turns, Deal 105% damage
 # [5] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [6] ESBranchFlag(43:10) -> ESBranchFlag

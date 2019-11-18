@@ -77,7 +77,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Bind 2 random for 3 turns, Deal 50% damage + Delay active skills by 1~2
+  desc_en: Bind 2 random cards for 3 turns, Deal 50% damage + Delay active skills by 1~2
     turns, Deal 50% damage
   max_atk_pct: null
   name_en: Thunder Reign + Panta Rhei
@@ -202,7 +202,7 @@ records:
 # Branch on counter > 4, target rnd 17
 # [15] SkillSet:
 # 	[0] ESBindAttack(63:10009) -> Thunder Reign
-# 	Bind 2 random for 3 turns, Deal 50% damage
+# 	Bind 2 random cards for 3 turns, Deal 50% damage
 # 	[1] ESSkillDelay(89:10010) -> Panta Rhei
 # 	Delay active skills by 1~2 turns, Deal 50% damage
 # [16] ESEndPath(36:26) -> ESEndPath

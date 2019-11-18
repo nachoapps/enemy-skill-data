@@ -126,7 +126,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Bind 1 random for 4 turns, Deal 140% damage
+  desc_en: Bind 1 random cards for 4 turns, Deal 140% damage
   max_atk_pct: 140
   name_en: 私も負けてられないわね♪
   one_time: 0
@@ -298,7 +298,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Bind 1 random for 4 turns, Deal 140% damage
+  desc_en: Bind 1 random cards for 4 turns, Deal 140% damage
   max_atk_pct: 140
   name_en: 私も負けてられないわね♪
   one_time: 0
@@ -427,7 +427,7 @@ records:
 # flag SET 0b111
 # [13] ESBindAttack(63:13419) -> 私も負けてられないわね♪
 # 	Condition: When < 99% hp (ai:100 rnd:0)
-# Bind 1 random for 4 turns, Deal 140% damage
+# Bind 1 random cards for 4 turns, Deal 140% damage
 # [14] ESStatusShield(20:5642) -> トランスペアレントメロディ
 # Voids status ailments for 999 turns
 # [15] ESEndPath(36:26) -> ESEndPath

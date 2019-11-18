@@ -44,7 +44,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Bind 1 random for 1 turns, Deal 100% damage
+  desc_en: Bind 1 random cards for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: First Edelweiss
   one_time: 1
@@ -84,6 +84,6 @@ records:
 # Change 2nd, 4th column to Light orbs, Deal 80% damage
 # [11] ESBindAttack(63:3320) -> First Edelweiss
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
-# Bind 1 random for 1 turns, Deal 100% damage
+# Bind 1 random cards for 1 turns, Deal 100% damage
 # [12] ESEndPath(36:26) -> ESEndPath
 # end_turn

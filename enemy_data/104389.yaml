@@ -53,7 +53,7 @@ records:
 # 	Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 50% damage
 # SkillSet:
 # 	[0] ESBindAttack(63:9984) -> Ziodyne
-# 	Bind 1 random for 3 turns, Deal 50% damage
+# 	Bind 1 random cards for 3 turns, Deal 50% damage
 # 	[1] ESSkillDelay(89:9985) -> Garudyne
 # 	Delay active skills by 1 turns, Deal 50% damage
 # SkillSet:
@@ -73,7 +73,7 @@ records:
 # 	Player -50% HP
 # SkillSet:
 # 	[0] ESBindAttack(63:9987) -> You still have yet to fall...
-# 	Bind 6 random for 1 turns, Deal 100% damage
+# 	Bind 6 random cards for 1 turns, Deal 100% damage
 # 	[1] ESBlindStickyRandom(97:9988) -> You're pretty good, Inmate!
 # 	Blind random 6 orbs for 3 turns
 ############################################################
@@ -141,7 +141,7 @@ records:
 # 	Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 50% damage
 # [22] SkillSet:
 # 	[0] ESBindAttack(63:9984) -> Ziodyne
-# 	Bind 1 random for 3 turns, Deal 50% damage
+# 	Bind 1 random cards for 3 turns, Deal 50% damage
 # 	[1] ESSkillDelay(89:9985) -> Garudyne
 # 	Delay active skills by 1 turns, Deal 50% damage
 # [23] ESEndPath(36:26) -> ESEndPath
@@ -197,7 +197,7 @@ records:
 # counter = 11
 # [44] SkillSet:
 # 	[0] ESBindAttack(63:9987) -> You still have yet to fall...
-# 	Bind 6 random for 1 turns, Deal 100% damage
+# 	Bind 6 random cards for 1 turns, Deal 100% damage
 # 	[1] ESBlindStickyRandom(97:9988) -> You're pretty good, Inmate!
 # 	Blind random 6 orbs for 3 turns
 # [45] ESEndPath(36:26) -> ESEndPath

@@ -66,7 +66,7 @@ records:
   record_type_name: ACTION
   usage_pct: 80
 - !SkillRecord
-  desc_en: Bind 1 random for 5 turns, Deal 280% damage
+  desc_en: Bind 1 random cards for 5 turns, Deal 280% damage
   max_atk_pct: 280
   name_en: Restrain
   one_time: 0
@@ -169,7 +169,7 @@ records:
 # 	Condition: 80% chance & when Fire, Heal orbs are on the board (ai:80 rnd:0)
 # Spawn random 5 Jammer orbs, Deal 280% damage
 # [11] ESBindAttack(63:8083) -> Restrain
-# Bind 1 random for 5 turns, Deal 280% damage
+# Bind 1 random cards for 5 turns, Deal 280% damage
 # [12] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [13] ESResolve(73:8254) -> Alt. Hera Normal Resolve

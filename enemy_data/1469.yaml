@@ -30,7 +30,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Bind 1 random for 2 turns, Deal 100% damage
+  desc_en: Bind 1 random cards for 2 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Quick-TAMA!
   one_time: 1
@@ -74,6 +74,6 @@ records:
 # end_turn
 # [6] ESBindAttack(63:2283) -> Quick-TAMA!
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
-# Bind 1 random for 2 turns, Deal 100% damage
+# Bind 1 random cards for 2 turns, Deal 100% damage
 # [7] ESBindRandom(1:589) -> Pure Smile
 # Bind 1 random cards for 3 turns
