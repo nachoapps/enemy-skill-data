@@ -72,7 +72,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Bind 1 subs for 2 turns, Deal 100% damage
+  desc_en: Bind 1 random subs for 2 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Binding Attack
   one_time: 2
@@ -128,7 +128,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Bind 1 subs for 2 turns, Deal 100% damage
+  desc_en: Bind 1 random subs for 2 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Binding Attack
   one_time: 2
@@ -199,7 +199,7 @@ records:
 # Branch on counter > 7, target rnd 21
 # [17] ESBindAttack(63:13044) -> Binding Attack
 # 	Condition: One-time use (ai:0 rnd:33) (one-time: 2)
-# Bind 1 subs for 2 turns, Deal 100% damage
+# Bind 1 random subs for 2 turns, Deal 100% damage
 # [18] ESOrbSealRow(100:13042) -> Wing Combo Strike
 # 	Condition: 33% chance (ai:0 rnd:33)
 # Seal 5th row for 1 turns, Deal 110% damage

@@ -31,7 +31,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Bind 1 subs for 10 turns, Deal 400% damage
+  desc_en: Bind 1 random subs for 10 turns, Deal 400% damage
   max_atk_pct: 400
   name_en: Bolt Arrow
   one_time: 2
@@ -136,7 +136,7 @@ records:
 # end_turn
 # [6] ESBindAttack(63:8091) -> Bolt Arrow
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
-# Bind 1 subs for 10 turns, Deal 400% damage
+# Bind 1 random subs for 10 turns, Deal 400% damage
 # [7] ESBindAttack(63:8092) -> Bolt Arrow
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
 # Bind 2 both leaders for 10 turns, Deal 400% damage

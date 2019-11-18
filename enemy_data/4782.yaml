@@ -30,7 +30,7 @@ records:
   record_type_name: PREEMPT
   usage_pct: 100
 - !SkillRecord
-  desc_en: Bind 1 subs for 1 turns, Deal 120% damage
+  desc_en: Bind 1 random subs for 1 turns, Deal 120% damage
   max_atk_pct: 120
   name_en: '苦しみの螺旋階段を
 
@@ -76,7 +76,7 @@ records:
   record_type_name: ACTION
   usage_pct: 30
 - !SkillRecord
-  desc_en: Bind 1 subs for 1 turns, Deal 120% damage
+  desc_en: Bind 1 random subs for 1 turns, Deal 120% damage
   max_atk_pct: 120
   name_en: '苦しみの螺旋階段を
 
@@ -126,7 +126,7 @@ records:
 # [8] ESBindAttack(63:11034) -> 苦しみの螺旋階段を
 # 延々昇り続けるんだよ！
 # 	Condition: 50% chance (ai:50 rnd:0)
-# Bind 1 subs for 1 turns, Deal 120% damage
+# Bind 1 random subs for 1 turns, Deal 120% damage
 # [9] ESSpinnersRandom(109:11033) -> 人生なんていわば博打みてーなもんだ
 # Random 2 orbs change every 1.0s for 1 turns, Deal 80% damage
 # [10] ESEndPath(36:26) -> ESEndPath

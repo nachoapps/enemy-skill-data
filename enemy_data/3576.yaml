@@ -66,7 +66,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Change own attribute to Wood + Bind 1 subs for 7 turns, Deal 330% damage
+  desc_en: Change own attribute to Wood + Bind 1 random subs for 7 turns, Deal 330% damage
   max_atk_pct: null
   name_en: Rainbow Cloak + Paralysis Vine
   one_time: 64
@@ -146,7 +146,7 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Water, Wood, Light, Dark +
-    Bind 1 subs for 7 turns, Deal 330% damage
+    Bind 1 random subs for 7 turns, Deal 330% damage
   max_atk_pct: null
   name_en: Rainbow Cloak + Paralysis Vine
   one_time: 2
@@ -258,7 +258,7 @@ records:
 # 	[0] ESChangeAttribute(46:6896) -> Rainbow Cloak
 # 	Change own attribute to Wood
 # 	[1] ESBindAttack(63:6897) -> Paralysis Vine
-# 	Bind 1 subs for 7 turns, Deal 330% damage
+# 	Bind 1 random subs for 7 turns, Deal 330% damage
 # [7] SkillSet:
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 32)
 # 	[0] ESChangeAttribute(46:6899) -> Rainbow Cloak
@@ -290,7 +290,7 @@ records:
 # 	[0] ESChangeAttribute(46:6911) -> Rainbow Cloak
 # 	Change own attribute to random one of Fire, Water, Wood, Light, Dark
 # 	[1] ESBindAttack(63:6912) -> Paralysis Vine
-# 	Bind 1 subs for 7 turns, Deal 330% damage
+# 	Bind 1 random subs for 7 turns, Deal 330% damage
 # [13] SkillSet:
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
 # 	[0] ESSkyfall(96:6914) -> Thorned Husk Fang

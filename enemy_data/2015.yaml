@@ -32,7 +32,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Voids status ailments for 999 turns + Bind 1 subs for 4 turns, Deal 150%
+  desc_en: Voids status ailments for 999 turns + Bind 1 random subs for 4 turns, Deal 150%
     damage
   max_atk_pct: null
   name_en: I'll keep everything under strict control + I won't forgive any mistakes!
@@ -255,7 +255,7 @@ records:
 # 	[0] ESStatusShield(20:13083) -> I'll keep everything under strict control
 # 	Voids status ailments for 999 turns
 # 	[1] ESBindAttack(63:13084) -> I won't forgive any mistakes!
-# 	Bind 1 subs for 4 turns, Deal 150% damage
+# 	Bind 1 random subs for 4 turns, Deal 150% damage
 # [7] ESCloud(104:13086) -> Do you have any probem?
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 32)
 # 2x2 cloud appear for 1 turns at random location, Deal 140% damage

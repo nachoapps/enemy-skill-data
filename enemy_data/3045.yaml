@@ -100,7 +100,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Bind 1 subs for 3 turns, Deal 80% damage
+  desc_en: Bind 1 random subs for 3 turns, Deal 80% damage
   max_atk_pct: 80
   name_en: Long range
   one_time: 1
@@ -168,7 +168,7 @@ records:
 # Deal 400% damage
 # [14] ESBindAttack(63:4988) -> Long range
 # 	Condition: When < 45% hp , one-time use (ai:50 rnd:0) (one-time: 1)
-# Bind 1 subs for 3 turns, Deal 80% damage
+# Bind 1 random subs for 3 turns, Deal 80% damage
 # [15] ESRandomSpawn(92:4987) -> Hyoh!!
 # 	Condition: When < 70% hp & when Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs are on the board (ai:100 rnd:0)
 # Spawn random 3 Fire orbs, Deal 150% damage

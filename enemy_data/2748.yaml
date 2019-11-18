@@ -52,7 +52,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Bind 1 subs for 2 turns, Deal 130% damage
+  desc_en: Bind 1 random subs for 2 turns, Deal 130% damage
   max_atk_pct: 130
   name_en: Shadow Touch
   one_time: 2
@@ -276,7 +276,7 @@ records:
 # Spawn random 2 Fire, Water orbs, Deal 160% damage
 # [11] ESBindAttack(63:2945) -> Shadow Touch
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
-# Bind 1 subs for 2 turns, Deal 130% damage
+# Bind 1 random subs for 2 turns, Deal 130% damage
 # [12] ESRandomSpawn(92:2946) -> Poison Alchemy
 # 	Condition: When fire, water, wood, light, dark, heal, jammer, mortal poison orbs are on the board (ai:100 rnd:0)
 # Spawn random 3 Poison orbs, Deal 180% damage

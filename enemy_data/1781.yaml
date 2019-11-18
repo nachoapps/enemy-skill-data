@@ -94,7 +94,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Bind 1 subs for 1~2 turns, Deal 50% damage
+  desc_en: Bind 1 random subs for 1~2 turns, Deal 50% damage
   max_atk_pct: 50
   name_en: Blessing Embrace
   one_time: 1
@@ -142,7 +142,7 @@ records:
 # end_turn
 # [8] ESBindAttack(63:1749) -> Blessing Embrace
 # 	Condition: When < 50% hp , one-time use (ai:100 rnd:0) (one-time: 1)
-# Bind 1 subs for 1~2 turns, Deal 50% damage
+# Bind 1 random subs for 1~2 turns, Deal 50% damage
 # [9] ESOrbChangeAttack(48:1751) -> Zeus Figure Bomb
 # 	Condition: When < 30% hp (ai:100 rnd:0)
 # Change Random to Light, Deal 150% damage

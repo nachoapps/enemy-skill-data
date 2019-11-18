@@ -23,7 +23,7 @@ records:
   record_type_name: PREEMPT
   usage_pct: 100
 - !SkillRecord
-  desc_en: Bind 1 subs for 5 turns, Deal 95% damage
+  desc_en: Bind 1 random subs for 5 turns, Deal 95% damage
   max_atk_pct: 95
   name_en: Fools. I told you to fight me all at once.
   one_time: 0
@@ -103,7 +103,7 @@ records:
 # Branch on hp < 50, target rnd 10
 # [6] ESBindAttack(63:13244) -> Fools. I told you to fight me all at once.
 # 	Condition: 33% chance (ai:0 rnd:33)
-# Bind 1 subs for 5 turns, Deal 95% damage
+# Bind 1 random subs for 5 turns, Deal 95% damage
 # [7] ESSkillDelay(89:13245) -> Your sacrifices will all be in vain.
 # 	Condition: 33% chance (ai:0 rnd:33)
 # Delay active skills by 2 turns, Deal 100% damage

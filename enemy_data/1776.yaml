@@ -16,7 +16,7 @@ level: 5
 overrides: []
 records:
 - !SkillRecord
-  desc_en: Bind 1 subs for 1~2 turns, Deal 75% damage
+  desc_en: Bind 1 random subs for 1~2 turns, Deal 75% damage
   max_atk_pct: 75
   name_en: Sticky Stick Smash
   one_time: 0
@@ -81,4 +81,4 @@ records:
 # Enemy recover 50% hp
 # [5] ESBindAttack(63:1754) -> Sticky Stick Smash
 # 	Condition: 50% chance (ai:50 rnd:0)
-# Bind 1 subs for 1~2 turns, Deal 75% damage
+# Bind 1 random subs for 1~2 turns, Deal 75% damage

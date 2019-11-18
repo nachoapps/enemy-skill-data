@@ -93,7 +93,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Bind 1 subs for 2 turns, Deal 50% damage
+  desc_en: Bind 1 random subs for 2 turns, Deal 50% damage
   max_atk_pct: 50
   name_en: Sacred Sacrifice
   one_time: 0
@@ -293,7 +293,7 @@ records:
 # flag SET 0b11
 # [18] ESBindAttack(63:5516) -> Sacred Sacrifice
 # 	Condition: 30% chance (ai:30 rnd:0)
-# Bind 1 subs for 2 turns, Deal 50% damage
+# Bind 1 random subs for 2 turns, Deal 50% damage
 # [19] ESOrbChangeAttack(48:5517) -> Rainbow Contract
 # 	Condition: 50% chance (ai:50 rnd:0)
 # Change Random to Random, Deal 75% damage

@@ -47,7 +47,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Bind 1 subs for 2 turns, Deal 95% damage
+  desc_en: Bind 1 random subs for 2 turns, Deal 95% damage
   max_atk_pct: 95
   name_en: Shamash make them tighter.
   one_time: 0
@@ -151,7 +151,7 @@ records:
 # Branch on hp < 50, target rnd 12
 # [8] ESBindAttack(63:13236) -> Shamash make them tighter.
 # 	Condition: 33% chance (ai:0 rnd:33)
-# Bind 1 subs for 2 turns, Deal 95% damage
+# Bind 1 random subs for 2 turns, Deal 95% damage
 # [9] ESRandomSpawn(92:13237) -> Now beg forgiveness.
 # 	Condition: 33% chance & when Fire, Water, Wood, Dark, Heal, Jammer, Poison, Mortal Poison orbs are on the board (ai:0 rnd:33)
 # Spawn random 6 Light orbs, Deal 90% damage

@@ -52,7 +52,7 @@ records:
   record_type_name: ACTION
   usage_pct: 50
 - !SkillRecord
-  desc_en: Spawn random 3 Wood orbs + Bind 1 subs for 2 turns, Deal 100% damage
+  desc_en: Spawn random 3 Wood orbs + Bind 1 random subs for 2 turns, Deal 100% damage
   max_atk_pct: null
   name_en: Magia Points have recovered + Gaze of the Gorgon
   one_time: 2
@@ -101,7 +101,7 @@ records:
   record_type_name: ACTION
   usage_pct: 50
 - !SkillRecord
-  desc_en: Spawn random 3 Wood orbs + Bind 1 subs for 2 turns, Deal 100% damage
+  desc_en: Spawn random 3 Wood orbs + Bind 1 random subs for 2 turns, Deal 100% damage
   max_atk_pct: null
   name_en: Magia Points have recovered + Gaze of the Gorgon
   one_time: 2
@@ -206,7 +206,7 @@ records:
   record_type_name: ACTION
   usage_pct: 50
 - !SkillRecord
-  desc_en: Spawn random 3 Wood orbs + Bind 1 subs for 2 turns, Deal 100% damage
+  desc_en: Spawn random 3 Wood orbs + Bind 1 random subs for 2 turns, Deal 100% damage
   max_atk_pct: null
   name_en: Magia Points have recovered + Gaze of the Gorgon
   one_time: 2
@@ -255,7 +255,7 @@ records:
   record_type_name: ACTION
   usage_pct: 50
 - !SkillRecord
-  desc_en: Spawn random 3 Wood orbs + Bind 1 subs for 2 turns, Deal 100% damage
+  desc_en: Spawn random 3 Wood orbs + Bind 1 random subs for 2 turns, Deal 100% damage
   max_atk_pct: null
   name_en: Magia Points have recovered + Gaze of the Gorgon
   one_time: 2
@@ -415,7 +415,7 @@ records:
 # 	[0] ESRandomSpawn(92:10667) -> Magia Points have recovered
 # 	Spawn random 3 Wood orbs
 # 	[1] ESBindAttack(63:10672) -> Gaze of the Gorgon
-# 	Bind 1 subs for 2 turns, Deal 100% damage
+# 	Bind 1 random subs for 2 turns, Deal 100% damage
 # [23] ESSetCounter(25:15) -> ESSetCounter
 # counter = 1
 # [24] SkillSet:

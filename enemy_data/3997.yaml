@@ -23,7 +23,7 @@ records:
   record_type_name: PREEMPT
   usage_pct: 100
 - !SkillRecord
-  desc_en: Bind 1 subs for 1 turns, Deal 100% damage
+  desc_en: Bind 1 random subs for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Bandage Ghoul Roll
   one_time: 0
@@ -64,7 +64,7 @@ records:
 # end_turn
 # [8] ESBindAttack(63:8180) -> Bandage Ghoul Roll
 # 	Condition: 50% chance (ai:50 rnd:0)
-# Bind 1 subs for 1 turns, Deal 100% damage
+# Bind 1 random subs for 1 turns, Deal 100% damage
 # [9] ESRandomSpawn(92:8181) -> Tiny Halloween
 # 	Condition: When fire, water, wood, light, heal, jammer, poison, mortal poison orbs are on the board (ai:100 rnd:0)
 # Spawn random 1 Dark orbs, Deal 110% damage

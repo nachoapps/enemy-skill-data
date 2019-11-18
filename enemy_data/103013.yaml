@@ -166,7 +166,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Absorb combo <= 5 damage for 3 turns + Bind 1 subs for 5 turns, Deal 160%
+  desc_en: Absorb combo <= 5 damage for 3 turns + Bind 1 random subs for 5 turns, Deal 160%
     damage
   max_atk_pct: null
   name_en: Bubble Wall + Sun Jail
@@ -238,7 +238,7 @@ records:
 # 	[0] ESAbsorbCombo(67:6338) -> Bubble Wall
 # 	Absorb combo <= 5 damage for 3 turns
 # 	[1] ESBindAttack(63:6343) -> Sun Jail
-# 	Bind 1 subs for 5 turns, Deal 160% damage
+# 	Bind 1 random subs for 5 turns, Deal 160% damage
 # [7] ESBranchFlag(43:10) -> ESBranchFlag
 # Branch on flag & 1, target rnd 10
 # [8] ESFlagOperation(22:12) -> ESFlagOperation

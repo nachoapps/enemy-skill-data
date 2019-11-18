@@ -37,7 +37,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Bind 1 subs for 3 turns, Deal 50% damage
+  desc_en: Bind 1 random subs for 3 turns, Deal 50% damage
   max_atk_pct: 50
   name_en: クッキーになっちゃえ！
   one_time: 1
@@ -79,7 +79,7 @@ records:
 # end_turn
 # [4] ESBindAttack(63:1486) -> クッキーになっちゃえ！
 # 	Condition: When < 50% hp , one-time use (ai:100 rnd:0) (one-time: 1)
-# Bind 1 subs for 3 turns, Deal 50% damage
+# Bind 1 random subs for 3 turns, Deal 50% damage
 # [5] ESAttackMultihit(15:1487) -> おまえなんか…きらいだーっ!!!!
 # 	Condition: When < 30% hp (ai:100 rnd:0)
 # Deal 150% damage

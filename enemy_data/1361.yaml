@@ -30,7 +30,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Bind 1 subs for 2 turns, Deal 50% damage
+  desc_en: Bind 1 random subs for 2 turns, Deal 50% damage
   max_atk_pct: 50
   name_en: Flame Tomb
   one_time: 2
@@ -108,7 +108,7 @@ records:
 # Branch on hp < 30, target rnd 12
 # [9] ESBindAttack(63:1154) -> Flame Tomb
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
-# Bind 1 subs for 2 turns, Deal 50% damage
+# Bind 1 random subs for 2 turns, Deal 50% damage
 # [10] ESOrbChangeAttack(48:1155) -> Clay TAMADRA Lob
 # 	Condition: 50% chance (ai:50 rnd:0)
 # Change Random to Fire, Deal 80% damage

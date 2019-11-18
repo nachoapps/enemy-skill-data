@@ -45,7 +45,7 @@ records:
   record_type_name: ACTION
   usage_pct: 25
 - !SkillRecord
-  desc_en: Bind 1 subs for 2 turns, Deal 95% damage
+  desc_en: Bind 1 random subs for 2 turns, Deal 95% damage
   max_atk_pct: 95
   name_en: Don't sleep!
   one_time: 0
@@ -95,7 +95,7 @@ records:
   record_type_name: ACTION
   usage_pct: 25
 - !SkillRecord
-  desc_en: Bind 1 subs for 2 turns, Deal 95% damage
+  desc_en: Bind 1 random subs for 2 turns, Deal 95% damage
   max_atk_pct: 95
   name_en: Don't sleep!
   one_time: 0
@@ -214,7 +214,7 @@ records:
 # Blind all orbs on the board, Deal 100% damage
 # [13] ESBindAttack(63:12687) -> Don't sleep!
 # 	Condition: 25% chance (ai:0 rnd:25)
-# Bind 1 subs for 2 turns, Deal 95% damage
+# Bind 1 random subs for 2 turns, Deal 95% damage
 # [14] ESBombRandomSpawn(102:12688) -> Shall I grow beautiful flowers?
 # 	Condition: 25% chance (ai:0 rnd:25)
 # Spawn random 5 Bomb orbs, Deal 95% damage

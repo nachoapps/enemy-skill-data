@@ -37,7 +37,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Bind 1 subs for 2 turns, Deal 95% damage
+  desc_en: Bind 1 random subs for 2 turns, Deal 95% damage
   max_atk_pct: 95
   name_en: 始まりの鼓動
   one_time: 0
@@ -71,7 +71,7 @@ records:
 # Increase damage to 150% for the next 999 turns
 # [4] ESBindAttack(63:13452) -> 始まりの鼓動
 # 	Condition: 50% chance (ai:0 rnd:50)
-# Bind 1 subs for 2 turns, Deal 95% damage
+# Bind 1 random subs for 2 turns, Deal 95% damage
 # [5] ESGravity(50:13453) -> 鳴り響くドラムロール
 # 	Condition: 50% chance (ai:0 rnd:50)
 # Player -35% HP

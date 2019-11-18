@@ -23,7 +23,7 @@ records:
   record_type_name: PREEMPT
   usage_pct: 100
 - !SkillRecord
-  desc_en: Bind 1 subs for 2 turns, Deal 80% damage (Preemptive)
+  desc_en: Bind 1 random subs for 2 turns, Deal 80% damage (Preemptive)
   max_atk_pct: 80
   name_en: The Sound of Confinement
   one_time: 0
@@ -51,7 +51,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Bind 1 subs for 2 turns, Deal 80% damage
+  desc_en: Bind 1 random subs for 2 turns, Deal 80% damage
   max_atk_pct: 80
   name_en: The Sound of Confinement
   one_time: 0
@@ -86,7 +86,7 @@ records:
 # 	Condition: When fire orbs are on the board (ai:100 rnd:0)
 # Change all orbs to Heal
 # [5] ESBindAttack(63:5668) -> The Sound of Confinement
-# Bind 1 subs for 2 turns, Deal 80% damage
+# Bind 1 random subs for 2 turns, Deal 80% damage
 # [6] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [7] ESColumnSpawnMulti(76:5665) -> Noise Affliction
@@ -94,7 +94,7 @@ records:
 # Change 6th column to Poison orbs
 # [8] ESBindAttack(63:5668) -> The Sound of Confinement
 # 	Condition: 50% chance (ai:50 rnd:0)
-# Bind 1 subs for 2 turns, Deal 80% damage
+# Bind 1 random subs for 2 turns, Deal 80% damage
 # [9] ESRandomSpawn(92:5667) -> Sparkling Voice
 # 	Condition: When fire, wood, light, dark, heal, jammer, poison, mortal poison orbs are on the board (ai:100 rnd:0)
 # Spawn random 1 Water orbs, Deal 100% damage

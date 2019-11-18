@@ -58,7 +58,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Spawn random 1 Heal orbs + Bind 1 subs for 2 turns, Deal 120% damage
+  desc_en: Spawn random 1 Heal orbs + Bind 1 random subs for 2 turns, Deal 120% damage
   max_atk_pct: null
   name_en: Beach volleyball time! + ATTACK!!
   one_time: 0
@@ -153,7 +153,7 @@ records:
 # 	[0] ESRandomSpawn(92:3123) -> Beach volleyball time!
 # 	Spawn random 1 Heal orbs
 # 	[1] ESBindAttack(63:3126) -> ATTACK!!
-# 	Bind 1 subs for 2 turns, Deal 120% damage
+# 	Bind 1 random subs for 2 turns, Deal 120% damage
 # [17] ESBranchFlag(43:10) -> ESBranchFlag
 # Branch on flag & 16, target rnd 20
 # [18] ESFlagOperation(22:12) -> ESFlagOperation

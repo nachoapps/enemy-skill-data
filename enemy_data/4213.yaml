@@ -30,7 +30,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Bind 1 subs for 1 turns, Deal 100% damage
+  desc_en: Bind 1 random subs for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Chocolate Kiss
   one_time: 0
@@ -125,7 +125,7 @@ records:
 # counter + 1
 # [9] ESBindAttack(63:8987) -> Chocolate Kiss
 # 	Condition: 15% chance (ai:15 rnd:0)
-# Bind 1 subs for 1 turns, Deal 100% damage
+# Bind 1 random subs for 1 turns, Deal 100% damage
 # [10] ESAttackMultihit(15:8995) -> Sweet Combo
 # Deal 100% damage (2 hits, 50% each)
 # [11] ESSetCounter(25:15) -> ESSetCounter

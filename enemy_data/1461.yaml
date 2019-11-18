@@ -44,7 +44,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Bind 1 subs for 2 turns, Deal 50% damage
+  desc_en: Bind 1 random subs for 2 turns, Deal 50% damage
   max_atk_pct: 50
   name_en: Sacred Sacrifice
   one_time: 0
@@ -157,7 +157,7 @@ records:
 # [12] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b111
 # [13] ESBindAttack(63:1219) -> Sacred Sacrifice
-# Bind 1 subs for 2 turns, Deal 50% damage
+# Bind 1 random subs for 2 turns, Deal 50% damage
 # [14] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [15] ESBranchFlag(43:10) -> ESBranchFlag

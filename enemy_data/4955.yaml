@@ -46,7 +46,7 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Lock 8 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
-    Poison orbs + Bind 1 subs for 2 turns, Deal 90% damage
+    Poison orbs + Bind 1 random subs for 2 turns, Deal 90% damage
   max_atk_pct: null
   name_en: こごえさせてあげるっ！ + ぴゅう～～っ♪
   one_time: 0
@@ -165,7 +165,7 @@ records:
 # 	[0] ESOrbLock(94:11954) -> こごえさせてあげるっ！
 # 	Lock 8 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs
 # 	[1] ESBindAttack(63:11951) -> ぴゅう～～っ♪
-# 	Bind 1 subs for 2 turns, Deal 90% damage
+# 	Bind 1 random subs for 2 turns, Deal 90% damage
 # [13] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [14] ESInactivity(66:11955) -> 夏バテだわ…

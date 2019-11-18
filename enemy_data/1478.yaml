@@ -16,7 +16,7 @@ level: 5
 overrides: []
 records:
 - !SkillRecord
-  desc_en: Bind 1 subs for 1~2 turns, Deal 75% damage
+  desc_en: Bind 1 random subs for 1~2 turns, Deal 75% damage
   max_atk_pct: 75
   name_en: 剣ローカス
   one_time: 1
@@ -64,4 +64,4 @@ records:
 # Increase damage to 200% for the next 999 turns
 # [4] ESBindAttack(63:1362) -> 剣ローカス
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
-# Bind 1 subs for 1~2 turns, Deal 75% damage
+# Bind 1 random subs for 1~2 turns, Deal 75% damage

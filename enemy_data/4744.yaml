@@ -50,7 +50,7 @@ records:
   record_type_name: ACTION
   usage_pct: 25
 - !SkillRecord
-  desc_en: Change Random to Heal, Deal 90% damage + Bind 1 subs for 1 turns, Deal
+  desc_en: Change Random to Heal, Deal 90% damage + Bind 1 random subs for 1 turns, Deal
     60% damage
   max_atk_pct: null
   name_en: Noctilucence + Drought
@@ -58,7 +58,7 @@ records:
   record_type_name: ACTION
   usage_pct: 25
 - !SkillRecord
-  desc_en: Change Random 3 to Poison, Deal 65% damage + Bind 1 subs for 1 turns, Deal
+  desc_en: Change Random 3 to Poison, Deal 65% damage + Bind 1 random subs for 1 turns, Deal
     60% damage
   max_atk_pct: null
   name_en: Rotting Heat + Drought
@@ -95,7 +95,7 @@ records:
   record_type_name: ACTION
   usage_pct: 25
 - !SkillRecord
-  desc_en: Deal 80% damage (4 hits, 20% each) + Bind 1 subs for 1 turns, Deal 60%
+  desc_en: Deal 80% damage (4 hits, 20% each) + Bind 1 random subs for 1 turns, Deal 60%
     damage
   max_atk_pct: null
   name_en: Synchronized Burst + Drought
@@ -110,7 +110,7 @@ records:
   record_type_name: ACTION
   usage_pct: 25
 - !SkillRecord
-  desc_en: Player -75% HP + Bind 1 subs for 1 turns, Deal 60% damage
+  desc_en: Player -75% HP + Bind 1 random subs for 1 turns, Deal 60% damage
   max_atk_pct: null
   name_en: Deteri + Drought
   one_time: 0
@@ -177,13 +177,13 @@ records:
 # 	[0] ESOrbChangeAttack(48:10555) -> Noctilucence
 # 	Change Random to Heal, Deal 90% damage
 # 	[1] ESBindAttack(63:10554) -> Drought
-# 	Bind 1 subs for 1 turns, Deal 60% damage
+# 	Bind 1 random subs for 1 turns, Deal 60% damage
 # [10] SkillSet:
 # 	Condition: 25% chance (ai:0 rnd:25)
 # 	[0] ESPoisonChangeRandomAttack(64:10556) -> Rotting Heat
 # 	Change Random 3 to Poison, Deal 65% damage
 # 	[1] ESBindAttack(63:10554) -> Drought
-# 	Bind 1 subs for 1 turns, Deal 60% damage
+# 	Bind 1 random subs for 1 turns, Deal 60% damage
 # [11] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [12] ESBranchFlag(43:10) -> ESBranchFlag
@@ -210,7 +210,7 @@ records:
 # 	[0] ESAttackMultihit(15:10562) -> Synchronized Burst
 # 	Deal 80% damage (4 hits, 20% each)
 # 	[1] ESBindAttack(63:10554) -> Drought
-# 	Bind 1 subs for 1 turns, Deal 60% damage
+# 	Bind 1 random subs for 1 turns, Deal 60% damage
 # [19] SkillSet:
 # 	Condition: 25% chance (ai:0 rnd:25)
 # 	[0] ESGravity(50:10564) -> Deteri
@@ -222,7 +222,7 @@ records:
 # 	[0] ESGravity(50:10564) -> Deteri
 # 	Player -75% HP
 # 	[1] ESBindAttack(63:10554) -> Drought
-# 	Bind 1 subs for 1 turns, Deal 60% damage
+# 	Bind 1 random subs for 1 turns, Deal 60% damage
 # [21] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [22] SkillSet:

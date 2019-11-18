@@ -65,7 +65,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Bind 1 subs for 4 turns, Deal 50% damage
+  desc_en: Bind 1 random subs for 4 turns, Deal 50% damage
   max_atk_pct: 50
   name_en: Time Mastery
   one_time: 0
@@ -129,6 +129,6 @@ records:
 # [15] ESFlagOperation(24:14) -> ESFlagOperation
 # flag UNSET 0b110
 # [16] ESBindAttack(63:1990) -> Time Mastery
-# Bind 1 subs for 4 turns, Deal 50% damage
+# Bind 1 random subs for 4 turns, Deal 50% damage
 # [17] ESResolve(73:8227) -> Thoth Resolve
 # Survive attacks with 1 HP when HP > 80%

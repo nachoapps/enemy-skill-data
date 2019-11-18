@@ -72,7 +72,7 @@ records:
   usage_pct: 16
 - !SkillRecord
   desc_en: Absorb Fire, Light damage for 1 turns + Change Random to Fire, Deal 100%
-    damage + Bind 1 subs for 1 turns, Deal 50% damage
+    damage + Bind 1 random subs for 1 turns, Deal 50% damage
   max_atk_pct: null
   name_en: Blue Sky Rainbow + Prismatic Thunder + Strand Sacrifice
   one_time: 0
@@ -80,7 +80,7 @@ records:
   usage_pct: 8
 - !SkillRecord
   desc_en: Absorb Fire, Light damage for 1 turns + Change Random to Light, Deal 100%
-    damage + Bind 1 subs for 1 turns, Deal 50% damage
+    damage + Bind 1 random subs for 1 turns, Deal 50% damage
   max_atk_pct: null
   name_en: Blue Sky Rainbow + Prismatic Thunder + Strand Sacrifice
   one_time: 0
@@ -88,7 +88,7 @@ records:
   usage_pct: 8
 - !SkillRecord
   desc_en: Absorb Fire, Dark damage for 1 turns + Change Random to Fire, Deal 100%
-    damage + Bind 1 subs for 1 turns, Deal 50% damage
+    damage + Bind 1 random subs for 1 turns, Deal 50% damage
   max_atk_pct: null
   name_en: Blue Sky Rainbow + Prismatic Thunder + Strand Sacrifice
   one_time: 0
@@ -96,7 +96,7 @@ records:
   usage_pct: 8
 - !SkillRecord
   desc_en: Absorb Fire, Dark damage for 1 turns + Change Random to Dark, Deal 100%
-    damage + Bind 1 subs for 1 turns, Deal 50% damage
+    damage + Bind 1 random subs for 1 turns, Deal 50% damage
   max_atk_pct: null
   name_en: Blue Sky Rainbow + Prismatic Thunder + Strand Sacrifice
   one_time: 0
@@ -104,7 +104,7 @@ records:
   usage_pct: 8
 - !SkillRecord
   desc_en: Absorb Water, Light damage for 1 turns + Change Random to Water, Deal 100%
-    damage + Bind 1 subs for 1 turns, Deal 50% damage
+    damage + Bind 1 random subs for 1 turns, Deal 50% damage
   max_atk_pct: null
   name_en: Blue Sky Rainbow + Prismatic Thunder + Strand Sacrifice
   one_time: 0
@@ -112,7 +112,7 @@ records:
   usage_pct: 9
 - !SkillRecord
   desc_en: Absorb Water, Light damage for 1 turns + Change Random to Light, Deal 100%
-    damage + Bind 1 subs for 1 turns, Deal 50% damage
+    damage + Bind 1 random subs for 1 turns, Deal 50% damage
   max_atk_pct: null
   name_en: Blue Sky Rainbow + Prismatic Thunder + Strand Sacrifice
   one_time: 0
@@ -120,7 +120,7 @@ records:
   usage_pct: 9
 - !SkillRecord
   desc_en: Absorb Water, Dark damage for 1 turns + Change Random to Water, Deal 100%
-    damage + Bind 1 subs for 1 turns, Deal 50% damage
+    damage + Bind 1 random subs for 1 turns, Deal 50% damage
   max_atk_pct: null
   name_en: Blue Sky Rainbow + Prismatic Thunder + Strand Sacrifice
   one_time: 0
@@ -128,7 +128,7 @@ records:
   usage_pct: 9
 - !SkillRecord
   desc_en: Absorb Water, Dark damage for 1 turns + Change Random to Dark, Deal 100%
-    damage + Bind 1 subs for 1 turns, Deal 50% damage
+    damage + Bind 1 random subs for 1 turns, Deal 50% damage
   max_atk_pct: null
   name_en: Blue Sky Rainbow + Prismatic Thunder + Strand Sacrifice
   one_time: 0
@@ -136,7 +136,7 @@ records:
   usage_pct: 9
 - !SkillRecord
   desc_en: Absorb Wood, Light damage for 1 turns + Change Random to Wood, Deal 100%
-    damage + Bind 1 subs for 1 turns, Deal 50% damage
+    damage + Bind 1 random subs for 1 turns, Deal 50% damage
   max_atk_pct: null
   name_en: Blue Sky Rainbow + Prismatic Thunder + Strand Sacrifice
   one_time: 0
@@ -144,7 +144,7 @@ records:
   usage_pct: 8
 - !SkillRecord
   desc_en: Absorb Wood, Light damage for 1 turns + Change Random to Light, Deal 100%
-    damage + Bind 1 subs for 1 turns, Deal 50% damage
+    damage + Bind 1 random subs for 1 turns, Deal 50% damage
   max_atk_pct: null
   name_en: Blue Sky Rainbow + Prismatic Thunder + Strand Sacrifice
   one_time: 0
@@ -152,7 +152,7 @@ records:
   usage_pct: 8
 - !SkillRecord
   desc_en: Absorb Wood, Dark damage for 1 turns + Change Random to Wood, Deal 100%
-    damage + Bind 1 subs for 1 turns, Deal 50% damage
+    damage + Bind 1 random subs for 1 turns, Deal 50% damage
   max_atk_pct: null
   name_en: Blue Sky Rainbow + Prismatic Thunder + Strand Sacrifice
   one_time: 0
@@ -160,7 +160,7 @@ records:
   usage_pct: 8
 - !SkillRecord
   desc_en: Absorb Wood, Dark damage for 1 turns + Change Random to Dark, Deal 100%
-    damage + Bind 1 subs for 1 turns, Deal 50% damage
+    damage + Bind 1 random subs for 1 turns, Deal 50% damage
   max_atk_pct: null
   name_en: Blue Sky Rainbow + Prismatic Thunder + Strand Sacrifice
   one_time: 0
@@ -233,7 +233,7 @@ records:
   record_type_name: ACTION
   usage_pct: 100
 - !SkillRecord
-  desc_en: Change Random to Jammer, Deal 150% damage + Bind 1 subs for 1 turns, Deal
+  desc_en: Change Random to Jammer, Deal 150% damage + Bind 1 random subs for 1 turns, Deal
     50% damage + Player -99% HP
   max_atk_pct: null
   name_en: Rainbow Blank + Strand Sacrifice + Ark Impact
@@ -394,7 +394,7 @@ records:
 # 	[1] ESOrbChangeAttack(48:4165) -> Prismatic Thunder
 # 	Change Random to Fire, Deal 100% damage
 # 	[2] ESBindAttack(63:4170) -> Strand Sacrifice
-# 	Bind 1 subs for 1 turns, Deal 50% damage
+# 	Bind 1 random subs for 1 turns, Deal 50% damage
 # [18] SkillSet:
 # 	Condition: 8% chance (ai:0 rnd:8)
 # 	[0] ESAbsorbAttribute(53:4153) -> Blue Sky Rainbow
@@ -402,7 +402,7 @@ records:
 # 	[1] ESOrbChangeAttack(48:4168) -> Prismatic Thunder
 # 	Change Random to Light, Deal 100% damage
 # 	[2] ESBindAttack(63:4170) -> Strand Sacrifice
-# 	Bind 1 subs for 1 turns, Deal 50% damage
+# 	Bind 1 random subs for 1 turns, Deal 50% damage
 # [19] SkillSet:
 # 	Condition: 8% chance (ai:0 rnd:8)
 # 	[0] ESAbsorbAttribute(53:4154) -> Blue Sky Rainbow
@@ -410,7 +410,7 @@ records:
 # 	[1] ESOrbChangeAttack(48:4165) -> Prismatic Thunder
 # 	Change Random to Fire, Deal 100% damage
 # 	[2] ESBindAttack(63:4170) -> Strand Sacrifice
-# 	Bind 1 subs for 1 turns, Deal 50% damage
+# 	Bind 1 random subs for 1 turns, Deal 50% damage
 # [20] SkillSet:
 # 	Condition: 8% chance (ai:0 rnd:8)
 # 	[0] ESAbsorbAttribute(53:4154) -> Blue Sky Rainbow
@@ -418,7 +418,7 @@ records:
 # 	[1] ESOrbChangeAttack(48:4169) -> Prismatic Thunder
 # 	Change Random to Dark, Deal 100% damage
 # 	[2] ESBindAttack(63:4170) -> Strand Sacrifice
-# 	Bind 1 subs for 1 turns, Deal 50% damage
+# 	Bind 1 random subs for 1 turns, Deal 50% damage
 # [21] SkillSet:
 # 	Condition: 9% chance (ai:0 rnd:9)
 # 	[0] ESAbsorbAttribute(53:4155) -> Blue Sky Rainbow
@@ -426,7 +426,7 @@ records:
 # 	[1] ESOrbChangeAttack(48:4166) -> Prismatic Thunder
 # 	Change Random to Water, Deal 100% damage
 # 	[2] ESBindAttack(63:4170) -> Strand Sacrifice
-# 	Bind 1 subs for 1 turns, Deal 50% damage
+# 	Bind 1 random subs for 1 turns, Deal 50% damage
 # [22] SkillSet:
 # 	Condition: 9% chance (ai:0 rnd:9)
 # 	[0] ESAbsorbAttribute(53:4155) -> Blue Sky Rainbow
@@ -434,7 +434,7 @@ records:
 # 	[1] ESOrbChangeAttack(48:4168) -> Prismatic Thunder
 # 	Change Random to Light, Deal 100% damage
 # 	[2] ESBindAttack(63:4170) -> Strand Sacrifice
-# 	Bind 1 subs for 1 turns, Deal 50% damage
+# 	Bind 1 random subs for 1 turns, Deal 50% damage
 # [23] SkillSet:
 # 	Condition: 9% chance (ai:0 rnd:9)
 # 	[0] ESAbsorbAttribute(53:4156) -> Blue Sky Rainbow
@@ -442,7 +442,7 @@ records:
 # 	[1] ESOrbChangeAttack(48:4166) -> Prismatic Thunder
 # 	Change Random to Water, Deal 100% damage
 # 	[2] ESBindAttack(63:4170) -> Strand Sacrifice
-# 	Bind 1 subs for 1 turns, Deal 50% damage
+# 	Bind 1 random subs for 1 turns, Deal 50% damage
 # [24] SkillSet:
 # 	Condition: 9% chance (ai:0 rnd:9)
 # 	[0] ESAbsorbAttribute(53:4156) -> Blue Sky Rainbow
@@ -450,7 +450,7 @@ records:
 # 	[1] ESOrbChangeAttack(48:4169) -> Prismatic Thunder
 # 	Change Random to Dark, Deal 100% damage
 # 	[2] ESBindAttack(63:4170) -> Strand Sacrifice
-# 	Bind 1 subs for 1 turns, Deal 50% damage
+# 	Bind 1 random subs for 1 turns, Deal 50% damage
 # [25] SkillSet:
 # 	Condition: 8% chance (ai:0 rnd:8)
 # 	[0] ESAbsorbAttribute(53:4157) -> Blue Sky Rainbow
@@ -458,7 +458,7 @@ records:
 # 	[1] ESOrbChangeAttack(48:4167) -> Prismatic Thunder
 # 	Change Random to Wood, Deal 100% damage
 # 	[2] ESBindAttack(63:4170) -> Strand Sacrifice
-# 	Bind 1 subs for 1 turns, Deal 50% damage
+# 	Bind 1 random subs for 1 turns, Deal 50% damage
 # [26] SkillSet:
 # 	Condition: 8% chance (ai:0 rnd:8)
 # 	[0] ESAbsorbAttribute(53:4157) -> Blue Sky Rainbow
@@ -466,7 +466,7 @@ records:
 # 	[1] ESOrbChangeAttack(48:4168) -> Prismatic Thunder
 # 	Change Random to Light, Deal 100% damage
 # 	[2] ESBindAttack(63:4170) -> Strand Sacrifice
-# 	Bind 1 subs for 1 turns, Deal 50% damage
+# 	Bind 1 random subs for 1 turns, Deal 50% damage
 # [27] SkillSet:
 # 	Condition: 8% chance (ai:0 rnd:8)
 # 	[0] ESAbsorbAttribute(53:4158) -> Blue Sky Rainbow
@@ -474,7 +474,7 @@ records:
 # 	[1] ESOrbChangeAttack(48:4167) -> Prismatic Thunder
 # 	Change Random to Wood, Deal 100% damage
 # 	[2] ESBindAttack(63:4170) -> Strand Sacrifice
-# 	Bind 1 subs for 1 turns, Deal 50% damage
+# 	Bind 1 random subs for 1 turns, Deal 50% damage
 # [28] SkillSet:
 # 	Condition: 8% chance (ai:0 rnd:8)
 # 	[0] ESAbsorbAttribute(53:4158) -> Blue Sky Rainbow
@@ -482,14 +482,14 @@ records:
 # 	[1] ESOrbChangeAttack(48:4169) -> Prismatic Thunder
 # 	Change Random to Dark, Deal 100% damage
 # 	[2] ESBindAttack(63:4170) -> Strand Sacrifice
-# 	Bind 1 subs for 1 turns, Deal 50% damage
+# 	Bind 1 random subs for 1 turns, Deal 50% damage
 # [29] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [30] SkillSet:
 # 	[0] ESOrbChangeAttack(48:4183) -> Rainbow Blank
 # 	Change Random to Jammer, Deal 150% damage
 # 	[1] ESBindAttack(63:4170) -> Strand Sacrifice
-# 	Bind 1 subs for 1 turns, Deal 50% damage
+# 	Bind 1 random subs for 1 turns, Deal 50% damage
 # 	[2] ESGravity(50:1218) -> Ark Impact
 # 	Player -99% HP
 # [31] ESEndPath(36:26) -> ESEndPath

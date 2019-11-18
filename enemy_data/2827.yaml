@@ -52,7 +52,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Bind 1 subs for 3 turns, Deal 100% damage
+  desc_en: Bind 1 random subs for 3 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Kryptonite Gas Grenade
   one_time: 2
@@ -105,7 +105,7 @@ records:
 # Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Deal 40% damage
 # [7] ESBindAttack(63:4121) -> Kryptonite Gas Grenade
 # 	Condition: When < 30% hp , one-time use (ai:100 rnd:0) (one-time: 2)
-# Bind 1 subs for 3 turns, Deal 100% damage
+# Bind 1 random subs for 3 turns, Deal 100% damage
 # [8] ESColumnSpawnMulti(77:4123) -> Well, here I am!
 # 	Condition: When < 15% hp , one-time use (ai:100 rnd:0) (one-time: 1)
 # Change 3rd, 4th column to Jammer orbs, Deal 250% damage

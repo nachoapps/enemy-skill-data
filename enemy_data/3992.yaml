@@ -81,7 +81,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Do nothing + Bind 1 subs for 4 turns, Deal 150% damage
+  desc_en: Do nothing + Bind 1 random subs for 4 turns, Deal 150% damage
   max_atk_pct: null
   name_en: スナップを効かせている + ジャック・オー・ランタン
   one_time: 0
@@ -196,7 +196,7 @@ records:
 # 	[0] ESInactivity(66:8366) -> スナップを効かせている
 # 	Do nothing
 # 	[1] ESBindAttack(63:8367) -> ジャック・オー・ランタン
-# 	Bind 1 subs for 4 turns, Deal 150% damage
+# 	Bind 1 random subs for 4 turns, Deal 150% damage
 # [17] SkillSet:
 # 	Condition: 16% chance (ai:0 rnd:16)
 # 	[0] ESInactivity(66:8366) -> スナップを効かせている

@@ -39,7 +39,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Voids status ailments for 999 turns + Bind 1 subs for 4 turns, Deal 150%
+  desc_en: Voids status ailments for 999 turns + Bind 1 random subs for 4 turns, Deal 150%
     damage
   max_atk_pct: null
   name_en: Bouclier du Vent + Embrassement du Vent
@@ -262,7 +262,7 @@ records:
 # 	[0] ESStatusShield(20:5977) -> Bouclier du Vent
 # 	Voids status ailments for 999 turns
 # 	[1] ESBindAttack(63:5978) -> Embrassement du Vent
-# 	Bind 1 subs for 4 turns, Deal 150% damage
+# 	Bind 1 random subs for 4 turns, Deal 150% damage
 # [7] ESCloud(104:5980) -> Siège de Brouillard
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 32)
 # 2x2 cloud appear for 1 turns at random location, Deal 140% damage

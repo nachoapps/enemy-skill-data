@@ -44,7 +44,7 @@ records:
   record_type_name: ACTION
   usage_pct: 33
 - !SkillRecord
-  desc_en: Bind 1 subs for 1 turns, Deal 100% damage
+  desc_en: Bind 1 random subs for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: 俺の勝負は誰にも邪魔させない
   one_time: 0
@@ -101,6 +101,6 @@ records:
 # Fire, Dark skyfall +20% for 3 turns
 # [10] ESBindAttack(63:11022) -> 俺の勝負は誰にも邪魔させない
 # 	Condition: 34% chance (ai:0 rnd:34)
-# Bind 1 subs for 1 turns, Deal 100% damage
+# Bind 1 random subs for 1 turns, Deal 100% damage
 # [11] ESEndPath(36:26) -> ESEndPath
 # end_turn

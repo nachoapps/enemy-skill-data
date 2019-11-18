@@ -38,7 +38,7 @@ records:
   record_type_name: ACTION
   usage_pct: 30
 - !SkillRecord
-  desc_en: Change 3rd row to Wood orbs, Deal 40% damage + Bind 1 subs for 1~2 turns,
+  desc_en: Change 3rd row to Wood orbs, Deal 40% damage + Bind 1 random subs for 1~2 turns,
     Deal 40% damage
   max_atk_pct: null
   name_en: Heeeey!! + Freeze Breath
@@ -127,7 +127,7 @@ records:
 # 	[0] ESRowSpawnMulti(79:2248) -> Heeeey!!
 # 	Change 3rd row to Wood orbs, Deal 40% damage
 # 	[1] ESBindAttack(63:2249) -> Freeze Breath
-# 	Bind 1 subs for 1~2 turns, Deal 40% damage
+# 	Bind 1 random subs for 1~2 turns, Deal 40% damage
 # [10] SkillSet:
 # 	Condition: 30% chance (ai:0 rnd:30)
 # 	[0] ESRowSpawnMulti(79:2248) -> Heeeey!!

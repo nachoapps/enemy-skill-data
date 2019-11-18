@@ -37,7 +37,7 @@ records:
   record_type_name: ACTION
   usage_pct: 70
 - !SkillRecord
-  desc_en: Bind 1 subs for 3 turns, Deal 40% damage
+  desc_en: Bind 1 random subs for 3 turns, Deal 40% damage
   max_atk_pct: 40
   name_en: Tie Up
   one_time: 1
@@ -79,7 +79,7 @@ records:
   record_type_name: ACTION
   usage_pct: 70
 - !SkillRecord
-  desc_en: Bind 1 subs for 3 turns, Deal 40% damage
+  desc_en: Bind 1 random subs for 3 turns, Deal 40% damage
   max_atk_pct: 40
   name_en: Tie Up
   one_time: 1
@@ -145,7 +145,7 @@ records:
 # Change Dark to Light, Deal 100% damage
 # [9] ESBindAttack(63:932) -> Tie Up
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
-# Bind 1 subs for 3 turns, Deal 40% damage
+# Bind 1 random subs for 3 turns, Deal 40% damage
 # [10] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [11] ESOrbChangeAttack(48:933) -> Arboreal Queen's Allure
@@ -153,4 +153,4 @@ records:
 # Change Fire to Wood, Deal 70% damage
 # [12] ESBindAttack(63:932) -> Tie Up
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
-# Bind 1 subs for 3 turns, Deal 40% damage
+# Bind 1 random subs for 3 turns, Deal 40% damage

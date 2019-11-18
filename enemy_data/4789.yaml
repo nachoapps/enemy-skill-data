@@ -16,7 +16,7 @@ level: 4
 overrides: []
 records:
 - !SkillRecord
-  desc_en: Bind 1 subs for 1 turns, Deal 100% damage
+  desc_en: Bind 1 random subs for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Great, right?
   one_time: 0
@@ -86,7 +86,7 @@ records:
 # Branch on hp < 20, target rnd 12
 # [5] ESBindAttack(63:10860) -> Great, right?
 # 	Condition: 50% chance (ai:0 rnd:50)
-# Bind 1 subs for 1 turns, Deal 100% damage
+# Bind 1 random subs for 1 turns, Deal 100% damage
 # [6] ESBlindStickyRandom(97:10861) -> How many scoops?
 # 	Condition: 50% chance (ai:0 rnd:50)
 # Blind random 1~9 orbs for 1 turns, Deal 100% damage

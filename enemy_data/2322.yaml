@@ -130,7 +130,7 @@ records:
   usage_pct: 12
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
-    Deal 100% damage + Bind 1 subs for 4 turns, Deal 100% damage
+    Deal 100% damage + Bind 1 random subs for 4 turns, Deal 100% damage
   max_atk_pct: null
   name_en: Octabreath + Crushing Tide
   one_time: 0
@@ -262,7 +262,7 @@ records:
   usage_pct: 12
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
-    Deal 100% damage + Bind 1 subs for 4 turns, Deal 100% damage
+    Deal 100% damage + Bind 1 random subs for 4 turns, Deal 100% damage
   max_atk_pct: null
   name_en: Octabreath + Crushing Tide
   one_time: 0
@@ -350,7 +350,7 @@ records:
   usage_pct: 12
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
-    Deal 100% damage + Bind 1 subs for 4 turns, Deal 100% damage
+    Deal 100% damage + Bind 1 random subs for 4 turns, Deal 100% damage
   max_atk_pct: null
   name_en: Octabreath + Crushing Tide
   one_time: 0
@@ -494,7 +494,7 @@ records:
 # 	[0] ESBoardChangeAttackBits(85:6028) -> Octabreath
 # 	Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Deal 100% damage
 # 	[1] ESBindAttack(63:6036) -> Crushing Tide
-# 	Bind 1 subs for 4 turns, Deal 100% damage
+# 	Bind 1 random subs for 4 turns, Deal 100% damage
 # [27] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [28] ESBranchFlag(43:10) -> ESBranchFlag

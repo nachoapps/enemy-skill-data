@@ -45,7 +45,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Bind 1 subs for 2 turns, Deal 75% damage
+  desc_en: Bind 1 random subs for 2 turns, Deal 75% damage
   max_atk_pct: 75
   name_en: Thorn Whip
   one_time: 0
@@ -131,4 +131,4 @@ records:
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
 # Change Random to Heal, Deal 100% damage
 # [15] ESBindAttack(63:941) -> Thorn Whip
-# Bind 1 subs for 2 turns, Deal 75% damage
+# Bind 1 random subs for 2 turns, Deal 75% damage

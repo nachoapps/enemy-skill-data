@@ -77,7 +77,7 @@ records:
   record_type_name: ACTION
   usage_pct: 100
 - !SkillRecord
-  desc_en: Bind 1 subs for 2 turns, Deal 80% damage
+  desc_en: Bind 1 random subs for 2 turns, Deal 80% damage
   max_atk_pct: 80
   name_en: Electrocute
   one_time: 0
@@ -139,7 +139,7 @@ records:
 # Branch on hp > 50, target rnd 14
 # [11] ESBindAttack(63:2139) -> Electrocute
 # 	Condition: 50% chance (ai:50 rnd:0)
-# Bind 1 subs for 2 turns, Deal 80% damage
+# Bind 1 random subs for 2 turns, Deal 80% damage
 # [12] ESAttackMultihit(15:2137) -> Jump
 # 	Condition: 50% chance (ai:50 rnd:0)
 # Deal 120% damage

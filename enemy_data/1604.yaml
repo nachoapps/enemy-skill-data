@@ -37,7 +37,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Bind 1 subs for 2~3 turns, Deal 50% damage
+  desc_en: Bind 1 random subs for 2~3 turns, Deal 50% damage
   max_atk_pct: 50
   name_en: '*****'
   one_time: 2
@@ -100,7 +100,7 @@ records:
   record_type_name: ACTION
   usage_pct: 75
 - !SkillRecord
-  desc_en: Bind 1 subs for 2~3 turns, Deal 50% damage
+  desc_en: Bind 1 random subs for 2~3 turns, Deal 50% damage
   max_atk_pct: 50
   name_en: '*****'
   one_time: 2
@@ -149,7 +149,7 @@ records:
   record_type_name: ACTION
   usage_pct: 75
 - !SkillRecord
-  desc_en: Bind 1 subs for 2~3 turns, Deal 50% damage
+  desc_en: Bind 1 random subs for 2~3 turns, Deal 50% damage
   max_atk_pct: 50
   name_en: '*****'
   one_time: 2
@@ -216,7 +216,7 @@ records:
 # Deal 120% damage (3 hits, 40% each)
 # [6] ESBindAttack(63:1499) -> *****
 # 	Condition: When < 80% hp , one-time use (ai:100 rnd:0) (one-time: 2)
-# Bind 1 subs for 2~3 turns, Deal 50% damage
+# Bind 1 random subs for 2~3 turns, Deal 50% damage
 # [7] ESOrbChangeAttack(48:1498) -> *****
 # Change Random to Jammer, Deal 75% damage
 # [8] ESEndPath(36:26) -> ESEndPath

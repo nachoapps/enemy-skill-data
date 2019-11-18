@@ -40,7 +40,7 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Lock 1 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
-    Poison orbs + Do nothing + Bind 1 subs for 1 turns, Deal 95% damage
+    Poison orbs + Do nothing + Bind 1 random subs for 1 turns, Deal 95% damage
   max_atk_pct: null
   name_en: Haru Kaze + Yoisho! + Kashinfu
   one_time: 0
@@ -146,7 +146,7 @@ records:
 # 	[1] ESInactivity(66:12625) -> Yoisho!
 # 	Do nothing
 # 	[2] ESBindAttack(63:12517) -> Kashinfu
-# 	Bind 1 subs for 1 turns, Deal 95% damage
+# 	Bind 1 random subs for 1 turns, Deal 95% damage
 # [7] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [8] SkillSet:

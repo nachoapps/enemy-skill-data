@@ -64,7 +64,7 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Change 3rd column to Light orbs, 4th column to Light orbs, Deal 12000%
-    damage + Bind 1 subs for 1~2 turns, Deal 10000% damage
+    damage + Bind 1 random subs for 1~2 turns, Deal 10000% damage
   max_atk_pct: null
   name_en: Lightning of God + Diabolic Embrace
   one_time: 0
@@ -207,7 +207,7 @@ records:
 # 	[0] ESColumnSpawnMulti(77:1905) -> Lightning of God
 # 	Change 3rd column to Light orbs, 4th column to Light orbs, Deal 12000% damage
 # 	[1] ESBindAttack(63:1916) -> Diabolic Embrace
-# 	Bind 1 subs for 1~2 turns, Deal 10000% damage
+# 	Bind 1 random subs for 1~2 turns, Deal 10000% damage
 # [14] SkillSet:
 # 	Condition: 20% chance (ai:0 rnd:20)
 # 	[0] ESRowSpawnMulti(79:1906) -> Zeus Blade

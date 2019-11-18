@@ -30,7 +30,7 @@ records:
   record_type_name: ACTION
   usage_pct: 50
 - !SkillRecord
-  desc_en: Bind 1 subs for 1~2 turns, Deal 80% damage
+  desc_en: Bind 1 random subs for 1~2 turns, Deal 80% damage
   max_atk_pct: 80
   name_en: Sunset Cage
   one_time: 0
@@ -121,7 +121,7 @@ records:
 # 	Condition: One-time use (ai:50 rnd:0) (one-time: 1)
 # Change Heal to Wood, Deal 80% damage
 # [11] ESBindAttack(63:10870) -> Sunset Cage
-# Bind 1 subs for 1~2 turns, Deal 80% damage
+# Bind 1 random subs for 1~2 turns, Deal 80% damage
 # [12] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [13] ESBranchFlag(43:10) -> ESBranchFlag

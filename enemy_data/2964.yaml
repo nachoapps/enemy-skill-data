@@ -23,7 +23,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Bind 1 subs for 2 turns, Deal 70% damage
+  desc_en: Bind 1 random subs for 2 turns, Deal 70% damage
   max_atk_pct: 70
   name_en: angel cosmos
   one_time: 3
@@ -61,7 +61,7 @@ records:
 # end_turn
 # [3] ESBindAttack(63:4715) -> angel cosmos
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 3)
-# Bind 1 subs for 2 turns, Deal 70% damage
+# Bind 1 random subs for 2 turns, Deal 70% damage
 # [4] ESRandomSpawn(92:4714) -> Flower Star
 # 	Condition: When fire, water, wood, dark, heal, jammer, poison, mortal poison orbs are on the board (ai:100 rnd:0)
 # Spawn random 1 Light orbs, Deal 110% damage

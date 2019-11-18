@@ -65,7 +65,7 @@ records:
   record_type_name: ACTION
   usage_pct: 30
 - !SkillRecord
-  desc_en: Bind 1 subs for 1~2 turns, Deal 50% damage
+  desc_en: Bind 1 random subs for 1~2 turns, Deal 50% damage
   max_atk_pct: 50
   name_en: Tentacle Cage
   one_time: 1
@@ -169,7 +169,7 @@ records:
 # Change Heal to Wood, Deal 50% damage
 # [10] ESBindAttack(63:1737) -> Tentacle Cage
 # 	Condition: When < 75% hp , one-time use (ai:100 rnd:0) (one-time: 1)
-# Bind 1 subs for 1~2 turns, Deal 50% damage
+# Bind 1 random subs for 1~2 turns, Deal 50% damage
 # [11] ESAttackMultihit(15:10930) -> Pentacle of the Demonic Sword
 # Deal 60% damage (2 hits, 30% each)
 # [12] ESBranchFlag(43:10) -> ESBranchFlag

@@ -58,7 +58,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Bind 1 subs for 1~2 turns, Deal 100% damage
+  desc_en: Bind 1 random subs for 1~2 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Dragon Lord's Claw
   one_time: 0
@@ -142,7 +142,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Bind 1 subs for 1~2 turns, Deal 100% damage
+  desc_en: Bind 1 random subs for 1~2 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Dragon Lord's Claw
   one_time: 0
@@ -243,7 +243,7 @@ records:
 # [15] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b111
 # [16] ESBindAttack(63:1427) -> Dragon Lord's Claw
-# Bind 1 subs for 1~2 turns, Deal 100% damage
+# Bind 1 random subs for 1~2 turns, Deal 100% damage
 # [17] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [18] ESFlagOperation(24:14) -> ESFlagOperation

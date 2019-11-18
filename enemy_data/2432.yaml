@@ -23,7 +23,7 @@ records:
   record_type_name: PREEMPT
   usage_pct: 100
 - !SkillRecord
-  desc_en: Bind 1 subs for 2 turns, Deal 50% damage
+  desc_en: Bind 1 random subs for 2 turns, Deal 50% damage
   max_atk_pct: 50
   name_en: Play-Bite
   one_time: 0
@@ -100,7 +100,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Bind 1 subs for 2 turns, Deal 50% damage
+  desc_en: Bind 1 random subs for 2 turns, Deal 50% damage
   max_atk_pct: 50
   name_en: Play-Bite
   one_time: 0
@@ -177,7 +177,7 @@ records:
 # Player -100% HP
 # [11] ESBindAttack(63:3423) -> Play-Bite
 # 	Condition: 20% chance (ai:0 rnd:20)
-# Bind 1 subs for 2 turns, Deal 50% damage
+# Bind 1 random subs for 2 turns, Deal 50% damage
 # [12] ESAttackMultihit(15:3426) -> Slash Woof
 # 	Condition: 35% chance (ai:0 rnd:35)
 # Deal 110% damage

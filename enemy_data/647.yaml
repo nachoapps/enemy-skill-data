@@ -51,7 +51,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Bind 1 subs for 1 turns, Deal 100% damage
+  desc_en: Bind 1 random subs for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Wave of Fear
   one_time: 0
@@ -92,4 +92,4 @@ records:
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 3)
 # Deal 1080% damage (6 hits, 180% each)
 # [4] ESBindAttack(63:1399) -> Wave of Fear
-# Bind 1 subs for 1 turns, Deal 100% damage
+# Bind 1 random subs for 1 turns, Deal 100% damage

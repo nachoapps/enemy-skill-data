@@ -149,7 +149,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Bind 1 subs for 5 turns, Deal 160% damage
+  desc_en: Bind 1 random subs for 5 turns, Deal 160% damage
   max_atk_pct: 160
   name_en: Sun Jail
   one_time: 1
@@ -211,7 +211,7 @@ records:
 # Player -99% HP
 # [6] ESBindAttack(63:5077) -> Sun Jail
 # 	Condition: When < 50% hp , one-time use (ai:100 rnd:0) (one-time: 1)
-# Bind 1 subs for 5 turns, Deal 160% damage
+# Bind 1 random subs for 5 turns, Deal 160% damage
 # [7] ESBranchFlag(43:10) -> ESBranchFlag
 # Branch on flag & 1, target rnd 10
 # [8] ESFlagOperation(22:12) -> ESFlagOperation
