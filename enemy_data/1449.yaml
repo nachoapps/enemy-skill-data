@@ -44,7 +44,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Bind 3 subs for 1~3 turns, Deal 50% damage
+  desc_en: Bind 3 random subs for 1~3 turns, Deal 50% damage
   max_atk_pct: 50
   name_en: 六道輪廻
   one_time: 1
@@ -129,7 +129,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Bind 3 subs for 1~3 turns, Deal 50% damage
+  desc_en: Bind 3 random subs for 1~3 turns, Deal 50% damage
   max_atk_pct: 50
   name_en: 六道輪廻
   one_time: 1
@@ -203,7 +203,7 @@ records:
 # Branch on hp < 50, target rnd 10
 # [7] ESBindAttack(63:1189) -> 六道輪廻
 # 	Condition: When < 75% hp , one-time use (ai:100 rnd:0) (one-time: 1)
-# Bind 3 subs for 1~3 turns, Deal 50% damage
+# Bind 3 random subs for 1~3 turns, Deal 50% damage
 # [8] ESAttackMultihit(15:1188) -> 天魔降伏!!
 # Deal 100% damage
 # [9] ESEndPath(36:26) -> ESEndPath

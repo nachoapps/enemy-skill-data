@@ -58,7 +58,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Bind 3 subs for 1~2 turns, Deal 75% damage
+  desc_en: Bind 3 random subs for 1~2 turns, Deal 75% damage
   max_atk_pct: 75
   name_en: Deucalion Flood
   one_time: 0
@@ -148,6 +148,6 @@ records:
 # Deal 175% damage (5 hits, 35% each)
 # [14] ESBindAttack(63:1453) -> Deucalion Flood
 # 	Condition: 25% chance when < 75% hp (ai:25 rnd:0)
-# Bind 3 subs for 1~2 turns, Deal 75% damage
+# Bind 3 random subs for 1~2 turns, Deal 75% damage
 # [15] ESOrbChangeAttack(48:1454) -> Crystal Bullet
 # Change Random to Water, Deal 100% damage

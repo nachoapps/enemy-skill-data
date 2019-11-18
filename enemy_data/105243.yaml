@@ -16,7 +16,7 @@ level: 4
 overrides: []
 records:
 - !SkillRecord
-  desc_en: Bind 4 subs for 2~3 turns, Deal 90% damage (Preemptive)
+  desc_en: Bind 4 random subs for 2~3 turns, Deal 90% damage (Preemptive)
   max_atk_pct: 90
   name_en: I will be
   one_time: 2
@@ -149,7 +149,7 @@ records:
 # end_turn
 # [4] ESBindAttack(63:13258) -> I will be
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
-# Bind 4 subs for 2~3 turns, Deal 90% damage
+# Bind 4 random subs for 2~3 turns, Deal 90% damage
 # [5] ESBranchHP(28:18) -> ESBranchHP
 # Branch on hp < 20, target rnd 16
 # [6] ESBranchHP(29:19) -> ESBranchHP

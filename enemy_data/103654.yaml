@@ -37,7 +37,7 @@ records:
   record_type_name: ACTION
   usage_pct: 25
 - !SkillRecord
-  desc_en: Bind 2 subs for 1 turns, Deal 100% damage
+  desc_en: Bind 2 random subs for 1 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Thunderbolt
   one_time: 0
@@ -86,7 +86,7 @@ records:
   record_type_name: ACTION
   usage_pct: 25
 - !SkillRecord
-  desc_en: Bind 2 subs for 2 turns, Deal 100% damage
+  desc_en: Bind 2 random subs for 2 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: Thunderbolt
   one_time: 0
@@ -155,7 +155,7 @@ records:
 # Bind friend leader for 1 turns, Deal 100% damage
 # [13] ESBindAttack(63:7247) -> Thunderbolt
 # 	Condition: 25% chance (ai:0 rnd:25)
-# Bind 2 subs for 1 turns, Deal 100% damage
+# Bind 2 random subs for 1 turns, Deal 100% damage
 # [14] ESAttackMultihit(15:7244) -> Back Kick
 # 	Condition: 25% chance (ai:0 rnd:25)
 # Deal 150% damage
@@ -169,7 +169,7 @@ records:
 # Bind friend leader for 2 turns, Deal 100% damage
 # [18] ESBindAttack(63:7250) -> Thunderbolt
 # 	Condition: 25% chance when < 50% hp (ai:0 rnd:25)
-# Bind 2 subs for 2 turns, Deal 100% damage
+# Bind 2 random subs for 2 turns, Deal 100% damage
 # [19] ESAttackMultihit(15:7244) -> Back Kick
 # 	Condition: 25% chance (ai:0 rnd:25)
 # Deal 150% damage

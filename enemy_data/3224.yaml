@@ -51,7 +51,7 @@ records:
   record_type_name: ACTION
   usage_pct: 50
 - !SkillRecord
-  desc_en: Bind 2 subs for 1~2 turns, Deal 95% damage
+  desc_en: Bind 2 random subs for 1~2 turns, Deal 95% damage
   max_atk_pct: 95
   name_en: Sacred Beast Dance
   one_time: 0
@@ -119,7 +119,7 @@ records:
 # Deal 110% damage
 # [6] ESBindAttack(63:12641) -> Sacred Beast Dance
 # 	Condition: 50% chance (ai:0 rnd:50)
-# Bind 2 subs for 1~2 turns, Deal 95% damage
+# Bind 2 random subs for 1~2 turns, Deal 95% damage
 # [7] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [8] ESBlindStickyRandom(97:12642) -> The night is coming!

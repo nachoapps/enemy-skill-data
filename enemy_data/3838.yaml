@@ -89,7 +89,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Bind 3 subs for 4 turns, Deal 1000% damage
+  desc_en: Bind 3 random subs for 4 turns, Deal 1000% damage
   max_atk_pct: 1000
   name_en: Powerful Lightning Release
   one_time: 6
@@ -126,7 +126,7 @@ records:
 # 	Bind 1 random subs for 8 turns, Deal 300% damage
 # ESBindAttack(63:8069) -> Powerful Lightning Release
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 4)
-# Bind 4 subs for 5 turns, Deal 3000% damage
+# Bind 4 random subs for 5 turns, Deal 3000% damage
 ############################################################
 ### ES Modifiers
 ############################################################
@@ -214,10 +214,10 @@ records:
 # Deal 270% damage (3 hits, 90% each)
 # [27] ESBindAttack(63:8068) -> Powerful Lightning Release
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 6)
-# Bind 3 subs for 4 turns, Deal 1000% damage
+# Bind 3 random subs for 4 turns, Deal 1000% damage
 # [28] ESBindAttack(63:8069) -> Powerful Lightning Release
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 4)
-# Bind 4 subs for 5 turns, Deal 3000% damage
+# Bind 4 random subs for 5 turns, Deal 3000% damage
 # [29] ESBindAttack(63:8070) -> Powerful Lightning Release
 # Bind 5 random cards for 6 turns, Deal 5000% damage
 # [30] ESEndPath(36:26) -> ESEndPath

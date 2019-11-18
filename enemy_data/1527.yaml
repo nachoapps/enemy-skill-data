@@ -30,7 +30,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Bind 3 subs for 1~2 turns, Deal 50% damage
+  desc_en: Bind 3 random subs for 1~2 turns, Deal 50% damage
   max_atk_pct: 50
   name_en: Alluring Technique
   one_time: 1
@@ -60,4 +60,4 @@ records:
 # end_turn
 # [6] ESBindAttack(63:1531) -> Alluring Technique
 # 	Condition: When < 75% hp , one-time use (ai:100 rnd:0) (one-time: 1)
-# Bind 3 subs for 1~2 turns, Deal 50% damage
+# Bind 3 random subs for 1~2 turns, Deal 50% damage

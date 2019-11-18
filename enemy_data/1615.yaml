@@ -137,9 +137,9 @@ records:
 # 	[0] ESInactivity(66:5314) -> Let me give you a hand
 # 	Do nothing
 # 	[1] ESBindAttack(63:5304) -> Coiling Blaze!
-# 	Bind 4 subs for 6 turns, Deal 180% damage
+# 	Bind 4 random subs for 6 turns, Deal 180% damage
 # ESBindAttack(63:5303) -> Coiling Blaze!
-# Bind 2 subs for 3 turns, Deal 120% damage
+# Bind 2 random subs for 3 turns, Deal 120% damage
 # SkillSet:
 # 	Condition: When < 50% hp (ai:100 rnd:0)
 # 	[0] ESInactivity(66:5314) -> Let me give you a hand
@@ -227,9 +227,9 @@ records:
 # 	[0] ESInactivity(66:5314) -> Let me give you a hand
 # 	Do nothing
 # 	[1] ESBindAttack(63:5304) -> Coiling Blaze!
-# 	Bind 4 subs for 6 turns, Deal 180% damage
+# 	Bind 4 random subs for 6 turns, Deal 180% damage
 # [23] ESBindAttack(63:5303) -> Coiling Blaze!
-# Bind 2 subs for 3 turns, Deal 120% damage
+# Bind 2 random subs for 3 turns, Deal 120% damage
 # [24] ESFlagOperation(24:14) -> ESFlagOperation
 # flag UNSET 0b10
 # [25] SkillSet:

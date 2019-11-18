@@ -108,7 +108,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Bind 4 subs for 2 turns, Deal 75% damage
+  desc_en: Bind 4 random subs for 2 turns, Deal 75% damage
   max_atk_pct: 75
   name_en: Freezing Crusher
   one_time: 0
@@ -211,7 +211,7 @@ records:
 # [23] ESFlagOperation(24:14) -> ESFlagOperation
 # flag UNSET 0b111110
 # [24] ESBindAttack(63:952) -> Freezing Crusher
-# Bind 4 subs for 2 turns, Deal 75% damage
+# Bind 4 random subs for 2 turns, Deal 75% damage
 # [25] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [26] ESInactivity(66:957) -> Limiter Off

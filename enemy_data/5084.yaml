@@ -96,7 +96,7 @@ records:
   record_type_name: ACTION
   usage_pct: 100
 - !SkillRecord
-  desc_en: Bind 2 subs for 2 turns, Deal 200% damage + Spawn random 4 Bomb orbs
+  desc_en: Bind 2 random subs for 2 turns, Deal 200% damage + Spawn random 4 Bomb orbs
   max_atk_pct: null
   name_en: Psycho Charge + Burst! Psycho Judgement
   one_time: 0
@@ -200,7 +200,7 @@ records:
 # [14] SkillSet:
 # 	Condition: 25% chance (ai:0 rnd:25)
 # 	[0] ESBindAttack(63:12457) -> Psycho Charge
-# 	Bind 2 subs for 2 turns, Deal 200% damage
+# 	Bind 2 random subs for 2 turns, Deal 200% damage
 # 	[1] ESBombRandomSpawn(102:12458) -> Burst! Psycho Judgement
 # 	Spawn random 4 Bomb orbs
 # [15] ESRowSpawnMulti(79:12459) -> Psycho Crusher

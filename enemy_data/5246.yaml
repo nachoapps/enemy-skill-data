@@ -32,7 +32,7 @@ records:
   record_type_name: ACTION
   usage_pct: 50
 - !SkillRecord
-  desc_en: Bind 2 subs for 1~2 turns, Deal 90% damage
+  desc_en: Bind 2 random subs for 1~2 turns, Deal 90% damage
   max_atk_pct: 90
   name_en: To banish evil from this world!
   one_time: 0
@@ -101,7 +101,7 @@ records:
 # Bind active skills for 1 turns, Deal 100% damage
 # [5] ESBindAttack(63:13291) -> To banish evil from this world!
 # 	Condition: 50% chance (ai:0 rnd:50)
-# Bind 2 subs for 1~2 turns, Deal 90% damage
+# Bind 2 random subs for 1~2 turns, Deal 90% damage
 # [6] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [7] ESBranchFlag(43:10) -> ESBranchFlag

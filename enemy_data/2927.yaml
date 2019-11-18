@@ -171,7 +171,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Voids status ailments for 999 turns + Bind 4 subs for 3 turns, Deal 50%
+  desc_en: Voids status ailments for 999 turns + Bind 4 random subs for 3 turns, Deal 50%
     damage
   max_atk_pct: null
   name_en: Sky God Protection + Dragon Summoning!!!
@@ -252,7 +252,7 @@ records:
 # 	[0] ESStatusShield(20:4662) -> Sky God Protection
 # 	Voids status ailments for 999 turns
 # 	[1] ESBindAttack(63:4667) -> Dragon Summoning!!!
-# 	Bind 4 subs for 3 turns, Deal 50% damage
+# 	Bind 4 random subs for 3 turns, Deal 50% damage
 # [9] SkillSet:
 # 	Condition: When < 80% hp , one-time use (ai:100 rnd:0) (one-time: 1)
 # 	[0] ESStatusShield(20:4662) -> Sky God Protection

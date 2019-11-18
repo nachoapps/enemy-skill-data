@@ -65,7 +65,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Bind 4 subs for 1~2 turns, Deal 80% damage
+  desc_en: Bind 4 random subs for 1~2 turns, Deal 80% damage
   max_atk_pct: 80
   name_en: Tornado Seal
   one_time: 0
@@ -144,7 +144,7 @@ records:
 # [16] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b1111
 # [17] ESBindAttack(63:1275) -> Tornado Seal
-# Bind 4 subs for 1~2 turns, Deal 80% damage
+# Bind 4 random subs for 1~2 turns, Deal 80% damage
 # [18] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [19] ESBranchFlag(43:10) -> ESBranchFlag

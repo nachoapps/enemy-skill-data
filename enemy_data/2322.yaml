@@ -95,7 +95,7 @@ records:
   usage_pct: 13
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
-    Deal 100% damage + Bind 2 subs for 1 turns, Deal 100% damage
+    Deal 100% damage + Bind 2 random subs for 1 turns, Deal 100% damage
   max_atk_pct: null
   name_en: Octabreath + Rippling Chains
   one_time: 0
@@ -227,7 +227,7 @@ records:
   usage_pct: 13
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
-    Deal 100% damage + Bind 2 subs for 1 turns, Deal 100% damage
+    Deal 100% damage + Bind 2 random subs for 1 turns, Deal 100% damage
   max_atk_pct: null
   name_en: Octabreath + Rippling Chains
   one_time: 0
@@ -315,7 +315,7 @@ records:
   usage_pct: 13
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
-    Deal 100% damage + Bind 2 subs for 1 turns, Deal 100% damage
+    Deal 100% damage + Bind 2 random subs for 1 turns, Deal 100% damage
   max_atk_pct: null
   name_en: Octabreath + Rippling Chains
   one_time: 0
@@ -470,7 +470,7 @@ records:
 # 	[0] ESBoardChangeAttackBits(85:6028) -> Octabreath
 # 	Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Deal 100% damage
 # 	[1] ESBindAttack(63:6032) -> Rippling Chains
-# 	Bind 2 subs for 1 turns, Deal 100% damage
+# 	Bind 2 random subs for 1 turns, Deal 100% damage
 # [23] SkillSet:
 # 	Condition: 12% chance when < 80% hp (ai:0 rnd:12)
 # 	[0] ESBoardChangeAttackBits(85:6028) -> Octabreath

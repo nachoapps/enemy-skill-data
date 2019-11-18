@@ -16,7 +16,7 @@ level: 1
 overrides: []
 records:
 - !SkillRecord
-  desc_en: Reduce damage from all sources by 50% for 6 turns + Bind 4 subs for 2 turns,
+  desc_en: Reduce damage from all sources by 50% for 6 turns + Bind 4 random subs for 2 turns,
     Deal 50% damage (Preemptive)
   max_atk_pct: null
   name_en: Iceberg Sword's Iron Skin + Freezing Feather
@@ -80,7 +80,7 @@ records:
 # 	[0] ESDamageShield(74:5218) -> Iceberg Sword's Iron Skin
 # 	Reduce damage from all sources by 50% for 6 turns
 # 	[1] ESBindAttack(63:5219) -> Freezing Feather
-# 	Bind 4 subs for 2 turns, Deal 50% damage
+# 	Bind 4 random subs for 2 turns, Deal 50% damage
 # [5] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [6] ESOrbChangeAttack(48:5220) -> Beauty of the Four Seasons

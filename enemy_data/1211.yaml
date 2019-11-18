@@ -30,7 +30,7 @@ records:
   record_type_name: PREEMPT
   usage_pct: 100
 - !SkillRecord
-  desc_en: Bind 2 subs for 2 turns, Deal 75% damage
+  desc_en: Bind 2 random subs for 2 turns, Deal 75% damage
   max_atk_pct: 75
   name_en: Tentacle Attack
   one_time: 2
@@ -51,7 +51,7 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Bind 2 subs for 2 turns, Deal 75% damage
+  desc_en: Bind 2 random subs for 2 turns, Deal 75% damage
   max_atk_pct: 75
   name_en: Tentacle Attack
   one_time: 2
@@ -97,7 +97,7 @@ records:
 # end_turn
 # [7] ESBindAttack(63:1387) -> Tentacle Attack
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
-# Bind 2 subs for 2 turns, Deal 75% damage
+# Bind 2 random subs for 2 turns, Deal 75% damage
 # [8] ESAttackMultihit(15:1388) -> Hard Tentacle
 # 	Condition: When < 30% hp (ai:100 rnd:0)
 # Deal 150% damage (3 hits, 50% each)

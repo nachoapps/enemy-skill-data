@@ -44,7 +44,7 @@ records:
   record_type_name: ACTION
   usage_pct: 20
 - !SkillRecord
-  desc_en: Bind 3 subs for 1~2 turns, Deal 50% damage
+  desc_en: Bind 3 random subs for 1~2 turns, Deal 50% damage
   max_atk_pct: 50
   name_en: Cage of Thorns
   one_time: 0
@@ -143,7 +143,7 @@ records:
 # Bind own leader for 1~2 turns, Deal 75% damage
 # [10] ESBindAttack(63:1898) -> Cage of Thorns
 # 	Condition: 20% chance (ai:0 rnd:20)
-# Bind 3 subs for 1~2 turns, Deal 50% damage
+# Bind 3 random subs for 1~2 turns, Deal 50% damage
 # [11] ESAttackMultihit(15:1899) -> Whiplash
 # 	Condition: 60% chance (ai:0 rnd:60)
 # Deal 120%~160% damage (3~4 hits, 40% each)

@@ -167,7 +167,7 @@ records:
 # SkillSet:
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
 # 	[0] ESBindAttack(63:4643) -> Freezing Feather
-# 	Bind 2 subs for 2 turns, Deal 20% damage
+# 	Bind 2 random subs for 2 turns, Deal 20% damage
 # 	[1] ESAttackMultihit(15:4650) -> 7 combos!!
 # 	Deal 140% damage (7 hits, 20% each)
 ############################################################
@@ -258,7 +258,7 @@ records:
 # [24] SkillSet:
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
 # 	[0] ESBindAttack(63:4643) -> Freezing Feather
-# 	Bind 2 subs for 2 turns, Deal 20% damage
+# 	Bind 2 random subs for 2 turns, Deal 20% damage
 # 	[1] ESAttackMultihit(15:4650) -> 7 combos!!
 # 	Deal 140% damage (7 hits, 20% each)
 # [25] ESFlagOperation(24:14) -> ESFlagOperation

@@ -37,7 +37,7 @@ records:
   record_type_name: ACTION
   usage_pct: 40
 - !SkillRecord
-  desc_en: Bind 3 subs for 2 turns, Deal 75% damage
+  desc_en: Bind 3 random subs for 2 turns, Deal 75% damage
   max_atk_pct: 75
   name_en: Cauchemar Nightmare
   one_time: 1
@@ -131,7 +131,7 @@ records:
 # Change Heal to Jammer, Deal 50% damage
 # [9] ESBindAttack(63:1552) -> Cauchemar Nightmare
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
-# Bind 3 subs for 2 turns, Deal 75% damage
+# Bind 3 random subs for 2 turns, Deal 75% damage
 # [10] ESAttackMultihit(15:1550) -> Cauchemar Combat
 # Deal 120% damage (3 hits, 40% each)
 # [11] ESEndPath(36:26) -> ESEndPath

@@ -61,7 +61,7 @@ records:
   record_type_name: ACTION
   usage_pct: 30
 - !SkillRecord
-  desc_en: Spawn random 4 Jammer, Poison orbs + Bind 3 subs for 2 turns, Deal 190%
+  desc_en: Spawn random 4 Jammer, Poison orbs + Bind 3 random subs for 2 turns, Deal 190%
     damage
   max_atk_pct: null
   name_en: ニューマラスインシネレート + クルーエルディスピュート
@@ -120,7 +120,7 @@ records:
   record_type_name: ACTION
   usage_pct: 30
 - !SkillRecord
-  desc_en: Spawn random 4 Jammer, Poison orbs + Bind 3 subs for 2 turns, Deal 95%
+  desc_en: Spawn random 4 Jammer, Poison orbs + Bind 3 random subs for 2 turns, Deal 95%
     damage
   max_atk_pct: null
   name_en: ニューマラスインシネレート + クルーエルディスピュート
@@ -263,7 +263,7 @@ records:
   record_type_name: ACTION
   usage_pct: 15
 - !SkillRecord
-  desc_en: Spawn random 4 Jammer, Poison orbs + Bind 3 subs for 2 turns, Deal 120%
+  desc_en: Spawn random 4 Jammer, Poison orbs + Bind 3 random subs for 2 turns, Deal 120%
     damage
   max_atk_pct: null
   name_en: ニューマラスインシネレート + クルーエルディスピュート
@@ -353,7 +353,7 @@ records:
   record_type_name: ACTION
   usage_pct: 30
 - !SkillRecord
-  desc_en: Spawn random 4 Jammer, Poison orbs + Bind 3 subs for 2 turns, Deal 190%
+  desc_en: Spawn random 4 Jammer, Poison orbs + Bind 3 random subs for 2 turns, Deal 190%
     damage
   max_atk_pct: null
   name_en: ニューマラスインシネレート + クルーエルディスピュート
@@ -412,7 +412,7 @@ records:
   record_type_name: ACTION
   usage_pct: 30
 - !SkillRecord
-  desc_en: Spawn random 4 Jammer, Poison orbs + Bind 3 subs for 2 turns, Deal 95%
+  desc_en: Spawn random 4 Jammer, Poison orbs + Bind 3 random subs for 2 turns, Deal 95%
     damage
   max_atk_pct: null
   name_en: ニューマラスインシネレート + クルーエルディスピュート
@@ -555,7 +555,7 @@ records:
   record_type_name: ACTION
   usage_pct: 15
 - !SkillRecord
-  desc_en: Spawn random 4 Jammer, Poison orbs + Bind 3 subs for 2 turns, Deal 120%
+  desc_en: Spawn random 4 Jammer, Poison orbs + Bind 3 random subs for 2 turns, Deal 120%
     damage
   max_atk_pct: null
   name_en: ニューマラスインシネレート + クルーエルディスピュート
@@ -660,7 +660,7 @@ records:
 # 	[0] ESRandomSpawn(92:13490) -> ニューマラスインシネレート
 # 	Spawn random 4 Jammer, Poison orbs
 # 	[1] ESBindAttack(63:13491) -> クルーエルディスピュート
-# 	Bind 3 subs for 2 turns, Deal 190% damage
+# 	Bind 3 random subs for 2 turns, Deal 190% damage
 # [18] SkillSet:
 # 	Condition: 30% chance (ai:0 rnd:30)
 # 	[0] ESAttackMultihit(15:13492) -> ヘイトリッドラッシュ
@@ -703,7 +703,7 @@ records:
 # 	[0] ESRandomSpawn(92:13503) -> ニューマラスインシネレート
 # 	Spawn random 4 Jammer, Poison orbs
 # 	[1] ESBindAttack(63:13504) -> クルーエルディスピュート
-# 	Bind 3 subs for 2 turns, Deal 95% damage
+# 	Bind 3 random subs for 2 turns, Deal 95% damage
 # [30] SkillSet:
 # 	Condition: 30% chance (ai:0 rnd:30)
 # 	[0] ESAttackMultihit(15:13505) -> ヘイトリッドラッシュ
@@ -742,7 +742,7 @@ records:
 # 	[0] ESRandomSpawn(92:13503) -> ニューマラスインシネレート
 # 	Spawn random 4 Jammer, Poison orbs
 # 	[1] ESBindAttack(63:13504) -> クルーエルディスピュート
-# 	Bind 3 subs for 2 turns, Deal 95% damage
+# 	Bind 3 random subs for 2 turns, Deal 95% damage
 # [41] SkillSet:
 # 	Condition: 30% chance (ai:0 rnd:30)
 # 	[0] ESAttackMultihit(15:13505) -> ヘイトリッドラッシュ
@@ -781,7 +781,7 @@ records:
 # 	[0] ESRandomSpawn(92:13525) -> ニューマラスインシネレート
 # 	Spawn random 4 Jammer, Poison orbs
 # 	[1] ESBindAttack(63:13526) -> クルーエルディスピュート
-# 	Bind 3 subs for 2 turns, Deal 120% damage
+# 	Bind 3 random subs for 2 turns, Deal 120% damage
 # [52] SkillSet:
 # 	Condition: 15% chance (ai:0 rnd:15)
 # 	[0] ESAttackMultihit(15:13527) -> ヘイトリッドラッシュ
