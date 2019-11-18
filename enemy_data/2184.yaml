@@ -95,7 +95,6 @@ records:
 - !SkillRecord
   desc_en: Change 1st, 3rd, 5th column to Fire orbs, 2nd, 4th, 6th column to Light
     orbs, Deal 200% damage
-    orbs, Deal 200% damage
   max_atk_pct: 200
   name_en: Bursting Milky Way!
   one_time: 0

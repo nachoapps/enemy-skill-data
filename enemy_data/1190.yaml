@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Rcv 50% for 10 turns + Reduce damage from all sources by 99% for 5 turns
     (Preemptive)
-    (Preemptive)
   max_atk_pct: null
   name_en: Ancient Field + Hyper Dragon Shield
   one_time: 0

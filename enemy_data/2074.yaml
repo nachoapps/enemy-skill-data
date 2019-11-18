@@ -95,7 +95,6 @@ records:
 - !SkillRecord
   desc_en: Delay active skills by 1 turns + Change all orbs to Water, Wood, Dark,
     Deal 300% damage
-    Deal 300% damage
   max_atk_pct: null
   name_en: Alright! + Seiryuu Seven-Star Formation
   one_time: 0

@@ -40,7 +40,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 20% for 1 turns, (if [2358, 2359, 2360]
     on team)
-    on team)
   max_atk_pct: null
   name_en: Protects Nape
   one_time: 0
@@ -105,7 +104,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 20% for 1 turns, (if [2358, 2359, 2360]
     on team)
-    on team)
   max_atk_pct: null
   name_en: Protects Nape
   one_time: 0
@@ -141,7 +139,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Reduce damage from all sources by 20% for 1 turns, (if [2358, 2359, 2360]
-    on team)
     on team)
   max_atk_pct: null
   name_en: Protects Nape

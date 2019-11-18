@@ -40,7 +40,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 5 turns + Reduce damage from all sources by 50%
     for 5 turns (Preemptive)
-    for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: This wishful soul looks tasty + Dividing Damage
   one_time: 0
@@ -56,7 +55,6 @@ records:
 - !SkillRecord
   desc_en: Absorb combo <= 5 damage for 1 turns + Change all orbs to Fire, Light,
     Dark, Heal, Deal 150% damage, (if [1946, 1947, 2744] on team)
-    Dark, Heal, Deal 150% damage, (if [1946, 1947, 2744] on team)
   max_atk_pct: null
   name_en: Hurry! Let me eat your soul! + Sunrise Zone
   one_time: 0
@@ -64,7 +62,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Absorb combo <= 5 damage for 1 turns + Change all orbs to Fire, Light,
-    Dark, Heal, Deal 150% damage
     Dark, Heal, Deal 150% damage
   max_atk_pct: null
   name_en: Auroral Chains + Sunrise Zone
@@ -88,7 +85,6 @@ records:
 - !SkillRecord
   desc_en: Change 2nd column to Light orbs, Deal 40% damage + Change 4th column to
     Fire orbs, Deal 40% damage
-    Fire orbs, Deal 40% damage
   max_atk_pct: null
   name_en: Thunder Roar + Heat Roar
   one_time: 0
@@ -96,7 +92,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Change 2nd column to Light orbs, Deal 40% damage + Deal 60% damage (3 hits,
-    20% each)
     20% each)
   max_atk_pct: null
   name_en: Thunder Roar + Prominence Bullet
@@ -134,7 +129,6 @@ records:
 - !SkillRecord
   desc_en: Absorb combo <= 5 damage for 1 turns + Change all orbs to Fire, Light,
     Dark, Heal, Deal 150% damage
-    Dark, Heal, Deal 150% damage
   max_atk_pct: null
   name_en: Auroral Chains + Sunrise Zone
   one_time: 0
@@ -163,7 +157,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 120% damage (4 hits, 30% each) + Lock 10 random Fire, Water, Wood,
-    Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs
     Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs
   max_atk_pct: null
   name_en: Twin Prominence + Double-headed Gaze
@@ -211,7 +204,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 120% damage (4 hits, 30% each) + Change all orbs to Fire, Light, Dark,
-    Heal, Deal 150% damage
     Heal, Deal 150% damage
   max_atk_pct: null
   name_en: Twin Prominence + Sunrise Zone

@@ -25,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Delay active skills by 3~5 turns + Bind 2 random for 2 turns, Deal 150%
     damage (Preemptive)
-    damage (Preemptive)
   max_atk_pct: null
   name_en: Threaten + Roar
   one_time: 0
@@ -33,7 +32,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Spawn random 2 Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
-    Poison orbs, Deal 200% damage
     Poison orbs, Deal 200% damage
   max_atk_pct: 200
   name_en: Dash Attack
@@ -77,7 +75,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 130% for the next 10 turns + Bind 2 random for 2 turns,
-    Deal 150% damage
     Deal 150% damage
   max_atk_pct: null
   name_en: Rage + Roar

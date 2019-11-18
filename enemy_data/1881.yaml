@@ -25,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 90% for 1 turns + Voids status ailments
     for 6 turns (Preemptive)
-    for 6 turns (Preemptive)
   max_atk_pct: null
   name_en: Dance of the Stronghold + Hero's Pride
   one_time: 2
@@ -117,7 +116,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 1st, 2nd, 3rd column to Fire orbs, 4th, 5th, 6th column to Wood
-    orbs, Deal 180% damage
     orbs, Deal 180% damage
   max_atk_pct: 180
   name_en: Twin Blade Dance

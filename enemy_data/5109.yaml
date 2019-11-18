@@ -81,7 +81,6 @@ records:
 - !SkillRecord
   desc_en: Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 115% damage
-    Poison orbs, Deal 115% damage
   max_atk_pct: 115
   name_en: Rolling Attack
   one_time: 0

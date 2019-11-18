@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Bind active skills for 5 turns +
     Player -99% HP (Preemptive)
-    Player -99% HP (Preemptive)
   max_atk_pct: null
   name_en: The Labor's Beginning + The First Labor + Sucker Punch
   one_time: 0

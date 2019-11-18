@@ -32,7 +32,6 @@ records:
 - !SkillRecord
   desc_en: Lock 6 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 100% damage
-    Poison orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Plum Scent's Allure
   one_time: 0
@@ -61,7 +60,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
-    Mortal Poison
     Mortal Poison
   max_atk_pct: null
   name_en: Colorful Requiem's Malodor

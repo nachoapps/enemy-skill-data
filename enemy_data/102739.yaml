@@ -25,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Absorb combo <= 4 damage for 99 turns + Void damage >= 5000000 for 999
     turns (Preemptive)
-    turns (Preemptive)
   max_atk_pct: null
   name_en: Phoenix Knight's Soul + Phoenix Armor
   one_time: 0

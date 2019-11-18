@@ -19,7 +19,6 @@ records:
 - !SkillRecord
   desc_en: Movetime 300% for 10 turns + Random 1 orbs change every 1.0s for 10 turns
     (Preemptive)
-    (Preemptive)
   max_atk_pct: null
   name_en: Nice to meet you! + Thank you in advance
   one_time: 128
@@ -34,7 +33,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Bind 1 subs for 4 turns, Deal 150%
-    damage
     damage
   max_atk_pct: null
   name_en: I'll keep everything under strict control + I won't forgive any mistakes!
@@ -183,7 +181,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 3 turns + Increase damage to
-    200% for the next 999 turns
     200% for the next 999 turns
   max_atk_pct: null
   name_en: I can't miss that! + I'll correct this!

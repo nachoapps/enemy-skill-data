@@ -61,7 +61,6 @@ records:
 - !SkillRecord
   desc_en: Absorb combo <= 7 damage for 10 turns + Spawn random 6 Wood, Jammer, Poison
     orbs, (if >=5 combos last turn)
-    orbs, (if >=5 combos last turn)
   max_atk_pct: null
   name_en: Great! + How about this one?
   one_time: 0
@@ -83,7 +82,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb combo <= 7 damage for 10 turns + Bind active skills for 5 turns,
-    (if >=5 combos last turn)
     (if >=5 combos last turn)
   max_atk_pct: null
   name_en: Great! + Well, have a consolation prize!

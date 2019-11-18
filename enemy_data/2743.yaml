@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Dark damage for 4 turns + Change 5th column to Dark orbs, Deal 50%
     damage (Preemptive)
-    damage (Preemptive)
   max_atk_pct: null
   name_en: Infernal Dragon Knight's Soul + Darkness Scythe
   one_time: 3

@@ -53,7 +53,6 @@ records:
 - !SkillRecord
   desc_en: Lock 8 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 140% damage
-    Poison orbs, Deal 140% damage
   max_atk_pct: 140
   name_en: Sharp Teeth
   one_time: 0
@@ -96,7 +95,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Lock 8 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
-    Poison orbs, Deal 140% damage
     Poison orbs, Deal 140% damage
   max_atk_pct: 140
   name_en: Sharp Teeth

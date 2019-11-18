@@ -67,7 +67,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 30% for 99 turns + Deal 60% damage (6
     hits, 10% each)
-    hits, 10% each)
   max_atk_pct: null
   name_en: 蠅の王 + 分身からの攻撃
   one_time: 0

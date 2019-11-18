@@ -88,7 +88,6 @@ records:
 - !SkillRecord
   desc_en: Change 1st column to Light orbs, Deal 200% damage + Column of cloud appear
     for 4 turns at 1st row
-    for 4 turns at 1st row
   max_atk_pct: null
   name_en: The grand finale! Light Spell!!!!! + Need smoke! Need smoke!
   one_time: 0

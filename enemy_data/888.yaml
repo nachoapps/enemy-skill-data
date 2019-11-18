@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 1 turns + Bind Fire cards for
     5 turns (Preemptive)
-    5 turns (Preemptive)
   max_atk_pct: null
   name_en: Cat Orchestra + Meow♪
   one_time: 0

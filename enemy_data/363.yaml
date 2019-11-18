@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 80% for 1 turns + Bind 1 random for 5
     turns, Deal 120% damage (Preemptive)
-    turns, Deal 120% damage (Preemptive)
   max_atk_pct: null
   name_en: Garment of Protection + Gungnir
   one_time: 0
@@ -33,7 +32,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Reduce damage from all sources by 80% for 1 turns + Bind 1 random for 5
-    turns, Deal 120% damage
     turns, Deal 120% damage
   max_atk_pct: null
   name_en: Garment of Protection + Gungnir
@@ -91,7 +89,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Movetime -1s for 7 turns + Player -99% HP, (if [2640, 2641, 2899, 2900]
-    on team)
     on team)
   max_atk_pct: null
   name_en: I am not...going to lose! + Hnikar

@@ -19,7 +19,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Void damage >= 10000000 for 999 turns
     + Mortal Poison skyfall +5% for 5 turns (Preemptive)
-    + Mortal Poison skyfall +5% for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: Cruel Malice + Lifeline + Death Miasma
   one_time: 0

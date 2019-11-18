@@ -25,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 7 turns + Reduce damage from all sources by 75%
     for 4 turns (Preemptive)
-    for 4 turns (Preemptive)
   max_atk_pct: null
   name_en: Heaven's Ocean + Celestial Ocean's Holy Waves
   one_time: 0

@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 4 turns + Player -99% HP, (if [3613] on team)
     (Preemptive)
-    (Preemptive)
   max_atk_pct: null
   name_en: You're nothing more than a puppet! + Death Seal
   one_time: 1
@@ -26,7 +25,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Voids status ailments for 4 turns + Player -99% HP, (if [3611, 3612] on
-    team) (Preemptive)
     team) (Preemptive)
   max_atk_pct: null
   name_en: I shall erase you from all dimensions! + Death Seal

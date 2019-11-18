@@ -53,7 +53,6 @@ records:
 - !SkillRecord
   desc_en: Enemy recover 10% hp + Reduce damage from all sources by 50% for 1 turns,
     Deal 100% damage
-    Deal 100% damage
   max_atk_pct: null
   name_en: Convalescence + Hero's Resolve
   one_time: 0

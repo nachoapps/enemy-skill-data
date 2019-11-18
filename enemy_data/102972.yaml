@@ -25,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Fire, Water, Light, Dark skyfall
     +100% for 3 turns (Preemptive)
-    +100% for 3 turns (Preemptive)
   max_atk_pct: null
   name_en: Wind Dragon's Protective Armor + Vanishing Lifespring - Green Life
   one_time: 16
@@ -103,7 +102,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb combo <= 6 damage for 5 turns + Leader changes to random sub for
-    3 turns
     3 turns
   max_atk_pct: null
   name_en: Holy Summit's Mystic Fog + Seedling Magatama

@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Bind Dragon cards for 10 turns +
     Deal 420% damage (2 hits, 210% each) (Preemptive)
-    Deal 420% damage (2 hits, 210% each) (Preemptive)
   max_atk_pct: null
   name_en: Scarlet Sky Robes + Dragonbind Kotodama + Flame Camellia
   one_time: 0

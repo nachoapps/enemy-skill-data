@@ -40,7 +40,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Deal 390% damage (3 hits, 130% each)
     (Preemptive)
-    (Preemptive)
   max_atk_pct: null
   name_en: Tenka Gomen + Art of Roaring Fireworks
   one_time: 0

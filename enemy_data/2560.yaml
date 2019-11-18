@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Change own attribute to Fire + Absorb Water damage for 3 turns + Lock all
     Heal orbs (Preemptive)
-    Heal orbs (Preemptive)
   max_atk_pct: null
   name_en: Constellation Shift + Star Saucer + Wicked Revelation
   one_time: 0
@@ -26,7 +25,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Change own attribute to Water + Absorb Wood damage for 3 turns + Lock all
-    Heal orbs (Preemptive)
     Heal orbs (Preemptive)
   max_atk_pct: null
   name_en: Constellation Shift + Star Saucer + Wicked Revelation
@@ -36,7 +34,6 @@ records:
 - !SkillRecord
   desc_en: Change own attribute to Wood + Absorb Fire damage for 3 turns + Lock all
     Heal orbs (Preemptive)
-    Heal orbs (Preemptive)
   max_atk_pct: null
   name_en: Constellation Shift + Star Saucer + Wicked Revelation
   one_time: 0
@@ -44,7 +41,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Change own attribute to Light + Absorb Dark damage for 3 turns + Lock all
-    Heal orbs (Preemptive)
     Heal orbs (Preemptive)
   max_atk_pct: null
   name_en: Constellation Shift + Star Saucer + Wicked Revelation
@@ -82,7 +78,6 @@ records:
 - !SkillRecord
   desc_en: 3x1 cloud appear for 2 turns at random location + Deal 150% damage (3 hits,
     50% each)
-    50% each)
   max_atk_pct: null
   name_en: Aries' Golden Fleece + Dark Nail
   one_time: 0
@@ -90,7 +85,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: 1x3 cloud appear for 2 turns at random location + Deal 150% damage (3 hits,
-    50% each)
     50% each)
   max_atk_pct: null
   name_en: Aries' Golden Fleece + Dark Nail
@@ -127,7 +121,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change own attribute to Dark + Increase damage to 150% for the next 999
-    turns + Poison skyfall +15% for 5 turns
     turns + Poison skyfall +15% for 5 turns
   max_atk_pct: null
   name_en: Altered Orbit + God King's Resonance + Calamity Rain

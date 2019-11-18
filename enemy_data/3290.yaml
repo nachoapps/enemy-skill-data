@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Lock 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 100% damage
-    Poison orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: You're not getting away♪
   one_time: 1

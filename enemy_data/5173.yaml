@@ -25,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Void damage >= 60000000 for 999 turns
     + Specific orbs change every 1.0s for 99 turns (Preemptive)
-    + Specific orbs change every 1.0s for 99 turns (Preemptive)
   max_atk_pct: null
   name_en: Will you listen to me? + This is my spun story + That I mysteriously invite
     you to
@@ -42,7 +41,6 @@ records:
 - !SkillRecord
   desc_en: 2x2 cloud appear for 3 turns at random location + Movetime -3s for 3 turns,
     Deal 100% damage
-    Deal 100% damage
   max_atk_pct: null
   name_en: The beginning is one thought + So old, everyone has forgotten
   one_time: 0
@@ -57,7 +55,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Locked random skyfall +50% for 5 turns + Deal 120% damage (3 hits, 40%
-    each)
     each)
   max_atk_pct: null
   name_en: From many seas swirling together + The world was born
@@ -74,7 +71,6 @@ records:
 - !SkillRecord
   desc_en: Bind 4 random subs for 5 turns + Delay active skills by 4~6 turns, Deal
     110% damage
-    110% damage
   max_atk_pct: null
   name_en: The strongest of us remaining for aeons + Pushed down into hell
   one_time: 0
@@ -89,7 +85,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb Light, Dark damage for 3 turns + Specific orbs change every 1.0s
-    for 1 turns, Deal 60% damage
     for 1 turns, Deal 60% damage
   max_atk_pct: null
   name_en: Inside a complex cage + Truth hidden behind a colorful lie
@@ -106,7 +101,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 3 turns + Bind active skills for 5
     turns, Deal 100% damage
-    turns, Deal 100% damage
   max_atk_pct: null
   name_en: Then, we became people... + As if it were from the beginning
   one_time: 0
@@ -121,7 +115,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 5 turns + Change Random to Jammer,
-    Deal 100% damage
     Deal 100% damage
   max_atk_pct: null
   name_en: Time flows again... + And I could dream
@@ -138,7 +131,6 @@ records:
 - !SkillRecord
   desc_en: Absorb combo <= 6 damage for 5 turns + Change own attribute to random one
     of Fire, Water, Wood, Light, Dark, Deal 100% damage
-    of Fire, Water, Wood, Light, Dark, Deal 100% damage
   max_atk_pct: null
   name_en: Outside this wide cage I grasped thoughts + And pursued a visible truth
   one_time: 0
@@ -153,7 +145,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Poison skyfall +15% for 5 turns + Lock 15 random Fire, Water, Wood, Light,
-    Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 120% damage
     Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 120% damage
   max_atk_pct: null
   name_en: Much knowledge clouds the eyes + You can't escape the invisible chains
@@ -184,7 +175,6 @@ records:
 - !SkillRecord
   desc_en: 2x2 cloud appear for 3 turns at random location + Movetime -3s for 3 turns,
     Deal 100% damage
-    Deal 100% damage
   max_atk_pct: null
   name_en: The beginning is one thought + So old, everyone has forgotten
   one_time: 0
@@ -199,7 +189,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Locked random skyfall +50% for 5 turns + Deal 120% damage (3 hits, 40%
-    each)
     each)
   max_atk_pct: null
   name_en: From many seas swirling together + The world was born
@@ -216,7 +205,6 @@ records:
 - !SkillRecord
   desc_en: Bind 4 random subs for 5 turns + Delay active skills by 4~6 turns, Deal
     110% damage
-    110% damage
   max_atk_pct: null
   name_en: The strongest of us remaining for aeons + Pushed down into hell
   one_time: 0
@@ -231,7 +219,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb Light, Dark damage for 3 turns + Specific orbs change every 1.0s
-    for 1 turns, Deal 60% damage
     for 1 turns, Deal 60% damage
   max_atk_pct: null
   name_en: Inside a complex cage + Truth hidden behind a colorful lie
@@ -248,7 +235,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 3 turns + Bind active skills for 5
     turns, Deal 100% damage
-    turns, Deal 100% damage
   max_atk_pct: null
   name_en: Then, we became people... + As if it were from the beginning
   one_time: 0
@@ -263,7 +249,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 5 turns + Change Random to Jammer,
-    Deal 100% damage
     Deal 100% damage
   max_atk_pct: null
   name_en: Time flows again... + And I could dream
@@ -280,7 +265,6 @@ records:
 - !SkillRecord
   desc_en: Absorb combo <= 6 damage for 5 turns + Change own attribute to random one
     of Fire, Water, Wood, Light, Dark, Deal 100% damage
-    of Fire, Water, Wood, Light, Dark, Deal 100% damage
   max_atk_pct: null
   name_en: Outside this wide cage I grasped thoughts + And pursued a visible truth
   one_time: 0
@@ -295,7 +279,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Poison skyfall +15% for 5 turns + Lock 15 random Fire, Water, Wood, Light,
-    Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 120% damage
     Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 120% damage
   max_atk_pct: null
   name_en: Much knowledge clouds the eyes + You can't escape the invisible chains

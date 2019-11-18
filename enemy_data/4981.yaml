@@ -25,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Change Random to Fire, Deal 95% damage + Locked Fire skyfall +100% for
     10 turns
-    10 turns
   max_atk_pct: null
   name_en: キュンキュンさせてあげるよ… + ヤケドしても　知らないけどね！
   one_time: 0
@@ -55,7 +54,6 @@ records:
 - !SkillRecord
   desc_en: Deal 90% damage + Increase damage to 150% for the next 1 turns + Rcv 50%
     for 1 turns
-    for 1 turns
   max_atk_pct: null
   name_en: へぇ　少しは遊べるじゃないか… + それじゃ　こんなのはどうだい？ + さあ　もっと楽しませてよ！
   one_time: 1
@@ -70,7 +68,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random to Fire, Deal 95% damage + Locked Fire skyfall +100% for
-    10 turns
     10 turns
   max_atk_pct: null
   name_en: キュンキュンさせてあげるよ… + ヤケドしても　知らないけどね！

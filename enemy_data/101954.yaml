@@ -25,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Delay active skills by 2~5 turns + Absorb combo <= 5 damage for 99 turns
     + Player -99% HP (Preemptive)
-    + Player -99% HP (Preemptive)
   max_atk_pct: null
   name_en: Third Eye + Destruction God's Divine Power + Damaru
   one_time: 0
@@ -40,7 +39,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change 2nd column to Fire orbs, 4th column to Fire orbs, 6th column to
-    Fire orbs, Deal 100% damage
     Fire orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Trishula

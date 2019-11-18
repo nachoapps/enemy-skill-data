@@ -25,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Absorb combo <= 6 damage for 999 turns + Voids status ailments for 999
     turns (Preemptive)
-    turns (Preemptive)
   max_atk_pct: null
   name_en: Dark Melancholy + Divine Protection of the Good Harvest
   one_time: 0
@@ -76,7 +75,6 @@ records:
 - !SkillRecord
   desc_en: Light skyfall +20% for 5 turns + Change all orbs to Fire, Water, Wood,
     Light, Dark, Heal, Deal 340% damage
-    Light, Dark, Heal, Deal 340% damage
   max_atk_pct: null
   name_en: Lucent Blessing + Sephiroth Rage
   one_time: 0
@@ -113,7 +111,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Fire damage for 1 turns + Change 5th row to Heal orbs, Deal 1000%
     damage
-    damage
   max_atk_pct: null
   name_en: Flame Fascination + Natural Disaster
   one_time: 0
@@ -121,7 +118,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Absorb Water damage for 1 turns + Change 5th row to Heal orbs, Deal 1000%
-    damage
     damage
   max_atk_pct: null
   name_en: Ice Fascination + Natural Disaster
@@ -131,7 +127,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Dark damage for 1 turns + Change 5th row to Heal orbs, Deal 1000%
     damage
-    damage
   max_atk_pct: null
   name_en: Dark Fascination + Natural Disaster
   one_time: 0
@@ -139,7 +134,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Absorb Wood damage for 1 turns + Change 5th row to Heal orbs, Deal 1000%
-    damage
     damage
   max_atk_pct: null
   name_en: Plant Fascination + Natural Disaster

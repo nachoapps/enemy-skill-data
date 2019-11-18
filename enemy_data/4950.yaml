@@ -32,7 +32,6 @@ records:
 - !SkillRecord
   desc_en: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
     orbs + Bind 1 random subs for 10 turns
-    orbs + Bind 1 random subs for 10 turns
   max_atk_pct: null
   name_en: シビれるニャーン！ + ニャンとぉー！
   one_time: 1
@@ -82,7 +81,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 5 turns + Reduce damage from all sources
-    by 50% for 5 turns
     by 50% for 5 turns
   max_atk_pct: null
   name_en: ニャハハ！　Ｓランクだニャン！ + オレっち　最強ニャーン！！

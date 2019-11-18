@@ -25,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Unable to match Heal orbs for 1 turns
     (Preemptive)
-    (Preemptive)
   max_atk_pct: null
   name_en: Flowing Green Scales + Extermination of Life
   one_time: 0
@@ -34,7 +33,6 @@ records:
 - !SkillRecord
   desc_en: Void damage >= 15000000 for 1 turns + Seal 1st row for 1 turns, Deal 100%
     damage
-    damage
   max_atk_pct: null
   name_en: Longing for Life + Demonic Region
   one_time: 0
@@ -42,7 +40,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Absorb damage >= 20000000 damage for 1 turns + Water, Wood skyfall +20%
-    for 1 turns, Deal 105% damage
     for 1 turns, Deal 105% damage
   max_atk_pct: null
   name_en: Starvation + Meteor Shower
@@ -87,7 +84,6 @@ records:
 - !SkillRecord
   desc_en: Absorb combo <= 8 damage for 1 turns + Row of cloud appear for 1 turns
     at random location, Deal 100% damage
-    at random location, Deal 100% damage
   max_atk_pct: null
   name_en: Withering Hope + Clouds of Yonder
   one_time: 0
@@ -95,7 +91,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 1 turns + Change all orbs to
-    Heal, Deal 150% damage
     Heal, Deal 150% damage
   max_atk_pct: null
   name_en: Encasing Strongscales + Rapids of Life
@@ -140,7 +135,6 @@ records:
 - !SkillRecord
   desc_en: Bind awoken skills for 1 turns + Specific orbs change every 1.0s for 1
     turns
-    turns
   max_atk_pct: null
   name_en: Crimson Snake Eyes + Groans of the Dancing Frenzy
   one_time: 0
@@ -148,7 +142,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Water, Wood, Light, Dark +
-    Deal 1200% damage (4 hits, 300% each)
     Deal 1200% damage (4 hits, 300% each)
   max_atk_pct: null
   name_en: Morph Scales + Frenzy of Absolute Power

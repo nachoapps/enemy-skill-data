@@ -25,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Delay active skills by 3~6 turns + Absorb combo <= 7 damage for 5 turns
     (Preemptive)
-    (Preemptive)
   max_atk_pct: null
   name_en: Blaze + Burning Giant
   one_time: 2

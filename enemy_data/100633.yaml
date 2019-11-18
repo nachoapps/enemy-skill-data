@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Bind 2 both leaders for 3 turns, Deal 130% damage + Bind 2 both leaders
     for 1 turns, Deal 170% damage (Preemptive)
-    for 1 turns, Deal 170% damage (Preemptive)
   max_atk_pct: null
   name_en: Poor Hospitality + H-huh?!
   one_time: 0

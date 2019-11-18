@@ -25,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Seal 1st row for 5 turns + Absorb
     combo <= 6 damage for 10 turns (Preemptive)
-    combo <= 6 damage for 10 turns (Preemptive)
   max_atk_pct: null
   name_en: Do you mean to challenge me? + Just the right time to warm up + You can
     really do it?
@@ -69,7 +68,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
-    orbs + Movetime -4s for 5 turns
     orbs + Movetime -4s for 5 turns
   max_atk_pct: 100
   name_en: This just became interesting! + Can you still fight?

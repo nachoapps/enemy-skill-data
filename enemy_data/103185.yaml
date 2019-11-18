@@ -25,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 10 turns + Lock all Fire, Water, Wood, Light,
     Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 100% damage (Preemptive)
-    Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 100% damage (Preemptive)
   max_atk_pct: null
   name_en: Frost Barrier + Frozen
   one_time: 2

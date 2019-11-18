@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Locked Water skyfall +100% for 10
     turns + Absorb damage >= 5000000 damage for 10 turns (Preemptive)
-    turns + Absorb damage >= 5000000 damage for 10 turns (Preemptive)
   max_atk_pct: null
   name_en: Protection of the Gods + Vibrant Blue + Divine Ocean's Wisdom
   one_time: 0

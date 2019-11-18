@@ -19,7 +19,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 10 turns + Movetime 50% for 10
     turns (Preemptive)
-    turns (Preemptive)
   max_atk_pct: null
   name_en: Harbinger of Corrosion + Realm of Hades's Law
   one_time: 0
@@ -35,7 +34,6 @@ records:
 - !SkillRecord
   desc_en: Bind awoken skills for 2 turns + Change 5th row to Mortal Poison orbs,
     Deal 50% damage
-    Deal 50% damage
   max_atk_pct: null
   name_en: Poppy's Lethargy + Cocytus's Erosion
   one_time: 44
@@ -44,7 +42,6 @@ records:
 - !SkillRecord
   desc_en: Delay active skills by 2 turns + Change 5th row to Mortal Poison orbs,
     Deal 50% damage
-    Deal 50% damage
   max_atk_pct: null
   name_en: Narcissus's Temptation + Cocytus's Erosion
   one_time: 32
@@ -52,7 +49,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Bind active skills for 2 turns + Change 5th row to Mortal Poison orbs,
-    Deal 50% damage
     Deal 50% damage
   max_atk_pct: null
   name_en: Pomegranate's Folly + Cocytus's Erosion
@@ -118,7 +114,6 @@ records:
 - !SkillRecord
   desc_en: Delay active skills by 2 turns + Change 5th row to Mortal Poison orbs,
     Deal 50% damage
-    Deal 50% damage
   max_atk_pct: null
   name_en: Narcissus's Temptation + Cocytus's Erosion
   one_time: 32
@@ -126,7 +121,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Bind active skills for 2 turns + Change 5th row to Mortal Poison orbs,
-    Deal 50% damage
     Deal 50% damage
   max_atk_pct: null
   name_en: Pomegranate's Folly + Cocytus's Erosion
@@ -192,7 +186,6 @@ records:
 - !SkillRecord
   desc_en: Delay active skills by 2 turns + Change 5th row to Mortal Poison orbs,
     Deal 50% damage
-    Deal 50% damage
   max_atk_pct: null
   name_en: Narcissus's Temptation + Cocytus's Erosion
   one_time: 12
@@ -200,7 +193,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Bind active skills for 2 turns + Change 5th row to Mortal Poison orbs,
-    Deal 50% damage
     Deal 50% damage
   max_atk_pct: null
   name_en: Pomegranate's Folly + Cocytus's Erosion
@@ -265,7 +257,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind awoken skills for 2 turns + Change 5th row to Mortal Poison orbs,
-    Deal 50% damage
     Deal 50% damage
   max_atk_pct: null
   name_en: Poppy's Lethargy + Cocytus's Erosion

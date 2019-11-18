@@ -88,7 +88,6 @@ records:
 - !SkillRecord
   desc_en: Lock 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer orbs, Deal 140%
     damage
-    damage
   max_atk_pct: 140
   name_en: Rudolph Antler Lock
   one_time: 0
@@ -117,7 +116,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Lock 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer orbs, Deal 140%
-    damage
     damage
   max_atk_pct: 140
   name_en: Rudolph Antler Lock
@@ -224,7 +222,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Lock 5 random Fire, Water, Wood, Light, Dark, Heal, Jammer orbs, Deal 140%
-    damage
     damage
   max_atk_pct: 140
   name_en: Rudolph Antler Lock

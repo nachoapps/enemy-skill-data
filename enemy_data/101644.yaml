@@ -32,7 +32,6 @@ records:
 - !SkillRecord
   desc_en: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
     orbs + Absorb combo <= 4 damage for 999 turns (Preemptive)
-    orbs + Absorb combo <= 4 damage for 999 turns (Preemptive)
   max_atk_pct: null
   name_en: Black Wings of Divine Punishment + Trials of Heaven
   one_time: 0
@@ -145,7 +144,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 999 turns + Lock all Fire, Water,
-    Wood, Light, Dark, Jammer, Poison, Mortal Poison orbs
     Wood, Light, Dark, Jammer, Poison, Mortal Poison orbs
   max_atk_pct: null
   name_en: Holy Throne + Surveillance

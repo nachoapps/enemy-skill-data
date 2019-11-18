@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Change 1st, 2nd, 5th, 6th column to Fire, Poison orbs, Deal 100% damage
     + Locked random skyfall +20% for 10 turns (Preemptive)
-    + Locked random skyfall +20% for 10 turns (Preemptive)
   max_atk_pct: null
   name_en: Burning Grudge + Immortal Ambition
   one_time: 5
@@ -61,7 +60,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
-    orbs, Deal 800% damage
     orbs, Deal 800% damage
   max_atk_pct: 800
   name_en: Soaring Destruction
@@ -126,7 +124,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
-    orbs, Deal 800% damage
     orbs, Deal 800% damage
   max_atk_pct: 800
   name_en: Soaring Destruction

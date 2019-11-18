@@ -55,7 +55,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Change Random to Heal, Deal 140%
     damage, (if [2143, 2144, 2971] on team)
-    damage, (if [2143, 2144, 2971] on team)
   max_atk_pct: null
   name_en: It's time you stop acting so crazy! + Dimension-Curse of the Sacred Waters
   one_time: 0
@@ -70,7 +69,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Change Random to Heal, Deal 140%
-    damage
     damage
   max_atk_pct: null
   name_en: Sea Dragon God's Protection + Dimension-Curse of the Sacred Waters
@@ -161,7 +159,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Change Random to Heal, Deal 140%
-    damage + Change all orbs to Fire, Water, Wood, Light, Dark, Jammer, Deal 50% damage
     damage + Change all orbs to Fire, Water, Wood, Light, Dark, Jammer, Deal 50% damage
   max_atk_pct: null
   name_en: Sea Dragon God's Protection + Dimension-Curse of the Sacred Waters + Indigo

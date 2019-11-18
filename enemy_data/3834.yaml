@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Void damage >= 35000000 for 999 turns
     (Preemptive)
-    (Preemptive)
   max_atk_pct: null
   name_en: 'Wonderful! I''ve been waiting for you! + Just a warning: I won''t hold
     back!'
@@ -119,7 +118,6 @@ records:
 - !SkillRecord
   desc_en: Do nothing + Player recover 100% hp + Increase damage to 150% for the next
     999 turns
-    999 turns
   max_atk_pct: null
   name_en: Whoa... + Tough guy, huh! + Now we're getting somewhere!
   one_time: 0
@@ -190,7 +188,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Do nothing + Player recover 100% hp + Increase damage to 150% for the next
-    999 turns
     999 turns
   max_atk_pct: null
   name_en: Whoa... + Tough guy, huh! + Now we're getting somewhere!
@@ -298,7 +295,6 @@ records:
 - !SkillRecord
   desc_en: Enemy recover 30% hp + Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs
-    Poison, Mortal Poison orbs
   max_atk_pct: null
   name_en: I'm no pushover, you know. Scared yet? + Well, let's continue!
   one_time: 60
@@ -313,7 +309,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Do nothing + Player recover 100% hp + Increase damage to 150% for the next
-    999 turns
     999 turns
   max_atk_pct: null
   name_en: Whoa... + Tough guy, huh! + Now we're getting somewhere!

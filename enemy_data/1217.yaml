@@ -74,7 +74,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 999 turns + Bind awoken skills for
     3 turns
-    3 turns
   max_atk_pct: null
   name_en: Holy Throne + Prediction
   one_time: 1

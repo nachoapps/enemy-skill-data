@@ -46,7 +46,6 @@ records:
 - !SkillRecord
   desc_en: Fix orb movement starting point to random position on the board, Deal 100%
     damage
-    damage
   max_atk_pct: 100
   name_en: Pumpkin Magic
   one_time: 0

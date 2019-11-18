@@ -32,7 +32,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 10 turns + Blind orbs in specific
     positions for 1 turns, Deal 90% damage
-    positions for 1 turns, Deal 90% damage
   max_atk_pct: null
   name_en: Elemental Sphere Protection + Veiled Boundaries
   one_time: 0

@@ -102,7 +102,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 200% for the next 99 turns + Reduce damage from all
     sources by 50% for 1 turns
-    sources by 50% for 1 turns
   max_atk_pct: null
   name_en: タイマンか それとも全員でふくろか… + 今日のオレはそう簡単にくたばんねーぞ
   one_time: 0

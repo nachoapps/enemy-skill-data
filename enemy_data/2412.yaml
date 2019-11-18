@@ -102,7 +102,6 @@ records:
 - !SkillRecord
   desc_en: Change Random to Jammer, Deal 120% damage + Spawn random 6 Mortal Poison
     orbs
-    orbs
   max_atk_pct: null
   name_en: And that! + Magic Pumpkin Shot
   one_time: 0

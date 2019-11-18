@@ -53,7 +53,6 @@ records:
 - !SkillRecord
   desc_en: Change 1st, 3rd, 5th column to Water orbs, Deal 55% damage + Lock all Water
     orbs, Deal 55% damage
-    orbs, Deal 55% damage
   max_atk_pct: null
   name_en: You're in my world now, + and here I'm the fittest.
   one_time: 2
@@ -96,7 +95,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
-    orbs
     orbs
   max_atk_pct: null
   name_en: This is my last offerring.

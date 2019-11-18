@@ -53,7 +53,6 @@ records:
 - !SkillRecord
   desc_en: Change 1st row to Wood, Jammer orbs, 5th row to Wood, Poison orbs, Deal
     70% damage
-    70% damage
   max_atk_pct: 70
   name_en: How about this?
   one_time: 0

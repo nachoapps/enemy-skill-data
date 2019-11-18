@@ -25,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 5 turns + Jammer, Poison skyfall +8% for 5 turns
     (Preemptive)
-    (Preemptive)
   max_atk_pct: null
   name_en: Snake Scale + Chaos Rain
   one_time: 4
@@ -47,7 +46,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Lock 3 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
-    Poison orbs, Deal 100% damage
     Poison orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Snake's Glare
@@ -84,7 +82,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Lock 3 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
-    Poison orbs, Deal 100% damage
     Poison orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Snake's Glare

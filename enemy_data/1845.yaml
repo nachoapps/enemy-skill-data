@@ -53,7 +53,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 200% for the next 2 turns + Change 3rd row to Light
     orbs, Deal 80% damage
-    orbs, Deal 80% damage
   max_atk_pct: null
   name_en: His sword is raised + Proud Slash
   one_time: 2

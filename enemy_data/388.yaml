@@ -47,7 +47,6 @@ records:
 - !SkillRecord
   desc_en: Do nothing + Change 3rd column to Light orbs, 4th column to Fire orbs,
     Deal 150% damage
-    Deal 150% damage
   max_atk_pct: null
   name_en: Uses 2 Blazing Spheres + Holy Pillar!
   one_time: 2
@@ -84,7 +83,6 @@ records:
 - !SkillRecord
   desc_en: Do nothing + Change 3rd column to Light orbs, 4th column to Fire orbs,
     Deal 150% damage
-    Deal 150% damage
   max_atk_pct: null
   name_en: Uses 2 Blazing Spheres + Holy Pillar!
   one_time: 2
@@ -113,7 +111,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Do nothing + Change 3rd column to Light orbs, 4th column to Fire orbs,
-    Deal 150% damage
     Deal 150% damage
   max_atk_pct: null
   name_en: Uses 2 Blazing Spheres + Holy Pillar!
@@ -186,7 +183,6 @@ records:
 - !SkillRecord
   desc_en: Change 2nd row to Fire orbs, Deal 65% damage + Change 2nd column to Light
     orbs, Deal 65% damage
-    orbs, Deal 65% damage
   max_atk_pct: null
   name_en: Glory... + Cross!
   one_time: 0
@@ -209,7 +205,6 @@ records:
 - !SkillRecord
   desc_en: Do nothing + Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Deal
     500% damage
-    500% damage
   max_atk_pct: null
   name_en: Uses 5 Blazing Spheres + Sacred Explosion!
   one_time: 5
@@ -224,7 +219,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 2nd row to Fire orbs, Deal 65% damage + Change 2nd column to Light
-    orbs, Deal 65% damage
     orbs, Deal 65% damage
   max_atk_pct: null
   name_en: Glory... + Cross!

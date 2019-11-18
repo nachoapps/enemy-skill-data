@@ -32,7 +32,6 @@ records:
 - !SkillRecord
   desc_en: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
     orbs, Deal 100% damage
-    orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Metal Tackle
   one_time: 0
@@ -76,7 +75,6 @@ records:
 - !SkillRecord
   desc_en: Absorb combo <= 7 damage for 99 turns + Increase damage to 150% for the
     next 99 turns
-    next 99 turns
   max_atk_pct: null
   name_en: Acrylic Absorption + Stoneware
   one_time: 0
@@ -91,7 +89,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
-    orbs, Deal 100% damage
     orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Metal Tackle

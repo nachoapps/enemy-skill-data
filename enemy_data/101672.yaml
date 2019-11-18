@@ -68,7 +68,6 @@ records:
 - !SkillRecord
   desc_en: Absorb combo <= 5 damage for 99 turns + Void damage >= 40000000 for 6 turns
     + Voids player buff effects (Preemptive)
-    + Voids player buff effects (Preemptive)
   max_atk_pct: null
   name_en: Norn's Trace + Space-Time Barrier + Dimension Extinction
   one_time: 0
@@ -84,7 +83,6 @@ records:
 - !SkillRecord
   desc_en: Change 1st column to Wood orbs, 6th column to Fire orbs, Deal 155% damage
     + Change 3rd row to Jammer orbs
-    + Change 3rd row to Jammer orbs
   max_atk_pct: null
   name_en: Bifröst Generation + Norn's Forgotten Item
   one_time: 0
@@ -92,7 +90,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Change all orbs to Fire, Wood, Heal, Deal 180% damage + Fix orb movement
-    starting point to random position on the board
     starting point to random position on the board
   max_atk_pct: null
   name_en: Norn Slave + Norn's Law
@@ -144,7 +141,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Movetime 50% for 12 turns + Voids
     player buff effects
-    player buff effects
   max_atk_pct: null
   name_en: The cogs of fate are now in motion + Nornil Curse + Dimension Extinction
   one_time: 0
@@ -153,7 +149,6 @@ records:
 - !SkillRecord
   desc_en: Change 1st row to Wood orbs, 5th row to Fire orbs, Deal 110% damage + Bind
     2 random cards for 1~2 turns
-    2 random cards for 1~2 turns
   max_atk_pct: null
   name_en: Bifröst Generation + Time Restriction
   one_time: 0
@@ -161,7 +156,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Change all orbs to Fire, Wood, Jammer, Deal 90% damage + Lock 12 random
-    Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs
     Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs
   max_atk_pct: null
   name_en: Norn Slave + Stopping time
@@ -212,7 +206,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Enemy recover 50% hp + Voids status ailments for 999 turns + Movetime 50%
-    for 12 turns + Voids player buff effects
     for 12 turns + Voids player buff effects
   max_atk_pct: null
   name_en: Healing Scratch + The cogs of fate are now in motion + Nornil Curse + Dimension

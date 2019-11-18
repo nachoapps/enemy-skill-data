@@ -33,7 +33,6 @@ records:
 - !SkillRecord
   desc_en: Do nothing + Change Random to Light, Deal 100% damage, (if [3124, 3125,
     3850] on team)
-    3850] on team)
   max_atk_pct: null
   name_en: Yo, Kinnikuman! + Face Flash
   one_time: 256

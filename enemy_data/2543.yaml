@@ -54,7 +54,6 @@ records:
 - !SkillRecord
   desc_en: Change 1st, 3rd, 5th row to Fire, Water, Wood, Light, Dark, Heal orbs,
     Deal 130% damage
-    Deal 130% damage
   max_atk_pct: 130
   name_en: Omikuji Blizzard
   one_time: 0
@@ -97,7 +96,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 1st, 3rd, 5th row to Fire, Water, Wood, Light, Dark, Heal orbs,
-    Deal 130% damage
     Deal 130% damage
   max_atk_pct: 130
   name_en: Omikuji Blizzard

@@ -25,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Lock 18 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 50% damage (Preemptive)
-    Poison orbs, Deal 50% damage (Preemptive)
   max_atk_pct: 50
   name_en: Ice Breath
   one_time: 0

@@ -33,7 +33,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Reduce damage from all sources by
     50% for 3 turns (Preemptive)
-    50% for 3 turns (Preemptive)
   max_atk_pct: null
   name_en: Ooowah! + Let's go!
   one_time: 0
@@ -132,7 +131,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 6th column to Dark orbs, Deal 100% damage + Change 1st column to
-    Dark orbs, Deal 100% damage
     Dark orbs, Deal 100% damage
   max_atk_pct: null
   name_en: Gigantic Pressure + Die!

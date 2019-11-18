@@ -25,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Bind awoken skills for 5 turns + Locked random skyfall +30% for 20 turns
     (Preemptive)
-    (Preemptive)
   max_atk_pct: null
   name_en: Disappearing Mist + Stone Rain
   one_time: 2
@@ -124,7 +123,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Enemy recover 100% hp + Lock all Fire, Water, Wood, Light, Dark, Heal,
-    Jammer, Poison, Mortal Poison orbs, Deal 100% damage
     Jammer, Poison, Mortal Poison orbs, Deal 100% damage
   max_atk_pct: null
   name_en: Spring of Life + Arrested

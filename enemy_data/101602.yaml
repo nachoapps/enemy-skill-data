@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Absorb damage >= 4000000 damage for
     99 turns (Preemptive)
-    99 turns (Preemptive)
   max_atk_pct: null
   name_en: Gothic Rose + Translucent Cold
   one_time: 0
@@ -61,7 +60,6 @@ records:
   usage_pct: 70
 - !SkillRecord
   desc_en: Change 1st column to Water orbs, 2nd column to Wood orbs, 3rd column to
-    Poison orbs, Deal 80% damage
     Poison orbs, Deal 80% damage
   max_atk_pct: 80
   name_en: Ice and Roses

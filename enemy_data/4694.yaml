@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
     orbs (Preemptive)
-    orbs (Preemptive)
   max_atk_pct: null
   name_en: Wisdom of the Freezing Divine Beast
   one_time: 0

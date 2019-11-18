@@ -40,7 +40,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Reduce damage from all sources by
     75% for 1 turns (Preemptive)
-    75% for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: Let's continue! + King of Zero
   one_time: 0

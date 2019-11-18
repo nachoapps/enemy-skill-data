@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Absorb combo <= 4 damage for 4 turns
     (Preemptive)
-    (Preemptive)
   max_atk_pct: null
   name_en: 精霊龍の煌翼 + 光明の羽
   one_time: 0

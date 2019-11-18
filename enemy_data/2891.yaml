@@ -32,7 +32,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Absorb combo <= 6 damage for 999
     turns (Preemptive)
-    turns (Preemptive)
   max_atk_pct: null
   name_en: My name is Orpharion! + Paradiso Puma
   one_time: 0
@@ -75,7 +74,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Lock 11 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
-    Poison orbs, Deal 100% damage
     Poison orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Chiave Spina

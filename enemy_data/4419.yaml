@@ -25,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: 6x2 cloud appear for 1 turns at 4th row, 1st column + Voids status ailments
     for 99 turns + Absorb combo <= 7 damage for 1 turns (Preemptive)
-    for 99 turns + Absorb combo <= 7 damage for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: Cloud Cluster + Protective Cloud Formation + Rainbow Fog
   one_time: 0
@@ -40,7 +39,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: 6x2 cloud appear for 1 turns at 1st row, 1st column + Absorb combo <= 4
-    damage for 5 turns + Deal 270% damage (9 hits, 30% each)
     damage for 5 turns + Deal 270% damage (9 hits, 30% each)
   max_atk_pct: null
   name_en: Cloud Cluster + Prism Fog + Lightning Ball Strike
@@ -57,7 +55,6 @@ records:
 - !SkillRecord
   desc_en: 6x2 cloud appear for 1 turns at 3rd row, 1st column + Delay active skills
     by 1~3 turns + Leader changes to random sub for 1 turns
-    by 1~3 turns + Leader changes to random sub for 1 turns
   max_atk_pct: null
   name_en: Cloud Cluster + Moby Dick's Mighty Roar + Rising Flip
   one_time: 16
@@ -72,7 +69,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: 3x3 cloud appear for 1 turns at 2nd row, 3rd column + Deal 240% damage
-    (2 hits, 120% each)
     (2 hits, 120% each)
   max_atk_pct: null
   name_en: Cloud Cluster + Storm Blow
@@ -89,7 +85,6 @@ records:
 - !SkillRecord
   desc_en: 3x3 cloud appear for 1 turns at 3rd row, 2nd column + Absorb Light damage
     for 5 turns + Change all orbs to Light
-    for 5 turns + Change all orbs to Light
   max_atk_pct: null
   name_en: Cloud Cluster + Divine Cloud + Flash Storm
   one_time: 4
@@ -104,7 +99,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: 3x3 cloud appear for 1 turns at 2nd row, 4th column + Change Random to
-    Light, Deal 250% damage
     Light, Deal 250% damage
   max_atk_pct: null
   name_en: Cloud Cluster + Plasma Breath
@@ -191,7 +185,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 10 turns + Bind 1 both leaders
     for 3 turns
-    for 3 turns
   max_atk_pct: null
   name_en: Colossal Cumulonimbus Cloud + Plasma Chain
   one_time: 0
@@ -248,7 +241,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Enemy recover 75% hp + Increase damage to 150% for the next 99 turns +
-    2x5 cloud appear for 1 turns at 1st row, 3rd column
     2x5 cloud appear for 1 turns at 1st row, 3rd column
   max_atk_pct: null
   name_en: Updraft + Swelling Clouds + Disastrous Cloud

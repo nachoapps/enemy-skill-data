@@ -92,7 +92,6 @@ records:
 - !SkillRecord
   desc_en: Do nothing + Do nothing + Spawn random 6 Poison orbs, (if [2682, 2683]
     on team)
-    on team)
   max_atk_pct: null
   name_en: Don't get carried away!!!! + Bankai + Konjiki Ashisogijizo
   one_time: 0

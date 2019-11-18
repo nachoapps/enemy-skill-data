@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 5 turns + Voids status ailments
     for 5 turns (Preemptive)
-    for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: Soon, I shall... + ...test your abilities!
   one_time: 32

@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Blind orbs in specific positions for 1 turns + Voids status ailments for
     999 turns (Preemptive)
-    999 turns (Preemptive)
   max_atk_pct: null
   name_en: I am the true Dragon King! + Acnologia Transformation
   one_time: 4
@@ -33,7 +32,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Fix orb movement starting point to random position on the board + Deal
-    150% damage (3 hits, 50% each)
     150% damage (3 hits, 50% each)
   max_atk_pct: null
   name_en: I recognize you as my enemy + GWAAAH-

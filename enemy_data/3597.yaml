@@ -32,7 +32,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Spawn locked Bomb orbs in the specified
     positions + Locked random skyfall +100% for 1 turns (Preemptive)
-    positions + Locked random skyfall +100% for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: Hell Armor + Demon Flare + Chaos Field
   one_time: 0
@@ -47,7 +46,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Fix orb movement starting point to random position on the board, Deal 200%
-    damage
     damage
   max_atk_pct: 200
   name_en: Energy Ray

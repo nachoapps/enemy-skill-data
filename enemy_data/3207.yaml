@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Absorb combo <= 7 damage for 1 turns + Change 1st column to Heal orbs,
     2nd column to Dark orbs, 3rd column to Fire orbs, Deal 140% damage (Preemptive)
-    2nd column to Dark orbs, 3rd column to Fire orbs, Deal 140% damage (Preemptive)
   max_atk_pct: null
   name_en: Bonfire of Enlightenment + Triple Fireball
   one_time: 0

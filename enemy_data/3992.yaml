@@ -40,7 +40,6 @@ records:
 - !SkillRecord
   desc_en: Blind orbs in specific positions for 1 turns + Voids status ailments for
     5 turns + Reduce damage from all sources by 75% for 1 turns (Preemptive)
-    5 turns + Reduce damage from all sources by 75% for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: ハッピーハロウィン！ + 怪しげなオーラ + さげてね
   one_time: 0

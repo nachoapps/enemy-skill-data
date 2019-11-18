@@ -25,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Absorb damage >= 8000000 damage for
     999 turns + Bind awoken skills for 10 turns (Preemptive)
-    999 turns + Bind awoken skills for 10 turns (Preemptive)
   max_atk_pct: null
   name_en: Hey! Good of you to come! + Make sure you take a rest too! + In eternity!
   one_time: 2
@@ -75,7 +74,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
-    orbs + Bind 4 random subs for 10 turns
     orbs + Bind 4 random subs for 10 turns
   max_atk_pct: null
   name_en: You can stay here forever! + Forever!!

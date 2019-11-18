@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 10 turns + Void damage >= 1000000
     for 3 turns (Preemptive)
-    for 3 turns (Preemptive)
   max_atk_pct: null
   name_en: 'Who is it, you ask? + That''s something...
 

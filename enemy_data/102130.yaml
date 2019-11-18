@@ -64,7 +64,6 @@ records:
 - !SkillRecord
   desc_en: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
     orbs, Deal 800% damage
-    orbs, Deal 800% damage
   max_atk_pct: 800
   name_en: Soaring Destruction
   one_time: 5
@@ -128,7 +127,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
-    orbs, Deal 800% damage
     orbs, Deal 800% damage
   max_atk_pct: 800
   name_en: Soaring Destruction

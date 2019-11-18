@@ -32,7 +32,6 @@ records:
 - !SkillRecord
   desc_en: Movetime -3s for 10 turns + Reduce damage from all sources by 50% for 10
     turns
-    turns
   max_atk_pct: null
   name_en: アンチバグスターエリア + デンジャラスブレイカー
   one_time: 2
@@ -96,7 +95,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
-    orbs + Absorb combo <= 6 damage for 10 turns
     orbs + Absorb combo <= 6 damage for 10 turns
   max_atk_pct: null
   name_en: レブナントディスチャージャー + ボーンビルドガード

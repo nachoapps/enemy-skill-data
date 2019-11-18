@@ -53,7 +53,6 @@ records:
 - !SkillRecord
   desc_en: Lock 4 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 70% damage
-    Poison orbs, Deal 70% damage
   max_atk_pct: 70
   name_en: Freeze Flame
   one_time: 0

@@ -40,7 +40,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 20 turns + Voids status ailments
     for 999 turns + Void damage >= 30000000 for 999 turns (Preemptive)
-    for 999 turns + Void damage >= 30000000 for 999 turns (Preemptive)
   max_atk_pct: null
   name_en: You leave me no choice... + Quarryla + Fervor Flame Wings
   one_time: 2048
@@ -133,7 +132,6 @@ records:
 - !SkillRecord
   desc_en: Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 160% damage
-    Poison orbs, Deal 160% damage
   max_atk_pct: 160
   name_en: Fescas
   one_time: 0
@@ -169,7 +167,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 1000% for the next 999 turns + Change 1st column to
-    Fire orbs
     Fire orbs
   max_atk_pct: null
   name_en: Sorry, but I want to return soon + Ancient firedrake, your power unto me!

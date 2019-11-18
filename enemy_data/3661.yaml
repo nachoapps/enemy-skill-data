@@ -39,7 +39,6 @@ records:
 - !SkillRecord
   desc_en: Movetime 150% for 1 turns + Absorb combo <= 6 damage for 1 turns + Do nothing,
     (if [3706] on team)
-    (if [3706] on team)
   max_atk_pct: 20
   name_en: Bubble Breath + Second Bubble Breath Stance + Interrupt it with an attack!
   one_time: 0
@@ -47,7 +46,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: 1x1 cloud appear for 1 turns at random location + Absorb combo <= 6 damage
-    for 1 turns + Do nothing
     for 1 turns + Do nothing
   max_atk_pct: null
   name_en: Bubble Breath + Second Bubble Breath Stance + Interrupt it with an attack!
@@ -84,7 +82,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind 1 random subs for 1 turns + Increase damage to 120% for the next 10
-    turns
     turns
   max_atk_pct: null
   name_en: Roar + Rage
@@ -142,7 +139,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Bind 1 random subs for 1 turns + Increase damage to 120% for the next 10
-    turns
     turns
   max_atk_pct: null
   name_en: Roar + Rage

@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Locked Water, Wood skyfall +100%
     for 99 turns (Preemptive)
-    for 99 turns (Preemptive)
   max_atk_pct: null
   name_en: It's a feast!!! + Sea Banquet Green Lock
   one_time: 0

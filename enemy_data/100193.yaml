@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Lock 1 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 10% damage (Preemptive)
-    Poison orbs, Deal 10% damage (Preemptive)
   max_atk_pct: 10
   name_en: Tiny Frost
   one_time: 0

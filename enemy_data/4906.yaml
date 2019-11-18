@@ -25,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Void damage >= 15000000 for 3 turns
     + Absorb combo <= 7 damage for 3 turns (Preemptive)
-    + Absorb combo <= 7 damage for 3 turns (Preemptive)
   max_atk_pct: null
   name_en: Wind Maker + Started making a whirlwind + Wind obstructs the strikes
   one_time: 1
@@ -104,7 +103,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Leader changes to random sub for 3 turns + Reduce damage from all sources
-    by 50% for 3 turns + Do nothing
     by 50% for 3 turns + Do nothing
   max_atk_pct: null
   name_en: Wind Mischief + Wind Follower + The wind died down
@@ -202,7 +200,6 @@ records:
 - !SkillRecord
   desc_en: Voids player buff effects + Delay active skills by 5 turns + Specific orbs
     change every 1.0s for 5 turns
-    change every 1.0s for 5 turns
   max_atk_pct: null
   name_en: Wind Eraser + Deaerate + Dust Storm
   one_time: 0
@@ -231,7 +228,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Water, Wood, Light, Dark +
-    Deal 500% damage (5 hits, 100% each)
     Deal 500% damage (5 hits, 100% each)
   max_atk_pct: null
   name_en: Molting + Aero Burst End

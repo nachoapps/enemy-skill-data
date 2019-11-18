@@ -45,7 +45,6 @@ records:
 - !SkillRecord
   desc_en: Spawn random 6 Fire, Water, Wood, Light, Dark orbs + 1x3 cloud appear for
     1 turns at random location
-    1 turns at random location
   max_atk_pct: null
   name_en: The second one... + Some Clouds...
   one_time: 8
@@ -60,7 +59,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 6 Fire, Water, Wood, Light, Dark orbs + Random 2 orbs change
-    every 1.0s for 1 turns
     every 1.0s for 1 turns
   max_atk_pct: null
   name_en: Aaaand the third one... + Orb change!
@@ -88,7 +86,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Remove damage immunity effect + Reduce damage from all sources by 75% for
-    5 turns + Void damage >= 20000000 for 30 turns + Delay active skills by 99 turns
     5 turns + Void damage >= 20000000 for 30 turns + Delay active skills by 99 turns
   max_atk_pct: null
   name_en: The examination is over! + My goodness! + You need a little checkup + Lay
@@ -126,7 +123,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Lock 3 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
-    Poison orbs, Deal 330% damage
     Poison orbs, Deal 330% damage
   max_atk_pct: 330
   name_en: Stitches
@@ -170,7 +166,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Water, Wood, Light, Dark +
-    Deal 12000% damage (2 hits, 6000% each)
     Deal 12000% damage (2 hits, 6000% each)
   max_atk_pct: null
   name_en: That's all for now! + Please come again!

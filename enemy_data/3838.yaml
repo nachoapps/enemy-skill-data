@@ -19,7 +19,6 @@ records:
 - !SkillRecord
   desc_en: Absorb Light damage for 5 turns + Bind 2 random for 3 turns, Deal 200%
     damage (Preemptive)
-    damage (Preemptive)
   max_atk_pct: null
   name_en: Electrified Golden Fur + Lightning Order
   one_time: 0
@@ -48,7 +47,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Bind 1 subs for 3 turns, Deal 200%
-    damage
     damage
   max_atk_pct: null
   name_en: White Scales + Lightning Release

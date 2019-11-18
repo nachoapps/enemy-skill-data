@@ -40,7 +40,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 99 turns + Change all orbs to
     Heal + Unable to match Heal orbs for 6 turns (Preemptive)
-    Heal + Unable to match Heal orbs for 6 turns (Preemptive)
   max_atk_pct: null
   name_en: I'm beat! + You can heal up now + Is that what you thought I would say?
   one_time: 0

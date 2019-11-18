@@ -110,7 +110,6 @@ records:
 - !SkillRecord
   desc_en: Change 2nd, 3rd, 4th, 5th column to Light, Jammer, Poison orbs, Deal 200%
     damage
-    damage
   max_atk_pct: 200
   name_en: Cat Roll
   one_time: 0

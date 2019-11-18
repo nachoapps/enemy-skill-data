@@ -25,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Blind orbs in specific positions for 1 turns + Lock all Fire, Water, Wood,
     Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 120% damage (Preemptive)
-    Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 120% damage (Preemptive)
   max_atk_pct: null
   name_en: Sequenced Power Outage + Electrification
   one_time: 2
@@ -40,7 +39,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Lock 6 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
-    Poison orbs, Deal 100% damage
     Poison orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Electric Charge
@@ -114,7 +112,6 @@ records:
 - !SkillRecord
   desc_en: Blind orbs in specific positions for 5 turns + Lock all Fire, Water, Wood,
     Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 120% damage (Preemptive)
-    Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 120% damage (Preemptive)
   max_atk_pct: null
   name_en: Sequenced Power Outage + Electrification
   one_time: 2
@@ -129,7 +126,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Lock 6 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
-    Poison orbs, Deal 100% damage
     Poison orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Electric Charge

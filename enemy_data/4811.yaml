@@ -19,7 +19,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Reduce damage from all sources by
     75% for 1 turns + Void damage >= 50000000 for 999 turns (Preemptive)
-    75% for 1 turns + Void damage >= 50000000 for 999 turns (Preemptive)
   max_atk_pct: null
   name_en: Oh, welcome to my shop + You're the one doing errands huh? + Show me the
     result of your errand
@@ -36,7 +35,6 @@ records:
 - !SkillRecord
   desc_en: Jammer, Poison skyfall +10% for 99 turns + Specific orbs change every 1.0s
     for 99 turns
-    for 99 turns
   max_atk_pct: null
   name_en: You're just a small-fry + Well, try your best!
   one_time: 0
@@ -51,7 +49,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
-    Poison orbs, Deal 100% damage
     Poison orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Viscid Dragon
@@ -109,7 +106,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 99 turns + Delay active skills
-    by 10 turns
     by 10 turns
   max_atk_pct: null
   name_en: You're doing quite well + This is fine, right?

@@ -26,7 +26,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 2 turns + Absorb combo <= 4 damage for 999 turns
     (Preemptive)
-    (Preemptive)
   max_atk_pct: null
   name_en: You've done well to come this far + Let's have some fun!
   one_time: 2
@@ -42,7 +41,6 @@ records:
 - !SkillRecord
   desc_en: Change 3rd column to Light orbs, 4th column to Light orbs, Deal 12000%
     damage + Deal 18000% damage (3 hits, 6000% each)
-    damage + Deal 18000% damage (3 hits, 6000% each)
   max_atk_pct: null
   name_en: Lightning of God + Double Slap
   one_time: 0
@@ -50,7 +48,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Change 4th row to Light orbs, Deal 15000% damage + Change Light to Jammer,
-    Deal 7500% damage
     Deal 7500% damage
   max_atk_pct: null
   name_en: Zeus Blade + Mischief by God
@@ -60,7 +57,6 @@ records:
 - !SkillRecord
   desc_en: Change 4th row to Light orbs, Deal 15000% damage + Deal 18000% damage (3
     hits, 6000% each)
-    hits, 6000% each)
   max_atk_pct: null
   name_en: Zeus Blade + Double Slap
   one_time: 0
@@ -68,7 +64,6 @@ records:
   usage_pct: 20
 - !SkillRecord
   desc_en: Change 3rd column to Light orbs, 4th column to Light orbs, Deal 12000%
-    damage + Bind 1 subs for 1~2 turns, Deal 10000% damage
     damage + Bind 1 subs for 1~2 turns, Deal 10000% damage
   max_atk_pct: null
   name_en: Lightning of God + Diabolic Embrace
@@ -91,7 +86,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 3rd column to Light orbs, 4th column to Light orbs, Deal 12000%
-    damage + Voids status ailments for 2 turns
     damage + Voids status ailments for 2 turns
   max_atk_pct: null
   name_en: Lightning of God + Preening

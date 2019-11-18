@@ -46,7 +46,6 @@ records:
 - !SkillRecord
   desc_en: Do nothing + Do nothing + Do nothing + Player -150% HP, (if [3608, 3609]
     on team)
-    on team)
   max_atk_pct: null
   name_en: You are a remarkable man... + Be consumed by the darkness... + That swallows
     even the void of night... + Dead End

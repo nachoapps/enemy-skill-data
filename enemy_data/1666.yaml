@@ -40,7 +40,6 @@ records:
 - !SkillRecord
   desc_en: 2x3 cloud appear for 6 turns at random location + Reduce damage from all
     sources by 75% for 5 turns (Preemptive)
-    sources by 75% for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: Let's go! + Protection of the Ether and the Sun
   one_time: 0

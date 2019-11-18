@@ -88,7 +88,6 @@ records:
 - !SkillRecord
   desc_en: Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 110% damage
-    Poison orbs, Deal 110% damage
   max_atk_pct: 110
   name_en: This is my snack!
   one_time: 0

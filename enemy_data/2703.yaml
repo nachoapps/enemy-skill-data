@@ -33,7 +33,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Deal 110% damage (10 hits, 11% each)
     (Preemptive)
-    (Preemptive)
   max_atk_pct: null
   name_en: Then feast your eyes... + Senbonzakura Kageyoshi
   one_time: 0
@@ -83,7 +82,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Do nothing + Increase damage to 200% for the next 999 turns + Do nothing,
-    (if [2675, 2676, 2677, 3353, 3354] on team)
     (if [2675, 2676, 2677, 3353, 3354] on team)
   max_atk_pct: null
   name_en: This is the true form of Senbonzakura. + Senkei Senbonzakura Kageyoshi

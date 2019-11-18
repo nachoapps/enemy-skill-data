@@ -25,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Poison skyfall +15% for 7 turns + Specific orbs change every 1.0s for 7
     turns (Preemptive)
-    turns (Preemptive)
   max_atk_pct: null
   name_en: Summon Poison Orbs!... + If you don't want to die
   one_time: 1

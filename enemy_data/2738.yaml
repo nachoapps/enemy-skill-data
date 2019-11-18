@@ -46,7 +46,6 @@ records:
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Water, Wood + Player -200%
     HP
-    HP
   max_atk_pct: null
   name_en: Energy Reflux + Gaia Pressure
   one_time: 0

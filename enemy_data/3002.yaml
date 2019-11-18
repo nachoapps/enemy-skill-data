@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Delay active skills by 2 turns + Lock all Wood, Heal orbs, Deal 80% damage
     (Preemptive)
-    (Preemptive)
   max_atk_pct: null
   name_en: Visitor, come here but do not rush + Dimension-Miracle
   one_time: 0
@@ -34,7 +33,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Change all orbs to Jammer, Deal 60%
     damage, (if [2145, 2146, 2972] on team)
-    damage, (if [2145, 2146, 2972] on team)
   max_atk_pct: null
   name_en: Tranquility suits you well + Sacred Grounds of the Green Earth
   one_time: 0
@@ -42,7 +40,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Change all orbs to Jammer, Deal 60%
-    damage
     damage
   max_atk_pct: null
   name_en: Mountain Dragon God's Protection + Sacred Grounds of the Green Earth
@@ -127,7 +124,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Change all orbs to Jammer, Deal 60%
     damage + Reduce damage from all sources by 75% for 1 turns
-    damage + Reduce damage from all sources by 75% for 1 turns
   max_atk_pct: null
   name_en: Mountain Dragon God's Protection + Sacred Grounds of the Green Earth +
     Magatama of Yin and Yang
@@ -157,7 +153,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Lock 18 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
-    Poison orbs, Deal 80% damage
     Poison orbs, Deal 80% damage
   max_atk_pct: 80
   name_en: Summit Miracle

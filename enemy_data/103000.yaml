@@ -55,7 +55,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Reduce damage from all sources by
     50% for 7 turns, (if [2141, 2142, 2970] on team)
-    50% for 7 turns, (if [2141, 2142, 2970] on team)
   max_atk_pct: null
   name_en: I... don't want... to lose... + Scarlet Sky Barrier
   one_time: 0
@@ -63,7 +62,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Reduce damage from all sources by
-    50% for 7 turns
     50% for 7 turns
   max_atk_pct: null
   name_en: Yamato Dragon's Protection + Scarlet Sky Barrier
@@ -199,7 +197,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Reduce damage from all sources by
     50% for 7 turns + Deal 160% damage, (if [2141, 2142, 2970] on team)
-    50% for 7 turns + Deal 160% damage, (if [2141, 2142, 2970] on team)
   max_atk_pct: null
   name_en: I... don't want... to lose... + Scarlet Sky Barrier + Dimension-Celestial
     Thorn of Chaos
@@ -208,7 +205,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Reduce damage from all sources by
-    50% for 7 turns + Deal 160% damage
     50% for 7 turns + Deal 160% damage
   max_atk_pct: null
   name_en: Yamato Dragon's Protection + Scarlet Sky Barrier + Dimension-Celestial

@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Absorb damage >= 5000000 damage for
     3 turns (Preemptive)
-    3 turns (Preemptive)
   max_atk_pct: null
   name_en: Resolute Justice + Pierced Belief
   one_time: 4
@@ -62,7 +61,6 @@ records:
 - !SkillRecord
   desc_en: Absorb damage >= 10000000 damage for 3 turns + Increase damage to 150%
     for the next 2 turns
-    for the next 2 turns
   max_atk_pct: null
   name_en: Pierced Belief + Sharpened Mind
   one_time: 2
@@ -105,7 +103,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb damage >= 15000000 damage for 99 turns + Increase damage to 200%
-    for the next 99 turns
     for the next 99 turns
   max_atk_pct: null
   name_en: Pierced Belief + Sharpened Mind

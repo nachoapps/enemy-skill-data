@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Bind awoken skills for 5 turns + Change all orbs to Light, Dark, Jammer,
     Deal 130% damage (Preemptive)
-    Deal 130% damage (Preemptive)
   max_atk_pct: null
   name_en: Tiger Snake Roar + Wicked Blue Life Mutation
   one_time: 2
@@ -61,7 +60,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Seal 5th row for 5 turns + Reduce damage from all sources by 50% for 5
-    turns
     turns
   max_atk_pct: null
   name_en: Ground Drilling + Rolling Up

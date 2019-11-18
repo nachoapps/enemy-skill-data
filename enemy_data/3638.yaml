@@ -32,7 +32,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Row of cloud appear for 30 turns
     at 1st column (Preemptive)
-    at 1st column (Preemptive)
   max_atk_pct: null
   name_en: Concept of Boundless Worlds + Dormant Oceanic Evil
   one_time: 0
@@ -97,7 +96,6 @@ records:
 - !SkillRecord
   desc_en: Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 380% damage
-    Poison orbs, Deal 380% damage
   max_atk_pct: 380
   name_en: Dreaded Celestial
   one_time: 0
@@ -147,7 +145,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
-    Poison orbs, Deal 380% damage
     Poison orbs, Deal 380% damage
   max_atk_pct: 380
   name_en: Dreaded Celestial

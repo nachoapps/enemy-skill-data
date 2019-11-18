@@ -67,7 +67,6 @@ records:
 - !SkillRecord
   desc_en: Change 1st column to Water, Light orbs, 6th column to Water, Light orbs,
     Deal 100% damage
-    Deal 100% damage
   max_atk_pct: 100
   name_en: Let's see how you handle this!
   one_time: 0

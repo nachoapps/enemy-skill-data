@@ -32,7 +32,6 @@ records:
 - !SkillRecord
   desc_en: Spawn random 3 Heal, Jammer, Poison orbs + Fix orb movement starting point
     to random position on the board
-    to random position on the board
   max_atk_pct: null
   name_en: Justice Jamming + Justice Road
   one_time: 0

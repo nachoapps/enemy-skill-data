@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Absorb combo <= 7 damage for 6 turns
     + Reduce damage from all sources by 90% for 6 turns (Preemptive)
-    + Reduce damage from all sources by 90% for 6 turns (Preemptive)
   max_atk_pct: null
   name_en: Divine Wind of Suwa + The Pinnacle of Warfare + Divine Pillar
   one_time: 8
@@ -48,7 +47,6 @@ records:
 - !SkillRecord
   desc_en: Jammer, Poison skyfall +20% for 10 turns + Deal 320% damage (8 hits, 40%
     each)
-    each)
   max_atk_pct: null
   name_en: Dead Leaves of the God Tree + Divine Katana of Yasaka
   one_time: 2
@@ -63,7 +61,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Increase damage to 200% for the next 99 turns + Absorb damage >= 10000000
-    damage for 10 turns
     damage for 10 turns
   max_atk_pct: null
   name_en: Unforgivable Compilation + War God's Robes

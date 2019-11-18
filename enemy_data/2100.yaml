@@ -81,7 +81,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 99 turns + Reduce damage from all
     sources by 75% for 99 turns
-    sources by 75% for 99 turns
   max_atk_pct: null
   name_en: Holy Crimson Phantom + Holy Crimson Flame
   one_time: 0

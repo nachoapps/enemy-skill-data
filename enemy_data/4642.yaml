@@ -193,7 +193,6 @@ records:
 - !SkillRecord
   desc_en: Bind 6 random cards for 1 turns + Increase damage to 200% for the next
     99 turns
-    99 turns
   max_atk_pct: null
   name_en: All Restrain + Serene Zephyr
   one_time: 0

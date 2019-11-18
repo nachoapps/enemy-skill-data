@@ -53,7 +53,6 @@ records:
 - !SkillRecord
   desc_en: Change 1st, 3rd, 5th row to Fire, Dark, Jammer orbs, Deal 100% damage +
     Delay active skills by 2 turns
-    Delay active skills by 2 turns
   max_atk_pct: null
   name_en: Dark Color Fire + Beast's Ambition
   one_time: 0
@@ -83,7 +82,6 @@ records:
 - !SkillRecord
   desc_en: Bind 1 both leaders for 1 turns + Increase damage to 200% for the next
     999 turns
-    999 turns
   max_atk_pct: null
   name_en: Can you wait a little bit please? + Grrrrr...
   one_time: 0
@@ -105,7 +103,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 1st, 2nd, 3rd, 4th, 5th row to Fire, Dark, Jammer, Poison orbs,
-    Deal 20% damage + Deal 360% damage (6 hits, 60% each)
     Deal 20% damage + Deal 360% damage (6 hits, 60% each)
   max_atk_pct: null
   name_en: Crows of Sorrow + Beast Last Attack

@@ -26,7 +26,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Void damage >= 10000000 for 999 turns
     + Rcv 50% for 20 turns (Preemptive)
-    + Rcv 50% for 20 turns (Preemptive)
   max_atk_pct: null
   name_en: White Valkyrie Shield + Fylgja Fur + Discerning Lifechains
   one_time: 0
@@ -136,7 +135,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Enemy recover 100% hp + Change own attribute to random one of Fire, Water,
-    Wood, Light, Dark
     Wood, Light, Dark
   max_atk_pct: null
   name_en: Resurrection + Sweeping Spirit Garments

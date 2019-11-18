@@ -39,7 +39,6 @@ records:
 - !SkillRecord
   desc_en: Lock 4 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 100% damage
-    Poison orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: 一歩も進むことは許さねェぜ
   one_time: 0

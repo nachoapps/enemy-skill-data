@@ -19,7 +19,6 @@ records:
 - !SkillRecord
   desc_en: Void damage >= 10000000 for 999 turns + Voids status ailments for 999 turns
     + Absorb Light damage for 5 turns (Preemptive)
-    + Absorb Light damage for 5 turns (Preemptive)
   max_atk_pct: null
   name_en: Safety + Shell + Holy Absorb
   one_time: 0

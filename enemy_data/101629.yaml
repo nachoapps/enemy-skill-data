@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Absorb combo <= 5 damage for 999 turns + Fix orb movement starting point
     to random position on the board (Preemptive)
-    to random position on the board (Preemptive)
   max_atk_pct: null
   name_en: Cauchemar Phantom + Cauchemar Road
   one_time: 0

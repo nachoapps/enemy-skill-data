@@ -151,7 +151,6 @@ records:
 - !SkillRecord
   desc_en: Lock 8 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 80% damage
-    Poison orbs, Deal 80% damage
   max_atk_pct: 80
   name_en: Power Claw
   one_time: 2
@@ -292,7 +291,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
-    orbs, Deal 750% damage
     orbs, Deal 750% damage
   max_atk_pct: 750
   name_en: Explosive Skewer
@@ -443,7 +441,6 @@ records:
 - !SkillRecord
   desc_en: Lock 8 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 80% damage
-    Poison orbs, Deal 80% damage
   max_atk_pct: 80
   name_en: Power Claw
   one_time: 2
@@ -584,7 +581,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
-    orbs, Deal 750% damage
     orbs, Deal 750% damage
   max_atk_pct: 750
   name_en: Explosive Skewer

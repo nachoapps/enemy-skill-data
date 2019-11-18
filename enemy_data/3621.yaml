@@ -53,7 +53,6 @@ records:
 - !SkillRecord
   desc_en: Lock 6 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 130% damage
-    Poison orbs, Deal 130% damage
   max_atk_pct: 130
   name_en: Funokazura Rouga
   one_time: 0

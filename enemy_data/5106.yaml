@@ -74,7 +74,6 @@ records:
 - !SkillRecord
   desc_en: Deal 50% damage + Deal 100% damage + Random 1 orbs change every 2.0s for
     2 turns, Deal 50% damage
-    2 turns, Deal 50% damage
   max_atk_pct: null
   name_en: Knee Hammer + Disable Skill + Double Lariat
   one_time: 2

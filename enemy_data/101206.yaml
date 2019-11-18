@@ -40,7 +40,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Lock all Fire, Water, Wood, Light,
     Dark, Heal, Jammer, Poison, Mortal Poison orbs (Preemptive)
-    Dark, Heal, Jammer, Poison, Mortal Poison orbs (Preemptive)
   max_atk_pct: null
   name_en: God Dragons' Field + God Pulse
   one_time: 0

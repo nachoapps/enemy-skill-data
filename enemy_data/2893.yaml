@@ -26,7 +26,6 @@ records:
 - !SkillRecord
   desc_en: Specific orbs change every 1.0s for 10 turns + Voids status ailments for
     999 turns + Change Random 8 to Poison, Deal 200% damage (Preemptive)
-    999 turns + Change Random 8 to Poison, Deal 200% damage (Preemptive)
   max_atk_pct: null
   name_en: Determine your own destiny! + Half-Demon + Double Pain
   one_time: 0

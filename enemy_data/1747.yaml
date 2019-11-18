@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Reduce damage from all sources by
     50% for 1 turns (Preemptive)
-    50% for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: Dance of the Goddess + Released Chakra
   one_time: 0

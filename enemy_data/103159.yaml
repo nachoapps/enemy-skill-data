@@ -25,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Absorb damage >= 3000000 damage for
     3 turns (Preemptive)
-    3 turns (Preemptive)
   max_atk_pct: null
   name_en: Good morning! + Divine Dawn Light
   one_time: 512
@@ -40,7 +39,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Seal 1st column for 1 turns + Change 6th column to Heal, Jammer orbs, Deal
-    120% damage
     120% damage
   max_atk_pct: null
   name_en: Rolling, rolling, rolling ♪ + Eat this!
@@ -85,7 +83,6 @@ records:
 - !SkillRecord
   desc_en: Seal 1st row for 1 turns + Change 5th row to Heal, Jammer orbs, Deal 120%
     damage
-    damage
   max_atk_pct: null
   name_en: Eeny, meeny, miny, moe♪ + Eat this!
   one_time: 32
@@ -100,7 +97,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Seal 1st row for 1 turns + Change 5th row to Heal, Jammer orbs, Deal 120%
-    damage
     damage
   max_atk_pct: null
   name_en: Eeny, meeny, miny, moe♪ + Eat this!
@@ -151,7 +147,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Seal 6th column for 1 turns + Change 1st column to Heal, Jammer orbs, Deal
-    120% damage
     120% damage
   max_atk_pct: null
   name_en: Rolling, rolling, rolling, rolling ♪ + Eat this!
@@ -225,7 +220,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Absorb damage >= 3000000 damage for
     3 turns (Preemptive)
-    3 turns (Preemptive)
   max_atk_pct: null
   name_en: Good morning! + Divine Dawn Light
   one_time: 512
@@ -240,7 +234,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Seal 1st column for 1 turns + Change 6th column to Heal, Jammer orbs, Deal
-    120% damage
     120% damage
   max_atk_pct: null
   name_en: Rolling, rolling, rolling ♪ + Eat this!
@@ -285,7 +278,6 @@ records:
 - !SkillRecord
   desc_en: Seal 1st row for 1 turns + Change 5th row to Heal, Jammer orbs, Deal 120%
     damage
-    damage
   max_atk_pct: null
   name_en: Eeny, meeny, miny, moe♪ + Eat this!
   one_time: 32
@@ -300,7 +292,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Seal 1st row for 1 turns + Change 5th row to Heal, Jammer orbs, Deal 120%
-    damage
     damage
   max_atk_pct: null
   name_en: Eeny, meeny, miny, moe♪ + Eat this!
@@ -351,7 +342,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Seal 6th column for 1 turns + Change 1st column to Heal, Jammer orbs, Deal
-    120% damage
     120% damage
   max_atk_pct: null
   name_en: Rolling, rolling, rolling, rolling ♪ + Eat this!

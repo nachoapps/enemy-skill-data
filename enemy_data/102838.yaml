@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Delay active skills by 10 turns + Absorb damage >= 1000000 damage for 99
     turns (Preemptive)
-    turns (Preemptive)
   max_atk_pct: null
   name_en: Fight is Everything!! + Vayu's Divine Protection
   one_time: 16

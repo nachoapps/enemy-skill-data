@@ -26,7 +26,6 @@ records:
 - !SkillRecord
   desc_en: Absorb combo <= 5 damage for 5 turns + Voids status ailments for 999 turns
     (Preemptive)
-    (Preemptive)
   max_atk_pct: null
   name_en: Roaring Flame's Fighting Spirit + Mahattvatabaha
   one_time: 32
@@ -69,7 +68,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
-    Poison orbs, Deal 140% damage
     Poison orbs, Deal 140% damage
   max_atk_pct: 140
   name_en: Sun's Sacred Flame

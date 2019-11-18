@@ -25,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Unable to match Fire, Water, Wood, Light, Dark orbs for 1 turns + Voids
     status ailments for 999 turns + Void damage >= 10000000 for 999 turns (Preemptive)
-    status ailments for 999 turns + Void damage >= 10000000 for 999 turns (Preemptive)
   max_atk_pct: null
   name_en: Battle Preparations + Guardian Dragon Formation + Armored Defense
   one_time: 0
@@ -40,7 +39,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb combo <= 8 damage for 1 turns + Increase damage to 900% for the
-    next 1 turns
     next 1 turns
   max_atk_pct: null
   name_en: Simple Nine Seek + Storing energy...
@@ -106,7 +104,6 @@ records:
 - !SkillRecord
   desc_en: Lock 9 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs
-    Poison orbs
   max_atk_pct: null
   name_en: Little Flash
   one_time: 0
@@ -128,7 +125,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change Random to Jammer, Deal 50% damage + Lock all Fire, Water, Wood,
-    Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs
     Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs
   max_atk_pct: null
   name_en: Elemental Purge + Orb Flash
@@ -152,7 +148,6 @@ records:
 - !SkillRecord
   desc_en: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
     orbs + Player -115% HP
-    orbs + Player -115% HP
   max_atk_pct: null
   name_en: Orb Flash + Rubilushent
   one_time: 0
@@ -174,7 +169,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Absorb combo <= 8 damage for 9 turns + Reduce damage from all sources by
-    50% for 9 turns
     50% for 9 turns
   max_atk_pct: null
   name_en: Nine Seek + Metal Armor

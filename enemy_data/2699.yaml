@@ -95,7 +95,6 @@ records:
 - !SkillRecord
   desc_en: Do nothing + Do nothing + Increase damage to 200% for the next 999 turns,
     (if [2702, 2703] on team)
-    (if [2702, 2703] on team)
   max_atk_pct: null
   name_en: I will surpass you, Captain Kuchiki. + Bankai + Hihio Zabimaru
   one_time: 0

@@ -32,7 +32,6 @@ records:
 - !SkillRecord
   desc_en: Void damage >= 30000000 for 999 turns + Locked random skyfall +100% for
     99 turns (Preemptive)
-    99 turns (Preemptive)
   max_atk_pct: null
   name_en: 誤謬無き絶対的原罪 + 万有を創造せし時空の支配者
   one_time: 0

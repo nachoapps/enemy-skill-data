@@ -40,7 +40,6 @@ records:
 - !SkillRecord
   desc_en: Fix orb movement starting point to random position on the board, (if [4858,
     4859] on team) (Preemptive)
-    4859] on team) (Preemptive)
   max_atk_pct: null
   name_en: Hey, what's up? You next?
   one_time: 1

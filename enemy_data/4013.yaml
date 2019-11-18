@@ -25,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Void damage >= 100000000 for 999
     turns (Preemptive)
-    turns (Preemptive)
   max_atk_pct: null
   name_en: Protection of the Gods + Divine King's Armor
   one_time: 4
@@ -83,7 +82,6 @@ records:
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Water, Wood + Change 3rd column
     to Dark orbs, 4th column to Light orbs, Deal 250% damage
-    to Dark orbs, 4th column to Light orbs, Deal 250% damage
   max_atk_pct: null
   name_en: Psevdaisthíseis + ...Grovel at my feet
   one_time: 2
@@ -120,7 +118,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 1000% for the next 999 turns + Bind awoken skills for
     10 turns
-    10 turns
   max_atk_pct: null
   name_en: Playtime's over... + Élenchos
   one_time: 0
@@ -135,7 +132,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Water, Wood + Change 3rd column
-    to Dark orbs, 4th column to Light orbs, Deal 250% damage
     to Dark orbs, 4th column to Light orbs, Deal 250% damage
   max_atk_pct: null
   name_en: Psevdaisthíseis + ...Grovel at my feet

@@ -32,7 +32,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Void damage >= 10000000 for 999 turns
     + Delay active skills by 3 turns, Deal 125% damage (Preemptive)
-    + Delay active skills by 3 turns, Deal 125% damage (Preemptive)
   max_atk_pct: null
   name_en: That's a good look + Try to beat me! + Darkstrom
   one_time: 2
@@ -124,7 +123,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 99 turns + Movetime 50% for 10
-    turns
     turns
   max_atk_pct: null
   name_en: Finally, you will struggle... + Prepare yourself!

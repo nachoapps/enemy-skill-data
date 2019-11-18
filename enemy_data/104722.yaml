@@ -19,7 +19,6 @@ records:
 - !SkillRecord
   desc_en: Spawn random 3 Wood orbs + Bind active skills for 1 turns + Spawn random
     10 Light, Heal, Jammer, Mortal Poison orbs (Preemptive)
-    10 Light, Heal, Jammer, Mortal Poison orbs (Preemptive)
   max_atk_pct: null
   name_en: Magia Points have recovered + Seiren's Singing Voice + Themis's Oracle
   one_time: 0
@@ -293,7 +292,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Spawn random 3 Wood orbs + Reduce damage from all sources by 50% for 3
-    turns
     turns
   max_atk_pct: null
   name_en: Magia Points have recovered + Aegis

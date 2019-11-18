@@ -123,7 +123,6 @@ records:
 - !SkillRecord
   desc_en: Lock 8 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 200% damage
-    Poison orbs, Deal 200% damage
   max_atk_pct: 200
   name_en: Blood Freeze
   one_time: 0

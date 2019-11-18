@@ -88,7 +88,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 3 turns + Increase damage to 150% for the next
     999 turns
-    999 turns
   max_atk_pct: null
   name_en: 'As a sign of my respect,
 

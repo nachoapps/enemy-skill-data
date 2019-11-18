@@ -26,7 +26,6 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 1 turns + Increase damage to
     150% for the next 99 turns (Preemptive)
-    150% for the next 99 turns (Preemptive)
   max_atk_pct: null
   name_en: Protection of the Planets + Limit of the Sky
   one_time: 1
@@ -55,7 +54,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Absorb damage >= 30000000 damage
-    for 30 turns + Fire, Water skyfall +20% for 3 turns
     for 30 turns + Fire, Water skyfall +20% for 3 turns
   max_atk_pct: null
   name_en: Protection of the Stars + Preserving Bottle + Waking Sun - Aqua
@@ -99,7 +97,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Absorb damage >= 30000000 damage
-    for 30 turns + Fire, Water skyfall +20% for 3 turns
     for 30 turns + Fire, Water skyfall +20% for 3 turns
   max_atk_pct: null
   name_en: Protection of the Stars + Preserving Bottle + Waking Sun - Aqua

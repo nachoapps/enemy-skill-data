@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 200% for the next 4 turns, (if [3146, 3147] on team)
     (Preemptive)
-    (Preemptive)
   max_atk_pct: null
   name_en: Brains over brawn?! Says who!
   one_time: 0
@@ -54,7 +53,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Lock 6 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
-    Poison orbs, Deal 50% damage
     Poison orbs, Deal 50% damage
   max_atk_pct: 50
   name_en: Mighty Spear

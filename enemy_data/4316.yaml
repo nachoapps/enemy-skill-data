@@ -89,7 +89,6 @@ records:
 - !SkillRecord
   desc_en: Lock 9 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs + Deal 110% damage
-    Poison orbs + Deal 110% damage
   max_atk_pct: null
   name_en: Now I have you! + One last go!!
   one_time: 0

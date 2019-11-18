@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Delay active skills by 10 turns + Rcv 50% for 10 turns + Bind active skills
     for 10 turns (Preemptive)
-    for 10 turns (Preemptive)
   max_atk_pct: null
   name_en: Demonic Eye of Truth + Lifeseal Talisman + Chime of the Demon Moon
   one_time: 0

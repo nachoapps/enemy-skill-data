@@ -32,7 +32,6 @@ records:
 - !SkillRecord
   desc_en: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
     orbs, Deal 100% damage
-    orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: 'Over Soul Instruments of Torture:
 

@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Player recover 100% hp + Reduce damage from all sources by 50% for 3 turns
     (Preemptive)
-    (Preemptive)
   max_atk_pct: null
   name_en: Welcome! + And now, Dance of the Spirit Turtle!
   one_time: 0

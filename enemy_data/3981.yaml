@@ -41,7 +41,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 10 turns + Absorb combo <= 4 damage for 5 turns
     (Preemptive)
-    (Preemptive)
   max_atk_pct: null
   name_en: New God of Apokolips + Villainous Strategy
   one_time: 0
@@ -105,7 +104,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 3rd, 4th column to Jammer orbs, 1st, 2nd, 5th, 6th column to Fire,
-    Water, Wood, Light, Dark, Heal orbs, Deal 180% damage
     Water, Wood, Light, Dark, Heal orbs, Deal 180% damage
   max_atk_pct: 180
   name_en: Splitting Swing

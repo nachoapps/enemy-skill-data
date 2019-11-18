@@ -25,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Absorb combo <= 6 damage for 999 turns + Voids status ailments for 999
     turns + Movetime 25% for 6 turns, (if [2323] on team) (Preemptive)
-    turns + Movetime 25% for 6 turns, (if [2323] on team) (Preemptive)
   max_atk_pct: null
   name_en: You ate my dango, didn't you! + Blessed Harvest + Vines get in the way
     of the puzzle!
@@ -34,7 +33,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Absorb combo <= 6 damage for 999 turns + Voids status ailments for 999
-    turns + Movetime 25% for 6 turns, (if [2322] on team) (Preemptive)
     turns + Movetime 25% for 6 turns, (if [2322] on team) (Preemptive)
   max_atk_pct: null
   name_en: Frightened and on the verge of tears + Blessed Harvest + Vines get in the
@@ -45,7 +43,6 @@ records:
 - !SkillRecord
   desc_en: Absorb combo <= 6 damage for 999 turns + Voids status ailments for 999
     turns + Movetime 25% for 6 turns (Preemptive)
-    turns + Movetime 25% for 6 turns (Preemptive)
   max_atk_pct: null
   name_en: Let's take it nice and slow + Blessed Harvest + Vines get in the way of
     the puzzle!
@@ -54,7 +51,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 1 turns + Change 3rd row to Heal
-    orbs, Deal 100% damage + Change Heal to Jammer, Deal 100% damage
     orbs, Deal 100% damage + Change Heal to Jammer, Deal 100% damage
   max_atk_pct: null
   name_en: Benevolent Protection + Lifespan Diminisher + Ruined Harvest Mudslide
@@ -70,7 +66,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change 3rd row to Heal orbs, Deal 100% damage + Change Heal to Poison,
-    Deal 100% damage
     Deal 100% damage
   max_atk_pct: null
   name_en: Lifespan Diminisher + Insidious Impurity

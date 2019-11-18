@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Delay active skills by 5 turns + Absorb combo <= 5 damage for 10 turns
     (Preemptive)
-    (Preemptive)
   max_atk_pct: null
   name_en: Giant Whale's Sea Spray + Twinkle Blue
   one_time: 0

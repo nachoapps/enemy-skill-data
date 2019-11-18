@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Locked Heal skyfall +100% for 10
     turns (Preemptive)
-    turns (Preemptive)
   max_atk_pct: null
   name_en: Let the ceremony begin! + Love's Lock Banquet
   one_time: 0

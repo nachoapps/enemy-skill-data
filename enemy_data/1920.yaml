@@ -25,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Bind active skills for 5 turns + Locked Water, Heal skyfall +100% for 10
     turns, Deal 140% damage (Preemptive)
-    turns, Deal 140% damage (Preemptive)
   max_atk_pct: null
   name_en: Mirage Temptation + Frozen Celestial Ocean
   one_time: 8

@@ -25,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 5 turns + Change all orbs to Water, Wood, Light,
     Dark (Preemptive)
-    Dark (Preemptive)
   max_atk_pct: null
   name_en: Arctic Coating + Frozen Ground
   one_time: 0
@@ -48,7 +47,6 @@ records:
 - !SkillRecord
   desc_en: Change 6th column to Water orbs, Deal 100% damage + Blind all orbs on the
     board
-    board
   max_atk_pct: null
   name_en: Blizzard Signal + Steam Release
   one_time: 0
@@ -57,7 +55,6 @@ records:
 - !SkillRecord
   desc_en: Change 6th column to Water orbs, Deal 100% damage + Change Random 3 to
     Poison
-    Poison
   max_atk_pct: null
   name_en: Blizzard Signal + Toxic Gas Cloud
   one_time: 0
@@ -65,7 +62,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Change 6th column to Water orbs, Deal 100% damage + Spawn random 3 Jammer
-    orbs
     orbs
   max_atk_pct: null
   name_en: Blizzard Signal + Scattered Clump of Earth
@@ -102,7 +98,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Absorb Water damage for 3 turns + Change 5th, 6th column to Water orbs,
-    Deal 160% damage
     Deal 160% damage
   max_atk_pct: null
   name_en: Sapphire Drive + Blizzard Double Signal
@@ -160,7 +155,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change 1st, 2nd, 3rd, 4th, 5th, 6th row to Water orbs, Deal 600% damage
-    + Enemy recover 76% hp
     + Enemy recover 76% hp
   max_atk_pct: null
   name_en: Blizzard All Signal + Metal Repair

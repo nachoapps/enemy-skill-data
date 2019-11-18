@@ -25,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Delay active skills by 10 turns + Blind orbs in specific positions for
     5 turns (Preemptive)
-    5 turns (Preemptive)
   max_atk_pct: null
   name_en: Blazing Flame Forest + Smoldering Ruins
   one_time: 0

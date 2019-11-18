@@ -53,7 +53,6 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 5 turns + Absorb combo <= 5 damage
     for 5 turns
-    for 5 turns
   max_atk_pct: null
   name_en: I'm gonna use force. + Shamanic Oracle
   one_time: 0

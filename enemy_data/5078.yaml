@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
     orbs (Preemptive)
-    orbs (Preemptive)
   max_atk_pct: null
   name_en: This is the path of my destiny!
   one_time: 2
@@ -41,7 +40,6 @@ records:
 - !SkillRecord
   desc_en: Bind 1 subs for 1~2 turns, Deal 45% damage + Deal 100% damage + Deal 50%
     damage
-    damage
   max_atk_pct: null
   name_en: Solar Plexus Strike + Disable Skill + Shoryuken
   one_time: 0
@@ -49,7 +47,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Player -25% HP + Deal 100% damage + Absorb combo <= 5 damage for 1 turns,
-    Deal 40% damage
     Deal 40% damage
   max_atk_pct: null
   name_en: Axe Kick + Disable Skill + Tatsumaki Senpukyaku
@@ -94,7 +91,6 @@ records:
 - !SkillRecord
   desc_en: Deal 50% damage (2 hits, 25% each) + Deal 100% damage + Change 3rd row
     to Light orbs, Deal 45% damage
-    to Light orbs, Deal 45% damage
   max_atk_pct: null
   name_en: Collarbone Breaker + Disable Skill + Ooo!
   one_time: 0
@@ -102,7 +98,6 @@ records:
   usage_pct: 50
 - !SkillRecord
   desc_en: Bind 1 subs for 1~2 turns, Deal 45% damage + Deal 100% damage + Change
-    4th column to Light orbs, Deal 50% damage
     4th column to Light orbs, Deal 50% damage
   max_atk_pct: null
   name_en: Solar Plexus Strike + Disable Skill + Shoryuken

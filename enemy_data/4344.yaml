@@ -33,7 +33,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Reduce damage from all sources by
     50% for 5 turns + Locked random skyfall +15% for 10 turns (Preemptive)
-    50% for 5 turns + Locked random skyfall +15% for 10 turns (Preemptive)
   max_atk_pct: null
   name_en: Thank you for coming! + Have fun! + Cheerings can be heard from the Hall
   one_time: 0
@@ -48,7 +47,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Lock 3 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
-    Poison orbs, Deal 120% damage
     Poison orbs, Deal 120% damage
   max_atk_pct: 120
   name_en: Fans' Cheering Voices
@@ -183,7 +181,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Lock 3 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
-    Poison orbs, Deal 120% damage
     Poison orbs, Deal 120% damage
   max_atk_pct: 120
   name_en: Fans' Cheering Voices

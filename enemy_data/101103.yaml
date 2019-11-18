@@ -60,7 +60,6 @@ records:
 - !SkillRecord
   desc_en: Bind 1 random subs for 20 turns + Increase damage to 150% for the next
     99 turns
-    99 turns
   max_atk_pct: null
   name_en: Judgment from Heaven + Divine Protection
   one_time: 0

@@ -39,7 +39,6 @@ records:
 - !SkillRecord
   desc_en: Change Random to Poison, Deal 80% damage + Deal 110% damage (2 hits, 55%
     each)
-    each)
   max_atk_pct: null
   name_en: Psycho Blast + Double Knee Press
   one_time: 0
@@ -47,7 +46,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Change Random to Poison, Deal 80% damage + Deal 120% damage (4 hits, 30%
-    each)
     each)
   max_atk_pct: null
   name_en: Psycho Blast + Psycho Inferno
@@ -92,7 +90,6 @@ records:
 - !SkillRecord
   desc_en: Change Random to Poison, Deal 80% damage + Deal 110% damage (2 hits, 55%
     each)
-    each)
   max_atk_pct: null
   name_en: Psycho Blast + Double Knee Press
   one_time: 0
@@ -100,7 +97,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Change Random to Poison, Deal 80% damage + Deal 120% damage (4 hits, 30%
-    each)
     each)
   max_atk_pct: null
   name_en: Psycho Blast + Psycho Inferno

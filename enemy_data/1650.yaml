@@ -25,7 +25,6 @@ records:
 - !SkillRecord
   desc_en: Bind awoken skills for 3 turns + Random 1 orbs change every 1.0s for 10
     turns (Preemptive)
-    turns (Preemptive)
   max_atk_pct: null
   name_en: I'm your opponent! + Pinpoint
   one_time: 0
@@ -47,7 +46,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Lock 9 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
-    Poison orbs, Deal 360% damage
     Poison orbs, Deal 360% damage
   max_atk_pct: 360
   name_en: Freeze Shot
@@ -91,7 +89,6 @@ records:
   usage_pct: 33
 - !SkillRecord
   desc_en: Lock 9 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
-    Poison orbs, Deal 360% damage
     Poison orbs, Deal 360% damage
   max_atk_pct: 360
   name_en: Freeze Shot

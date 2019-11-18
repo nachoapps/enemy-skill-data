@@ -67,7 +67,6 @@ records:
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Water, Wood, Light, Dark, Deal
     120% damage
-    120% damage
   max_atk_pct: 120
   name_en: Elemental Turn
   one_time: 2
@@ -111,7 +110,6 @@ records:
 - !SkillRecord
   desc_en: Change 1st, 3rd, 5th, 7th column to Fire, Water, Wood, Light, Dark orbs,
     2nd, 4th, 6th column to Jammer, Poison orbs, Deal 100% damage
-    2nd, 4th, 6th column to Jammer, Poison orbs, Deal 100% damage
   max_atk_pct: 100
   name_en: Rondo
   one_time: 0
@@ -133,7 +131,6 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Change own attribute to random one of Fire, Water, Wood, Light, Dark, Deal
-    120% damage
     120% damage
   max_atk_pct: 120
   name_en: Elemental Turn

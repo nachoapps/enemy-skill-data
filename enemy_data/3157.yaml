@@ -26,7 +26,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 10 turns + Change Random to Wood, Deal 80% damage
     (Preemptive)
-    (Preemptive)
   max_atk_pct: null
   name_en: To think it would come to this.... + Baum Biene
   one_time: 0

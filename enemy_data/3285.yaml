@@ -40,7 +40,6 @@ records:
 - !SkillRecord
   desc_en: Player -99% HP + Voids status ailments for 5 turns, (if [2744] on team)
     (Preemptive)
-    (Preemptive)
   max_atk_pct: null
   name_en: Uwahahaha! Respect my authority! + Sure, I'll let you go...if you win!
   one_time: 0

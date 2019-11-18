@@ -18,7 +18,6 @@ records:
 - !SkillRecord
   desc_en: Leader changes to random sub for 3 turns + Lock 8 random Fire, Water, Wood,
     Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs (Preemptive)
-    Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs (Preemptive)
   max_atk_pct: null
   name_en: Medjellusion + Medje Kick
   one_time: 0

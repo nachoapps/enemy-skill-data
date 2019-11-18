@@ -67,7 +67,6 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 5 turns + Reduce damage from all sources by 75%
     for 1 turns (Preemptive)
-    for 1 turns (Preemptive)
   max_atk_pct: null
   name_en: Mount Ooe's Soul Guardian + Armored Demon's Sake
   one_time: 0
@@ -75,7 +74,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Voids status ailments for 5 turns + Absorb combo <= 7 damage for 1 turns
-    (Preemptive)
     (Preemptive)
   max_atk_pct: null
   name_en: Mount Ooe's Soul Guardian + Refined Demon's Sake

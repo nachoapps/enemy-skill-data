@@ -74,7 +74,6 @@ records:
 - !SkillRecord
   desc_en: Change all orbs to Wood + Change 3rd, 4th column to Fire orbs, Deal 150%
     damage
-    damage
   max_atk_pct: null
   name_en: Next let's split watermelons! + Ha!
   one_time: 0
