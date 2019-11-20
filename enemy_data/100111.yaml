@@ -78,7 +78,7 @@ records:
 ### Unused Actions
 ############################################################
 # ESRecoverEnemyAlly(52:9127) -> Bloody Sharing
-# 	Condition: When enemy ally is killed (ai:100 rnd:0)
+# 	Condition: when <= 1 enemies remain (ai:100 rnd:0)
 # Enemy ally recover 50% hp
 ############################################################
 ### ES Modifiers
@@ -117,7 +117,7 @@ records:
 # [12] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [13] ESRecoverEnemyAlly(52:9127) -> Bloody Sharing
-# 	Condition: When enemy ally is killed (ai:100 rnd:0)
+# 	Condition: when <= 1 enemies remain (ai:100 rnd:0)
 # Enemy ally recover 50% hp
 # [14] ESRecoverEnemy(86:9126) -> Bloody Stealing
 # Enemy recover 10% hp, Deal 70% damage

@@ -342,7 +342,7 @@ records:
 # flag SET 0b111
 # [30] ESRecoverEnemy(86:3570) -> Half Repair
 # Enemy recover 50% hp
-# [31] ESAttributeResist(72:3564) -> *****
+# [31] ESAttributeResist(72:3564) -> 光半減
 # Reduce damage from Light by 50%
 # [32] ESResolve(73:5867) -> Machine Zeus Hera Resolve
 # Survive attacks with 1 HP when HP > 81%

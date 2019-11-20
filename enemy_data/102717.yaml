@@ -233,8 +233,8 @@ records:
   record_type_name: ACTION
   usage_pct: 100
 - !SkillRecord
-  desc_en: Change Random to Jammer, Deal 150% damage + Bind 1 random subs for 1 turns, Deal
-    50% damage + Player -99% HP
+  desc_en: Change Random to Jammer, Deal 150% damage + Bind 1 random subs for 1 turns,
+    Deal 50% damage + Player -99% HP
   max_atk_pct: null
   name_en: Rainbow Blank + Strand Sacrifice + Ark Impact
   one_time: 0

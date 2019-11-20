@@ -192,5 +192,6 @@ records:
 # Change Random 4 to Poison, Deal 80% damage
 # [15] ESEndPath(36:26) -> ESEndPath
 # end_turn
-# [16] ESResolve(73:2266) -> *****
+# [16] ESResolve(73:2266) -> 周瑜・パッシブ
+# 	Condition: 20% chance (ai:0 rnd:20)
 # Survive attacks with 1 HP when HP > 50%

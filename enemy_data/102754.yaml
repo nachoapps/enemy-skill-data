@@ -339,7 +339,7 @@ records:
 # 	[1] ESPoisonChangeRandomAttack(64:4425) -> Poison Blow
 # 	Change Random 5 to Poison, Deal 70% damage
 # [17] ESRecoverEnemy(86:4427) -> Draining Nails
-# 	Condition: 15% chance when < 93% hp (ai:0 rnd:15)
+# 	Condition: 15% chance (ai:0 rnd:15)
 # Enemy recover 7% hp, Deal 70% damage
 # [18] ESPoisonChangeRandomAttack(64:4429) -> Venom Blow
 # 	Condition: 10% chance (ai:0 rnd:10)

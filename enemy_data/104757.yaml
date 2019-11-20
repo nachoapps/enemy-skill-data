@@ -16,16 +16,16 @@ level: 4
 overrides: []
 records:
 - !SkillRecord
-  desc_en: Blind all orbs on the board, (if [4748, 4749] on team) (Preemptive)
+  desc_en: Blind all orbs on the board (Preemptive), (if [4748, 4749] on team)
   max_atk_pct: null
-  name_en: お前はもう一度全てを失う
+  name_en: You will lose everything
   one_time: 8
   record_type_name: PREEMPT
   usage_pct: 100
 - !SkillRecord
   desc_en: Blind all orbs on the board (Preemptive)
   max_atk_pct: null
-  name_en: 俺ァただ壊すだけだ この腐った世界を
+  name_en: I'll just destroy this rotten world
   one_time: 8
   record_type_name: PREEMPT
   usage_pct: 100
@@ -39,7 +39,7 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns, Deal 200% damage
   max_atk_pct: 200
-  name_en: ままごとはもうシメーだ
+  name_en: Stop playing house
   one_time: 4
   record_type_name: ACTION
   usage_pct: 100
@@ -54,7 +54,7 @@ records:
   desc_en: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
     orbs
   max_atk_pct: null
-  name_en: 俺の覚悟はとうの昔に決まってらァ
+  name_en: My resolution was decided long ago
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -68,7 +68,7 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 300% for the next 99 turns
   max_atk_pct: null
-  name_en: この世界を壊すのは俺だ
+  name_en: I am the destroyer of this world
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -82,7 +82,7 @@ records:
 - !SkillRecord
   desc_en: Deal 300% damage
   max_atk_pct: 300
-  name_en: 地獄で眠りな
+  name_en: Sleep in Hell
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -106,22 +106,22 @@ records:
 # end_turn
 # [4] ESBranchCard(90:11031) -> ESBranchCard
 # Branch on player_cards HAS [4748, 4749], target rnd 6
-# [5] ESBlind(5:11025) -> 俺ァただ壊すだけだ この腐った世界を
+# [5] ESBlind(5:11025) -> I'll just destroy this rotten world
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 8)
 # Blind all orbs on the board
-# [6] ESBlind(5:11026) -> お前はもう一度全てを失う
+# [6] ESBlind(5:11026) -> You will lose everything
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 8)
-# Blind all orbs on the board, (if [4748, 4749] on team)
-# [7] ESStatusShield(20:11027) -> ままごとはもうシメーだ
+# Blind all orbs on the board
+# [7] ESStatusShield(20:11027) -> Stop playing house
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 4)
 # Voids status ailments for 999 turns, Deal 200% damage
-# [8] ESOrbLock(94:11028) -> 俺の覚悟はとうの昔に決まってらァ
+# [8] ESOrbLock(94:11028) -> My resolution was decided long ago
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
 # Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs
-# [9] ESAttackUPRemainingEnemies(17:11029) -> この世界を壊すのは俺だ
+# [9] ESAttackUPRemainingEnemies(17:11029) -> I am the destroyer of this world
 # 	Condition: One-time use, when <= 1 enemies remain (ai:100 rnd:0) (one-time: 1)
 # Increase damage to 300% for the next 99 turns
-# [10] ESAttackMultihit(15:11030) -> 地獄で眠りな
+# [10] ESAttackMultihit(15:11030) -> Sleep in Hell
 # Deal 300% damage
 # [11] ESEndPath(36:26) -> ESEndPath
 # end_turn

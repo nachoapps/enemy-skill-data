@@ -16,7 +16,7 @@ level: 4
 overrides: []
 records:
 - !SkillRecord
-  desc_en: Voids status ailments for 3 turns, (if [2859, 2860] on team) (Preemptive)
+  desc_en: Voids status ailments for 3 turns (Preemptive), (if [2859, 2860] on team)
   max_atk_pct: null
   name_en: You know, I don't mind going 1 vs 2 guys!
   one_time: 0
@@ -119,7 +119,7 @@ records:
 # [7] ESStatusShield(20:4390) -> This kid!
 # Voids status ailments for 3 turns
 # [8] ESStatusShield(20:4397) -> You know, I don't mind going 1 vs 2 guys!
-# Voids status ailments for 3 turns, (if [2859, 2860] on team)
+# Voids status ailments for 3 turns
 # [9] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [10] ESBranchHP(28:18) -> ESBranchHP

@@ -101,7 +101,7 @@ records:
 # [11] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [12] ESRecoverEnemyAlly(52:9304) -> Shining Life
-# 	Condition: When enemy ally is killed (ai:100 rnd:0)
+# 	Condition: when <= 1 enemies remain (ai:100 rnd:0)
 # Enemy ally recover 50% hp
 # [13] ESEndPath(36:26) -> ESEndPath
 # end_turn

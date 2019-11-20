@@ -19,7 +19,7 @@ records:
   desc_en: Bind awoken skills for 5 turns + Change all orbs to Light, Dark, Jammer,
     Deal 130% damage (Preemptive)
   max_atk_pct: null
-  name_en: Tiger Snake Roar + Wicked Blue Life Mutation
+  name_en: Tiger Snake Roar + Life Altering Evil
   one_time: 2
   record_type_name: PREEMPT
   usage_pct: 100
@@ -83,7 +83,7 @@ records:
 - !SkillRecord
   desc_en: Change all orbs to Jammer, Deal 150% damage
   max_atk_pct: 150
-  name_en: Doubly Wicked Menace
+  name_en: Double Trouble!
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -112,7 +112,7 @@ records:
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
 # 	[0] ESBindAwoken(88:12906) -> Tiger Snake Roar
 # 	Bind awoken skills for 5 turns
-# 	[1] ESBoardChangeAttackBits(85:12907) -> Wicked Blue Life Mutation
+# 	[1] ESBoardChangeAttackBits(85:12907) -> Life Altering Evil
 # 	Change all orbs to Light, Dark, Jammer, Deal 130% damage
 # [3] ESBranchHP(28:18) -> ESBranchHP
 # Branch on hp < 15, target rnd 13
@@ -140,7 +140,7 @@ records:
 # 	Reduce damage from all sources by 50% for 5 turns
 # [12] ESEndPath(36:26) -> ESEndPath
 # end_turn
-# [13] ESBoardChangeAttackBits(85:12914) -> Doubly Wicked Menace
+# [13] ESBoardChangeAttackBits(85:12914) -> Double Trouble!
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
 # Change all orbs to Jammer, Deal 150% damage
 # [14] ESAttackMultihit(15:12915) -> Claw & Fang Double Strike

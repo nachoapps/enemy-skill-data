@@ -135,5 +135,5 @@ records:
 # Deal 90%~120% damage (3~4 hits, 30% each)
 # [11] ESEndPath(36:26) -> ESEndPath
 # end_turn
-# [12] ESResolve(73:2214) -> *****
+# [12] ESResolve(73:2214) -> パール・パッシブ
 # Survive attacks with 1 HP when HP > 1%

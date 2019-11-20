@@ -55,8 +55,6 @@ records:
   desc_en: Voids status ailments for 999 turns + Void damage >= 15000000 for 999 turns
     + Blind all orbs for 1 turns + Delay active skills by 15 turns, Deal 70% damage
     (Preemptive)
-    + Blind all orbs for 1 turns + Delay active skills by 15 turns, Deal 70% damage
-    (Preemptive)
   max_atk_pct: null
   name_en: Shadow Aura + Turbulent Boundary Line + Invitation to Darkness + Black
     Feelings

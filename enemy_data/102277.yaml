@@ -146,7 +146,7 @@ records:
 # 	Lock all Jammer orbs
 # [14] ESAttackMultihit(15:3115) -> Abyssal Tempest
 # Deal 500% damage (5 hits, 100% each)
-# [15] ESResolve(73:3116) -> *****
+# [15] ESResolve(73:3116) -> No6根性
 # Survive attacks with 1 HP when HP > 30%
 # [16] ESAttributeResist(72:8247) -> Ilsix Water Halved
 # Reduce damage from Water by 50%

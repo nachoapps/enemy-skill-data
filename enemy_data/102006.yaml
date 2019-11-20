@@ -160,5 +160,5 @@ records:
 # Deal 200% damage
 # [16] ESEndPath(36:26) -> ESEndPath
 # end_turn
-# [17] ESResolve(73:1596) -> *****
+# [17] ESResolve(73:1596) -> 五右衛門・パッシブ
 # Survive attacks with 1 HP when HP > 50%

@@ -86,7 +86,6 @@ records:
 # 	[1] ESSpinnersFixed(110:8796) -> If you don't want to die
 # 	Specific orbs change every 1.0s for 7 turns
 # [3] ESAttackUpStatus(18:8800) -> Resentment
-# 	Condition: after being affected by a status effect (ai:100 rnd:0)
 # Increase damage to 200% for the next 999 turns
 # [4] ESOrbChangeAttackBits(108:8798) -> Dark Slash
 # Change Poison to Dark, Deal 290% damage

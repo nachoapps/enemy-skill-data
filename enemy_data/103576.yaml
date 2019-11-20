@@ -73,7 +73,8 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Change own attribute to Wood + Bind 1 random subs for 7 turns, Deal 330% damage
+  desc_en: Change own attribute to Wood + Bind 1 random subs for 7 turns, Deal 330%
+    damage
   max_atk_pct: null
   name_en: Rainbow Cloak + Paralysis Vine
   one_time: 64

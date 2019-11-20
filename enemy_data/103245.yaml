@@ -33,8 +33,6 @@ records:
   desc_en: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
     orbs + Voids status ailments for 999 turns + Increase damage to 900% for the next
     1 turns (Preemptive)
-    orbs + Voids status ailments for 999 turns + Increase damage to 900% for the next
-    1 turns (Preemptive)
   max_atk_pct: null
   name_en: Misfortune Unleashed + Full Energy Field + Storing up energy...
   one_time: 0

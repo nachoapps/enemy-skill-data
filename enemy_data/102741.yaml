@@ -125,7 +125,6 @@ records:
 # [5] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [6] ESAttackUpStatus(18:4821) -> Power Released
-# 	Condition: after being affected by a status effect (ai:100 rnd:0)
 # Increase damage to 200% for the next 999 turns
 # [7] ESBranchFlag(43:10) -> ESBranchFlag
 # Branch on flag & 2, target rnd 10

@@ -25,7 +25,7 @@ records:
 - !SkillRecord
   desc_en: Player -1% HP + Voids status ailments for 1 turns (Preemptive)
   max_atk_pct: null
-  name_en: てめーらァァァ！ + それでも銀魂ついてんのかァァァ！！
+  name_en: YOOOU! + It still has a silver soul?!
   one_time: 2
   record_type_name: PREEMPT
   usage_pct: 100
@@ -47,7 +47,7 @@ records:
 - !SkillRecord
   desc_en: Player -80% HP + Voids status ailments for 999 turns (Preemptive)
   max_atk_pct: null
-  name_en: てめーらァァァ！ + それでも銀魂ついてんのかァァァ！！
+  name_en: YOOOU! + It still has a silver soul?!
   one_time: 2
   record_type_name: PREEMPT
   usage_pct: 100
@@ -62,14 +62,14 @@ records:
   desc_en: Lock 6 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 105% damage
   max_atk_pct: 105
-  name_en: パズドラー恐るるに足らずってな！
+  name_en: PAD is not worthy of being feared!
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 120% damage (3 hits, 40% each)
   max_atk_pct: 120
-  name_en: ジャンプの主人公なめんなよ！
+  name_en: Don't make fun of the Jump protagonist!
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -83,14 +83,14 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 1 turns, Deal 105% damage
   max_atk_pct: 105
-  name_en: そんなもんじゃ俺は倒せねぇよ
+  name_en: You won't bring me down so easily!
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
 - !SkillRecord
   desc_en: Change 3rd row to Water orbs, Deal 100% damage
   max_atk_pct: 100
-  name_en: 万事屋ナメんじゃねェェ！
+  name_en: Don't mess with the Yorozuya Group!
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -104,35 +104,35 @@ records:
 - !SkillRecord
   desc_en: Absorb Fire damage for 1 turns, Deal 90% damage
   max_atk_pct: 90
-  name_en: 糖分が足りてねェんだよ糖分が
+  name_en: There's not enough sugar!
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
 - !SkillRecord
   desc_en: Absorb Water damage for 1 turns, Deal 90% damage
   max_atk_pct: 90
-  name_en: 糖分が足りてねェんだよ糖分が
+  name_en: There's not enough sugar!
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
 - !SkillRecord
   desc_en: Absorb Wood damage for 1 turns, Deal 90% damage
   max_atk_pct: 90
-  name_en: 糖分が足りてねェんだよ糖分が
+  name_en: There's not enough sugar!
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
 - !SkillRecord
   desc_en: Absorb Light damage for 1 turns, Deal 90% damage
   max_atk_pct: 90
-  name_en: 糖分が足りてねェんだよ糖分が
+  name_en: There's not enough sugar!
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
 - !SkillRecord
   desc_en: Absorb Dark damage for 1 turns, Deal 90% damage
   max_atk_pct: 90
-  name_en: 糖分が足りてねェんだよ糖分が
+  name_en: There's not enough sugar!
   one_time: 0
   record_type_name: ACTION
   usage_pct: 20
@@ -153,7 +153,7 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 99 turns + Movetime -2s for 3 turns
   max_atk_pct: null
-  name_en: こっからは俺も本気でいくぜ + パズル遊びはコレでシメーだ！！
+  name_en: I won't hold back from now! + The puzzle game ends here!!
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -168,7 +168,8 @@ records:
   desc_en: Change Random to Water, Deal 10% damage + Blind all orbs on the board,
     Deal 10% damage + Deal 250% damage (5 hits, 50% each)
   max_atk_pct: null
-  name_en: 俺はコラボ先でも + 自分の肉体が滅ぶまで + 背筋伸ばして生きてくだけよっ！！
+  name_en: Even if I collab... + Until my body is destroyed... + I'll stretch out
+    my back muscles and live!!
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -182,7 +183,7 @@ records:
 - !SkillRecord
   desc_en: Enemy recover 50% hp
   max_atk_pct: null
-  name_en: まぁパフェでも食って落ち着けよ
+  name_en: Well, eating parfait calms me down
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -204,34 +205,34 @@ records:
 # Branch on level > 4, target rnd 5
 # [3] SkillSet:
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
-# 	[0] ESGravity(50:11058) -> てめーらァァァ！
+# 	[0] ESGravity(50:11058) -> YOOOU!
 # 	Player -1% HP
-# 	[1] ESStatusShield(20:11059) -> それでも銀魂ついてんのかァァァ！！
+# 	[1] ESStatusShield(20:11059) -> It still has a silver soul?!
 # 	Voids status ailments for 1 turns
 # [4] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [5] SkillSet:
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
-# 	[0] ESGravity(50:11037) -> てめーらァァァ！
+# 	[0] ESGravity(50:11037) -> YOOOU!
 # 	Player -80% HP
-# 	[1] ESStatusShield(20:11038) -> それでも銀魂ついてんのかァァァ！！
+# 	[1] ESStatusShield(20:11038) -> It still has a silver soul?!
 # 	Voids status ailments for 999 turns
-# [6] ESRecoverEnemy(86:11040) -> まぁパフェでも食って落ち着けよ
+# [6] ESRecoverEnemy(86:11040) -> Well, eating parfait calms me down
 # 	Condition: When < 1% hp (ai:100 rnd:0)
 # Enemy recover 50% hp
 # [7] SkillSet:
 # 	Condition: When < 50% hp , one-time use (ai:100 rnd:0) (one-time: 1)
-# 	[0] ESAttackUPRemainingEnemies(17:11045) -> こっからは俺も本気でいくぜ
+# 	[0] ESAttackUPRemainingEnemies(17:11045) -> I won't hold back from now!
 # 	Increase damage to 150% for the next 99 turns
-# 	[1] ESDebuffMovetime(39:11046) -> パズル遊びはコレでシメーだ！！
+# 	[1] ESDebuffMovetime(39:11046) -> The puzzle game ends here!!
 # 	Movetime -2s for 3 turns
 # [8] SkillSet:
 # 	Condition: When < 10% hp (ai:100 rnd:0)
-# 	[0] ESOrbChangeAttack(48:11048) -> 俺はコラボ先でも
+# 	[0] ESOrbChangeAttack(48:11048) -> Even if I collab...
 # 	Change Random to Water, Deal 10% damage
-# 	[1] ESBlind(62:11049) -> 自分の肉体が滅ぶまで
+# 	[1] ESBlind(62:11049) -> Until my body is destroyed...
 # 	Blind all orbs on the board, Deal 10% damage
-# 	[2] ESAttackMultihit(15:11050) -> 背筋伸ばして生きてくだけよっ！！
+# 	[2] ESAttackMultihit(15:11050) -> I'll stretch out my back muscles and live!!
 # 	Deal 250% damage (5 hits, 50% each)
 # [9] ESBranchCounter(32:22) -> ESBranchCounter
 # Branch on counter > 2, target rnd 19
@@ -239,42 +240,42 @@ records:
 # Branch on counter > 1, target rnd 15
 # [11] ESSetCounter(26:16) -> ESSetCounter
 # counter + 1
-# [12] ESOrbLock(94:11041) -> パズドラー恐るるに足らずってな！
+# [12] ESOrbLock(94:11041) -> PAD is not worthy of being feared!
 # 	Condition: 50% chance (ai:0 rnd:50)
 # Lock 6 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 105% damage
-# [13] ESAttackMultihit(15:11042) -> ジャンプの主人公なめんなよ！
+# [13] ESAttackMultihit(15:11042) -> Don't make fun of the Jump protagonist!
 # 	Condition: 50% chance (ai:0 rnd:50)
 # Deal 120% damage (3 hits, 40% each)
 # [14] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [15] ESSetCounter(26:16) -> ESSetCounter
 # counter + 1
-# [16] ESDamageShield(74:11043) -> そんなもんじゃ俺は倒せねぇよ
+# [16] ESDamageShield(74:11043) -> You won't bring me down so easily!
 # 	Condition: 50% chance (ai:0 rnd:50)
 # Reduce damage from all sources by 50% for 1 turns, Deal 105% damage
-# [17] ESRowSpawnMulti(79:11047) -> 万事屋ナメんじゃねェェ！
+# [17] ESRowSpawnMulti(79:11047) -> Don't mess with the Yorozuya Group!
 # 	Condition: 50% chance (ai:0 rnd:50)
 # Change 3rd row to Water orbs, Deal 100% damage
 # [18] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [19] ESSetCounter(25:15) -> ESSetCounter
 # counter = 0
-# [20] ESAbsorbAttribute(53:11052) -> 糖分が足りてねェんだよ糖分が
+# [20] ESAbsorbAttribute(53:11052) -> There's not enough sugar!
 # 	Condition: 20% chance (ai:0 rnd:20)
 # Absorb Fire damage for 1 turns, Deal 90% damage
-# [21] ESAbsorbAttribute(53:11053) -> 糖分が足りてねェんだよ糖分が
+# [21] ESAbsorbAttribute(53:11053) -> There's not enough sugar!
 # 	Condition: 20% chance (ai:0 rnd:20)
 # Absorb Water damage for 1 turns, Deal 90% damage
-# [22] ESAbsorbAttribute(53:11054) -> 糖分が足りてねェんだよ糖分が
+# [22] ESAbsorbAttribute(53:11054) -> There's not enough sugar!
 # 	Condition: 20% chance (ai:0 rnd:20)
 # Absorb Wood damage for 1 turns, Deal 90% damage
-# [23] ESAbsorbAttribute(53:11055) -> 糖分が足りてねェんだよ糖分が
+# [23] ESAbsorbAttribute(53:11055) -> There's not enough sugar!
 # 	Condition: 20% chance (ai:0 rnd:20)
 # Absorb Light damage for 1 turns, Deal 90% damage
-# [24] ESAbsorbAttribute(53:11056) -> 糖分が足りてねェんだよ糖分が
+# [24] ESAbsorbAttribute(53:11056) -> There's not enough sugar!
 # 	Condition: 20% chance (ai:0 rnd:20)
 # Absorb Dark damage for 1 turns, Deal 90% damage
 # [25] ESEndPath(36:26) -> ESEndPath
 # end_turn
-# [26] ESResolve(73:11057) -> 根性
+# [26] ESResolve(73:11057) -> Resolve
 # Survive attacks with 1 HP when HP > 50%

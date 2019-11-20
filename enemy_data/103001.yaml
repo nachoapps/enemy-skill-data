@@ -142,8 +142,6 @@ records:
   desc_en: Voids status ailments for 999 turns + Change Random to Heal, Deal 140%
     damage + Change all orbs to Fire, Water, Wood, Light, Dark, Jammer, Deal 50% damage,
     (if [2143, 2144, 2971] on team)
-    damage + Change all orbs to Fire, Water, Wood, Light, Dark, Jammer, Deal 50% damage,
-    (if [2143, 2144, 2971] on team)
   max_atk_pct: null
   name_en: It's time you stop acting so crazy! + Dimension-Curse of the Sacred Waters
     + Indigo Ocean Whirlpool

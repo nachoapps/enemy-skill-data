@@ -136,7 +136,7 @@ records:
 # [7] ESAttackMultihit(15:11343) -> Candy Shot
 # 	Condition: 33% chance (ai:0 rnd:33)
 # Deal 111% damage (3 hits, 37% each)
-# [8] ESBlind(5:11344) -> Mysterious Night
+# [8] ESBlind(62:11344) -> Mysterious Night
 # 	Condition: 34% chance (ai:0 rnd:34)
 # Blind all orbs on the board, Deal 105% damage
 # [9] ESEndPath(36:26) -> ESEndPath

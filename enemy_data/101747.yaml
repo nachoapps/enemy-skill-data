@@ -177,25 +177,25 @@ records:
 # [9] ESSetCounter(26:16) -> ESSetCounter
 # counter + 1
 # [10] SkillSet:
-# 	Condition: 25% chance when < 65% hp (ai:0 rnd:25)
+# 	Condition: 25% chance (ai:0 rnd:25)
 # 	[0] ESAttackMultihit(15:2412) -> Svadhishthana
 # 	Deal 180% damage (2 hits, 90% each)
 # 	[1] ESBindRandom(1:2413) -> Manipura
 # 	Bind 1 random cards for 2 turns
 # [11] SkillSet:
-# 	Condition: 25% chance when < 65% hp (ai:0 rnd:25)
+# 	Condition: 25% chance (ai:0 rnd:25)
 # 	[0] ESAttackMultihit(15:2412) -> Svadhishthana
 # 	Deal 180% damage (2 hits, 90% each)
 # 	[1] ESBlind(5:2414) -> Anahata
 # 	Blind all orbs on the board
 # [12] SkillSet:
-# 	Condition: 25% chance when < 65% hp (ai:0 rnd:25)
+# 	Condition: 25% chance (ai:0 rnd:25)
 # 	[0] ESAttackMultihit(15:2412) -> Svadhishthana
 # 	Deal 180% damage (2 hits, 90% each)
 # 	[1] ESPoisonChangeRandom(60:2415) -> Vishuddha
 # 	Change Random 3 to Poison
 # [13] SkillSet:
-# 	Condition: 25% chance when < 65% hp (ai:0 rnd:25)
+# 	Condition: 25% chance (ai:0 rnd:25)
 # 	[0] ESAttackMultihit(15:2412) -> Svadhishthana
 # 	Deal 180% damage (2 hits, 90% each)
 # 	[1] ESGravity(50:2416) -> Ajna

@@ -169,19 +169,19 @@ records:
 # [9] ESSetCounter(26:16) -> ESSetCounter
 # counter + 1
 # [10] SkillSet:
-# 	Condition: 20% chance when < 65% hp (ai:0 rnd:20)
+# 	Condition: 20% chance (ai:0 rnd:20)
 # 	[0] ESBlind(62:2422) -> Nirmanakaya
 # 	Blind all orbs on the board, Deal 90% damage
 # 	[1] ESBoardChangeAttackBits(85:2423) -> Dharmakaya
 # 	Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Deal 90% damage
 # [11] SkillSet:
-# 	Condition: 20% chance when < 65% hp (ai:0 rnd:20)
+# 	Condition: 20% chance (ai:0 rnd:20)
 # 	[0] ESBoardChangeAttackBits(85:2423) -> Dharmakaya
 # 	Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Deal 90% damage
 # 	[1] ESSkillDelay(89:2424) -> Sambhogakaya
 # 	Delay active skills by 1 turns, Deal 90% damage
 # [12] SkillSet:
-# 	Condition: 20% chance when < 65% hp (ai:0 rnd:20)
+# 	Condition: 20% chance (ai:0 rnd:20)
 # 	[0] ESSkillDelay(89:2424) -> Sambhogakaya
 # 	Delay active skills by 1 turns, Deal 90% damage
 # 	[1] ESBlind(62:2422) -> Nirmanakaya

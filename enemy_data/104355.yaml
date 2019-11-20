@@ -56,8 +56,6 @@ records:
   desc_en: Voids status ailments for 999 turns + Absorb Light damage for 10 turns
     + Specific orbs change every 1.5s for 20 turns + Void damage >= 15000000 for 999
     turns (Preemptive)
-    + Specific orbs change every 1.5s for 20 turns + Void damage >= 15000000 for 999
-    turns (Preemptive)
   max_atk_pct: null
   name_en: Prayer + Dawn Eclipse + Halo Ring + Divine Gift of Silk
   one_time: 0
@@ -72,8 +70,8 @@ records:
   record_type_name: ACTION
   usage_pct: 100
 - !SkillRecord
-  desc_en: Specific orbs change every 0.8s for 20 turns + Bind 1 random subs for 2 turns,
-    Deal 120% damage, (if >=9 combos last turn)
+  desc_en: Specific orbs change every 0.8s for 20 turns + Bind 1 random subs for 2
+    turns, Deal 120% damage, (if >=9 combos last turn)
   max_atk_pct: null
   name_en: Traversing Radiance + Light Prison
   one_time: 0
@@ -88,16 +86,16 @@ records:
   record_type_name: ACTION
   usage_pct: 100
 - !SkillRecord
-  desc_en: Specific orbs change every 1.0s for 20 turns + Bind 1 random subs for 2 turns,
-    Deal 120% damage, (if >=6 combos last turn)
+  desc_en: Specific orbs change every 1.0s for 20 turns + Bind 1 random subs for 2
+    turns, Deal 120% damage, (if >=6 combos last turn)
   max_atk_pct: null
   name_en: Traversing Radiance + Light Prison
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
 - !SkillRecord
-  desc_en: Specific orbs change every 1.5s for 20 turns + Bind 1 random subs for 2 turns,
-    Deal 120% damage
+  desc_en: Specific orbs change every 1.5s for 20 turns + Bind 1 random subs for 2
+    turns, Deal 120% damage
   max_atk_pct: null
   name_en: Traversing Radiance + Light Prison
   one_time: 0
