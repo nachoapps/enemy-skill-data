@@ -1,0 +1,157 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 3118
+monster_name_en: Unprecedented Surfer, Ishikawa Goemon
+reviewed_by: unreviewed
+warnings: []
+
+############################################################
+### Data @ 1
+############################################################
+!SkillRecordListing
+level: 1
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Bind awoken skills for 2 turns + Spawn random 22 Fire, Water orbs + Absorb
+    combo <= 6 damage for 1 turns (Preemptive)
+  max_atk_pct: null
+  name_en: Huge Wave + Let's Ride the Heat Wave! + Aerial
+  one_time: 1
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Change 1st column to Water orbs, Deal 100% damage
+  max_atk_pct: 100
+  name_en: WAV Cut Back
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 50
+- !SkillRecord
+  desc_en: Change 1st row to Fire orbs, Deal 100% damage
+  max_atk_pct: 100
+  name_en: Heavenly Off the Lip
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP < 20
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Deal 150% damage (3 hits, 50% each)
+  max_atk_pct: 150
+  name_en: Spectacular Rodeo Flip
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 50
+- !SkillRecord
+  desc_en: Change 1st column to Water orbs, Deal 100% damage
+  max_atk_pct: 100
+  name_en: WAV Cut Back
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 50
+- !SkillRecord
+  desc_en: Change 1st row to Fire orbs, Deal 100% damage
+  max_atk_pct: 100
+  name_en: Heavenly Off the Lip
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### Data @ 4
+############################################################
+!SkillRecordListing
+level: 4
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Bind awoken skills for 2 turns + Spawn random 22 Fire, Water orbs + Absorb
+    combo <= 6 damage for 1 turns (Preemptive)
+  max_atk_pct: null
+  name_en: Huge Wave + Let's Ride the Heat Wave! + Aerial
+  one_time: 1
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Change 1st column to Water orbs, Deal 100% damage
+  max_atk_pct: 100
+  name_en: WAV Cut Back
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 50
+- !SkillRecord
+  desc_en: Change 1st row to Fire orbs, Deal 100% damage
+  max_atk_pct: 100
+  name_en: Heavenly Off the Lip
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP < 20
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Deal 150% damage (3 hits, 50% each)
+  max_atk_pct: 150
+  name_en: Spectacular Rodeo Flip
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 50
+- !SkillRecord
+  desc_en: Change 1st column to Water orbs, Deal 100% damage
+  max_atk_pct: 100
+  name_en: WAV Cut Back
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 50
+- !SkillRecord
+  desc_en: Change 1st row to Fire orbs, Deal 100% damage
+  max_atk_pct: 100
+  name_en: Heavenly Off the Lip
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### ES Modifiers
+############################################################
+# [9] 5 - monster size?
+# [52] true - use new AI
+# [53] 1 - starting/max counter
+# [54] 0 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESPreemptive(49:3402) -> ESPreemptive
+# Enable preempt if level 4
+# [2] SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
+# 	[0] ESBindAwoken(88:14267) -> Huge Wave
+# 	Bind awoken skills for 2 turns
+# 	[1] ESRandomSpawn(92:14268) -> Let's Ride the Heat Wave!
+# 	Spawn random 22 Fire, Water orbs
+# 	[2] ESAbsorbCombo(67:14269) -> Aerial
+# 	Absorb combo <= 6 damage for 1 turns
+# [3] ESAttackMultihit(15:14273) -> Spectacular Rodeo Flip
+# 	Condition: 50% chance when < 20% hp (ai:50 rnd:0)
+# Deal 150% damage (3 hits, 50% each)
+# [4] ESColumnSpawnMulti(77:14271) -> WAV Cut Back
+# 	Condition: 50% chance (ai:50 rnd:0)
+# Change 1st column to Water orbs, Deal 100% damage
+# [5] ESRowSpawnMulti(79:14272) -> Heavenly Off the Lip
+# Change 1st row to Fire orbs, Deal 100% damage
+# [6] ESEndPath(36:26) -> ESEndPath
+# end_turn

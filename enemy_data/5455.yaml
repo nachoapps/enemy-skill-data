@@ -1,0 +1,179 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 5455
+monster_name_en: 地上最強の生物・範馬勇次郎
+reviewed_by: unreviewed
+warnings: []
+
+############################################################
+### Data @ 1
+############################################################
+!SkillRecordListing
+level: 1
+overrides: []
+records:
+- !SkillRecord
+  desc_en: No skyfall for 10 turns (Preemptive)
+  max_atk_pct: null
+  name_en: 闘いこそが至上のコミュニケーション…
+  one_time: 4
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Execute repeatedly. Turn 1-2
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Do nothing + Deal 108% damage (6 hits, 18% each)
+  max_atk_pct: null
+  name_en: 猛獣の連撃―― + 味わってみるかいッッッッッ
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 50
+- !SkillRecord
+  desc_en: Spawn random 5 Dark orbs, Deal 100% damage
+  max_atk_pct: 100
+  name_en: 十秒で倒してのけるわッッ
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 50
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Loop to 1 after. Turn 3
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
+    orbs, Deal 100% damage
+  max_atk_pct: 100
+  name_en: 本物の闘争というものを見せてやるッッ
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 50
+- !SkillRecord
+  desc_en: Do nothing + Player -99% HP
+  max_atk_pct: null
+  name_en: 力みなくして + 解放のカタルシスはありえねェ
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 50
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP <= 50
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Reduce damage from all sources by 50% for 10 turns + Do nothing + Absorb
+    combo <= 5 damage for 10 turns
+  max_atk_pct: null
+  name_en: キサマのその克己心に愛すら感じる…！ + 多くの屍を築きし鬼の正体… + 今こそ見せてやろう
+  one_time: 2
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP <= 20
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 2
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Increase damage to 150% for the next 99 turns
+  max_atk_pct: null
+  name_en: ちょうしこかせてもらうぜ!!!
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Deal 300% damage
+  max_atk_pct: 300
+  name_en: まだやらせてくれると言うのか…感謝!!!
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### ES Modifiers
+############################################################
+# [9] 5 - monster size?
+# [52] true - use new AI
+# [53] 7 - starting/max counter
+# [54] 0 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESPreemptive(49:318) -> ESPreemptive
+# Enable preempt if level 1
+# [2] ESNoSkyfall(127:14031) -> 闘いこそが至上のコミュニケーション…
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 4)
+# No skyfall for 10 turns
+# [3] ESBranchHP(29:19) -> ESBranchHP
+# Branch on hp > 51, target rnd 8
+# [4] SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
+# 	[0] ESDamageShield(74:14036) -> キサマのその克己心に愛すら感じる…！
+# 	Reduce damage from all sources by 50% for 10 turns
+# 	[1] ESInactivity(66:14037) -> 多くの屍を築きし鬼の正体…
+# 	Do nothing
+# 	[2] ESAbsorbCombo(67:14038) -> 今こそ見せてやろう
+# 	Absorb combo <= 5 damage for 10 turns
+# [5] ESBranchHP(29:19) -> ESBranchHP
+# Branch on hp > 21, target rnd 8
+# [6] ESAttackUPRemainingEnemies(17:14045) -> ちょうしこかせてもらうぜ!!!
+# 	Condition: One-time use, when <= 1 enemies remain (ai:100 rnd:0) (one-time: 1)
+# Increase damage to 150% for the next 99 turns
+# [7] ESAttackMultihit(15:14039) -> まだやらせてくれると言うのか…感謝!!!
+# Deal 300% damage
+# [8] ESBranchCounter(32:22) -> ESBranchCounter
+# Branch on counter > 2, target rnd 13
+# [9] ESSetCounter(26:16) -> ESSetCounter
+# counter + 1
+# [10] SkillSet:
+# 	Condition: 50% chance (ai:0 rnd:50)
+# 	[0] ESInactivity(66:14033) -> 猛獣の連撃――
+# 	Do nothing
+# 	[1] ESAttackMultihit(15:14034) -> 味わってみるかいッッッッッ
+# 	Deal 108% damage (6 hits, 18% each)
+# [11] ESRandomSpawn(92:14041) -> 十秒で倒してのけるわッッ
+# 	Condition: 50% chance & when Fire, Water, Wood, Light, Heal, Jammer, Poison, Mortal Poison orbs are on the board (ai:0 rnd:50)
+# Spawn random 5 Dark orbs, Deal 100% damage
+# [12] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [13] ESSetCounter(25:15) -> ESSetCounter
+# counter = 0
+# [14] ESOrbLock(94:14040) -> 本物の闘争というものを見せてやるッッ
+# 	Condition: 50% chance (ai:0 rnd:50)
+# Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 100% damage
+# [15] SkillSet:
+# 	Condition: 50% chance (ai:0 rnd:50)
+# 	[0] ESInactivity(66:14043) -> 力みなくして
+# 	Do nothing
+# 	[1] ESGravity(50:14044) -> 解放のカタルシスはありえねェ
+# 	Player -99% HP
+# [16] ESEndPath(36:26) -> ESEndPath
+# end_turn

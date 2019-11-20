@@ -1,0 +1,206 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 402551
+monster_name_en: Alt. Awoken Takemikazuchi
+reviewed_by: unreviewed
+warnings: []
+
+############################################################
+### Data @ 1
+############################################################
+!SkillRecordListing
+level: 1
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Survive attacks with 1 HP when HP > 50%
+  max_atk_pct: null
+  name_en: Ability
+  one_time: 0
+  record_type_name: PASSIVE
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
+    orbs + Absorb combo <= 6 damage for 99 turns (Preemptive)
+  max_atk_pct: null
+  name_en: Bring it! Come on! + I'll beat you to pieces!
+  one_time: 0
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Execute repeatedly. Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Bind 1 random cards for 3 turns, Deal 240% damage
+  max_atk_pct: 240
+  name_en: War God Grapevine Stretch
+  one_time: 2
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Loop to 1 after. Turn 2-3
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Delay active skills by 1 turns, Deal 240% damage
+  max_atk_pct: 240
+  name_en: Quintessence of the Low Kick
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 33
+- !SkillRecord
+  desc_en: Change 3rd, 4th column to Light orbs, Deal 240% damage
+  max_atk_pct: 240
+  name_en: Lightning Strike
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 34
+- !SkillRecord
+  desc_en: Deal 300% damage
+  max_atk_pct: 300
+  name_en: Martial God Hell Thrust
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 33
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP < 50
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Spawn random 8 Poison orbs
+  max_atk_pct: null
+  name_en: Onamazu's Poison Mist
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP < 30
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 2
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Blind all orbs on the board
+  max_atk_pct: null
+  name_en: I'm gonna end this! Get ready!
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Change 1st, 2nd, 5th, 6th column to Jammer orbs, Deal 1000% damage
+  max_atk_pct: 1000
+  name_en: Itsu-no-Ohabari's Breaking Thunder
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Enemy is defeated
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Increase damage to 200% for the next 999 turns + Enemy recover 100% hp
+    + Unable to match Heal orbs for 1 turns
+  max_atk_pct: null
+  name_en: It hurts!! + I'm not finished!! + Martial God Rear Naked Choke
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### ES Modifiers
+############################################################
+# [9] 5 - monster size?
+# [52] true - use new AI
+# [53] 2 - starting/max counter
+# [54] 1 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESPreemptive(49:318) -> ESPreemptive
+# Enable preempt if level 1
+# [2] ESBranchFlag(43:10) -> ESBranchFlag
+# Branch on flag & 1, target rnd 6
+# [3] ESFlagOperation(22:12) -> ESFlagOperation
+# flag SET 0b1
+# [4] SkillSet:
+# 	[0] ESOrbLock(94:13640) -> Bring it! Come on!
+# 	Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs
+# 	[1] ESAbsorbCombo(67:13641) -> I'll beat you to pieces!
+# 	Absorb combo <= 6 damage for 99 turns
+# [5] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [6] SkillSet:
+# 	Condition: When < 1% hp (ai:100 rnd:0)
+# 	[0] ESAttackUPRemainingEnemies(17:13564) -> It hurts!!
+# 	Increase damage to 200% for the next 999 turns
+# 	[1] ESRecoverEnemy(86:13565) -> I'm not finished!!
+# 	Enemy recover 100% hp
+# 	[2] ESAttributeBlock(107:13566) -> Martial God Rear Naked Choke
+# 	Unable to match Heal orbs for 1 turns
+# [7] ESBranchHP(28:18) -> ESBranchHP
+# Branch on hp < 50, target rnd 14
+# [8] ESBranchHP(28:18) -> ESBranchHP
+# Branch on hp < 30, target rnd 17
+# [9] ESBindRandom(1:2632) -> War God Grapevine Stretch
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
+# Bind 1 random cards for 3 turns, Deal 240% damage
+# [10] ESSkillDelay(89:2630) -> Quintessence of the Low Kick
+# 	Condition: 33% chance (ai:0 rnd:33)
+# Delay active skills by 1 turns, Deal 240% damage
+# [11] ESColumnSpawnMulti(77:2631) -> Lightning Strike
+# 	Condition: 34% chance (ai:0 rnd:34)
+# Change 3rd, 4th column to Light orbs, Deal 240% damage
+# [12] ESAttackMultihit(15:2633) -> Martial God Hell Thrust
+# 	Condition: 33% chance (ai:0 rnd:33)
+# Deal 300% damage
+# [13] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [14] ESBranchFlag(43:10) -> ESBranchFlag
+# Branch on flag & 2, target rnd 8
+# [15] ESFlagOperation(22:12) -> ESFlagOperation
+# flag SET 0b11
+# [16] ESRandomSpawn(92:2634) -> Onamazu's Poison Mist
+# 	Condition: When fire, water, wood, light, dark, heal, jammer, mortal poison orbs are on the board (ai:100 rnd:0)
+# Spawn random 8 Poison orbs
+# [17] ESBranchFlag(43:10) -> ESBranchFlag
+# Branch on flag & 4, target rnd 20
+# [18] ESFlagOperation(22:12) -> ESFlagOperation
+# flag SET 0b111
+# [19] ESBlind(5:2635) -> I'm gonna end this! Get ready!
+# Blind all orbs on the board
+# [20] ESColumnSpawnMulti(77:2636) -> Itsu-no-Ohabari's Breaking Thunder
+# Change 1st, 2nd, 5th, 6th column to Jammer orbs, Deal 1000% damage
+# [21] ESResolve(73:2637) -> Takemi Resolve
+# Survive attacks with 1 HP when HP > 50%

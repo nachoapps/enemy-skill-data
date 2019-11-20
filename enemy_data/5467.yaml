@@ -1,0 +1,116 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 5467
+monster_name_en: 鳴子章吉
+reviewed_by: unreviewed
+warnings: []
+
+############################################################
+### Data @ 4
+############################################################
+!SkillRecordListing
+level: 4
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Deal 80% damage (Preemptive)
+  max_atk_pct: 80
+  name_en: ワイが鳴子章吉や!!
+  one_time: 2
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Player -75% HP
+  max_atk_pct: null
+  name_en: どかんかいおるあああ!!
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 50
+- !SkillRecord
+  desc_en: Change Random to Fire, Deal 95% damage
+  max_atk_pct: 95
+  name_en: ワイの真骨頂みせたるわ!!
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 50
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP <= 50
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Increase damage to 150% for the next 5 turns + Specific orbs change every
+    1.0s for 2 turns
+  max_atk_pct: null
+  name_en: いくで鳴子必殺――!! + アームストロングクライムや!!
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP <= 20
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Spawn random 7 Fire orbs, Deal 150% damage
+  max_atk_pct: 150
+  name_en: そんで鳴子劇場総仕上げや!!
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### ES Modifiers
+############################################################
+# [9] 5 - monster size?
+# [52] true - use new AI
+# [53] 3 - starting/max counter
+# [54] 0 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESPreemptive(49:3402) -> ESPreemptive
+# Enable preempt if level 4
+# [2] ESBranchLevel(35:25) -> ESBranchLevel
+# Branch on level > 4, target rnd 4
+# [3] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [4] ESAttackMultihit(15:14124) -> ワイが鳴子章吉や!!
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
+# Deal 80% damage
+# [5] ESBranchHP(29:19) -> ESBranchHP
+# Branch on hp > 51, target rnd 9
+# [6] SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
+# 	[0] ESAttackUPRemainingEnemies(17:14128) -> いくで鳴子必殺――!!
+# 	Increase damage to 150% for the next 5 turns
+# 	[1] ESSpinnersFixed(110:14129) -> アームストロングクライムや!!
+# 	Specific orbs change every 1.0s for 2 turns
+# [7] ESBranchHP(29:19) -> ESBranchHP
+# Branch on hp > 21, target rnd 9
+# [8] ESRandomSpawn(92:14130) -> そんで鳴子劇場総仕上げや!!
+# 	Condition: When water, wood, light, dark, heal, jammer, poison, mortal poison orbs are on the board (ai:100 rnd:0)
+# Spawn random 7 Fire orbs, Deal 150% damage
+# [9] ESGravity(50:14125) -> どかんかいおるあああ!!
+# 	Condition: 50% chance (ai:0 rnd:50)
+# Player -75% HP
+# [10] ESOrbChangeAttack(48:14126) -> ワイの真骨頂みせたるわ!!
+# 	Condition: 50% chance (ai:0 rnd:50)
+# Change Random to Fire, Deal 95% damage
+# [11] ESEndPath(36:26) -> ESEndPath
+# end_turn

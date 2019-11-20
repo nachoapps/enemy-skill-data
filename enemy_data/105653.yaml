@@ -1,0 +1,149 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 105653
+monster_name_en: 相良宗介
+reviewed_by: unreviewed
+warnings: []
+
+############################################################
+### Data @ 4
+############################################################
+!SkillRecordListing
+level: 4
+overrides: []
+records:
+- !SkillRecord
+  desc_en: 3x3 cloud appear for 5 turns at random location (Preemptive)
+  max_atk_pct: null
+  name_en: 戦闘開始だ
+  one_time: 2
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Spawn random 5 Dark orbs, Deal 95% damage
+  max_atk_pct: 95
+  name_en: 安心するのはまだ早い
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 33
+- !SkillRecord
+  desc_en: Deal 100% damage
+  max_atk_pct: 100
+  name_en: くそっ
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 33
+- !SkillRecord
+  desc_en: Deal 105% damage (3 hits, 35% each)
+  max_atk_pct: 105
+  name_en: くたばれ……！
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 34
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP <= 75
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Random 2 orbs change every 1.0s for 5 turns
+  max_atk_pct: null
+  name_en: 次は貴様を撃つ
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP < 50
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Increase damage to 150% for the next 5 turns
+  max_atk_pct: null
+  name_en: やってみるしかない
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 2
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Random 2 orbs change every 1.0s for 5 turns
+  max_atk_pct: null
+  name_en: 次は貴様を撃つ
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### ES Modifiers
+############################################################
+# [9] 5 - monster size?
+# [52] true - use new AI
+# [53] 3 - starting/max counter
+# [54] 0 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESPreemptive(49:3402) -> ESPreemptive
+# Enable preempt if level 4
+# [2] ESBranchLevel(35:25) -> ESBranchLevel
+# Branch on level > 4, target rnd 4
+# [3] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [4] ESCloud(104:15008) -> 戦闘開始だ
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
+# 3x3 cloud appear for 5 turns at random location
+# [5] ESBranchHP(28:18) -> ESBranchHP
+# Branch on hp < 50, target rnd 12
+# [6] ESBranchHP(29:19) -> ESBranchHP
+# Branch on hp > 76, target rnd 8
+# [7] ESSpinnersRandom(109:14969) -> 次は貴様を撃つ
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
+# Random 2 orbs change every 1.0s for 5 turns
+# [8] ESRandomSpawn(92:14967) -> 安心するのはまだ早い
+# 	Condition: 33% chance (ai:0 rnd:33)
+# Spawn random 5 Dark orbs, Deal 95% damage
+# [9] ESAttackMultihit(15:14968) -> くそっ
+# 	Condition: 33% chance (ai:0 rnd:33)
+# Deal 100% damage
+# [10] ESAttackMultihit(15:14971) -> くたばれ……！
+# 	Condition: 34% chance (ai:0 rnd:34)
+# Deal 105% damage (3 hits, 35% each)
+# [11] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [12] ESBranchFlag(43:10) -> ESBranchFlag
+# Branch on flag & 1, target rnd 6
+# [13] ESFlagOperation(22:12) -> ESFlagOperation
+# flag SET 0b1
+# [14] ESAttackUPRemainingEnemies(17:14970) -> やってみるしかない
+# 	Condition: when <= 1 enemies remain (ai:100 rnd:0)
+# Increase damage to 150% for the next 5 turns
+# [15] ESEndPath(36:26) -> ESEndPath
+# end_turn

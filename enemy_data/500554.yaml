@@ -1,0 +1,51 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 500554
+monster_name_en: Mid Dark Ninja
+reviewed_by: unreviewed
+warnings: []
+
+############################################################
+### Data @ 1
+############################################################
+!SkillRecordListing
+level: 1
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Do nothing + Bind 5 random cards for 5 turns + Delay active skills by 2
+    turns + Reduce self HP to 0 (Preemptive)
+  max_atk_pct: null
+  name_en: This is Super Metal Dragon's turf! + Ninpo - Shadow Bind! + Eat my Dust!
+    + I bid you farewell...
+  one_time: 0
+  record_type_name: PREEMPT
+  usage_pct: 100
+
+############################################################
+### ES Modifiers
+############################################################
+# [9] 2 - monster size?
+# [52] true - use new AI
+# [53] 0 - starting/max counter
+# [54] 0 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESPreemptive(49:318) -> ESPreemptive
+# Enable preempt if level 1
+# [2] SkillSet:
+# 	[0] ESInactivity(66:13965) -> This is Super Metal Dragon's turf!
+# 	Do nothing
+# 	[1] ESBindRandom(1:13966) -> Ninpo - Shadow Bind!
+# 	Bind 5 random cards for 5 turns
+# 	[2] ESSkillDelay(89:13967) -> Eat my Dust!
+# 	Delay active skills by 2 turns
+# 	[3] ESEndBattle(40:13968) -> I bid you farewell...
+# 	Reduce self HP to 0
+# [3] ESEndPath(36:26) -> ESEndPath
+# end_turn

@@ -1,0 +1,150 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 3117
+monster_name_en: Swimming Feline, Kurone
+reviewed_by: unreviewed
+warnings: []
+
+############################################################
+### Data @ 1
+############################################################
+!SkillRecordListing
+level: 1
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Bind 1 own leader for 1 turns (Preemptive)
+  max_atk_pct: null
+  name_en: Don't paws, I'm feline frisky!
+  one_time: 1
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Blind all orbs on the board
+  max_atk_pct: null
+  name_en: Looking puuuurfect!
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 50
+- !SkillRecord
+  desc_en: Deal 100% damage (2 hits, 50% each)
+  max_atk_pct: 100
+  name_en: Kicking up Dust
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP < 30
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Change 2nd, 3rd row to Water orbs, Deal 120% damage
+  max_atk_pct: 120
+  name_en: Purrrfect Wave
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 30
+- !SkillRecord
+  desc_en: Blind all orbs on the board
+  max_atk_pct: null
+  name_en: Looking puuuurfect!
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 50
+- !SkillRecord
+  desc_en: Deal 100% damage (2 hits, 50% each)
+  max_atk_pct: 100
+  name_en: Kicking up Dust
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### Data @ 4
+############################################################
+!SkillRecordListing
+level: 4
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Bind 1 own leader for 1 turns (Preemptive)
+  max_atk_pct: null
+  name_en: Don't paws, I'm feline frisky!
+  one_time: 1
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Blind all orbs on the board
+  max_atk_pct: null
+  name_en: Looking puuuurfect!
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 50
+- !SkillRecord
+  desc_en: Deal 100% damage (2 hits, 50% each)
+  max_atk_pct: 100
+  name_en: Kicking up Dust
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP < 30
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Change 2nd, 3rd row to Water orbs, Deal 120% damage
+  max_atk_pct: 120
+  name_en: Purrrfect Wave
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 30
+- !SkillRecord
+  desc_en: Blind all orbs on the board
+  max_atk_pct: null
+  name_en: Looking puuuurfect!
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 50
+- !SkillRecord
+  desc_en: Deal 100% damage (2 hits, 50% each)
+  max_atk_pct: 100
+  name_en: Kicking up Dust
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### ES Modifiers
+############################################################
+# [9] 5 - monster size?
+# [52] true - use new AI
+# [53] 1 - starting/max counter
+# [54] 0 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESPreemptive(49:3402) -> ESPreemptive
+# Enable preempt if level 4
+# [2] ESBindTarget(54:14263) -> Don't paws, I'm feline frisky!
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
+# Bind 1 own leader for 1 turns
+# [3] ESRowSpawnMulti(79:14266) -> Purrrfect Wave
+# 	Condition: 30% chance when < 30% hp (ai:30 rnd:0)
+# Change 2nd, 3rd row to Water orbs, Deal 120% damage
+# [4] ESBlind(5:14264) -> Looking puuuurfect!
+# 	Condition: 50% chance (ai:50 rnd:0)
+# Blind all orbs on the board
+# [5] ESAttackMultihit(15:14265) -> Kicking up Dust
+# Deal 100% damage (2 hits, 50% each)
+# [6] ESEndPath(36:26) -> ESEndPath
+# end_turn

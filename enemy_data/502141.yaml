@@ -1,0 +1,105 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 502141
+monster_name_en: Scarlet Dragon Caller, Tsubaki
+reviewed_by: unreviewed
+warnings: []
+
+############################################################
+### Data @ 1
+############################################################
+!SkillRecordListing
+level: 1
+overrides: []
+records:
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Player -99% HP
+  max_atk_pct: null
+  name_en: You can't see yourself
+  one_time: 4
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 2
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Seal 1st, 5th row for 10 turns
+  max_atk_pct: null
+  name_en: That's no use...
+  one_time: 2
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 3
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Bind awoken skills for 10 turns
+  max_atk_pct: null
+  name_en: You must not lose sight of it...
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Reduce self HP to 0
+  max_atk_pct: null
+  name_en: It was too early for you...
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP <= 100
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Reduce self HP to 0
+  max_atk_pct: null
+  name_en: It was too early for you...
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### ES Modifiers
+############################################################
+# [9] 5 - monster size?
+# [52] true - use new AI
+# [53] 7 - starting/max counter
+# [54] 0 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESGravity(50:13931) -> You can't see yourself
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 4)
+# Player -99% HP
+# [2] ESOrbSealRow(100:13932) -> That's no use...
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
+# Seal 1st, 5th row for 10 turns
+# [3] ESBindAwoken(88:13933) -> You must not lose sight of it...
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
+# Bind awoken skills for 10 turns
+# [4] ESEndBattle(40:13934) -> It was too early for you...
+# Reduce self HP to 0
+# [5] ESEndPath(36:26) -> ESEndPath
+# end_turn

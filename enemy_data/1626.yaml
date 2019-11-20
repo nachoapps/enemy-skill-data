@@ -1,0 +1,179 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 1626
+monster_name_en: Jester Wizard, Chester
+reviewed_by: unreviewed
+warnings: []
+
+############################################################
+### Data @ 1
+############################################################
+!SkillRecordListing
+level: 1
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Voids status ailments for 999 turns + Absorb combo <= 14 damage for 999
+    turns + Void damage >= 999 for 999 turns (Preemptive)
+  max_atk_pct: null
+  name_en: Can't you hang out for a while? + Can you breakthrough this wall? + Try
+    to overthrow me
+  one_time: 16
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Reduce self HP to 0, (if >=15 combos last turn)
+  max_atk_pct: null
+  name_en: Wow, amazing!
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Do nothing
+  max_atk_pct: null
+  name_en: Let's start the countdown
+  one_time: 8
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 2
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Reduce self HP to 0, (if >=15 combos last turn)
+  max_atk_pct: null
+  name_en: Wow, amazing!
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Do nothing
+  max_atk_pct: null
+  name_en: You still have time
+  one_time: 4
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 3
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Reduce self HP to 0, (if >=15 combos last turn)
+  max_atk_pct: null
+  name_en: Wow, amazing!
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Do nothing
+  max_atk_pct: null
+  name_en: You should probably hurry up
+  one_time: 2
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 4
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Reduce self HP to 0, (if >=15 combos last turn)
+  max_atk_pct: null
+  name_en: Wow, amazing!
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Do nothing
+  max_atk_pct: null
+  name_en: You're on the edge now
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP <= 100
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Reduce self HP to 0, (if >=15 combos last turn)
+  max_atk_pct: null
+  name_en: Wow, amazing!
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Change own attribute to random one of Fire, Water, Wood, Dark + Player
+    -2000% HP
+  max_atk_pct: null
+  name_en: You're out of time + Let's meet again♪
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### ES Modifiers
+############################################################
+# [9] 5 - monster size?
+# [52] true - use new AI
+# [53] 31 - starting/max counter
+# [54] 0 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESPreemptive(49:318) -> ESPreemptive
+# Enable preempt if level 1
+# [2] SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 16)
+# 	[0] ESStatusShield(20:14417) -> Can't you hang out for a while?
+# 	Voids status ailments for 999 turns
+# 	[1] ESAbsorbCombo(67:14407) -> Can you breakthrough this wall?
+# 	Absorb combo <= 14 damage for 999 turns
+# 	[2] ESVoidShield(71:14408) -> Try to overthrow me
+# 	Void damage >= 999 for 999 turns
+# [3] ESBranchCombo(113:6528) -> ESBranchCombo
+# Branch on combo >= 15, target rnd 10
+# [4] ESInactivity(66:14409) -> Let's start the countdown
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 8)
+# Do nothing
+# [5] ESInactivity(66:14410) -> You still have time
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 4)
+# Do nothing
+# [6] ESInactivity(66:14411) -> You should probably hurry up
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
+# Do nothing
+# [7] ESInactivity(66:14412) -> You're on the edge now
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
+# Do nothing
+# [8] SkillSet:
+# 	[0] ESChangeAttribute(46:14415) -> You're out of time
+# 	Change own attribute to random one of Fire, Water, Wood, Dark
+# 	[1] ESGravity(50:14416) -> Let's meet again♪
+# 	Player -2000% HP
+# [9] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [10] ESEndBattle(40:14413) -> Wow, amazing!
+# Reduce self HP to 0
+# [11] ESEndPath(36:26) -> ESEndPath
+# end_turn

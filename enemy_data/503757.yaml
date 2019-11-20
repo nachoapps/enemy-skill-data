@@ -1,0 +1,208 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 503757
+monster_name_en: Thunder Cipher Dragon Caller, Ney
+reviewed_by: unreviewed
+warnings: []
+
+############################################################
+### Data @ 1
+############################################################
+!SkillRecordListing
+level: 1
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
+    orbs (Preemptive)
+  max_atk_pct: null
+  name_en: Here I am!
+  one_time: 3
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Execute repeatedly. Turn 1-3
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Fix orb movement starting point to random position on the board, Deal 100%
+    damage
+  max_atk_pct: 100
+  name_en: Sword and Wings' Guidance
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Loop to 1 after. Turn 4
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Change 3rd, 4th column to Fire orbs, Deal 100% damage
+  max_atk_pct: 100
+  name_en: Burning Ray
+  one_time: 3
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP < 50
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Reduce damage from all sources by 50% for 2 turns
+  max_atk_pct: null
+  name_en: We're still not through
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Execute repeatedly. Turn 1-2
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Fix orb movement starting point to random position on the board, Deal 100%
+    damage
+  max_atk_pct: 100
+  name_en: Sword and Wings' Guidance
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 3
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Change 3rd, 4th column to Fire orbs, Deal 100% damage
+  max_atk_pct: 100
+  name_en: Burning Ray
+  one_time: 3
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Loop to 1 after. Turn 4
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Fix orb movement starting point to random position on the board, Deal 100%
+    damage
+  max_atk_pct: 100
+  name_en: Sword and Wings' Guidance
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP < 10
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 2
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Bind 1 own leader for 3 turns
+  max_atk_pct: null
+  name_en: Next is the finisher!
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Deal 300% damage (3 hits, 100% each)
+  max_atk_pct: 300
+  name_en: Flare, Burn, Slash!
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### ES Modifiers
+############################################################
+# [9] 5 - monster size?
+# [52] true - use new AI
+# [53] 3 - starting/max counter
+# [54] 1 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESPreemptive(49:318) -> ESPreemptive
+# Enable preempt if level 1
+# [2] ESBranchFlag(43:10) -> ESBranchFlag
+# Branch on flag & 1, target rnd 6
+# [3] ESFlagOperation(22:12) -> ESFlagOperation
+# flag SET 0b1
+# [4] ESOrbLock(94:14524) -> Here I am!
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 3)
+# Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs
+# [5] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [6] ESBranchHP(28:18) -> ESBranchHP
+# Branch on hp < 50, target rnd 10
+# [7] ESColumnSpawnMulti(77:14526) -> Burning Ray
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 3)
+# Change 3rd, 4th column to Fire orbs, Deal 100% damage
+# [8] ESFixedStart(101:14525) -> Sword and Wings' Guidance
+# Fix orb movement starting point to random position on the board, Deal 100% damage
+# [9] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [10] ESBranchFlag(43:10) -> ESBranchFlag
+# Branch on flag & 2, target rnd 14
+# [11] ESFlagOperation(22:12) -> ESFlagOperation
+# flag SET 0b11
+# [12] ESDamageShield(74:14527) -> We're still not through
+# Reduce damage from all sources by 50% for 2 turns
+# [13] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [14] ESBranchHP(28:18) -> ESBranchHP
+# Branch on hp < 10, target rnd 18
+# [15] ESColumnSpawnMulti(77:14526) -> Burning Ray
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 3)
+# Change 3rd, 4th column to Fire orbs, Deal 100% damage
+# [16] ESFixedStart(101:14525) -> Sword and Wings' Guidance
+# Fix orb movement starting point to random position on the board, Deal 100% damage
+# [17] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [18] ESBranchFlag(43:10) -> ESBranchFlag
+# Branch on flag & 4, target rnd 22
+# [19] ESFlagOperation(22:12) -> ESFlagOperation
+# flag SET 0b111
+# [20] ESBindTarget(54:14528) -> Next is the finisher!
+# Bind 1 own leader for 3 turns
+# [21] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [22] ESAttackMultihit(15:14529) -> Flare, Burn, Slash!
+# Deal 300% damage (3 hits, 100% each)
+# [23] ESEndPath(36:26) -> ESEndPath
+# end_turn

@@ -1,0 +1,163 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 3599
+monster_name_en: Enoch
+reviewed_by: unreviewed
+warnings: []
+
+############################################################
+### Data @ 1
+############################################################
+!SkillRecordListing
+level: 1
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Voids status ailments for 999 turns + Change leader to [4264] for 1 turns
+    + Spawn random 6 Fire, Water, Wood, Light, Dark, Heal, Mortal Poison orbs (Preemptive)
+  max_atk_pct: null
+  name_en: Saint's Robes + Heaven's Will + Spear of Destiny
+  one_time: 2
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Reduce damage from all sources by 75% for 99 turns
+  max_atk_pct: null
+  name_en: Sanctuary
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP <= 100
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Execute repeatedly. Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Display '5' and skip turn
+  max_atk_pct: null
+  name_en: Countdown Message
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 0
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 2
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Display '4' and skip turn
+  max_atk_pct: null
+  name_en: Countdown Message
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 0
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 3
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Display '3' and skip turn
+  max_atk_pct: null
+  name_en: Countdown Message
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 0
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 4
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Display '2' and skip turn
+  max_atk_pct: null
+  name_en: Countdown Message
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 0
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 5
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Display '1' and skip turn
+  max_atk_pct: null
+  name_en: Countdown Message
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 0
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Loop to 1 after. Turn 6
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Deal 100000% damage (10 hits, 10000% each)
+  max_atk_pct: 100000
+  name_en: Rizentbard
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### ES Modifiers
+############################################################
+# [9] 5 - monster size?
+# [52] true - use new AI
+# [53] 3 - starting/max counter
+# [54] 0 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESPreemptive(49:318) -> ESPreemptive
+# Enable preempt if level 1
+# [2] SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
+# 	[0] ESStatusShield(20:14478) -> Saint's Robes
+# 	Voids status ailments for 999 turns
+# 	[1] ESLeaderAlter(125:14479) -> Heaven's Will
+# 	Change leader to [4264] for 1 turns
+# 	[2] ESRandomSpawn(92:14493) -> Spear of Destiny
+# 	Spawn random 6 Fire, Water, Wood, Light, Dark, Heal, Mortal Poison orbs
+# [3] ESDamageShield(74:14480) -> Sanctuary
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
+# Reduce damage from all sources by 75% for 99 turns
+# [4] ESSetCounterIf(38:177) -> ESSetCounterIf
+# set counter = 6 if counter == 0
+# [5] ESCountdown(37:178) -> ESCountdown
+# countdown
+# [6] ESAttackMultihit(15:14481) -> Rizentbard
+# Deal 100000% damage (10 hits, 10000% each)
+# [7] ESEndPath(36:26) -> ESEndPath
+# end_turn

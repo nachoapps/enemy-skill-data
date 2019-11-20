@@ -1,0 +1,211 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 3931
+monster_name_en: Curse Inclined Dragon Caller, Ideal
+reviewed_by: unreviewed
+warnings: []
+
+############################################################
+### Data @ 1
+############################################################
+!SkillRecordListing
+level: 1
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Voids status ailments for 999 turns + Reduce damage from all sources by
+    50% for 3 turns (Preemptive), (if [3942, 3943] on team)
+  max_atk_pct: null
+  name_en: '... What is this feeling? + Eliminating Targets'
+  one_time: 1
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Voids status ailments for 999 turns + Reduce damage from all sources by
+    50% for 3 turns (Preemptive)
+  max_atk_pct: null
+  name_en: Intruders Detected + Eliminating Targets
+  one_time: 1
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1-2
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
+    Poison orbs, Deal 100% damage
+  max_atk_pct: 100
+  name_en: Shield Chain
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 50
+- !SkillRecord
+  desc_en: Deal 120% damage (6 hits, 20% each)
+  max_atk_pct: 120
+  name_en: Absolute Destruction
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 50
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 3
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Deal 500% damage (5 hits, 100% each)
+  max_atk_pct: 500
+  name_en: Glorious Anihilation
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 4
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Absorb combo <= 7 damage for 5 turns + Increase damage to 150% for the
+    next 999 turns
+  max_atk_pct: null
+  name_en: Destroy + Summoning Dragon's Guidance
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP <= 100
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
+    Poison orbs, Deal 100% damage
+  max_atk_pct: 100
+  name_en: Shield Chain
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 50
+- !SkillRecord
+  desc_en: Deal 120% damage (6 hits, 20% each)
+  max_atk_pct: 120
+  name_en: Absolute Destruction
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 50
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP < 50
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Absorb combo <= 7 damage for 5 turns + Increase damage to 150% for the
+    next 999 turns
+  max_atk_pct: null
+  name_en: Destroy + Summoning Dragon's Guidance
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP < 10
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Deal 500% damage (5 hits, 100% each)
+  max_atk_pct: 500
+  name_en: Glorious Anihilation
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### ES Modifiers
+############################################################
+# [9] 5 - monster size?
+# [52] true - use new AI
+# [53] 1 - starting/max counter
+# [54] 0 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESPreemptive(49:318) -> ESPreemptive
+# Enable preempt if level 1
+# [2] ESBranchCard(90:13848) -> ESBranchCard
+# Branch on player_cards HAS [3942, 3943], target rnd 4
+# [3] SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
+# 	[0] ESStatusShield(20:13917) -> Intruders Detected
+# 	Voids status ailments for 999 turns
+# 	[1] ESDamageShield(74:13918) -> Eliminating Targets
+# 	Reduce damage from all sources by 50% for 3 turns
+# [4] SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
+# 	[0] ESStatusShield(20:13919) -> ... What is this feeling?
+# 	Voids status ailments for 999 turns
+# 	[1] ESDamageShield(74:13918) -> Eliminating Targets
+# 	Reduce damage from all sources by 50% for 3 turns
+# [5] ESBranchHP(28:18) -> ESBranchHP
+# Branch on hp < 10, target rnd 17
+# [6] ESBranchHP(28:18) -> ESBranchHP
+# Branch on hp < 50, target rnd 13
+# [7] ESBranchCounter(32:22) -> ESBranchCounter
+# Branch on counter > 3, target rnd 13
+# [8] ESSetCounter(26:16) -> ESSetCounter
+# counter + 1
+# [9] ESBranchCounter(32:22) -> ESBranchCounter
+# Branch on counter > 3, target rnd 19
+# [10] ESOrbLock(94:13922) -> Shield Chain
+# 	Condition: 50% chance (ai:0 rnd:50)
+# Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 100% damage
+# [11] ESAttackMultihit(15:13923) -> Absolute Destruction
+# 	Condition: 50% chance (ai:0 rnd:50)
+# Deal 120% damage (6 hits, 20% each)
+# [12] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [13] ESBranchFlag(43:10) -> ESBranchFlag
+# Branch on flag & 2, target rnd 10
+# [14] ESFlagOperation(22:12) -> ESFlagOperation
+# flag SET 0b11
+# [15] SkillSet:
+# 	[0] ESAbsorbCombo(67:13921) -> Destroy
+# 	Absorb combo <= 7 damage for 5 turns
+# 	[1] ESAttackUPRemainingEnemies(17:13910) -> Summoning Dragon's Guidance
+# 	Increase damage to 150% for the next 999 turns
+# [16] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [17] ESAttackMultihit(15:13924) -> Glorious Anihilation
+# Deal 500% damage (5 hits, 100% each)
+# [18] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [19] ESBranchFlag(43:10) -> ESBranchFlag
+# Branch on flag & 1, target rnd 10
+# [20] ESFlagOperation(22:12) -> ESFlagOperation
+# flag SET 0b1
+# [21] ESAttackMultihit(15:13924) -> Glorious Anihilation
+# Deal 500% damage (5 hits, 100% each)
+# [22] ESEndPath(36:26) -> ESEndPath
+# end_turn

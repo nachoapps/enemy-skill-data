@@ -1,0 +1,217 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 2079
+monster_name_en: Divine General of the Sun, Krishna
+reviewed_by: unreviewed
+warnings: []
+
+############################################################
+### Data @ 1
+############################################################
+!SkillRecordListing
+level: 1
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Absorb damage >= 8000000 damage for 99 turns + Delay active skills by 3~6
+    turns + Movetime 25% for 1 turns (Preemptive)
+  max_atk_pct: null
+  name_en: Memories of a Forelife + Ready against incoming attack + Adowan Pakusha
+  one_time: 32
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Spawn random 8 Poison orbs + Lock all Poison orbs, Deal 90% damage
+  max_atk_pct: null
+  name_en: Ateevisha Aayus + Mudalar Pasha
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 33
+- !SkillRecord
+  desc_en: Spawn Bomb orbs in the specified positions + Change 3rd row to Jammer orbs,
+    Deal 95% damage
+  max_atk_pct: null
+  name_en: Dar Raiti + Niladaguda Niruruvud
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 33
+- !SkillRecord
+  desc_en: Blind random 8 orbs for 1 turns + Blind all orbs on the board, Deal 100%
+    damage
+  max_atk_pct: null
+  name_en: Dowanta Anasha + Andakaarura
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 34
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP < 50
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Absorb combo <= 5 damage for 999 turns + Specific orbs change every 1.0s
+    for 3 turns + Unable to match Fire, Water orbs for 1 turns, Deal 100% damage
+  max_atk_pct: null
+  name_en: Awakening Will + Cherished Aspiration + Prepared to Plunder
+  one_time: 16
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 2
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Unable to match Wood, Light orbs for 1 turns, Deal 100% damage
+  max_atk_pct: 100
+  name_en: Prepared to Plunder
+  one_time: 8
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 3
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Unable to match Dark, Heal orbs for 1 turns, Deal 100% damage
+  max_atk_pct: 100
+  name_en: Prepared to Plunder
+  one_time: 4
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 4
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Voids status ailments for 999 turns + Increase damage to 200% for the next
+    999 turns
+  max_atk_pct: null
+  name_en: Purlatishid + Anubbawa Puluramuchee
+  one_time: 2
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP <= 20
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 5
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Bind awoken skills for 2 turns + Movetime 25% for 1 turns
+  max_atk_pct: null
+  name_en: Udaaha Krtatu Kusaya + Adowan Pakusha
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Deal 450% damage (3 hits, 150% each)
+  max_atk_pct: 450
+  name_en: Kurtosuna Pulluronchee
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### ES Modifiers
+############################################################
+# [9] 5 - monster size?
+# [52] true - use new AI
+# [53] 63 - starting/max counter
+# [54] 0 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESPreemptive(49:318) -> ESPreemptive
+# Enable preempt if level 1
+# [2] SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 32)
+# 	[0] ESAbsorbThreshold(87:14231) -> Memories of a Forelife
+# 	Absorb damage >= 8000000 damage for 99 turns
+# 	[1] ESSkillDelay(89:14232) -> Ready against incoming attack
+# 	Delay active skills by 3~6 turns
+# 	[2] ESDebuffMovetime(39:14253) -> Adowan Pakusha
+# 	Movetime 25% for 1 turns
+# [3] ESBranchHP(28:18) -> ESBranchHP
+# Branch on hp < 50, target rnd 8
+# [4] SkillSet:
+# 	Condition: 33% chance (ai:0 rnd:33)
+# 	[0] ESRandomSpawn(92:14236) -> Ateevisha Aayus
+# 	Spawn random 8 Poison orbs
+# 	[1] ESOrbLock(94:14237) -> Mudalar Pasha
+# 	Lock all Poison orbs, Deal 90% damage
+# [5] SkillSet:
+# 	Condition: 33% chance (ai:0 rnd:33)
+# 	[0] ESBombFixedSpawn(103:14238) -> Dar Raiti
+# 	Spawn Bomb orbs in the specified positions
+# 	[1] ESRowSpawnMulti(79:14239) -> Niladaguda Niruruvud
+# 	Change 3rd row to Jammer orbs, Deal 95% damage
+# [6] SkillSet:
+# 	Condition: 34% chance (ai:0 rnd:34)
+# 	[0] ESBlindStickyRandom(97:14240) -> Dowanta Anasha
+# 	Blind random 8 orbs for 1 turns
+# 	[1] ESBlind(62:14241) -> Andakaarura
+# 	Blind all orbs on the board, Deal 100% damage
+# [7] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [8] SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 16)
+# 	[0] ESAbsorbCombo(67:14243) -> Awakening Will
+# 	Absorb combo <= 5 damage for 999 turns
+# 	[1] ESSpinnersFixed(110:14244) -> Cherished Aspiration
+# 	Specific orbs change every 1.0s for 3 turns
+# 	[2] ESAttributeBlock(107:14245) -> Prepared to Plunder
+# 	Unable to match Fire, Water orbs for 1 turns, Deal 100% damage
+# [9] ESAttributeBlock(107:14246) -> Prepared to Plunder
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 8)
+# Unable to match Wood, Light orbs for 1 turns, Deal 100% damage
+# [10] ESAttributeBlock(107:14247) -> Prepared to Plunder
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 4)
+# Unable to match Dark, Heal orbs for 1 turns, Deal 100% damage
+# [11] SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
+# 	[0] ESStatusShield(20:14249) -> Purlatishid
+# 	Voids status ailments for 999 turns
+# 	[1] ESAttackUPRemainingEnemies(17:14250) -> Anubbawa Puluramuchee
+# 	Increase damage to 200% for the next 999 turns
+# [12] ESBranchHP(29:19) -> ESBranchHP
+# Branch on hp > 21, target rnd 4
+# [13] SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
+# 	[0] ESBindAwoken(88:14252) -> Udaaha Krtatu Kusaya
+# 	Bind awoken skills for 2 turns
+# 	[1] ESDebuffMovetime(39:14253) -> Adowan Pakusha
+# 	Movetime 25% for 1 turns
+# [14] ESAttackMultihit(15:14254) -> Kurtosuna Pulluronchee
+# Deal 450% damage (3 hits, 150% each)
+# [15] ESEndPath(36:26) -> ESEndPath
+# end_turn

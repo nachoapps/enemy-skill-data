@@ -1,0 +1,203 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 5471
+monster_name_en: 赤城直巳
+reviewed_by: unreviewed
+warnings: []
+
+############################################################
+### Data @ 2
+############################################################
+!SkillRecordListing
+level: 2
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
+    Poison orbs (Preemptive)
+  max_atk_pct: null
+  name_en: こいつは俺が――ぶちのめす
+  one_time: 2
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Deal 100% damage
+  max_atk_pct: 100
+  name_en: この右腕一本で十分だぜ
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 33
+- !SkillRecord
+  desc_en: Deal 105% damage (3 hits, 35% each)
+  max_atk_pct: 105
+  name_en: まだ終わっちゃいねェぜ
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 33
+- !SkillRecord
+  desc_en: Change Random to Light, Deal 95% damage
+  max_atk_pct: 95
+  name_en: うらあああああ
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 34
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP <= 50
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Enemy recover 5% hp + Increase damage to 150% for the next 1 turns
+  max_atk_pct: null
+  name_en: 伝家の宝刀――復活!! + 相当怒ってるぜ俺の右腕はよォ
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### Data @ 4
+############################################################
+!SkillRecordListing
+level: 4
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Absorb combo <= 4 damage for 5 turns (Preemptive)
+  max_atk_pct: null
+  name_en: 負ける気がしねェ
+  one_time: 2
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Deal 100% damage
+  max_atk_pct: 100
+  name_en: っだらあ!!
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 33
+- !SkillRecord
+  desc_en: Deal 105% damage (3 hits, 35% each)
+  max_atk_pct: 105
+  name_en: オラオラオラァ!!
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 33
+- !SkillRecord
+  desc_en: Change Random to Light, Deal 95% damage
+  max_atk_pct: 95
+  name_en: ウダウダ言ってんじゃねェよォ！
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 34
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP <= 50
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Reduce damage from all sources by 50% for 5 turns
+  max_atk_pct: null
+  name_en: 赤城直巳をなめんじゃねェ!!
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP <= 20
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Change 2nd, 4th row to Light orbs, Deal 200% damage
+  max_atk_pct: 200
+  name_en: うおおおおおっ！
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### ES Modifiers
+############################################################
+# [9] 5 - monster size?
+# [52] true - use new AI
+# [53] 3 - starting/max counter
+# [54] 0 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESPreemptive(49:14158) -> ESPreemptive
+# Enable preempt if level 2
+# [2] ESBranchLevel(35:25) -> ESBranchLevel
+# Branch on level > 2, target rnd 4
+# [3] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [4] ESBranchLevel(35:25) -> ESBranchLevel
+# Branch on level > 4, target rnd 12
+# [5] ESOrbLock(94:14111) -> こいつは俺が――ぶちのめす
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
+# Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs
+# [6] ESBranchHP(29:19) -> ESBranchHP
+# Branch on hp > 51, target rnd 8
+# [7] SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
+# 	[0] ESRecoverEnemy(86:14113) -> 伝家の宝刀――復活!!
+# 	Enemy recover 5% hp
+# 	[1] ESAttackUPRemainingEnemies(17:14114) -> 相当怒ってるぜ俺の右腕はよォ
+# 	Increase damage to 150% for the next 1 turns
+# [8] ESAttackMultihit(15:14115) -> この右腕一本で十分だぜ
+# 	Condition: 33% chance (ai:0 rnd:33)
+# Deal 100% damage
+# [9] ESAttackMultihit(15:14116) -> まだ終わっちゃいねェぜ
+# 	Condition: 33% chance (ai:0 rnd:33)
+# Deal 105% damage (3 hits, 35% each)
+# [10] ESOrbChangeAttack(48:14117) -> うらあああああ
+# 	Condition: 34% chance (ai:0 rnd:34)
+# Change Random to Light, Deal 95% damage
+# [11] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [12] ESAbsorbCombo(67:14131) -> 負ける気がしねェ
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
+# Absorb combo <= 4 damage for 5 turns
+# [13] ESBranchHP(29:19) -> ESBranchHP
+# Branch on hp > 51, target rnd 17
+# [14] ESDamageShield(74:14135) -> 赤城直巳をなめんじゃねェ!!
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
+# Reduce damage from all sources by 50% for 5 turns
+# [15] ESBranchHP(29:19) -> ESBranchHP
+# Branch on hp > 21, target rnd 17
+# [16] ESRowSpawnMulti(79:14136) -> うおおおおおっ！
+# Change 2nd, 4th row to Light orbs, Deal 200% damage
+# [17] ESAttackMultihit(15:14132) -> っだらあ!!
+# 	Condition: 33% chance (ai:0 rnd:33)
+# Deal 100% damage
+# [18] ESAttackMultihit(15:14133) -> オラオラオラァ!!
+# 	Condition: 33% chance (ai:0 rnd:33)
+# Deal 105% damage (3 hits, 35% each)
+# [19] ESOrbChangeAttack(48:14134) -> ウダウダ言ってんじゃねェよォ！
+# 	Condition: 34% chance (ai:0 rnd:34)
+# Change Random to Light, Deal 95% damage
+# [20] ESEndPath(36:26) -> ESEndPath
+# end_turn

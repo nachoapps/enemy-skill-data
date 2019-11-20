@@ -1,0 +1,131 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 501601
+monster_name_en: Vibrant Butterfly Dragon, Swallowtail
+reviewed_by: unreviewed
+warnings: []
+
+############################################################
+### Data @ 1
+############################################################
+!SkillRecordListing
+level: 1
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Poison skyfall +5% for 5 turns (Preemptive)
+  max_atk_pct: null
+  name_en: 5 Flower Petals
+  one_time: 0
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Change Poison to Heal, Deal 120% damage
+  max_atk_pct: 120
+  name_en: Antivenom Shot
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 50
+- !SkillRecord
+  desc_en: Deal 90% damage (3 hits, 30% each)
+  max_atk_pct: 90
+  name_en: Vivid Thorn
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP < 50
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Spawn random 5 Heal, Poison orbs
+  max_atk_pct: null
+  name_en: Scattering Scales
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP < 10
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Poison, Deal 150%
+    damage
+  max_atk_pct: 150
+  name_en: Flamboyant Flower Flourish
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 50
+- !SkillRecord
+  desc_en: Change Poison to Heal, Deal 120% damage
+  max_atk_pct: 120
+  name_en: Antivenom Shot
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 50
+- !SkillRecord
+  desc_en: Deal 90% damage (3 hits, 30% each)
+  max_atk_pct: 90
+  name_en: Vivid Thorn
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### ES Modifiers
+############################################################
+# [9] 5 - monster size?
+# [52] true - use new AI
+# [53] 1 - starting/max counter
+# [54] 1 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESPreemptive(49:318) -> ESPreemptive
+# Enable preempt if level 1
+# [2] ESBranchFlag(43:10) -> ESBranchFlag
+# Branch on flag & 1, target rnd 6
+# [3] ESFlagOperation(22:12) -> ESFlagOperation
+# flag SET 0b1
+# [4] ESSkyfall(68:14533) -> 5 Flower Petals
+# Poison skyfall +5% for 5 turns
+# [5] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [6] ESBranchHP(28:18) -> ESBranchHP
+# Branch on hp < 50, target rnd 11
+# [7] ESBoardChangeAttackBits(85:14537) -> Flamboyant Flower Flourish
+# 	Condition: 50% chance when < 10% hp (ai:50 rnd:0)
+# Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Poison, Deal 150% damage
+# [8] ESOrbChangeAttackBits(108:14535) -> Antivenom Shot
+# 	Condition: One-time use (ai:50 rnd:0) (one-time: 1)
+# Change Poison to Heal, Deal 120% damage
+# [9] ESAttackMultihit(15:14534) -> Vivid Thorn
+# Deal 90% damage (3 hits, 30% each)
+# [10] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [11] ESBranchFlag(43:10) -> ESBranchFlag
+# Branch on flag & 2, target rnd 7
+# [12] ESFlagOperation(22:12) -> ESFlagOperation
+# flag SET 0b11
+# [13] ESRandomSpawn(92:14536) -> Scattering Scales
+# 	Condition: When fire, water, wood, light, dark, jammer, mortal poison orbs are on the board (ai:100 rnd:0)
+# Spawn random 5 Heal, Poison orbs
+# [14] ESEndPath(36:26) -> ESEndPath
+# end_turn

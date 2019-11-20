@@ -1,0 +1,180 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 1509
+monster_name_en: Mephistopheles
+reviewed_by: unreviewed
+warnings:
+- Found 1 unused actions
+
+############################################################
+### Data @ 1
+############################################################
+!SkillRecordListing
+level: 1
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Change Fire to Light, Deal 1000% damage (Preemptive)
+  max_atk_pct: 1000
+  name_en: 残念だったな
+  one_time: 0
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Fire, Wood, Light, Dark skyfall +100% for 1 turns + Blind all orbs on the
+    board + Spawn random 3 Water orbs (Preemptive)
+  max_atk_pct: null
+  name_en: 目覚めよ + 闇に包まれよ + 水ドロップを…
+  one_time: 0
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Change Water to Light, Deal 1000% damage
+  max_atk_pct: 1000
+  name_en: 残念だったな
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Fire, Water, Light, Dark skyfall +100% for 1 turns + Blind all orbs on
+    the board + Spawn random 3 Wood orbs
+  max_atk_pct: null
+  name_en: 目覚めよ + 闇に包まれよ + 木ドロップを…
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 2
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Change Wood to Light, Deal 1000% damage
+  max_atk_pct: 1000
+  name_en: 残念だったな
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Fire, Water, Wood, Light skyfall +100% for 1 turns + Blind all orbs on
+    the board + Spawn random 3 Dark orbs
+  max_atk_pct: null
+  name_en: 目覚めよ + 闇に包まれよ + 闇ドロップを…
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP <= 100
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Change Dark to Light, Deal 1000% damage
+  max_atk_pct: 1000
+  name_en: 残念だったな
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Reduce self HP to 0
+  max_atk_pct: null
+  name_en: …やるな
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### Unused Actions
+############################################################
+# SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
+# 	[0] ESSkyfall(68:15034) -> 目覚めよ
+# 	Water, Wood, Light, Dark skyfall +100% for 1 turns
+# 	[1] ESBlind(5:15036) -> 闇に包まれよ
+# 	Blind all orbs on the board
+# 	[2] ESRandomSpawn(92:15035) -> 火ドロップを…
+# 	Spawn random 3 Fire orbs
+############################################################
+### ES Modifiers
+############################################################
+# [9] 5 - monster size?
+# [52] false - use new AI
+# [53] 0 - starting/max counter
+# [54] 0 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESPreemptive(49:318) -> ESPreemptive
+# Enable preempt if level 1
+# [2] SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
+# 	[0] ESSkyfall(68:15034) -> 目覚めよ
+# 	Water, Wood, Light, Dark skyfall +100% for 1 turns
+# 	[1] ESBlind(5:15036) -> 闇に包まれよ
+# 	Blind all orbs on the board
+# 	[2] ESRandomSpawn(92:15035) -> 火ドロップを…
+# 	Spawn random 3 Fire orbs
+# [3] ESBranchFlag(43:10) -> ESBranchFlag
+# Branch on flag & 1, target rnd 8
+# [4] ESFlagOperation(22:12) -> ESFlagOperation
+# flag SET 0b1
+# [5] ESOrbChangeAttackBits(108:15046) -> 残念だったな
+# Change Fire to Light, Deal 1000% damage
+# [6] SkillSet:
+# 	[0] ESSkyfall(68:15038) -> 目覚めよ
+# 	Fire, Wood, Light, Dark skyfall +100% for 1 turns
+# 	[1] ESBlind(5:15036) -> 闇に包まれよ
+# 	Blind all orbs on the board
+# 	[2] ESRandomSpawn(92:15039) -> 水ドロップを…
+# 	Spawn random 3 Water orbs
+# [7] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [8] ESBranchFlag(43:10) -> ESBranchFlag
+# Branch on flag & 2, target rnd 13
+# [9] ESFlagOperation(22:12) -> ESFlagOperation
+# flag SET 0b11
+# [10] ESOrbChangeAttackBits(108:15047) -> 残念だったな
+# Change Water to Light, Deal 1000% damage
+# [11] SkillSet:
+# 	[0] ESSkyfall(68:15041) -> 目覚めよ
+# 	Fire, Water, Light, Dark skyfall +100% for 1 turns
+# 	[1] ESBlind(5:15036) -> 闇に包まれよ
+# 	Blind all orbs on the board
+# 	[2] ESRandomSpawn(92:15042) -> 木ドロップを…
+# 	Spawn random 3 Wood orbs
+# [12] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [13] ESBranchFlag(43:10) -> ESBranchFlag
+# Branch on flag & 4, target rnd 18
+# [14] ESFlagOperation(22:12) -> ESFlagOperation
+# flag SET 0b111
+# [15] ESOrbChangeAttackBits(108:15048) -> 残念だったな
+# Change Wood to Light, Deal 1000% damage
+# [16] SkillSet:
+# 	[0] ESSkyfall(68:15044) -> 目覚めよ
+# 	Fire, Water, Wood, Light skyfall +100% for 1 turns
+# 	[1] ESBlind(5:15036) -> 闇に包まれよ
+# 	Blind all orbs on the board
+# 	[2] ESRandomSpawn(92:15045) -> 闇ドロップを…
+# 	Spawn random 3 Dark orbs
+# [17] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [18] ESOrbChangeAttackBits(108:15049) -> 残念だったな
+# Change Dark to Light, Deal 1000% damage
+# [19] ESEndBattle(40:15050) -> …やるな
+# Reduce self HP to 0

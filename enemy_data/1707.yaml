@@ -1,0 +1,92 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 1707
+monster_name_en: Twilight Sorcerer, Chester
+reviewed_by: unreviewed
+warnings:
+- Found 1 unused actions
+
+############################################################
+### Data @ 1
+############################################################
+!SkillRecordListing
+level: 1
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Delay active skills by 99 turns + Change player HP to 30000 for 15 turns
+    (Preemptive)
+  max_atk_pct: null
+  name_en: Charge your power as much as you want! + Because here starts hell!
+  one_time: 0
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Deal 100% damage (4 hits, 25% each)
+  max_atk_pct: 100
+  name_en: Oh! You can't go there
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 50
+- !SkillRecord
+  desc_en: Spawn random 3 Jammer, Poison orbs
+  max_atk_pct: null
+  name_en: Just go and have fun
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### Unused Actions
+############################################################
+# SkillSet:
+# 	[0] ESDebuffMovetime(39:13541) -> I won't forgive you
+# 	Movetime 50% for 1 turns
+# 	[1] ESAttackMultihit(15:13542) -> Let's play together next time
+# 	Deal 1000% damage (4 hits, 250% each)
+############################################################
+### ES Modifiers
+############################################################
+# [9] 5 - monster size?
+# [52] true - use new AI
+# [53] 1 - starting/max counter
+# [54] 1 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESPreemptive(49:318) -> ESPreemptive
+# Enable preempt if level 1
+# [2] ESBranchFlag(43:10) -> ESBranchFlag
+# Branch on flag & 1, target rnd 6
+# [3] ESFlagOperation(22:12) -> ESFlagOperation
+# flag SET 0b1
+# [4] SkillSet:
+# 	[0] ESSkillDelay(89:13536) -> Charge your power as much as you want!
+# 	Delay active skills by 99 turns
+# 	[1] ESMaxHPChange(111:13537) -> Because here starts hell!
+# 	Change player HP to 30000 for 15 turns
+# [5] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [6] ESBranchCounter(32:22) -> ESBranchCounter
+# Branch on counter > 14, target rnd 11
+# [7] ESSetCounter(26:16) -> ESSetCounter
+# counter + 1
+# [8] ESAttackMultihit(15:13539) -> Oh! You can't go there
+# 	Condition: One-time use (ai:50 rnd:0) (one-time: 1)
+# Deal 100% damage (4 hits, 25% each)
+# [9] ESRandomSpawn(92:13538) -> Just go and have fun
+# 	Condition: When fire, water, wood, light, dark, heal, mortal poison orbs are on the board (ai:100 rnd:0)
+# Spawn random 3 Jammer, Poison orbs
+# [10] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [11] SkillSet:
+# 	[0] ESDebuffMovetime(39:13541) -> I won't forgive you
+# 	Movetime 50% for 1 turns
+# 	[1] ESAttackMultihit(15:13542) -> Let's play together next time
+# 	Deal 1000% damage (4 hits, 250% each)
+# [12] ESEndPath(36:26) -> ESEndPath
+# end_turn

@@ -1,0 +1,174 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 5660
+monster_name_en: ゼルガディス＝グレイワーズ
+reviewed_by: unreviewed
+warnings: []
+
+############################################################
+### Data @ 1
+############################################################
+!SkillRecordListing
+level: 1
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Reduce damage from Healer, Dragon by 50%
+  max_atk_pct: null
+  name_en: Ability
+  one_time: 0
+  record_type_name: PASSIVE
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Leader changes to random sub for 2 turns (Preemptive)
+  max_atk_pct: null
+  name_en: 踊らされるのは気に入らんな
+  one_time: 2
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Change 2nd, 5th column to Wood orbs, Deal 60% damage
+  max_atk_pct: 60
+  name_en: 地撃衝雷
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 33
+- !SkillRecord
+  desc_en: Change 3rd row to Light orbs, Deal 65% damage
+  max_atk_pct: 65
+  name_en: 烈閃咆
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 33
+- !SkillRecord
+  desc_en: Spawn random 5 Dark orbs, Deal 70% damage
+  max_atk_pct: 70
+  name_en: 冥壊屍
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 34
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP <= 75
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Seal 5th row for 4 turns
+  max_atk_pct: null
+  name_en: 底が浅いぜ
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP < 50
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Increase damage to 150% for the next 999 turns
+  max_atk_pct: null
+  name_en: 魔皇霊斬
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 2
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Seal 5th row for 4 turns
+  max_atk_pct: null
+  name_en: 底が浅いぜ
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP <= 20
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Change 3rd, 4th column to Light orbs, Deal 100% damage
+  max_atk_pct: 100
+  name_en: 崩霊裂
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### ES Modifiers
+############################################################
+# [9] 5 - monster size?
+# [52] true - use new AI
+# [53] 3 - starting/max counter
+# [54] 0 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESPreemptive(49:318) -> ESPreemptive
+# Enable preempt if level 1
+# [2] ESLeaderSwap(75:14925) -> 踊らされるのは気に入らんな
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
+# Leader changes to random sub for 2 turns
+# [3] ESBranchHP(28:18) -> ESBranchHP
+# Branch on hp < 50, target rnd 10
+# [4] ESBranchHP(29:19) -> ESBranchHP
+# Branch on hp > 76, target rnd 6
+# [5] ESOrbSealRow(100:14930) -> 底が浅いぜ
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
+# Seal 5th row for 4 turns
+# [6] ESColumnSpawnMulti(77:14926) -> 地撃衝雷
+# 	Condition: 33% chance (ai:0 rnd:33)
+# Change 2nd, 5th column to Wood orbs, Deal 60% damage
+# [7] ESRowSpawnMulti(79:14927) -> 烈閃咆
+# 	Condition: 33% chance (ai:0 rnd:33)
+# Change 3rd row to Light orbs, Deal 65% damage
+# [8] ESRandomSpawn(92:14928) -> 冥壊屍
+# 	Condition: 34% chance (ai:0 rnd:34)
+# Spawn random 5 Dark orbs, Deal 70% damage
+# [9] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [10] ESBranchFlag(43:10) -> ESBranchFlag
+# Branch on flag & 1, target rnd 14
+# [11] ESFlagOperation(22:12) -> ESFlagOperation
+# flag SET 0b1
+# [12] ESAttackUPRemainingEnemies(17:14929) -> 魔皇霊斬
+# 	Condition: when <= 1 enemies remain (ai:100 rnd:0)
+# Increase damage to 150% for the next 999 turns
+# [13] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [14] ESBranchHP(29:19) -> ESBranchHP
+# Branch on hp > 21, target rnd 4
+# [15] ESColumnSpawnMulti(77:14931) -> 崩霊裂
+# Change 3rd, 4th column to Light orbs, Deal 100% damage
+# [16] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [17] ESTypeResist(118:14965) -> 回復ドラゴン
+# Reduce damage from Healer, Dragon by 50%

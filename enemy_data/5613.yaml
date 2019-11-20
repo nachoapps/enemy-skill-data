@@ -1,0 +1,456 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 5613
+monster_name_en: 迷森の金駒龍・ジャバウォック
+reviewed_by: unreviewed
+warnings: []
+
+############################################################
+### Data @ 1
+############################################################
+!SkillRecordListing
+level: 1
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Survive attacks with 1 HP when HP > 50%
+  max_atk_pct: null
+  name_en: Ability
+  one_time: 0
+  record_type_name: PASSIVE
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Voids status ailments for 999 turns + Leader changes to random sub for
+    1 turns + Change leader to [5297] for 7 turns (Preemptive)
+  max_atk_pct: null
+  name_en: 愉悦のハービンジャー + 変貌のサイン + 偽りのサイエンティスト
+  one_time: 4
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Absorb combo <= 6 damage for 20 turns + Reduce damage from all sources
+    by 50% for 20 turns
+  max_atk_pct: null
+  name_en: 弱者へのコンシダレイション + 劇的なスローター
+  one_time: 2
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP <= 100
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Execute repeatedly. Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Change Heal to Fire, Water, Jammer, Deal 55% damage + Change Random to
+    Heal, Deal 60% damage
+  max_atk_pct: null
+  name_en: エファメラルディライト + ブリリアントブルーム
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 50
+- !SkillRecord
+  desc_en: Change 2nd, 4th row to Fire, Water, Jammer orbs, Deal 50% damage + Lock
+    15 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
+    orbs, Deal 55% damage
+  max_atk_pct: null
+  name_en: プロミネンスオーシャン + アストラルミーティア
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Loop to 1 after. Turn 2
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Spawn random 5 Bomb orbs + Deal 111% damage (3 hits, 37% each)
+  max_atk_pct: null
+  name_en: フラジールスフィア + ロイヤルプロヴィデンス
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 33
+- !SkillRecord
+  desc_en: Spawn random 7 Poison orbs + Deal 111% damage (3 hits, 37% each)
+  max_atk_pct: null
+  name_en: ストラグルグリーム + ロイヤルプロヴィデンス
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 33
+- !SkillRecord
+  desc_en: Blind random 6~9 orbs for 2 turns + Deal 111% damage (3 hits, 37% each)
+  max_atk_pct: null
+  name_en: トワイライトシャイン + ロイヤルプロヴィデンス
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 34
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP < 80
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Void damage >= 30000000 for 20 turns + Reduce damage from all sources by
+    25% for 20 turns
+  max_atk_pct: null
+  name_en: 強者に対するマインドセット + 劇的なスローター
+  one_time: 2
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP <= 50
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 2
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Delay active skills by 5 turns + Poison skyfall +15% for 99 turns
+  max_atk_pct: null
+  name_en: 減退のバイタリティー + 慄然するレインフォール
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP < 10
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Increase damage to 200% for the next 999 turns + Bind awoken skills for
+    10 turns
+  max_atk_pct: null
+  name_en: ラスターフラグメント + インフィニティフェイム
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Voids player buff effects + Deal 1000% damage (10 hits, 100% each)
+  max_atk_pct: null
+  name_en: キングダムルミナス + エタニティビヨンド
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### Data @ 6
+############################################################
+!SkillRecordListing
+level: 6
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Survive attacks with 1 HP when HP > 50%
+  max_atk_pct: null
+  name_en: Ability
+  one_time: 0
+  record_type_name: PASSIVE
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Voids status ailments for 999 turns + Leader changes to random sub for
+    1 turns + Change leader to [5297] for 7 turns (Preemptive)
+  max_atk_pct: null
+  name_en: 愉悦のハービンジャー + 変貌のサイン + 偽りのサイエンティスト
+  one_time: 4
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Absorb combo <= 7 damage for 20 turns + Reduce damage from all sources
+    by 50% for 20 turns
+  max_atk_pct: null
+  name_en: 弱者へのコンシダレイション + 劇的なスローター
+  one_time: 2
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP <= 100
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Execute repeatedly. Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Change Heal to Fire, Water, Jammer, Deal 55% damage + Change Random to
+    Heal, Deal 60% damage
+  max_atk_pct: null
+  name_en: エファメラルディライト + ブリリアントブルーム
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 50
+- !SkillRecord
+  desc_en: Change 2nd, 4th row to Fire, Water, Jammer orbs, Deal 50% damage + Lock
+    15 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
+    orbs, Deal 55% damage
+  max_atk_pct: null
+  name_en: プロミネンスオーシャン + アストラルミーティア
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Loop to 1 after. Turn 2
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Spawn random 5 Bomb orbs + Deal 111% damage (3 hits, 37% each)
+  max_atk_pct: null
+  name_en: フラジールスフィア + ロイヤルプロヴィデンス
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 33
+- !SkillRecord
+  desc_en: Spawn random 7 Poison orbs + Deal 111% damage (3 hits, 37% each)
+  max_atk_pct: null
+  name_en: ストラグルグリーム + ロイヤルプロヴィデンス
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 33
+- !SkillRecord
+  desc_en: Blind random 6~9 orbs for 2 turns + Deal 111% damage (3 hits, 37% each)
+  max_atk_pct: null
+  name_en: トワイライトシャイン + ロイヤルプロヴィデンス
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 34
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP < 80
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Void damage >= 30000000 for 20 turns + Reduce damage from all sources by
+    25% for 20 turns
+  max_atk_pct: null
+  name_en: 強者に対するマインドセット + 劇的なスローター
+  one_time: 2
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP <= 50
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 2
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Delay active skills by 5 turns + Poison skyfall +15% for 99 turns
+  max_atk_pct: null
+  name_en: 減退のバイタリティー + 慄然するレインフォール
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP < 10
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Increase damage to 200% for the next 999 turns + Bind awoken skills for
+    10 turns
+  max_atk_pct: null
+  name_en: ラスターフラグメント + インフィニティフェイム
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Voids player buff effects + Deal 1000% damage (10 hits, 100% each)
+  max_atk_pct: null
+  name_en: キングダムルミナス + エタニティビヨンド
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### ES Modifiers
+############################################################
+# [9] 5 - monster size?
+# [52] true - use new AI
+# [53] 7 - starting/max counter
+# [54] 0 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESPreemptive(49:318) -> ESPreemptive
+# Enable preempt if level 1
+# [2] SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 4)
+# 	[0] ESStatusShield(20:14756) -> 愉悦のハービンジャー
+# 	Voids status ailments for 999 turns
+# 	[1] ESLeaderSwap(75:14757) -> 変貌のサイン
+# 	Leader changes to random sub for 1 turns
+# 	[2] ESLeaderAlter(125:14758) -> 偽りのサイエンティスト
+# 	Change leader to [5297] for 7 turns
+# [3] ESBranchHP(28:18) -> ESBranchHP
+# Branch on hp < 10, target rnd 20
+# [4] ESBranchHP(28:18) -> ESBranchHP
+# Branch on hp < 80, target rnd 8
+# [5] ESBranchLevel(35:25) -> ESBranchLevel
+# Branch on level > 6, target rnd 7
+# [6] SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
+# 	[0] ESAbsorbCombo(67:14759) -> 弱者へのコンシダレイション
+# 	Absorb combo <= 6 damage for 20 turns
+# 	[1] ESDamageShield(74:14762) -> 劇的なスローター
+# 	Reduce damage from all sources by 50% for 20 turns
+# [7] SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
+# 	[0] ESAbsorbCombo(67:14761) -> 弱者へのコンシダレイション
+# 	Absorb combo <= 7 damage for 20 turns
+# 	[1] ESDamageShield(74:14762) -> 劇的なスローター
+# 	Reduce damage from all sources by 50% for 20 turns
+# [8] SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
+# 	[0] ESVoidShield(71:14764) -> 強者に対するマインドセット
+# 	Void damage >= 30000000 for 20 turns
+# 	[1] ESDamageShield(74:14765) -> 劇的なスローター
+# 	Reduce damage from all sources by 25% for 20 turns
+# [9] ESBranchHP(29:19) -> ESBranchHP
+# Branch on hp > 51, target rnd 11
+# [10] SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
+# 	[0] ESSkillDelay(89:14767) -> 減退のバイタリティー
+# 	Delay active skills by 5 turns
+# 	[1] ESSkyfall(68:14768) -> 慄然するレインフォール
+# 	Poison skyfall +15% for 99 turns
+# [11] ESBranchCounter(32:22) -> ESBranchCounter
+# Branch on counter > 1, target rnd 15
+# [12] ESSetCounter(26:16) -> ESSetCounter
+# counter + 1
+# [13] SkillSet:
+# 	Condition: 50% chance (ai:50 rnd:0)
+# 	[0] ESOrbChangeAttackBits(108:14770) -> エファメラルディライト
+# 	Change Heal to Fire, Water, Jammer, Deal 55% damage
+# 	[1] ESOrbChangeAttack(48:14771) -> ブリリアントブルーム
+# 	Change Random to Heal, Deal 60% damage
+# [14] SkillSet:
+# 	[0] ESRowSpawnMulti(79:14773) -> プロミネンスオーシャン
+# 	Change 2nd, 4th row to Fire, Water, Jammer orbs, Deal 50% damage
+# 	[1] ESOrbLock(94:14774) -> アストラルミーティア
+# 	Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 55% damage
+# [15] ESSetCounter(25:15) -> ESSetCounter
+# counter = 0
+# [16] SkillSet:
+# 	Condition: 33% chance (ai:0 rnd:33)
+# 	[0] ESBombRandomSpawn(102:14776) -> フラジールスフィア
+# 	Spawn random 5 Bomb orbs
+# 	[1] ESAttackMultihit(15:14777) -> ロイヤルプロヴィデンス
+# 	Deal 111% damage (3 hits, 37% each)
+# [17] SkillSet:
+# 	Condition: 33% chance (ai:0 rnd:33)
+# 	[0] ESRandomSpawn(92:14779) -> ストラグルグリーム
+# 	Spawn random 7 Poison orbs
+# 	[1] ESAttackMultihit(15:14777) -> ロイヤルプロヴィデンス
+# 	Deal 111% damage (3 hits, 37% each)
+# [18] SkillSet:
+# 	Condition: 34% chance (ai:0 rnd:34)
+# 	[0] ESBlindStickyRandom(97:14781) -> トワイライトシャイン
+# 	Blind random 6~9 orbs for 2 turns
+# 	[1] ESAttackMultihit(15:14777) -> ロイヤルプロヴィデンス
+# 	Deal 111% damage (3 hits, 37% each)
+# [19] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [20] ESBranchFlag(43:10) -> ESBranchFlag
+# Branch on flag & 1, target rnd 24
+# [21] ESFlagOperation(22:12) -> ESFlagOperation
+# flag SET 0b1
+# [22] SkillSet:
+# 	[0] ESAttackUPRemainingEnemies(17:14787) -> ラスターフラグメント
+# 	Increase damage to 200% for the next 999 turns
+# 	[1] ESBindAwoken(88:14788) -> インフィニティフェイム
+# 	Bind awoken skills for 10 turns
+# [23] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [24] SkillSet:
+# 	[0] ESDispel(6:14784) -> キングダムルミナス
+# 	Voids player buff effects
+# 	[1] ESAttackMultihit(15:14785) -> エタニティビヨンド
+# 	Deal 1000% damage (10 hits, 100% each)
+# [25] ESResolve(73:14786) -> 根性
+# Survive attacks with 1 HP when HP > 50%

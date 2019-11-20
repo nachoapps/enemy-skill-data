@@ -1,0 +1,147 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 3955
+monster_name_en: Busy Illuminating Dragon Caller, Myne
+reviewed_by: unreviewed
+warnings: []
+
+############################################################
+### Data @ 1
+############################################################
+!SkillRecordListing
+level: 1
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Reduce damage from all sources by 90% for 1 turns (Preemptive), (if [3942,
+    3943] on team)
+  max_atk_pct: null
+  name_en: Al......?
+  one_time: 4
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Reduce damage from all sources by 90% for 1 turns (Preemptive)
+  max_atk_pct: null
+  name_en: Ah-waah! A guest?!
+  one_time: 4
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Unable to match Fire orbs for 3 turns
+  max_atk_pct: null
+  name_en: You cannot pass...!
+  one_time: 2
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP <= 100
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Spawn random 5 Jammer orbs, Deal 95% damage
+  max_atk_pct: 95
+  name_en: Ornament Crash
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 33
+- !SkillRecord
+  desc_en: 2x2 cloud appear for 2 turns at random location, Deal 100% damage
+  max_atk_pct: 100
+  name_en: Dust Rising Up
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 33
+- !SkillRecord
+  desc_en: Specific orbs change every 1.0s for 2 turns, Deal 105% damage
+  max_atk_pct: 105
+  name_en: Washcloth Flop
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 34
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP < 20
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 2
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Delay active skills by 2~5 turns
+  max_atk_pct: null
+  name_en: Bucket Splash
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Deal 300% damage
+  max_atk_pct: 300
+  name_en: Bookcase Bam
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### ES Modifiers
+############################################################
+# [9] 5 - monster size?
+# [52] true - use new AI
+# [53] 7 - starting/max counter
+# [54] 0 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESPreemptive(49:318) -> ESPreemptive
+# Enable preempt if level 1
+# [2] ESBranchCard(90:13848) -> ESBranchCard
+# Branch on player_cards HAS [3942, 3943], target rnd 4
+# [3] ESDamageShield(74:13878) -> Ah-waah! A guest?!
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 4)
+# Reduce damage from all sources by 90% for 1 turns
+# [4] ESDamageShield(74:13879) -> Al......?
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 4)
+# Reduce damage from all sources by 90% for 1 turns
+# [5] ESAttributeBlock(107:13880) -> You cannot pass...!
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
+# Unable to match Fire orbs for 3 turns
+# [6] ESBranchHP(28:18) -> ESBranchHP
+# Branch on hp < 20, target rnd 11
+# [7] ESRandomSpawn(92:13881) -> Ornament Crash
+# 	Condition: 33% chance & when Fire, Water, Wood, Light, Dark, Heal, Poison, Mortal Poison orbs are on the board (ai:0 rnd:33)
+# Spawn random 5 Jammer orbs, Deal 95% damage
+# [8] ESCloud(104:13882) -> Dust Rising Up
+# 	Condition: 33% chance (ai:0 rnd:33)
+# 2x2 cloud appear for 2 turns at random location, Deal 100% damage
+# [9] ESSpinnersFixed(110:13883) -> Washcloth Flop
+# 	Condition: 34% chance (ai:0 rnd:34)
+# Specific orbs change every 1.0s for 2 turns, Deal 105% damage
+# [10] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [11] ESSkillDelay(89:13884) -> Bucket Splash
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
+# Delay active skills by 2~5 turns
+# [12] ESAttackMultihit(15:13885) -> Bookcase Bam
+# Deal 300% damage
+# [13] ESEndPath(36:26) -> ESEndPath
+# end_turn

@@ -1,0 +1,126 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 2666
+monster_name_en: Scarlet Jewel Princess, Silk
+reviewed_by: unreviewed
+warnings: []
+
+############################################################
+### Data @ 1
+############################################################
+!SkillRecordListing
+level: 1
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Bind awoken skills for 2 turns (Preemptive)
+  max_atk_pct: null
+  name_en: Feather Ruby
+  one_time: 2
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Deal 100% damage (2 hits, 50% each) (Preemptive)
+  max_atk_pct: 100
+  name_en: Rapier Brooch
+  one_time: 0
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: 3x2 cloud appear for 2 turns at random location
+  max_atk_pct: null
+  name_en: Silk Cloak
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 2
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Deal 100% damage (2 hits, 50% each)
+  max_atk_pct: 100
+  name_en: Rapier Brooch
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 3
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Increase damage to 150% for the next 99 turns
+  max_atk_pct: null
+  name_en: Ruby of Charity
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP <= 100
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Deal 100% damage (2 hits, 50% each)
+  max_atk_pct: 100
+  name_en: Rapier Brooch
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### ES Modifiers
+############################################################
+# [9] 5 - monster size?
+# [52] true - use new AI
+# [53] 3 - starting/max counter
+# [54] 0 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESPreemptive(49:318) -> ESPreemptive
+# Enable preempt if level 1
+# [2] ESBindAwoken(88:13569) -> Feather Ruby
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
+# Bind awoken skills for 2 turns
+# [3] ESBranchCounter(32:22) -> ESBranchCounter
+# Branch on counter > 3, target rnd 9
+# [4] ESSetCounter(26:16) -> ESSetCounter
+# counter + 1
+# [5] ESBranchCounter(30:20) -> ESBranchCounter
+# Branch on counter < 1, target rnd 7
+# [6] ESCloud(104:13570) -> Silk Cloak
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
+# 3x2 cloud appear for 2 turns at random location
+# [7] ESAttackMultihit(15:13572) -> Rapier Brooch
+# Deal 100% damage (2 hits, 50% each)
+# [8] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [9] ESBranchFlag(43:10) -> ESBranchFlag
+# Branch on flag & 1, target rnd 7
+# [10] ESFlagOperation(22:12) -> ESFlagOperation
+# flag SET 0b1
+# [11] ESAttackUPRemainingEnemies(17:13571) -> Ruby of Charity
+# 	Condition: when <= 1 enemies remain (ai:100 rnd:0)
+# Increase damage to 150% for the next 99 turns
+# [12] ESEndPath(36:26) -> ESEndPath
+# end_turn

@@ -1,0 +1,118 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 105592
+monster_name_en: Jubei Yagyu
+reviewed_by: unreviewed
+warnings: []
+
+############################################################
+### Data @ 4
+############################################################
+!SkillRecordListing
+level: 4
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
+    orbs, Deal 90% damage (Preemptive)
+  max_atk_pct: 90
+  name_en: Taste the blade of Yagyu!
+  one_time: 2
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Change 5th row to Fire, Wood orbs, Deal 100% damage
+  max_atk_pct: 100
+  name_en: Geyser Thrust
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 25
+- !SkillRecord
+  desc_en: Deal 108% damage (6 hits, 18% each)
+  max_atk_pct: 108
+  name_en: Tsunami Sabre
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 25
+- !SkillRecord
+  desc_en: Blind random 4~6 orbs for 1 turns, Deal 95% damage
+  max_atk_pct: 95
+  name_en: Saber Thrust
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 25
+- !SkillRecord
+  desc_en: Reduce damage from all sources by 50% for 1 turns, Deal 90% damage
+  max_atk_pct: 90
+  name_en: Reflect Mind's Eye Sabre
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 25
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP < 15
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Deal 240% damage (4 hits, 60% each)
+  max_atk_pct: 240
+  name_en: 'Shinkage-ryu: Twin Devil Horns'
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 50
+- !SkillRecord
+  desc_en: Change 4th, 5th column to Fire, Wood orbs, Deal 220% damage
+  max_atk_pct: 220
+  name_en: Moonbeam Slicer
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### ES Modifiers
+############################################################
+# [9] 5 - monster size?
+# [52] true - use new AI
+# [53] 3 - starting/max counter
+# [54] 0 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESPreemptive(49:3402) -> ESPreemptive
+# Enable preempt if level 4
+# [2] ESBranchLevel(35:25) -> ESBranchLevel
+# Branch on level > 4, target rnd 4
+# [3] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [4] ESOrbLock(94:14711) -> Taste the blade of Yagyu!
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
+# Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 90% damage
+# [5] ESBranchHP(28:18) -> ESBranchHP
+# Branch on hp < 15, target rnd 11
+# [6] ESRowSpawnMulti(79:14681) -> Geyser Thrust
+# 	Condition: 25% chance (ai:0 rnd:25)
+# Change 5th row to Fire, Wood orbs, Deal 100% damage
+# [7] ESAttackMultihit(15:14682) -> Tsunami Sabre
+# 	Condition: 25% chance (ai:0 rnd:25)
+# Deal 108% damage (6 hits, 18% each)
+# [8] ESBlindStickyRandom(97:14683) -> Saber Thrust
+# 	Condition: 25% chance (ai:0 rnd:25)
+# Blind random 4~6 orbs for 1 turns, Deal 95% damage
+# [9] ESDamageShield(74:14684) -> Reflect Mind's Eye Sabre
+# 	Condition: 25% chance (ai:0 rnd:25)
+# Reduce damage from all sources by 50% for 1 turns, Deal 90% damage
+# [10] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [11] ESAttackMultihit(15:14686) -> Shinkage-ryu: Twin Devil Horns
+# 	Condition: One-time use (ai:50 rnd:0) (one-time: 1)
+# Deal 240% damage (4 hits, 60% each)
+# [12] ESColumnSpawnMulti(77:14685) -> Moonbeam Slicer
+# Change 4th, 5th column to Fire, Wood orbs, Deal 220% damage
+# [13] ESEndPath(36:26) -> ESEndPath
+# end_turn

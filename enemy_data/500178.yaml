@@ -1,0 +1,52 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 500178
+monster_name_en: King Metal Dragon
+reviewed_by: unreviewed
+warnings: []
+
+############################################################
+### Data @ 1
+############################################################
+!SkillRecordListing
+level: 1
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Reduce damage from all sources by 99% for 99 turns (Preemptive)
+  max_atk_pct: null
+  name_en: King Metal Body
+  one_time: 1
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Deal 100% damage (2 hits, 50% each)
+  max_atk_pct: 100
+  name_en: Iron Claw
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### ES Modifiers
+############################################################
+# [9] 4 - monster size?
+# [52] true - use new AI
+# [53] 1 - starting/max counter
+# [54] 0 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESPreemptive(49:318) -> ESPreemptive
+# Enable preempt if level 1
+# [2] ESDamageShield(74:13962) -> King Metal Body
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
+# Reduce damage from all sources by 99% for 99 turns
+# [3] ESAttackMultihit(15:13963) -> Iron Claw
+# Deal 100% damage (2 hits, 50% each)
+# [4] ESEndPath(36:26) -> ESEndPath
+# end_turn

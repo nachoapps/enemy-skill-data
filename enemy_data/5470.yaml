@@ -1,0 +1,125 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 5470
+monster_name_en: 島田亜輝
+reviewed_by: unreviewed
+warnings: []
+
+############################################################
+### Data @ 1
+############################################################
+!SkillRecordListing
+level: 1
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Seal 1st row for 1 turns (Preemptive)
+  max_atk_pct: null
+  name_en: はしゃぎすぎじゃねェか？
+  one_time: 4
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Deal 110% damage (2 hits, 55% each)
+  max_atk_pct: 110
+  name_en: いじめるゾこのヤロォ！
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 33
+- !SkillRecord
+  desc_en: Deal 100% damage
+  max_atk_pct: 100
+  name_en: このくそっ！
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 33
+- !SkillRecord
+  desc_en: Change Random to Dark, Deal 95% damage
+  max_atk_pct: 95
+  name_en: ウダウダやってるヒマはねェぞ！
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 34
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP < 50
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Absorb combo <= 3 damage for 1 turns
+  max_atk_pct: null
+  name_en: まだまだこれからだぜ
+  one_time: 2
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP <= 20
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 2
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Reduce damage from all sources by 50% for 1 turns
+  max_atk_pct: null
+  name_en: おまえは俺に勝てねェよ
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### ES Modifiers
+############################################################
+# [9] 5 - monster size?
+# [52] true - use new AI
+# [53] 7 - starting/max counter
+# [54] 0 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESPreemptive(49:318) -> ESPreemptive
+# Enable preempt if level 1
+# [2] ESOrbSealRow(100:14105) -> はしゃぎすぎじゃねェか？
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 4)
+# Seal 1st row for 1 turns
+# [3] ESBranchHP(29:19) -> ESBranchHP
+# Branch on hp > 50, target rnd 7
+# [4] ESAbsorbCombo(67:14107) -> まだまだこれからだぜ
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
+# Absorb combo <= 3 damage for 1 turns
+# [5] ESBranchHP(29:19) -> ESBranchHP
+# Branch on hp > 21, target rnd 7
+# [6] ESDamageShield(74:14108) -> おまえは俺に勝てねェよ
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
+# Reduce damage from all sources by 50% for 1 turns
+# [7] ESAttackMultihit(15:14106) -> いじめるゾこのヤロォ！
+# 	Condition: 33% chance (ai:0 rnd:33)
+# Deal 110% damage (2 hits, 55% each)
+# [8] ESAttackMultihit(15:14109) -> このくそっ！
+# 	Condition: 33% chance (ai:0 rnd:33)
+# Deal 100% damage
+# [9] ESOrbChangeAttack(48:14110) -> ウダウダやってるヒマはねェぞ！
+# 	Condition: 34% chance (ai:0 rnd:34)
+# Change Random to Dark, Deal 95% damage
+# [10] ESEndPath(36:26) -> ESEndPath
+# end_turn

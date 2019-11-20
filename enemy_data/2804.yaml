@@ -1,0 +1,208 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 2804
+monster_name_en: Shuten-doji
+reviewed_by: unreviewed
+warnings:
+- Found 2 unused actions
+
+############################################################
+### Data @ 1
+############################################################
+!SkillRecordListing
+level: 1
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Change Fire, Water, Wood, Light, Dark, Heal to Jammer, Deal 1000% damage
+    (Preemptive)
+  max_atk_pct: 1000
+  name_en: 酒がまずくなるわ
+  one_time: 0
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Deal 1000% damage (5 hits, 200% each) (Preemptive)
+  max_atk_pct: 1000
+  name_en: ちゃんと戦えいっ！
+  one_time: 0
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Change Fire, Water, Wood, Light, Dark, Heal to Jammer, Deal 1000% damage
+  max_atk_pct: 1000
+  name_en: 酒がまずくなるわ
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP <= 100
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Change Fire, Water, Wood, Light, Dark, Heal to Jammer, Deal 1000% damage
+  max_atk_pct: 1000
+  name_en: 酒がまずくなるわ
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Deal 1000% damage (5 hits, 200% each)
+  max_atk_pct: 1000
+  name_en: ちゃんと戦えいっ！
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP < 50
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Change Fire, Water, Wood, Light, Dark, Heal to Jammer, Deal 1000% damage
+  max_atk_pct: 1000
+  name_en: 酒がまずくなるわ
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Spawn random 5 Fire, Water, Wood, Light, Dark orbs + Blind all orbs on
+    the board
+  max_atk_pct: null
+  name_en: これは苦しいのではないか？ + おっとおまけを忘れてた
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP < 25
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Change Fire, Water, Wood, Light, Dark, Heal to Jammer, Deal 1000% damage
+  max_atk_pct: 1000
+  name_en: 酒がまずくなるわ
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Spawn random 3 Fire, Water, Wood, Light, Dark, Heal, Poison, Mortal Poison
+    orbs + Absorb combo <= 7 damage for 999 turns
+  max_atk_pct: null
+  name_en: ここまでやるとは驚きだ + これで最後だ
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### Unused Actions
+############################################################
+# SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
+# 	[0] ESSkyfall(68:15102) -> 楽しませてもらうぞ
+# 	Jammer skyfall +100% for 4 turns
+# 	[1] ESRandomSpawn(92:15104) -> 酒の肴に丁度いい
+# 	Spawn random 6 Fire, Water, Wood, Light, Jammer orbs
+# 	[2] ESAttributeBlock(107:15103) -> お邪魔以外全て消すのだ
+# 	Unable to match Jammer orbs for 4 turns
+# 	[3] ESDebuffMovetime(39:15105) -> まぁ頑張ってみろ
+# 	Movetime 200% for 4 turns
+# SkillSet:
+# 	[0] ESRandomSpawn(92:15109) -> 次はどうかな？
+# 	Spawn random 5 Fire, Water, Wood, Light, Dark orbs
+# 	[1] ESFixedStart(101:15116) -> おまけだ
+# 	Fix orb movement starting point to random position on the board
+############################################################
+### ES Modifiers
+############################################################
+# [9] 5 - monster size?
+# [52] false - use new AI
+# [53] 0 - starting/max counter
+# [54] 0 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESPreemptive(49:318) -> ESPreemptive
+# Enable preempt if level 1
+# [2] SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
+# 	[0] ESSkyfall(68:15102) -> 楽しませてもらうぞ
+# 	Jammer skyfall +100% for 4 turns
+# 	[1] ESRandomSpawn(92:15104) -> 酒の肴に丁度いい
+# 	Spawn random 6 Fire, Water, Wood, Light, Jammer orbs
+# 	[2] ESAttributeBlock(107:15103) -> お邪魔以外全て消すのだ
+# 	Unable to match Jammer orbs for 4 turns
+# 	[3] ESDebuffMovetime(39:15105) -> まぁ頑張ってみろ
+# 	Movetime 200% for 4 turns
+# [3] ESBranchFlag(43:10) -> ESBranchFlag
+# Branch on flag & 1, target rnd 10
+# [4] ESFlagOperation(22:12) -> ESFlagOperation
+# flag SET 0b1
+# [5] ESOrbChangeAttackBits(108:15120) -> 酒がまずくなるわ
+# Change Fire, Water, Wood, Light, Dark, Heal to Jammer, Deal 1000% damage
+# [6] ESBranchHP(28:18) -> ESBranchHP
+# Branch on hp < 75, target rnd 8
+# [7] ESAttackMultihit(15:15123) -> ちゃんと戦えいっ！
+# Deal 1000% damage (5 hits, 200% each)
+# [8] SkillSet:
+# 	[0] ESRandomSpawn(92:15109) -> 次はどうかな？
+# 	Spawn random 5 Fire, Water, Wood, Light, Dark orbs
+# 	[1] ESFixedStart(101:15116) -> おまけだ
+# 	Fix orb movement starting point to random position on the board
+# [9] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [10] ESBranchFlag(43:10) -> ESBranchFlag
+# Branch on flag & 2, target rnd 17
+# [11] ESFlagOperation(22:12) -> ESFlagOperation
+# flag SET 0b11
+# [12] ESOrbChangeAttackBits(108:15121) -> 酒がまずくなるわ
+# Change Fire, Water, Wood, Light, Dark, Heal to Jammer, Deal 1000% damage
+# [13] ESBranchHP(28:18) -> ESBranchHP
+# Branch on hp < 50, target rnd 15
+# [14] ESAttackMultihit(15:15123) -> ちゃんと戦えいっ！
+# Deal 1000% damage (5 hits, 200% each)
+# [15] SkillSet:
+# 	[0] ESRandomSpawn(92:15113) -> これは苦しいのではないか？
+# 	Spawn random 5 Fire, Water, Wood, Light, Dark orbs
+# 	[1] ESBlind(5:15114) -> おっとおまけを忘れてた
+# 	Blind all orbs on the board
+# [16] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [17] ESOrbChangeAttackBits(108:15122) -> 酒がまずくなるわ
+# Change Fire, Water, Wood, Light, Dark, Heal to Jammer, Deal 1000% damage
+# [18] ESBranchHP(28:18) -> ESBranchHP
+# Branch on hp < 25, target rnd 20
+# [19] ESAttackMultihit(15:15123) -> ちゃんと戦えいっ！
+# Deal 1000% damage (5 hits, 200% each)
+# [20] SkillSet:
+# 	[0] ESRandomSpawn(92:15117) -> ここまでやるとは驚きだ
+# 	Spawn random 3 Fire, Water, Wood, Light, Dark, Heal, Poison, Mortal Poison orbs
+# 	[1] ESAbsorbCombo(67:15119) -> これで最後だ
+# 	Absorb combo <= 7 damage for 999 turns
+# [21] ESEndPath(36:26) -> ESEndPath
+# end_turn

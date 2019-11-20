@@ -1,0 +1,108 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 2944
+monster_name_en: Balboa
+reviewed_by: unreviewed
+warnings: []
+
+############################################################
+### Data @ 1
+############################################################
+!SkillRecordListing
+level: 1
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Reduce damage from all sources by 75% for 4 turns + Blind random 3 orbs
+    for 4 turns (Preemptive)
+  max_atk_pct: null
+  name_en: Hermit Shield + Light is gathering on the staff
+  one_time: 1
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Execute repeatedly. Turn 1-3
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Blind random 3 orbs for 4 turns
+  max_atk_pct: null
+  name_en: Light is gathering on the staff
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 4
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Increase damage to 1000% for the next 3 turns
+  max_atk_pct: null
+  name_en: Light is covering the body
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Loop to 1 after. Turn 5
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Deal 10000% damage
+  max_atk_pct: 10000
+  name_en: Astray Beam
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### ES Modifiers
+############################################################
+# [9] 5 - monster size?
+# [52] true - use new AI
+# [53] 1 - starting/max counter
+# [54] 0 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESPreemptive(49:318) -> ESPreemptive
+# Enable preempt if level 1
+# [2] SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
+# 	[0] ESDamageShield(74:13574) -> Hermit Shield
+# 	Reduce damage from all sources by 75% for 4 turns
+# 	[1] ESBlindStickyRandom(97:13575) -> Light is gathering on the staff
+# 	Blind random 3 orbs for 4 turns
+# [3] ESBranchCounter(32:22) -> ESBranchCounter
+# Branch on counter > 3, target rnd 7
+# [4] ESSetCounter(26:16) -> ESSetCounter
+# counter + 1
+# [5] ESBlindStickyRandom(97:13575) -> Light is gathering on the staff
+# Blind random 3 orbs for 4 turns
+# [6] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [7] ESBranchCounter(32:22) -> ESBranchCounter
+# Branch on counter > 4, target rnd 10
+# [8] ESSetCounter(26:16) -> ESSetCounter
+# counter + 1
+# [9] ESAttackUPRemainingEnemies(17:13577) -> Light is covering the body
+# 	Condition: when <= 1 enemies remain (ai:100 rnd:0)
+# Increase damage to 1000% for the next 3 turns
+# [10] ESSetCounter(25:15) -> ESSetCounter
+# counter = 0
+# [11] ESAttackMultihit(15:13578) -> Astray Beam
+# Deal 10000% damage
+# [12] ESEndPath(36:26) -> ESEndPath
+# end_turn

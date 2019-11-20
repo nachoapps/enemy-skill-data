@@ -1,0 +1,103 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 104576
+monster_name_en: Guardian of the Water City, Athena
+reviewed_by: unreviewed
+warnings: []
+
+############################################################
+### Data @ 1
+############################################################
+!SkillRecordListing
+level: 1
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Delay active skills by 5 turns + Movetime -4s for 5 turns (Preemptive)
+  max_atk_pct: null
+  name_en: Oath of Aegis + Protection of Nike
+  one_time: 2
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Spawn random 6 Water orbs, Deal 100% damage
+  max_atk_pct: 100
+  name_en: Aqua Spear
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 50
+- !SkillRecord
+  desc_en: Deal 110% damage (5 hits, 22% each)
+  max_atk_pct: 110
+  name_en: Stream Punisher
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 50
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP < 15
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Do nothing
+  max_atk_pct: null
+  name_en: I'll finish this...
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Deal 500% damage (10 hits, 50% each)
+  max_atk_pct: 500
+  name_en: Aquamarine Burst
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### ES Modifiers
+############################################################
+# [9] 5 - monster size?
+# [52] true - use new AI
+# [53] 3 - starting/max counter
+# [54] 0 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESPreemptive(49:318) -> ESPreemptive
+# Enable preempt if level 1
+# [2] SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
+# 	[0] ESSkillDelay(89:13580) -> Oath of Aegis
+# 	Delay active skills by 5 turns
+# 	[1] ESDebuffMovetime(39:13581) -> Protection of Nike
+# 	Movetime -4s for 5 turns
+# [3] ESBranchHP(28:18) -> ESBranchHP
+# Branch on hp < 15, target rnd 7
+# [4] ESRandomSpawn(92:13582) -> Aqua Spear
+# 	Condition: 50% chance & when Fire, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs are on the board (ai:0 rnd:50)
+# Spawn random 6 Water orbs, Deal 100% damage
+# [5] ESAttackMultihit(15:13583) -> Stream Punisher
+# 	Condition: 50% chance (ai:0 rnd:50)
+# Deal 110% damage (5 hits, 22% each)
+# [6] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [7] ESInactivity(66:13584) -> I'll finish this...
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
+# Do nothing
+# [8] ESAttackMultihit(15:13585) -> Aquamarine Burst
+# Deal 500% damage (10 hits, 50% each)
+# [9] ESEndPath(36:26) -> ESEndPath
+# end_turn

@@ -1,0 +1,274 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 5583
+monster_name_en: Hanzo Hattori (Samurai Shodown)
+reviewed_by: unreviewed
+warnings: []
+
+############################################################
+### Data @ 1
+############################################################
+!SkillRecordListing
+level: 1
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Bind active skills for 3 turns (Preemptive)
+  max_atk_pct: null
+  name_en: Only death awaits you.
+  one_time: 2
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Change 3rd row to Fire, Dark orbs, Deal 95% damage (Preemptive)
+  max_atk_pct: 95
+  name_en: Ninja Exploding Dragon Blast
+  one_time: 0
+  record_type_name: PREEMPT
+  usage_pct: 34
+- !SkillRecord
+  desc_en: Bind 1 random subs for 1~2 turns, Deal 100% damage (Preemptive)
+  max_atk_pct: 100
+  name_en: Ninja Shrike Dash
+  one_time: 0
+  record_type_name: PREEMPT
+  usage_pct: 33
+- !SkillRecord
+  desc_en: Change Random to Dark, Deal 95% damage (Preemptive)
+  max_atk_pct: 95
+  name_en: Ninja Windsplitter
+  one_time: 0
+  record_type_name: PREEMPT
+  usage_pct: 33
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Execute repeatedly. Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Change 3rd row to Fire, Dark orbs, Deal 95% damage
+  max_atk_pct: 95
+  name_en: Ninja Exploding Dragon Blast
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 34
+- !SkillRecord
+  desc_en: Bind 1 random subs for 1~2 turns, Deal 100% damage
+  max_atk_pct: 100
+  name_en: Ninja Shrike Dash
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 33
+- !SkillRecord
+  desc_en: Change Random to Dark, Deal 95% damage
+  max_atk_pct: 95
+  name_en: Ninja Windsplitter
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 33
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 2
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Random 1 orbs change every 1.0s for 1 turns, Deal 105% damage
+  max_atk_pct: 105
+  name_en: Falling Ninja Cicada Larva
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 50
+- !SkillRecord
+  desc_en: Seal 5th row for 1 turns, Deal 105% damage
+  max_atk_pct: 105
+  name_en: Gashing Ninja Cicada Larva
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 50
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Loop to 1 after. Turn 3
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Change 3rd row to Fire, Dark orbs, Deal 95% damage
+  max_atk_pct: 95
+  name_en: Ninja Exploding Dragon Blast
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 34
+- !SkillRecord
+  desc_en: Bind 1 random subs for 1~2 turns, Deal 100% damage
+  max_atk_pct: 100
+  name_en: Ninja Shrike Dash
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 33
+- !SkillRecord
+  desc_en: Change Random to Dark, Deal 95% damage
+  max_atk_pct: 95
+  name_en: Ninja Windsplitter
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 33
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP < 50
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: 2x2 cloud appear for 2 turns at random location
+  max_atk_pct: null
+  name_en: Ninja Mon Dance
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Execute repeatedly. Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Random 1 orbs change every 1.0s for 1 turns, Deal 105% damage
+  max_atk_pct: 105
+  name_en: Falling Ninja Cicada Larva
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 50
+- !SkillRecord
+  desc_en: Seal 5th row for 1 turns, Deal 105% damage
+  max_atk_pct: 105
+  name_en: Gashing Ninja Cicada Larva
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 50
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Loop to 1 after. Turn 2-3
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Change 3rd row to Fire, Dark orbs, Deal 95% damage
+  max_atk_pct: 95
+  name_en: Ninja Exploding Dragon Blast
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 34
+- !SkillRecord
+  desc_en: Bind 1 random subs for 1~2 turns, Deal 100% damage
+  max_atk_pct: 100
+  name_en: Ninja Shrike Dash
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 33
+- !SkillRecord
+  desc_en: Change Random to Dark, Deal 95% damage
+  max_atk_pct: 95
+  name_en: Ninja Windsplitter
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 33
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP < 15
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Deal 240% damage (6 hits, 40% each)
+  max_atk_pct: 240
+  name_en: True Whistling Shrike Drop - Ruin Embers-
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 50
+- !SkillRecord
+  desc_en: Change 3rd, 4th column to Fire, Dark orbs, Deal 220% damage
+  max_atk_pct: 220
+  name_en: 'Sealed Scroll: Shadow Particle'
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### ES Modifiers
+############################################################
+# [9] 5 - monster size?
+# [52] true - use new AI
+# [53] 3 - starting/max counter
+# [54] 0 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESPreemptive(49:318) -> ESPreemptive
+# Enable preempt if level 1
+# [2] ESBindSkill(14:14655) -> Only death awaits you.
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
+# Bind active skills for 3 turns
+# [3] ESBranchHP(28:18) -> ESBranchHP
+# Branch on hp < 15, target rnd 19
+# [4] ESSetCounter(26:16) -> ESSetCounter
+# counter + 1
+# [5] ESBranchHP(28:18) -> ESBranchHP
+# Branch on hp < 50, target rnd 15
+# [6] ESBranchCounter(32:22) -> ESBranchCounter
+# Branch on counter > 3, target rnd 11
+# [7] ESRowSpawnMulti(79:14656) -> Ninja Exploding Dragon Blast
+# 	Condition: 34% chance (ai:0 rnd:34)
+# Change 3rd row to Fire, Dark orbs, Deal 95% damage
+# [8] ESBindAttack(63:14657) -> Ninja Shrike Dash
+# 	Condition: 33% chance (ai:0 rnd:33)
+# Bind 1 random subs for 1~2 turns, Deal 100% damage
+# [9] ESOrbChangeAttack(48:14660) -> Ninja Windsplitter
+# 	Condition: 33% chance (ai:0 rnd:33)
+# Change Random to Dark, Deal 95% damage
+# [10] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [11] ESSetCounter(25:15) -> ESSetCounter
+# counter = 0
+# [12] ESSpinnersRandom(109:14658) -> Falling Ninja Cicada Larva
+# 	Condition: 50% chance (ai:0 rnd:50)
+# Random 1 orbs change every 1.0s for 1 turns, Deal 105% damage
+# [13] ESOrbSealRow(100:14659) -> Gashing Ninja Cicada Larva
+# 	Condition: 50% chance (ai:0 rnd:50)
+# Seal 5th row for 1 turns, Deal 105% damage
+# [14] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [15] ESBranchFlag(43:10) -> ESBranchFlag
+# Branch on flag & 1, target rnd 6
+# [16] ESFlagOperation(22:12) -> ESFlagOperation
+# flag SET 0b1
+# [17] ESCloud(104:14661) -> Ninja Mon Dance
+# 2x2 cloud appear for 2 turns at random location
+# [18] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [19] ESAttackMultihit(15:14663) -> True Whistling Shrike Drop - Ruin Embers-
+# 	Condition: One-time use (ai:50 rnd:0) (one-time: 1)
+# Deal 240% damage (6 hits, 40% each)
+# [20] ESColumnSpawnMulti(77:14662) -> Sealed Scroll: Shadow Particle
+# Change 3rd, 4th column to Fire, Dark orbs, Deal 220% damage
+# [21] ESEndPath(36:26) -> ESEndPath
+# end_turn

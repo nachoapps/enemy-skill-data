@@ -1,0 +1,172 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 3941
+monster_name_en: Investigation Pursuing Dragon Caller, Nees
+reviewed_by: unreviewed
+warnings: []
+
+############################################################
+### Data @ 1
+############################################################
+!SkillRecordListing
+level: 1
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Survive attacks with 1 HP when HP > 50%
+  max_atk_pct: null
+  name_en: Ability
+  one_time: 0
+  record_type_name: PASSIVE
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Void damage >= 10000000 for 3 turns (Preemptive), (if [5429, 5430] on team)
+  max_atk_pct: null
+  name_en: It's been a while...let's fight it out
+  one_time: 2
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Void damage >= 10000000 for 3 turns (Preemptive)
+  max_atk_pct: null
+  name_en: Did you come to see her?
+  one_time: 2
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Deal 120% damage (3 hits, 40% each)
+  max_atk_pct: 120
+  name_en: Hell Bullet
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 50
+- !SkillRecord
+  desc_en: Spawn random 5 Dark orbs, Deal 100% damage
+  max_atk_pct: 100
+  name_en: Dark Whirlwind
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 50
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP <= 50
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Increase damage to 150% for the next 999 turns
+  max_atk_pct: null
+  name_en: Ultimate Dedication
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP < 20
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Reduce damage from all sources by 75% for 3 turns
+  max_atk_pct: null
+  name_en: As commander, I protect my comrades
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Deal 300% damage (10 hits, 30% each)
+  max_atk_pct: 300
+  name_en: Neverending Bullets
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Enemy is defeated
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Enemy recover 50% hp
+  max_atk_pct: null
+  name_en: Vent Noir
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### ES Modifiers
+############################################################
+# [9] 5 - monster size?
+# [52] true - use new AI
+# [53] 3 - starting/max counter
+# [54] 0 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESPreemptive(49:318) -> ESPreemptive
+# Enable preempt if level 1
+# [2] ESBranchCard(90:13849) -> ESBranchCard
+# Branch on player_cards HAS [5429, 5430], target rnd 4
+# [3] ESVoidShield(71:13859) -> Did you come to see her?
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
+# Void damage >= 10000000 for 3 turns
+# [4] ESVoidShield(71:13860) -> It's been a while...let's fight it out
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
+# Void damage >= 10000000 for 3 turns
+# [5] ESBranchHP(28:18) -> ESBranchHP
+# Branch on hp < 1, target rnd 18
+# [6] ESBranchHP(28:18) -> ESBranchHP
+# Branch on hp < 20, target rnd 12
+# [7] ESBranchHP(29:19) -> ESBranchHP
+# Branch on hp > 51, target rnd 9
+# [8] ESAttackUPRemainingEnemies(17:13863) -> Ultimate Dedication
+# 	Condition: One-time use, when <= 1 enemies remain (ai:100 rnd:0) (one-time: 1)
+# Increase damage to 150% for the next 999 turns
+# [9] ESAttackMultihit(15:13861) -> Hell Bullet
+# 	Condition: 50% chance (ai:0 rnd:50)
+# Deal 120% damage (3 hits, 40% each)
+# [10] ESRandomSpawn(92:13862) -> Dark Whirlwind
+# 	Condition: 50% chance & when Fire, Water, Wood, Light, Heal, Jammer, Poison, Mortal Poison orbs are on the board (ai:0 rnd:50)
+# Spawn random 5 Dark orbs, Deal 100% damage
+# [11] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [12] ESBranchFlag(43:10) -> ESBranchFlag
+# Branch on flag & 1, target rnd 16
+# [13] ESFlagOperation(22:12) -> ESFlagOperation
+# flag SET 0b1
+# [14] ESDamageShield(74:13864) -> As commander, I protect my comrades
+# Reduce damage from all sources by 75% for 3 turns
+# [15] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [16] ESAttackMultihit(15:13865) -> Neverending Bullets
+# Deal 300% damage (10 hits, 30% each)
+# [17] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [18] ESRecoverEnemy(86:13866) -> Vent Noir
+# Enemy recover 50% hp
+# [19] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [20] ESResolve(73:13858) -> Resolve
+# Survive attacks with 1 HP when HP > 50%

@@ -1,0 +1,102 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 1618
+monster_name_en: Wood Wizard, Leeza
+reviewed_by: unreviewed
+warnings: []
+
+############################################################
+### Data @ 1
+############################################################
+!SkillRecordListing
+level: 1
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Bind 4 random subs for 50 turns + Void damage >= 30 for 999 turns (Preemptive)
+  max_atk_pct: null
+  name_en: Sylph, please♪ + Magic Circle's Protective Wall
+  one_time: 5
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1-4
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Spawn random 3 Heal orbs
+  max_atk_pct: null
+  name_en: I'll give you this♪
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 5
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Spawn random 3 Heal orbs
+  max_atk_pct: null
+  name_en: This is my last
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP <= 100
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Change all orbs to Fire, Heal, Jammer, Poison, Deal 10000% damage
+  max_atk_pct: 10000
+  name_en: Magic Circle Anomaly
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### ES Modifiers
+############################################################
+# [9] 5 - monster size?
+# [52] true - use new AI
+# [53] 9 - starting/max counter
+# [54] 0 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESPreemptive(49:318) -> ESPreemptive
+# Enable preempt if level 1
+# [2] SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 5)
+# 	[0] ESBindRandomSub(65:14290) -> Sylph, please♪
+# 	Bind 4 random subs for 50 turns
+# 	[1] ESVoidShield(71:14291) -> Magic Circle's Protective Wall
+# 	Void damage >= 30 for 999 turns
+# [3] ESRandomSpawn(92:14293) -> I'll give you this♪
+# 	Condition: One-time use & when Fire, Water, Wood, Light, Dark, Jammer, Poison, Mortal Poison orbs are on the board (ai:100 rnd:0) (one-time: 1)
+# Spawn random 3 Heal orbs
+# [4] ESBranchFlag(43:10) -> ESBranchFlag
+# Branch on flag & 1, target rnd 8
+# [5] ESFlagOperation(22:12) -> ESFlagOperation
+# flag SET 0b1
+# [6] ESRandomSpawn(92:14294) -> This is my last
+# 	Condition: When fire, water, wood, light, dark, jammer, poison, mortal poison orbs are on the board (ai:100 rnd:0)
+# Spawn random 3 Heal orbs
+# [7] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [8] ESBoardChangeAttackBits(85:14292) -> Magic Circle Anomaly
+# Change all orbs to Fire, Heal, Jammer, Poison, Deal 10000% damage
+# [9] ESEndPath(36:26) -> ESEndPath
+# end_turn

@@ -1,0 +1,144 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 502092
+monster_name_en: Storm Mighty Dragon Emperor, Lifive
+reviewed_by: unreviewed
+warnings: []
+
+############################################################
+### Data @ 1
+############################################################
+!SkillRecordListing
+level: 1
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Reduce damage from all sources by 50% for 2 turns, Deal 140% damage (Preemptive)
+  max_atk_pct: 140
+  name_en: I'll turn you into ashes!
+  one_time: 32
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Absorb combo <= 5 damage for 1 turns
+  max_atk_pct: null
+  name_en: Blaze Aura
+  one_time: 16
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 2
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Deal 210% damage (3 hits, 70% each)
+  max_atk_pct: 210
+  name_en: Triple Breath
+  one_time: 8
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 3
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Reduce damage from all sources by 75% for 1 turns
+  max_atk_pct: null
+  name_en: Armor Burn
+  one_time: 4
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 4
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Deal 222% damage (6 hits, 37% each)
+  max_atk_pct: 222
+  name_en: Fining Breath
+  one_time: 2
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 5
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Bind 5 random cards for 5 turns, Deal 100% damage
+  max_atk_pct: 100
+  name_en: Inferno Bullet
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP <= 100
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Deal 250% damage (5 hits, 50% each)
+  max_atk_pct: 250
+  name_en: Burst End
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### ES Modifiers
+############################################################
+# [9] 5 - monster size?
+# [52] true - use new AI
+# [53] 63 - starting/max counter
+# [54] 0 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESPreemptive(49:318) -> ESPreemptive
+# Enable preempt if level 1
+# [2] ESDamageShield(74:14514) -> I'll turn you into ashes!
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 32)
+# Reduce damage from all sources by 50% for 2 turns, Deal 140% damage
+# [3] ESAbsorbCombo(67:14515) -> Blaze Aura
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 16)
+# Absorb combo <= 5 damage for 1 turns
+# [4] ESAttackMultihit(15:14516) -> Triple Breath
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 8)
+# Deal 210% damage (3 hits, 70% each)
+# [5] ESDamageShield(74:14517) -> Armor Burn
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 4)
+# Reduce damage from all sources by 75% for 1 turns
+# [6] ESAttackMultihit(15:14518) -> Fining Breath
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
+# Deal 222% damage (6 hits, 37% each)
+# [7] ESBindAttack(63:14519) -> Inferno Bullet
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
+# Bind 5 random cards for 5 turns, Deal 100% damage
+# [8] ESAttackMultihit(15:14520) -> Burst End
+# Deal 250% damage (5 hits, 50% each)
+# [9] ESEndPath(36:26) -> ESEndPath
+# end_turn

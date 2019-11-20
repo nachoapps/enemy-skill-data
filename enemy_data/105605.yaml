@@ -1,0 +1,179 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 105605
+monster_name_en: Dancing Girl of Eternity, Shizuka Gozen
+reviewed_by: unreviewed
+warnings: []
+
+############################################################
+### Data @ 4
+############################################################
+!SkillRecordListing
+level: 4
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Void damage >= 20000000 for 999 turns + Do nothing + Player -99% HP (Preemptive)
+  max_atk_pct: null
+  name_en: Hate... Hate, hate, hate! + Uuuuugh! + Quavering Drums - Tempest
+  one_time: 2
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Execute repeatedly. Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Deal 100% damage
+  max_atk_pct: 100
+  name_en: Slicing Wind
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 2
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Spawn random 6 Dark orbs, Deal 105% damage
+  max_atk_pct: 105
+  name_en: Torrential Rain
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 3
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Bind 1 random subs for 2~3 turns, Deal 110% damage
+  max_atk_pct: 110
+  name_en: Vortex Drop
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 4
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Deal 120% damage (10 hits, 12% each)
+  max_atk_pct: 120
+  name_en: Ravaging Wind
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Loop to 1 after. Turn 5
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Change 1st, 3rd, 5th column to Dark orbs, Deal 115% damage
+  max_atk_pct: 115
+  name_en: Waterfall Cascade
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP < 20
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Change 3rd row to Dark orbs, Deal 300% damage
+  max_atk_pct: 300
+  name_en: Quavering Drums - Vengeful Arrow
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 50
+- !SkillRecord
+  desc_en: Change 3rd, 4th column to Dark orbs, Deal 250% damage
+  max_atk_pct: 250
+  name_en: Soul Storm of Enmity
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### ES Modifiers
+############################################################
+# [9] 5 - monster size?
+# [52] true - use new AI
+# [53] 3 - starting/max counter
+# [54] 0 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESPreemptive(49:3402) -> ESPreemptive
+# Enable preempt if level 4
+# [2] ESBranchLevel(35:25) -> ESBranchLevel
+# Branch on level > 4, target rnd 4
+# [3] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [4] SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
+# 	[0] ESVoidShield(71:14717) -> Hate... Hate, hate, hate!
+# 	Void damage >= 20000000 for 999 turns
+# 	[1] ESInactivity(66:14703) -> Uuuuugh!
+# 	Do nothing
+# 	[2] ESGravity(50:14704) -> Quavering Drums - Tempest
+# 	Player -99% HP
+# [5] ESBranchHP(28:18) -> ESBranchHP
+# Branch on hp < 20, target rnd 18
+# [6] ESSetCounter(26:16) -> ESSetCounter
+# counter + 1
+# [7] ESBranchCounter(32:22) -> ESBranchCounter
+# Branch on counter > 5, target rnd 15
+# [8] ESBranchCounter(32:22) -> ESBranchCounter
+# Branch on counter > 4, target rnd 14
+# [9] ESBranchCounter(32:22) -> ESBranchCounter
+# Branch on counter > 3, target rnd 13
+# [10] ESBranchCounter(32:22) -> ESBranchCounter
+# Branch on counter > 2, target rnd 12
+# [11] ESAttackMultihit(15:14695) -> Slicing Wind
+# Deal 100% damage
+# [12] ESRandomSpawn(92:14696) -> Torrential Rain
+# 	Condition: When fire, water, wood, light, heal, jammer, poison, mortal poison orbs are on the board (ai:100 rnd:0)
+# Spawn random 6 Dark orbs, Deal 105% damage
+# [13] ESBindAttack(63:14697) -> Vortex Drop
+# Bind 1 random subs for 2~3 turns, Deal 110% damage
+# [14] ESAttackMultihit(15:14698) -> Ravaging Wind
+# Deal 120% damage (10 hits, 12% each)
+# [15] ESSetCounter(25:15) -> ESSetCounter
+# counter = 0
+# [16] ESColumnSpawnMulti(77:14699) -> Waterfall Cascade
+# Change 1st, 3rd, 5th column to Dark orbs, Deal 115% damage
+# [17] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [18] ESRowSpawnMulti(79:14706) -> Quavering Drums - Vengeful Arrow
+# 	Condition: One-time use (ai:50 rnd:0) (one-time: 1)
+# Change 3rd row to Dark orbs, Deal 300% damage
+# [19] ESColumnSpawnMulti(77:14705) -> Soul Storm of Enmity
+# Change 3rd, 4th column to Dark orbs, Deal 250% damage
+# [20] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [21] SkillSet:
+# 	Condition: On death (ai:0 rnd:0)
+# 	[0] ESInactivity(66:14707) -> Aaugggghhhhh!
+# 	Do nothing

@@ -1,0 +1,223 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 1647
+monster_name_en: Dark Knight, Gravis
+reviewed_by: unreviewed
+warnings:
+- Found 3 unused actions
+
+############################################################
+### Data @ 1
+############################################################
+!SkillRecordListing
+level: 1
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Void damage >= 10000000 for 999 turns + Seal 1st, 6th column for 3 turns
+    (Preemptive)
+  max_atk_pct: null
+  name_en: Dark Shield + Dark Spell
+  one_time: 0
+  record_type_name: PREEMPT
+  usage_pct: 50
+- !SkillRecord
+  desc_en: Void damage >= 10000000 for 999 turns + 2x5 cloud appear for 3 turns at
+    1st row, 3rd column (Preemptive)
+  max_atk_pct: null
+  name_en: Dark Shield + Dark Spell
+  one_time: 0
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Spawn random 5 Bomb orbs, Deal 100% damage
+  max_atk_pct: 100
+  name_en: Explosive Hit
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 50
+- !SkillRecord
+  desc_en: Change Jammer to Dark, Deal 150% damage
+  max_atk_pct: 150
+  name_en: Disastrous Swing
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 50
+- !SkillRecord
+  desc_en: Change Random to Jammer, Deal 95% damage
+  max_atk_pct: 95
+  name_en: Doomsday Blow
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 50
+- !SkillRecord
+  desc_en: Deal 105% damage (3 hits, 35% each)
+  max_atk_pct: 105
+  name_en: Bloody Execution
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 50
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP < 50
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Blind random 15~20 orbs for 5 turns + Movetime 50% for 5 turns
+  max_atk_pct: null
+  name_en: Plunged into Darkness + Time Split
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 2-5
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Spawn random 5 Bomb orbs, Deal 100% damage
+  max_atk_pct: 100
+  name_en: Explosive Hit
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 50
+- !SkillRecord
+  desc_en: Change Jammer to Dark, Deal 150% damage
+  max_atk_pct: 150
+  name_en: Disastrous Swing
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 50
+- !SkillRecord
+  desc_en: Change Random to Jammer, Deal 95% damage
+  max_atk_pct: 95
+  name_en: Doomsday Blow
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 50
+- !SkillRecord
+  desc_en: Deal 105% damage (3 hits, 35% each)
+  max_atk_pct: 105
+  name_en: Bloody Execution
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 50
+- !SkillRecord
+  desc_en: Deal 300% damage (6 hits, 50% each)
+  max_atk_pct: 300
+  name_en: Darkness Execution
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### Unused Actions
+############################################################
+# ESRandomSpawn(92:14306) -> Great Shield of Destruction
+# 	Condition: One-time use & when Fire, Water, Wood, Light, Dark, Heal, Jammer orbs are on the board (ai:50 rnd:0) (one-time: 1)
+# Spawn random 5 Mortal Poison orbs, Deal 100% damage
+# ESOrbChangeAttackBits(108:14307) -> Great Shield of Devastation
+# 	Condition: One-time use (ai:50 rnd:0) (one-time: 1)
+# Change Poison to Dark, Deal 150% damage
+# ESOrbChangeAttack(48:14308) -> Obliterating Impact
+# 	Condition: 50% chance (ai:0 rnd:50)
+# Change Random to Poison, Deal 95% damage
+############################################################
+### ES Modifiers
+############################################################
+# [9] 5 - monster size?
+# [52] true - use new AI
+# [53] 1 - starting/max counter
+# [54] 1 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESPreemptive(49:318) -> ESPreemptive
+# Enable preempt if level 1
+# [2] ESBranchFlag(43:10) -> ESBranchFlag
+# Branch on flag & 1, target rnd 8
+# [3] ESFlagOperation(22:12) -> ESFlagOperation
+# flag SET 0b1
+# [4] SkillSet:
+# 	Condition: 50% chance (ai:50 rnd:0)
+# 	[0] ESVoidShield(71:14302) -> Dark Shield
+# 	Void damage >= 10000000 for 999 turns
+# 	[1] ESOrbSealColumn(99:14303) -> Dark Spell
+# 	Seal 1st, 6th column for 3 turns
+# [5] ESSetCounter(25:15) -> ESSetCounter
+# counter = 10
+# [6] SkillSet:
+# 	[0] ESVoidShield(71:14302) -> Dark Shield
+# 	Void damage >= 10000000 for 999 turns
+# 	[1] ESCloud(104:14305) -> Dark Spell
+# 	2x5 cloud appear for 3 turns at 1st row, 3rd column
+# [7] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [8] ESBranchHP(28:18) -> ESBranchHP
+# Branch on hp < 50, target rnd 20
+# [9] ESBranchCounter(32:22) -> ESBranchCounter
+# Branch on counter > 10, target rnd 15
+# [10] ESRandomSpawn(92:14306) -> Great Shield of Destruction
+# 	Condition: One-time use & when Fire, Water, Wood, Light, Dark, Heal, Jammer orbs are on the board (ai:50 rnd:0) (one-time: 1)
+# Spawn random 5 Mortal Poison orbs, Deal 100% damage
+# [11] ESOrbChangeAttackBits(108:14307) -> Great Shield of Devastation
+# 	Condition: One-time use (ai:50 rnd:0) (one-time: 1)
+# Change Poison to Dark, Deal 150% damage
+# [12] ESOrbChangeAttack(48:14308) -> Obliterating Impact
+# 	Condition: 50% chance (ai:0 rnd:50)
+# Change Random to Poison, Deal 95% damage
+# [13] ESAttackMultihit(15:14309) -> Bloody Execution
+# 	Condition: 50% chance (ai:0 rnd:50)
+# Deal 105% damage (3 hits, 35% each)
+# [14] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [15] ESBombRandomSpawn(102:14310) -> Explosive Hit
+# 	Condition: One-time use (ai:50 rnd:0) (one-time: 1)
+# Spawn random 5 Bomb orbs, Deal 100% damage
+# [16] ESOrbChangeAttackBits(108:14311) -> Disastrous Swing
+# 	Condition: One-time use (ai:50 rnd:0) (one-time: 1)
+# Change Jammer to Dark, Deal 150% damage
+# [17] ESOrbChangeAttack(48:14312) -> Doomsday Blow
+# 	Condition: 50% chance (ai:0 rnd:50)
+# Change Random to Jammer, Deal 95% damage
+# [18] ESAttackMultihit(15:14309) -> Bloody Execution
+# 	Condition: 50% chance (ai:0 rnd:50)
+# Deal 105% damage (3 hits, 35% each)
+# [19] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [20] ESBranchFlag(43:10) -> ESBranchFlag
+# Branch on flag & 2, target rnd 24
+# [21] ESFlagOperation(22:12) -> ESFlagOperation
+# flag SET 0b11
+# [22] SkillSet:
+# 	[0] ESBlindStickyRandom(97:14314) -> Plunged into Darkness
+# 	Blind random 15~20 orbs for 5 turns
+# 	[1] ESDebuffMovetime(39:14315) -> Time Split
+# 	Movetime 50% for 5 turns
+# [23] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [24] ESBranchCounter(31:21) -> ESBranchCounter
+# Branch on counter = 4, target rnd 27
+# [25] ESSetCounter(26:16) -> ESSetCounter
+# counter + 1
+# [26] ESBranchCounter(30:20) -> ESBranchCounter
+# Branch on counter < 14, target rnd 9
+# [27] ESAttackMultihit(15:14316) -> Darkness Execution
+# Deal 300% damage (6 hits, 50% each)
+# [28] ESEndPath(36:26) -> ESEndPath
+# end_turn

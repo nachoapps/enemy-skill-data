@@ -1,0 +1,116 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 3935
+monster_name_en: Thorn Protection Dragon Caller, Weld
+reviewed_by: unreviewed
+warnings: []
+
+############################################################
+### Data @ 1
+############################################################
+!SkillRecordListing
+level: 1
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Absorb combo <= 7 damage for 3 turns (Preemptive), (if [3942, 3943] on
+    team)
+  max_atk_pct: null
+  name_en: I see you're here as expected
+  one_time: 1
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Absorb combo <= 7 damage for 3 turns (Preemptive)
+  max_atk_pct: null
+  name_en: What business do you have in this place?
+  one_time: 1
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Bind awoken skills for 1 turns
+  max_atk_pct: null
+  name_en: I'll tie you up if you make a scene here
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 2
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Bind 4 random subs for 3 turns
+  max_atk_pct: null
+  name_en: Thorn Fang's Detainment
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP <= 100
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Change all orbs to Fire, Water, Heal, Deal 200% damage
+  max_atk_pct: 200
+  name_en: Hydrosnake
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### ES Modifiers
+############################################################
+# [9] 5 - monster size?
+# [52] true - use new AI
+# [53] 1 - starting/max counter
+# [54] 0 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESPreemptive(49:318) -> ESPreemptive
+# Enable preempt if level 1
+# [2] ESBranchCard(90:13848) -> ESBranchCard
+# Branch on player_cards HAS [3942, 3943], target rnd 4
+# [3] ESAbsorbCombo(67:13853) -> What business do you have in this place?
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
+# Absorb combo <= 7 damage for 3 turns
+# [4] ESAbsorbCombo(67:13854) -> I see you're here as expected
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
+# Absorb combo <= 7 damage for 3 turns
+# [5] ESBranchFlag(43:10) -> ESBranchFlag
+# Branch on flag & 1, target rnd 9
+# [6] ESFlagOperation(22:12) -> ESFlagOperation
+# flag SET 0b1
+# [7] ESBindAwoken(88:13855) -> I'll tie you up if you make a scene here
+# Bind awoken skills for 1 turns
+# [8] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [9] ESBranchFlag(43:10) -> ESBranchFlag
+# Branch on flag & 2, target rnd 13
+# [10] ESFlagOperation(22:12) -> ESFlagOperation
+# flag SET 0b11
+# [11] ESBindRandomSub(65:13856) -> Thorn Fang's Detainment
+# Bind 4 random subs for 3 turns
+# [12] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [13] ESBoardChangeAttackBits(85:13857) -> Hydrosnake
+# Change all orbs to Fire, Water, Heal, Deal 200% damage
+# [14] ESEndPath(36:26) -> ESEndPath
+# end_turn

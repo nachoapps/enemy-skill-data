@@ -1,0 +1,151 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 5654
+monster_name_en: 相良宗介&アーバレスト
+reviewed_by: unreviewed
+warnings: []
+
+############################################################
+### Data @ 1
+############################################################
+!SkillRecordListing
+level: 1
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Reduce damage from Attacker, Machine by 50%
+  max_atk_pct: null
+  name_en: Ability
+  one_time: 0
+  record_type_name: PASSIVE
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Reduce damage from all sources by 75% for 5 turns (Preemptive)
+  max_atk_pct: null
+  name_en: 一分で片付けるぞ
+  one_time: 2
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Rcv 50% for 5 turns
+  max_atk_pct: null
+  name_en: 行くぞ……！
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP <= 100
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Deal 70% damage (5 hits, 14% each)
+  max_atk_pct: 70
+  name_en: チェーンガン、威力行使
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 33
+- !SkillRecord
+  desc_en: Spawn random 6 Jammer orbs, Deal 65% damage
+  max_atk_pct: 65
+  name_en: ショット・キャノン
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 33
+- !SkillRecord
+  desc_en: Change 4th column to Dark, Jammer orbs, Deal 65% damage
+  max_atk_pct: 65
+  name_en: 単分子カッター
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 34
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP < 50
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Void damage >= 5000000 for 5 turns
+  max_atk_pct: null
+  name_en: ラムダ・ドライバ作動
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 2
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Rcv 50% for 5 turns
+  max_atk_pct: null
+  name_en: 行くぞ……！
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### ES Modifiers
+############################################################
+# [9] 5 - monster size?
+# [52] true - use new AI
+# [53] 3 - starting/max counter
+# [54] 0 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESPreemptive(49:318) -> ESPreemptive
+# Enable preempt if level 1
+# [2] ESDamageShield(74:14932) -> 一分で片付けるぞ
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
+# Reduce damage from all sources by 75% for 5 turns
+# [3] ESBranchHP(28:18) -> ESBranchHP
+# Branch on hp < 50, target rnd 9
+# [4] ESDebuffRCV(105:14933) -> 行くぞ……！
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
+# Rcv 50% for 5 turns
+# [5] ESAttackMultihit(15:14935) -> チェーンガン、威力行使
+# 	Condition: 33% chance (ai:0 rnd:33)
+# Deal 70% damage (5 hits, 14% each)
+# [6] ESRandomSpawn(92:14936) -> ショット・キャノン
+# 	Condition: 33% chance (ai:0 rnd:33)
+# Spawn random 6 Jammer orbs, Deal 65% damage
+# [7] ESColumnSpawnMulti(77:14937) -> 単分子カッター
+# 	Condition: 34% chance (ai:0 rnd:34)
+# Change 4th column to Dark, Jammer orbs, Deal 65% damage
+# [8] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [9] ESBranchFlag(43:10) -> ESBranchFlag
+# Branch on flag & 1, target rnd 4
+# [10] ESFlagOperation(22:12) -> ESFlagOperation
+# flag SET 0b1
+# [11] ESVoidShield(71:14934) -> ラムダ・ドライバ作動
+# Void damage >= 5000000 for 5 turns
+# [12] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [13] ESTypeResist(118:14995) -> 攻撃マシン半減
+# Reduce damage from Attacker, Machine by 50%

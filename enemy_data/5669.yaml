@@ -1,0 +1,143 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 5669
+monster_name_en: 宿命のライバル・白蛇のナーガ
+reviewed_by: unreviewed
+warnings: []
+
+############################################################
+### Data @ 1
+############################################################
+!SkillRecordListing
+level: 1
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Reduce damage from Physical, Attacker by 50%
+  max_atk_pct: null
+  name_en: Ability
+  one_time: 0
+  record_type_name: PASSIVE
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Absorb combo <= 7 damage for 5 turns + Unable to match Wood orbs for 3
+    turns (Preemptive)
+  max_atk_pct: null
+  name_en: ほーっほっほっほ！ + 勝負よ！
+  one_time: 0
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Player -99% HP
+  max_atk_pct: null
+  name_en: 石霊呪！
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 30
+- !SkillRecord
+  desc_en: Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
+    Poison orbs, Deal 70% damage
+  max_atk_pct: 70
+  name_en: 弦操呪牙！
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 50
+- !SkillRecord
+  desc_en: Bind 1 random cards for 5 turns, Deal 65% damage
+  max_atk_pct: 65
+  name_en: 覇王氷河烈！
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 50
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP < 50
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Delay active skills by 5 turns
+  max_atk_pct: null
+  name_en: こうなったら仕方ないわね……
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP <= 20
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Spawn random 10 Dark orbs, Deal 150% damage
+  max_atk_pct: 150
+  name_en: 魔竜吠！
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### ES Modifiers
+############################################################
+# [9] 5 - monster size?
+# [52] true - use new AI
+# [53] 1 - starting/max counter
+# [54] 1 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESPreemptive(49:318) -> ESPreemptive
+# Enable preempt if level 1
+# [2] ESBranchFlag(43:10) -> ESBranchFlag
+# Branch on flag & 1, target rnd 6
+# [3] ESFlagOperation(22:12) -> ESFlagOperation
+# flag SET 0b1
+# [4] SkillSet:
+# 	[0] ESAbsorbCombo(67:14948) -> ほーっほっほっほ！
+# 	Absorb combo <= 7 damage for 5 turns
+# 	[1] ESAttributeBlock(107:14949) -> 勝負よ！
+# 	Unable to match Wood orbs for 3 turns
+# [5] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [6] ESBranchHP(28:18) -> ESBranchHP
+# Branch on hp < 50, target rnd 11
+# [7] ESGravity(50:14950) -> 石霊呪！
+# 	Condition: One-time use (ai:30 rnd:0) (one-time: 1)
+# Player -99% HP
+# [8] ESOrbLock(94:14951) -> 弦操呪牙！
+# 	Condition: 50% chance (ai:0 rnd:50)
+# Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 70% damage
+# [9] ESBindAttack(63:14952) -> 覇王氷河烈！
+# 	Condition: 50% chance (ai:0 rnd:50)
+# Bind 1 random cards for 5 turns, Deal 65% damage
+# [10] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [11] ESBranchFlag(43:10) -> ESBranchFlag
+# Branch on flag & 2, target rnd 15
+# [12] ESFlagOperation(22:12) -> ESFlagOperation
+# flag SET 0b11
+# [13] ESSkillDelay(89:14953) -> こうなったら仕方ないわね……
+# Delay active skills by 5 turns
+# [14] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [15] ESBranchHP(29:19) -> ESBranchHP
+# Branch on hp > 21, target rnd 7
+# [16] ESRandomSpawn(92:14954) -> 魔竜吠！
+# Spawn random 10 Dark orbs, Deal 150% damage
+# [17] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [18] ESTypeResist(118:14997) -> 体力攻撃半減
+# Reduce damage from Physical, Attacker by 50%

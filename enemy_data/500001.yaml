@@ -1,0 +1,81 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 500001
+monster_name_en: Tyrra
+reviewed_by: unreviewed
+warnings: []
+
+############################################################
+### Data @ 1
+############################################################
+!SkillRecordListing
+level: 1
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Deal 100% damage (2 hits, 50% each)
+  max_atk_pct: 100
+  name_en: Take this Tyrra!
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP < 50
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Reduce damage from all sources by 30% for 1 turns
+  max_atk_pct: null
+  name_en: Not bad Tyrra!
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Spawn random 1 Fire orbs, Deal 120% damage
+  max_atk_pct: 120
+  name_en: Heat Breath!
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 50
+- !SkillRecord
+  desc_en: Deal 100% damage (2 hits, 50% each)
+  max_atk_pct: 100
+  name_en: Take this Tyrra!
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### ES Modifiers
+############################################################
+# [9] 1 - monster size?
+# [52] true - use new AI
+# [53] 1 - starting/max counter
+# [54] 0 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESDamageShield(74:13926) -> Not bad Tyrra!
+# 	Condition: When < 50% hp , one-time use (ai:100 rnd:0) (one-time: 1)
+# Reduce damage from all sources by 30% for 1 turns
+# [2] ESRandomSpawn(92:13927) -> Heat Breath!
+# 	Condition: 50% chance when < 50% hp & when Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs are on the board (ai:50 rnd:0)
+# Spawn random 1 Fire orbs, Deal 120% damage
+# [3] ESAttackMultihit(15:13925) -> Take this Tyrra!
+# Deal 100% damage (2 hits, 50% each)
+# [4] ESEndPath(36:26) -> ESEndPath
+# end_turn

@@ -1,0 +1,141 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 2993
+monster_name_en: Desiring Princess of Hell, Sitri
+reviewed_by: unreviewed
+warnings:
+- Found 5 unused actions
+
+############################################################
+### Data @ 1
+############################################################
+!SkillRecordListing
+level: 1
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Change Jammer, Poison, Mortal Poison to Water, Deal 100% damage (Preemptive)
+  max_atk_pct: 100
+  name_en: はい、ダ～メ！
+  one_time: 0
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Reduce self HP to 0 (Preemptive)
+  max_atk_pct: null
+  name_en: あなた凄いのね
+  one_time: 0
+  record_type_name: PREEMPT
+  usage_pct: 100
+
+############################################################
+### Unused Actions
+############################################################
+# SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 16)
+# 	[0] ESBindAwoken(88:14792) -> うふっ♪
+# 	Bind awoken skills for 1 turns
+# 	[1] ESLeaderAlter(125:14793) -> かわいくしてあ・げ・る
+# 	Change leader to [44] for 99 turns
+# 	[2] ESSkillDelay(89:14794) -> 頑張って生き抜いて
+# 	Delay active skills by 99 turns
+# 	[3] ESRandomSpawn(92:14795) -> はいどうぞ♪
+# 	Spawn random 15 Heal, Mortal Poison orbs
+# 	[4] ESRandomSpawn(92:14813) -> これはプレゼントよ♪
+# 	Spawn random 3 Fire orbs
+# SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 8)
+# 	[0] ESBindTarget(54:14797) -> あなたは少し黙ってて
+# 	Bind 1 friend leader for 99 turns
+# 	[1] ESBoardChange(84:14798) -> そ～れ！
+# 	Change all orbs to Mortal Poison
+# 	[2] ESRandomSpawn(92:14799) -> がんばってね～
+# 	Spawn random 10 Heal orbs
+# SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 4)
+# 	[0] ESBindAwoken(88:14790) -> うふっ♪
+# 	Bind awoken skills for 2 turns
+# 	[1] ESMaxHPChange(111:14801) -> これはどう？
+# 	Change player HP to 100000 for 1 turns
+# 	[2] ESRandomSpawn(92:14802) -> さすがに厳しいかな？
+# 	Spawn random 10 Heal, Jammer, Poison orbs
+# 	[3] ESDebuffRCV(105:14803) -> これで元気になってね
+# 	Rcv 500% for 1 turns
+# SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
+# 	[0] ESBoardChange(84:14805) -> そ～れ
+# 	Change all orbs to Heal
+# 	[1] ESBombFixedSpawn(103:14806) -> 危ないよ～
+# 	Spawn Bomb orbs in the specified positions
+# 	[2] ESDebuffMovetime(39:14807) -> ほらほら急いで～♪
+# 	Movetime -4s for 1 turns
+# SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
+# 	[0] ESBoardChange(84:14809) -> ここまでやるなんて
+# 	Change all orbs to Poison
+# 	[1] ESOrbLock(94:14810) -> これで最後よ！
+# 	Lock all Poison orbs
+############################################################
+### ES Modifiers
+############################################################
+# [9] 5 - monster size?
+# [52] false - use new AI
+# [53] 0 - starting/max counter
+# [54] 0 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESPreemptive(49:318) -> ESPreemptive
+# Enable preempt if level 1
+# [2] SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 16)
+# 	[0] ESBindAwoken(88:14792) -> うふっ♪
+# 	Bind awoken skills for 1 turns
+# 	[1] ESLeaderAlter(125:14793) -> かわいくしてあ・げ・る
+# 	Change leader to [44] for 99 turns
+# 	[2] ESSkillDelay(89:14794) -> 頑張って生き抜いて
+# 	Delay active skills by 99 turns
+# 	[3] ESRandomSpawn(92:14795) -> はいどうぞ♪
+# 	Spawn random 15 Heal, Mortal Poison orbs
+# 	[4] ESRandomSpawn(92:14813) -> これはプレゼントよ♪
+# 	Spawn random 3 Fire orbs
+# [3] ESOrbChangeAttackBits(108:14811) -> はい、ダ～メ！
+# Change Jammer, Poison, Mortal Poison to Water, Deal 100% damage
+# [4] SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 8)
+# 	[0] ESBindTarget(54:14797) -> あなたは少し黙ってて
+# 	Bind 1 friend leader for 99 turns
+# 	[1] ESBoardChange(84:14798) -> そ～れ！
+# 	Change all orbs to Mortal Poison
+# 	[2] ESRandomSpawn(92:14799) -> がんばってね～
+# 	Spawn random 10 Heal orbs
+# [5] SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 4)
+# 	[0] ESBindAwoken(88:14790) -> うふっ♪
+# 	Bind awoken skills for 2 turns
+# 	[1] ESMaxHPChange(111:14801) -> これはどう？
+# 	Change player HP to 100000 for 1 turns
+# 	[2] ESRandomSpawn(92:14802) -> さすがに厳しいかな？
+# 	Spawn random 10 Heal, Jammer, Poison orbs
+# 	[3] ESDebuffRCV(105:14803) -> これで元気になってね
+# 	Rcv 500% for 1 turns
+# [6] SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
+# 	[0] ESBoardChange(84:14805) -> そ～れ
+# 	Change all orbs to Heal
+# 	[1] ESBombFixedSpawn(103:14806) -> 危ないよ～
+# 	Spawn Bomb orbs in the specified positions
+# 	[2] ESDebuffMovetime(39:14807) -> ほらほら急いで～♪
+# 	Movetime -4s for 1 turns
+# [7] SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
+# 	[0] ESBoardChange(84:14809) -> ここまでやるなんて
+# 	Change all orbs to Poison
+# 	[1] ESOrbLock(94:14810) -> これで最後よ！
+# 	Lock all Poison orbs
+# [8] ESEndBattle(40:14812) -> あなた凄いのね
+# Reduce self HP to 0

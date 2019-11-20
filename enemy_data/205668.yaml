@@ -1,0 +1,128 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 205668
+monster_name_en: 白蛇のナーガ
+reviewed_by: unreviewed
+warnings: []
+
+############################################################
+### Data @ 4
+############################################################
+!SkillRecordListing
+level: 4
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Absorb combo <= 5 damage for 10 turns (Preemptive)
+  max_atk_pct: null
+  name_en: ほーっほっほっほ！
+  one_time: 0
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Spawn random 6 Water orbs, Deal 95% damage
+  max_atk_pct: 95
+  name_en: いくわよっ！　氷の矢！
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 33
+- !SkillRecord
+  desc_en: Bind 1 random subs for 2~3 turns, Deal 100% damage
+  max_atk_pct: 100
+  name_en: 氷結弾！
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 33
+- !SkillRecord
+  desc_en: Player -75% HP
+  max_atk_pct: null
+  name_en: 風魔咆裂弾！
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 34
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP < 50
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Increase damage to 150% for the next 999 turns
+  max_atk_pct: null
+  name_en: ふっ！　甘いっ！
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP <= 20
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Spawn random 10 Water orbs, Deal 150% damage
+  max_atk_pct: 150
+  name_en: 氷魔轟！
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### ES Modifiers
+############################################################
+# [9] 5 - monster size?
+# [52] true - use new AI
+# [53] 1 - starting/max counter
+# [54] 1 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESPreemptive(49:3402) -> ESPreemptive
+# Enable preempt if level 4
+# [2] ESBranchLevel(35:25) -> ESBranchLevel
+# Branch on level > 4, target rnd 4
+# [3] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [4] ESBranchFlag(43:10) -> ESBranchFlag
+# Branch on flag & 1, target rnd 8
+# [5] ESFlagOperation(22:12) -> ESFlagOperation
+# flag SET 0b1
+# [6] ESAbsorbCombo(67:15002) -> ほーっほっほっほ！
+# Absorb combo <= 5 damage for 10 turns
+# [7] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [8] ESBranchHP(28:18) -> ESBranchHP
+# Branch on hp < 50, target rnd 13
+# [9] ESRandomSpawn(92:15003) -> いくわよっ！　氷の矢！
+# 	Condition: 33% chance (ai:0 rnd:33)
+# Spawn random 6 Water orbs, Deal 95% damage
+# [10] ESBindAttack(63:15004) -> 氷結弾！
+# 	Condition: 33% chance (ai:0 rnd:33)
+# Bind 1 random subs for 2~3 turns, Deal 100% damage
+# [11] ESGravity(50:15005) -> 風魔咆裂弾！
+# 	Condition: One-time use (ai:0 rnd:34) (one-time: 1)
+# Player -75% HP
+# [12] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [13] ESAttackUPRemainingEnemies(17:15006) -> ふっ！　甘いっ！
+# 	Condition: when <= 1 enemies remain (ai:100 rnd:0)
+# Increase damage to 150% for the next 999 turns
+# [14] ESBranchHP(29:19) -> ESBranchHP
+# Branch on hp > 21, target rnd 9
+# [15] ESRandomSpawn(92:15007) -> 氷魔轟！
+# Spawn random 10 Water orbs, Deal 150% damage
+# [16] ESEndPath(36:26) -> ESEndPath
+# end_turn

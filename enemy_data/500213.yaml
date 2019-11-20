@@ -1,0 +1,41 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 500213
+monster_name_en: Graviton Earth Dragon
+reviewed_by: unreviewed
+warnings: []
+
+############################################################
+### Data @ 1
+############################################################
+!SkillRecordListing
+level: 1
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Change Random to Wood, Deal 125% damage
+  max_atk_pct: 125
+  name_en: Gaia Ball
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### ES Modifiers
+############################################################
+# [9] 5 - monster size?
+# [52] true - use new AI
+# [53] 1 - starting/max counter
+# [54] 1 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESOrbChangeAttack(48:790) -> Gaia Ball
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
+# Change Random to Wood, Deal 125% damage
+# [2] ESEndPath(36:26) -> ESEndPath
+# end_turn

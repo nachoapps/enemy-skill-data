@@ -1,0 +1,176 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 5637
+monster_name_en: 超転生ヴィーナス
+reviewed_by: unreviewed
+warnings:
+- Found 10 unused actions
+
+############################################################
+### Data @ 1
+############################################################
+!SkillRecordListing
+level: 1
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Fire, Water, Light, Dark skyfall +100% for 1 turns + Blind all orbs on
+    the board + Spawn random 3 Wood orbs (Preemptive)
+  max_atk_pct: null
+  name_en: 目覚めよ + 闇に包まれよ + 木ドロップを…
+  one_time: 0
+  record_type_name: PREEMPT
+  usage_pct: 50
+- !SkillRecord
+  desc_en: Fire, Water, Light, Dark skyfall +100% for 1 turns (Preemptive)
+  max_atk_pct: null
+  name_en: 目覚めよ
+  one_time: 0
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Absorb combo <= 7 damage for 999 turns + Spawn random 6 Fire, Water, Wood,
+    Light, Heal orbs
+  max_atk_pct: null
+  name_en: 大海の衣 + 海神の呪詛
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### Unused Actions
+############################################################
+# ESSkyfall(68:15034) -> 目覚めよ
+# Water, Wood, Light, Dark skyfall +100% for 1 turns
+# ESRandomSpawn(92:15035) -> 火ドロップを…
+# 	Condition: 50% chance (ai:50 rnd:0)
+# Spawn random 3 Fire orbs
+# ESBlind(5:15036) -> 闇に包まれよ
+# Blind all orbs on the board
+# ESAbsorbCombo(67:15030) -> 大海の衣
+# Absorb combo <= 7 damage for 999 turns
+# ESRandomSpawn(92:15031) -> 海神の呪詛
+# Spawn random 6 Fire, Water, Wood, Light, Heal orbs
+# SkillSet:
+# 	Condition: One-time use (ai:0 rnd:100) (one-time: 1)
+# 	[0] ESSkyfall(68:15034) -> 目覚めよ
+# 	Water, Wood, Light, Dark skyfall +100% for 1 turns
+# 	[1] ESBlind(5:15036) -> 闇に包まれよ
+# 	Blind all orbs on the board
+# 	[2] ESRandomSpawn(92:15035) -> 火ドロップを…
+# 	Spawn random 3 Fire orbs
+# ESRandomSpawn(92:15039) -> 水ドロップを…
+# Spawn random 3 Water orbs
+# SkillSet:
+# 	Condition: 50% chance (ai:0 rnd:50)
+# 	[0] ESSkyfall(68:15038) -> 目覚めよ
+# 	Fire, Wood, Light, Dark skyfall +100% for 1 turns
+# 	[1] ESBlind(5:15036) -> 闇に包まれよ
+# 	Blind all orbs on the board
+# 	[2] ESRandomSpawn(92:15039) -> 水ドロップを…
+# 	Spawn random 3 Water orbs
+# ESSkyfall(68:15038) -> 目覚めよ
+# Fire, Wood, Light, Dark skyfall +100% for 1 turns
+# ESSkyfall(68:15032) -> 目覚めよ
+# Fire, Water, Wood, Light, Dark skyfall +100% for 1 turns
+############################################################
+### ES Modifiers
+############################################################
+# [9] 5 - monster size?
+# [52] true - use new AI
+# [53] 3 - starting/max counter
+# [54] 1 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESPreemptive(49:318) -> ESPreemptive
+# Enable preempt if level 1
+# [2] ESBranchFlag(43:10) -> ESBranchFlag
+# Branch on flag & 1, target rnd 7
+# [3] ESFlagOperation(22:12) -> ESFlagOperation
+# flag SET 0b1
+# [4] SkillSet:
+# 	Condition: 50% chance (ai:0 rnd:50)
+# 	[0] ESSkyfall(68:15041) -> 目覚めよ
+# 	Fire, Water, Light, Dark skyfall +100% for 1 turns
+# 	[1] ESBlind(5:15036) -> 闇に包まれよ
+# 	Blind all orbs on the board
+# 	[2] ESRandomSpawn(92:15042) -> 木ドロップを…
+# 	Spawn random 3 Wood orbs
+# [5] ESSkyfall(68:15041) -> 目覚めよ
+# Fire, Water, Light, Dark skyfall +100% for 1 turns
+# [6] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [7] SkillSet:
+# 	Condition: One-time use (ai:0 rnd:100) (one-time: 1)
+# 	[0] ESAbsorbCombo(67:15030) -> 大海の衣
+# 	Absorb combo <= 7 damage for 999 turns
+# 	[1] ESRandomSpawn(92:15031) -> 海神の呪詛
+# 	Spawn random 6 Fire, Water, Wood, Light, Heal orbs
+# [8] ESBranchHP(28:18) -> ESBranchHP
+# Branch on hp < 10, target rnd 14
+# [9] ESBranchHP(28:18) -> ESBranchHP
+# Branch on hp < 50, target rnd 20
+# [10] ESSkyfall(68:15034) -> 目覚めよ
+# Water, Wood, Light, Dark skyfall +100% for 1 turns
+# [11] ESRandomSpawn(92:15035) -> 火ドロップを…
+# 	Condition: 50% chance (ai:50 rnd:0)
+# Spawn random 3 Fire orbs
+# [12] ESBlind(5:15036) -> 闇に包まれよ
+# Blind all orbs on the board
+# [13] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [14] ESBranchCounter(31:21) -> ESBranchCounter
+# Branch on counter = 1, target rnd 18
+# [15] ESSetCounter(25:15) -> ESSetCounter
+# counter = 1
+# [16] ESAbsorbCombo(67:15030) -> 大海の衣
+# Absorb combo <= 7 damage for 999 turns
+# [17] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [18] ESRandomSpawn(92:15031) -> 海神の呪詛
+# Spawn random 6 Fire, Water, Wood, Light, Heal orbs
+# [19] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [20] ESBranchCombo(113:6528) -> ESBranchCombo
+# Branch on combo >= 6, target rnd 29
+# [21] ESBranchCounter(32:22) -> ESBranchCounter
+# Branch on counter > 2, target rnd 25
+# [22] ESSetCounter(25:15) -> ESSetCounter
+# counter = 2
+# [23] SkillSet:
+# 	Condition: One-time use (ai:0 rnd:100) (one-time: 1)
+# 	[0] ESSkyfall(68:15034) -> 目覚めよ
+# 	Water, Wood, Light, Dark skyfall +100% for 1 turns
+# 	[1] ESBlind(5:15036) -> 闇に包まれよ
+# 	Blind all orbs on the board
+# 	[2] ESRandomSpawn(92:15035) -> 火ドロップを…
+# 	Spawn random 3 Fire orbs
+# [24] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [25] ESRandomSpawn(92:15039) -> 水ドロップを…
+# Spawn random 3 Water orbs
+# [26] SkillSet:
+# 	Condition: 50% chance (ai:0 rnd:50)
+# 	[0] ESSkyfall(68:15038) -> 目覚めよ
+# 	Fire, Wood, Light, Dark skyfall +100% for 1 turns
+# 	[1] ESBlind(5:15036) -> 闇に包まれよ
+# 	Blind all orbs on the board
+# 	[2] ESRandomSpawn(92:15039) -> 水ドロップを…
+# 	Spawn random 3 Water orbs
+# [27] ESSkyfall(68:15038) -> 目覚めよ
+# Fire, Wood, Light, Dark skyfall +100% for 1 turns
+# [28] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [29] ESBranchCounter(32:22) -> ESBranchCounter
+# Branch on counter > 2, target rnd 25
+# [30] ESSetCounter(25:15) -> ESSetCounter
+# counter = 2
+# [31] ESSkyfall(68:15032) -> 目覚めよ
+# Fire, Water, Wood, Light, Dark skyfall +100% for 1 turns
+# [32] ESEndPath(36:26) -> ESEndPath
+# end_turn

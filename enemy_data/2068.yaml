@@ -1,0 +1,174 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 2068
+monster_name_en: Aamir
+reviewed_by: unreviewed
+warnings:
+- Found 5 unused actions
+
+############################################################
+### Data @ 1
+############################################################
+!SkillRecordListing
+level: 1
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Do nothing + Deal 1000% damage (5 hits, 200% each) (Preemptive)
+  max_atk_pct: null
+  name_en: さて合計コンボは… + すくな～～～い！
+  one_time: 0
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Do nothing + Deal 1000% damage (5 hits, 200% each)
+  max_atk_pct: null
+  name_en: さて合計コンボは… + すくな～～～い！
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### Unused Actions
+############################################################
+# SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 8)
+# 	[0] ESNoSkyfall(127:15052) -> たくさんのコンボを見せてよ
+# 	No skyfall for 2 turns
+# 	[1] ESDebuffMovetime(39:15053) -> そうだなぁ…
+# 	Movetime 240% for 2 turns
+# 	[2] ESRandomSpawn(92:15054) -> 4ターン合計40コンボだ！
+# 	Spawn random 6 Fire, Water, Wood, Light, Dark, Heal, Jammer orbs
+# ESRowSpawnMulti(78:15055) -> ほら綺麗だろ？
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 4)
+# Change 1st, 5th row to Fire orbs, 2nd, 4th row to Water orbs
+# ESColumnSpawnMulti(76:15056) -> 急いで出来るかい？
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
+# Change 1st, 6th column to Fire orbs, 2nd, 5th column to Water orbs
+# SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
+# 	[0] ESBoardChange(84:15058) -> さぁ見せてくれよ
+# 	Change all orbs to Fire
+# 	[1] ESColumnSpawnMulti(76:15059) -> こうして…
+# 	Change 2nd, 5th column to Water orbs
+# 	[2] ESRowSpawnMulti(78:15060) -> こうだ！
+# 	Change 2nd, 4th row to Wood orbs
+# 	[3] ESDebuffMovetime(39:15061) -> こんなもの必要ないよね？
+# 	Movetime -5s for 1 turns
+# SkillSet:
+# 	[0] ESInactivity(66:15064) -> さて合計コンボは…
+# 	Do nothing
+# 	[1] ESEndBattle(40:15065) -> すば～らし～い！
+# 	Reduce self HP to 0
+############################################################
+### ES Modifiers
+############################################################
+# [9] 5 - monster size?
+# [52] false - use new AI
+# [53] 0 - starting/max counter
+# [54] 0 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESPreemptive(49:318) -> ESPreemptive
+# Enable preempt if level 1
+# [2] SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 8)
+# 	[0] ESNoSkyfall(127:15052) -> たくさんのコンボを見せてよ
+# 	No skyfall for 2 turns
+# 	[1] ESDebuffMovetime(39:15053) -> そうだなぁ…
+# 	Movetime 240% for 2 turns
+# 	[2] ESRandomSpawn(92:15054) -> 4ターン合計40コンボだ！
+# 	Spawn random 6 Fire, Water, Wood, Light, Dark, Heal, Jammer orbs
+# [3] ESBranchCombo(113:6528) -> ESBranchCombo
+# Branch on combo >= 14, target rnd 18
+# [4] ESBranchCombo(113:6528) -> ESBranchCombo
+# Branch on combo >= 13, target rnd 19
+# [5] ESBranchCombo(113:6528) -> ESBranchCombo
+# Branch on combo >= 12, target rnd 20
+# [6] ESBranchCombo(113:6528) -> ESBranchCombo
+# Branch on combo >= 11, target rnd 21
+# [7] ESBranchCombo(113:6528) -> ESBranchCombo
+# Branch on combo >= 10, target rnd 22
+# [8] ESBranchCombo(113:6528) -> ESBranchCombo
+# Branch on combo >= 9, target rnd 23
+# [9] ESBranchCombo(113:6528) -> ESBranchCombo
+# Branch on combo >= 8, target rnd 24
+# [10] ESBranchCombo(113:6528) -> ESBranchCombo
+# Branch on combo >= 7, target rnd 25
+# [11] ESBranchCombo(113:6528) -> ESBranchCombo
+# Branch on combo >= 6, target rnd 26
+# [12] ESBranchCombo(113:6528) -> ESBranchCombo
+# Branch on combo >= 5, target rnd 27
+# [13] ESBranchCombo(113:6528) -> ESBranchCombo
+# Branch on combo >= 4, target rnd 28
+# [14] ESBranchCombo(113:6528) -> ESBranchCombo
+# Branch on combo >= 3, target rnd 29
+# [15] ESBranchCombo(113:6528) -> ESBranchCombo
+# Branch on combo >= 2, target rnd 30
+# [16] ESBranchCombo(113:6528) -> ESBranchCombo
+# Branch on combo >= 1, target rnd 31
+# [17] ESBranchCombo(113:6528) -> ESBranchCombo
+# Branch on combo >= 0, target rnd 32
+# [18] ESSetCounter(26:16) -> ESSetCounter
+# counter + 1
+# [19] ESSetCounter(26:16) -> ESSetCounter
+# counter + 1
+# [20] ESSetCounter(26:16) -> ESSetCounter
+# counter + 1
+# [21] ESSetCounter(26:16) -> ESSetCounter
+# counter + 1
+# [22] ESSetCounter(26:16) -> ESSetCounter
+# counter + 1
+# [23] ESSetCounter(26:16) -> ESSetCounter
+# counter + 1
+# [24] ESSetCounter(26:16) -> ESSetCounter
+# counter + 1
+# [25] ESSetCounter(26:16) -> ESSetCounter
+# counter + 1
+# [26] ESSetCounter(26:16) -> ESSetCounter
+# counter + 1
+# [27] ESSetCounter(26:16) -> ESSetCounter
+# counter + 1
+# [28] ESSetCounter(26:16) -> ESSetCounter
+# counter + 1
+# [29] ESSetCounter(26:16) -> ESSetCounter
+# counter + 1
+# [30] ESSetCounter(26:16) -> ESSetCounter
+# counter + 1
+# [31] ESSetCounter(26:16) -> ESSetCounter
+# counter + 1
+# [32] ESRowSpawnMulti(78:15055) -> ほら綺麗だろ？
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 4)
+# Change 1st, 5th row to Fire orbs, 2nd, 4th row to Water orbs
+# [33] ESColumnSpawnMulti(76:15056) -> 急いで出来るかい？
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
+# Change 1st, 6th column to Fire orbs, 2nd, 5th column to Water orbs
+# [34] SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
+# 	[0] ESBoardChange(84:15058) -> さぁ見せてくれよ
+# 	Change all orbs to Fire
+# 	[1] ESColumnSpawnMulti(76:15059) -> こうして…
+# 	Change 2nd, 5th column to Water orbs
+# 	[2] ESRowSpawnMulti(78:15060) -> こうだ！
+# 	Change 2nd, 4th row to Wood orbs
+# 	[3] ESDebuffMovetime(39:15061) -> こんなもの必要ないよね？
+# 	Movetime -5s for 1 turns
+# [35] ESBranchCounter(32:22) -> ESBranchCounter
+# Branch on counter > 40, target rnd 37
+# [36] SkillSet:
+# 	[0] ESInactivity(66:15064) -> さて合計コンボは…
+# 	Do nothing
+# 	[1] ESAttackMultihit(15:15066) -> すくな～～～い！
+# 	Deal 1000% damage (5 hits, 200% each)
+# [37] SkillSet:
+# 	[0] ESInactivity(66:15064) -> さて合計コンボは…
+# 	Do nothing
+# 	[1] ESEndBattle(40:15065) -> すば～らし～い！
+# 	Reduce self HP to 0
+# [38] ESEndPath(36:26) -> ESEndPath
+# end_turn

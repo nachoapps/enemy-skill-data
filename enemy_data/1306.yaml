@@ -1,0 +1,65 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 1306
+monster_name_en: Wadatsumi
+reviewed_by: unreviewed
+warnings:
+- Found 1 unused actions
+
+############################################################
+### Data @ 1
+############################################################
+!SkillRecordListing
+level: 1
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Spawn random 6 Fire, Water, Wood, Light, Heal orbs, Deal 500% damage (Preemptive)
+  max_atk_pct: 500
+  name_en: 海神の呪詛
+  one_time: 0
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Spawn random 6 Fire, Water, Wood, Light, Heal orbs, Deal 500% damage
+  max_atk_pct: 500
+  name_en: 海神の呪詛
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### Unused Actions
+############################################################
+# SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
+# 	[0] ESAbsorbCombo(67:15030) -> 大海の衣
+# 	Absorb combo <= 7 damage for 999 turns
+# 	[1] ESRandomSpawn(92:15031) -> 海神の呪詛
+# 	Spawn random 6 Fire, Water, Wood, Light, Heal orbs
+############################################################
+### ES Modifiers
+############################################################
+# [9] 5 - monster size?
+# [52] false - use new AI
+# [53] 0 - starting/max counter
+# [54] 0 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESPreemptive(49:318) -> ESPreemptive
+# Enable preempt if level 1
+# [2] SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
+# 	[0] ESAbsorbCombo(67:15030) -> 大海の衣
+# 	Absorb combo <= 7 damage for 999 turns
+# 	[1] ESRandomSpawn(92:15031) -> 海神の呪詛
+# 	Spawn random 6 Fire, Water, Wood, Light, Heal orbs
+# [3] ESRandomSpawn(92:15028) -> 海神の呪詛
+# Spawn random 6 Fire, Water, Wood, Light, Heal orbs, Deal 500% damage
+# [4] ESEndPath(36:26) -> ESEndPath
+# end_turn

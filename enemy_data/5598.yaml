@@ -1,0 +1,144 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 5598
+monster_name_en: Charlotte
+reviewed_by: unreviewed
+warnings: []
+
+############################################################
+### Data @ 1
+############################################################
+!SkillRecordListing
+level: 1
+overrides: []
+records:
+- !SkillRecord
+  desc_en: No skyfall for 3 turns (Preemptive)
+  max_atk_pct: null
+  name_en: Allons!
+  one_time: 2
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Change 4th column to Water, Wood orbs, Deal 95% damage
+  max_atk_pct: 95
+  name_en: Power Gradation
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 25
+- !SkillRecord
+  desc_en: Deal 105% damage (5 hits, 21% each)
+  max_atk_pct: 105
+  name_en: Splash Fount
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 25
+- !SkillRecord
+  desc_en: Change 3rd row to Wood orbs, Deal 95% damage
+  max_atk_pct: 95
+  name_en: Tri-Slash
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 25
+- !SkillRecord
+  desc_en: Deal 100% damage
+  max_atk_pct: 100
+  name_en: Bayonet Lunge
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 25
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP < 50
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Leader changes to random sub for 1 turns, Deal 100% damage
+  max_atk_pct: 100
+  name_en: Lance De Lion
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP < 15
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Deal 245% damage (7 hits, 35% each)
+  max_atk_pct: 245
+  name_en: La Danse De La Rose
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 50
+- !SkillRecord
+  desc_en: Spawn random 4 Water, Wood orbs, Deal 220% damage
+  max_atk_pct: 220
+  name_en: Splash Gradation
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### ES Modifiers
+############################################################
+# [9] 5 - monster size?
+# [52] true - use new AI
+# [53] 3 - starting/max counter
+# [54] 0 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESPreemptive(49:318) -> ESPreemptive
+# Enable preempt if level 1
+# [2] ESNoSkyfall(127:14664) -> Allons!
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
+# No skyfall for 3 turns
+# [3] ESBranchHP(28:18) -> ESBranchHP
+# Branch on hp < 15, target rnd 14
+# [4] ESBranchHP(28:18) -> ESBranchHP
+# Branch on hp < 50, target rnd 10
+# [5] ESColumnSpawnMulti(77:14665) -> Power Gradation
+# 	Condition: 25% chance (ai:0 rnd:25)
+# Change 4th column to Water, Wood orbs, Deal 95% damage
+# [6] ESAttackMultihit(15:14666) -> Splash Fount
+# 	Condition: 25% chance (ai:0 rnd:25)
+# Deal 105% damage (5 hits, 21% each)
+# [7] ESRowSpawnMulti(79:14667) -> Tri-Slash
+# 	Condition: 25% chance (ai:0 rnd:25)
+# Change 3rd row to Wood orbs, Deal 95% damage
+# [8] ESAttackMultihit(15:14668) -> Bayonet Lunge
+# 	Condition: 25% chance (ai:0 rnd:25)
+# Deal 100% damage
+# [9] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [10] ESBranchFlag(43:10) -> ESBranchFlag
+# Branch on flag & 1, target rnd 5
+# [11] ESFlagOperation(22:12) -> ESFlagOperation
+# flag SET 0b1
+# [12] ESLeaderSwap(75:14669) -> Lance De Lion
+# Leader changes to random sub for 1 turns, Deal 100% damage
+# [13] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [14] ESAttackMultihit(15:14671) -> La Danse De La Rose
+# 	Condition: One-time use (ai:50 rnd:0) (one-time: 1)
+# Deal 245% damage (7 hits, 35% each)
+# [15] ESRandomSpawn(92:14670) -> Splash Gradation
+# Spawn random 4 Water, Wood orbs, Deal 220% damage
+# [16] ESEndPath(36:26) -> ESEndPath
+# end_turn

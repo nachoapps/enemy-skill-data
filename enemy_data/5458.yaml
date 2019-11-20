@@ -1,0 +1,140 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 5458
+monster_name_en: 天性のクライマー・小野田坂道
+reviewed_by: unreviewed
+warnings: []
+
+############################################################
+### Data @ 1
+############################################################
+!SkillRecordListing
+level: 1
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Movetime -1s for 1 turns (Preemptive)
+  max_atk_pct: null
+  name_en: 競争しよう
+  one_time: 8
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Random 1 orbs change every 1.0s for 1 turns
+  max_atk_pct: null
+  name_en: 回転数30上げます!!
+  one_time: 4
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 2
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Specific orbs change every 0.5s for 1 turns
+  max_atk_pct: null
+  name_en: 回れぇぇぇ!!
+  one_time: 2
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 3
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Spawn random 5 Wood orbs
+  max_atk_pct: null
+  name_en: ラブリーチャンスペタンコチャン♪
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP <= 100
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Execute repeatedly. Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Increase damage to 150% for the next 1 turns
+  max_atk_pct: null
+  name_en: ヒメはヒメなの ハイ!!
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Loop to 1 after. Turn 2
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Deal 100% damage
+  max_atk_pct: 100
+  name_en: ヒメなのだ!!
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### ES Modifiers
+############################################################
+# [9] 5 - monster size?
+# [52] true - use new AI
+# [53] 15 - starting/max counter
+# [54] 0 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESPreemptive(49:318) -> ESPreemptive
+# Enable preempt if level 1
+# [2] ESDebuffMovetime(39:14118) -> 競争しよう
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 8)
+# Movetime -1s for 1 turns
+# [3] ESSpinnersRandom(109:14119) -> 回転数30上げます!!
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 4)
+# Random 1 orbs change every 1.0s for 1 turns
+# [4] ESSpinnersFixed(110:14120) -> 回れぇぇぇ!!
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
+# Specific orbs change every 0.5s for 1 turns
+# [5] ESRandomSpawn(92:14121) -> ラブリーチャンスペタンコチャン♪
+# 	Condition: One-time use & when Fire, Water, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs are on the board (ai:100 rnd:0) (one-time: 1)
+# Spawn random 5 Wood orbs
+# [6] ESBranchCounter(32:22) -> ESBranchCounter
+# Branch on counter > 1, target rnd 9
+# [7] ESSetCounter(26:16) -> ESSetCounter
+# counter + 1
+# [8] ESAttackUPRemainingEnemies(17:14122) -> ヒメはヒメなの ハイ!!
+# 	Condition: when <= 1 enemies remain (ai:100 rnd:0)
+# Increase damage to 150% for the next 1 turns
+# [9] ESSetCounter(25:15) -> ESSetCounter
+# counter = 0
+# [10] ESAttackMultihit(15:14123) -> ヒメなのだ!!
+# Deal 100% damage
+# [11] ESEndPath(36:26) -> ESEndPath
+# end_turn

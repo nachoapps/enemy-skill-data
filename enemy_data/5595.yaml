@@ -1,0 +1,123 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 5595
+monster_name_en: Tamtam
+reviewed_by: unreviewed
+warnings: []
+
+############################################################
+### Data @ 1
+############################################################
+!SkillRecordListing
+level: 1
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Rcv 50% for 3 turns (Preemptive)
+  max_atk_pct: null
+  name_en: I'll offer you to my gods.
+  one_time: 2
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Deal 108% damage (6 hits, 18% each)
+  max_atk_pct: 108
+  name_en: Paguna Paguna
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 20
+- !SkillRecord
+  desc_en: Change 4th column to Fire orbs, Deal 95% damage
+  max_atk_pct: 95
+  name_en: Ahaooh Gaboora
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 20
+- !SkillRecord
+  desc_en: Bind 1 random subs for 1~2 turns, Deal 90% damage
+  max_atk_pct: 90
+  name_en: Gaboora Gaboora
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 20
+- !SkillRecord
+  desc_en: Deal 100% damage
+  max_atk_pct: 100
+  name_en: Pagoona Dios
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 20
+- !SkillRecord
+  desc_en: Spawn random 1 Poison orbs, Deal 80% damage
+  max_atk_pct: 80
+  name_en: Mula Mula
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 20
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP < 15
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Change Random to Fire, Deal 250% damage
+  max_atk_pct: 250
+  name_en: Magnus Dios Zahl
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 50
+- !SkillRecord
+  desc_en: Spawn random 8 Fire orbs, Deal 220% damage
+  max_atk_pct: 220
+  name_en: Ahau Teotihuacan
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### ES Modifiers
+############################################################
+# [9] 5 - monster size?
+# [52] true - use new AI
+# [53] 3 - starting/max counter
+# [54] 0 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESPreemptive(49:318) -> ESPreemptive
+# Enable preempt if level 1
+# [2] ESDebuffRCV(105:14672) -> I'll offer you to my gods.
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
+# Rcv 50% for 3 turns
+# [3] ESBranchHP(28:18) -> ESBranchHP
+# Branch on hp < 15, target rnd 10
+# [4] ESAttackMultihit(15:14673) -> Paguna Paguna
+# 	Condition: 20% chance (ai:0 rnd:20)
+# Deal 108% damage (6 hits, 18% each)
+# [5] ESColumnSpawnMulti(77:14674) -> Ahaooh Gaboora
+# 	Condition: 20% chance (ai:0 rnd:20)
+# Change 4th column to Fire orbs, Deal 95% damage
+# [6] ESBindAttack(63:14675) -> Gaboora Gaboora
+# 	Condition: 20% chance (ai:0 rnd:20)
+# Bind 1 random subs for 1~2 turns, Deal 90% damage
+# [7] ESAttackMultihit(15:14676) -> Pagoona Dios
+# 	Condition: 20% chance (ai:0 rnd:20)
+# Deal 100% damage
+# [8] ESRandomSpawn(92:14677) -> Mula Mula
+# 	Condition: 20% chance & when Fire, Water, Wood, Light, Dark, Heal, Jammer, Mortal Poison orbs are on the board (ai:0 rnd:20)
+# Spawn random 1 Poison orbs, Deal 80% damage
+# [9] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [10] ESOrbChangeAttack(48:14679) -> Magnus Dios Zahl
+# 	Condition: One-time use (ai:50 rnd:0) (one-time: 1)
+# Change Random to Fire, Deal 250% damage
+# [11] ESRandomSpawn(92:14678) -> Ahau Teotihuacan
+# Spawn random 8 Fire orbs, Deal 220% damage
+# [12] ESEndPath(36:26) -> ESEndPath
+# end_turn

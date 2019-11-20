@@ -1,0 +1,309 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 305355
+monster_name_en: 魔曲の揮龍楽士・ディオロ
+reviewed_by: unreviewed
+warnings: []
+
+############################################################
+### Data @ 4
+############################################################
+!SkillRecordListing
+level: 4
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Voids status ailments for 7 turns + Movetime 75% for 7 turns (Preemptive)
+  max_atk_pct: null
+  name_en: 我が演奏を聴くがよい + 序曲
+  one_time: 64
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Blind all orbs on the board + Deal 100% damage
+  max_atk_pct: null
+  name_en: 第一楽章 + ラルゴ
+  one_time: 32
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 2
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Spawn Bomb orbs in the specified positions
+  max_atk_pct: null
+  name_en: アタッカ
+  one_time: 16
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 3
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Random 2 orbs change every 1.0s for 1 turns + Deal 125% damage
+  max_atk_pct: null
+  name_en: 第二楽章 + フェローチェ
+  one_time: 8
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 4
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Bind awoken skills for 1 turns
+  max_atk_pct: null
+  name_en: 前奏曲
+  one_time: 4
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Spawn random 8 Jammer orbs + Deal 150% damage
+  max_atk_pct: null
+  name_en: 第三楽章 + アンダンテ
+  one_time: 2
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 5
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Spawn random 8 Jammer orbs + Deal 150% damage
+  max_atk_pct: null
+  name_en: 第三楽章 + アンダンテ
+  one_time: 2
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 6
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Locked random skyfall +100% for 1 turns
+  max_atk_pct: null
+  name_en: コーダ
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP <= 100
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Bind 1 both leaders for 1 turns + Deal 300% damage (3 hits, 100% each)
+  max_atk_pct: null
+  name_en: 終楽章 + グランディオーソ
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP < 50
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Player -99% HP
+  max_atk_pct: null
+  name_en: 変奏曲
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 2
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Blind all orbs on the board + Deal 100% damage
+  max_atk_pct: null
+  name_en: 第一楽章 + ラルゴ
+  one_time: 32
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 3
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Spawn Bomb orbs in the specified positions
+  max_atk_pct: null
+  name_en: アタッカ
+  one_time: 16
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 4
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Random 2 orbs change every 1.0s for 1 turns + Deal 125% damage
+  max_atk_pct: null
+  name_en: 第二楽章 + フェローチェ
+  one_time: 8
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 5
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Bind awoken skills for 1 turns
+  max_atk_pct: null
+  name_en: 前奏曲
+  one_time: 4
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Spawn random 8 Jammer orbs + Deal 150% damage
+  max_atk_pct: null
+  name_en: 第三楽章 + アンダンテ
+  one_time: 2
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 6
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Spawn random 8 Jammer orbs + Deal 150% damage
+  max_atk_pct: null
+  name_en: 第三楽章 + アンダンテ
+  one_time: 2
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 7
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Locked random skyfall +100% for 1 turns
+  max_atk_pct: null
+  name_en: コーダ
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### ES Modifiers
+############################################################
+# [9] 5 - monster size?
+# [52] true - use new AI
+# [53] 127 - starting/max counter
+# [54] 0 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESPreemptive(49:3402) -> ESPreemptive
+# Enable preempt if level 4
+# [2] ESBranchLevel(35:25) -> ESBranchLevel
+# Branch on level > 4, target rnd 4
+# [3] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [4] SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 64)
+# 	[0] ESStatusShield(20:13424) -> 我が演奏を聴くがよい
+# 	Voids status ailments for 7 turns
+# 	[1] ESDebuffMovetime(39:13425) -> 序曲
+# 	Movetime 75% for 7 turns
+# [5] ESBranchHP(28:18) -> ESBranchHP
+# Branch on hp < 50, target rnd 14
+# [6] SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 32)
+# 	[0] ESBlind(5:13427) -> 第一楽章
+# 	Blind all orbs on the board
+# 	[1] ESAttackMultihit(15:13428) -> ラルゴ
+# 	Deal 100% damage
+# [7] ESBombFixedSpawn(103:13429) -> アタッカ
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 16)
+# Spawn Bomb orbs in the specified positions
+# [8] SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 8)
+# 	[0] ESSpinnersRandom(109:13431) -> 第二楽章
+# 	Random 2 orbs change every 1.0s for 1 turns
+# 	[1] ESAttackMultihit(15:13432) -> フェローチェ
+# 	Deal 125% damage
+# [9] ESBindAwoken(88:13433) -> 前奏曲
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 4)
+# Bind awoken skills for 1 turns
+# [10] SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
+# 	[0] ESRandomSpawn(92:13435) -> 第三楽章
+# 	Spawn random 8 Jammer orbs
+# 	[1] ESAttackMultihit(15:13436) -> アンダンテ
+# 	Deal 150% damage
+# [11] ESSkyfall(96:13437) -> コーダ
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
+# Locked random skyfall +100% for 1 turns
+# [12] SkillSet:
+# 	[0] ESBindTarget(54:13439) -> 終楽章
+# 	Bind 1 both leaders for 1 turns
+# 	[1] ESAttackMultihit(15:13440) -> グランディオーソ
+# 	Deal 300% damage (3 hits, 100% each)
+# [13] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [14] ESBranchFlag(43:10) -> ESBranchFlag
+# Branch on flag & 1, target rnd 6
+# [15] ESFlagOperation(22:12) -> ESFlagOperation
+# flag SET 0b1
+# [16] ESGravity(50:13441) -> 変奏曲
+# Player -99% HP
+# [17] ESEndPath(36:26) -> ESEndPath
+# end_turn

@@ -1,0 +1,211 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 2918
+monster_name_en: Brute Force of the Redbeard, Barbarossa
+reviewed_by: unreviewed
+warnings:
+- Found 2 unused actions
+
+############################################################
+### Data @ 1
+############################################################
+!SkillRecordListing
+level: 1
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Player -1000% HP (Preemptive)
+  max_atk_pct: null
+  name_en: なにやっとんじゃい！
+  one_time: 0
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Player -1000% HP
+  max_atk_pct: null
+  name_en: なにやっとんじゃい！
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP <= 61
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Change 1st, 3rd, 5th column to Water orbs, 2nd column to Fire orbs + Spawn
+    Bomb orbs in the specified positions + Seal 5th row for 1 turns + Absorb combo
+    <= 7 damage for 1 turns + Row of cloud appear for 1 turns at 1st column
+  max_atk_pct: null
+  name_en: お前やるじゃねぇか + 迷ったらしめぇだぜ + これは早さが大事だ + かっこよく決めてみな + こいつはプレゼントだ
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP < 40
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 2
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Change all orbs to Light + Spawn random 9 Heal, Jammer, Poison orbs + Blind
+    all orbs for 1 turns + Absorb combo <= 8 damage for 1 turns
+  max_atk_pct: null
+  name_en: やりゃーできるじゃねーか + これが出来たら大したもんだ + ヨーホー！！ + 良く見極めろよ
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP < 20
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Spawn Bomb orbs in the specified positions + Spawn random 3 Fire, Water,
+    Wood, Light, Dark, Heal, Jammer, Poison orbs + Absorb combo <= 9 damage for 1
+    turns
+  max_atk_pct: null
+  name_en: ここまでとは思わなかったぜ + こいつで最後だ！ + ヘマすんじゃねーぞ
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### Unused Actions
+############################################################
+# SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
+# 	[0] ESNoSkyfall(127:15126) -> よぉ帰って来たぜ！
+# 	No skyfall for 5 turns
+# 	[1] ESBoardChange(84:15131) -> また楽しませてくれよ
+# 	Change all orbs to Fire, Water, Wood, Light, Dark, Heal
+# 	[2] ESCloud(104:15127) -> まずはこいつだ！
+# 	2x5 cloud appear for 1 turns at 1st row, 3rd column
+# 	[3] ESAbsorbCombo(67:15128) -> さぁ俺様を倒してみろ
+# 	Absorb combo <= 5 damage for 1 turns
+# SkillSet:
+# 	[0] ESRandomSpawn(92:15130) -> こいつはどうだ？
+# 	Spawn random 6 Fire, Water, Wood, Light, Dark orbs
+# 	[1] ESSpinnersFixed(110:15132) -> まだまだこれからだぜ
+# 	Specific orbs change every 1.0s for 1 turns
+# 	[2] ESAbsorbCombo(67:15133) -> 出来るかな？
+# 	Absorb combo <= 6 damage for 1 turns
+############################################################
+### ES Modifiers
+############################################################
+# [9] 5 - monster size?
+# [52] false - use new AI
+# [53] 0 - starting/max counter
+# [54] 0 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESPreemptive(49:318) -> ESPreemptive
+# Enable preempt if level 1
+# [2] SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
+# 	[0] ESNoSkyfall(127:15126) -> よぉ帰って来たぜ！
+# 	No skyfall for 5 turns
+# 	[1] ESBoardChange(84:15131) -> また楽しませてくれよ
+# 	Change all orbs to Fire, Water, Wood, Light, Dark, Heal
+# 	[2] ESCloud(104:15127) -> まずはこいつだ！
+# 	2x5 cloud appear for 1 turns at 1st row, 3rd column
+# 	[3] ESAbsorbCombo(67:15128) -> さぁ俺様を倒してみろ
+# 	Absorb combo <= 5 damage for 1 turns
+# [3] ESBranchFlag(43:10) -> ESBranchFlag
+# Branch on flag & 1, target rnd 9
+# [4] ESFlagOperation(22:12) -> ESFlagOperation
+# flag SET 0b1
+# [5] ESBranchHP(28:18) -> ESBranchHP
+# Branch on hp < 80, target rnd 7
+# [6] ESGravity(50:15148) -> なにやっとんじゃい！
+# Player -1000% HP
+# [7] SkillSet:
+# 	[0] ESRandomSpawn(92:15130) -> こいつはどうだ？
+# 	Spawn random 6 Fire, Water, Wood, Light, Dark orbs
+# 	[1] ESSpinnersFixed(110:15132) -> まだまだこれからだぜ
+# 	Specific orbs change every 1.0s for 1 turns
+# 	[2] ESAbsorbCombo(67:15133) -> 出来るかな？
+# 	Absorb combo <= 6 damage for 1 turns
+# [8] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [9] ESBranchFlag(43:10) -> ESBranchFlag
+# Branch on flag & 2, target rnd 15
+# [10] ESFlagOperation(22:12) -> ESFlagOperation
+# flag SET 0b11
+# [11] ESBranchHP(28:18) -> ESBranchHP
+# Branch on hp < 62, target rnd 13
+# [12] ESGravity(50:15148) -> なにやっとんじゃい！
+# Player -1000% HP
+# [13] SkillSet:
+# 	[0] ESColumnSpawnMulti(76:15135) -> お前やるじゃねぇか
+# 	Change 1st, 3rd, 5th column to Water orbs, 2nd column to Fire orbs
+# 	[1] ESBombFixedSpawn(103:15136) -> 迷ったらしめぇだぜ
+# 	Spawn Bomb orbs in the specified positions
+# 	[2] ESOrbSealRow(100:15137) -> これは早さが大事だ
+# 	Seal 5th row for 1 turns
+# 	[3] ESAbsorbCombo(67:15138) -> かっこよく決めてみな
+# 	Absorb combo <= 7 damage for 1 turns
+# 	[4] ESCloud(104:15151) -> こいつはプレゼントだ
+# 	Row of cloud appear for 1 turns at 1st column
+# [14] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [15] ESBranchFlag(43:10) -> ESBranchFlag
+# Branch on flag & 4, target rnd 21
+# [16] ESFlagOperation(22:12) -> ESFlagOperation
+# flag SET 0b111
+# [17] ESBranchHP(28:18) -> ESBranchHP
+# Branch on hp < 40, target rnd 19
+# [18] ESGravity(50:15148) -> なにやっとんじゃい！
+# Player -1000% HP
+# [19] SkillSet:
+# 	[0] ESBoardChange(84:15140) -> やりゃーできるじゃねーか
+# 	Change all orbs to Light
+# 	[1] ESRandomSpawn(92:15141) -> これが出来たら大したもんだ
+# 	Spawn random 9 Heal, Jammer, Poison orbs
+# 	[2] ESBlindStickyRandom(97:15142) -> ヨーホー！！
+# 	Blind all orbs for 1 turns
+# 	[3] ESAbsorbCombo(67:15143) -> 良く見極めろよ
+# 	Absorb combo <= 8 damage for 1 turns
+# [20] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [21] ESBranchHP(28:18) -> ESBranchHP
+# Branch on hp < 20, target rnd 23
+# [22] ESGravity(50:15148) -> なにやっとんじゃい！
+# Player -1000% HP
+# [23] SkillSet:
+# 	[0] ESBombFixedSpawn(103:15145) -> ここまでとは思わなかったぜ
+# 	Spawn Bomb orbs in the specified positions
+# 	[1] ESRandomSpawn(92:15146) -> こいつで最後だ！
+# 	Spawn random 3 Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison orbs
+# 	[2] ESAbsorbCombo(67:15147) -> ヘマすんじゃねーぞ
+# 	Absorb combo <= 9 damage for 1 turns
+# [24] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [25] SkillSet:
+# 	Condition: On death (ai:0 rnd:0)
+# 	[0] ESInactivity(66:15149) -> や、やるじゃねぇか・・・
+# 	Do nothing

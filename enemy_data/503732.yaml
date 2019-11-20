@@ -1,0 +1,240 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 503732
+monster_name_en: Violent Dragon Lord of Tyranny, Valten
+reviewed_by: unreviewed
+warnings: []
+
+############################################################
+### Data @ 1
+############################################################
+!SkillRecordListing
+level: 1
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Reduce damage from all sources by 80% for 5 turns + Absorb combo <= 4 damage
+    for 10 turns + Random 1 orbs change every 1.0s for 10 turns (Preemptive)
+  max_atk_pct: null
+  name_en: I am truly legendary + Right, show me what you've got! + Confusion
+  one_time: 2
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1-9
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Spawn random 3 Bomb orbs, Deal 98% damage
+  max_atk_pct: 98
+  name_en: Ignited
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 20
+- !SkillRecord
+  desc_en: Change Random to Fire, Deal 100% damage
+  max_atk_pct: 100
+  name_en: Flare Breath
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 20
+- !SkillRecord
+  desc_en: Lock 4 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
+    Poison orbs, Deal 103% damage
+  max_atk_pct: 103
+  name_en: Nova
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 20
+- !SkillRecord
+  desc_en: 1x1 cloud appear for 1 turns at random location, Deal 101% damage
+  max_atk_pct: 101
+  name_en: Heat Haze
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 20
+- !SkillRecord
+  desc_en: Deal 108% damage (3 hits, 36% each)
+  max_atk_pct: 108
+  name_en: Meteor
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 20
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 10
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Increase damage to 1000% for the next 1 turns + Seal 1st, 6th column for
+    1 turns
+  max_atk_pct: null
+  name_en: You put up a good fight + Now let's finish it
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP <= 100
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Deal 1500% damage (10 hits, 150% each)
+  max_atk_pct: 1500
+  name_en: X Burst
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP < 50
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Locked random skyfall +20% for 5 turns
+  max_atk_pct: null
+  name_en: Indelible Flare
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 10
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Spawn random 3 Bomb orbs, Deal 98% damage
+  max_atk_pct: 98
+  name_en: Ignited
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 20
+- !SkillRecord
+  desc_en: Change Random to Fire, Deal 100% damage
+  max_atk_pct: 100
+  name_en: Flare Breath
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 20
+- !SkillRecord
+  desc_en: Lock 4 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
+    Poison orbs, Deal 103% damage
+  max_atk_pct: 103
+  name_en: Nova
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 20
+- !SkillRecord
+  desc_en: 1x1 cloud appear for 1 turns at random location, Deal 101% damage
+  max_atk_pct: 101
+  name_en: Heat Haze
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 20
+- !SkillRecord
+  desc_en: Deal 108% damage (3 hits, 36% each)
+  max_atk_pct: 108
+  name_en: Meteor
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 20
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 11
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Increase damage to 1000% for the next 1 turns + Seal 1st, 6th column for
+    1 turns
+  max_atk_pct: null
+  name_en: You put up a good fight + Now let's finish it
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### ES Modifiers
+############################################################
+# [9] 5 - monster size?
+# [52] true - use new AI
+# [53] 3 - starting/max counter
+# [54] 0 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESPreemptive(49:318) -> ESPreemptive
+# Enable preempt if level 1
+# [2] SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
+# 	[0] ESDamageShield(74:14589) -> I am truly legendary
+# 	Reduce damage from all sources by 80% for 5 turns
+# 	[1] ESAbsorbCombo(67:14573) -> Right, show me what you've got!
+# 	Absorb combo <= 4 damage for 10 turns
+# 	[2] ESSpinnersRandom(109:14574) -> Confusion
+# 	Random 1 orbs change every 1.0s for 10 turns
+# [3] ESSkyfall(96:14581) -> Indelible Flare
+# 	Condition: When < 50% hp , one-time use (ai:100 rnd:0) (one-time: 1)
+# Locked random skyfall +20% for 5 turns
+# [4] ESBranchCounter(32:22) -> ESBranchCounter
+# Branch on counter > 9, target rnd 12
+# [5] ESSetCounter(26:16) -> ESSetCounter
+# counter + 1
+# [6] ESBombRandomSpawn(102:14576) -> Ignited
+# 	Condition: 20% chance (ai:0 rnd:20)
+# Spawn random 3 Bomb orbs, Deal 98% damage
+# [7] ESOrbChangeAttack(48:14577) -> Flare Breath
+# 	Condition: 20% chance (ai:0 rnd:20)
+# Change Random to Fire, Deal 100% damage
+# [8] ESOrbLock(94:14578) -> Nova
+# 	Condition: 20% chance (ai:0 rnd:20)
+# Lock 4 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 103% damage
+# [9] ESCloud(104:14579) -> Heat Haze
+# 	Condition: 20% chance (ai:0 rnd:20)
+# 1x1 cloud appear for 1 turns at random location, Deal 101% damage
+# [10] ESAttackMultihit(15:14580) -> Meteor
+# 	Condition: 20% chance (ai:0 rnd:20)
+# Deal 108% damage (3 hits, 36% each)
+# [11] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [12] ESBranchFlag(43:10) -> ESBranchFlag
+# Branch on flag & 1, target rnd 16
+# [13] ESFlagOperation(22:12) -> ESFlagOperation
+# flag SET 0b1
+# [14] SkillSet:
+# 	[0] ESAttackUPRemainingEnemies(17:14582) -> You put up a good fight
+# 	Increase damage to 1000% for the next 1 turns
+# 	[1] ESOrbSealColumn(99:14583) -> Now let's finish it
+# 	Seal 1st, 6th column for 1 turns
+# [15] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [16] ESAttackMultihit(15:14585) -> X Burst
+# Deal 1500% damage (10 hits, 150% each)
+# [17] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [18] ESDeathCry(69:14588) -> Valten's Curtain Call
+# 	Condition: On death (ai:0 rnd:0)
+# Show death effect

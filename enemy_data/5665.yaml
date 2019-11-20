@@ -1,0 +1,119 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 5665
+monster_name_en: クルツ・ウェーバー
+reviewed_by: unreviewed
+warnings: []
+
+############################################################
+### Data @ 1
+############################################################
+!SkillRecordListing
+level: 1
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Reduce damage from Physical, Machine by 50%
+  max_atk_pct: null
+  name_en: Ability
+  one_time: 0
+  record_type_name: PASSIVE
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Blind random 10 orbs for 4 turns (Preemptive)
+  max_atk_pct: null
+  name_en: うわ　来ちまった
+  one_time: 2
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Deal 70% damage
+  max_atk_pct: 70
+  name_en: もらった！
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 50
+- !SkillRecord
+  desc_en: Fix orb movement starting point to random position on the board, Deal 65%
+    damage
+  max_atk_pct: 65
+  name_en: 照準が狂ってんじゃねぇのか
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 50
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP < 50
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Increase damage to 150% for the next 999 turns
+  max_atk_pct: null
+  name_en: やってみるか……
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP <= 20
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Deal 100% damage
+  max_atk_pct: 100
+  name_en: 撃発
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### ES Modifiers
+############################################################
+# [9] 5 - monster size?
+# [52] true - use new AI
+# [53] 3 - starting/max counter
+# [54] 0 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESPreemptive(49:318) -> ESPreemptive
+# Enable preempt if level 1
+# [2] ESBlindStickyRandom(97:14893) -> うわ　来ちまった
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
+# Blind random 10 orbs for 4 turns
+# [3] ESBranchHP(28:18) -> ESBranchHP
+# Branch on hp < 50, target rnd 7
+# [4] ESAttackMultihit(15:14894) -> もらった！
+# 	Condition: 50% chance (ai:0 rnd:50)
+# Deal 70% damage
+# [5] ESFixedStart(101:14895) -> 照準が狂ってんじゃねぇのか
+# 	Condition: 50% chance (ai:0 rnd:50)
+# Fix orb movement starting point to random position on the board, Deal 65% damage
+# [6] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [7] ESAttackUPRemainingEnemies(17:14896) -> やってみるか……
+# 	Condition: One-time use, when <= 1 enemies remain (ai:100 rnd:0) (one-time: 1)
+# Increase damage to 150% for the next 999 turns
+# [8] ESBranchHP(29:19) -> ESBranchHP
+# Branch on hp > 21, target rnd 4
+# [9] ESAttackMultihit(15:14897) -> 撃発
+# Deal 100% damage
+# [10] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [11] ESTypeResist(118:14960) -> 体力マシン半減
+# Reduce damage from Physical, Machine by 50%

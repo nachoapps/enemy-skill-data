@@ -1,0 +1,365 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 5476
+monster_name_en: 武神・愚地独歩
+reviewed_by: unreviewed
+warnings: []
+
+############################################################
+### Data @ 1
+############################################################
+!SkillRecordListing
+level: 1
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Do nothing + Rcv 50% for 5 turns (Preemptive)
+  max_atk_pct: null
+  name_en: 愚地流の空手というものを―― + キミタチにお見せしよう
+  one_time: 2
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Do nothing + Reduce damage from all sources by 50% for 3 turns
+  max_atk_pct: null
+  name_en: 三戦 + 呼ッ
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 2-3
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Blind all orbs on the board, Deal 100% damage
+  max_atk_pct: 100
+  name_en: 虎口拳
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 25
+- !SkillRecord
+  desc_en: Player -25% HP
+  max_atk_pct: null
+  name_en: Toe Kick
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 25
+- !SkillRecord
+  desc_en: Deal 105% damage
+  max_atk_pct: 105
+  name_en: 風摩殺
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 25
+- !SkillRecord
+  desc_en: Spawn random 3 Poison orbs, Deal 95% damage
+  max_atk_pct: 95
+  name_en: 六波返し
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 25
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 4
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Reduce damage from all sources by 75% for 2 turns
+  max_atk_pct: null
+  name_en: 前羽の構え
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP <= 100
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Blind all orbs on the board, Deal 100% damage
+  max_atk_pct: 100
+  name_en: 虎口拳
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 25
+- !SkillRecord
+  desc_en: Player -25% HP
+  max_atk_pct: null
+  name_en: Toe Kick
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 25
+- !SkillRecord
+  desc_en: Deal 105% damage
+  max_atk_pct: 105
+  name_en: 風摩殺
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 25
+- !SkillRecord
+  desc_en: Spawn random 3 Poison orbs, Deal 95% damage
+  max_atk_pct: 95
+  name_en: 六波返し
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 25
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP < 50
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Absorb combo <= 5 damage for 5 turns
+  max_atk_pct: null
+  name_en: 天上天下の構え
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 2
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Do nothing + Reduce damage from all sources by 50% for 3 turns
+  max_atk_pct: null
+  name_en: 三戦 + 呼ッ
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 4
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Blind all orbs on the board, Deal 100% damage
+  max_atk_pct: 100
+  name_en: 虎口拳
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 25
+- !SkillRecord
+  desc_en: Player -25% HP
+  max_atk_pct: null
+  name_en: Toe Kick
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 25
+- !SkillRecord
+  desc_en: Deal 105% damage
+  max_atk_pct: 105
+  name_en: 風摩殺
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 25
+- !SkillRecord
+  desc_en: Spawn random 3 Poison orbs, Deal 95% damage
+  max_atk_pct: 95
+  name_en: 六波返し
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 25
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 5
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Reduce damage from all sources by 75% for 2 turns
+  max_atk_pct: null
+  name_en: 前羽の構え
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP < 20
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 2
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Do nothing + Increase damage to 150% for the next 99 turns
+  max_atk_pct: null
+  name_en: 計算もクソもないッッ + 全てを肉体に委ねる
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 3
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Do nothing + Reduce damage from all sources by 50% for 3 turns
+  max_atk_pct: null
+  name_en: 三戦 + 呼ッ
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 5
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Blind all orbs on the board, Deal 100% damage
+  max_atk_pct: 100
+  name_en: 虎口拳
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 25
+- !SkillRecord
+  desc_en: Player -25% HP
+  max_atk_pct: null
+  name_en: Toe Kick
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 25
+- !SkillRecord
+  desc_en: Deal 105% damage
+  max_atk_pct: 105
+  name_en: 風摩殺
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 25
+- !SkillRecord
+  desc_en: Spawn random 3 Poison orbs, Deal 95% damage
+  max_atk_pct: 95
+  name_en: 六波返し
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 25
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 6
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Reduce damage from all sources by 75% for 2 turns
+  max_atk_pct: null
+  name_en: 前羽の構え
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### ES Modifiers
+############################################################
+# [9] 5 - monster size?
+# [52] true - use new AI
+# [53] 3 - starting/max counter
+# [54] 0 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESPreemptive(49:318) -> ESPreemptive
+# Enable preempt if level 1
+# [2] SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
+# 	[0] ESInactivity(66:14066) -> 愚地流の空手というものを――
+# 	Do nothing
+# 	[1] ESDebuffRCV(105:14067) -> キミタチにお見せしよう
+# 	Rcv 50% for 5 turns
+# [3] ESBranchHP(28:18) -> ESBranchHP
+# Branch on hp < 50, target rnd 13
+# [4] ESBranchHP(28:18) -> ESBranchHP
+# Branch on hp < 20, target rnd 17
+# [5] SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
+# 	[0] ESInactivity(66:14069) -> 三戦
+# 	Do nothing
+# 	[1] ESDamageShield(74:14070) -> 呼ッ
+# 	Reduce damage from all sources by 50% for 3 turns
+# [6] ESBranchCounter(32:22) -> ESBranchCounter
+# Branch on counter > 2, target rnd 21
+# [7] ESSetCounter(26:16) -> ESSetCounter
+# counter + 1
+# [8] ESBlind(62:14072) -> 虎口拳
+# 	Condition: 25% chance (ai:0 rnd:25)
+# Blind all orbs on the board, Deal 100% damage
+# [9] ESGravity(50:14181) -> Toe Kick
+# 	Condition: 25% chance (ai:0 rnd:25)
+# Player -25% HP
+# [10] ESAttackMultihit(15:14074) -> 風摩殺
+# 	Condition: 25% chance (ai:0 rnd:25)
+# Deal 105% damage
+# [11] ESRandomSpawn(92:14075) -> 六波返し
+# 	Condition: 25% chance & when Fire, Water, Wood, Light, Dark, Heal, Jammer, Mortal Poison orbs are on the board (ai:0 rnd:25)
+# Spawn random 3 Poison orbs, Deal 95% damage
+# [12] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [13] ESBranchFlag(43:10) -> ESBranchFlag
+# Branch on flag & 1, target rnd 4
+# [14] ESFlagOperation(22:12) -> ESFlagOperation
+# flag SET 0b1
+# [15] ESAbsorbCombo(67:14076) -> 天上天下の構え
+# Absorb combo <= 5 damage for 5 turns
+# [16] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [17] ESBranchFlag(43:10) -> ESBranchFlag
+# Branch on flag & 2, target rnd 5
+# [18] ESFlagOperation(22:12) -> ESFlagOperation
+# flag SET 0b11
+# [19] SkillSet:
+# 	[0] ESInactivity(66:14078) -> 計算もクソもないッッ
+# 	Do nothing
+# 	[1] ESAttackUPRemainingEnemies(17:14079) -> 全てを肉体に委ねる
+# 	Increase damage to 150% for the next 99 turns
+# [20] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [21] ESBranchCounter(32:22) -> ESBranchCounter
+# Branch on counter > 3, target rnd 8
+# [22] ESSetCounter(26:16) -> ESSetCounter
+# counter + 1
+# [23] ESDamageShield(74:14071) -> 前羽の構え
+# Reduce damage from all sources by 75% for 2 turns
+# [24] ESEndPath(36:26) -> ESEndPath
+# end_turn

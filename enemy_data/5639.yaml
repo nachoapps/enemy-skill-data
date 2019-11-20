@@ -1,0 +1,215 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 5639
+monster_name_en: リナ＝インバース
+reviewed_by: unreviewed
+warnings: []
+
+############################################################
+### Data @ 4
+############################################################
+!SkillRecordListing
+level: 4
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Player -99% HP (Preemptive)
+  max_atk_pct: null
+  name_en: 悪人に人権はない！
+  one_time: 2
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Change Random to Fire, Deal 95% damage
+  max_atk_pct: 95
+  name_en: 火炎球
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 33
+- !SkillRecord
+  desc_en: Spawn random 6 Fire orbs, Deal 100% damage
+  max_atk_pct: 100
+  name_en: 爆煙舞
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 33
+- !SkillRecord
+  desc_en: Change 3rd, 4th column to Fire, Jammer orbs, Deal 90% damage
+  max_atk_pct: 90
+  name_en: 爆裂陣
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 34
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP < 50
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Reduce damage from all sources by 75% for 5 turns
+  max_atk_pct: null
+  name_en: 勝利はあたしのためにある！
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Execute repeatedly. Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Do nothing
+  max_atk_pct: null
+  name_en: 黄昏よりも昏きもの
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 2
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Do nothing
+  max_atk_pct: null
+  name_en: 時の流れに埋もれし
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 3
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Do nothing
+  max_atk_pct: null
+  name_en: 我ここに闇に誓わん
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 4
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Do nothing
+  max_atk_pct: null
+  name_en: 我等が前に立ち塞がりし
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 5
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Do nothing
+  max_atk_pct: null
+  name_en: 我と汝が力もて
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Loop to 1 after. Turn 6
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Spawn random 10 Jammer orbs, Deal 600% damage
+  max_atk_pct: 600
+  name_en: 竜破斬
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### ES Modifiers
+############################################################
+# [9] 5 - monster size?
+# [52] true - use new AI
+# [53] 3 - starting/max counter
+# [54] 0 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESPreemptive(49:3402) -> ESPreemptive
+# Enable preempt if level 4
+# [2] ESBranchLevel(35:25) -> ESBranchLevel
+# Branch on level > 4, target rnd 4
+# [3] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [4] ESGravity(50:14984) -> 悪人に人権はない！
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
+# Player -99% HP
+# [5] ESBranchHP(28:18) -> ESBranchHP
+# Branch on hp < 50, target rnd 10
+# [6] ESOrbChangeAttack(48:14985) -> 火炎球
+# 	Condition: 33% chance (ai:0 rnd:33)
+# Change Random to Fire, Deal 95% damage
+# [7] ESRandomSpawn(92:14986) -> 爆煙舞
+# 	Condition: 33% chance (ai:0 rnd:33)
+# Spawn random 6 Fire orbs, Deal 100% damage
+# [8] ESColumnSpawnMulti(77:14987) -> 爆裂陣
+# 	Condition: 34% chance (ai:0 rnd:34)
+# Change 3rd, 4th column to Fire, Jammer orbs, Deal 90% damage
+# [9] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [10] ESDamageShield(74:14988) -> 勝利はあたしのためにある！
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
+# Reduce damage from all sources by 75% for 5 turns
+# [11] ESSetCounter(26:16) -> ESSetCounter
+# counter + 1
+# [12] ESBranchCounter(32:22) -> ESBranchCounter
+# Branch on counter > 6, target rnd 22
+# [13] ESBranchCounter(32:22) -> ESBranchCounter
+# Branch on counter > 5, target rnd 21
+# [14] ESBranchCounter(32:22) -> ESBranchCounter
+# Branch on counter > 4, target rnd 20
+# [15] ESBranchCounter(32:22) -> ESBranchCounter
+# Branch on counter > 3, target rnd 19
+# [16] ESBranchCounter(32:22) -> ESBranchCounter
+# Branch on counter > 2, target rnd 18
+# [17] ESInactivity(66:14989) -> 黄昏よりも昏きもの
+# Do nothing
+# [18] ESInactivity(66:14990) -> 時の流れに埋もれし
+# Do nothing
+# [19] ESInactivity(66:14991) -> 我ここに闇に誓わん
+# Do nothing
+# [20] ESInactivity(66:14992) -> 我等が前に立ち塞がりし
+# Do nothing
+# [21] ESInactivity(66:14993) -> 我と汝が力もて
+# Do nothing
+# [22] ESSetCounter(25:15) -> ESSetCounter
+# counter = 0
+# [23] ESRandomSpawn(92:14994) -> 竜破斬
+# Spawn random 10 Jammer orbs, Deal 600% damage
+# [24] ESEndPath(36:26) -> ESEndPath
+# end_turn

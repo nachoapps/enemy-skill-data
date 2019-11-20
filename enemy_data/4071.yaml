@@ -1,0 +1,179 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 4071
+monster_name_en: Great Mocking Mask Duke of Hell, Dantalion
+reviewed_by: unreviewed
+warnings: []
+
+############################################################
+### Data @ 1
+############################################################
+!SkillRecordListing
+level: 1
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Voids status ailments for 999 turns + Absorb combo <= 6 damage for 999
+    turns (Preemptive), (if [3940, 3941] on team)
+  max_atk_pct: null
+  name_en: Did you find it? + Which? Comedy? Tragedy?
+  one_time: 4
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Voids status ailments for 999 turns + Absorb combo <= 6 damage for 999
+    turns (Preemptive)
+  max_atk_pct: null
+  name_en: Let me show you the Puppet Show + Which? Comedy? Tragedy?
+  one_time: 4
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: No skyfall for 10 turns
+  max_atk_pct: null
+  name_en: Boring as expected
+  one_time: 2
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP <= 100
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Blind random 4 orbs for 1 turns + Change 3rd row to Fire orbs, Deal 100%
+    damage
+  max_atk_pct: null
+  name_en: The black puppet starts to move + Innocent Inferno
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 25
+- !SkillRecord
+  desc_en: Blind random 4 orbs for 1 turns + Change Random to Jammer, Deal 95% damage
+  max_atk_pct: null
+  name_en: The black puppet starts to move + Oblivion Flame
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 25
+- !SkillRecord
+  desc_en: Random 2 orbs change every 1.0s for 1 turns + Change all orbs to Fire,
+    Water, Wood, Light, Dark, Heal, Jammer, Poison, Deal 90% damage
+  max_atk_pct: null
+  name_en: The white puppet starts to move + Misconversion
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 25
+- !SkillRecord
+  desc_en: Random 2 orbs change every 1.0s for 1 turns + Deal 120% damage (3 hits,
+    40% each)
+  max_atk_pct: null
+  name_en: The white puppet starts to move + Concept Break
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 25
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP < 20
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 2
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Increase damage to 200% for the next 999 turns
+  max_atk_pct: null
+  name_en: Hihihi, it's almost over
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Deal 300% damage (5 hits, 60% each)
+  max_atk_pct: 300
+  name_en: I'll be back soon for the sequel
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### ES Modifiers
+############################################################
+# [9] 5 - monster size?
+# [52] true - use new AI
+# [53] 7 - starting/max counter
+# [54] 0 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESPreemptive(49:318) -> ESPreemptive
+# Enable preempt if level 1
+# [2] ESBranchCard(90:13851) -> ESBranchCard
+# Branch on player_cards HAS [3940, 3941], target rnd 4
+# [3] SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 4)
+# 	[0] ESStatusShield(20:13888) -> Let me show you the Puppet Show
+# 	Voids status ailments for 999 turns
+# 	[1] ESAbsorbCombo(67:13889) -> Which? Comedy? Tragedy?
+# 	Absorb combo <= 6 damage for 999 turns
+# [4] SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 4)
+# 	[0] ESStatusShield(20:13890) -> Did you find it?
+# 	Voids status ailments for 999 turns
+# 	[1] ESAbsorbCombo(67:13889) -> Which? Comedy? Tragedy?
+# 	Absorb combo <= 6 damage for 999 turns
+# [5] ESNoSkyfall(127:13891) -> Boring as expected
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
+# No skyfall for 10 turns
+# [6] ESBranchHP(28:18) -> ESBranchHP
+# Branch on hp < 20, target rnd 12
+# [7] SkillSet:
+# 	Condition: 25% chance (ai:0 rnd:25)
+# 	[0] ESBlindStickyRandom(97:13896) -> The black puppet starts to move
+# 	Blind random 4 orbs for 1 turns
+# 	[1] ESRowSpawnMulti(79:13898) -> Innocent Inferno
+# 	Change 3rd row to Fire orbs, Deal 100% damage
+# [8] SkillSet:
+# 	Condition: 25% chance (ai:0 rnd:25)
+# 	[0] ESBlindStickyRandom(97:13896) -> The black puppet starts to move
+# 	Blind random 4 orbs for 1 turns
+# 	[1] ESOrbChangeAttack(48:13899) -> Oblivion Flame
+# 	Change Random to Jammer, Deal 95% damage
+# [9] SkillSet:
+# 	Condition: 25% chance (ai:0 rnd:25)
+# 	[0] ESSpinnersRandom(109:13897) -> The white puppet starts to move
+# 	Random 2 orbs change every 1.0s for 1 turns
+# 	[1] ESBoardChangeAttackBits(85:13900) -> Misconversion
+# 	Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Deal 90% damage
+# [10] SkillSet:
+# 	Condition: 25% chance (ai:0 rnd:25)
+# 	[0] ESSpinnersRandom(109:13897) -> The white puppet starts to move
+# 	Random 2 orbs change every 1.0s for 1 turns
+# 	[1] ESAttackMultihit(15:13901) -> Concept Break
+# 	Deal 120% damage (3 hits, 40% each)
+# [11] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [12] ESAttackUPRemainingEnemies(17:13902) -> Hihihi, it's almost over
+# 	Condition: One-time use, when <= 1 enemies remain (ai:100 rnd:0) (one-time: 1)
+# Increase damage to 200% for the next 999 turns
+# [13] ESAttackMultihit(15:13903) -> I'll be back soon for the sequel
+# Deal 300% damage (5 hits, 60% each)
+# [14] ESEndPath(36:26) -> ESEndPath
+# end_turn

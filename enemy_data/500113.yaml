@@ -1,0 +1,81 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 500113
+monster_name_en: Ifrit
+reviewed_by: unreviewed
+warnings: []
+
+############################################################
+### Data @ 1
+############################################################
+!SkillRecordListing
+level: 1
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Reduce damage from all sources by 30% for 4 turns (Preemptive)
+  max_atk_pct: null
+  name_en: Vast Body of Flames
+  one_time: 0
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Execute repeatedly. Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Spawn random 3 Bomb orbs, Deal 50% damage
+  max_atk_pct: 50
+  name_en: Incendiary Bomb
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Loop to 1 after. Turn 2
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Deal 200% damage (2 hits, 100% each)
+  max_atk_pct: 200
+  name_en: Stomp!
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### ES Modifiers
+############################################################
+# [9] 5 - monster size?
+# [52] true - use new AI
+# [53] 1 - starting/max counter
+# [54] 1 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESPreemptive(49:318) -> ESPreemptive
+# Enable preempt if level 1
+# [2] ESBranchFlag(43:10) -> ESBranchFlag
+# Branch on flag & 1, target rnd 6
+# [3] ESFlagOperation(22:12) -> ESFlagOperation
+# flag SET 0b1
+# [4] ESDamageShield(74:14507) -> Vast Body of Flames
+# Reduce damage from all sources by 30% for 4 turns
+# [5] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [6] ESBombRandomSpawn(102:14508) -> Incendiary Bomb
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
+# Spawn random 3 Bomb orbs, Deal 50% damage
+# [7] ESAttackMultihit(15:14509) -> Stomp!
+# Deal 200% damage (2 hits, 100% each)
+# [8] ESEndPath(36:26) -> ESEndPath
+# end_turn

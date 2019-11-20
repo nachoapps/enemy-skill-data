@@ -1,0 +1,82 @@
+############################################################
+### Info
+############################################################
+!EntryInfo
+comments: null
+monster_id: 1944
+monster_name_en: Kaguya-Hime
+reviewed_by: unreviewed
+warnings: []
+
+############################################################
+### Data @ 1
+############################################################
+!SkillRecordListing
+level: 1
+overrides: []
+records:
+- !SkillRecord
+  desc_en: Movetime 120% for 5 turns + No skyfall for 5 turns + Spawn random 7 Fire,
+    Water, Wood, Light, Dark, Heal orbs (Preemptive)
+  max_atk_pct: null
+  name_en: Have you decided on your wish? + Moonlight Shadow  + Brilliant Star Gem
+  one_time: 1
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Spawn random 7 Fire, Water, Wood, Light, Dark, Heal orbs, Deal 100% damage
+  max_atk_pct: 100
+  name_en: Brilliant Star Gem
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP < 30
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Change 3rd column to Light orbs, 4th column to Light orbs, Deal 200% damage
+  max_atk_pct: 200
+  name_en: Ascension
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 50
+- !SkillRecord
+  desc_en: Spawn random 7 Fire, Water, Wood, Light, Dark, Heal orbs, Deal 100% damage
+  max_atk_pct: 100
+  name_en: Brilliant Star Gem
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+
+############################################################
+### ES Modifiers
+############################################################
+# [9] 5 - monster size?
+# [52] true - use new AI
+# [53] 1 - starting/max counter
+# [54] 0 - counter increment
+#
+############################################################
+### Raw Behavior
+############################################################
+# [1] ESPreemptive(49:318) -> ESPreemptive
+# Enable preempt if level 1
+# [2] SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
+# 	[0] ESDebuffMovetime(39:13557) -> Have you decided on your wish?
+# 	Movetime 120% for 5 turns
+# 	[1] ESNoSkyfall(127:13552) -> Moonlight Shadow 
+# 	No skyfall for 5 turns
+# 	[2] ESRandomSpawn(92:13553) -> Brilliant Star Gem
+# 	Spawn random 7 Fire, Water, Wood, Light, Dark, Heal orbs
+# [3] ESColumnSpawnMulti(77:13554) -> Ascension
+# 	Condition: 50% chance when < 30% hp (ai:50 rnd:0)
+# Change 3rd column to Light orbs, 4th column to Light orbs, Deal 200% damage
+# [4] ESRandomSpawn(92:13556) -> Brilliant Star Gem
+# Spawn random 7 Fire, Water, Wood, Light, Dark, Heal orbs, Deal 100% damage
+# [5] ESEndPath(36:26) -> ESEndPath
+# end_turn
