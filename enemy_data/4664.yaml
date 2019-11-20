@@ -18,7 +18,7 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 5 turns + Bind 1 random cards for 3 turns (Preemptive)
   max_atk_pct: null
-  name_en: 虎は孤高の存在。 + 群れることはしないもの。
+  name_en: Byakko lives in isolation. + Something that won't swarm.
   one_time: 1
   record_type_name: PREEMPT
   usage_pct: 100
@@ -33,10 +33,8 @@ records:
   desc_en: Fix orb movement starting point to random position on the board + Lock
     10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
     orbs
-    10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
-    orbs
   max_atk_pct: null
-  name_en: ずっと機会を狙ってた。 + 虎視眈々と。
+  name_en: I always seized any opportunities. + I'm a predator stalking its prey.
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -51,7 +49,7 @@ records:
   desc_en: Change all orbs to Fire, Water, Dark, Deal 100% damage + Change 3rd row
     to Heal orbs
   max_atk_pct: null
-  name_en: 虎にカワイイは・・・侮辱・・・ + ・・・・・・
+  name_en: Cute is an insult...for Byakko... + ...
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -65,7 +63,7 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 200% for the next 1 turns
   max_atk_pct: null
-  name_en: 準備・・・できた？
+  name_en: Are you...ready?
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -79,7 +77,7 @@ records:
 - !SkillRecord
   desc_en: Delay active skills by 2 turns, Deal 100% damage
   max_atk_pct: 100
-  name_en: 荒れ球
+  name_en: Wild Ball
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -100,7 +98,7 @@ records:
 - !SkillRecord
   desc_en: Enemy recover 50% hp
   max_atk_pct: null
-  name_en: みなぎる活力
+  name_en: Swelling Energy
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -124,9 +122,9 @@ records:
 # end_turn
 # [4] SkillSet:
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
-# 	[0] ESStatusShield(20:10613) -> 虎は孤高の存在。
+# 	[0] ESStatusShield(20:10613) -> Byakko lives in isolation.
 # 	Voids status ailments for 5 turns
-# 	[1] ESBindRandom(1:10614) -> 群れることはしないもの。
+# 	[1] ESBindRandom(1:10614) -> Something that won't swarm.
 # 	Bind 1 random cards for 3 turns
 # [5] ESBranchFlag(43:10) -> ESBranchFlag
 # Branch on flag & 2, target rnd 10
@@ -135,9 +133,9 @@ records:
 # [7] ESBranchHP(28:18) -> ESBranchHP
 # Branch on hp < 20, target rnd 21
 # [8] SkillSet:
-# 	[0] ESFixedStart(101:10616) -> ずっと機会を狙ってた。
+# 	[0] ESFixedStart(101:10616) -> I always seized any opportunities.
 # 	Fix orb movement starting point to random position on the board
-# 	[1] ESOrbLock(94:10617) -> 虎視眈々と。
+# 	[1] ESOrbLock(94:10617) -> I'm a predator stalking its prey.
 # 	Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs
 # [9] ESEndPath(36:26) -> ESEndPath
 # end_turn
@@ -146,9 +144,9 @@ records:
 # [11] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b111
 # [12] SkillSet:
-# 	[0] ESBoardChangeAttackBits(85:10619) -> 虎にカワイイは・・・侮辱・・・
+# 	[0] ESBoardChangeAttackBits(85:10619) -> Cute is an insult...for Byakko...
 # 	Change all orbs to Fire, Water, Dark, Deal 100% damage
-# 	[1] ESRowSpawnMulti(78:10620) -> ・・・・・・
+# 	[1] ESRowSpawnMulti(78:10620) -> ...
 # 	Change 3rd row to Heal orbs
 # [13] ESEndPath(36:26) -> ESEndPath
 # end_turn
@@ -156,18 +154,18 @@ records:
 # Branch on flag & 8, target rnd 18
 # [15] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b1111
-# [16] ESAttackUPRemainingEnemies(17:10622) -> 準備・・・できた？
+# [16] ESAttackUPRemainingEnemies(17:10622) -> Are you...ready?
 # 	Condition: when <= 1 enemies remain (ai:100 rnd:0)
 # Increase damage to 200% for the next 1 turns
 # [17] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [18] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b0
-# [19] ESSkillDelay(89:10587) -> 荒れ球
+# [19] ESSkillDelay(89:10587) -> Wild Ball
 # Delay active skills by 2 turns, Deal 100% damage
 # [20] ESEndPath(36:26) -> ESEndPath
 # end_turn
-# [21] ESRecoverEnemy(86:10623) -> みなぎる活力
+# [21] ESRecoverEnemy(86:10623) -> Swelling Energy
 # Enemy recover 50% hp
 # [22] ESEndPath(36:26) -> ESEndPath
 # end_turn

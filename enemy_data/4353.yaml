@@ -41,8 +41,6 @@ records:
   desc_en: Voids status ailments for 999 turns + Player -99% HP + Change 1st column
     to Water, Jammer, Poison orbs, 3rd, 4th column to Water, Jammer, Poison orbs +
     Void damage >= 15000000 for 999 turns (Preemptive)
-    to Water, Jammer, Poison orbs, 3rd, 4th column to Water, Jammer, Poison orbs +
-    Void damage >= 15000000 for 999 turns (Preemptive)
   max_atk_pct: null
   name_en: Overcoat of Grand Style + Explosive Wave + Blowing Dirty Water + Surging
     Waves

@@ -18,14 +18,14 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 1 turns (Preemptive)
   max_atk_pct: null
-  name_en: ゲキ熱の魂を剣に込めるで！
+  name_en: I filled my sword with the soul of Fever!
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 1 turns
   max_atk_pct: null
-  name_en: ゲキ熱の魂を剣に込めるで！
+  name_en: I filled my sword with the soul of Fever!
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -43,7 +43,7 @@ records:
 ############################################################
 # [1] ESPreemptive(49:318) -> ESPreemptive
 # Enable preempt if level 1
-# [2] ESAttackUPRemainingEnemies(17:8956) -> ゲキ熱の魂を剣に込めるで！
+# [2] ESAttackUPRemainingEnemies(17:8956) -> I filled my sword with the soul of Fever!
 # 	Condition: when <= 1 enemies remain (ai:100 rnd:0)
 # Increase damage to 150% for the next 1 turns
 # [3] ESEndPath(36:26) -> ESEndPath

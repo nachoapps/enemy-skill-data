@@ -16,7 +16,8 @@ level: 1
 overrides: []
 records:
 - !SkillRecord
-  desc_en: Absorb combo <= 10 damage for 999 turns, (if [4806, 4807] on team) (Preemptive)
+  desc_en: Absorb combo <= 10 damage for 999 turns (Preemptive), (if [4806, 4807]
+    on team)
   max_atk_pct: null
   name_en: Let's practice together once in a while
   one_time: 0
@@ -123,7 +124,7 @@ records:
 # [5] ESAbsorbCombo(67:11136) -> I hope you're a good training partner
 # Absorb combo <= 10 damage for 999 turns
 # [6] ESAbsorbCombo(67:11137) -> Let's practice together once in a while
-# Absorb combo <= 10 damage for 999 turns, (if [4806, 4807] on team)
+# Absorb combo <= 10 damage for 999 turns
 # [7] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [8] ESBranchFlag(43:10) -> ESBranchFlag

@@ -18,7 +18,7 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 1 turns (Preemptive)
   max_atk_pct: null
-  name_en: ブバスティスの加護
+  name_en: Divine Protection of Bubastis
   one_time: 1
   record_type_name: PREEMPT
   usage_pct: 100
@@ -32,7 +32,7 @@ records:
 - !SkillRecord
   desc_en: Deal 100% damage (2 hits, 50% each)
   max_atk_pct: 100
-  name_en: 猫神の閃爪
+  name_en: Feline Deity's Flash Claw
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -46,7 +46,7 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 1 turns
   max_atk_pct: null
-  name_en: ブバスティスの加護
+  name_en: Divine Protection of Bubastis
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -64,10 +64,10 @@ records:
 ############################################################
 # [1] ESPreemptive(49:318) -> ESPreemptive
 # Enable preempt if level 1
-# [2] ESDamageShield(74:11542) -> ブバスティスの加護
+# [2] ESDamageShield(74:11542) -> Divine Protection of Bubastis
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
 # Reduce damage from all sources by 50% for 1 turns
-# [3] ESAttackMultihit(15:11543) -> 猫神の閃爪
+# [3] ESAttackMultihit(15:11543) -> Feline Deity's Flash Claw
 # Deal 100% damage (2 hits, 50% each)
 # [4] ESEndPath(36:26) -> ESEndPath
 # end_turn

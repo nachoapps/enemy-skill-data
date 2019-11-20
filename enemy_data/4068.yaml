@@ -16,7 +16,7 @@ level: 4
 overrides: []
 records:
 - !SkillRecord
-  desc_en: Rcv 200% for 5 turns, (if [789, 790, 2404, 3122] on team) (Preemptive)
+  desc_en: Rcv 200% for 5 turns (Preemptive), (if [789, 790, 2404, 3122] on team)
   max_atk_pct: null
   name_en: Resonance of Cockatrice
   one_time: 0
@@ -112,7 +112,7 @@ records:
 # [7] ESInactivity(66:8598) -> ♪
 # Do nothing
 # [8] ESDebuffRCV(105:8597) -> Resonance of Cockatrice
-# Rcv 200% for 5 turns, (if [789, 790, 2404, 3122] on team)
+# Rcv 200% for 5 turns
 # [9] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [10] ESAttackSinglehit(82:1) -> Disable Skill

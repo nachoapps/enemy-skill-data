@@ -18,32 +18,28 @@ records:
 - !SkillRecord
   desc_en: Change Light to Jammer (Preemptive)
   max_atk_pct: null
-  name_en: 今度こそ！今度こそ幸せをつかみとる！
+  name_en: This time! This time, I will grasp happiness!
   one_time: 2
   record_type_name: PREEMPT
   usage_pct: 100
 - !SkillRecord
   desc_en: Spawn random 4 Jammer orbs (Preemptive)
   max_atk_pct: null
-  name_en: 今度こそ！今度こそ幸せをつかみとる！
+  name_en: NOW! NOW I will grasp happiness!
   one_time: 2
   record_type_name: PREEMPT
   usage_pct: 100
 - !SkillRecord
   desc_en: Bind 1 random subs for 1 turns, Deal 120% damage
   max_atk_pct: 120
-  name_en: '苦しみの螺旋階段を
-
-    延々昇り続けるんだよ！'
-
-    延々昇り続けるんだよ！'
+  name_en: The spiral staircase of pain keeps going!
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
 - !SkillRecord
   desc_en: Random 2 orbs change every 1.0s for 1 turns, Deal 80% damage
   max_atk_pct: 80
-  name_en: 人生なんていわば博打みてーなもんだ
+  name_en: Life is like gambling
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -64,32 +60,28 @@ records:
 - !SkillRecord
   desc_en: Poison skyfall +10% for 3 turns
   max_atk_pct: null
-  name_en: なんかもうやんなっちゃったな…
+  name_en: This sucks already...
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 150% damage
   max_atk_pct: 150
-  name_en: もう全て終わりにしてくれ！！
+  name_en: I'll end this for you!!
   one_time: 0
   record_type_name: ACTION
   usage_pct: 30
 - !SkillRecord
   desc_en: Bind 1 random subs for 1 turns, Deal 120% damage
   max_atk_pct: 120
-  name_en: '苦しみの螺旋階段を
-
-    延々昇り続けるんだよ！'
-
-    延々昇り続けるんだよ！'
+  name_en: The spiral staircase of pain keeps going!
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
 - !SkillRecord
   desc_en: Random 2 orbs change every 1.0s for 1 turns, Deal 80% damage
   max_atk_pct: 80
-  name_en: 人生なんていわば博打みてーなもんだ
+  name_en: Life is like gambling
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -111,23 +103,22 @@ records:
 # Branch on level > 4, target rnd 4
 # [3] ESEndPath(36:26) -> ESEndPath
 # end_turn
-# [4] ESOrbChangeAttackBits(108:11032) -> 今度こそ！今度こそ幸せをつかみとる！
+# [4] ESOrbChangeAttackBits(108:11032) -> This time! This time, I will grasp happiness!
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
 # Change Light to Jammer
-# [5] ESRandomSpawn(92:11061) -> 今度こそ！今度こそ幸せをつかみとる！
+# [5] ESRandomSpawn(92:11061) -> NOW! NOW I will grasp happiness!
 # 	Condition: One-time use & when Fire, Water, Wood, Light, Dark, Heal, Poison, Mortal Poison orbs are on the board (ai:100 rnd:0) (one-time: 2)
 # Spawn random 4 Jammer orbs
-# [6] ESSkyfall(68:11036) -> なんかもうやんなっちゃったな…
+# [6] ESSkyfall(68:11036) -> This sucks already...
 # 	Condition: When < 50% hp , one-time use (ai:100 rnd:0) (one-time: 1)
 # Poison skyfall +10% for 3 turns
-# [7] ESAttackMultihit(15:11035) -> もう全て終わりにしてくれ！！
+# [7] ESAttackMultihit(15:11035) -> I'll end this for you!!
 # 	Condition: 30% chance when < 50% hp (ai:30 rnd:0)
 # Deal 150% damage
-# [8] ESBindAttack(63:11034) -> 苦しみの螺旋階段を
-# 延々昇り続けるんだよ！
+# [8] ESBindAttack(63:11034) -> The spiral staircase of pain keeps going!
 # 	Condition: 50% chance (ai:50 rnd:0)
 # Bind 1 random subs for 1 turns, Deal 120% damage
-# [9] ESSpinnersRandom(109:11033) -> 人生なんていわば博打みてーなもんだ
+# [9] ESSpinnersRandom(109:11033) -> Life is like gambling
 # Random 2 orbs change every 1.0s for 1 turns, Deal 80% damage
 # [10] ESEndPath(36:26) -> ESEndPath
 # end_turn

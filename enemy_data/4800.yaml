@@ -16,8 +16,8 @@ level: 1
 overrides: []
 records:
 - !SkillRecord
-  desc_en: Voids status ailments for 999 turns + Void damage >= 8000000 for 99 turns,
-    (if [4806, 4807, 4808, 4809] on team) (Preemptive)
+  desc_en: Voids status ailments for 999 turns + Void damage >= 8000000 for 99 turns
+    (Preemptive), (if [4806, 4807, 4808, 4809] on team)
   max_atk_pct: null
   name_en: Oh, you came to the right place! + I will train diligently today
   one_time: 0

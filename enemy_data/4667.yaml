@@ -18,7 +18,7 @@ records:
 - !SkillRecord
   desc_en: Bind active skills for 3 turns (Preemptive)
   max_atk_pct: null
-  name_en: 黄色い声援
+  name_en: Shrill Encouragement
   one_time: 2
   record_type_name: PREEMPT
   usage_pct: 100
@@ -32,28 +32,28 @@ records:
 - !SkillRecord
   desc_en: Change Random to Water, Deal 100% damage
   max_atk_pct: 100
-  name_en: スライダー
+  name_en: Slider
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
 - !SkillRecord
   desc_en: Change Random to Wood, Deal 100% damage
   max_atk_pct: 100
-  name_en: カーブ
+  name_en: Curve
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
 - !SkillRecord
   desc_en: Change Random to Light, Deal 100% damage
   max_atk_pct: 100
-  name_en: シュート
+  name_en: Shoot
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
 - !SkillRecord
   desc_en: Change Random to Fire, Deal 100% damage
   max_atk_pct: 100
-  name_en: フォーク
+  name_en: Fork
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
@@ -67,7 +67,7 @@ records:
 - !SkillRecord
   desc_en: Bind 4 random subs for 1 turns
   max_atk_pct: null
-  name_en: 地獄の千本ナンパ
+  name_en: 1,000 Time Flirt of Hell
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -88,7 +88,7 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 200% for the next 99 turns
   max_atk_pct: null
-  name_en: ノーレイン、ノーレインボー
+  name_en: No rain, no rainbow
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -102,28 +102,28 @@ records:
 - !SkillRecord
   desc_en: Change Random to Water, Deal 100% damage
   max_atk_pct: 100
-  name_en: スライダー
+  name_en: Slider
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
 - !SkillRecord
   desc_en: Change Random to Wood, Deal 100% damage
   max_atk_pct: 100
-  name_en: カーブ
+  name_en: Curve
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
 - !SkillRecord
   desc_en: Change Random to Light, Deal 100% damage
   max_atk_pct: 100
-  name_en: シュート
+  name_en: Shoot
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
 - !SkillRecord
   desc_en: Change Random to Fire, Deal 100% damage
   max_atk_pct: 100
-  name_en: フォーク
+  name_en: Fork
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
@@ -137,7 +137,7 @@ records:
 - !SkillRecord
   desc_en: Bind 4 random subs for 1 turns
   max_atk_pct: null
-  name_en: 地獄の千本ナンパ
+  name_en: 1,000 Time Flirt of Hell
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -151,28 +151,28 @@ records:
 - !SkillRecord
   desc_en: Change Random to Water, Deal 100% damage
   max_atk_pct: 100
-  name_en: スライダー
+  name_en: Slider
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
 - !SkillRecord
   desc_en: Change Random to Wood, Deal 100% damage
   max_atk_pct: 100
-  name_en: カーブ
+  name_en: Curve
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
 - !SkillRecord
   desc_en: Change Random to Light, Deal 100% damage
   max_atk_pct: 100
-  name_en: シュート
+  name_en: Shoot
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
 - !SkillRecord
   desc_en: Change Random to Fire, Deal 100% damage
   max_atk_pct: 100
-  name_en: フォーク
+  name_en: Fork
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
@@ -198,26 +198,26 @@ records:
 # Branch on flag & 1, target rnd 8
 # [5] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b1
-# [6] ESBindSkill(14:10581) -> 黄色い声援
+# [6] ESBindSkill(14:10581) -> Shrill Encouragement
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
 # Bind active skills for 3 turns
 # [7] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [8] ESBranchHP(28:18) -> ESBranchHP
 # Branch on hp < 20, target rnd 15
-# [9] ESBindRandomSub(65:10582) -> 地獄の千本ナンパ
+# [9] ESBindRandomSub(65:10582) -> 1,000 Time Flirt of Hell
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
 # Bind 4 random subs for 1 turns
-# [10] ESOrbChangeAttack(48:10608) -> スライダー
+# [10] ESOrbChangeAttack(48:10608) -> Slider
 # 	Condition: 25% chance (ai:0 rnd:25)
 # Change Random to Water, Deal 100% damage
-# [11] ESOrbChangeAttack(48:10609) -> カーブ
+# [11] ESOrbChangeAttack(48:10609) -> Curve
 # 	Condition: 25% chance (ai:0 rnd:25)
 # Change Random to Wood, Deal 100% damage
-# [12] ESOrbChangeAttack(48:10612) -> シュート
+# [12] ESOrbChangeAttack(48:10612) -> Shoot
 # 	Condition: 25% chance (ai:0 rnd:25)
 # Change Random to Light, Deal 100% damage
-# [13] ESOrbChangeAttack(48:10610) -> フォーク
+# [13] ESOrbChangeAttack(48:10610) -> Fork
 # 	Condition: 25% chance (ai:0 rnd:25)
 # Change Random to Fire, Deal 100% damage
 # [14] ESEndPath(36:26) -> ESEndPath
@@ -226,7 +226,7 @@ records:
 # Branch on flag & 2, target rnd 9
 # [16] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b11
-# [17] ESAttackUPRemainingEnemies(17:10583) -> ノーレイン、ノーレインボー
+# [17] ESAttackUPRemainingEnemies(17:10583) -> No rain, no rainbow
 # 	Condition: when <= 1 enemies remain (ai:100 rnd:0)
 # Increase damage to 200% for the next 99 turns
 # [18] ESEndPath(36:26) -> ESEndPath

@@ -16,7 +16,7 @@ level: 1
 overrides: []
 records:
 - !SkillRecord
-  desc_en: Blind all orbs for 10 turns, (if [4796, 4797] on team) (Preemptive)
+  desc_en: Blind all orbs for 10 turns (Preemptive), (if [4796, 4797] on team)
   max_atk_pct: null
   name_en: Huh, oh, Suou?!...
   one_time: 0
@@ -172,7 +172,7 @@ records:
 # [5] ESBlindStickyRandom(97:11162) -> W-Well, you can't get through!...
 # Blind all orbs for 10 turns
 # [6] ESBlindStickyRandom(97:11163) -> Huh, oh, Suou?!...
-# Blind all orbs for 10 turns, (if [4796, 4797] on team)
+# Blind all orbs for 10 turns
 # [7] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [8] ESBranchHP(28:18) -> ESBranchHP

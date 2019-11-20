@@ -268,15 +268,15 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Change 2nd column to Fire orbs, 4th column to Fire orbs, Deal 140% damage
-  max_atk_pct: 140
+  desc_en: Change 2nd column to Fire orbs, 4th column to Fire orbs
+  max_atk_pct: null
   name_en: Power Geyser
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
 - !SkillRecord
-  desc_en: Change 2nd column to Fire orbs, 4th column to Fire orbs, Deal 140% damage
-  max_atk_pct: 140
+  desc_en: Change 2nd column to Fire orbs, 4th column to Fire orbs
+  max_atk_pct: null
   name_en: Power Geyser
   one_time: 0
   record_type_name: ACTION
@@ -324,7 +324,7 @@ records:
 # [14] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [15] ESColumnSpawnMulti(76:8660) -> Power Geyser
-# Change 2nd column to Fire orbs, 4th column to Fire orbs, Deal 140% damage
+# Change 2nd column to Fire orbs, 4th column to Fire orbs
 # [16] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [17] ESSetCounter(25:15) -> ESSetCounter

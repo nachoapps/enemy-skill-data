@@ -19,7 +19,7 @@ records:
   desc_en: Voids status ailments for 5 turns + Reduce damage from all sources by 50%
     for 5 turns (Preemptive)
   max_atk_pct: null
-  name_en: クイックファイトシューズ + マルチアンブレイカー
+  name_en: Quick Fight Shoes + Multi Unbreaker
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -33,28 +33,28 @@ records:
 - !SkillRecord
   desc_en: Do nothing + Change 2nd row to Light orbs, Deal 100% damage
   max_atk_pct: null
-  name_en: ガシャコンブレイカー + ブレードモード
+  name_en: Gashacon Breaker + Blade Mode
   one_time: 0
   record_type_name: ACTION
   usage_pct: 17
 - !SkillRecord
   desc_en: Do nothing + Change 3rd row to Light orbs, Deal 100% damage
   max_atk_pct: null
-  name_en: ガシャコンブレイカー + ブレードモード
+  name_en: Gashacon Breaker + Blade Mode
   one_time: 0
   record_type_name: ACTION
   usage_pct: 16
 - !SkillRecord
   desc_en: Do nothing + Change 4th row to Light orbs, Deal 100% damage
   max_atk_pct: null
-  name_en: ガシャコンブレイカー + ブレードモード
+  name_en: Gashacon Breaker + Blade Mode
   one_time: 0
   record_type_name: ACTION
   usage_pct: 17
 - !SkillRecord
   desc_en: Do nothing + Delay active skills by 1 turns, Deal 100% damage
   max_atk_pct: null
-  name_en: ガシャコンブレイカー + ハンマーモード
+  name_en: Gashacon Breaker + Hammer Mode
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -68,14 +68,14 @@ records:
 - !SkillRecord
   desc_en: 2x1 cloud appear for 5 turns at random location
   max_atk_pct: null
-  name_en: 滞空
+  name_en: Mid-Air
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
 - !SkillRecord
   desc_en: Absorb combo <= 4 damage for 5 turns
   max_atk_pct: null
-  name_en: 二段ジャンプ
+  name_en: Double Jump
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -96,7 +96,7 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 3 turns, Deal 100% damage
   max_atk_pct: 100
-  name_en: ゲインライザー
+  name_en: Gain Riser
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -117,7 +117,7 @@ records:
 - !SkillRecord
   desc_en: Absorb Fire damage for 3 turns
   max_atk_pct: null
-  name_en: メックビルドガード
+  name_en: Mech Build Guard
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -125,7 +125,7 @@ records:
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark + Deal 160% damage (8
     hits, 20% each)
   max_atk_pct: null
-  name_en: ガシャット！キメワザ！ + マイティクリティカルストライク
+  name_en: Gashat! Finishing Move! + Multi Critical Strike
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -152,9 +152,9 @@ records:
 # [5] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b1
 # [6] SkillSet:
-# 	[0] ESStatusShield(20:11776) -> クイックファイトシューズ
+# 	[0] ESStatusShield(20:11776) -> Quick Fight Shoes
 # 	Voids status ailments for 5 turns
-# 	[1] ESDamageShield(74:11777) -> マルチアンブレイカー
+# 	[1] ESDamageShield(74:11777) -> Multi Unbreaker
 # 	Reduce damage from all sources by 50% for 5 turns
 # [7] ESEndPath(36:26) -> ESEndPath
 # end_turn
@@ -166,52 +166,52 @@ records:
 # counter + 1
 # [11] SkillSet:
 # 	Condition: 17% chance (ai:0 rnd:17)
-# 	[0] ESInactivity(66:11784) -> ガシャコンブレイカー
+# 	[0] ESInactivity(66:11784) -> Gashacon Breaker
 # 	Do nothing
-# 	[1] ESRowSpawnMulti(79:11785) -> ブレードモード
+# 	[1] ESRowSpawnMulti(79:11785) -> Blade Mode
 # 	Change 2nd row to Light orbs, Deal 100% damage
 # [12] SkillSet:
 # 	Condition: 16% chance (ai:0 rnd:16)
-# 	[0] ESInactivity(66:11784) -> ガシャコンブレイカー
+# 	[0] ESInactivity(66:11784) -> Gashacon Breaker
 # 	Do nothing
-# 	[1] ESRowSpawnMulti(79:11786) -> ブレードモード
+# 	[1] ESRowSpawnMulti(79:11786) -> Blade Mode
 # 	Change 3rd row to Light orbs, Deal 100% damage
 # [13] SkillSet:
 # 	Condition: 17% chance (ai:0 rnd:17)
-# 	[0] ESInactivity(66:11784) -> ガシャコンブレイカー
+# 	[0] ESInactivity(66:11784) -> Gashacon Breaker
 # 	Do nothing
-# 	[1] ESRowSpawnMulti(79:11787) -> ブレードモード
+# 	[1] ESRowSpawnMulti(79:11787) -> Blade Mode
 # 	Change 4th row to Light orbs, Deal 100% damage
 # [14] SkillSet:
 # 	Condition: 50% chance (ai:0 rnd:50)
-# 	[0] ESInactivity(66:11784) -> ガシャコンブレイカー
+# 	[0] ESInactivity(66:11784) -> Gashacon Breaker
 # 	Do nothing
-# 	[1] ESSkillDelay(89:11788) -> ハンマーモード
+# 	[1] ESSkillDelay(89:11788) -> Hammer Mode
 # 	Delay active skills by 1 turns, Deal 100% damage
 # [15] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [16] ESSetCounter(25:15) -> ESSetCounter
 # counter = 0
-# [17] ESCloud(104:11778) -> 滞空
+# [17] ESCloud(104:11778) -> Mid-Air
 # 	Condition: 50% chance (ai:0 rnd:50)
 # 2x1 cloud appear for 5 turns at random location
-# [18] ESAbsorbCombo(67:11779) -> 二段ジャンプ
+# [18] ESAbsorbCombo(67:11779) -> Double Jump
 # 	Condition: 50% chance (ai:0 rnd:50)
 # Absorb combo <= 4 damage for 5 turns
 # [19] ESEndPath(36:26) -> ESEndPath
 # end_turn
-# [20] ESAttackUPRemainingEnemies(17:11789) -> ゲインライザー
+# [20] ESAttackUPRemainingEnemies(17:11789) -> Gain Riser
 # 	Condition: One-time use, when <= 1 enemies remain (ai:100 rnd:0) (one-time: 2)
 # Increase damage to 150% for the next 3 turns, Deal 100% damage
 # [21] ESBranchHP(29:19) -> ESBranchHP
 # Branch on hp > 21, target rnd 9
-# [22] ESAbsorbAttribute(53:11790) -> メックビルドガード
+# [22] ESAbsorbAttribute(53:11790) -> Mech Build Guard
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
 # Absorb Fire damage for 3 turns
 # [23] SkillSet:
-# 	[0] ESBoardChange(84:11792) -> ガシャット！キメワザ！
+# 	[0] ESBoardChange(84:11792) -> Gashat! Finishing Move!
 # 	Change all orbs to Fire, Water, Wood, Light, Dark
-# 	[1] ESAttackMultihit(15:11793) -> マイティクリティカルストライク
+# 	[1] ESAttackMultihit(15:11793) -> Multi Critical Strike
 # 	Deal 160% damage (8 hits, 20% each)
 # [24] ESEndPath(36:26) -> ESEndPath
 # end_turn

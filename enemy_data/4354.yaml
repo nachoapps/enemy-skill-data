@@ -41,8 +41,6 @@ records:
   desc_en: Voids status ailments for 999 turns + Void damage >= 15000000 for 999 turns
     + Absorb combo <= 6 damage for 999 turns + Locked Poison skyfall +100% for 20
     turns (Preemptive)
-    + Absorb combo <= 6 damage for 999 turns + Locked Poison skyfall +100% for 20
-    turns (Preemptive)
   max_atk_pct: null
   name_en: Great Protection + Defense of Mother Nature + Grace of Mother Nature +
     Spirit Mischief

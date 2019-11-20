@@ -35,7 +35,7 @@ records:
 ### Unused Actions
 ############################################################
 # ESRecoverEnemyAlly(52:9180) -> Radiance of Regeneration
-# 	Condition: When enemy ally is killed (ai:100 rnd:0)
+# 	Condition: when <= 1 enemies remain (ai:100 rnd:0)
 # Enemy ally recover 100% hp
 ############################################################
 ### ES Modifiers
@@ -63,7 +63,7 @@ records:
 # [7] ESAttackMultihit(15:9181) -> Slash
 # Deal 180% damage
 # [8] ESRecoverEnemyAlly(52:9180) -> Radiance of Regeneration
-# 	Condition: When enemy ally is killed (ai:100 rnd:0)
+# 	Condition: when <= 1 enemies remain (ai:100 rnd:0)
 # Enemy ally recover 100% hp
 # [9] ESAttackMultihit(15:9181) -> Slash
 # Deal 180% damage

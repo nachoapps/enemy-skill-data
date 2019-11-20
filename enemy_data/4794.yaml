@@ -56,7 +56,7 @@ records:
 - !SkillRecord
   desc_en: Bind awoken skills for 5 turns + Player -99% HP
   max_atk_pct: null
-  name_en: Deminishing Fighting Spirit + Vanishing Judgment
+  name_en: Diminishing Fighting Spirit + Vanishing Judgment
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -218,7 +218,7 @@ records:
 # [33] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b11
 # [34] SkillSet:
-# 	[0] ESBindAwoken(88:10791) -> Deminishing Fighting Spirit
+# 	[0] ESBindAwoken(88:10791) -> Diminishing Fighting Spirit
 # 	Bind awoken skills for 5 turns
 # 	[1] ESGravity(50:10792) -> Vanishing Judgment
 # 	Player -99% HP

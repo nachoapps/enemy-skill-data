@@ -40,7 +40,7 @@ records:
 # ESAttackMultihit(15:9171) -> Disorientating Flash
 # Deal 300% damage (3 hits, 100% each)
 # ESRecoverEnemyAlly(52:9172) -> Radiance of Regeneration
-# 	Condition: When enemy ally is killed (ai:100 rnd:0)
+# 	Condition: when <= 1 enemies remain (ai:100 rnd:0)
 # Enemy ally recover 100% hp
 # ESInvulnerableOff(121:9173) -> Augite's Resonance disappeared
 # Remove damage immunity effect
@@ -89,7 +89,7 @@ records:
 # [14] ESBranchCounter(32:22) -> ESBranchCounter
 # Branch on counter > 1, target rnd 17
 # [15] ESRecoverEnemyAlly(52:9172) -> Radiance of Regeneration
-# 	Condition: When enemy ally is killed (ai:100 rnd:0)
+# 	Condition: when <= 1 enemies remain (ai:100 rnd:0)
 # Enemy ally recover 100% hp
 # [16] ESEndPath(36:26) -> ESEndPath
 # end_turn

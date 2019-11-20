@@ -16,8 +16,8 @@ level: 1
 overrides: []
 records:
 - !SkillRecord
-  desc_en: Seal 1st row for 5 turns + Absorb combo <= 6 damage for 999 turns, (if
-    [4796, 4797] on team) (Preemptive)
+  desc_en: Seal 1st row for 5 turns + Absorb combo <= 6 damage for 999 turns (Preemptive),
+    (if [4796, 4797] on team)
   max_atk_pct: null
   name_en: Wait! This is off limits! + What are you doing, stupid Suou?!
   one_time: 0

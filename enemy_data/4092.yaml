@@ -17,14 +17,14 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Lock 4 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
-    Poison orbs, (if [4076, 4077, 4078] on team) (Preemptive)
+    Poison orbs (Preemptive), (if [4076, 4077, 4078] on team)
   max_atk_pct: null
   name_en: Then let it burn, as it demands.
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
 - !SkillRecord
-  desc_en: Lock all Dark orbs, (if [4076, 4077, 4078] on team) (Preemptive)
+  desc_en: Lock all Dark orbs (Preemptive), (if [4076, 4077, 4078] on team)
   max_atk_pct: null
   name_en: Then let it burn, as it demands.
   one_time: 0
@@ -159,9 +159,9 @@ records:
 # [8] ESOrbLock(94:8666) -> I will end your pain.
 # Lock 4 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs
 # [9] ESOrbLock(94:8667) -> Then let it burn, as it demands.
-# Lock all Dark orbs, (if [4076, 4077, 4078] on team)
+# Lock all Dark orbs
 # [10] ESOrbLock(94:8668) -> Then let it burn, as it demands.
-# Lock 4 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, (if [4076, 4077, 4078] on team)
+# Lock 4 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs
 # [11] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [12] ESBranchHP(28:18) -> ESBranchHP

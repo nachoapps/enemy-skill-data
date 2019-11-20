@@ -84,7 +84,7 @@ records:
 # [7] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [8] ESRecoverEnemyAlly(52:9624) -> Stand up!
-# 	Condition: When enemy ally is killed (ai:100 rnd:0) (one-time: 1)
+# 	Condition: One-time use, when <= 1 enemies remain (ai:100 rnd:0) (one-time: 1)
 # Enemy ally recover 100% hp
 # [9] ESSpinnersRandom(109:9625) -> Black Drill
 # 	Condition: 20% chance (ai:20 rnd:0)

@@ -90,7 +90,7 @@ records:
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
 # Absorb combo <= 6 damage for 99 turns
 # [3] ESRecoverEnemyAlly(52:8709) -> Revival Flame
-# 	Condition: When enemy ally is killed (ai:100 rnd:0)
+# 	Condition: when <= 1 enemies remain (ai:100 rnd:0)
 # Enemy ally recover 100% hp
 # [4] ESDispel(6:8710) -> Wave of Nothingness
 # Voids player buff effects

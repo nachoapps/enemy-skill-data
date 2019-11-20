@@ -96,7 +96,7 @@ records:
 # Branch on flag & 1, target rnd 9
 # [6] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b1
-# [7] ESBlind(5:10401) -> Call of Darkness
+# [7] ESBlind(62:10401) -> Call of Darkness
 # Blind all orbs on the board, Deal 100% damage
 # [8] ESEndPath(36:26) -> ESEndPath
 # end_turn

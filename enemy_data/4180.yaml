@@ -18,7 +18,7 @@ records:
 - !SkillRecord
   desc_en: Absorb combo <= 7 damage for 10 turns (Preemptive)
   max_atk_pct: null
-  name_en: 全て…壊す…
+  name_en: Break... everything...
   one_time: 1
   record_type_name: PREEMPT
   usage_pct: 100
@@ -74,7 +74,7 @@ records:
 - !SkillRecord
   desc_en: Deal 20000% damage (10 hits, 2000% each)
   max_atk_pct: 20000
-  name_en: …終わり…だ
+  name_en: This is... the end...
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -92,14 +92,14 @@ records:
 ############################################################
 # [1] ESPreemptive(49:318) -> ESPreemptive
 # Enable preempt if level 1
-# [2] ESAbsorbCombo(67:13321) -> 全て…壊す…
+# [2] ESAbsorbCombo(67:13321) -> Break... everything...
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
 # Absorb combo <= 7 damage for 10 turns
 # [3] ESSetCounterIf(38:177) -> ESSetCounterIf
 # set counter = 4 if counter == 0
 # [4] ESCountdown(37:178) -> ESCountdown
 # countdown
-# [5] ESAttackMultihit(15:13322) -> …終わり…だ
+# [5] ESAttackMultihit(15:13322) -> This is... the end...
 # Deal 20000% damage (10 hits, 2000% each)
 # [6] ESEndPath(36:26) -> ESEndPath
 # end_turn

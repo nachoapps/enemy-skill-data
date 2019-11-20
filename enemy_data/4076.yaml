@@ -16,14 +16,14 @@ level: 1
 overrides: []
 records:
 - !SkillRecord
-  desc_en: Do nothing, (if [4094, 4095] on team) (Preemptive)
+  desc_en: Do nothing (Preemptive), (if [4094, 4095] on team)
   max_atk_pct: null
   name_en: Shall we fight, Benimaru?
   one_time: 1
   record_type_name: PREEMPT
   usage_pct: 100
 - !SkillRecord
-  desc_en: Do nothing, (if [4091, 4092, 4093] on team) (Preemptive)
+  desc_en: Do nothing (Preemptive), (if [4091, 4092, 4093] on team)
   max_atk_pct: null
   name_en: The flames are calling you!
   one_time: 1
@@ -67,10 +67,10 @@ records:
 # Do nothing
 # [9] ESInactivity(66:8627) -> The flames are calling you!
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
-# Do nothing, (if [4091, 4092, 4093] on team)
+# Do nothing
 # [10] ESInactivity(66:8628) -> Shall we fight, Benimaru?
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
-# Do nothing, (if [4094, 4095] on team)
+# Do nothing
 # [11] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [12] SkillSet:

@@ -26,8 +26,6 @@ records:
   desc_en: Voids status ailments for 999 turns + Void damage >= 10000000 for 5 turns
     + Reduce damage from all sources by 99% for 5 turns + Spawn random 9 Heal, Jammer,
     Poison, Mortal Poison orbs (Preemptive)
-    + Reduce damage from all sources by 99% for 5 turns + Spawn random 9 Heal, Jammer,
-    Poison, Mortal Poison orbs (Preemptive)
   max_atk_pct: null
   name_en: Ladies & Gentlemen! + Have fun today! + First of all, this! + Show me your
     best combos!

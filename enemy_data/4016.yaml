@@ -17,10 +17,8 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 20 turns + Voids status ailments
-    for 999 turns + Void damage >= 30000000 for 999 turns, (if [3940, 3941] on team)
-    (Preemptive)
-    for 999 turns + Void damage >= 30000000 for 999 turns, (if [3940, 3941] on team)
-    (Preemptive)
+    for 999 turns + Void damage >= 30000000 for 999 turns (Preemptive), (if [3940,
+    3941] on team)
   max_atk_pct: null
   name_en: '...I loathe Dragon Callers! + Quarryla + Fervor Flame Wings'
   one_time: 2048
@@ -28,10 +26,8 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 20 turns + Voids status ailments
-    for 999 turns + Void damage >= 30000000 for 999 turns, (if [2442, 2443, 3768,
-    3769, 1948, 1949, 2745, 3908] on team) (Preemptive)
-    for 999 turns + Void damage >= 30000000 for 999 turns, (if [2442, 2443, 3768,
-    3769, 1948, 1949, 2745, 3908] on team) (Preemptive)
+    for 999 turns + Void damage >= 30000000 for 999 turns (Preemptive), (if [2442,
+    2443, 3768, 3769, 1948, 1949, 2745, 3908] on team)
   max_atk_pct: null
   name_en: You remind me of the past + Quarryla + Fervor Flame Wings
   one_time: 2048

@@ -17,7 +17,7 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Absorb damage >= 15000000 damage
-    for 99 turns, (if [4802, 4803, 4804, 4805] on team) (Preemptive)
+    for 99 turns (Preemptive), (if [4802, 4803, 4804, 4805] on team)
   max_atk_pct: null
   name_en: Oh, thanks for going through the trouble + YOU came too?
   one_time: 0

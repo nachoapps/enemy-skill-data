@@ -18,7 +18,7 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 10 turns + Delay active skills by 2 turns (Preemptive)
   max_atk_pct: null
-  name_en: 内無双 + 威圧感
+  name_en: Inner-Thigh-Propping Twist Down + Intimidating Air
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -32,7 +32,7 @@ records:
 - !SkillRecord
   desc_en: Player -99% HP
   max_atk_pct: null
-  name_en: 幻の一球
+  name_en: Phantom Ball
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -46,14 +46,14 @@ records:
 - !SkillRecord
   desc_en: Change Random to Water, Deal 100% damage
   max_atk_pct: 100
-  name_en: スライダー
+  name_en: Slider
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
 - !SkillRecord
   desc_en: Change Random to Dark, Deal 100% damage
   max_atk_pct: 100
-  name_en: シンカー
+  name_en: Sinker
   one_time: 0
   record_type_name: ACTION
   usage_pct: 34
@@ -67,21 +67,21 @@ records:
 - !SkillRecord
   desc_en: Player -99% HP
   max_atk_pct: null
-  name_en: 幻の一球
+  name_en: Phantom Ball
   one_time: 1
   record_type_name: ACTION
   usage_pct: 33
 - !SkillRecord
   desc_en: Change Random to Water, Deal 100% damage
   max_atk_pct: 100
-  name_en: スライダー
+  name_en: Slider
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
 - !SkillRecord
   desc_en: Change Random to Dark, Deal 100% damage
   max_atk_pct: 100
-  name_en: シンカー
+  name_en: Sinker
   one_time: 0
   record_type_name: ACTION
   usage_pct: 34
@@ -102,7 +102,7 @@ records:
 - !SkillRecord
   desc_en: Spawn random 9 Dark orbs + Blind all orbs on the board
   max_atk_pct: null
-  name_en: 暗黒の星々 + 黒の先導者
+  name_en: Black Stars + Black Vanguard
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -123,14 +123,14 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 5 turns
   max_atk_pct: null
-  name_en: キミがいてこそ
+  name_en: YOU'RE here
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 300% damage
   max_atk_pct: 300
-  name_en: 暗黒星雲
+  name_en: Gloomy Star Cloud
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -157,9 +157,9 @@ records:
 # [5] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b1
 # [6] SkillSet:
-# 	[0] ESStatusShield(20:10589) -> 内無双
+# 	[0] ESStatusShield(20:10589) -> Inner-Thigh-Propping Twist Down
 # 	Voids status ailments for 10 turns
-# 	[1] ESSkillDelay(89:10590) -> 威圧感
+# 	[1] ESSkillDelay(89:10590) -> Intimidating Air
 # 	Delay active skills by 2 turns
 # [7] ESEndPath(36:26) -> ESEndPath
 # end_turn
@@ -167,7 +167,7 @@ records:
 # Branch on flag & 2, target rnd 12
 # [9] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b11
-# [10] ESGravity(50:10592) -> 幻の一球
+# [10] ESGravity(50:10592) -> Phantom Ball
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
 # Player -99% HP
 # [11] ESEndPath(36:26) -> ESEndPath
@@ -176,13 +176,13 @@ records:
 # Branch on hp < 50, target rnd 18
 # [13] ESBranchHP(28:18) -> ESBranchHP
 # Branch on hp < 20, target rnd 22
-# [14] ESGravity(50:10592) -> 幻の一球
+# [14] ESGravity(50:10592) -> Phantom Ball
 # 	Condition: One-time use (ai:0 rnd:33) (one-time: 1)
 # Player -99% HP
-# [15] ESOrbChangeAttack(48:10608) -> スライダー
+# [15] ESOrbChangeAttack(48:10608) -> Slider
 # 	Condition: 33% chance (ai:0 rnd:33)
 # Change Random to Water, Deal 100% damage
-# [16] ESOrbChangeAttack(48:10611) -> シンカー
+# [16] ESOrbChangeAttack(48:10611) -> Sinker
 # 	Condition: 34% chance (ai:0 rnd:34)
 # Change Random to Dark, Deal 100% damage
 # [17] ESEndPath(36:26) -> ESEndPath
@@ -192,9 +192,9 @@ records:
 # [19] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b111
 # [20] SkillSet:
-# 	[0] ESRandomSpawn(92:10593) -> 暗黒の星々
+# 	[0] ESRandomSpawn(92:10593) -> Black Stars
 # 	Spawn random 9 Dark orbs
-# 	[1] ESBlind(5:10594) -> 黒の先導者
+# 	[1] ESBlind(5:10594) -> Black Vanguard
 # 	Blind all orbs on the board
 # [21] ESEndPath(36:26) -> ESEndPath
 # end_turn
@@ -202,11 +202,11 @@ records:
 # Branch on flag & 8, target rnd 26
 # [23] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b1111
-# [24] ESDamageShield(74:10596) -> キミがいてこそ
+# [24] ESDamageShield(74:10596) -> YOU'RE here
 # Reduce damage from all sources by 50% for 5 turns
 # [25] ESEndPath(36:26) -> ESEndPath
 # end_turn
-# [26] ESBlind(62:10597) -> 暗黒星雲
+# [26] ESBlind(62:10597) -> Gloomy Star Cloud
 # Blind all orbs on the board, Deal 300% damage
 # [27] ESEndPath(36:26) -> ESEndPath
 # end_turn

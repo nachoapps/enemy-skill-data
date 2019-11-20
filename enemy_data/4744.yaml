@@ -26,8 +26,6 @@ records:
   desc_en: Voids status ailments for 999 turns + Locked random skyfall +10% for 15
     turns + Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs (Preemptive)
-    turns + Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
-    Poison orbs (Preemptive)
   max_atk_pct: null
   name_en: Here I go, Máni! + OK, Sól! + Inseparable Sides
   one_time: 0
@@ -50,16 +48,16 @@ records:
   record_type_name: ACTION
   usage_pct: 25
 - !SkillRecord
-  desc_en: Change Random to Heal, Deal 90% damage + Bind 1 random subs for 1 turns, Deal
-    60% damage
+  desc_en: Change Random to Heal, Deal 90% damage + Bind 1 random subs for 1 turns,
+    Deal 60% damage
   max_atk_pct: null
   name_en: Noctilucence + Drought
   one_time: 0
   record_type_name: ACTION
   usage_pct: 25
 - !SkillRecord
-  desc_en: Change Random 3 to Poison, Deal 65% damage + Bind 1 random subs for 1 turns, Deal
-    60% damage
+  desc_en: Change Random 3 to Poison, Deal 65% damage + Bind 1 random subs for 1 turns,
+    Deal 60% damage
   max_atk_pct: null
   name_en: Rotting Heat + Drought
   one_time: 0
@@ -95,8 +93,8 @@ records:
   record_type_name: ACTION
   usage_pct: 25
 - !SkillRecord
-  desc_en: Deal 80% damage (4 hits, 20% each) + Bind 1 random subs for 1 turns, Deal 60%
-    damage
+  desc_en: Deal 80% damage (4 hits, 20% each) + Bind 1 random subs for 1 turns, Deal
+    60% damage
   max_atk_pct: null
   name_en: Synchronized Burst + Drought
   one_time: 1

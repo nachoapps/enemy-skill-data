@@ -18,28 +18,28 @@ records:
 - !SkillRecord
   desc_en: Deal 80% damage (Preemptive)
   max_atk_pct: 80
-  name_en: マイティキック
+  name_en: Mighty Kick
   one_time: 2
   record_type_name: PREEMPT
   usage_pct: 100
 - !SkillRecord
   desc_en: Bind 1 random subs for 1 turns, Deal 80% damage
   max_atk_pct: 80
-  name_en: 回し蹴り
+  name_en: Roundhouse Kick
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
 - !SkillRecord
   desc_en: Deal 90% damage (2 hits, 45% each)
   max_atk_pct: 90
-  name_en: パンチ
+  name_en: Punch
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
 - !SkillRecord
   desc_en: Deal 100% damage
   max_atk_pct: 100
-  name_en: キック
+  name_en: Kick
   one_time: 0
   record_type_name: ACTION
   usage_pct: 34
@@ -60,21 +60,21 @@ records:
 - !SkillRecord
   desc_en: Enemy recover 100% hp
   max_atk_pct: null
-  name_en: アマダムの力
+  name_en: Amadum's Power
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
 - !SkillRecord
   desc_en: Do nothing + Deal 90% damage (2 hits, 45% each)
   max_atk_pct: null
-  name_en: ジャンプ + パンチ
+  name_en: Jump + Punch
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
 - !SkillRecord
   desc_en: Do nothing + Deal 100% damage
   max_atk_pct: null
-  name_en: ジャンプ + キック
+  name_en: Jump + Kick
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -88,7 +88,7 @@ records:
 - !SkillRecord
   desc_en: Deal 150% damage
   max_atk_pct: 150
-  name_en: マイティキック
+  name_en: Mighty Kick
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -110,42 +110,42 @@ records:
 # Branch on level > 4, target rnd 4
 # [3] ESEndPath(36:26) -> ESEndPath
 # end_turn
-# [4] ESAttackMultihit(15:11740) -> マイティキック
+# [4] ESAttackMultihit(15:11740) -> Mighty Kick
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
 # Deal 80% damage
 # [5] ESBranchHP(28:18) -> ESBranchHP
 # Branch on hp < 50, target rnd 10
-# [6] ESBindRandomSub(65:11741) -> 回し蹴り
+# [6] ESBindRandomSub(65:11741) -> Roundhouse Kick
 # 	Condition: 33% chance (ai:0 rnd:33)
 # Bind 1 random subs for 1 turns, Deal 80% damage
-# [7] ESAttackMultihit(15:11742) -> パンチ
+# [7] ESAttackMultihit(15:11742) -> Punch
 # 	Condition: 33% chance (ai:0 rnd:33)
 # Deal 90% damage (2 hits, 45% each)
-# [8] ESAttackMultihit(15:11743) -> キック
+# [8] ESAttackMultihit(15:11743) -> Kick
 # 	Condition: 34% chance (ai:0 rnd:34)
 # Deal 100% damage
 # [9] ESEndPath(36:26) -> ESEndPath
 # end_turn
-# [10] ESRecoverEnemy(86:11744) -> アマダムの力
+# [10] ESRecoverEnemy(86:11744) -> Amadum's Power
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
 # Enemy recover 100% hp
 # [11] ESBranchHP(28:18) -> ESBranchHP
 # Branch on hp < 15, target rnd 15
 # [12] SkillSet:
 # 	Condition: 50% chance (ai:0 rnd:50)
-# 	[0] ESInactivity(66:11747) -> ジャンプ
+# 	[0] ESInactivity(66:11747) -> Jump
 # 	Do nothing
-# 	[1] ESAttackMultihit(15:11742) -> パンチ
+# 	[1] ESAttackMultihit(15:11742) -> Punch
 # 	Deal 90% damage (2 hits, 45% each)
 # [13] SkillSet:
 # 	Condition: 50% chance (ai:0 rnd:50)
-# 	[0] ESInactivity(66:11747) -> ジャンプ
+# 	[0] ESInactivity(66:11747) -> Jump
 # 	Do nothing
-# 	[1] ESAttackMultihit(15:11743) -> キック
+# 	[1] ESAttackMultihit(15:11743) -> Kick
 # 	Deal 100% damage
 # [14] ESEndPath(36:26) -> ESEndPath
 # end_turn
-# [15] ESAttackMultihit(15:11748) -> マイティキック
+# [15] ESAttackMultihit(15:11748) -> Mighty Kick
 # Deal 150% damage
 # [16] ESEndPath(36:26) -> ESEndPath
 # end_turn

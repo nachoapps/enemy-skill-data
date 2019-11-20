@@ -18,7 +18,7 @@ records:
 - !SkillRecord
   desc_en: Player -75% HP (Preemptive)
   max_atk_pct: null
-  name_en: 悪罵の王子
+  name_en: Malice Prince
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -32,7 +32,7 @@ records:
 - !SkillRecord
   desc_en: Change Random to Light, Deal 120% damage
   max_atk_pct: 120
-  name_en: Hシュート
+  name_en: H-Shot
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -46,14 +46,14 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 2 turns, Deal 100% damage
   max_atk_pct: 100
-  name_en: 重い球
+  name_en: Heavy Ball
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
 - !SkillRecord
   desc_en: Delay active skills by 2 turns, Deal 100% damage
   max_atk_pct: 100
-  name_en: 荒れ球
+  name_en: Wild Ball
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -67,7 +67,7 @@ records:
 - !SkillRecord
   desc_en: Specific orbs change every 2.0s for 1 turns, Deal 150% damage
   max_atk_pct: 150
-  name_en: エクスカリバー！！！
+  name_en: Excalibur!!!
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -93,24 +93,24 @@ records:
 # Branch on flag & 1, target rnd 8
 # [5] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b1
-# [6] ESGravity(50:10584) -> 悪罵の王子
+# [6] ESGravity(50:10584) -> Malice Prince
 # Player -75% HP
 # [7] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [8] ESBranchHP(28:18) -> ESBranchHP
 # Branch on hp < 10, target rnd 13
-# [9] ESOrbChangeAttack(48:10586) -> Hシュート
+# [9] ESOrbChangeAttack(48:10586) -> H-Shot
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
 # Change Random to Light, Deal 120% damage
-# [10] ESDamageShield(74:10585) -> 重い球
+# [10] ESDamageShield(74:10585) -> Heavy Ball
 # 	Condition: 50% chance (ai:0 rnd:50)
 # Reduce damage from all sources by 50% for 2 turns, Deal 100% damage
-# [11] ESSkillDelay(89:10587) -> 荒れ球
+# [11] ESSkillDelay(89:10587) -> Wild Ball
 # 	Condition: 50% chance (ai:0 rnd:50)
 # Delay active skills by 2 turns, Deal 100% damage
 # [12] ESEndPath(36:26) -> ESEndPath
 # end_turn
-# [13] ESSpinnersFixed(110:10588) -> エクスカリバー！！！
+# [13] ESSpinnersFixed(110:10588) -> Excalibur!!!
 # Specific orbs change every 2.0s for 1 turns, Deal 150% damage
 # [14] ESEndPath(36:26) -> ESEndPath
 # end_turn

@@ -18,7 +18,7 @@ records:
 - !SkillRecord
   desc_en: Bind 2 random subs for 2 turns (Preemptive)
   max_atk_pct: null
-  name_en: Ｖ３電熱チョップ
+  name_en: V3 Electric Heat Chop
   one_time: 2
   record_type_name: PREEMPT
   usage_pct: 100
@@ -32,21 +32,21 @@ records:
 - !SkillRecord
   desc_en: Deal 95% damage
   max_atk_pct: 95
-  name_en: Ｖ３チョップ
+  name_en: V3 Chop
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
 - !SkillRecord
   desc_en: Deal 100% damage
   max_atk_pct: 100
-  name_en: Ｖ３パンチ
+  name_en: V3 Punch
   one_time: 0
   record_type_name: ACTION
   usage_pct: 34
 - !SkillRecord
   desc_en: Deal 105% damage (3 hits, 35% each)
   max_atk_pct: 105
-  name_en: ハリケーンラストダッシュ
+  name_en: Hurricane Last Dash
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -60,7 +60,7 @@ records:
 - !SkillRecord
   desc_en: Deal 60% damage + Deal 60% damage
   max_atk_pct: null
-  name_en: Ｖ３キック + Ｖ３反転キック
+  name_en: V3 Kick + V3 Reverse Kick
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -74,21 +74,21 @@ records:
 - !SkillRecord
   desc_en: Deal 95% damage
   max_atk_pct: 95
-  name_en: Ｖ３チョップ
+  name_en: V3 Chop
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
 - !SkillRecord
   desc_en: Deal 100% damage
   max_atk_pct: 100
-  name_en: Ｖ３パンチ
+  name_en: V3 Punch
   one_time: 0
   record_type_name: ACTION
   usage_pct: 34
 - !SkillRecord
   desc_en: Deal 105% damage (3 hits, 35% each)
   max_atk_pct: 105
-  name_en: ハリケーンラストダッシュ
+  name_en: Hurricane Last Dash
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -103,7 +103,7 @@ records:
   desc_en: Deal 60% damage + Random 2 orbs change every 1.0s for 1 turns, Deal 60%
     damage
   max_atk_pct: null
-  name_en: Ｖ３きりもみキック + Ｖ３きりもみ反転キック
+  name_en: V3 Corkscrew Kick + V3 Reverse Corkscrew Kick
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -124,21 +124,21 @@ records:
 - !SkillRecord
   desc_en: Deal 95% damage
   max_atk_pct: 95
-  name_en: Ｖ３チョップ
+  name_en: V3 Chop
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
 - !SkillRecord
   desc_en: Deal 100% damage
   max_atk_pct: 100
-  name_en: Ｖ３パンチ
+  name_en: V3 Punch
   one_time: 0
   record_type_name: ACTION
   usage_pct: 34
 - !SkillRecord
   desc_en: Deal 105% damage (3 hits, 35% each)
   max_atk_pct: 105
-  name_en: ハリケーンラストダッシュ
+  name_en: Hurricane Last Dash
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
@@ -152,7 +152,7 @@ records:
 - !SkillRecord
   desc_en: Deal 180% damage (3 hits, 60% each)
   max_atk_pct: 180
-  name_en: Ｖ３きりもみ回転３段キック
+  name_en: V3 Reverse Rotation Corkscrew Kick
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -173,7 +173,7 @@ records:
 - !SkillRecord
   desc_en: Player -99% HP
   max_atk_pct: null
-  name_en: レッドボーン・リング
+  name_en: Red Bone Ring
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -195,14 +195,14 @@ records:
   desc_en: Increase damage to 200% for the next 1 turns + Reduce damage from all sources
     by 50% for 1 turns
   max_atk_pct: null
-  name_en: レッドボーンパワー + レッドランプパワー
+  name_en: Red Bone Power + Red Lamp Power
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 100% damage (2 hits, 50% each)
   max_atk_pct: 100
-  name_en: Ｖ３回転ダブルキック
+  name_en: V3 Double Rotation Kick
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -224,7 +224,7 @@ records:
 # Branch on level > 4, target rnd 4
 # [3] ESEndPath(36:26) -> ESEndPath
 # end_turn
-# [4] ESBindRandomSub(65:11696) -> Ｖ３電熱チョップ
+# [4] ESBindRandomSub(65:11696) -> V3 Electric Heat Chop
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
 # Bind 2 random subs for 2 turns
 # [5] ESBranchHP(28:18) -> ESBranchHP
@@ -239,13 +239,13 @@ records:
 # Branch on counter = 3, target rnd 19
 # [10] ESBranchHP(28:18) -> ESBranchHP
 # Branch on hp < 50, target rnd 15
-# [11] ESAttackMultihit(15:11697) -> Ｖ３チョップ
+# [11] ESAttackMultihit(15:11697) -> V3 Chop
 # 	Condition: 33% chance (ai:0 rnd:33)
 # Deal 95% damage
-# [12] ESAttackMultihit(15:11698) -> Ｖ３パンチ
+# [12] ESAttackMultihit(15:11698) -> V3 Punch
 # 	Condition: 34% chance (ai:0 rnd:34)
 # Deal 100% damage
-# [13] ESAttackMultihit(15:11699) -> ハリケーンラストダッシュ
+# [13] ESAttackMultihit(15:11699) -> Hurricane Last Dash
 # 	Condition: 33% chance (ai:0 rnd:33)
 # Deal 105% damage (3 hits, 35% each)
 # [14] ESEndPath(36:26) -> ESEndPath
@@ -254,33 +254,33 @@ records:
 # Branch on flag & 1, target rnd 11
 # [16] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b1
-# [17] ESGravity(50:11700) -> レッドボーン・リング
+# [17] ESGravity(50:11700) -> Red Bone Ring
 # Player -99% HP
 # [18] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [19] SkillSet:
-# 	[0] ESAttackMultihit(15:11702) -> Ｖ３キック
+# 	[0] ESAttackMultihit(15:11702) -> V3 Kick
 # 	Deal 60% damage
-# 	[1] ESAttackMultihit(15:11703) -> Ｖ３反転キック
+# 	[1] ESAttackMultihit(15:11703) -> V3 Reverse Kick
 # 	Deal 60% damage
 # [20] SkillSet:
-# 	[0] ESAttackMultihit(15:11705) -> Ｖ３きりもみキック
+# 	[0] ESAttackMultihit(15:11705) -> V3 Corkscrew Kick
 # 	Deal 60% damage
-# 	[1] ESSpinnersRandom(109:11706) -> Ｖ３きりもみ反転キック
+# 	[1] ESSpinnersRandom(109:11706) -> V3 Reverse Corkscrew Kick
 # 	Random 2 orbs change every 1.0s for 1 turns, Deal 60% damage
 # [21] ESSetCounter(25:15) -> ESSetCounter
 # counter = 6
-# [22] ESAttackMultihit(15:11707) -> Ｖ３きりもみ回転３段キック
+# [22] ESAttackMultihit(15:11707) -> V3 Reverse Rotation Corkscrew Kick
 # Deal 180% damage (3 hits, 60% each)
 # [23] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [24] SkillSet:
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
-# 	[0] ESAttackUPRemainingEnemies(17:11709) -> レッドボーンパワー
+# 	[0] ESAttackUPRemainingEnemies(17:11709) -> Red Bone Power
 # 	Increase damage to 200% for the next 1 turns
-# 	[1] ESDamageShield(74:11710) -> レッドランプパワー
+# 	[1] ESDamageShield(74:11710) -> Red Lamp Power
 # 	Reduce damage from all sources by 50% for 1 turns
-# [25] ESAttackMultihit(15:11711) -> Ｖ３回転ダブルキック
+# [25] ESAttackMultihit(15:11711) -> V3 Double Rotation Kick
 # Deal 100% damage (2 hits, 50% each)
 # [26] ESEndPath(36:26) -> ESEndPath
 # end_turn
