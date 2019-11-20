@@ -181,7 +181,7 @@ records:
 # [13] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b11
 # [14] ESRecoverPlayer(55:3329) -> My friend! How've you been?
-# Player recover 100% hp, (if [374, 375, 655, 1347] on team)
+# Player recover 100% hp
 # [15] ESBranchFlag(43:10) -> ESBranchFlag
 # Branch on flag & 4, target rnd 8
 # [16] ESFlagOperation(22:12) -> ESFlagOperation

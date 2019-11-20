@@ -3,8 +3,8 @@
 ############################################################
 !EntryInfo
 comments: null
-monster_id: 501595
-monster_name_en: Dark Insect Dragon, Mutecocoon
+monster_id: 500684
+monster_name_en: King Flamie
 reviewed_by: unreviewed
 warnings: []
 
@@ -16,13 +16,6 @@ level: 1
 overrides: []
 records:
 - !SkillRecord
-  desc_en: Do nothing
-  max_atk_pct: null
-  name_en: '......'
-  one_time: 0
-  record_type_name: ACTION
-  usage_pct: 100
-- !SkillRecord
   desc_en: ''
   max_atk_pct: null
   name_en: On death
@@ -30,9 +23,10 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Bind 1 own leader for 8 turns + Delay active skills by 3 turns
+  desc_en: Player -80% HP + Delay active skills by 5 turns + Change all orbs to Fire,
+    Water, Wood, Light, Dark
   max_atk_pct: null
-  name_en: Wing Scale's Curse + The Void's Empty Shell
+  name_en: Explosion + Bomb Blast + Scattering Board
   one_time: 0
   record_type_name: ACTION
   usage_pct: 0
@@ -40,7 +34,7 @@ records:
 ############################################################
 ### ES Modifiers
 ############################################################
-# [9] 5 - monster size?
+# [9] 2 - monster size?
 # [52] true - use new AI
 # [53] 0 - starting/max counter
 # [54] 0 - counter increment
@@ -48,9 +42,7 @@ records:
 ############################################################
 ### Raw Behavior
 ############################################################
-# [1] ESInactivity(66:14530) -> ......
-# Do nothing
-# [2] SkillSet:
+# [1] SkillSet:
 # 	Condition: On death (ai:0 rnd:0)
-# 	[0] ESSkillSet(83:14539) -> Wing Scale's Curse + The Void's Empty Shell
-# 	Bind 1 own leader for 8 turns + Delay active skills by 3 turns
+# 	[0] ESSkillSet(83:13956) -> Explosion + Bomb Blast + Scattering Board
+# 	Player -80% HP + Delay active skills by 5 turns + Change all orbs to Fire, Water, Wood, Light, Dark

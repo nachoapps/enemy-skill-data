@@ -6,8 +6,7 @@ comments: null
 monster_id: 3751
 monster_name_en: Awoken Cronus
 reviewed_by: unreviewed
-warnings:
-- Found 1 unused actions
+warnings: []
 
 ############################################################
 ### Data @ 1
@@ -20,7 +19,7 @@ records:
   desc_en: Voids status ailments for 999 turns + Absorb combo <= 6 damage for 1 turns
     + Movetime 25% for 1 turns (Preemptive)
   max_atk_pct: null
-  name_en: 乗り越えてみろ + 王の試練 + 王の勅令
+  name_en: Get over it! + King's Test + King's Edict
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -41,28 +40,70 @@ records:
 - !SkillRecord
   desc_en: Bind awoken skills for 10 turns
   max_atk_pct: null
-  name_en: その程度か？
+  name_en: That's it?
   one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Execute repeatedly. Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Change Jammer to Wood, Deal 150% damage
+  max_atk_pct: 150
+  name_en: Trash Shift
+  one_time: 2
   record_type_name: ACTION
   usage_pct: 100
 - !SkillRecord
   desc_en: Change 3rd row to Wood, Jammer orbs, Deal 95% damage
   max_atk_pct: 95
-  name_en: ジャッジメントアダマス
+  name_en: Adamant Judgment
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
 - !SkillRecord
   desc_en: Delay active skills by 2 turns, Deal 100% damage
   max_atk_pct: 100
-  name_en: ブレイクスワロー
+  name_en: Breaking Swallow
   one_time: 0
   record_type_name: ACTION
   usage_pct: 33
 - !SkillRecord
   desc_en: Deal 110% damage (2 hits, 55% each)
   max_atk_pct: 110
-  name_en: キラーサイズ
+  name_en: Killer Size
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 34
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Loop to 1 after. Turn 2-3
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Change 3rd row to Wood, Jammer orbs, Deal 95% damage
+  max_atk_pct: 95
+  name_en: Adamant Judgment
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 33
+- !SkillRecord
+  desc_en: Delay active skills by 2 turns, Deal 100% damage
+  max_atk_pct: 100
+  name_en: Breaking Swallow
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 33
+- !SkillRecord
+  desc_en: Deal 110% damage (2 hits, 55% each)
+  max_atk_pct: 110
+  name_en: Killer Size
   one_time: 0
   record_type_name: ACTION
   usage_pct: 34
@@ -83,7 +124,7 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 75% for 10 turns
   max_atk_pct: null
-  name_en: 少しはできるようだな
+  name_en: Looks like you're starting to get it
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -104,7 +145,7 @@ records:
 - !SkillRecord
   desc_en: Locked random skyfall +20% for 10 turns + Jammer skyfall +15% for 10 turns
   max_atk_pct: null
-  name_en: 少し物足りないな + これで楽しめそうだな
+  name_en: Well, that wasn't enough + You can have fun with this
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -125,31 +166,25 @@ records:
 - !SkillRecord
   desc_en: Bind awoken skills for 1 turns + Change player HP to 1000 for 1 turns
   max_atk_pct: null
-  name_en: もう十分だ + 終わらせよう
+  name_en: That's enough + Let's finish this!
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 320% damage (4 hits, 80% each)
   max_atk_pct: 320
-  name_en: バニッシュメントアダマス
+  name_en: Adamant Punishment
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
 
 ############################################################
-### Unused Actions
-############################################################
-# ESOrbChangeAttackBits(108:13472) -> トラッシュシフト
-# 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
-# Change Jammer to , Deal 150% damage
-############################################################
 ### ES Modifiers
 ############################################################
 # [9] 5 - monster size?
-# [52] false - use new AI
-# [53] 0 - starting/max counter
-# [54] 0 - counter increment
+# [52] true - use new AI
+# [53] 2 - starting/max counter
+# [54] 1 - counter increment
 #
 ############################################################
 ### Raw Behavior
@@ -161,11 +196,11 @@ records:
 # [3] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b1
 # [4] SkillSet:
-# 	[0] ESStatusShield(20:13464) -> 乗り越えてみろ
+# 	[0] ESStatusShield(20:13464) -> Get over it!
 # 	Voids status ailments for 999 turns
-# 	[1] ESAbsorbCombo(67:13465) -> 王の試練
+# 	[1] ESAbsorbCombo(67:13465) -> King's Test
 # 	Absorb combo <= 6 damage for 1 turns
-# 	[2] ESDebuffMovetime(39:13466) -> 王の勅令
+# 	[2] ESDebuffMovetime(39:13466) -> King's Edict
 # 	Movetime 25% for 1 turns
 # [5] ESEndPath(36:26) -> ESEndPath
 # end_turn
@@ -175,9 +210,9 @@ records:
 # flag SET 0b11
 # [8] ESBranchHP(29:19) -> ESBranchHP
 # Branch on hp > 100, target rnd 10
-# [9] ESDamageShield(74:13468) -> 少しはできるようだな
+# [9] ESDamageShield(74:13468) -> Looks like you're starting to get it
 # Reduce damage from all sources by 75% for 10 turns
-# [10] ESBindAwoken(88:13467) -> その程度か？
+# [10] ESBindAwoken(88:13467) -> That's it?
 # Bind awoken skills for 10 turns
 # [11] ESEndPath(36:26) -> ESEndPath
 # end_turn
@@ -185,16 +220,16 @@ records:
 # Branch on hp < 20, target rnd 23
 # [13] ESBranchHP(28:18) -> ESBranchHP
 # Branch on hp < 50, target rnd 19
-# [14] ESOrbChangeAttackBits(108:13472) -> トラッシュシフト
+# [14] ESOrbChangeAttackBits(108:13472) -> Trash Shift
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
-# Change Jammer to , Deal 150% damage
-# [15] ESRowSpawnMulti(79:13473) -> ジャッジメントアダマス
+# Change Jammer to Wood, Deal 150% damage
+# [15] ESRowSpawnMulti(79:13473) -> Adamant Judgment
 # 	Condition: 33% chance (ai:0 rnd:33)
 # Change 3rd row to Wood, Jammer orbs, Deal 95% damage
-# [16] ESSkillDelay(89:13474) -> ブレイクスワロー
+# [16] ESSkillDelay(89:13474) -> Breaking Swallow
 # 	Condition: 33% chance (ai:0 rnd:33)
 # Delay active skills by 2 turns, Deal 100% damage
-# [17] ESAttackMultihit(15:13475) -> キラーサイズ
+# [17] ESAttackMultihit(15:13475) -> Killer Size
 # 	Condition: 34% chance (ai:0 rnd:34)
 # Deal 110% damage (2 hits, 55% each)
 # [18] ESEndPath(36:26) -> ESEndPath
@@ -204,9 +239,9 @@ records:
 # [20] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b111
 # [21] SkillSet:
-# 	[0] ESSkyfall(96:13470) -> 少し物足りないな
+# 	[0] ESSkyfall(96:13470) -> Well, that wasn't enough
 # 	Locked random skyfall +20% for 10 turns
-# 	[1] ESSkyfall(68:13471) -> これで楽しめそうだな
+# 	[1] ESSkyfall(68:13471) -> You can have fun with this
 # 	Jammer skyfall +15% for 10 turns
 # [22] ESEndPath(36:26) -> ESEndPath
 # end_turn
@@ -215,13 +250,13 @@ records:
 # [24] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b1111
 # [25] SkillSet:
-# 	[0] ESBindAwoken(88:13477) -> もう十分だ
+# 	[0] ESBindAwoken(88:13477) -> That's enough
 # 	Bind awoken skills for 1 turns
-# 	[1] ESMaxHPChange(111:13478) -> 終わらせよう
+# 	[1] ESMaxHPChange(111:13478) -> Let's finish this!
 # 	Change player HP to 1000 for 1 turns
 # [26] ESEndPath(36:26) -> ESEndPath
 # end_turn
-# [27] ESAttackMultihit(15:13479) -> バニッシュメントアダマス
+# [27] ESAttackMultihit(15:13479) -> Adamant Punishment
 # Deal 320% damage (4 hits, 80% each)
 # [28] ESEndPath(36:26) -> ESEndPath
 # end_turn

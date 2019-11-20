@@ -16,8 +16,8 @@ level: 1
 overrides: []
 records:
 - !SkillRecord
-  desc_en: Reduce damage from all sources by 80% for 1 turns + Bind 1 random cards for 5
-    turns, Deal 120% damage (Preemptive)
+  desc_en: Reduce damage from all sources by 80% for 1 turns + Bind 1 random cards
+    for 5 turns, Deal 120% damage (Preemptive)
   max_atk_pct: null
   name_en: Garment of Protection + Gungnir
   one_time: 0
@@ -31,8 +31,8 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Reduce damage from all sources by 80% for 1 turns + Bind 1 random cards for 5
-    turns, Deal 120% damage
+  desc_en: Reduce damage from all sources by 80% for 1 turns + Bind 1 random cards
+    for 5 turns, Deal 120% damage
   max_atk_pct: null
   name_en: Garment of Protection + Gungnir
   one_time: 0

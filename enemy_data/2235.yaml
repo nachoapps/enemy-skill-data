@@ -60,6 +60,13 @@ records:
   record_type_name: ACTION
   usage_pct: 100
 - !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 2
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
   desc_en: Change Jammer to Fire, Deal 3000% damage
   max_atk_pct: 3000
   name_en: Rubble Incineration
@@ -83,7 +90,7 @@ records:
 - !SkillRecord
   desc_en: ''
   max_atk_pct: null
-  name_en: Loop to 1 after. Turn 2
+  name_en: Loop to 1 after. Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -139,6 +146,13 @@ records:
   record_type_name: ACTION
   usage_pct: 100
 - !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Execute repeatedly. Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
   desc_en: Change Jammer to Fire, Deal 3000% damage
   max_atk_pct: 3000
   name_en: Rubble Incineration
@@ -162,7 +176,7 @@ records:
 - !SkillRecord
   desc_en: ''
   max_atk_pct: null
-  name_en: Execute repeatedly. Turn 1
+  name_en: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -177,7 +191,7 @@ records:
 - !SkillRecord
   desc_en: ''
   max_atk_pct: null
-  name_en: Loop to 1 after. Turn 2
+  name_en: Loop to 1 after. Turn 3
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -200,27 +214,6 @@ records:
   desc_en: Change Random 3 to Jammer, Deal 800% damage
   max_atk_pct: 800
   name_en: Wall Burst
-  one_time: 0
-  record_type_name: ACTION
-  usage_pct: 100
-- !SkillRecord
-  desc_en: Change Jammer to Fire, Deal 3000% damage
-  max_atk_pct: 3000
-  name_en: Rubble Incineration
-  one_time: 0
-  record_type_name: ACTION
-  usage_pct: 100
-- !SkillRecord
-  desc_en: Lock all Fire, Light orbs, Deal 700% damage
-  max_atk_pct: 700
-  name_en: Constant Grimness
-  one_time: 0
-  record_type_name: ACTION
-  usage_pct: 100
-- !SkillRecord
-  desc_en: Deal 750%~1250% damage (3~5 hits, 250% each)
-  max_atk_pct: 1250
-  name_en: Thrust Combination
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -278,27 +271,6 @@ records:
   desc_en: Change Random 3 to Jammer, Deal 800% damage
   max_atk_pct: 800
   name_en: Wall Burst
-  one_time: 0
-  record_type_name: ACTION
-  usage_pct: 100
-- !SkillRecord
-  desc_en: Change Jammer to Fire, Deal 3000% damage
-  max_atk_pct: 3000
-  name_en: Rubble Incineration
-  one_time: 0
-  record_type_name: ACTION
-  usage_pct: 100
-- !SkillRecord
-  desc_en: Lock all Fire, Light orbs, Deal 700% damage
-  max_atk_pct: 700
-  name_en: Constant Grimness
-  one_time: 0
-  record_type_name: ACTION
-  usage_pct: 100
-- !SkillRecord
-  desc_en: Deal 750%~1250% damage (3~5 hits, 250% each)
-  max_atk_pct: 1250
-  name_en: Thrust Combination
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -376,7 +348,7 @@ records:
 # [10] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b11
 # [11] ESBindAttribute(2:4001) -> Revenge Full of Hatred
-# 	Condition: When < 70% hp (ai:100 rnd:0) (one-time only)
+# 	Condition: When < 70% hp , one-time use (ai:100 rnd:0) (one-time only)
 # Bind Water cards for 5 turns
 # [12] ESBindAttack(63:3994) -> Trembling Lance
 # 	Condition: 20% chance (ai:20 rnd:0)
@@ -406,5 +378,5 @@ records:
 # 	Absorb Fire damage for 1 turns
 # 	[1] ESColumnSpawnMulti(77:3999) -> Wall Eruption
 # 	Change 1st, 3rd, 4th, 6th column to Fire orbs, Deal 1500% damage
-# [22] ESResolve(73:3989) -> ****
+# [22] ESResolve(73:3989) -> アレス根性
 # Survive attacks with 1 HP when HP > 50%

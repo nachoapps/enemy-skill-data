@@ -68,7 +68,7 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
-    orbs + Movetime -4s for 5 turns
+    orbs + Movetime -4s for 5 turns, Deal 100% damage
   max_atk_pct: 100
   name_en: This just became interesting! + Can you still fight?
   one_time: 0

@@ -68,8 +68,6 @@ records:
   desc_en: Increase damage to 200% for the next 999 turns + Reduce damage from all
     sources by 50% for 1 turns + Voids status ailments for 999 turns + Do nothing
     + Deal 120% damage
-    sources by 50% for 1 turns + Voids status ailments for 999 turns + Do nothing
-    + Deal 120% damage
   max_atk_pct: null
   name_en: I suppose I misjudged! + Fighting all four of you... + ...is just too tough
     for me... + ...NOT! Ha, I lied! Like a rug! Oh, I kill me! + Jump

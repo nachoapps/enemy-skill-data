@@ -37,13 +37,6 @@ records:
   record_type_name: ACTION
   usage_pct: 100
 - !SkillRecord
-  desc_en: Change Random to Jammer, Deal 100% damage
-  max_atk_pct: 100
-  name_en: Despairing Lament
-  one_time: 0
-  record_type_name: ACTION
-  usage_pct: 100
-- !SkillRecord
   desc_en: ''
   max_atk_pct: null
   name_en: Turn 2
@@ -51,9 +44,9 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Deal 150% damage (5 hits, 30% each)
-  max_atk_pct: 150
-  name_en: Fires of Deicide
+  desc_en: Change Random to Jammer, Deal 100% damage
+  max_atk_pct: 100
+  name_en: Despairing Lament
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -65,16 +58,9 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Change Random 8 to Poison
-  max_atk_pct: null
-  name_en: An Invitation to Corruption
-  one_time: 0
-  record_type_name: ACTION
-  usage_pct: 100
-- !SkillRecord
-  desc_en: Change Random to Jammer, Deal 100% damage
-  max_atk_pct: 100
-  name_en: Despairing Lament
+  desc_en: Deal 150% damage (5 hits, 30% each)
+  max_atk_pct: 150
+  name_en: Fires of Deicide
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -86,9 +72,9 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Deal 150% damage (5 hits, 30% each)
-  max_atk_pct: 150
-  name_en: Fires of Deicide
+  desc_en: Change Random 8 to Poison
+  max_atk_pct: null
+  name_en: An Invitation to Corruption
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -99,13 +85,6 @@ records:
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
-- !SkillRecord
-  desc_en: Change Random 8 to Poison
-  max_atk_pct: null
-  name_en: An Invitation to Corruption
-  one_time: 0
-  record_type_name: ACTION
-  usage_pct: 100
 - !SkillRecord
   desc_en: Change Random to Jammer, Deal 100% damage
   max_atk_pct: 100
@@ -142,13 +121,6 @@ records:
   record_type_name: ACTION
   usage_pct: 100
 - !SkillRecord
-  desc_en: Change Random to Jammer, Deal 100% damage
-  max_atk_pct: 100
-  name_en: Despairing Lament
-  one_time: 0
-  record_type_name: ACTION
-  usage_pct: 100
-- !SkillRecord
   desc_en: ''
   max_atk_pct: null
   name_en: Turn 8
@@ -156,9 +128,9 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Deal 150% damage (5 hits, 30% each)
-  max_atk_pct: 150
-  name_en: Fires of Deicide
+  desc_en: Change Random to Jammer, Deal 100% damage
+  max_atk_pct: 100
+  name_en: Despairing Lament
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -170,16 +142,9 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Change Random 8 to Poison
-  max_atk_pct: null
-  name_en: An Invitation to Corruption
-  one_time: 0
-  record_type_name: ACTION
-  usage_pct: 100
-- !SkillRecord
-  desc_en: Change Random to Jammer, Deal 100% damage
-  max_atk_pct: 100
-  name_en: Despairing Lament
+  desc_en: Deal 150% damage (5 hits, 30% each)
+  max_atk_pct: 150
+  name_en: Fires of Deicide
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -191,9 +156,9 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Deal 150% damage (5 hits, 30% each)
-  max_atk_pct: 150
-  name_en: Fires of Deicide
+  desc_en: Change Random 8 to Poison
+  max_atk_pct: null
+  name_en: An Invitation to Corruption
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -226,13 +191,6 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Change Random 8 to Poison
-  max_atk_pct: null
-  name_en: An Invitation to Corruption
-  one_time: 0
-  record_type_name: ACTION
-  usage_pct: 100
-- !SkillRecord
   desc_en: Change Random to Jammer, Deal 100% damage
   max_atk_pct: 100
   name_en: Despairing Lament
@@ -242,7 +200,7 @@ records:
 - !SkillRecord
   desc_en: ''
   max_atk_pct: null
-  name_en: Loop to 1 after. Turn 2
+  name_en: Turn 2
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
@@ -250,6 +208,20 @@ records:
   desc_en: Deal 150% damage (5 hits, 30% each)
   max_atk_pct: 150
   name_en: Fires of Deicide
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Loop to 1 after. Turn 3
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Change Random 8 to Poison
+  max_atk_pct: null
+  name_en: An Invitation to Corruption
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -278,13 +250,6 @@ records:
   desc_en: Change Random 8 to Poison
   max_atk_pct: null
   name_en: An Invitation to Corruption
-  one_time: 0
-  record_type_name: ACTION
-  usage_pct: 100
-- !SkillRecord
-  desc_en: Change Random to Jammer, Deal 100% damage
-  max_atk_pct: 100
-  name_en: Despairing Lament
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100

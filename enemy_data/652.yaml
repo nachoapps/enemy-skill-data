@@ -195,4 +195,4 @@ records:
 # [14] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b11
 # [15] ESRecoverPlayer(55:3274) -> I'm always on your side!
-# Player recover 100% hp, (if [372, 373, 654, 1346] on team)
+# Player recover 100% hp

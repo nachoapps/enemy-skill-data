@@ -4,7 +4,7 @@
 !EntryInfo
 comments: null
 monster_id: 2485
-monster_name_en: Incarnation of Evil, Hakumen no Mono
+monster_name_en: 邪悪の化身・白面の者
 reviewed_by: unreviewed
 warnings: []
 
@@ -230,7 +230,7 @@ records:
 # [23] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b11
 # [24] ESBlind(5:3502) -> Hate...more...
-# Blind all orbs on the board, (if [2464, 2465] on team)
+# Blind all orbs on the board
 # [25] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [26] SkillSet:

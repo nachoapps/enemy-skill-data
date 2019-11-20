@@ -103,9 +103,8 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Change 2nd row to Water, Jammer orbs, 4th row to Water, Jammer orbs, Deal
-    100% damage
-  max_atk_pct: 100
+  desc_en: Change 2nd row to Water, Jammer orbs, 4th row to Water, Jammer orbs
+  max_atk_pct: null
   name_en: How about this?
   one_time: 1
   record_type_name: ACTION
@@ -139,9 +138,8 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Change 2nd row to Water, Jammer orbs, 4th row to Water, Jammer orbs, Deal
-    100% damage
-  max_atk_pct: 100
+  desc_en: Change 2nd row to Water, Jammer orbs, 4th row to Water, Jammer orbs
+  max_atk_pct: null
   name_en: How about this?
   one_time: 1
   record_type_name: ACTION
@@ -175,9 +173,8 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Change 2nd row to Water, Jammer orbs, 4th row to Water, Jammer orbs, Deal
-    100% damage
-  max_atk_pct: 100
+  desc_en: Change 2nd row to Water, Jammer orbs, 4th row to Water, Jammer orbs
+  max_atk_pct: null
   name_en: How about this?
   one_time: 1
   record_type_name: ACTION
@@ -211,9 +208,8 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Change 2nd row to Water, Jammer orbs, 4th row to Water, Jammer orbs, Deal
-    100% damage
-  max_atk_pct: 100
+  desc_en: Change 2nd row to Water, Jammer orbs, 4th row to Water, Jammer orbs
+  max_atk_pct: null
   name_en: How about this?
   one_time: 1
   record_type_name: ACTION
@@ -261,9 +257,8 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Change 2nd row to Water, Jammer orbs, 4th row to Water, Jammer orbs, Deal
-    100% damage
-  max_atk_pct: 100
+  desc_en: Change 2nd row to Water, Jammer orbs, 4th row to Water, Jammer orbs
+  max_atk_pct: null
   name_en: How about this?
   one_time: 1
   record_type_name: ACTION
@@ -297,9 +292,8 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Change 2nd row to Water, Jammer orbs, 4th row to Water, Jammer orbs, Deal
-    100% damage
-  max_atk_pct: 100
+  desc_en: Change 2nd row to Water, Jammer orbs, 4th row to Water, Jammer orbs
+  max_atk_pct: null
   name_en: How about this?
   one_time: 1
   record_type_name: ACTION
@@ -354,17 +348,15 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Change 2nd column to Water, Jammer orbs, 5th column to Water, Jammer orbs,
-    Deal 300% damage
-  max_atk_pct: 300
+  desc_en: Change 2nd column to Water, Jammer orbs, 5th column to Water, Jammer orbs
+  max_atk_pct: null
   name_en: Binding Azure Bladewings
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
 - !SkillRecord
-  desc_en: Change 2nd column to Water, Jammer orbs, 5th column to Water, Jammer orbs,
-    Deal 300% damage
-  max_atk_pct: 300
+  desc_en: Change 2nd column to Water, Jammer orbs, 5th column to Water, Jammer orbs
+  max_atk_pct: null
   name_en: Binding Azure Bladewings
   one_time: 0
   record_type_name: ACTION
@@ -427,7 +419,7 @@ records:
 # end_turn
 # [20] ESRowSpawnMulti(78:9082) -> How about this?
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
-# Change 2nd row to Water, Jammer orbs, 4th row to Water, Jammer orbs, Deal 100% damage
+# Change 2nd row to Water, Jammer orbs, 4th row to Water, Jammer orbs
 # [21] ESSpinnersRandom(109:9081) -> Blue Metal Flash
 # 	Condition: 50% chance (ai:50 rnd:0)
 # Random 3 orbs change every 1.0s for 2 turns, Deal 90% damage
@@ -444,7 +436,7 @@ records:
 # [27] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [28] ESColumnSpawnMulti(76:9090) -> Binding Azure Bladewings
-# Change 2nd column to Water, Jammer orbs, 5th column to Water, Jammer orbs, Deal 300% damage
+# Change 2nd column to Water, Jammer orbs, 5th column to Water, Jammer orbs
 # [29] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [30] ESSetCounter(25:15) -> ESSetCounter

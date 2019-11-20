@@ -138,7 +138,7 @@ records:
 # [12] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b11
 # [13] ESAttackMultihit(15:3457) -> Why!? Loki!!
-# Deal 100% damage, (if [376, 377, 656, 1348, 2396] on team)
+# Deal 100% damage
 # [14] ESBranchFlag(43:10) -> ESBranchFlag
 # Branch on flag & 4, target rnd 7
 # [15] ESFlagOperation(22:12) -> ESFlagOperation
@@ -151,5 +151,5 @@ records:
 # Absorb combo <= 5 damage for 2 turns
 # [18] ESEndPath(36:26) -> ESEndPath
 # end_turn
-# [19] ESAttributeResist(72:3445) -> *****
+# [19] ESAttributeResist(72:3445) -> 闇半減
 # Reduce damage from Dark by 50%

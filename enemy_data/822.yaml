@@ -128,7 +128,7 @@ records:
 # 	Condition: 70% chance (ai:0 rnd:70)
 # Enemy recover 10% hp, Deal 100% damage
 # [9] ESRandomSpawn(92:2808) -> Flame Thrust
-# 	Condition: 30% chance & when water, wood, light, dark, heal, jammer, poison, mortal poison orbs are on the board (ai:0 rnd:30)
+# 	Condition: 30% chance & when Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs are on the board (ai:0 rnd:30)
 # Spawn random 4 Fire orbs, Deal 100% damage
 # [10] ESEndPath(36:26) -> ESEndPath
 # end_turn

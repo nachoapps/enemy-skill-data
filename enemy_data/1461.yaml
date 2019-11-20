@@ -100,13 +100,6 @@ records:
   record_type_name: ACTION
   usage_pct: 100
 - !SkillRecord
-  desc_en: Deal 1000% damage
-  max_atk_pct: 1000
-  name_en: Punishment Thunder
-  one_time: 0
-  record_type_name: ACTION
-  usage_pct: 100
-- !SkillRecord
   desc_en: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2

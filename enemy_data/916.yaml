@@ -51,13 +51,6 @@ records:
   record_type_name: ACTION
   usage_pct: 100
 - !SkillRecord
-  desc_en: Change Heal to Jammer, Deal 100% damage
-  max_atk_pct: 100
-  name_en: Heart Break
-  one_time: 0
-  record_type_name: ACTION
-  usage_pct: 100
-- !SkillRecord
   desc_en: ''
   max_atk_pct: null
   name_en: Loop to 1 after. Turn 2
