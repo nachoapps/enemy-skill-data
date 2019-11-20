@@ -210,7 +210,7 @@ records:
 # [14] ESSkillDelay(89:4229) -> Wave of Calmness
 # Delay active skills by 2 turns
 # [15] ESSkillDelay(89:4228) -> Use the Claws's power as you wish
-# Delay active skills by 2 turns, (if [2442, 2443] on team)
+# Delay active skills by 2 turns
 # [16] ESColumnSpawnMulti(77:4230) -> Blue Ice Revival
 # 	Condition: 40% chance (ai:40 rnd:0)
 # Change 1st column to Dark orbs, 2nd column to Water orbs, Deal 100% damage

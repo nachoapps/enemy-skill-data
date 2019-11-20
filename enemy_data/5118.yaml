@@ -19,8 +19,6 @@ records:
   desc_en: Change 1st column to Fire orbs, 2nd column to Water orbs + Spawn random
     3 Fire, Dark, Heal, Jammer orbs + 6x5 cloud appear for 1 turns at random location
     (Preemptive)
-    3 Fire, Dark, Heal, Jammer orbs + 6x5 cloud appear for 1 turns at random location
-    (Preemptive)
   max_atk_pct: null
   name_en: Great! + Sorry to keep you waiting! + Have some piping hot food!
   one_time: 2

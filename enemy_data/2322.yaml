@@ -18,7 +18,7 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Movetime 50% for 10 turns + Reduce damage from all sources by 99% for 1
-    turns + Voids status ailments for 999 turns, (if [2983] on team) (Preemptive)
+    turns + Voids status ailments for 999 turns (Preemptive), (if [2983] on team)
   max_atk_pct: null
   name_en: Eyes are fixed on the prey + Solid Scales + Yashiori's Protective Wine
   one_time: 0
@@ -26,7 +26,7 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Movetime 50% for 10 turns + Reduce damage from all sources by 99% for 1
-    turns + Voids status ailments for 999 turns, (if [2323] on team) (Preemptive)
+    turns + Voids status ailments for 999 turns (Preemptive), (if [2323] on team)
   max_atk_pct: null
   name_en: Menacing Bloodshot Eyes + Saw someone and prepared to fight + Yashiori's
     Protective Wine
@@ -111,8 +111,6 @@ records:
   usage_pct: 12
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
-    Deal 100% damage + Lock 8 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
-    Poison, Mortal Poison orbs, Deal 100% damage
     Deal 100% damage + Lock 8 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 100% damage
   max_atk_pct: null
@@ -245,8 +243,6 @@ records:
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
     Deal 100% damage + Lock 8 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 100% damage
-    Deal 100% damage + Lock 8 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
-    Poison, Mortal Poison orbs, Deal 100% damage
   max_atk_pct: null
   name_en: Octabreath + Torrential Bind
   one_time: 0
@@ -331,8 +327,6 @@ records:
   usage_pct: 12
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison,
-    Deal 100% damage + Lock 8 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
-    Poison, Mortal Poison orbs, Deal 100% damage
     Deal 100% damage + Lock 8 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 100% damage
   max_atk_pct: null
@@ -472,7 +466,7 @@ records:
 # 	[1] ESBindAttack(63:6032) -> Rippling Chains
 # 	Bind 2 random subs for 1 turns, Deal 100% damage
 # [23] SkillSet:
-# 	Condition: 12% chance when < 80% hp (ai:0 rnd:12)
+# 	Condition: 12% chance (ai:0 rnd:12)
 # 	[0] ESBoardChangeAttackBits(85:6028) -> Octabreath
 # 	Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Deal 100% damage
 # 	[1] ESRecoverEnemy(86:6033) -> Lake of Healing

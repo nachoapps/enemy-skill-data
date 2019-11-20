@@ -4,7 +4,7 @@
 !EntryInfo
 comments: null
 monster_id: 451
-monster_name_en: Archer
+monster_name_en: 弓使い
 reviewed_by: unreviewed
 warnings: []
 
@@ -18,7 +18,7 @@ records:
 - !SkillRecord
   desc_en: Bind 1 both leaders for 2~4 turns
   max_atk_pct: null
-  name_en: '*****'
+  name_en: デバッグ用_リーダー助っ人縛り
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -34,6 +34,6 @@ records:
 ############################################################
 ### Raw Behavior
 ############################################################
-# [1] ESBindTarget(54:364) -> *****
+# [1] ESBindTarget(54:364) -> デバッグ用_リーダー助っ人縛り
 # 	Condition: 50% chance (ai:0 rnd:50)
 # Bind 1 both leaders for 2~4 turns

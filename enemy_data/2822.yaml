@@ -117,4 +117,4 @@ records:
 # flag SET 0b11
 # [12] ESRandomSpawn(92:4112) -> Are you here for the interview too, boss?
 # 	Condition: When fire, water, wood, light, dark, jammer, poison, mortal poison orbs are on the board (ai:100 rnd:0)
-# Spawn random 3 Heal orbs, (if [2815] on team)
+# Spawn random 3 Heal orbs

@@ -212,6 +212,6 @@ records:
 # [12] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [13] SkillSet:
-# 	Condition: On death (ai:100 rnd:0)
+# 	Condition: When < 15% hp, on death (ai:100 rnd:0)
 # 	[0] ESSkyfall(68:4067) -> Stolen Kryptonian Technology
 # 	Jammer skyfall +10% for 3 turns

@@ -136,7 +136,7 @@ records:
 # 	Condition: When < 15% hp (ai:100 rnd:0)
 # Spawn random 8 locked Bomb orbs, Deal 300% damage
 # [7] ESDamageShield(74:10074) -> Grava Ursna
-# 	Condition: 40% chance when < 50% hp (ai:0 rnd:40)
+# 	Condition: 40% chance (ai:0 rnd:40)
 # Reduce damage from all sources by 75% for 1 turns, Deal 170% damage
 # [8] ESBombRandomSpawn(102:10069) -> Black Burst
 # 	Condition: 30% chance (ai:0 rnd:30)

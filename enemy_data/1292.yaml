@@ -48,5 +48,5 @@ records:
 # Reduce damage from all sources by 20% for 2 turns
 # [3] ESNone(0:2044) -> ESNone
 # nothing
-# [4] ESResolve(73:2152) -> *****
+# [4] ESResolve(73:2152) -> ギルガメ根性
 # Survive attacks with 1 HP when HP > 1%

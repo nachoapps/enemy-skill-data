@@ -41,8 +41,6 @@ records:
   desc_en: Reduce damage from all sources by 50% for 1 turns + Lock 10 random Fire,
     Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 100%
     damage
-    Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 100%
-    damage
   max_atk_pct: null
   name_en: Rakan + Rakan Gokyaku
   one_time: 0
@@ -117,8 +115,6 @@ records:
   desc_en: Reduce damage from all sources by 50% for 1 turns + Lock 10 random Fire,
     Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 100%
     damage
-    Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 100%
-    damage
   max_atk_pct: null
   name_en: Rakan + Rakan Gokyaku
   one_time: 0
@@ -163,8 +159,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 1 turns + Lock 10 random Fire,
-    Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 100%
-    damage
     Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 100%
     damage
   max_atk_pct: null

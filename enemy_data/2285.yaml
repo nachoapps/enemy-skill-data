@@ -96,4 +96,4 @@ records:
 # flag SET 0b11
 # [13] ESRandomSpawn(92:3141) -> Don't tell master I have a part-time job!
 # 	Condition: When fire, water, wood, light, dark, jammer, poison, mortal poison orbs are on the board (ai:100 rnd:0)
-# Spawn random 3 Heal orbs, (if [1526, 1528, 1529, 1530] on team)
+# Spawn random 3 Heal orbs

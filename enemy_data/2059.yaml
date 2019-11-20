@@ -285,8 +285,8 @@ records:
 # end_turn
 # [30] ESAttackMultihit(15:2198) -> Ultima
 # Deal 900% damage
-# [31] ESAttributeResist(72:2201) -> *****
+# [31] ESAttributeResist(72:2201) -> ケフカ・パッシブ
 # Reduce damage from Light, Dark by 50%
-# [32] ESDeathCry(69:2045) -> *****
+# [32] ESDeathCry(69:2045) -> ケフカ撃破
 # 	Condition: On death (ai:100 rnd:0)
 # Show death effect

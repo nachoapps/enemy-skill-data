@@ -290,6 +290,6 @@ records:
 # [28] ESBranchCard(90:3806) -> ESBranchCard
 # Branch on player_cards HAS [1946, 1947], target rnd 30
 # [29] ESAttackMultihit(15:3809) -> You foolish Devilbound creature
-# Deal 100% damage, (if [2440, 2441] on team)
+# Deal 100% damage
 # [30] ESAttackMultihit(15:3807) -> If you want power, sacrifice him to me!
-# Deal 100% damage, (if [1946, 1947] on team)
+# Deal 100% damage

@@ -157,5 +157,5 @@ records:
 # flag UNSET 0b11110
 # [23] ESRowSpawnMulti(79:1894) -> Abysstrom
 # Change 1st row to Poison orbs, 5th row to Poison orbs, Deal 200% damage
-# [24] ESAttributeResist(72:1881) -> *****
+# [24] ESAttributeResist(72:1881) -> パッシブ・ネプチューン
 # Reduce damage from Light, Dark by 50%

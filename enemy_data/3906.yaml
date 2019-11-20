@@ -184,8 +184,8 @@ records:
 # [16] ESAttackMultihit(15:8471) -> The Truth of Suffering
 # Deal 280% damage (4 hits, 70% each)
 # [17] ESRandomSpawn(92:8469) -> Heavenly Palm
-# Spawn random 3 Heal orbs, Deal 200% damage, (if >=10 combos last turn)
+# Spawn random 3 Heal orbs, Deal 200% damage
 # [18] ESJammerChangeRandom(13:8470) -> Cruelty
-# Change Random 1 to Jammer, Deal 230% damage, (if >=10 combos last turn)
+# Change Random 1 to Jammer, Deal 230% damage
 # [19] ESEndPath(36:26) -> ESEndPath
 # end_turn

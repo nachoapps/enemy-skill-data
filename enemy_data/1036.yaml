@@ -18,7 +18,7 @@ records:
 - !SkillRecord
   desc_en: Absorb combo <= 4 damage for 99 turns (Preemptive)
   max_atk_pct: null
-  name_en: 底見えぬオーラ
+  name_en: Bottomless Aura
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -32,7 +32,7 @@ records:
 - !SkillRecord
   desc_en: Do nothing
   max_atk_pct: null
-  name_en: 怒りが蓄積していく
+  name_en: Building up Anger
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -46,7 +46,7 @@ records:
 - !SkillRecord
   desc_en: Deal 300% damage
   max_atk_pct: 300
-  name_en: おのれェエええ
+  name_en: Youuuuuuu!!!!
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -68,7 +68,7 @@ records:
 # Branch on flag & 1, target rnd 6
 # [3] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b1
-# [4] ESAbsorbCombo(67:3076) -> 底見えぬオーラ
+# [4] ESAbsorbCombo(67:3076) -> Bottomless Aura
 # Absorb combo <= 4 damage for 99 turns
 # [5] ESEndPath(36:26) -> ESEndPath
 # end_turn
@@ -76,7 +76,7 @@ records:
 # Branch on flag & 2, target rnd 10
 # [7] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b11
-# [8] ESInactivity(66:3077) -> 怒りが蓄積していく
+# [8] ESInactivity(66:3077) -> Building up Anger
 # Do nothing
 # [9] ESEndPath(36:26) -> ESEndPath
 # end_turn
@@ -84,13 +84,13 @@ records:
 # Branch on flag & 4, target rnd 14
 # [11] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b111
-# [12] ESInactivity(66:3077) -> 怒りが蓄積していく
+# [12] ESInactivity(66:3077) -> Building up Anger
 # Do nothing
 # [13] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [14] ESFlagOperation(24:14) -> ESFlagOperation
 # flag UNSET 0b11110
-# [15] ESAttackMultihit(15:3078) -> おのれェエええ
+# [15] ESAttackMultihit(15:3078) -> Youuuuuuu!!!!
 # Deal 300% damage
 # [16] ESEndPath(36:26) -> ESEndPath
 # end_turn

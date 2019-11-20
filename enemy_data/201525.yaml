@@ -4,7 +4,7 @@
 !EntryInfo
 comments: null
 monster_id: 201525
-monster_name_en: 義愛の知将龍・カネツグ
+monster_name_en: Honorable Dragon General, Kanetsugu
 reviewed_by: unreviewed
 warnings: []
 
@@ -18,14 +18,14 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 10 turns (Preemptive)
   max_atk_pct: null
-  name_en: 愛の輝き
+  name_en: Shining Love
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Random to Heal, Deal 300% damage
   max_atk_pct: 300
-  name_en: 義愛の龍砲
+  name_en: Honorable Dragon Cannon
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -46,7 +46,7 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 200% for the next 999 turns
   max_atk_pct: null
-  name_en: 龍義のいななき
+  name_en: Honorable Dragon's Roar
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -67,7 +67,7 @@ records:
 - !SkillRecord
   desc_en: Bind Devil cards for 5 turns
   max_atk_pct: null
-  name_en: 義信龍の眼光
+  name_en: Gaze of the Honorable Dragon
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -88,7 +88,7 @@ records:
 - !SkillRecord
   desc_en: Change Random to Heal, Deal 300% damage
   max_atk_pct: 300
-  name_en: 義愛の龍砲
+  name_en: Honorable Dragon Cannon
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -102,7 +102,7 @@ records:
 - !SkillRecord
   desc_en: Change Heal to Jammer, Deal 50% damage
   max_atk_pct: 50
-  name_en: 天正大判返し
+  name_en: Gold Coin Throw
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -124,16 +124,16 @@ records:
 # Branch on flag & 1, target rnd 6
 # [3] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b1
-# [4] ESStatusShield(20:1377) -> 愛の輝き
+# [4] ESStatusShield(20:1377) -> Shining Love
 # Voids status ailments for 10 turns
 # [5] ESEndPath(36:26) -> ESEndPath
 # end_turn
-# [6] ESAttackUPCooldown(19:1379) -> 龍義のいななき
+# [6] ESAttackUPCooldown(19:1379) -> Honorable Dragon's Roar
 # 	Condition: When < 85% hp (ai:100 rnd:0)
 # Increase damage to 200% for the next 999 turns
 # [7] ESBranchHP(28:18) -> ESBranchHP
 # Branch on hp < 50, target rnd 10
-# [8] ESOrbChangeAttack(48:1378) -> 義愛の龍砲
+# [8] ESOrbChangeAttack(48:1378) -> Honorable Dragon Cannon
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
 # Change Random to Heal, Deal 300% damage
 # [9] ESEndPath(36:26) -> ESEndPath
@@ -142,13 +142,13 @@ records:
 # Branch on flag & 2, target rnd 14
 # [11] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b11
-# [12] ESBindTyping(3:1381) -> 義信龍の眼光
+# [12] ESBindTyping(3:1381) -> Gaze of the Honorable Dragon
 # Bind Devil cards for 5 turns
 # [13] ESEndPath(36:26) -> ESEndPath
 # end_turn
-# [14] ESOrbChangeAttack(48:1378) -> 義愛の龍砲
+# [14] ESOrbChangeAttack(48:1378) -> Honorable Dragon Cannon
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
 # Change Random to Heal, Deal 300% damage
-# [15] ESOrbChangeAttack(48:1380) -> 天正大判返し
+# [15] ESOrbChangeAttack(48:1380) -> Gold Coin Throw
 # 	Condition: When < 30% hp (ai:100 rnd:0)
 # Change Heal to Jammer, Deal 50% damage

@@ -80,8 +80,6 @@ records:
   desc_en: Row of cloud appear for 1 turns at random location + Lock 10 random Fire,
     Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 100%
     damage
-    Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 100%
-    damage
   max_atk_pct: null
   name_en: Harbinger of Thunder + Roar, Mjölnir!
   one_time: 0
@@ -216,8 +214,6 @@ records:
   usage_pct: 10
 - !SkillRecord
   desc_en: 6x2 cloud appear for 1 turns at random location + Lock 10 random Fire,
-    Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 100%
-    damage
     Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 100%
     damage
   max_atk_pct: null

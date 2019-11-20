@@ -161,7 +161,6 @@ records:
 # ESAttackMultihit(15:10315) -> Flame Rush
 # Deal 120% damage (3 hits, 40% each)
 # ESDamageShield(74:10296) -> Rite of Belzenlok I
-# 	Condition: One-time use (ai:0 rnd:0) (one-time: 8)
 # Reduce damage from all sources by 50% for 4 turns
 ############################################################
 ### ES Modifiers
@@ -263,5 +262,4 @@ records:
 # [36] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [37] ESDamageShield(74:10296) -> Rite of Belzenlok I
-# 	Condition: One-time use (ai:0 rnd:0) (one-time: 8)
 # Reduce damage from all sources by 50% for 4 turns

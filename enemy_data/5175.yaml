@@ -26,8 +26,8 @@ records:
   desc_en: Voids status ailments for 999 turns + Absorb combo <= 9 damage for 1 turns
     + Void damage >= 50000000 for 999 turns (Preemptive)
   max_atk_pct: null
-  name_en: Cool Breeze of Summer's First Night + Winds of Dawn Blowing for a Thousand
-    Miles + Springtime full of Flowery Fragrance
+  name_en: Cool Breeze of Summer's First Night + Dawn's Longing Zephyr + Springtime
+    full of Flowery Fragrance
   one_time: 4
   record_type_name: PREEMPT
   usage_pct: 100
@@ -49,18 +49,16 @@ records:
   desc_en: Absorb combo <= 5 damage for 99 turns + Random 1 orbs change every 0.5s
     for 3 turns + Fix orb movement starting point to random position on the board,
     Deal 100% damage
-    for 3 turns + Fix orb movement starting point to random position on the board,
-    Deal 100% damage
   max_atk_pct: null
-  name_en: Winds of Dawn Blowing for a Thousand Miles + Shade of a Tree After Rain
-    + Murmuring Southerly Wind
+  name_en: Dawn's Longing Zephyr + Shade of a Tree After Rain + Murmuring Southerly
+    Wind
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
 - !SkillRecord
   desc_en: Change player HP to 50% for 1 turns, Deal 110% damage
   max_atk_pct: 110
-  name_en: Cool Shadow of the Canopy
+  name_en: Shadowy Lull
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -97,8 +95,7 @@ records:
   desc_en: Bind awoken skills for 10 turns + Increase damage to 200% for the next
     999 turns
   max_atk_pct: null
-  name_en: Flower Rot of Bean Curd in the Summer Rain + Germination's Sunlight on
-    the Growing Verdure
+  name_en: Downpour's Cessation + Relentless Rushing Reeds
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -113,7 +110,7 @@ records:
   desc_en: Movetime -2s for 99 turns + Change player HP to 50% for 1 turns, Deal 110%
     damage
   max_atk_pct: null
-  name_en: Relentless Heat of the Mountain Breeze + Cool Shadow of the Canopy
+  name_en: Blustery Haze + Shadowy Lull
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -143,7 +140,7 @@ records:
   desc_en: Movetime -2s for 99 turns + Change player HP to 50% for 1 turns, Deal 110%
     damage
   max_atk_pct: null
-  name_en: Relentless Heat of the Mountain Breeze + Cool Shadow of the Canopy
+  name_en: Blustery Haze + Shadowy Lull
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -165,8 +162,7 @@ records:
   desc_en: Bind awoken skills for 10 turns + Increase damage to 200% for the next
     999 turns
   max_atk_pct: null
-  name_en: Flower Rot of Bean Curd in the Summer Rain + Germination's Sunlight on
-    the Growing Verdure
+  name_en: Downpour's Cessation + Relentless Rushing Reeds
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -181,7 +177,7 @@ records:
   desc_en: Movetime -2s for 99 turns + Change player HP to 50% for 1 turns, Deal 110%
     damage
   max_atk_pct: null
-  name_en: Relentless Heat of the Mountain Breeze + Cool Shadow of the Canopy
+  name_en: Blustery Haze + Shadowy Lull
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -196,7 +192,7 @@ records:
   desc_en: Change own attribute to random one of Fire, Water, Wood, Light, Dark +
     Deal 1500% damage (5 hits, 300% each)
   max_atk_pct: null
-  name_en: Changing Southeasterly Winds + Floating Cogongrass of Neverending Winds
+  name_en: Changing Southeasterly Winds + Summer's Blooming Beams
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -219,8 +215,8 @@ records:
   desc_en: Voids status ailments for 999 turns + Absorb combo <= 9 damage for 1 turns
     + Void damage >= 50000000 for 999 turns (Preemptive)
   max_atk_pct: null
-  name_en: Cool Breeze of Summer's First Night + Winds of Dawn Blowing for a Thousand
-    Miles + Springtime full of Flowery Fragrance
+  name_en: Cool Breeze of Summer's First Night + Dawn's Longing Zephyr + Springtime
+    full of Flowery Fragrance
   one_time: 4
   record_type_name: PREEMPT
   usage_pct: 100
@@ -242,18 +238,16 @@ records:
   desc_en: Absorb combo <= 7 damage for 99 turns + Random 1 orbs change every 0.5s
     for 3 turns + Fix orb movement starting point to random position on the board,
     Deal 100% damage
-    for 3 turns + Fix orb movement starting point to random position on the board,
-    Deal 100% damage
   max_atk_pct: null
-  name_en: Winds of Dawn Blowing for a Thousand Miles + Shade of a Tree After Rain
-    + Murmuring Southerly Wind
+  name_en: Dawn's Longing Zephyr + Shade of a Tree After Rain + Murmuring Southerly
+    Wind
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
 - !SkillRecord
   desc_en: Change player HP to 50% for 1 turns, Deal 110% damage
   max_atk_pct: 110
-  name_en: Cool Shadow of the Canopy
+  name_en: Shadowy Lull
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -290,8 +284,7 @@ records:
   desc_en: Bind awoken skills for 10 turns + Increase damage to 200% for the next
     999 turns
   max_atk_pct: null
-  name_en: Flower Rot of Bean Curd in the Summer Rain + Germination's Sunlight on
-    the Growing Verdure
+  name_en: Downpour's Cessation + Relentless Rushing Reeds
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -306,7 +299,7 @@ records:
   desc_en: Movetime -2s for 99 turns + Change player HP to 50% for 1 turns, Deal 110%
     damage
   max_atk_pct: null
-  name_en: Relentless Heat of the Mountain Breeze + Cool Shadow of the Canopy
+  name_en: Blustery Haze + Shadowy Lull
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -336,7 +329,7 @@ records:
   desc_en: Movetime -2s for 99 turns + Change player HP to 50% for 1 turns, Deal 110%
     damage
   max_atk_pct: null
-  name_en: Relentless Heat of the Mountain Breeze + Cool Shadow of the Canopy
+  name_en: Blustery Haze + Shadowy Lull
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -358,8 +351,7 @@ records:
   desc_en: Bind awoken skills for 10 turns + Increase damage to 200% for the next
     999 turns
   max_atk_pct: null
-  name_en: Flower Rot of Bean Curd in the Summer Rain + Germination's Sunlight on
-    the Growing Verdure
+  name_en: Downpour's Cessation + Relentless Rushing Reeds
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -374,7 +366,7 @@ records:
   desc_en: Movetime -2s for 99 turns + Change player HP to 50% for 1 turns, Deal 110%
     damage
   max_atk_pct: null
-  name_en: Relentless Heat of the Mountain Breeze + Cool Shadow of the Canopy
+  name_en: Blustery Haze + Shadowy Lull
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -389,7 +381,7 @@ records:
   desc_en: Change own attribute to random one of Fire, Water, Wood, Light, Dark +
     Deal 1500% damage (5 hits, 300% each)
   max_atk_pct: null
-  name_en: Changing Southeasterly Winds + Floating Cogongrass of Neverending Winds
+  name_en: Changing Southeasterly Winds + Summer's Blooming Beams
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -411,7 +403,7 @@ records:
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 4)
 # 	[0] ESStatusShield(20:12781) -> Cool Breeze of Summer's First Night
 # 	Voids status ailments for 999 turns
-# 	[1] ESAbsorbCombo(67:12782) -> Winds of Dawn Blowing for a Thousand Miles
+# 	[1] ESAbsorbCombo(67:12782) -> Dawn's Longing Zephyr
 # 	Absorb combo <= 9 damage for 1 turns
 # 	[2] ESVoidShield(71:12783) -> Springtime full of Flowery Fragrance
 # 	Void damage >= 50000000 for 999 turns
@@ -419,7 +411,7 @@ records:
 # Branch on level > 6, target rnd 5
 # [4] SkillSet:
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
-# 	[0] ESAbsorbCombo(67:12778) -> Winds of Dawn Blowing for a Thousand Miles
+# 	[0] ESAbsorbCombo(67:12778) -> Dawn's Longing Zephyr
 # 	Absorb combo <= 5 damage for 99 turns
 # 	[1] ESSpinnersRandom(109:12785) -> Shade of a Tree After Rain
 # 	Random 1 orbs change every 0.5s for 3 turns
@@ -427,7 +419,7 @@ records:
 # 	Fix orb movement starting point to random position on the board, Deal 100% damage
 # [5] SkillSet:
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
-# 	[0] ESAbsorbCombo(67:12779) -> Winds of Dawn Blowing for a Thousand Miles
+# 	[0] ESAbsorbCombo(67:12779) -> Dawn's Longing Zephyr
 # 	Absorb combo <= 7 damage for 99 turns
 # 	[1] ESSpinnersRandom(109:12785) -> Shade of a Tree After Rain
 # 	Random 1 orbs change every 0.5s for 3 turns
@@ -450,7 +442,7 @@ records:
 # 	Fix orb movement starting point to random position on the board, Deal 100% damage
 # [12] ESEndPath(36:26) -> ESEndPath
 # end_turn
-# [13] ESMaxHPChange(111:12789) -> Cool Shadow of the Canopy
+# [13] ESMaxHPChange(111:12789) -> Shadowy Lull
 # Change player HP to 50% for 1 turns, Deal 110% damage
 # [14] ESEndPath(36:26) -> ESEndPath
 # end_turn
@@ -458,9 +450,9 @@ records:
 # Branch on hp < 50, target rnd 19
 # [16] SkillSet:
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
-# 	[0] ESDebuffMovetime(39:12788) -> Relentless Heat of the Mountain Breeze
+# 	[0] ESDebuffMovetime(39:12788) -> Blustery Haze
 # 	Movetime -2s for 99 turns
-# 	[1] ESMaxHPChange(111:12789) -> Cool Shadow of the Canopy
+# 	[1] ESMaxHPChange(111:12789) -> Shadowy Lull
 # 	Change player HP to 50% for 1 turns, Deal 110% damage
 # [17] SkillSet:
 # 	[0] ESSpinnersRandom(109:12785) -> Shade of a Tree After Rain
@@ -474,16 +466,16 @@ records:
 # [20] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b1
 # [21] SkillSet:
-# 	[0] ESBindAwoken(88:12791) -> Flower Rot of Bean Curd in the Summer Rain
+# 	[0] ESBindAwoken(88:12791) -> Downpour's Cessation
 # 	Bind awoken skills for 10 turns
-# 	[1] ESAttackUPRemainingEnemies(17:12792) -> Germination's Sunlight on the Growing Verdure
+# 	[1] ESAttackUPRemainingEnemies(17:12792) -> Relentless Rushing Reeds
 # 	Increase damage to 200% for the next 999 turns
 # [22] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [23] SkillSet:
 # 	[0] ESChangeAttribute(46:12794) -> Changing Southeasterly Winds
 # 	Change own attribute to random one of Fire, Water, Wood, Light, Dark
-# 	[1] ESAttackMultihit(15:12795) -> Floating Cogongrass of Neverending Winds
+# 	[1] ESAttackMultihit(15:12795) -> Summer's Blooming Beams
 # 	Deal 1500% damage (5 hits, 300% each)
 # [24] ESEndPath(36:26) -> ESEndPath
 # end_turn

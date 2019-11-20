@@ -162,13 +162,13 @@ records:
 # [15] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [16] ESBindAttack(63:7248) -> Thunderbolt
-# 	Condition: 25% chance when < 50% hp (ai:0 rnd:25)
+# 	Condition: 25% chance (ai:0 rnd:25)
 # Bind own leader for 2 turns, Deal 100% damage
 # [17] ESBindAttack(63:7249) -> Thunderbolt
-# 	Condition: 25% chance when < 50% hp (ai:0 rnd:25)
+# 	Condition: 25% chance (ai:0 rnd:25)
 # Bind friend leader for 2 turns, Deal 100% damage
 # [18] ESBindAttack(63:7250) -> Thunderbolt
-# 	Condition: 25% chance when < 50% hp (ai:0 rnd:25)
+# 	Condition: 25% chance (ai:0 rnd:25)
 # Bind 2 random subs for 2 turns, Deal 100% damage
 # [19] ESAttackMultihit(15:7244) -> Back Kick
 # 	Condition: 25% chance (ai:0 rnd:25)

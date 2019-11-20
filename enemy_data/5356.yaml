@@ -4,7 +4,7 @@
 !EntryInfo
 comments: null
 monster_id: 5356
-monster_name_en: ヒカフエドラ
+monster_name_en: Lightflute Dragon
 reviewed_by: unreviewed
 warnings: []
 
@@ -18,14 +18,14 @@ records:
 - !SkillRecord
   desc_en: Spawn random 10 Heal orbs (Preemptive)
   max_atk_pct: null
-  name_en: 癒しの旋律
+  name_en: Healing Melody
   one_time: 2
   record_type_name: PREEMPT
   usage_pct: 100
 - !SkillRecord
   desc_en: Rcv 50% for 3 turns (Preemptive)
   max_atk_pct: null
-  name_en: シンフォニックハーモニー
+  name_en: Symphonic Harmony
   one_time: 1
   record_type_name: PREEMPT
   usage_pct: 100
@@ -39,7 +39,7 @@ records:
 - !SkillRecord
   desc_en: Rcv 50% for 3 turns
   max_atk_pct: null
-  name_en: シンフォニックハーモニー
+  name_en: Symphonic Harmony
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -53,14 +53,14 @@ records:
 - !SkillRecord
   desc_en: Spawn random 1 Heal orbs, Deal 105% damage
   max_atk_pct: 105
-  name_en: スフォルツァートペザンテ
+  name_en: Sforzato Pesante
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
 - !SkillRecord
   desc_en: Change Random to Light, Deal 95% damage
   max_atk_pct: 95
-  name_en: アダージョカランド
+  name_en: Adagio Calando
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -74,7 +74,7 @@ records:
 - !SkillRecord
   desc_en: Spawn random 8 Light orbs, Deal 150% damage
   max_atk_pct: 150
-  name_en: リタルダンドアンビエント
+  name_en: Ritardando Ambient
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -96,23 +96,23 @@ records:
 # Branch on level > 4, target rnd 4
 # [3] ESEndPath(36:26) -> ESEndPath
 # end_turn
-# [4] ESRandomSpawn(92:13442) -> 癒しの旋律
+# [4] ESRandomSpawn(92:13442) -> Healing Melody
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
 # Spawn random 10 Heal orbs
-# [5] ESDebuffRCV(105:13443) -> シンフォニックハーモニー
+# [5] ESDebuffRCV(105:13443) -> Symphonic Harmony
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
 # Rcv 50% for 3 turns
 # [6] ESBranchHP(28:18) -> ESBranchHP
 # Branch on hp < 20, target rnd 10
-# [7] ESRandomSpawn(92:13444) -> スフォルツァートペザンテ
+# [7] ESRandomSpawn(92:13444) -> Sforzato Pesante
 # 	Condition: 50% chance & when Fire, Water, Wood, Light, Dark, Jammer, Poison, Mortal Poison orbs are on the board (ai:0 rnd:50)
 # Spawn random 1 Heal orbs, Deal 105% damage
-# [8] ESOrbChangeAttack(48:13445) -> アダージョカランド
+# [8] ESOrbChangeAttack(48:13445) -> Adagio Calando
 # 	Condition: 50% chance (ai:0 rnd:50)
 # Change Random to Light, Deal 95% damage
 # [9] ESEndPath(36:26) -> ESEndPath
 # end_turn
-# [10] ESRandomSpawn(92:13446) -> リタルダンドアンビエント
+# [10] ESRandomSpawn(92:13446) -> Ritardando Ambient
 # 	Condition: When fire, water, wood, dark, heal, jammer, poison, mortal poison orbs are on the board (ai:100 rnd:0)
 # Spawn random 8 Light orbs, Deal 150% damage
 # [11] ESEndPath(36:26) -> ESEndPath

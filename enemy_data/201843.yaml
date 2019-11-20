@@ -16,8 +16,8 @@ level: 1
 overrides: []
 records:
 - !SkillRecord
-  desc_en: Movetime -2s for 10 turns + Bind awoken skills for 5 turns, (if [2508,
-    2509, 3770, 3771, 4813] on team) (Preemptive)
+  desc_en: Movetime -2s for 10 turns + Bind awoken skills for 5 turns (Preemptive),
+    (if [2508, 2509, 3770, 3771, 4813] on team)
   max_atk_pct: null
   name_en: Is it fine to leave it with you? + Play with me, little bird ♪
   one_time: 0

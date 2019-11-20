@@ -38,8 +38,8 @@ level: 4
 overrides: []
 records:
 - !SkillRecord
-  desc_en: Reduce damage from all sources by 75% for 1 turns, (if [3930, 3931, 3942,
-    3943] on team) (Preemptive)
+  desc_en: Reduce damage from all sources by 75% for 1 turns (Preemptive), (if [3930,
+    3931, 3942, 3943] on team)
   max_atk_pct: null
   name_en: W...Welcome home?...
   one_time: 2
@@ -148,7 +148,7 @@ records:
 # Reduce damage from all sources by 75% for 1 turns
 # [6] ESDamageShield(74:8309) -> W...Welcome home?...
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
-# Reduce damage from all sources by 75% for 1 turns, (if [3930, 3931, 3942, 3943] on team)
+# Reduce damage from all sources by 75% for 1 turns
 # [7] ESSkillDelay(89:8313) -> Flying Bucket
 # 	Condition: When < 50% hp , one-time use (ai:100 rnd:0) (one-time: 1)
 # Delay active skills by 2 turns

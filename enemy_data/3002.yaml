@@ -113,8 +113,6 @@ records:
   desc_en: Voids status ailments for 999 turns + Change all orbs to Jammer, Deal 60%
     damage + Reduce damage from all sources by 75% for 1 turns, (if [2145, 2146, 2972]
     on team)
-    damage + Reduce damage from all sources by 75% for 1 turns, (if [2145, 2146, 2972]
-    on team)
   max_atk_pct: null
   name_en: Tranquility suits you well + Sacred Grounds of the Green Earth + Magatama
     of Yin and Yang

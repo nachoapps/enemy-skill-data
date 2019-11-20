@@ -4,7 +4,7 @@
 !EntryInfo
 comments: null
 monster_id: 538
-monster_name_en: Alex Santa
+monster_name_en: アレクサンター
 reviewed_by: unreviewed
 warnings: []
 
@@ -25,7 +25,7 @@ records:
 - !SkillRecord
   desc_en: Change 3rd row to Light orbs, Deal 150% damage
   max_atk_pct: 150
-  name_en: '*****'
+  name_en: 聖なる審判
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -55,5 +55,5 @@ records:
 # Voids status ailments for 999 turns
 # [7] ESEndPath(36:26) -> ESEndPath
 # end_turn
-# [8] ESRowSpawnMulti(79:1933) -> *****
+# [8] ESRowSpawnMulti(79:1933) -> 聖なる審判
 # Change 3rd row to Light orbs, Deal 150% damage

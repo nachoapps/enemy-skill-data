@@ -111,4 +111,4 @@ records:
 # [13] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b11
 # [14] ESRecoverPlayer(55:3136) -> You're here? Why not have a break?
-# Player recover 100% hp, (if [475, 477, 478, 479] on team)
+# Player recover 100% hp

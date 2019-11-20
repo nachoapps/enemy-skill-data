@@ -79,8 +79,8 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Reduce damage from all sources by 75% for 3 turns + Bind 1 random cards for 4
-    turns, Deal 300% damage
+  desc_en: Reduce damage from all sources by 75% for 3 turns + Bind 1 random cards
+    for 4 turns, Deal 300% damage
   max_atk_pct: null
   name_en: Fireform + Giant Iceflame Talons
   one_time: 64
@@ -137,8 +137,8 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Reduce damage from all sources by 75% for 3 turns + Bind 1 random cards for 4
-    turns, Deal 300% damage
+  desc_en: Reduce damage from all sources by 75% for 3 turns + Bind 1 random cards
+    for 4 turns, Deal 300% damage
   max_atk_pct: null
   name_en: Fireform + Giant Iceflame Talons
   one_time: 4

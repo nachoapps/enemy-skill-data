@@ -18,14 +18,14 @@ records:
 - !SkillRecord
   desc_en: Do nothing (Preemptive)
   max_atk_pct: null
-  name_en: I'd be happy if you like this
+  name_en: I hope you like this!
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
 - !SkillRecord
   desc_en: Do nothing
   max_atk_pct: null
-  name_en: I'd be happy if you like this
+  name_en: I hope you like this!
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -40,14 +40,14 @@ records:
 - !SkillRecord
   desc_en: Do nothing (Preemptive)
   max_atk_pct: null
-  name_en: I'd be happy if you like this
+  name_en: I hope you like this!
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
 - !SkillRecord
   desc_en: Do nothing
   max_atk_pct: null
-  name_en: I'd be happy if you like this
+  name_en: I hope you like this!
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -65,7 +65,7 @@ records:
 ############################################################
 # [1] ESPreemptive(49:355) -> ESPreemptive
 # Enable preempt if level 5
-# [2] ESInactivity(66:8949) -> I'd be happy if you like this
+# [2] ESInactivity(66:8949) -> I hope you like this!
 # Do nothing
 # [3] ESEndPath(36:26) -> ESEndPath
 # end_turn

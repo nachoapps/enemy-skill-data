@@ -132,7 +132,7 @@ records:
 # 	Player -75% HP
 # 	[1] ESBlindStickyRandom(97:11616) -> Darkness Bullet
 # 	Blind random 15 orbs for 3 turns
-# [7] ESBlind(5:11611) -> Black Bullet
+# [7] ESBlind(62:11611) -> Black Bullet
 # 	Condition: 33% chance (ai:0 rnd:33)
 # Blind all orbs on the board, Deal 105% damage
 # [8] ESOrbLock(94:11612) -> Paralysing Spear

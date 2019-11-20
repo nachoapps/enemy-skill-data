@@ -4,7 +4,7 @@
 !EntryInfo
 comments: null
 monster_id: 302718
-monster_name_en: 起源神・ガイア＝ドラゴン
+monster_name_en: Original Goddess, Gaia Dragon
 reviewed_by: unreviewed
 warnings: []
 
@@ -19,7 +19,7 @@ records:
   desc_en: Voids status ailments for 999 turns + Reduce damage from all sources by
     75% for 7 turns + Void damage >= 6000000 for 99 turns (Preemptive)
   max_atk_pct: null
-  name_en: アンチウイルス + ギガンティックボディ + エナジーカーム
+  name_en: Antivirus + Gigantic Body + Energy Calm
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -33,7 +33,7 @@ records:
 - !SkillRecord
   desc_en: Spawn random 3 Jammer orbs
   max_atk_pct: null
-  name_en: 巨体が動き始めた
+  name_en: The huge body started to move
   one_time: 32
   record_type_name: ACTION
   usage_pct: 100
@@ -47,7 +47,7 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 690% for the next attack
   max_atk_pct: null
-  name_en: 腕を持ち上げた
+  name_en: Raising its arm
   one_time: 16
   record_type_name: ACTION
   usage_pct: 100
@@ -61,7 +61,7 @@ records:
 - !SkillRecord
   desc_en: Spawn random 3 Jammer orbs
   max_atk_pct: null
-  name_en: 態勢を立て直している
+  name_en: Rearranging its posture
   one_time: 8
   record_type_name: ACTION
   usage_pct: 100
@@ -75,7 +75,7 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 690% for the next attack
   max_atk_pct: null
-  name_en: 再度腕を持ち上げた
+  name_en: Raising its arm again
   one_time: 4
   record_type_name: ACTION
   usage_pct: 100
@@ -89,7 +89,7 @@ records:
 - !SkillRecord
   desc_en: Blind all orbs on the board
   max_atk_pct: null
-  name_en: 口を開いた
+  name_en: Opening its mouth
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -104,7 +104,7 @@ records:
   desc_en: Change 3rd, 4th column to Wood orbs, Deal 450% damage + Absorb Fire, Water
     damage for 3 turns
   max_atk_pct: null
-  name_en: ガイアビーム + インヘイル
+  name_en: Gaia Beam + Inhale
   one_time: 1
   record_type_name: ACTION
   usage_pct: 20
@@ -112,7 +112,7 @@ records:
   desc_en: Change 3rd, 4th column to Wood orbs, Deal 450% damage + Absorb Water, Wood
     damage for 3 turns
   max_atk_pct: null
-  name_en: ガイアビーム + インヘイル
+  name_en: Gaia Beam + Inhale
   one_time: 1
   record_type_name: ACTION
   usage_pct: 20
@@ -120,7 +120,7 @@ records:
   desc_en: Change 3rd, 4th column to Wood orbs, Deal 450% damage + Absorb Wood, Light
     damage for 3 turns
   max_atk_pct: null
-  name_en: ガイアビーム + インヘイル
+  name_en: Gaia Beam + Inhale
   one_time: 1
   record_type_name: ACTION
   usage_pct: 20
@@ -128,7 +128,7 @@ records:
   desc_en: Change 3rd, 4th column to Wood orbs, Deal 450% damage + Absorb Light, Dark
     damage for 3 turns
   max_atk_pct: null
-  name_en: ガイアビーム + インヘイル
+  name_en: Gaia Beam + Inhale
   one_time: 1
   record_type_name: ACTION
   usage_pct: 20
@@ -136,7 +136,7 @@ records:
   desc_en: Change 3rd, 4th column to Wood orbs, Deal 450% damage + Absorb Fire, Dark
     damage for 3 turns
   max_atk_pct: null
-  name_en: ガイアビーム + インヘイル
+  name_en: Gaia Beam + Inhale
   one_time: 1
   record_type_name: ACTION
   usage_pct: 20
@@ -150,7 +150,7 @@ records:
 - !SkillRecord
   desc_en: Delay active skills by 3~5 turns, Deal 260% damage
   max_atk_pct: 260
-  name_en: スキルブレイク
+  name_en: Skill Break
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -171,7 +171,7 @@ records:
 - !SkillRecord
   desc_en: Player -500% HP
   max_atk_pct: null
-  name_en: グランドレイ
+  name_en: Grand Ray
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -179,14 +179,14 @@ records:
   desc_en: Lock 6 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 340% damage
   max_atk_pct: 340
-  name_en: ハードンサイン
+  name_en: Hardened Sign
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 360% damage
   max_atk_pct: 360
-  name_en: マントルプレス
+  name_en: Earth's Mantle Press
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -200,14 +200,14 @@ records:
 - !SkillRecord
   desc_en: Enemy recover 10% hp, Deal 420% damage
   max_atk_pct: 420
-  name_en: セルメンディング
+  name_en: Cell Mending
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
 - !SkillRecord
   desc_en: Bind 1 random cards for 5 turns, Deal 410% damage
   max_atk_pct: 410
-  name_en: グレートバイン
+  name_en: Great Vine
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -221,7 +221,7 @@ records:
 - !SkillRecord
   desc_en: Player -500% HP
   max_atk_pct: null
-  name_en: グランドレイ
+  name_en: Grand Ray
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -244,27 +244,27 @@ records:
 # [3] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b1
 # [4] SkillSet:
-# 	[0] ESStatusShield(20:2969) -> アンチウイルス
+# 	[0] ESStatusShield(20:2969) -> Antivirus
 # 	Voids status ailments for 999 turns
-# 	[1] ESDamageShield(74:2970) -> ギガンティックボディ
+# 	[1] ESDamageShield(74:2970) -> Gigantic Body
 # 	Reduce damage from all sources by 75% for 7 turns
-# 	[2] ESVoidShield(71:2995) -> エナジーカーム
+# 	[2] ESVoidShield(71:2995) -> Energy Calm
 # 	Void damage >= 6000000 for 99 turns
 # [5] ESEndPath(36:26) -> ESEndPath
 # end_turn
-# [6] ESRandomSpawn(92:2972) -> 巨体が動き始めた
+# [6] ESRandomSpawn(92:2972) -> The huge body started to move
 # 	Condition: One-time use & when Fire, Water, Wood, Light, Dark, Heal, Poison, Mortal Poison orbs are on the board (ai:100 rnd:0) (one-time: 32)
 # Spawn random 3 Jammer orbs
-# [7] ESStorePower(8:2973) -> 腕を持ち上げた
+# [7] ESStorePower(8:2973) -> Raising its arm
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 16)
 # Increase damage to 690% for the next attack
-# [8] ESRandomSpawn(92:2974) -> 態勢を立て直している
+# [8] ESRandomSpawn(92:2974) -> Rearranging its posture
 # 	Condition: One-time use & when Fire, Water, Wood, Light, Dark, Heal, Poison, Mortal Poison orbs are on the board (ai:100 rnd:0) (one-time: 8)
 # Spawn random 3 Jammer orbs
-# [9] ESStorePower(8:2975) -> 再度腕を持ち上げた
+# [9] ESStorePower(8:2975) -> Raising its arm again
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 4)
 # Increase damage to 690% for the next attack
-# [10] ESBlind(5:2976) -> 口を開いた
+# [10] ESBlind(5:2976) -> Opening its mouth
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
 # Blind all orbs on the board
 # [11] ESBranchHP(28:18) -> ESBranchHP
@@ -275,52 +275,52 @@ records:
 # flag SET 0b11
 # [14] SkillSet:
 # 	Condition: One-time use (ai:0 rnd:20) (one-time: 1)
-# 	[0] ESColumnSpawnMulti(77:2977) -> ガイアビーム
+# 	[0] ESColumnSpawnMulti(77:2977) -> Gaia Beam
 # 	Change 3rd, 4th column to Wood orbs, Deal 450% damage
-# 	[1] ESAbsorbAttribute(53:2985) -> インヘイル
+# 	[1] ESAbsorbAttribute(53:2985) -> Inhale
 # 	Absorb Fire, Water damage for 3 turns
 # [15] SkillSet:
 # 	Condition: One-time use (ai:0 rnd:20) (one-time: 1)
-# 	[0] ESColumnSpawnMulti(77:2977) -> ガイアビーム
+# 	[0] ESColumnSpawnMulti(77:2977) -> Gaia Beam
 # 	Change 3rd, 4th column to Wood orbs, Deal 450% damage
-# 	[1] ESAbsorbAttribute(53:2986) -> インヘイル
+# 	[1] ESAbsorbAttribute(53:2986) -> Inhale
 # 	Absorb Water, Wood damage for 3 turns
 # [16] SkillSet:
 # 	Condition: One-time use (ai:0 rnd:20) (one-time: 1)
-# 	[0] ESColumnSpawnMulti(77:2977) -> ガイアビーム
+# 	[0] ESColumnSpawnMulti(77:2977) -> Gaia Beam
 # 	Change 3rd, 4th column to Wood orbs, Deal 450% damage
-# 	[1] ESAbsorbAttribute(53:2987) -> インヘイル
+# 	[1] ESAbsorbAttribute(53:2987) -> Inhale
 # 	Absorb Wood, Light damage for 3 turns
 # [17] SkillSet:
 # 	Condition: One-time use (ai:0 rnd:20) (one-time: 1)
-# 	[0] ESColumnSpawnMulti(77:2977) -> ガイアビーム
+# 	[0] ESColumnSpawnMulti(77:2977) -> Gaia Beam
 # 	Change 3rd, 4th column to Wood orbs, Deal 450% damage
-# 	[1] ESAbsorbAttribute(53:2988) -> インヘイル
+# 	[1] ESAbsorbAttribute(53:2988) -> Inhale
 # 	Absorb Light, Dark damage for 3 turns
 # [18] SkillSet:
 # 	Condition: One-time use (ai:0 rnd:20) (one-time: 1)
-# 	[0] ESColumnSpawnMulti(77:2977) -> ガイアビーム
+# 	[0] ESColumnSpawnMulti(77:2977) -> Gaia Beam
 # 	Change 3rd, 4th column to Wood orbs, Deal 450% damage
-# 	[1] ESAbsorbAttribute(53:2989) -> インヘイル
+# 	[1] ESAbsorbAttribute(53:2989) -> Inhale
 # 	Absorb Fire, Dark damage for 3 turns
 # [19] ESEndPath(36:26) -> ESEndPath
 # end_turn
-# [20] ESSkillDelay(89:2979) -> スキルブレイク
+# [20] ESSkillDelay(89:2979) -> Skill Break
 # Delay active skills by 3~5 turns, Deal 260% damage
-# [21] ESGravity(50:2978) -> グランドレイ
+# [21] ESGravity(50:2978) -> Grand Ray
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
 # Player -500% HP
-# [22] ESGravity(50:2984) -> グランドレイ
+# [22] ESGravity(50:2984) -> Grand Ray
 # 	Condition: When < 20% hp (ai:100 rnd:0)
 # Player -500% HP
-# [23] ESRecoverEnemy(86:2982) -> セルメンディング
+# [23] ESRecoverEnemy(86:2982) -> Cell Mending
 # 	Condition: 50% chance when < 30% hp (ai:50 rnd:0)
 # Enemy recover 10% hp, Deal 420% damage
-# [24] ESBindAttack(63:2983) -> グレートバイン
+# [24] ESBindAttack(63:2983) -> Great Vine
 # 	Condition: When < 30% hp (ai:100 rnd:0)
 # Bind 1 random cards for 5 turns, Deal 410% damage
-# [25] ESOrbLock(94:2980) -> ハードンサイン
+# [25] ESOrbLock(94:2980) -> Hardened Sign
 # 	Condition: 50% chance (ai:50 rnd:0)
 # Lock 6 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 340% damage
-# [26] ESBlind(62:2981) -> マントルプレス
+# [26] ESBlind(62:2981) -> Earth's Mantle Press
 # Blind all orbs on the board, Deal 360% damage

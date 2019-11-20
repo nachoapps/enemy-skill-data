@@ -134,13 +134,13 @@ records:
 # 	Condition: 20% chance (ai:0 rnd:20)
 # Deal 100% damage
 # [10] SkillSet:
-# 	Condition: 20% chance when < 80% hp (ai:0 rnd:20)
+# 	Condition: 20% chance (ai:0 rnd:20)
 # 	[0] ESRecoverEnemy(86:2536) -> Dim Sum Snack
 # 	Enemy recover 10% hp
 # 	[1] ESRowSpawnMulti(79:2539) -> Burning Hoof
 # 	Change 5th row to Fire orbs, Deal 50% damage
 # [11] ESBindAttribute(2:2537) -> Water Battle Strategy
-# 	Condition: When < 80% hp , one-time use (ai:0 rnd:20) (one-time: 2)
+# 	Condition: One-time use (ai:0 rnd:20) (one-time: 2)
 # Bind Water cards for 2 turns, Deal 75% damage
 # [12] ESEndPath(36:26) -> ESEndPath
 # end_turn

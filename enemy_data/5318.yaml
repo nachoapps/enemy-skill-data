@@ -4,7 +4,7 @@
 !EntryInfo
 comments: null
 monster_id: 5318
-monster_name_en: 惑乱の狂女神・エリス
+monster_name_en: Manic Goddess of Discord, Eris
 reviewed_by: unreviewed
 warnings:
 - Found 2 unused actions
@@ -18,9 +18,9 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Void damage >= 20000000 for 999 turns
-    + unknown (Preemptive)
+    + Change leader to [3238] for 10 turns (Preemptive)
   max_atk_pct: null
-  name_en: 不和の侮蔑 + 災炎の神躯 + 錯乱の惹起
+  name_en: Scorn of Dissension + Flame of the God's Corpse + Confusion Provocation
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -34,7 +34,7 @@ records:
 - !SkillRecord
   desc_en: Voids player buff effects, Deal 200% damage
   max_atk_pct: 200
-  name_en: 神火の息吹
+  name_en: Sacred Flame Breath
   one_time: 0
   record_type_name: ACTION
   usage_pct: 10
@@ -56,15 +56,15 @@ records:
   desc_en: Spawn locked Bomb orbs in the specified positions + Fix orb movement starting
     point to random position on the board, Deal 200% damage
   max_atk_pct: null
-  name_en: 不和の果実 + アグリィカンペティション
+  name_en: Fruit of Dissension + Ugly Competition
   one_time: 0
   record_type_name: ACTION
   usage_pct: 30
 - !SkillRecord
-  desc_en: Spawn random 4 Jammer, Poison orbs + Bind 3 random subs for 2 turns, Deal 190%
-    damage
+  desc_en: Spawn random 4 Jammer, Poison orbs + Bind 3 random subs for 2 turns, Deal
+    190% damage
   max_atk_pct: null
-  name_en: ニューマラスインシネレート + クルーエルディスピュート
+  name_en: Sporadic Incineration + Cruel Dispute
   one_time: 0
   record_type_name: ACTION
   usage_pct: 30
@@ -72,14 +72,14 @@ records:
   desc_en: Deal 120% damage (3 hits, 40% each) + Delay active skills by 2 turns, Deal
     100% damage
   max_atk_pct: null
-  name_en: ヘイトリッドラッシュ + ホールドアグラッジ
+  name_en: Hateful Rush + Holding a Grudge
   one_time: 0
   record_type_name: ACTION
   usage_pct: 30
 - !SkillRecord
   desc_en: Deal 1000% damage (5 hits, 200% each)
   max_atk_pct: 1000
-  name_en: レイジイラプション
+  name_en: Raging Eruption
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -98,9 +98,9 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: unknown + Absorb combo <= 6 damage for 5 turns
+  desc_en: Change leader to [190] for 10 turns + Absorb combo <= 6 damage for 5 turns
   max_atk_pct: null
-  name_en: 錯乱の惹起 + 軋轢の合戦
+  name_en: Confusion Provocation + Battle of Discord
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -115,15 +115,15 @@ records:
   desc_en: Spawn locked Bomb orbs in the specified positions + Fix orb movement starting
     point to random position on the board, Deal 100% damage
   max_atk_pct: null
-  name_en: 不和の果実 + アグリィカンペティション
+  name_en: Fruit of Dissension + Ugly Competition
   one_time: 0
   record_type_name: ACTION
   usage_pct: 30
 - !SkillRecord
-  desc_en: Spawn random 4 Jammer, Poison orbs + Bind 3 random subs for 2 turns, Deal 95%
-    damage
+  desc_en: Spawn random 4 Jammer, Poison orbs + Bind 3 random subs for 2 turns, Deal
+    95% damage
   max_atk_pct: null
-  name_en: ニューマラスインシネレート + クルーエルディスピュート
+  name_en: Sporadic Incineration + Cruel Dispute
   one_time: 0
   record_type_name: ACTION
   usage_pct: 30
@@ -131,7 +131,7 @@ records:
   desc_en: Deal 60% damage (3 hits, 20% each) + Delay active skills by 2 turns, Deal
     50% damage
   max_atk_pct: null
-  name_en: ヘイトリッドラッシュ + ホールドアグラッジ
+  name_en: Hateful Rush + Holding a Grudge
   one_time: 0
   record_type_name: ACTION
   usage_pct: 30
@@ -150,9 +150,9 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: unknown + Player -99% HP
+  desc_en: Change leader to [188] for 10 turns + Player -99% HP
   max_atk_pct: null
-  name_en: 錯乱の惹起 + 絶えぬ火種
+  name_en: Confusion Provocation + Cause of Extinction
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -166,7 +166,7 @@ records:
 - !SkillRecord
   desc_en: Blind random 10 orbs for 1 turns
   max_atk_pct: null
-  name_en: 光を奪う陰り
+  name_en: Light Stealing Shadow
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -180,7 +180,7 @@ records:
 - !SkillRecord
   desc_en: Blind random 10 orbs for 1 turns
   max_atk_pct: null
-  name_en: 光を奪う陰り
+  name_en: Light Stealing Shadow
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -194,7 +194,7 @@ records:
 - !SkillRecord
   desc_en: Blind random 10 orbs for 1 turns
   max_atk_pct: null
-  name_en: 光を奪う陰り
+  name_en: Light Stealing Shadow
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -208,7 +208,7 @@ records:
 - !SkillRecord
   desc_en: Blind random 10 orbs for 1 turns
   max_atk_pct: null
-  name_en: 光を奪う陰り
+  name_en: Light Stealing Shadow
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -222,7 +222,7 @@ records:
 - !SkillRecord
   desc_en: Blind random 10 orbs for 1 turns
   max_atk_pct: null
-  name_en: 光を奪う陰り
+  name_en: Light Stealing Shadow
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -241,16 +241,24 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Reduce damage from all sources by 75% for 99 turns + unknown
+  desc_en: Reduce damage from all sources by 75% for 99 turns + Change leader to [5058]
+    for 3 turns, Deal 120% damage
   max_atk_pct: null
-  name_en: 女神の障壁 + 錯乱の惹起
+  name_en: Goddess Barrier + Confusion Provocation
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
 - !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Execute repeatedly. Turn 1-2
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
   desc_en: Random 2 orbs change every 1.0s for 2 turns, Deal 130% damage
   max_atk_pct: 130
-  name_en: 目まぐるしい変化
+  name_en: Hectic Transformation
   one_time: 1
   record_type_name: ACTION
   usage_pct: 45
@@ -258,15 +266,15 @@ records:
   desc_en: Spawn locked Bomb orbs in the specified positions + Fix orb movement starting
     point to random position on the board, Deal 125% damage
   max_atk_pct: null
-  name_en: 不和の果実 + アグリィカンペティション
+  name_en: Fruit of Dissension + Ugly Competition
   one_time: 0
   record_type_name: ACTION
   usage_pct: 15
 - !SkillRecord
-  desc_en: Spawn random 4 Jammer, Poison orbs + Bind 3 random subs for 2 turns, Deal 120%
-    damage
+  desc_en: Spawn random 4 Jammer, Poison orbs + Bind 3 random subs for 2 turns, Deal
+    120% damage
   max_atk_pct: null
-  name_en: ニューマラスインシネレート + クルーエルディスピュート
+  name_en: Sporadic Incineration + Cruel Dispute
   one_time: 0
   record_type_name: ACTION
   usage_pct: 15
@@ -274,10 +282,52 @@ records:
   desc_en: Deal 75% damage (3 hits, 25% each) + Delay active skills by 2 turns, Deal
     55% damage
   max_atk_pct: null
-  name_en: ヘイトリッドラッシュ + ホールドアグラッジ
+  name_en: Hateful Rush + Holding a Grudge
   one_time: 0
   record_type_name: ACTION
   usage_pct: 15
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Loop to 1 after. Turn 3
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Change leader to [5058] for 3 turns, Deal 120% damage
+  max_atk_pct: 120
+  name_en: Confusion Provocation
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 20
+- !SkillRecord
+  desc_en: Change leader to [5059] for 3 turns, Deal 120% damage
+  max_atk_pct: 120
+  name_en: Confusion Provocation
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 20
+- !SkillRecord
+  desc_en: Change leader to [5060] for 3 turns, Deal 120% damage
+  max_atk_pct: 120
+  name_en: Confusion Provocation
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 20
+- !SkillRecord
+  desc_en: Change leader to [5061] for 3 turns, Deal 120% damage
+  max_atk_pct: 120
+  name_en: Confusion Provocation
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 20
+- !SkillRecord
+  desc_en: Change leader to [5062] for 3 turns, Deal 120% damage
+  max_atk_pct: 120
+  name_en: Confusion Provocation
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 20
 - !SkillRecord
   desc_en: ''
   max_atk_pct: null
@@ -296,7 +346,7 @@ records:
   desc_en: Bind awoken skills for 5 turns + Increase damage to 200% for the next 999
     turns
   max_atk_pct: null
-  name_en: スケアスクリーム + マッドスローター
+  name_en: Scary Scream + Mad Slaughter
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -310,9 +360,9 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Void damage >= 20000000 for 999 turns
-    + unknown (Preemptive)
+    + Change leader to [3238] for 10 turns (Preemptive)
   max_atk_pct: null
-  name_en: 不和の侮蔑 + 災炎の神躯 + 錯乱の惹起
+  name_en: Scorn of Dissension + Flame of the God's Corpse + Confusion Provocation
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -326,7 +376,7 @@ records:
 - !SkillRecord
   desc_en: Voids player buff effects, Deal 200% damage
   max_atk_pct: 200
-  name_en: 神火の息吹
+  name_en: Sacred Flame Breath
   one_time: 0
   record_type_name: ACTION
   usage_pct: 10
@@ -348,15 +398,15 @@ records:
   desc_en: Spawn locked Bomb orbs in the specified positions + Fix orb movement starting
     point to random position on the board, Deal 200% damage
   max_atk_pct: null
-  name_en: 不和の果実 + アグリィカンペティション
+  name_en: Fruit of Dissension + Ugly Competition
   one_time: 0
   record_type_name: ACTION
   usage_pct: 30
 - !SkillRecord
-  desc_en: Spawn random 4 Jammer, Poison orbs + Bind 3 random subs for 2 turns, Deal 190%
-    damage
+  desc_en: Spawn random 4 Jammer, Poison orbs + Bind 3 random subs for 2 turns, Deal
+    190% damage
   max_atk_pct: null
-  name_en: ニューマラスインシネレート + クルーエルディスピュート
+  name_en: Sporadic Incineration + Cruel Dispute
   one_time: 0
   record_type_name: ACTION
   usage_pct: 30
@@ -364,14 +414,14 @@ records:
   desc_en: Deal 120% damage (3 hits, 40% each) + Delay active skills by 2 turns, Deal
     100% damage
   max_atk_pct: null
-  name_en: ヘイトリッドラッシュ + ホールドアグラッジ
+  name_en: Hateful Rush + Holding a Grudge
   one_time: 0
   record_type_name: ACTION
   usage_pct: 30
 - !SkillRecord
   desc_en: Deal 1000% damage (5 hits, 200% each)
   max_atk_pct: 1000
-  name_en: レイジイラプション
+  name_en: Raging Eruption
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -390,9 +440,9 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: unknown + Absorb combo <= 6 damage for 10 turns
+  desc_en: Change leader to [190] for 10 turns + Absorb combo <= 6 damage for 10 turns
   max_atk_pct: null
-  name_en: 錯乱の惹起 + 軋轢の合戦
+  name_en: Confusion Provocation + Battle of Discord
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -407,15 +457,15 @@ records:
   desc_en: Spawn locked Bomb orbs in the specified positions + Fix orb movement starting
     point to random position on the board, Deal 100% damage
   max_atk_pct: null
-  name_en: 不和の果実 + アグリィカンペティション
+  name_en: Fruit of Dissension + Ugly Competition
   one_time: 0
   record_type_name: ACTION
   usage_pct: 30
 - !SkillRecord
-  desc_en: Spawn random 4 Jammer, Poison orbs + Bind 3 random subs for 2 turns, Deal 95%
-    damage
+  desc_en: Spawn random 4 Jammer, Poison orbs + Bind 3 random subs for 2 turns, Deal
+    95% damage
   max_atk_pct: null
-  name_en: ニューマラスインシネレート + クルーエルディスピュート
+  name_en: Sporadic Incineration + Cruel Dispute
   one_time: 0
   record_type_name: ACTION
   usage_pct: 30
@@ -423,7 +473,7 @@ records:
   desc_en: Deal 60% damage (3 hits, 20% each) + Delay active skills by 2 turns, Deal
     50% damage
   max_atk_pct: null
-  name_en: ヘイトリッドラッシュ + ホールドアグラッジ
+  name_en: Hateful Rush + Holding a Grudge
   one_time: 0
   record_type_name: ACTION
   usage_pct: 30
@@ -442,9 +492,9 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: unknown + Player -99% HP
+  desc_en: Change leader to [188] for 10 turns + Player -99% HP
   max_atk_pct: null
-  name_en: 錯乱の惹起 + 絶えぬ火種
+  name_en: Confusion Provocation + Cause of Extinction
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -458,7 +508,7 @@ records:
 - !SkillRecord
   desc_en: Blind random 10 orbs for 1 turns
   max_atk_pct: null
-  name_en: 光を奪う陰り
+  name_en: Light Stealing Shadow
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -472,7 +522,7 @@ records:
 - !SkillRecord
   desc_en: Blind random 10 orbs for 1 turns
   max_atk_pct: null
-  name_en: 光を奪う陰り
+  name_en: Light Stealing Shadow
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -486,7 +536,7 @@ records:
 - !SkillRecord
   desc_en: Blind random 10 orbs for 1 turns
   max_atk_pct: null
-  name_en: 光を奪う陰り
+  name_en: Light Stealing Shadow
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -500,7 +550,7 @@ records:
 - !SkillRecord
   desc_en: Blind random 10 orbs for 1 turns
   max_atk_pct: null
-  name_en: 光を奪う陰り
+  name_en: Light Stealing Shadow
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -514,7 +564,7 @@ records:
 - !SkillRecord
   desc_en: Blind random 10 orbs for 1 turns
   max_atk_pct: null
-  name_en: 光を奪う陰り
+  name_en: Light Stealing Shadow
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -533,16 +583,24 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Reduce damage from all sources by 75% for 99 turns + unknown
+  desc_en: Reduce damage from all sources by 75% for 99 turns + Change leader to [5058]
+    for 3 turns, Deal 120% damage
   max_atk_pct: null
-  name_en: 女神の障壁 + 錯乱の惹起
+  name_en: Goddess Barrier + Confusion Provocation
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
 - !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Execute repeatedly. Turn 1-2
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
   desc_en: Random 2 orbs change every 1.0s for 2 turns, Deal 130% damage
   max_atk_pct: 130
-  name_en: 目まぐるしい変化
+  name_en: Hectic Transformation
   one_time: 1
   record_type_name: ACTION
   usage_pct: 45
@@ -550,15 +608,15 @@ records:
   desc_en: Spawn locked Bomb orbs in the specified positions + Fix orb movement starting
     point to random position on the board, Deal 125% damage
   max_atk_pct: null
-  name_en: 不和の果実 + アグリィカンペティション
+  name_en: Fruit of Dissension + Ugly Competition
   one_time: 0
   record_type_name: ACTION
   usage_pct: 15
 - !SkillRecord
-  desc_en: Spawn random 4 Jammer, Poison orbs + Bind 3 random subs for 2 turns, Deal 120%
-    damage
+  desc_en: Spawn random 4 Jammer, Poison orbs + Bind 3 random subs for 2 turns, Deal
+    120% damage
   max_atk_pct: null
-  name_en: ニューマラスインシネレート + クルーエルディスピュート
+  name_en: Sporadic Incineration + Cruel Dispute
   one_time: 0
   record_type_name: ACTION
   usage_pct: 15
@@ -566,10 +624,52 @@ records:
   desc_en: Deal 75% damage (3 hits, 25% each) + Delay active skills by 2 turns, Deal
     55% damage
   max_atk_pct: null
-  name_en: ヘイトリッドラッシュ + ホールドアグラッジ
+  name_en: Hateful Rush + Holding a Grudge
   one_time: 0
   record_type_name: ACTION
   usage_pct: 15
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Loop to 1 after. Turn 3
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Change leader to [5058] for 3 turns, Deal 120% damage
+  max_atk_pct: 120
+  name_en: Confusion Provocation
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 20
+- !SkillRecord
+  desc_en: Change leader to [5059] for 3 turns, Deal 120% damage
+  max_atk_pct: 120
+  name_en: Confusion Provocation
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 20
+- !SkillRecord
+  desc_en: Change leader to [5060] for 3 turns, Deal 120% damage
+  max_atk_pct: 120
+  name_en: Confusion Provocation
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 20
+- !SkillRecord
+  desc_en: Change leader to [5061] for 3 turns, Deal 120% damage
+  max_atk_pct: 120
+  name_en: Confusion Provocation
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 20
+- !SkillRecord
+  desc_en: Change leader to [5062] for 3 turns, Deal 120% damage
+  max_atk_pct: 120
+  name_en: Confusion Provocation
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 20
 - !SkillRecord
   desc_en: ''
   max_atk_pct: null
@@ -588,7 +688,7 @@ records:
   desc_en: Bind awoken skills for 5 turns + Increase damage to 200% for the next 999
     turns
   max_atk_pct: null
-  name_en: スケアスクリーム + マッドスローター
+  name_en: Scary Scream + Mad Slaughter
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -596,10 +696,10 @@ records:
 ############################################################
 ### Unused Actions
 ############################################################
-# ESDispel(6:13500) -> 神火の息吹
+# ESDispel(6:13500) -> Sacred Flame Breath
 # 	Condition: 10% chance (ai:0 rnd:10)
 # Voids player buff effects, Deal 100% damage
-# ESDispel(6:13522) -> 神火の息吹
+# ESDispel(6:13522) -> Sacred Flame Breath
 # 	Condition: 10% chance (ai:0 rnd:10)
 # Voids player buff effects, Deal 125% damage
 ############################################################
@@ -620,12 +720,12 @@ records:
 # [3] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b1
 # [4] SkillSet:
-# 	[0] ESStatusShield(20:13481) -> 不和の侮蔑
+# 	[0] ESStatusShield(20:13481) -> Scorn of Dissension
 # 	Voids status ailments for 999 turns
-# 	[1] ESVoidShield(71:13482) -> 災炎の神躯
+# 	[1] ESVoidShield(71:13482) -> Flame of the God's Corpse
 # 	Void damage >= 20000000 for 999 turns
-# 	[2] EnemySkillUnknown(125:13483) -> 錯乱の惹起
-# 	unknown
+# 	[2] ESLeaderAlter(125:13483) -> Confusion Provocation
+# 	Change leader to [3238] for 10 turns
 # [5] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [6] ESBranchHP(28:18) -> ESBranchHP
@@ -646,26 +746,26 @@ records:
 # Branch on flag & 2, target rnd 20
 # [14] ESBranchCounter(32:22) -> ESBranchCounter
 # Branch on counter > 10, target rnd 64
-# [15] ESDispel(6:13487) -> 神火の息吹
+# [15] ESDispel(6:13487) -> Sacred Flame Breath
 # 	Condition: 10% chance (ai:0 rnd:10)
 # Voids player buff effects, Deal 200% damage
 # [16] SkillSet:
 # 	Condition: 30% chance (ai:0 rnd:30)
-# 	[0] ESBombFixedSpawn(103:13488) -> 不和の果実
+# 	[0] ESBombFixedSpawn(103:13488) -> Fruit of Dissension
 # 	Spawn locked Bomb orbs in the specified positions
-# 	[1] ESFixedStart(101:13489) -> アグリィカンペティション
+# 	[1] ESFixedStart(101:13489) -> Ugly Competition
 # 	Fix orb movement starting point to random position on the board, Deal 200% damage
 # [17] SkillSet:
 # 	Condition: 30% chance (ai:0 rnd:30)
-# 	[0] ESRandomSpawn(92:13490) -> ニューマラスインシネレート
+# 	[0] ESRandomSpawn(92:13490) -> Sporadic Incineration
 # 	Spawn random 4 Jammer, Poison orbs
-# 	[1] ESBindAttack(63:13491) -> クルーエルディスピュート
+# 	[1] ESBindAttack(63:13491) -> Cruel Dispute
 # 	Bind 3 random subs for 2 turns, Deal 190% damage
 # [18] SkillSet:
 # 	Condition: 30% chance (ai:0 rnd:30)
-# 	[0] ESAttackMultihit(15:13492) -> ヘイトリッドラッシュ
+# 	[0] ESAttackMultihit(15:13492) -> Hateful Rush
 # 	Deal 120% damage (3 hits, 40% each)
-# 	[1] ESSkillDelay(89:13493) -> ホールドアグラッジ
+# 	[1] ESSkillDelay(89:13493) -> Holding a Grudge
 # 	Delay active skills by 2 turns, Deal 100% damage
 # [19] ESEndPath(36:26) -> ESEndPath
 # end_turn
@@ -678,37 +778,37 @@ records:
 # [23] ESBranchLevel(35:25) -> ESBranchLevel
 # Branch on level > 6, target rnd 25
 # [24] SkillSet:
-# 	[0] EnemySkillUnknown(125:13495) -> 錯乱の惹起
-# 	unknown
-# 	[1] ESAbsorbCombo(67:13534) -> 軋轢の合戦
+# 	[0] ESLeaderAlter(125:13495) -> Confusion Provocation
+# 	Change leader to [190] for 10 turns
+# 	[1] ESAbsorbCombo(67:13534) -> Battle of Discord
 # 	Absorb combo <= 6 damage for 5 turns
 # [25] SkillSet:
-# 	[0] EnemySkillUnknown(125:13495) -> 錯乱の惹起
-# 	unknown
-# 	[1] ESAbsorbCombo(67:13496) -> 軋轢の合戦
+# 	[0] ESLeaderAlter(125:13495) -> Confusion Provocation
+# 	Change leader to [190] for 10 turns
+# 	[1] ESAbsorbCombo(67:13496) -> Battle of Discord
 # 	Absorb combo <= 6 damage for 10 turns
 # [26] ESBranchCounter(32:22) -> ESBranchCounter
 # Branch on counter > 10, target rnd 64
-# [27] ESDispel(6:13500) -> 神火の息吹
+# [27] ESDispel(6:13500) -> Sacred Flame Breath
 # 	Condition: 10% chance (ai:0 rnd:10)
 # Voids player buff effects, Deal 100% damage
 # [28] SkillSet:
 # 	Condition: 30% chance (ai:0 rnd:30)
-# 	[0] ESBombFixedSpawn(103:13501) -> 不和の果実
+# 	[0] ESBombFixedSpawn(103:13501) -> Fruit of Dissension
 # 	Spawn locked Bomb orbs in the specified positions
-# 	[1] ESFixedStart(101:13502) -> アグリィカンペティション
+# 	[1] ESFixedStart(101:13502) -> Ugly Competition
 # 	Fix orb movement starting point to random position on the board, Deal 100% damage
 # [29] SkillSet:
 # 	Condition: 30% chance (ai:0 rnd:30)
-# 	[0] ESRandomSpawn(92:13503) -> ニューマラスインシネレート
+# 	[0] ESRandomSpawn(92:13503) -> Sporadic Incineration
 # 	Spawn random 4 Jammer, Poison orbs
-# 	[1] ESBindAttack(63:13504) -> クルーエルディスピュート
+# 	[1] ESBindAttack(63:13504) -> Cruel Dispute
 # 	Bind 3 random subs for 2 turns, Deal 95% damage
 # [30] SkillSet:
 # 	Condition: 30% chance (ai:0 rnd:30)
-# 	[0] ESAttackMultihit(15:13505) -> ヘイトリッドラッシュ
+# 	[0] ESAttackMultihit(15:13505) -> Hateful Rush
 # 	Deal 60% damage (3 hits, 20% each)
-# 	[1] ESSkillDelay(89:13506) -> ホールドアグラッジ
+# 	[1] ESSkillDelay(89:13506) -> Holding a Grudge
 # 	Delay active skills by 2 turns, Deal 50% damage
 # [31] ESEndPath(36:26) -> ESEndPath
 # end_turn
@@ -719,35 +819,35 @@ records:
 # [34] ESSetCounter(25:15) -> ESSetCounter
 # counter = 0
 # [35] SkillSet:
-# 	[0] EnemySkillUnknown(125:13508) -> 錯乱の惹起
-# 	unknown
-# 	[1] ESGravity(50:13509) -> 絶えぬ火種
+# 	[0] ESLeaderAlter(125:13508) -> Confusion Provocation
+# 	Change leader to [188] for 10 turns
+# 	[1] ESGravity(50:13509) -> Cause of Extinction
 # 	Player -99% HP
 # [36] ESBranchCounter(32:22) -> ESBranchCounter
 # Branch on counter > 10, target rnd 64
-# [37] ESBlindStickyRandom(97:13510) -> 光を奪う陰り
+# [37] ESBlindStickyRandom(97:13510) -> Light Stealing Shadow
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
 # Blind random 10 orbs for 1 turns
-# [38] ESDispel(6:13500) -> 神火の息吹
+# [38] ESDispel(6:13500) -> Sacred Flame Breath
 # 	Condition: 10% chance (ai:0 rnd:10)
 # Voids player buff effects, Deal 100% damage
 # [39] SkillSet:
 # 	Condition: 30% chance (ai:0 rnd:30)
-# 	[0] ESBombFixedSpawn(103:13501) -> 不和の果実
+# 	[0] ESBombFixedSpawn(103:13501) -> Fruit of Dissension
 # 	Spawn locked Bomb orbs in the specified positions
-# 	[1] ESFixedStart(101:13502) -> アグリィカンペティション
+# 	[1] ESFixedStart(101:13502) -> Ugly Competition
 # 	Fix orb movement starting point to random position on the board, Deal 100% damage
 # [40] SkillSet:
 # 	Condition: 30% chance (ai:0 rnd:30)
-# 	[0] ESRandomSpawn(92:13503) -> ニューマラスインシネレート
+# 	[0] ESRandomSpawn(92:13503) -> Sporadic Incineration
 # 	Spawn random 4 Jammer, Poison orbs
-# 	[1] ESBindAttack(63:13504) -> クルーエルディスピュート
+# 	[1] ESBindAttack(63:13504) -> Cruel Dispute
 # 	Bind 3 random subs for 2 turns, Deal 95% damage
 # [41] SkillSet:
 # 	Condition: 30% chance (ai:0 rnd:30)
-# 	[0] ESAttackMultihit(15:13505) -> ヘイトリッドラッシュ
+# 	[0] ESAttackMultihit(15:13505) -> Hateful Rush
 # 	Deal 60% damage (3 hits, 20% each)
-# 	[1] ESSkillDelay(89:13506) -> ホールドアグラッジ
+# 	[1] ESSkillDelay(89:13506) -> Holding a Grudge
 # 	Delay active skills by 2 turns, Deal 50% damage
 # [42] ESEndPath(36:26) -> ESEndPath
 # end_turn
@@ -758,50 +858,55 @@ records:
 # [45] ESSetCounter(25:15) -> ESSetCounter
 # counter = 0
 # [46] SkillSet:
-# 	[0] ESDamageShield(74:13512) -> 女神の障壁
+# 	[0] ESDamageShield(74:13512) -> Goddess Barrier
 # 	Reduce damage from all sources by 75% for 99 turns
-# 	[1] EnemySkillUnknown(125:13513) -> 錯乱の惹起
-# 	unknown
+# 	[1] ESLeaderAlter(125:13513) -> Confusion Provocation
+# 	Change leader to [5058] for 3 turns, Deal 120% damage
 # [47] ESBranchCounter(32:22) -> ESBranchCounter
 # Branch on counter > 3, target rnd 54
-# [48] ESSpinnersRandom(109:13518) -> 目まぐるしい変化
+# [48] ESSpinnersRandom(109:13518) -> Hectic Transformation
 # 	Condition: One-time use (ai:0 rnd:45) (one-time: 1)
 # Random 2 orbs change every 1.0s for 2 turns, Deal 130% damage
-# [49] ESDispel(6:13522) -> 神火の息吹
+# [49] ESDispel(6:13522) -> Sacred Flame Breath
 # 	Condition: 10% chance (ai:0 rnd:10)
 # Voids player buff effects, Deal 125% damage
 # [50] SkillSet:
 # 	Condition: 15% chance (ai:0 rnd:15)
-# 	[0] ESBombFixedSpawn(103:13523) -> 不和の果実
+# 	[0] ESBombFixedSpawn(103:13523) -> Fruit of Dissension
 # 	Spawn locked Bomb orbs in the specified positions
-# 	[1] ESFixedStart(101:13524) -> アグリィカンペティション
+# 	[1] ESFixedStart(101:13524) -> Ugly Competition
 # 	Fix orb movement starting point to random position on the board, Deal 125% damage
 # [51] SkillSet:
 # 	Condition: 15% chance (ai:0 rnd:15)
-# 	[0] ESRandomSpawn(92:13525) -> ニューマラスインシネレート
+# 	[0] ESRandomSpawn(92:13525) -> Sporadic Incineration
 # 	Spawn random 4 Jammer, Poison orbs
-# 	[1] ESBindAttack(63:13526) -> クルーエルディスピュート
+# 	[1] ESBindAttack(63:13526) -> Cruel Dispute
 # 	Bind 3 random subs for 2 turns, Deal 120% damage
 # [52] SkillSet:
 # 	Condition: 15% chance (ai:0 rnd:15)
-# 	[0] ESAttackMultihit(15:13527) -> ヘイトリッドラッシュ
+# 	[0] ESAttackMultihit(15:13527) -> Hateful Rush
 # 	Deal 75% damage (3 hits, 25% each)
-# 	[1] ESSkillDelay(89:13528) -> ホールドアグラッジ
+# 	[1] ESSkillDelay(89:13528) -> Holding a Grudge
 # 	Delay active skills by 2 turns, Deal 55% damage
 # [53] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [54] ESSetCounter(25:15) -> ESSetCounter
 # counter = 0
-# [55] EnemySkillUnknown(125:13513) -> 錯乱の惹起
-# unknown
-# [56] EnemySkillUnknown(125:13514) -> 錯乱の惹起
-# unknown
-# [57] EnemySkillUnknown(125:13515) -> 錯乱の惹起
-# unknown
-# [58] EnemySkillUnknown(125:13516) -> 錯乱の惹起
-# unknown
-# [59] EnemySkillUnknown(125:13517) -> 錯乱の惹起
-# unknown
+# [55] ESLeaderAlter(125:13513) -> Confusion Provocation
+# 	Condition: 20% chance (ai:0 rnd:20)
+# Change leader to [5058] for 3 turns, Deal 120% damage
+# [56] ESLeaderAlter(125:13514) -> Confusion Provocation
+# 	Condition: 20% chance (ai:0 rnd:20)
+# Change leader to [5059] for 3 turns, Deal 120% damage
+# [57] ESLeaderAlter(125:13515) -> Confusion Provocation
+# 	Condition: 20% chance (ai:0 rnd:20)
+# Change leader to [5060] for 3 turns, Deal 120% damage
+# [58] ESLeaderAlter(125:13516) -> Confusion Provocation
+# 	Condition: 20% chance (ai:0 rnd:20)
+# Change leader to [5061] for 3 turns, Deal 120% damage
+# [59] ESLeaderAlter(125:13517) -> Confusion Provocation
+# 	Condition: 20% chance (ai:0 rnd:20)
+# Change leader to [5062] for 3 turns, Deal 120% damage
 # [60] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [61] ESBranchFlag(43:10) -> ESBranchFlag
@@ -809,9 +914,9 @@ records:
 # [62] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b11111
 # [63] SkillSet:
-# 	[0] ESBindAwoken(88:13530) -> スケアスクリーム
+# 	[0] ESBindAwoken(88:13530) -> Scary Scream
 # 	Bind awoken skills for 5 turns
-# 	[1] ESAttackUPRemainingEnemies(17:13531) -> マッドスローター
+# 	[1] ESAttackUPRemainingEnemies(17:13531) -> Mad Slaughter
 # 	Increase damage to 200% for the next 999 turns
-# [64] ESAttackMultihit(15:13532) -> レイジイラプション
+# [64] ESAttackMultihit(15:13532) -> Raging Eruption
 # Deal 1000% damage (5 hits, 200% each)

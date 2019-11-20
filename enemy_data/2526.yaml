@@ -337,5 +337,5 @@ records:
 # flag SET 0b111
 # [31] ESRecoverEnemy(86:3570) -> Half Repair
 # Enemy recover 50% hp
-# [32] ESAttributeResist(72:3564) -> *****
+# [32] ESAttributeResist(72:3564) -> 光半減
 # Reduce damage from Light by 50%

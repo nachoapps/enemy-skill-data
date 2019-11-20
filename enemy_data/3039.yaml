@@ -17,7 +17,7 @@ level: 1
 overrides: []
 records:
 - !SkillRecord
-  desc_en: Do nothing + Do nothing, (if [3018, 3019, 3553] on team) (Preemptive)
+  desc_en: Do nothing + Do nothing (Preemptive), (if [3018, 3019, 3553] on team)
   max_atk_pct: null
   name_en: Heh + Ah, how this brings me back...
   one_time: 0
@@ -39,8 +39,8 @@ level: 4
 overrides: []
 records:
 - !SkillRecord
-  desc_en: Voids status ailments for 7 turns + Spawn random 5 Wood orbs, (if [3018,
-    3019, 3553] on team) (Preemptive)
+  desc_en: Voids status ailments for 7 turns + Spawn random 5 Wood orbs (Preemptive),
+    (if [3018, 3019, 3553] on team)
   max_atk_pct: null
   name_en: Heh + Ah, how this brings me back...
   one_time: 0

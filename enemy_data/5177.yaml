@@ -26,7 +26,7 @@ records:
   desc_en: Voids status ailments for 999 turns + Void damage >= 25000000 for 999 turns
     + Unable to match Fire orbs for 1 turns, Deal 120% damage (Preemptive)
   max_atk_pct: null
-  name_en: Water & Light Divine View + One Stoke of the Rain Dragon's Cloud + Leaving
+  name_en: Water & Light Divine View + A Wisp of the Rain Dragon's Cloud + Leaving
     it to the Fortune of Chance
   one_time: 1
   record_type_name: PREEMPT
@@ -35,7 +35,7 @@ records:
   desc_en: Voids status ailments for 999 turns + Void damage >= 25000000 for 999 turns
     + Unable to match Water orbs for 1 turns, Deal 120% damage (Preemptive)
   max_atk_pct: null
-  name_en: Water & Light Divine View + One Stoke of the Rain Dragon's Cloud + Leaving
+  name_en: Water & Light Divine View + A Wisp of the Rain Dragon's Cloud + Leaving
     it to the Fortune of Chance
   one_time: 1
   record_type_name: PREEMPT
@@ -44,7 +44,7 @@ records:
   desc_en: Voids status ailments for 999 turns + Void damage >= 25000000 for 999 turns
     + Unable to match Wood orbs for 1 turns, Deal 120% damage (Preemptive)
   max_atk_pct: null
-  name_en: Water & Light Divine View + One Stoke of the Rain Dragon's Cloud + Leaving
+  name_en: Water & Light Divine View + A Wisp of the Rain Dragon's Cloud + Leaving
     it to the Fortune of Chance
   one_time: 1
   record_type_name: PREEMPT
@@ -53,7 +53,7 @@ records:
   desc_en: Voids status ailments for 999 turns + Void damage >= 25000000 for 999 turns
     + Unable to match Light orbs for 1 turns, Deal 120% damage (Preemptive)
   max_atk_pct: null
-  name_en: Water & Light Divine View + One Stoke of the Rain Dragon's Cloud + Leaving
+  name_en: Water & Light Divine View + A Wisp of the Rain Dragon's Cloud + Leaving
     it to the Fortune of Chance
   one_time: 1
   record_type_name: PREEMPT
@@ -62,7 +62,7 @@ records:
   desc_en: Voids status ailments for 999 turns + Void damage >= 25000000 for 999 turns
     + Unable to match Dark orbs for 1 turns, Deal 120% damage (Preemptive)
   max_atk_pct: null
-  name_en: Water & Light Divine View + One Stoke of the Rain Dragon's Cloud + Leaving
+  name_en: Water & Light Divine View + A Wisp of the Rain Dragon's Cloud + Leaving
     it to the Fortune of Chance
   one_time: 1
   record_type_name: PREEMPT
@@ -190,7 +190,7 @@ records:
 # 	Condition: One-time use (ai:0 rnd:20) (one-time: 1)
 # 	[0] ESStatusShield(20:12826) -> Water & Light Divine View
 # 	Voids status ailments for 999 turns
-# 	[1] ESVoidShield(71:12827) -> One Stoke of the Rain Dragon's Cloud
+# 	[1] ESVoidShield(71:12827) -> A Wisp of the Rain Dragon's Cloud
 # 	Void damage >= 25000000 for 999 turns
 # 	[2] ESAttributeBlock(107:12828) -> Leaving it to the Fortune of Chance
 # 	Unable to match Fire orbs for 1 turns, Deal 120% damage
@@ -198,7 +198,7 @@ records:
 # 	Condition: One-time use (ai:0 rnd:20) (one-time: 1)
 # 	[0] ESStatusShield(20:12826) -> Water & Light Divine View
 # 	Voids status ailments for 999 turns
-# 	[1] ESVoidShield(71:12827) -> One Stoke of the Rain Dragon's Cloud
+# 	[1] ESVoidShield(71:12827) -> A Wisp of the Rain Dragon's Cloud
 # 	Void damage >= 25000000 for 999 turns
 # 	[2] ESAttributeBlock(107:12829) -> Leaving it to the Fortune of Chance
 # 	Unable to match Water orbs for 1 turns, Deal 120% damage
@@ -206,7 +206,7 @@ records:
 # 	Condition: One-time use (ai:0 rnd:20) (one-time: 1)
 # 	[0] ESStatusShield(20:12826) -> Water & Light Divine View
 # 	Voids status ailments for 999 turns
-# 	[1] ESVoidShield(71:12827) -> One Stoke of the Rain Dragon's Cloud
+# 	[1] ESVoidShield(71:12827) -> A Wisp of the Rain Dragon's Cloud
 # 	Void damage >= 25000000 for 999 turns
 # 	[2] ESAttributeBlock(107:12830) -> Leaving it to the Fortune of Chance
 # 	Unable to match Wood orbs for 1 turns, Deal 120% damage
@@ -214,7 +214,7 @@ records:
 # 	Condition: One-time use (ai:0 rnd:20) (one-time: 1)
 # 	[0] ESStatusShield(20:12826) -> Water & Light Divine View
 # 	Voids status ailments for 999 turns
-# 	[1] ESVoidShield(71:12827) -> One Stoke of the Rain Dragon's Cloud
+# 	[1] ESVoidShield(71:12827) -> A Wisp of the Rain Dragon's Cloud
 # 	Void damage >= 25000000 for 999 turns
 # 	[2] ESAttributeBlock(107:12831) -> Leaving it to the Fortune of Chance
 # 	Unable to match Light orbs for 1 turns, Deal 120% damage
@@ -222,7 +222,7 @@ records:
 # 	Condition: One-time use (ai:0 rnd:20) (one-time: 1)
 # 	[0] ESStatusShield(20:12826) -> Water & Light Divine View
 # 	Voids status ailments for 999 turns
-# 	[1] ESVoidShield(71:12827) -> One Stoke of the Rain Dragon's Cloud
+# 	[1] ESVoidShield(71:12827) -> A Wisp of the Rain Dragon's Cloud
 # 	Void damage >= 25000000 for 999 turns
 # 	[2] ESAttributeBlock(107:12832) -> Leaving it to the Fortune of Chance
 # 	Unable to match Dark orbs for 1 turns, Deal 120% damage

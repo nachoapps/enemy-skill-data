@@ -90,8 +90,6 @@ records:
   desc_en: Change 1st, 2nd column to Fire, Water, Poison orbs, 3rd, 4th column to
     Wood, Light, Poison orbs, 5th, 6th column to Dark, Heal, Poison orbs, Deal 120%
     damage
-    Wood, Light, Poison orbs, 5th, 6th column to Dark, Heal, Poison orbs, Deal 120%
-    damage
   max_atk_pct: 120
   name_en: Erythra
   one_time: 0

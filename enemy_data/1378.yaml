@@ -114,11 +114,10 @@ records:
 ############################################################
 # [1] ESPreemptive(49:355) -> ESPreemptive
 # Enable preempt if level 5
-# [2] ESDeathCry(69:1063) -> わたくしの真の姿を！！！
+# [2] ESDeathCry(69:1063) -> My true form!!!
 # 	Condition: On death (ai:0 rnd:0)
-# Show message: ごらんにいれましょう!!!
-# わたくしの真の姿を!!!|地獄以上の
-# 恐怖をみせてあげる
+# Show message: Feast your eyes while you can!!
+# On my final transformation!!|I'll show you a nightmare beyond the horrors of hell...
 # [3] ESBranchFlag(43:10) -> ESBranchFlag
 # Branch on flag & 1, target rnd 7
 # [4] ESFlagOperation(22:12) -> ESFlagOperation

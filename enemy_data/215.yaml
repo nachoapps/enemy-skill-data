@@ -59,5 +59,4 @@ records:
 # 	Condition: One-time use (ai:0 rnd:100) (one-time: 1)
 # Do nothing
 # [2] ESAttackMultihit(15:87) -> Chaos Ray
-# 	Condition: When < 25% hp (ai:0 rnd:100)
 # Deal 400% damage

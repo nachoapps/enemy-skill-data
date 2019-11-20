@@ -116,6 +116,6 @@ records:
 # [12] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b11
 # [13] ESRecoverPlayer(55:3385) -> Hello! Want some candy?
-# Player recover 100% hp, (if [788, 790, 792, 794] on team)
+# Player recover 100% hp
 # [14] ESEndPath(36:26) -> ESEndPath
 # end_turn

@@ -113,9 +113,9 @@ records:
 ############################################################
 # [1] ESPreemptive(49:318) -> ESPreemptive
 # Enable preempt if level 1
-# [2] ESDeathCry(69:2462) -> *****
+# [2] ESDeathCry(69:2462) -> 龍騎士風ドラゴン・変身
 # 	Condition: On death (ai:0 rnd:0)
-# Show message: Well done! I too must evolve!
+# Show message: 見事だ、私も戦いの中で進化しよう！
 # [3] ESBranchFlag(43:10) -> ESBranchFlag
 # Branch on flag & 1, target rnd 7
 # [4] ESFlagOperation(22:12) -> ESFlagOperation
@@ -162,5 +162,5 @@ records:
 # Deal 180% damage (3 hits, 60% each)
 # [25] ESEndPath(36:26) -> ESEndPath
 # end_turn
-# [26] ESAttributeResist(72:2456) -> *****
+# [26] ESAttributeResist(72:2456) -> 龍騎士風ドラゴン・パッシブ
 # Reduce damage from Wood, Light by 50%

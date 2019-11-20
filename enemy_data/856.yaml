@@ -4,7 +4,7 @@
 !EntryInfo
 comments: null
 monster_id: 856
-monster_name_en: Wroggi Cat
+monster_name_en: フロギィネコ
 reviewed_by: unreviewed
 warnings: []
 
@@ -44,5 +44,4 @@ records:
 # [1] ESPreemptive(49:318) -> ESPreemptive
 # Enable preempt if level 1
 # [2] ESJammerChangeRandom(13:98) -> Random Change Lv.2
-# 	Condition: When < 75% hp (ai:0 rnd:100)
 # Change Random 2 to Jammer

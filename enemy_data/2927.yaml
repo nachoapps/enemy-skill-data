@@ -171,8 +171,8 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Voids status ailments for 999 turns + Bind 4 random subs for 3 turns, Deal 50%
-    damage
+  desc_en: Voids status ailments for 999 turns + Bind 4 random subs for 3 turns, Deal
+    50% damage
   max_atk_pct: null
   name_en: Sky God Protection + Dragon Summoning!!!
   one_time: 1

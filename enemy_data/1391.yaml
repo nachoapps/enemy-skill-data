@@ -53,7 +53,7 @@ records:
 - !SkillRecord
   desc_en: Leader changes to random sub for 2 turns
   max_atk_pct: null
-  name_en: チェーンジ!!!
+  name_en: Change!!
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -79,7 +79,7 @@ records:
 # Change Random to Jammer, Deal 75% damage
 # [5] ESEndPath(36:26) -> ESEndPath
 # end_turn
-# [6] ESLeaderSwap(75:1800) -> チェーンジ!!!
+# [6] ESLeaderSwap(75:1800) -> Change!!
 # 	Condition: When < 50% hp , one-time use (ai:100 rnd:0) (one-time: 1)
 # Leader changes to random sub for 2 turns
 # [7] ESOrbChangeAttack(48:1103) -> ミルキーキャノン

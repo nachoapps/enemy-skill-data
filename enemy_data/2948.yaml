@@ -34,8 +34,6 @@ records:
   desc_en: Voids status ailments for 999 turns + Absorb damage >= 3000000 damage for
     5 turns + Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs
-    5 turns + Lock all Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
-    Poison orbs
   max_atk_pct: null
   name_en: Protection of the Gods + Storm Vesture + Shall we begin?
   one_time: 1

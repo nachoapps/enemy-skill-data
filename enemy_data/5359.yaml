@@ -4,7 +4,7 @@
 !EntryInfo
 comments: null
 monster_id: 5359
-monster_name_en: アオオンマル
+monster_name_en: Little Blue Note
 reviewed_by: unreviewed
 warnings: []
 
@@ -25,7 +25,7 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 999 turns (When 1 enemy remains)
   max_atk_pct: null
-  name_en: 楽士の絆
+  name_en: Musician's Bonds
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -39,14 +39,14 @@ records:
 - !SkillRecord
   desc_en: Delay active skills by 2 turns, Deal 100% damage
   max_atk_pct: 100
-  name_en: 伸びやかな高音
+  name_en: Comfortable High-Pitched Sound
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
 - !SkillRecord
   desc_en: Change 1st column to Water orbs, Deal 95% damage
   max_atk_pct: 95
-  name_en: 響き渡るメロディー
+  name_en: Echoing Melody
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -66,13 +66,13 @@ records:
 # Branch on level > 4, target rnd 3
 # [2] ESEndPath(36:26) -> ESEndPath
 # end_turn
-# [3] ESAttackUPRemainingEnemies(17:13462) -> 楽士の絆
+# [3] ESAttackUPRemainingEnemies(17:13462) -> Musician's Bonds
 # 	Condition: One-time use, when <= 1 enemies remain (ai:100 rnd:0) (one-time: 1)
 # Increase damage to 150% for the next 999 turns
-# [4] ESSkillDelay(89:13454) -> 伸びやかな高音
+# [4] ESSkillDelay(89:13454) -> Comfortable High-Pitched Sound
 # 	Condition: 50% chance (ai:0 rnd:50)
 # Delay active skills by 2 turns, Deal 100% damage
-# [5] ESColumnSpawnMulti(77:13455) -> 響き渡るメロディー
+# [5] ESColumnSpawnMulti(77:13455) -> Echoing Melody
 # 	Condition: 50% chance (ai:0 rnd:50)
 # Change 1st column to Water orbs, Deal 95% damage
 # [6] ESEndPath(36:26) -> ESEndPath

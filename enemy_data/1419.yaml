@@ -125,7 +125,7 @@ records:
 # Reduce damage from all sources by 75% for 12 turns
 # [10] ESLeaderSwap(75:10888) -> The Ball
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
-# Leader changes to random sub for 1 turns, (if >=9 combos last turn)
+# Leader changes to random sub for 1 turns
 # [11] ESAttackMultihit(15:10887) -> Glass Slipper
 # Deal 120% damage (2 hits, 60% each)
 # [12] ESEndPath(36:26) -> ESEndPath

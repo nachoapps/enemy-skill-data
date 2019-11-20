@@ -132,7 +132,7 @@ records:
   desc_en: Absorb combo <= 6 damage for 5 turns + Change own attribute to random one
     of Fire, Water, Wood, Light, Dark, Deal 100% damage
   max_atk_pct: null
-  name_en: Outside this wide cage I grasped thoughts + And pursued a visible truth
+  name_en: Outside this cage I grasped thoughts + And pursued a visible truth
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -266,7 +266,7 @@ records:
   desc_en: Absorb combo <= 6 damage for 5 turns + Change own attribute to random one
     of Fire, Water, Wood, Light, Dark, Deal 100% damage
   max_atk_pct: null
-  name_en: Outside this wide cage I grasped thoughts + And pursued a visible truth
+  name_en: Outside this cage I grasped thoughts + And pursued a visible truth
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -386,7 +386,7 @@ records:
 # 	[1] ESOrbChangeAttack(48:12719) -> And I could dream
 # 	Change Random to Jammer, Deal 100% damage
 # [19] SkillSet:
-# 	[0] ESAbsorbCombo(67:12721) -> Outside this wide cage I grasped thoughts
+# 	[0] ESAbsorbCombo(67:12721) -> Outside this cage I grasped thoughts
 # 	Absorb combo <= 6 damage for 5 turns
 # 	[1] ESChangeAttribute(46:12722) -> And pursued a visible truth
 # 	Change own attribute to random one of Fire, Water, Wood, Light, Dark, Deal 100% damage

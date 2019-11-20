@@ -23,8 +23,8 @@ records:
   record_type_name: PREEMPT
   usage_pct: 100
 - !SkillRecord
-  desc_en: Deal 1000% damage
-  max_atk_pct: 1000
+  desc_en: Deal 100% damage
+  max_atk_pct: 100
   name_en: TAMA!
   one_time: 0
   record_type_name: ACTION
@@ -55,5 +55,5 @@ records:
 # Delay active skills by 2 turns
 # [7] ESEndPath(36:26) -> ESEndPath
 # end_turn
-# [8] ESAttackMultihit(15:3118) -> TAMA!
-# Deal 1000% damage
+# [8] ESAttackMultihit(15:14466) -> TAMA!
+# Deal 100% damage

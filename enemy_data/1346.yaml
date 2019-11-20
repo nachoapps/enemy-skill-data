@@ -216,7 +216,7 @@ records:
 # flag SET 0b11
 # [17] ESRandomSpawn(92:3182) -> Keep it up, big brother!
 # 	Condition: When fire, water, wood, light, dark, jammer, poison, mortal poison orbs are on the board (ai:100 rnd:0)
-# Spawn random 3 Heal orbs, (if [368, 369, 652, 1344] on team)
+# Spawn random 3 Heal orbs
 # [18] ESBranchFlag(43:10) -> ESBranchFlag
 # Branch on flag & 4, target rnd 8
 # [19] ESFlagOperation(22:12) -> ESFlagOperation

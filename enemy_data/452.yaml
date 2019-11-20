@@ -4,7 +4,7 @@
 !EntryInfo
 comments: null
 monster_id: 452
-monster_name_en: Ultimate Archer
+monster_name_en: 最強装備・弓使い
 reviewed_by: unreviewed
 warnings: []
 
@@ -18,7 +18,7 @@ records:
 - !SkillRecord
   desc_en: Bind 1 both leaders for 2~4 turns
   max_atk_pct: null
-  name_en: '*****'
+  name_en: デバッグ用_リーダー助っ人縛り
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -34,5 +34,5 @@ records:
 ############################################################
 ### Raw Behavior
 ############################################################
-# [1] ESBindTarget(54:364) -> *****
+# [1] ESBindTarget(54:364) -> デバッグ用_リーダー助っ人縛り
 # Bind 1 both leaders for 2~4 turns

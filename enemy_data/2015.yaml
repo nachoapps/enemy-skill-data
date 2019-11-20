@@ -32,8 +32,8 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Voids status ailments for 999 turns + Bind 1 random subs for 4 turns, Deal 150%
-    damage
+  desc_en: Voids status ailments for 999 turns + Bind 1 random subs for 4 turns, Deal
+    150% damage
   max_atk_pct: null
   name_en: I'll keep everything under strict control + I won't forgive any mistakes!
   one_time: 64

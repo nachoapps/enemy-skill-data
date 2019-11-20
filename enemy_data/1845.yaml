@@ -167,5 +167,5 @@ records:
 # [15] ESGravity(50:2468) -> Brave Resistance
 # 	Condition: When < 50% hp (ai:100 rnd:0)
 # Player -99% HP
-# [16] ESAttributeResist(72:2456) -> *****
+# [16] ESAttributeResist(72:2456) -> 龍騎士風ドラゴン・パッシブ
 # Reduce damage from Wood, Light by 50%

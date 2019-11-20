@@ -168,7 +168,7 @@ records:
 # [7] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [8] ESRecoverEnemyAlly(52:3422) -> Friendly Thought
-# 	Condition: When enemy ally is killed (ai:100 rnd:0)
+# 	Condition: when <= 1 enemies remain (ai:100 rnd:0)
 # Enemy ally recover 45% hp
 # [9] ESBranchHP(28:18) -> ESBranchHP
 # Branch on hp < 70, target rnd 16

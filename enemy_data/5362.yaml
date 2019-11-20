@@ -4,7 +4,7 @@
 !EntryInfo
 comments: null
 monster_id: 5362
-monster_name_en: クロオンマル
+monster_name_en: Little Black Note
 reviewed_by: unreviewed
 warnings: []
 
@@ -25,7 +25,7 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 999 turns (When 1 enemy remains)
   max_atk_pct: null
-  name_en: 楽士の絆
+  name_en: Musician's Bonds
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -39,7 +39,7 @@ records:
 - !SkillRecord
   desc_en: Random 2 orbs change every 1.0s for 1 turns, Deal 95% damage
   max_atk_pct: 95
-  name_en: フリフリステッキ
+  name_en: Fluttery Stick
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -47,7 +47,7 @@ records:
   desc_en: Spawn random 1 Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison orbs,
     Deal 100% damage
   max_atk_pct: 100
-  name_en: 行進の道標
+  name_en: Marching Guide
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -67,13 +67,13 @@ records:
 # Branch on level > 4, target rnd 3
 # [2] ESEndPath(36:26) -> ESEndPath
 # end_turn
-# [3] ESAttackUPRemainingEnemies(17:13462) -> 楽士の絆
+# [3] ESAttackUPRemainingEnemies(17:13462) -> Musician's Bonds
 # 	Condition: One-time use, when <= 1 enemies remain (ai:100 rnd:0) (one-time: 1)
 # Increase damage to 150% for the next 999 turns
-# [4] ESSpinnersRandom(109:13460) -> フリフリステッキ
+# [4] ESSpinnersRandom(109:13460) -> Fluttery Stick
 # 	Condition: 50% chance (ai:0 rnd:50)
 # Random 2 orbs change every 1.0s for 1 turns, Deal 95% damage
-# [5] ESRandomSpawn(92:13461) -> 行進の道標
+# [5] ESRandomSpawn(92:13461) -> Marching Guide
 # 	Condition: 50% chance (ai:0 rnd:50)
 # Spawn random 1 Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison orbs, Deal 100% damage
 # [6] ESEndPath(36:26) -> ESEndPath

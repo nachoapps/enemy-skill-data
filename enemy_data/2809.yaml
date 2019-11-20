@@ -209,7 +209,7 @@ records:
 # 	Player -99% HP
 # 	[1] ESSkyfall(68:12695) -> How cold you are!
 # 	Poison skyfall +15% for 10 turns
-# [12] ESBlind(5:12686) -> Can you quit staring at me like that?
+# [12] ESBlind(62:12686) -> Can you quit staring at me like that?
 # 	Condition: 25% chance (ai:0 rnd:25)
 # Blind all orbs on the board, Deal 100% damage
 # [13] ESBindAttack(63:12687) -> Don't sleep!

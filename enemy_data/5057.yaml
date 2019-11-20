@@ -86,8 +86,6 @@ records:
   desc_en: Change 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, Poison
     orbs, Deal 52% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
-    orbs, Deal 52% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
-    Poison, Mortal Poison orbs, Deal 50% damage
   max_atk_pct: null
   name_en: Seven Lands and Seas + Starlight Road
   one_time: 0
@@ -95,8 +93,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Mortal Poison,
-    Deal 50% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
-    Poison, Mortal Poison orbs, Deal 50% damage
     Deal 50% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
   max_atk_pct: null
@@ -145,8 +141,6 @@ records:
   desc_en: Change 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, Poison
     orbs, Deal 52% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
-    orbs, Deal 52% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
-    Poison, Mortal Poison orbs, Deal 50% damage
   max_atk_pct: null
   name_en: Seven Lands and Seas + Starlight Road
   one_time: 0
@@ -154,8 +148,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Mortal Poison,
-    Deal 50% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
-    Poison, Mortal Poison orbs, Deal 50% damage
     Deal 50% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
   max_atk_pct: null
@@ -204,8 +196,6 @@ records:
   desc_en: Change 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, Poison
     orbs, Deal 52% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
-    orbs, Deal 52% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
-    Poison, Mortal Poison orbs, Deal 50% damage
   max_atk_pct: null
   name_en: Seven Lands and Seas + Starlight Road
   one_time: 0
@@ -213,8 +203,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Mortal Poison,
-    Deal 50% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
-    Poison, Mortal Poison orbs, Deal 50% damage
     Deal 50% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
   max_atk_pct: null
@@ -285,8 +273,6 @@ records:
   desc_en: Change 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, Poison
     orbs, Deal 52% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
-    orbs, Deal 52% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
-    Poison, Mortal Poison orbs, Deal 50% damage
   max_atk_pct: null
   name_en: Seven Lands and Seas + Starlight Road
   one_time: 0
@@ -294,8 +280,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Mortal Poison,
-    Deal 50% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
-    Poison, Mortal Poison orbs, Deal 50% damage
     Deal 50% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
   max_atk_pct: null
@@ -393,8 +377,6 @@ records:
   desc_en: Change 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, Poison
     orbs, Deal 52% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
-    orbs, Deal 52% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
-    Poison, Mortal Poison orbs, Deal 50% damage
   max_atk_pct: null
   name_en: Seven Lands and Seas + Starlight Road
   one_time: 0
@@ -402,8 +384,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Mortal Poison,
-    Deal 50% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
-    Poison, Mortal Poison orbs, Deal 50% damage
     Deal 50% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
   max_atk_pct: null
@@ -466,8 +446,6 @@ records:
   desc_en: Change 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, Poison
     orbs, Deal 52% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
-    orbs, Deal 52% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
-    Poison, Mortal Poison orbs, Deal 50% damage
   max_atk_pct: null
   name_en: Seven Lands and Seas + Starlight Road
   one_time: 0
@@ -475,8 +453,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Mortal Poison,
-    Deal 50% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
-    Poison, Mortal Poison orbs, Deal 50% damage
     Deal 50% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
   max_atk_pct: null
@@ -518,8 +494,6 @@ records:
   desc_en: Change 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, Poison
     orbs, Deal 52% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
-    orbs, Deal 52% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
-    Poison, Mortal Poison orbs, Deal 50% damage
   max_atk_pct: null
   name_en: Seven Lands and Seas + Starlight Road
   one_time: 0
@@ -527,8 +501,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Mortal Poison,
-    Deal 50% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
-    Poison, Mortal Poison orbs, Deal 50% damage
     Deal 50% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
   max_atk_pct: null
@@ -612,8 +584,6 @@ records:
   desc_en: Change 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, Poison
     orbs, Deal 52% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
-    orbs, Deal 52% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
-    Poison, Mortal Poison orbs, Deal 50% damage
   max_atk_pct: null
   name_en: Seven Lands and Seas + Starlight Road
   one_time: 0
@@ -621,8 +591,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Mortal Poison,
-    Deal 50% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
-    Poison, Mortal Poison orbs, Deal 50% damage
     Deal 50% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
   max_atk_pct: null
@@ -671,8 +639,6 @@ records:
   desc_en: Change 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, Poison
     orbs, Deal 52% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
-    orbs, Deal 52% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
-    Poison, Mortal Poison orbs, Deal 50% damage
   max_atk_pct: null
   name_en: Seven Lands and Seas + Starlight Road
   one_time: 0
@@ -680,8 +646,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Mortal Poison,
-    Deal 50% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
-    Poison, Mortal Poison orbs, Deal 50% damage
     Deal 50% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
   max_atk_pct: null
@@ -730,8 +694,6 @@ records:
   desc_en: Change 2nd, 3rd, 4th row to Fire, Water, Wood, Light, Dark, Heal, Poison
     orbs, Deal 52% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
-    orbs, Deal 52% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
-    Poison, Mortal Poison orbs, Deal 50% damage
   max_atk_pct: null
   name_en: Seven Lands and Seas + Starlight Road
   one_time: 0
@@ -739,8 +701,6 @@ records:
   usage_pct: 25
 - !SkillRecord
   desc_en: Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Mortal Poison,
-    Deal 50% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
-    Poison, Mortal Poison orbs, Deal 50% damage
     Deal 50% damage + Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer,
     Poison, Mortal Poison orbs, Deal 50% damage
   max_atk_pct: null

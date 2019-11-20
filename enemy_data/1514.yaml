@@ -26,8 +26,6 @@ records:
   desc_en: Voids status ailments for 999 turns + Absorb combo <= 4 damage for 999
     turns + 6x3 cloud appear for 1 turns at 2nd row, 1st column, Deal 120% damage
     (Preemptive)
-    turns + 6x3 cloud appear for 1 turns at 2nd row, 1st column, Deal 120% damage
-    (Preemptive)
   max_atk_pct: null
   name_en: I'm here! + Are you ready? + Run, run, run!
   one_time: 1
@@ -148,7 +146,7 @@ records:
 # [6] ESDebuffMovetime(39:10215) -> Hehe! You give up?
 # Movetime 25% for 1 turns
 # [7] ESSpinnersFixed(110:10214) -> Hum! What about this?
-# Specific orbs change every 1.0s for 1 turns, (if >=5 combos last turn)
+# Specific orbs change every 1.0s for 1 turns
 # [8] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [9] ESBranchFlag(43:10) -> ESBranchFlag
@@ -168,7 +166,7 @@ records:
 # [16] ESDebuffMovetime(39:10215) -> Hehe! You give up?
 # Movetime 25% for 1 turns
 # [17] ESSpinnersFixed(110:10214) -> Hum! What about this?
-# Specific orbs change every 1.0s for 1 turns, (if >=5 combos last turn)
+# Specific orbs change every 1.0s for 1 turns
 # [18] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [19] ESBranchFlag(43:10) -> ESBranchFlag

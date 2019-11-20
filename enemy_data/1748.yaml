@@ -60,5 +60,5 @@ records:
 # end_turn
 # [6] ESRowSpawnMulti(79:1902) -> Death Scythe
 # Change 3rd row to Dark orbs, Deal 1000% damage
-# [7] ESAttributeResist(72:1883) -> *****
+# [7] ESAttributeResist(72:1883) -> パッシブ・ハーデス
 # Reduce damage from Wood, Dark by 50%

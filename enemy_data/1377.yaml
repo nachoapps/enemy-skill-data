@@ -83,10 +83,9 @@ records:
 ############################################################
 ### Raw Behavior
 ############################################################
-# [1] ESDeathCry(69:1062) -> この変身をみせるのは初めてだ！
+# [1] ESDeathCry(69:1062) -> It's the first time I ever used this transformation!
 # 	Condition: On death (ai:0 rnd:0)
-# Show message: この変身までみせるのは
-# きさまが初めてだ!!!|おまたせしましたね…
+# Show message: You are the first ones to ever see this!|Thank you for waiting...
 # [2] ESBranchLevel(35:25) -> ESBranchLevel
 # Branch on level > 5, target rnd 4
 # [3] ESEndPath(36:26) -> ESEndPath

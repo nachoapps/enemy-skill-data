@@ -4,7 +4,7 @@
 !EntryInfo
 comments: null
 monster_id: 3625
-monster_name_en: Warlock, Fei Wang Reed
+monster_name_en: 魔術師・飛王・リード
 reviewed_by: unreviewed
 warnings: []
 
@@ -16,16 +16,16 @@ level: 1
 overrides: []
 records:
 - !SkillRecord
-  desc_en: Voids status ailments for 4 turns + Player -99% HP, (if [3613] on team)
-    (Preemptive)
+  desc_en: Voids status ailments for 4 turns + Player -99% HP (Preemptive), (if [3613]
+    on team)
   max_atk_pct: null
   name_en: You're nothing more than a puppet! + Death Seal
   one_time: 1
   record_type_name: PREEMPT
   usage_pct: 100
 - !SkillRecord
-  desc_en: Voids status ailments for 4 turns + Player -99% HP, (if [3611, 3612] on
-    team) (Preemptive)
+  desc_en: Voids status ailments for 4 turns + Player -99% HP (Preemptive), (if [3611,
+    3612] on team)
   max_atk_pct: null
   name_en: I shall erase you from all dimensions! + Death Seal
   one_time: 1

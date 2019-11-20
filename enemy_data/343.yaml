@@ -59,5 +59,5 @@ records:
 # 	Condition: 60% chance when < 30% hp (ai:60 rnd:0)
 # Deal 100%~250% damage (2~5 hits, 50% each)
 # [2] ESAttackMultihit(15:124) -> Fire Blast
-# 	Condition: 25% chance when < 60% hp (ai:0 rnd:25)
+# 	Condition: 25% chance (ai:0 rnd:25)
 # Deal 125% damage

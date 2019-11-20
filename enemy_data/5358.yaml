@@ -4,7 +4,7 @@
 !EntryInfo
 comments: null
 monster_id: 5358
-monster_name_en: アカオンマル
+monster_name_en: Little Red Note
 reviewed_by: unreviewed
 warnings: []
 
@@ -25,7 +25,7 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 999 turns (When 1 enemy remains)
   max_atk_pct: null
-  name_en: 楽士の絆
+  name_en: Musician's Bonds
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -39,14 +39,14 @@ records:
 - !SkillRecord
   desc_en: Bind 1 random subs for 2 turns, Deal 95% damage
   max_atk_pct: 95
-  name_en: 始まりの鼓動
+  name_en: Beginning of the Beat
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
 - !SkillRecord
   desc_en: Player -35% HP
   max_atk_pct: null
-  name_en: 鳴り響くドラムロール
+  name_en: Reverberating Drum Roll
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -66,13 +66,13 @@ records:
 # Branch on level > 4, target rnd 3
 # [2] ESEndPath(36:26) -> ESEndPath
 # end_turn
-# [3] ESAttackUPRemainingEnemies(17:13462) -> 楽士の絆
+# [3] ESAttackUPRemainingEnemies(17:13462) -> Musician's Bonds
 # 	Condition: One-time use, when <= 1 enemies remain (ai:100 rnd:0) (one-time: 1)
 # Increase damage to 150% for the next 999 turns
-# [4] ESBindAttack(63:13452) -> 始まりの鼓動
+# [4] ESBindAttack(63:13452) -> Beginning of the Beat
 # 	Condition: 50% chance (ai:0 rnd:50)
 # Bind 1 random subs for 2 turns, Deal 95% damage
-# [5] ESGravity(50:13453) -> 鳴り響くドラムロール
+# [5] ESGravity(50:13453) -> Reverberating Drum Roll
 # 	Condition: 50% chance (ai:0 rnd:50)
 # Player -35% HP
 # [6] ESEndPath(36:26) -> ESEndPath

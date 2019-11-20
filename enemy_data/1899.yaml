@@ -18,21 +18,21 @@ records:
 - !SkillRecord
   desc_en: Blind orbs in specific positions for 5 turns (Preemptive)
   max_atk_pct: null
-  name_en: 影龍の眼
+  name_en: Glare of the Shadow Dragon
   one_time: 1
   record_type_name: PREEMPT
   usage_pct: 100
 - !SkillRecord
   desc_en: Change 5th column to Dark orbs, Deal 95% damage
   max_atk_pct: 95
-  name_en: 神速の一太刀
+  name_en: Godspeed Sword Slice
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
 - !SkillRecord
   desc_en: Spawn random 5 Bomb orbs, Deal 90% damage
   max_atk_pct: 90
-  name_en: 偽影
+  name_en: False Shadow
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -46,21 +46,21 @@ records:
 - !SkillRecord
   desc_en: Blind all orbs on the board, Deal 100% damage
   max_atk_pct: 100
-  name_en: 残影剣
+  name_en: Remnant Sword
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
 - !SkillRecord
   desc_en: Change 5th column to Dark orbs, Deal 95% damage
   max_atk_pct: 95
-  name_en: 神速の一太刀
+  name_en: Godspeed Sword Slice
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
 - !SkillRecord
   desc_en: Spawn random 5 Bomb orbs, Deal 90% damage
   max_atk_pct: 90
-  name_en: 偽影
+  name_en: False Shadow
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -74,7 +74,7 @@ records:
 - !SkillRecord
   desc_en: Deal 300% damage (6 hits, 50% each)
   max_atk_pct: 300
-  name_en: 影龍の斬撃
+  name_en: Shadow Dragon Slash
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -92,25 +92,25 @@ records:
 ############################################################
 # [1] ESPreemptive(49:318) -> ESPreemptive
 # Enable preempt if level 1
-# [2] ESBlindStickyFixed(98:13381) -> 影龍の眼
+# [2] ESBlindStickyFixed(98:13381) -> Glare of the Shadow Dragon
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
 # Blind orbs in specific positions for 5 turns
 # [3] ESBranchHP(28:18) -> ESBranchHP
 # Branch on hp < 20, target rnd 9
 # [4] ESBranchHP(29:19) -> ESBranchHP
 # Branch on hp > 51, target rnd 6
-# [5] ESBlind(62:13384) -> 残影剣
+# [5] ESBlind(62:13384) -> Remnant Sword
 # 	Condition: 50% chance (ai:50 rnd:0)
 # Blind all orbs on the board, Deal 100% damage
-# [6] ESColumnSpawnMulti(77:13382) -> 神速の一太刀
+# [6] ESColumnSpawnMulti(77:13382) -> Godspeed Sword Slice
 # 	Condition: 50% chance (ai:0 rnd:50)
 # Change 5th column to Dark orbs, Deal 95% damage
-# [7] ESBombRandomSpawn(102:13383) -> 偽影
+# [7] ESBombRandomSpawn(102:13383) -> False Shadow
 # 	Condition: 50% chance (ai:0 rnd:50)
 # Spawn random 5 Bomb orbs, Deal 90% damage
 # [8] ESEndPath(36:26) -> ESEndPath
 # end_turn
-# [9] ESAttackMultihit(15:13385) -> 影龍の斬撃
+# [9] ESAttackMultihit(15:13385) -> Shadow Dragon Slash
 # Deal 300% damage (6 hits, 50% each)
 # [10] ESEndPath(36:26) -> ESEndPath
 # end_turn

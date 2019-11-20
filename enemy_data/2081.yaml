@@ -91,8 +91,8 @@ records:
   record_type_name: ACTION
   usage_pct: 100
 - !SkillRecord
-  desc_en: Bind 5 random cards for 2 turns, Deal 70% damage + Enemy recover 10% hp, Deal
-    10% damage
+  desc_en: Bind 5 random cards for 2 turns, Deal 70% damage + Enemy recover 10% hp,
+    Deal 10% damage
   max_atk_pct: null
   name_en: Shankha + Avatar
   one_time: 1

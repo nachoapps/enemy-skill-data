@@ -16,7 +16,7 @@ level: 4
 overrides: []
 records:
 - !SkillRecord
-  desc_en: Player recover 100% hp, (if [650, 651, 2948] on team) (Preemptive)
+  desc_en: Player recover 100% hp (Preemptive), (if [650, 651, 2948] on team)
   max_atk_pct: null
   name_en: Please make me happy ♪
   one_time: 0
@@ -134,7 +134,7 @@ records:
 # [7] ESRecoverPlayer(55:4725) -> I am very happy!
 # Player recover 100% hp
 # [8] ESRecoverPlayer(55:4732) -> Please make me happy ♪
-# Player recover 100% hp, (if [650, 651, 2948] on team)
+# Player recover 100% hp
 # [9] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [10] ESBranchHP(28:18) -> ESBranchHP

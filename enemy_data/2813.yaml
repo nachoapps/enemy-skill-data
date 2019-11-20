@@ -36,8 +36,6 @@ records:
   desc_en: Do nothing + 3x2 cloud appear for 1 turns at 3rd row, 3rd column + Spawn
     random 10 Fire, Water, Wood, Light orbs + Absorb combo <= 8 damage for 1 turns,
     (if >=18 combos last turn)
-    random 10 Fire, Water, Wood, Light orbs + Absorb combo <= 8 damage for 1 turns,
-    (if >=18 combos last turn)
   max_atk_pct: null
   name_en: Good Soprano + Everyone's enthusiasm is great! + I'm not done yet! + I
     wonder if you can make it to the end!
@@ -46,8 +44,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Change 1st, 6th column to Light orbs, 2nd, 5th column to Dark orbs + Spawn
-    Bomb orbs in the specified positions + Absorb combo <= 7 damage for 1 turns, (if
-    >=7 combos last turn)
     Bomb orbs in the specified positions + Absorb combo <= 7 damage for 1 turns, (if
     >=7 combos last turn)
   max_atk_pct: null
@@ -79,8 +75,6 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: 3x2 cloud appear for 1 turns at 3rd row, 3rd column + Spawn random 10 Fire,
-    Water, Wood, Light orbs + Absorb combo <= 8 damage for 1 turns, (if >=8 combos
-    last turn)
     Water, Wood, Light orbs + Absorb combo <= 8 damage for 1 turns, (if >=8 combos
     last turn)
   max_atk_pct: null
@@ -270,7 +264,7 @@ records:
 # 	[2] ESAbsorbCombo(67:9604) -> This is really the end!
 # 	Absorb combo <= 9 damage for 1 turns
 # [31] ESEndBattle(40:9568) -> That was a great combo!
-# Reduce self HP to 0, (if >=10 combos last turn)
+# Reduce self HP to 0
 # [32] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [33] ESBranchFlag(43:10) -> ESBranchFlag

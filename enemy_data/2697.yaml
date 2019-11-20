@@ -173,7 +173,7 @@ records:
 # [19] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b11
 # [20] ESOrbLock(94:2758) -> Well, "ichi", what say we be friends!
-# Lock 3 random Fire, Water, Wood, Light, Dark, Heal, Jammer orbs, (if [2675, 2676, 2677, 3353, 3354] on team)
+# Lock 3 random Fire, Water, Wood, Light, Dark, Heal, Jammer orbs
 # [21] SkillSet:
 # 	Condition: On death (ai:100 rnd:0)
 # 	[0] ESBlind(5:2821) -> I'm not so lucky after all.

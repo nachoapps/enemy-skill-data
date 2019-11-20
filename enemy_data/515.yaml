@@ -136,8 +136,6 @@ records:
   desc_en: Absorb combo <= 5 damage for 10 turns + 2x3 cloud appear for 10 turns at
     2nd row, 3rd column + Movetime 50% for 10 turns + Increase damage to 150% for
     the next 10 turns
-    2nd row, 3rd column + Movetime 50% for 10 turns + Increase damage to 150% for
-    the next 10 turns
   max_atk_pct: null
   name_en: Test of Skill + Test of Perception + Test of Speed + Test of Endurance
   one_time: 30

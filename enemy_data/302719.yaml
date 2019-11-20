@@ -4,7 +4,7 @@
 !EntryInfo
 comments: null
 monster_id: 302719
-monster_name_en: 全能神・ゼウス＝ドラゴン
+monster_name_en: Almighty God, Zeus Dragon
 reviewed_by: unreviewed
 warnings:
 - Found 1 unused actions
@@ -20,14 +20,14 @@ records:
   desc_en: Void damage >= 20000000 for 99 turns + Voids status ailments for 999 turns
     + Player -35% HP (Preemptive)
   max_atk_pct: null
-  name_en: 神王の雷衣 + ドラゴンスキン + ラース・オブ・ゼウス
+  name_en: Divine King's Lightning Cloak + Dragon Skin + Wrath of Zeus
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
 - !SkillRecord
   desc_en: Voids player buff effects + Player -500% HP
   max_atk_pct: null
-  name_en: 神龍眼 + ドラゴンノヴァ
+  name_en: Glare of the Dragon God + Dragon Nova
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -42,7 +42,7 @@ records:
   desc_en: Change own attribute to random one of Fire, Water, Wood, Light, Dark +
     Bind 1 random cards for 2 turns, Deal 200% damage
   max_atk_pct: null
-  name_en: 全知全能 + 縛雷
+  name_en: Almighty + Thunder Bind
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -57,7 +57,7 @@ records:
   desc_en: Change own attribute to random one of Fire, Water, Wood, Light, Dark +
     Blind all orbs on the board, Deal 240% damage
   max_atk_pct: null
-  name_en: 全知全能 + ダークライトニング
+  name_en: Almighty + Dark Lightning
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -72,7 +72,7 @@ records:
   desc_en: Change own attribute to random one of Fire, Water, Wood, Light, Dark +
     Change Random 3 to Poison, Deal 260% damage
   max_atk_pct: null
-  name_en: 全知全能 + デッドファング
+  name_en: Almighty + Dead Fang
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -87,7 +87,7 @@ records:
   desc_en: Change own attribute to random one of Fire, Water, Wood, Light, Dark +
     Change Heal to Jammer, Deal 280% damage
   max_atk_pct: null
-  name_en: 全知全能 + ハートエンド
+  name_en: Almighty + Heart End
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -109,7 +109,7 @@ records:
   desc_en: Change own attribute to random one of Fire, Water, Wood, Light, Dark +
     Absorb combo <= 7 damage for 3 turns + Deal 600% damage (4 hits, 150% each)
   max_atk_pct: null
-  name_en: 全知全能 + 天空の試練 + 天戒
+  name_en: Almighty + Trial of the Sky + Heaven Commandment
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -117,7 +117,7 @@ records:
   desc_en: Change own attribute to random one of Fire, Water, Wood, Light, Dark +
     Change 3rd column to Jammer orbs, Deal 340% damage
   max_atk_pct: null
-  name_en: 全知全能 + ボルトレイ
+  name_en: Almighty + Volt Ray
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -131,7 +131,7 @@ records:
 - !SkillRecord
   desc_en: Deal 450% damage (5 hits, 90% each) + Change all orbs to Heal, Poison
   max_atk_pct: null
-  name_en: チェインブラスト + 新天
+  name_en: Chain Blast + New Sky
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -146,7 +146,7 @@ records:
   desc_en: Deal 780% damage (6 hits, 130% each) + Lock 15 random Fire, Water, Wood,
     Light, Dark, Heal, Jammer, Poison orbs
   max_atk_pct: null
-  name_en: ストームライトニング + 神煌
+  name_en: Storm Lightning + Glittering God
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -160,7 +160,7 @@ records:
 - !SkillRecord
   desc_en: Voids player buff effects + Player -500% HP
   max_atk_pct: null
-  name_en: 神龍眼 + ドラゴンノヴァ
+  name_en: Glare of the Dragon God + Dragon Nova
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -168,7 +168,7 @@ records:
 ############################################################
 ### Unused Actions
 ############################################################
-# ESAttackMultihit(15:2727) -> 天戒
+# ESAttackMultihit(15:2727) -> Heaven Commandment
 # Deal 600% damage (4 hits, 150% each)
 ############################################################
 ### ES Modifiers
@@ -188,11 +188,11 @@ records:
 # [3] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b1
 # [4] SkillSet:
-# 	[0] ESVoidShield(71:2724) -> 神王の雷衣
+# 	[0] ESVoidShield(71:2724) -> Divine King's Lightning Cloak
 # 	Void damage >= 20000000 for 99 turns
-# 	[1] ESStatusShield(20:2725) -> ドラゴンスキン
+# 	[1] ESStatusShield(20:2725) -> Dragon Skin
 # 	Voids status ailments for 999 turns
-# 	[2] ESGravity(50:2961) -> ラース・オブ・ゼウス
+# 	[2] ESGravity(50:2961) -> Wrath of Zeus
 # 	Player -35% HP
 # [5] ESEndPath(36:26) -> ESEndPath
 # end_turn
@@ -202,75 +202,75 @@ records:
 # Branch on hp < 50, target rnd 13
 # [8] SkillSet:
 # 	Condition: When < 60% hp (ai:100 rnd:0)
-# 	[0] ESChangeAttribute(46:2733) -> 全知全能
+# 	[0] ESChangeAttribute(46:2733) -> Almighty
 # 	Change own attribute to random one of Fire, Water, Wood, Light, Dark
-# 	[1] ESOrbChangeAttack(48:2731) -> ハートエンド
+# 	[1] ESOrbChangeAttack(48:2731) -> Heart End
 # 	Change Heal to Jammer, Deal 280% damage
 # [9] SkillSet:
 # 	Condition: When < 70% hp (ai:100 rnd:0)
-# 	[0] ESChangeAttribute(46:2733) -> 全知全能
+# 	[0] ESChangeAttribute(46:2733) -> Almighty
 # 	Change own attribute to random one of Fire, Water, Wood, Light, Dark
-# 	[1] ESPoisonChangeRandomAttack(64:2730) -> デッドファング
+# 	[1] ESPoisonChangeRandomAttack(64:2730) -> Dead Fang
 # 	Change Random 3 to Poison, Deal 260% damage
 # [10] SkillSet:
 # 	Condition: When < 80% hp (ai:100 rnd:0)
-# 	[0] ESChangeAttribute(46:2733) -> 全知全能
+# 	[0] ESChangeAttribute(46:2733) -> Almighty
 # 	Change own attribute to random one of Fire, Water, Wood, Light, Dark
-# 	[1] ESBlind(62:2729) -> ダークライトニング
+# 	[1] ESBlind(62:2729) -> Dark Lightning
 # 	Blind all orbs on the board, Deal 240% damage
 # [11] SkillSet:
 # 	Condition: When < 90% hp (ai:100 rnd:0)
-# 	[0] ESChangeAttribute(46:2733) -> 全知全能
+# 	[0] ESChangeAttribute(46:2733) -> Almighty
 # 	Change own attribute to random one of Fire, Water, Wood, Light, Dark
-# 	[1] ESBindAttack(63:2728) -> 縛雷
+# 	[1] ESBindAttack(63:2728) -> Thunder Bind
 # 	Bind 1 random cards for 2 turns, Deal 200% damage
 # [12] SkillSet:
 # 	Condition: When < 90% hp (ai:100 rnd:0)
-# 	[0] ESChangeAttribute(46:2733) -> 全知全能
+# 	[0] ESChangeAttribute(46:2733) -> Almighty
 # 	Change own attribute to random one of Fire, Water, Wood, Light, Dark
-# 	[1] ESBindAttack(63:2728) -> 縛雷
+# 	[1] ESBindAttack(63:2728) -> Thunder Bind
 # 	Bind 1 random cards for 2 turns, Deal 200% damage
 # [13] ESBranchFlag(43:10) -> ESBranchFlag
 # Branch on flag & 2, target rnd 16
 # [14] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b11
 # [15] SkillSet:
-# 	[0] ESChangeAttribute(46:2733) -> 全知全能
+# 	[0] ESChangeAttribute(46:2733) -> Almighty
 # 	Change own attribute to random one of Fire, Water, Wood, Light, Dark
-# 	[1] ESAbsorbCombo(67:2732) -> 天空の試練
+# 	[1] ESAbsorbCombo(67:2732) -> Trial of the Sky
 # 	Absorb combo <= 7 damage for 3 turns
-# 	[2] ESAttackMultihit(15:2727) -> 天戒
+# 	[2] ESAttackMultihit(15:2727) -> Heaven Commandment
 # 	Deal 600% damage (4 hits, 150% each)
 # [16] SkillSet:
 # 	Condition: When < 20% hp (ai:100 rnd:0)
-# 	[0] ESDispel(6:2742) -> 神龍眼
+# 	[0] ESDispel(6:2742) -> Glare of the Dragon God
 # 	Voids player buff effects
-# 	[1] ESGravity(50:2743) -> ドラゴンノヴァ
+# 	[1] ESGravity(50:2743) -> Dragon Nova
 # 	Player -500% HP
 # [17] SkillSet:
 # 	Condition: When < 30% hp (ai:100 rnd:0)
-# 	[0] ESAttackMultihit(15:2739) -> ストームライトニング
+# 	[0] ESAttackMultihit(15:2739) -> Storm Lightning
 # 	Deal 780% damage (6 hits, 130% each)
-# 	[1] ESOrbLock(94:2740) -> 神煌
+# 	[1] ESOrbLock(94:2740) -> Glittering God
 # 	Lock 15 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison orbs
 # [18] SkillSet:
 # 	Condition: When < 40% hp (ai:100 rnd:0)
-# 	[0] ESAttackMultihit(15:2736) -> チェインブラスト
+# 	[0] ESAttackMultihit(15:2736) -> Chain Blast
 # 	Deal 450% damage (5 hits, 90% each)
-# 	[1] ESBoardChange(84:2737) -> 新天
+# 	[1] ESBoardChange(84:2737) -> New Sky
 # 	Change all orbs to Heal, Poison
 # [19] SkillSet:
 # 	Condition: When < 50% hp (ai:100 rnd:0)
-# 	[0] ESChangeAttribute(46:2733) -> 全知全能
+# 	[0] ESChangeAttribute(46:2733) -> Almighty
 # 	Change own attribute to random one of Fire, Water, Wood, Light, Dark
-# 	[1] ESColumnSpawnMulti(77:2735) -> ボルトレイ
+# 	[1] ESColumnSpawnMulti(77:2735) -> Volt Ray
 # 	Change 3rd column to Jammer orbs, Deal 340% damage
-# [20] ESAttackMultihit(15:2727) -> 天戒
+# [20] ESAttackMultihit(15:2727) -> Heaven Commandment
 # Deal 600% damage (4 hits, 150% each)
 # [21] SkillSet:
-# 	[0] ESDispel(6:2745) -> 神龍眼
+# 	[0] ESDispel(6:2745) -> Glare of the Dragon God
 # 	Voids player buff effects
-# 	[1] ESGravity(50:2746) -> ドラゴンノヴァ
+# 	[1] ESGravity(50:2746) -> Dragon Nova
 # 	Player -500% HP
 # [22] ESEndPath(36:26) -> ESEndPath
 # end_turn

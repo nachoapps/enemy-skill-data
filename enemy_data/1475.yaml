@@ -40,7 +40,7 @@ records:
 - !SkillRecord
   desc_en: Change Random to Water
   max_atk_pct: null
-  name_en: ポッピングシャワー
+  name_en: Pop Rock Ice Cream
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -83,7 +83,7 @@ records:
 # Do nothing
 # [3] ESEndPath(36:26) -> ESEndPath
 # end_turn
-# [4] ESOrbChangeSingle(4:1281) -> ポッピングシャワー
+# [4] ESOrbChangeSingle(4:1281) -> Pop Rock Ice Cream
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
 # Change Random to Water
 # [5] ESInactivity(66:1280) -> アイスクリームはおいしいたまぁ！

@@ -4,7 +4,7 @@
 !EntryInfo
 comments: null
 monster_id: 3623
-monster_name_en: Dragon Emperor, Benares
+monster_name_en: 龍皇・ベナレス
 reviewed_by: unreviewed
 warnings: []
 
@@ -16,14 +16,14 @@ level: 1
 overrides: []
 records:
 - !SkillRecord
-  desc_en: Voids status ailments for 5 turns, (if [3616] on team) (Preemptive)
+  desc_en: Voids status ailments for 5 turns (Preemptive), (if [3616] on team)
   max_atk_pct: null
   name_en: It's been a while, boy...
   one_time: 1
   record_type_name: PREEMPT
   usage_pct: 100
 - !SkillRecord
-  desc_en: Voids status ailments for 5 turns, (if [3614, 3615] on team) (Preemptive)
+  desc_en: Voids status ailments for 5 turns (Preemptive), (if [3614, 3615] on team)
   max_atk_pct: null
   name_en: You've done well, Hoashio!
   one_time: 1
@@ -151,10 +151,10 @@ records:
 # Voids status ailments for 5 turns
 # [5] ESStatusShield(20:6702) -> You've done well, Hoashio!
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
-# Voids status ailments for 5 turns, (if [3614, 3615] on team)
+# Voids status ailments for 5 turns
 # [6] ESStatusShield(20:6700) -> It's been a while, boy...
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
-# Voids status ailments for 5 turns, (if [3616] on team)
+# Voids status ailments for 5 turns
 # [7] ESBranchFlag(43:10) -> ESBranchFlag
 # Branch on flag & 1, target rnd 11
 # [8] ESFlagOperation(22:12) -> ESFlagOperation

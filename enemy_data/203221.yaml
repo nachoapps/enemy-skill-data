@@ -4,7 +4,7 @@
 !EntryInfo
 comments: null
 monster_id: 203221
-monster_name_en: 蒼響の龍楽士・ミオン
+monster_name_en: Draconic Songstress of Blue Echoes, Mion
 reviewed_by: unreviewed
 warnings:
 - Found 2 unused actions
@@ -41,7 +41,7 @@ records:
 - !SkillRecord
   desc_en: Absorb combo <= 4 damage for 1 turns + Movetime 50% for 1 turns (Preemptive)
   max_atk_pct: null
-  name_en: 一緒に奏でましょう♪ + 緊張の幕開け
+  name_en: Let's play music together♪ + Hesitant Opening Notes
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -55,7 +55,7 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns
   max_atk_pct: null
-  name_en: トランスペアレントメロディ
+  name_en: Transparent Melody
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -77,7 +77,7 @@ records:
   desc_en: Blind orbs in specific positions for 1 turns + Change all orbs to Fire,
     Water, Wood, Light, Dark, Heal, Jammer, Deal 120% damage
   max_atk_pct: null
-  name_en: ドロップの音色が聴こえるはずよ♪ + 虹のセプテット
+  name_en: Surely you can hear the Orbs' song ♪ + Rainbow Septet
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -85,7 +85,7 @@ records:
   desc_en: Blind orbs in specific positions for 1 turns + Change all orbs to Fire,
     Water, Wood, Light, Dark, Heal, Jammer, Deal 120% damage
   max_atk_pct: null
-  name_en: 心で音色を感じとって♪ + 虹のセプテット
+  name_en: Feel the music in your heart ♪ + Rainbow Septet
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -100,14 +100,14 @@ records:
   desc_en: Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 130% damage
   max_atk_pct: 130
-  name_en: 氷剣のオブリガート
+  name_en: Obbligato of Ice Blades
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 160% damage (4 hits, 40% each)
   max_atk_pct: 160
-  name_en: 氷華のカルテット
+  name_en: Ice Blossom Quartet
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -128,7 +128,7 @@ records:
 - !SkillRecord
   desc_en: Bind 1 random cards for 4 turns, Deal 140% damage
   max_atk_pct: 140
-  name_en: 私も負けてられないわね♪
+  name_en: I simply can't lose♪
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -149,7 +149,7 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 999 turns
   max_atk_pct: null
-  name_en: 戦士達のマーチ
+  name_en: Warrior's March
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -170,7 +170,7 @@ records:
 - !SkillRecord
   desc_en: Absorb combo <= 6 damage for 2 turns
   max_atk_pct: null
-  name_en: 冥河へのバルカローラ
+  name_en: Barcarole for the River of Woe
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -184,14 +184,14 @@ records:
 - !SkillRecord
   desc_en: Row of cloud appear for 1 turns at random location
   max_atk_pct: null
-  name_en: 次があなたの最後の演奏よ
+  name_en: This is your last performance!
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 5000% damage (10 hits, 500% each)
   max_atk_pct: 5000
-  name_en: 千律のレクイエム
+  name_en: Requiem of a Thousand Creeds
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -213,7 +213,7 @@ records:
 - !SkillRecord
   desc_en: Absorb combo <= 4 damage for 1 turns + Movetime 50% for 1 turns (Preemptive)
   max_atk_pct: null
-  name_en: 一緒に奏でましょう♪ + 緊張の幕開け
+  name_en: Let's play music together♪ + Hesitant Opening Notes
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -227,7 +227,7 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns
   max_atk_pct: null
-  name_en: トランスペアレントメロディ
+  name_en: Transparent Melody
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -249,7 +249,7 @@ records:
   desc_en: Blind orbs in specific positions for 1 turns + Change all orbs to Fire,
     Water, Wood, Light, Dark, Heal, Jammer, Deal 120% damage
   max_atk_pct: null
-  name_en: ドロップの音色が聴こえるはずよ♪ + 虹のセプテット
+  name_en: Surely you can hear the Orbs' song ♪ + Rainbow Septet
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -257,7 +257,7 @@ records:
   desc_en: Blind orbs in specific positions for 1 turns + Change all orbs to Fire,
     Water, Wood, Light, Dark, Heal, Jammer, Deal 120% damage
   max_atk_pct: null
-  name_en: 心で音色を感じとって♪ + 虹のセプテット
+  name_en: Feel the music in your heart ♪ + Rainbow Septet
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -272,14 +272,14 @@ records:
   desc_en: Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal
     Poison orbs, Deal 130% damage
   max_atk_pct: 130
-  name_en: 氷剣のオブリガート
+  name_en: Obbligato of Ice Blades
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
 - !SkillRecord
   desc_en: Deal 160% damage (4 hits, 40% each)
   max_atk_pct: 160
-  name_en: 氷華のカルテット
+  name_en: Ice Blossom Quartet
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -300,7 +300,7 @@ records:
 - !SkillRecord
   desc_en: Bind 1 random cards for 4 turns, Deal 140% damage
   max_atk_pct: 140
-  name_en: 私も負けてられないわね♪
+  name_en: I simply can't lose♪
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -321,7 +321,7 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 999 turns
   max_atk_pct: null
-  name_en: 戦士達のマーチ
+  name_en: Warrior's March
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -342,7 +342,7 @@ records:
 - !SkillRecord
   desc_en: Absorb combo <= 6 damage for 2 turns
   max_atk_pct: null
-  name_en: 冥河へのバルカローラ
+  name_en: Barcarole for the River of Woe
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -356,14 +356,14 @@ records:
 - !SkillRecord
   desc_en: Row of cloud appear for 1 turns at random location
   max_atk_pct: null
-  name_en: 次があなたの最後の演奏よ
+  name_en: This is your last performance!
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 5000% damage (10 hits, 500% each)
   max_atk_pct: 5000
-  name_en: 千律のレクイエム
+  name_en: Requiem of a Thousand Creeds
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -372,14 +372,14 @@ records:
 ### Unused Actions
 ############################################################
 # SkillSet:
-# 	[0] ESAbsorbCombo(67:5645) -> さぁ、あなたのパズルを奏でて♪
+# 	[0] ESAbsorbCombo(67:5645) -> Play me your puzzle's song ♪
 # 	Absorb combo <= 4 damage for 1 turns
-# 	[1] ESDebuffMovetime(39:5646) -> 緊張の幕開け
+# 	[1] ESDebuffMovetime(39:5646) -> Hesitant Opening Notes
 # 	Movetime 25% for 1 turns
 # SkillSet:
-# 	[0] ESAbsorbCombo(67:5670) -> さぁ、あなたのパズルを奏でて♪
+# 	[0] ESAbsorbCombo(67:5670) -> Play me your puzzle's song ♪
 # 	Absorb combo <= 5 damage for 1 turns
-# 	[1] ESDebuffMovetime(39:5646) -> 緊張の幕開け
+# 	[1] ESDebuffMovetime(39:5646) -> Hesitant Opening Notes
 # 	Movetime 25% for 1 turns
 ############################################################
 ### ES Modifiers
@@ -403,32 +403,32 @@ records:
 # [5] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b1
 # [6] SkillSet:
-# 	[0] ESAbsorbCombo(67:13416) -> 一緒に奏でましょう♪
+# 	[0] ESAbsorbCombo(67:13416) -> Let's play music together♪
 # 	Absorb combo <= 4 damage for 1 turns
-# 	[1] ESDebuffMovetime(39:13417) -> 緊張の幕開け
+# 	[1] ESDebuffMovetime(39:13417) -> Hesitant Opening Notes
 # 	Movetime 50% for 1 turns
 # [7] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [8] ESBranchLevel(35:25) -> ESBranchLevel
 # Branch on level > 6, target rnd 10
 # [9] SkillSet:
-# 	[0] ESAbsorbCombo(67:5645) -> さぁ、あなたのパズルを奏でて♪
+# 	[0] ESAbsorbCombo(67:5645) -> Play me your puzzle's song ♪
 # 	Absorb combo <= 4 damage for 1 turns
-# 	[1] ESDebuffMovetime(39:5646) -> 緊張の幕開け
+# 	[1] ESDebuffMovetime(39:5646) -> Hesitant Opening Notes
 # 	Movetime 25% for 1 turns
 # [10] SkillSet:
-# 	[0] ESAbsorbCombo(67:5670) -> さぁ、あなたのパズルを奏でて♪
+# 	[0] ESAbsorbCombo(67:5670) -> Play me your puzzle's song ♪
 # 	Absorb combo <= 5 damage for 1 turns
-# 	[1] ESDebuffMovetime(39:5646) -> 緊張の幕開け
+# 	[1] ESDebuffMovetime(39:5646) -> Hesitant Opening Notes
 # 	Movetime 25% for 1 turns
 # [11] ESBranchFlag(43:10) -> ESBranchFlag
 # Branch on flag & 4, target rnd 16
 # [12] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b111
-# [13] ESBindAttack(63:13419) -> 私も負けてられないわね♪
+# [13] ESBindAttack(63:13419) -> I simply can't lose♪
 # 	Condition: When < 99% hp (ai:100 rnd:0)
 # Bind 1 random cards for 4 turns, Deal 140% damage
-# [14] ESStatusShield(20:5642) -> トランスペアレントメロディ
+# [14] ESStatusShield(20:5642) -> Transparent Melody
 # Voids status ailments for 999 turns
 # [15] ESEndPath(36:26) -> ESEndPath
 # end_turn
@@ -436,7 +436,7 @@ records:
 # Branch on hp < 30, target rnd 28
 # [17] ESBranchFlag(43:10) -> ESBranchFlag
 # Branch on flag & 16, target rnd 30
-# [18] ESAttackUPRemainingEnemies(17:5672) -> 戦士達のマーチ
+# [18] ESAttackUPRemainingEnemies(17:5672) -> Warrior's March
 # 	Condition: When < 50% hp, when <= 1 enemies remain (ai:100 rnd:0)
 # Increase damage to 150% for the next 999 turns
 # [19] ESBranchFlag(43:10) -> ESBranchFlag
@@ -445,35 +445,35 @@ records:
 # flag SET 0b1111
 # [21] SkillSet:
 # 	Condition: 50% chance (ai:50 rnd:0)
-# 	[0] ESBlindStickyFixed(98:5650) -> ドロップの音色が聴こえるはずよ♪
+# 	[0] ESBlindStickyFixed(98:5650) -> Surely you can hear the Orbs' song ♪
 # 	Blind orbs in specific positions for 1 turns
-# 	[1] ESBoardChangeAttackBits(85:5652) -> 虹のセプテット
+# 	[1] ESBoardChangeAttackBits(85:5652) -> Rainbow Septet
 # 	Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Deal 120% damage
 # [22] SkillSet:
-# 	[0] ESBlindStickyFixed(98:5651) -> 心で音色を感じとって♪
+# 	[0] ESBlindStickyFixed(98:5651) -> Feel the music in your heart ♪
 # 	Blind orbs in specific positions for 1 turns
-# 	[1] ESBoardChangeAttackBits(85:5652) -> 虹のセプテット
+# 	[1] ESBoardChangeAttackBits(85:5652) -> Rainbow Septet
 # 	Change all orbs to Fire, Water, Wood, Light, Dark, Heal, Jammer, Deal 120% damage
 # [23] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [24] ESFlagOperation(24:14) -> ESFlagOperation
 # flag UNSET 0b1000
-# [25] ESOrbLock(94:5655) -> 氷剣のオブリガート
+# [25] ESOrbLock(94:5655) -> Obbligato of Ice Blades
 # 	Condition: 50% chance (ai:50 rnd:0)
 # Lock 10 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 130% damage
-# [26] ESAttackMultihit(15:5662) -> 氷華のカルテット
+# [26] ESAttackMultihit(15:5662) -> Ice Blossom Quartet
 # Deal 160% damage (4 hits, 40% each)
 # [27] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [28] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b11111
-# [29] ESAbsorbCombo(67:5656) -> 冥河へのバルカローラ
+# [29] ESAbsorbCombo(67:5656) -> Barcarole for the River of Woe
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
 # Absorb combo <= 6 damage for 2 turns
-# [30] ESCloud(104:5673) -> 次があなたの最後の演奏よ
+# [30] ESCloud(104:5673) -> This is your last performance!
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
 # Row of cloud appear for 1 turns at random location
-# [31] ESAttackMultihit(15:5657) -> 千律のレクイエム
+# [31] ESAttackMultihit(15:5657) -> Requiem of a Thousand Creeds
 # Deal 5000% damage (10 hits, 500% each)
-# [32] ESAttributeResist(72:5669) -> 水木半減
+# [32] ESAttributeResist(72:5669) -> Half Water Wood
 # Reduce damage from Water, Wood by 50%

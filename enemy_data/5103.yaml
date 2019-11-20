@@ -45,8 +45,8 @@ records:
   record_type_name: PREEMPT
   usage_pct: 100
 - !SkillRecord
-  desc_en: Bind 1 random subs for 1~2 turns, Deal 45% damage + Deal 100% damage + Deal 45%
-    damage
+  desc_en: Bind 1 random subs for 1~2 turns, Deal 45% damage + Deal 100% damage +
+    Deal 45% damage
   max_atk_pct: null
   name_en: Thunder Kick + Disable Skill + Hadoken
   one_time: 0
@@ -89,8 +89,8 @@ records:
   record_type_name: ACTION
   usage_pct: 100
 - !SkillRecord
-  desc_en: Bind 1 random subs for 1~2 turns, Deal 45% damage + Deal 100% damage + Change
-    3rd row to Fire orbs, Deal 45% damage
+  desc_en: Bind 1 random subs for 1~2 turns, Deal 45% damage + Deal 100% damage +
+    Change 3rd row to Fire orbs, Deal 45% damage
   max_atk_pct: null
   name_en: Thunder Kick + Disable Skill + Hadoken
   one_time: 0

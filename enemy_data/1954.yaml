@@ -129,5 +129,5 @@ records:
 # Blind all orbs on the board, Deal 75% damage
 # [12] ESEndPath(36:26) -> ESEndPath
 # end_turn
-# [13] ESAttributeResist(72:2202) -> *****
+# [13] ESAttributeResist(72:2202) -> シヴァ・パッシブ
 # Reduce damage from Fire, Water by 50%

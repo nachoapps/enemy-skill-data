@@ -179,5 +179,5 @@ records:
 # Delay active skills by 99 turns
 # [22] ESEndPath(36:26) -> ESEndPath
 # end_turn
-# [23] ESResolve(73:2165) -> *****
+# [23] ESResolve(73:2165) -> パッシブ・覚醒カグツチ
 # Survive attacks with 1 HP when HP > 50%

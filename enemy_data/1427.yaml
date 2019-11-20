@@ -18,14 +18,14 @@ records:
 - !SkillRecord
   desc_en: Change Random to Wood, Deal 80% damage (Preemptive)
   max_atk_pct: 80
-  name_en: プチウィンド
+  name_en: Petit Wind
   one_time: 1
   record_type_name: PREEMPT
   usage_pct: 100
 - !SkillRecord
   desc_en: Change Random to Wood, Deal 80% damage
   max_atk_pct: 80
-  name_en: プチウィンド
+  name_en: Petit Wind
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -43,7 +43,7 @@ records:
 ############################################################
 # [1] ESPreemptive(49:318) -> ESPreemptive
 # Enable preempt if level 1
-# [2] ESOrbChangeAttack(48:1139) -> プチウィンド
+# [2] ESOrbChangeAttack(48:1139) -> Petit Wind
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
 # Change Random to Wood, Deal 80% damage
 # [3] ESNone(0:1869) -> ESNone

@@ -4,7 +4,7 @@
 !EntryInfo
 comments: null
 monster_id: 1604
-monster_name_en: Seregios & Regios Cat
+monster_name_en: セルレギオス＆レギオスネコ
 reviewed_by: unreviewed
 warnings: []
 
@@ -18,7 +18,7 @@ records:
 - !SkillRecord
   desc_en: Change Random to Jammer, Deal 75% damage
   max_atk_pct: 75
-  name_en: '*****'
+  name_en: 刃鱗飛ばし
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -39,7 +39,7 @@ records:
 - !SkillRecord
   desc_en: Bind 1 random subs for 2~3 turns, Deal 50% damage
   max_atk_pct: 50
-  name_en: '*****'
+  name_en: 拘束攻撃
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -53,7 +53,7 @@ records:
 - !SkillRecord
   desc_en: Change Random to Jammer, Deal 75% damage
   max_atk_pct: 75
-  name_en: '*****'
+  name_en: 刃鱗飛ばし
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -95,14 +95,14 @@ records:
 - !SkillRecord
   desc_en: Deal 120% damage (3 hits, 40% each)
   max_atk_pct: 120
-  name_en: '*****'
+  name_en: 連続脚爪ひっかき
   one_time: 0
   record_type_name: ACTION
   usage_pct: 75
 - !SkillRecord
   desc_en: Bind 1 random subs for 2~3 turns, Deal 50% damage
   max_atk_pct: 50
-  name_en: '*****'
+  name_en: 拘束攻撃
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -116,14 +116,14 @@ records:
 - !SkillRecord
   desc_en: Deal 120% damage (3 hits, 40% each)
   max_atk_pct: 120
-  name_en: '*****'
+  name_en: 連続脚爪ひっかき
   one_time: 0
   record_type_name: ACTION
   usage_pct: 75
 - !SkillRecord
   desc_en: Change Random to Jammer, Deal 75% damage
   max_atk_pct: 75
-  name_en: '*****'
+  name_en: 刃鱗飛ばし
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -144,14 +144,14 @@ records:
 - !SkillRecord
   desc_en: Deal 120% damage (3 hits, 40% each)
   max_atk_pct: 120
-  name_en: '*****'
+  name_en: 連続脚爪ひっかき
   one_time: 0
   record_type_name: ACTION
   usage_pct: 75
 - !SkillRecord
   desc_en: Bind 1 random subs for 2~3 turns, Deal 50% damage
   max_atk_pct: 50
-  name_en: '*****'
+  name_en: 拘束攻撃
   one_time: 2
   record_type_name: ACTION
   usage_pct: 100
@@ -165,14 +165,14 @@ records:
 - !SkillRecord
   desc_en: Deal 120% damage (3 hits, 40% each)
   max_atk_pct: 120
-  name_en: '*****'
+  name_en: 連続脚爪ひっかき
   one_time: 0
   record_type_name: ACTION
   usage_pct: 75
 - !SkillRecord
   desc_en: Change Random to Jammer, Deal 75% damage
   max_atk_pct: 75
-  name_en: '*****'
+  name_en: 刃鱗飛ばし
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -211,13 +211,13 @@ records:
 # [4] ESAttackUPCooldown(19:1502) -> Anger
 # 	Condition: When < 30% hp (ai:100 rnd:0)
 # Increase damage to 200% for the next 2 turns
-# [5] ESAttackMultihit(15:1501) -> *****
+# [5] ESAttackMultihit(15:1501) -> 連続脚爪ひっかき
 # 	Condition: 75% chance when < 50% hp (ai:75 rnd:0)
 # Deal 120% damage (3 hits, 40% each)
-# [6] ESBindAttack(63:1499) -> *****
+# [6] ESBindAttack(63:1499) -> 拘束攻撃
 # 	Condition: When < 80% hp , one-time use (ai:100 rnd:0) (one-time: 2)
 # Bind 1 random subs for 2~3 turns, Deal 50% damage
-# [7] ESOrbChangeAttack(48:1498) -> *****
+# [7] ESOrbChangeAttack(48:1498) -> 刃鱗飛ばし
 # Change Random to Jammer, Deal 75% damage
 # [8] ESEndPath(36:26) -> ESEndPath
 # end_turn

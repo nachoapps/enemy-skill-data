@@ -18,10 +18,8 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Absorb combo <= 4 damage for 1 turns + Change all orbs to Fire, Water,
-    Wood, Light, Dark, Heal + Blind all orbs on the board, (if >=4 combos last turn)
-    (Preemptive)
-    Wood, Light, Dark, Heal + Blind all orbs on the board, (if >=4 combos last turn)
-    (Preemptive)
+    Wood, Light, Dark, Heal + Blind all orbs on the board (Preemptive), (if >=4 combos
+    last turn)
   max_atk_pct: null
   name_en: This is just the beginning + How tedious... + Just let me enjoy this
   one_time: 32

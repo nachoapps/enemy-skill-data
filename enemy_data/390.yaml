@@ -173,5 +173,5 @@ records:
 # Deal 300% damage (6 hits, 50% each)
 # [12] ESBoardChangeAttackBits(85:4136) -> Abyss of Despair
 # Change all orbs to Mortal Poison, Deal 300% damage
-# [13] ESAttributeResist(72:4078) -> *****
+# [13] ESAttributeResist(72:4078) -> 水光半減
 # Reduce damage from Water, Light by 50%

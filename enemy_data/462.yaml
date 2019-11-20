@@ -4,7 +4,7 @@
 !EntryInfo
 comments: null
 monster_id: 462
-monster_name_en: Reaver
+monster_name_en: アパンダ
 reviewed_by: unreviewed
 warnings: []
 
@@ -18,7 +18,7 @@ records:
 - !SkillRecord
   desc_en: Player -99% HP (Preemptive)
   max_atk_pct: null
-  name_en: '*****'
+  name_en: ふいうち
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -79,7 +79,7 @@ records:
 # Branch on flag & 1, target rnd 8
 # [5] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b1
-# [6] ESGravity(50:1930) -> *****
+# [6] ESGravity(50:1930) -> ふいうち
 # Player -99% HP
 # [7] ESEndPath(36:26) -> ESEndPath
 # end_turn

@@ -82,7 +82,7 @@ records:
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
 # Do nothing
 # [3] ESAttackUPRemainingEnemies(17:2091) -> Grrah!
-# 	Condition: when <= 999 enemies remain (ai:100 rnd:0)
+# 	Condition: when <= 1 enemies remain (ai:100 rnd:0)
 # Increase damage to 300% for the next 999 turns
 # [4] ESAttackMultihit(15:2090) -> It tosses and turns
 # Deal 200% damage

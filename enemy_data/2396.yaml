@@ -66,8 +66,8 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Spawn random 3 Jammer, Poison orbs + Bind 1 random cards for 1 turns, Deal 100%
-    damage
+  desc_en: Spawn random 3 Jammer, Poison orbs + Bind 1 random cards for 1 turns, Deal
+    100% damage
   max_atk_pct: null
   name_en: Blessings of the Trickster God + Fake Spear Gungnir
   one_time: 0
@@ -147,8 +147,8 @@ records:
   record_type_name: ACTION
   usage_pct: 100
 - !SkillRecord
-  desc_en: Spawn random 3 Jammer, Poison orbs + Bind 1 random cards for 1 turns, Deal 100%
-    damage
+  desc_en: Spawn random 3 Jammer, Poison orbs + Bind 1 random cards for 1 turns, Deal
+    100% damage
   max_atk_pct: null
   name_en: Blessings of the Trickster God + Fake Spear Gungnir
   one_time: 0
@@ -214,8 +214,8 @@ records:
   record_type_name: ACTION
   usage_pct: 100
 - !SkillRecord
-  desc_en: Spawn random 3 Jammer, Poison orbs + Bind 1 random cards for 1 turns, Deal 100%
-    damage
+  desc_en: Spawn random 3 Jammer, Poison orbs + Bind 1 random cards for 1 turns, Deal
+    100% damage
   max_atk_pct: null
   name_en: Blessings of the Trickster God + Fake Spear Gungnir
   one_time: 0
@@ -315,7 +315,6 @@ records:
 # [5] ESBranchHP(28:18) -> ESBranchHP
 # Branch on hp < 20, target rnd 28
 # [6] ESAttackUpStatus(18:7167) -> Trickster's Trap
-# 	Condition: after being affected by a status effect (ai:100 rnd:0)
 # Increase damage to 200% for the next 999 turns
 # [7] ESBranchHP(28:18) -> ESBranchHP
 # Branch on hp < 50, target rnd 19

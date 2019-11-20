@@ -51,7 +51,7 @@ records:
 # [1] ESBranchHP(28:18) -> ESBranchHP
 # Branch on hp < 50, target rnd 4
 # [2] ESStorePower(8:8) -> Energy Charge
-# 	Condition: 50% chance when < 50% hp (ai:0 rnd:50)
+# 	Condition: 50% chance (ai:0 rnd:50)
 # Increase damage to 200% for the next attack
 # [3] ESEndPath(36:26) -> ESEndPath
 # end_turn

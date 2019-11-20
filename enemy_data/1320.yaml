@@ -38,8 +38,8 @@ records:
   record_type_name: ACTION
   usage_pct: 30
 - !SkillRecord
-  desc_en: Change 3rd row to Wood orbs, Deal 40% damage + Bind 1 random subs for 1~2 turns,
-    Deal 40% damage
+  desc_en: Change 3rd row to Wood orbs, Deal 40% damage + Bind 1 random subs for 1~2
+    turns, Deal 40% damage
   max_atk_pct: null
   name_en: Heeeey!! + Freeze Breath
   one_time: 1
@@ -147,5 +147,5 @@ records:
 # 	Increase damage to 200% for the next 999 turns
 # [15] ESEndPath(36:26) -> ESEndPath
 # end_turn
-# [16] ESAttributeResist(72:2254) -> *****
+# [16] ESAttributeResist(72:2254) -> プランパッシブ
 # Reduce damage from Fire by 50%

@@ -95,7 +95,7 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 5 turns + Delay active skills by 2~3 turns
   max_atk_pct: null
-  name_en: Immovable Faith + Duty to the Seal Lord
+  name_en: Immovable Faith + Duty to one's Lord
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -151,7 +151,7 @@ records:
 # [11] SkillSet:
 # 	[0] ESStatusShield(20:10974) -> Immovable Faith
 # 	Voids status ailments for 5 turns
-# 	[1] ESSkillDelay(89:10977) -> Duty to the Seal Lord
+# 	[1] ESSkillDelay(89:10977) -> Duty to one's Lord
 # 	Delay active skills by 2~3 turns
 # [12] ESEndPath(36:26) -> ESEndPath
 # end_turn

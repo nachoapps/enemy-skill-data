@@ -4,7 +4,7 @@
 !EntryInfo
 comments: null
 monster_id: 2479
-monster_name_en: Depraved Magi, Judar
+monster_name_en: 堕転したマギ・ジュダル
 reviewed_by: unreviewed
 warnings: []
 
@@ -262,7 +262,7 @@ records:
 # [17] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b111
 # [18] ESAttackMultihit(15:3483) -> Hey, fellow Magi!
-# Deal 100% damage, (if [2472, 2473] on team)
+# Deal 100% damage
 # [19] ESBranchFlag(43:10) -> ESBranchFlag
 # Branch on flag & 2, target rnd 9
 # [20] ESFlagOperation(22:12) -> ESFlagOperation

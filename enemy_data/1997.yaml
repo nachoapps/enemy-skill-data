@@ -77,7 +77,7 @@ records:
 # [11] ESBranchCombo(113:6528) -> ESBranchCombo
 # Branch on combo >= 8, target rnd 13
 # [12] ESInactivity(66:2039) -> Get 'em, boss!!
-# Do nothing, (if >=6 combos last turn)
+# Do nothing
 # [13] ESStatusShield(20:2011) -> Raging Warrior
 # Voids status ailments for 999 turns
 # [14] ESEndPath(36:26) -> ESEndPath

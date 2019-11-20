@@ -19,8 +19,6 @@ records:
   desc_en: Voids status ailments for 999 turns + Spawn random 13 Poison orbs + Lock
     13 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
     orbs (Preemptive)
-    13 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison
-    orbs (Preemptive)
   max_atk_pct: null
   name_en: You're not going anywhere! + Have a taste of true fear! + World Grudge
   one_time: 0

@@ -17,7 +17,7 @@ overrides: []
 records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns + Row of cloud appear for 1 turns at
-    1st column, (if [1509, 1510] on team) (Preemptive)
+    1st column (Preemptive), (if [1509, 1510] on team)
   max_atk_pct: null
   name_en: Master! Please duel with me! + Go, my Demon Minions!
   one_time: 0

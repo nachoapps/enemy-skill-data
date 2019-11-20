@@ -24,7 +24,7 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Absorb combo <= 6 damage for 999 turns + Voids status ailments for 999
-    turns + Movetime 25% for 6 turns, (if [2323] on team) (Preemptive)
+    turns + Movetime 25% for 6 turns (Preemptive), (if [2323] on team)
   max_atk_pct: null
   name_en: You ate my dango, didn't you! + Blessed Harvest + Vines get in the way
     of the puzzle!
@@ -33,7 +33,7 @@ records:
   usage_pct: 100
 - !SkillRecord
   desc_en: Absorb combo <= 6 damage for 999 turns + Voids status ailments for 999
-    turns + Movetime 25% for 6 turns, (if [2322] on team) (Preemptive)
+    turns + Movetime 25% for 6 turns (Preemptive), (if [2322] on team)
   max_atk_pct: null
   name_en: Frightened and on the verge of tears + Blessed Harvest + Vines get in the
     way of the puzzle!

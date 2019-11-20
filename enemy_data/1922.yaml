@@ -245,5 +245,5 @@ records:
 # 	Deal 80000% damage
 # [25] ESEndPath(36:26) -> ESEndPath
 # end_turn
-# [26] ESResolve(73:1879) -> *****
+# [26] ESResolve(73:1879) -> パッシブ・ゼウスヘラ
 # Survive attacks with 1 HP when HP > 50%

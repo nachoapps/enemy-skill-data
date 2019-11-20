@@ -4,7 +4,7 @@
 !EntryInfo
 comments: null
 monster_id: 304794
-monster_name_en: 覚醒マシンノア
+monster_name_en: Awoken Machine Noah
 reviewed_by: unreviewed
 warnings:
 - Found 6 unused actions
@@ -27,14 +27,15 @@ records:
   desc_en: Voids status ailments for 999 turns + Void damage >= 40000000 for 99 turns
     + Change player HP to 500000 for 99 turns + Voids player buff effects (Preemptive)
   max_atk_pct: null
-  name_en: あなたに存在する価値はあるかしら？ + 守勢の双船 + アークコントラクト + 鎮魂歌
+  name_en: I wonder if your life means anything + Defense of the Twin Ships + Ark
+    Contract + Requiem
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
 - !SkillRecord
   desc_en: Change player HP to 500000 for 99 turns
   max_atk_pct: null
-  name_en: アークコントラクト
+  name_en: Ark Contract
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -55,7 +56,7 @@ records:
 - !SkillRecord
   desc_en: Bind awoken skills for 5 turns + Player -99% HP
   max_atk_pct: null
-  name_en: 失われゆく戦意 + バニシングジャッジメント
+  name_en: Diminishing Fighting Spirit + Vanishing Judgment
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -70,7 +71,7 @@ records:
   desc_en: Change own attribute to random one of Fire, Water, Wood, Light, Dark +
     Deal 50000% damage (4 hits, 12500% each)
   max_atk_pct: null
-  name_en: ギアシフト + バニッシュメントライトニング
+  name_en: Gear Shift + Banishing Lightning
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -79,31 +80,31 @@ records:
 ### Unused Actions
 ############################################################
 # SkillSet:
-# 	[0] ESDebuffRCV(105:10936) -> 救世の神船
+# 	[0] ESDebuffRCV(105:10936) -> Salvation of the Holy Ship
 # 	Rcv 300% for 9 turns
-# 	[1] ESOrbChangeAttackBits(108:10940) -> 天よりの施し
+# 	[1] ESOrbChangeAttackBits(108:10940) -> Charity from Heaven
 # 	Change Wood to Heal, Deal 500% damage
-# ESAttackMultihit(15:10937) -> 天からの一撃
+# ESAttackMultihit(15:10937) -> Strike from the Heavens
 # Deal 4999% damage
 # SkillSet:
-# 	[0] ESBlind(5:10941) -> 夜の帳
+# 	[0] ESBlind(5:10941) -> Veil of Darkness
 # 	Blind all orbs on the board
-# 	[1] ESAttackMultihit(15:10942) -> テンペストレイン
+# 	[1] ESAttackMultihit(15:10942) -> Tempest Rain
 # 	Deal 2700% damage (3 hits, 900% each)
 # SkillSet:
-# 	[0] ESCloud(104:10944) -> 立ち込める霧
+# 	[0] ESCloud(104:10944) -> Shrouding Mist
 # 	2x3 cloud appear for 1 turns at 2nd row, 3rd column
-# 	[1] ESAttackMultihit(15:10945) -> ウェーブパルス
+# 	[1] ESAttackMultihit(15:10945) -> Wave Pulse
 # 	Deal 2900% damage (4 hits, 725% each)
 # SkillSet:
-# 	[0] ESBlindStickyRandom(97:10947) -> 漆黒の残夜
+# 	[0] ESBlindStickyRandom(97:10947) -> Darkness of the Lingering Night
 # 	Blind random 15 orbs for 1 turns
-# 	[1] ESAttackMultihit(15:10948) -> ウェーブパルス
+# 	[1] ESAttackMultihit(15:10948) -> Wave Pulse
 # 	Deal 3100% damage (5 hits, 620% each)
 # SkillSet:
-# 	[0] ESSpinnersFixed(110:10950) -> 渦潮
+# 	[0] ESSpinnersFixed(110:10950) -> Whirlpool
 # 	Specific orbs change every 1.0s for 1 turns
-# 	[1] ESAttackMultihit(15:10951) -> ウェーブパルス
+# 	[1] ESAttackMultihit(15:10951) -> Wave Pulse
 # 	Deal 3300% damage (6 hits, 550% each)
 ############################################################
 ### ES Modifiers
@@ -123,13 +124,13 @@ records:
 # [3] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b1
 # [4] SkillSet:
-# 	[0] ESStatusShield(20:10932) -> あなたに存在する価値はあるかしら？
+# 	[0] ESStatusShield(20:10932) -> I wonder if your life means anything
 # 	Voids status ailments for 999 turns
-# 	[1] ESVoidShield(71:10933) -> 守勢の双船
+# 	[1] ESVoidShield(71:10933) -> Defense of the Twin Ships
 # 	Void damage >= 40000000 for 99 turns
-# 	[2] ESMaxHPChange(111:10934) -> アークコントラクト
+# 	[2] ESMaxHPChange(111:10934) -> Ark Contract
 # 	Change player HP to 500000 for 99 turns
-# 	[3] ESDispel(6:10955) -> 鎮魂歌
+# 	[3] ESDispel(6:10955) -> Requiem
 # 	Voids player buff effects
 # [5] ESEndPath(36:26) -> ESEndPath
 # end_turn
@@ -137,7 +138,7 @@ records:
 # Branch on hp < 50, target rnd 31
 # [7] ESSetCounter(26:16) -> ESSetCounter
 # counter + 1
-# [8] ESMaxHPChange(111:10934) -> アークコントラクト
+# [8] ESMaxHPChange(111:10934) -> Ark Contract
 # Change player HP to 500000 for 99 turns
 # [9] ESBranchCounter(32:22) -> ESBranchCounter
 # Branch on counter > 10, target rnd 28
@@ -158,55 +159,55 @@ records:
 # [17] ESBranchCounter(32:22) -> ESBranchCounter
 # Branch on counter > 2, target rnd 19
 # [18] SkillSet:
-# 	[0] ESDebuffRCV(105:10936) -> 救世の神船
+# 	[0] ESDebuffRCV(105:10936) -> Salvation of the Holy Ship
 # 	Rcv 300% for 9 turns
-# 	[1] ESOrbChangeAttackBits(108:10940) -> 天よりの施し
+# 	[1] ESOrbChangeAttackBits(108:10940) -> Charity from Heaven
 # 	Change Wood to Heal, Deal 500% damage
-# [19] ESAttackMultihit(15:10937) -> 天からの一撃
+# [19] ESAttackMultihit(15:10937) -> Strike from the Heavens
 # Deal 4999% damage
 # [20] SkillSet:
-# 	[0] ESBlind(5:10941) -> 夜の帳
+# 	[0] ESBlind(5:10941) -> Veil of Darkness
 # 	Blind all orbs on the board
-# 	[1] ESAttackMultihit(15:10942) -> テンペストレイン
+# 	[1] ESAttackMultihit(15:10942) -> Tempest Rain
 # 	Deal 2700% damage (3 hits, 900% each)
 # [21] SkillSet:
-# 	[0] ESCloud(104:10944) -> 立ち込める霧
+# 	[0] ESCloud(104:10944) -> Shrouding Mist
 # 	2x3 cloud appear for 1 turns at 2nd row, 3rd column
-# 	[1] ESAttackMultihit(15:10945) -> ウェーブパルス
+# 	[1] ESAttackMultihit(15:10945) -> Wave Pulse
 # 	Deal 2900% damage (4 hits, 725% each)
 # [22] SkillSet:
-# 	[0] ESBlindStickyRandom(97:10947) -> 漆黒の残夜
+# 	[0] ESBlindStickyRandom(97:10947) -> Darkness of the Lingering Night
 # 	Blind random 15 orbs for 1 turns
-# 	[1] ESAttackMultihit(15:10948) -> ウェーブパルス
+# 	[1] ESAttackMultihit(15:10948) -> Wave Pulse
 # 	Deal 3100% damage (5 hits, 620% each)
 # [23] SkillSet:
-# 	[0] ESSpinnersFixed(110:10950) -> 渦潮
+# 	[0] ESSpinnersFixed(110:10950) -> Whirlpool
 # 	Specific orbs change every 1.0s for 1 turns
-# 	[1] ESAttackMultihit(15:10951) -> ウェーブパルス
+# 	[1] ESAttackMultihit(15:10951) -> Wave Pulse
 # 	Deal 3300% damage (6 hits, 550% each)
 # [24] SkillSet:
-# 	[0] ESBlind(5:10941) -> 夜の帳
+# 	[0] ESBlind(5:10941) -> Veil of Darkness
 # 	Blind all orbs on the board
-# 	[1] ESAttackMultihit(15:10942) -> テンペストレイン
+# 	[1] ESAttackMultihit(15:10942) -> Tempest Rain
 # 	Deal 2700% damage (3 hits, 900% each)
 # [25] SkillSet:
-# 	[0] ESCloud(104:10944) -> 立ち込める霧
+# 	[0] ESCloud(104:10944) -> Shrouding Mist
 # 	2x3 cloud appear for 1 turns at 2nd row, 3rd column
-# 	[1] ESAttackMultihit(15:10945) -> ウェーブパルス
+# 	[1] ESAttackMultihit(15:10945) -> Wave Pulse
 # 	Deal 2900% damage (4 hits, 725% each)
 # [26] SkillSet:
-# 	[0] ESBlindStickyRandom(97:10947) -> 漆黒の残夜
+# 	[0] ESBlindStickyRandom(97:10947) -> Darkness of the Lingering Night
 # 	Blind random 15 orbs for 1 turns
-# 	[1] ESAttackMultihit(15:10948) -> ウェーブパルス
+# 	[1] ESAttackMultihit(15:10948) -> Wave Pulse
 # 	Deal 3100% damage (5 hits, 620% each)
 # [27] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [28] ESSetCounter(25:15) -> ESSetCounter
 # counter = 1
 # [29] SkillSet:
-# 	[0] ESDebuffRCV(105:10936) -> 救世の神船
+# 	[0] ESDebuffRCV(105:10936) -> Salvation of the Holy Ship
 # 	Rcv 300% for 9 turns
-# 	[1] ESOrbChangeAttackBits(108:10940) -> 天よりの施し
+# 	[1] ESOrbChangeAttackBits(108:10940) -> Charity from Heaven
 # 	Change Wood to Heal, Deal 500% damage
 # [30] ESEndPath(36:26) -> ESEndPath
 # end_turn
@@ -217,18 +218,18 @@ records:
 # [33] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b11
 # [34] SkillSet:
-# 	[0] ESBindAwoken(88:10791) -> 失われゆく戦意
+# 	[0] ESBindAwoken(88:10791) -> Diminishing Fighting Spirit
 # 	Bind awoken skills for 5 turns
-# 	[1] ESGravity(50:10792) -> バニシングジャッジメント
+# 	[1] ESGravity(50:10792) -> Vanishing Judgment
 # 	Player -99% HP
 # [35] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [36] SkillSet:
-# 	[0] ESChangeAttribute(46:10953) -> ギアシフト
+# 	[0] ESChangeAttribute(46:10953) -> Gear Shift
 # 	Change own attribute to random one of Fire, Water, Wood, Light, Dark
-# 	[1] ESAttackMultihit(15:10954) -> バニッシュメントライトニング
+# 	[1] ESAttackMultihit(15:10954) -> Banishing Lightning
 # 	Deal 50000% damage (4 hits, 12500% each)
 # [37] ESEndPath(36:26) -> ESEndPath
 # end_turn
-# [38] ESResolve(73:10956) -> 根性
+# [38] ESResolve(73:10956) -> Resolve
 # Survive attacks with 1 HP when HP > 50%

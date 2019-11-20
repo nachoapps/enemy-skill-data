@@ -38,8 +38,8 @@ records:
   record_type_name: ACTION
   usage_pct: 33
 - !SkillRecord
-  desc_en: Bind 1 random subs for 1~2 turns, Deal 45% damage + Deal 100% damage + Deal 50%
-    damage
+  desc_en: Bind 1 random subs for 1~2 turns, Deal 45% damage + Deal 100% damage +
+    Deal 50% damage
   max_atk_pct: null
   name_en: Solar Plexus Strike + Disable Skill + Shoryuken
   one_time: 0
@@ -97,8 +97,8 @@ records:
   record_type_name: ACTION
   usage_pct: 50
 - !SkillRecord
-  desc_en: Bind 1 random subs for 1~2 turns, Deal 45% damage + Deal 100% damage + Change
-    4th column to Light orbs, Deal 50% damage
+  desc_en: Bind 1 random subs for 1~2 turns, Deal 45% damage + Deal 100% damage +
+    Change 4th column to Light orbs, Deal 50% damage
   max_atk_pct: null
   name_en: Solar Plexus Strike + Disable Skill + Shoryuken
   one_time: 0

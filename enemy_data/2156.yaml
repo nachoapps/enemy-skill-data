@@ -25,7 +25,7 @@ records:
 - !SkillRecord
   desc_en: Deal 100% damage
   max_atk_pct: 100
-  name_en: 通常攻撃
+  name_en: Disable Skill
   one_time: 0
   record_type_name: ACTION
   usage_pct: 30
@@ -72,9 +72,9 @@ records:
 # [4] ESNone(0:0) -> ESNone
 # nothing
 # [5] ESRowSpawnMulti(79:2484) -> 氷槍パラディン・スピア
-# 	Condition: 30% chance when < 80% hp (ai:0 rnd:30)
+# 	Condition: 30% chance (ai:0 rnd:30)
 # Change 3rd row to Water orbs, Deal 140% damage
-# [6] ESAttackSinglehit(82:1) -> 通常攻撃
+# [6] ESAttackSinglehit(82:1) -> Disable Skill
 # 	Condition: 30% chance (ai:0 rnd:30)
 # Deal 100% damage
 # [7] ESEndPath(36:26) -> ESEndPath

@@ -38,8 +38,8 @@ level: 4
 overrides: []
 records:
 - !SkillRecord
-  desc_en: Do nothing + Player recover 100% hp, (if [2675, 2676, 2677, 3353, 3354]
-    on team) (Preemptive)
+  desc_en: Do nothing + Player recover 100% hp (Preemptive), (if [2675, 2676, 2677,
+    3353, 3354] on team)
   max_atk_pct: null
   name_en: 'Amongst these swords, there is one...
 

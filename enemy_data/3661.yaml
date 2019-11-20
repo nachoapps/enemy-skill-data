@@ -38,7 +38,7 @@ records:
   usage_pct: null
 - !SkillRecord
   desc_en: Movetime 150% for 1 turns + Absorb combo <= 6 damage for 1 turns + Do nothing,
-    (if [3706] on team)
+    Deal 20% damage, (if [3706] on team)
   max_atk_pct: 20
   name_en: Bubble Breath + Second Bubble Breath Stance + Interrupt it with an attack!
   one_time: 0
@@ -245,6 +245,6 @@ records:
 # [25] ESCloud(104:7192) -> Bubble Breath
 # 4x4 cloud appear for 3 turns at random location, Deal 20% damage
 # [26] ESAttackMultihit(15:7193) -> Bubble Breath
-# Deal 20% damage, (if [3706] on team)
+# Deal 20% damage
 # [27] ESEndPath(36:26) -> ESEndPath
 # end_turn

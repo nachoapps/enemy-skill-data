@@ -46,7 +46,7 @@ records:
 - !SkillRecord
   desc_en: Bind 6 random cards for 1~3 turns
   max_atk_pct: null
-  name_en: くさい息
+  name_en: Bad Breath
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -89,7 +89,7 @@ records:
 - !SkillRecord
   desc_en: Bind 6 random cards for 1~3 turns
   max_atk_pct: null
-  name_en: くさい息
+  name_en: Bad Breath
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -121,7 +121,7 @@ records:
 # Change Random 3 to Poison
 # [8] ESEndPath(36:26) -> ESEndPath
 # end_turn
-# [9] ESBindRandom(1:184) -> くさい息
+# [9] ESBindRandom(1:184) -> Bad Breath
 # 	Condition: When < 30% hp , one-time use (ai:100 rnd:0) (one-time: 1)
 # Bind 6 random cards for 1~3 turns
 # [10] ESPoisonChangeRandomAttack(64:1932) -> モルボル菌
@@ -136,7 +136,7 @@ records:
 # Change Random 12 to Poison
 # [15] ESEndPath(36:26) -> ESEndPath
 # end_turn
-# [16] ESBindRandom(1:184) -> くさい息
+# [16] ESBindRandom(1:184) -> Bad Breath
 # 	Condition: When < 30% hp , one-time use (ai:100 rnd:0) (one-time: 1)
 # Bind 6 random cards for 1~3 turns
 # [17] ESPoisonChangeRandomAttack(64:1932) -> モルボル菌

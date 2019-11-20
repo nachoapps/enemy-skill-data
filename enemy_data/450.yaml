@@ -4,7 +4,7 @@
 !EntryInfo
 comments: null
 monster_id: 450
-monster_name_en: Ultimate Berserker
+monster_name_en: 最強装備・バーサーカー
 reviewed_by: unreviewed
 warnings: []
 
@@ -18,7 +18,7 @@ records:
 - !SkillRecord
   desc_en: Bind 1 friend leader for 2~4 turns
   max_atk_pct: null
-  name_en: '*****'
+  name_en: デバッグ用_助っ人縛り
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -34,5 +34,5 @@ records:
 ############################################################
 ### Raw Behavior
 ############################################################
-# [1] ESBindTarget(54:363) -> *****
+# [1] ESBindTarget(54:363) -> デバッグ用_助っ人縛り
 # Bind 1 friend leader for 2~4 turns

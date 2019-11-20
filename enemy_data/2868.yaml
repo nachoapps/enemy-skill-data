@@ -4,7 +4,7 @@
 !EntryInfo
 comments: null
 monster_id: 2868
-monster_name_en: Men in Black, Gin & Vodka
+monster_name_en: 黒ずくめの男達・ジン＆ウォッカ
 reviewed_by: unreviewed
 warnings: []
 
@@ -99,7 +99,7 @@ records:
 # Deal 120% damage
 # [7] ESAttackMultihit(15:4403) -> Farewell... Detective!!
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
-# Deal 120% damage, (if [2861, 2862] on team)
+# Deal 120% damage
 # [8] ESDebuffMovetime(39:4400) -> Last Chance...
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
 # Movetime -1s for 2 turns

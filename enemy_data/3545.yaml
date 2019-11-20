@@ -76,7 +76,6 @@ records:
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
 # Absorb combo <= 6 damage for 999 turns
 # [3] ESAttackUpStatus(18:7026) -> Draco Radiance
-# 	Condition: after being affected by a status effect (ai:100 rnd:0)
 # Increase damage to 200% for the next 999 turns
 # [4] SkillSet:
 # 	[0] ESRecoverEnemy(86:7027) -> Life Benediction

@@ -18,7 +18,7 @@ records:
 - !SkillRecord
   desc_en: Do nothing (Preemptive)
   max_atk_pct: null
-  name_en: お待たせしましたまぁ～！
+  name_en: Thank you for waiting TAMA!
   one_time: 1
   record_type_name: PREEMPT
   usage_pct: 100
@@ -32,7 +32,7 @@ records:
 - !SkillRecord
   desc_en: Do nothing
   max_atk_pct: null
-  name_en: とってもおいしいたまぁ～！
+  name_en: It's so good TAMA!
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -46,7 +46,7 @@ records:
 - !SkillRecord
   desc_en: Do nothing
   max_atk_pct: null
-  name_en: お待たせしましたまぁ～！
+  name_en: Thank you for waiting TAMA!
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
@@ -64,10 +64,10 @@ records:
 ############################################################
 # [1] ESPreemptive(49:318) -> ESPreemptive
 # Enable preempt if level 1
-# [2] ESInactivity(66:13213) -> お待たせしましたまぁ～！
+# [2] ESInactivity(66:13213) -> Thank you for waiting TAMA!
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
 # Do nothing
-# [3] ESInactivity(66:13214) -> とってもおいしいたまぁ～！
+# [3] ESInactivity(66:13214) -> It's so good TAMA!
 # Do nothing
 # [4] ESEndPath(36:26) -> ESEndPath
 # end_turn

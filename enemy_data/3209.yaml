@@ -19,8 +19,6 @@ records:
   desc_en: Bind awoken skills for 2 turns + Change 2nd, 5th column to Wood orbs, 1st,
     6th column to Heal, Jammer orbs, 3rd, 4th column to Fire, Water, Light, Dark orbs,
     Deal 120% damage (Preemptive)
-    6th column to Heal, Jammer orbs, 3rd, 4th column to Fire, Water, Light, Dark orbs,
-    Deal 120% damage (Preemptive)
   max_atk_pct: null
   name_en: Immutable Divine Power + Windy Realm of Salvation
   one_time: 0

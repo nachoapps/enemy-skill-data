@@ -4,7 +4,7 @@
 !EntryInfo
 comments: null
 monster_id: 857
-monster_name_en: Great Wroggi & Wroggi Cat
+monster_name_en: ドスフロギィ＆フロギィネコ
 reviewed_by: unreviewed
 warnings: []
 
@@ -44,5 +44,4 @@ records:
 # [1] ESPreemptive(49:318) -> ESPreemptive
 # Enable preempt if level 1
 # [2] ESAttackMultihit(15:101) -> Double Strike
-# 	Condition: When < 75% hp (ai:0 rnd:100)
 # Deal 140% damage (2 hits, 70% each)

@@ -151,16 +151,16 @@ records:
 # [13] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [14] ESColumnSpawnMulti(77:7236) -> Flame Breath
-# 	Condition: 25% chance when < 70% hp (ai:0 rnd:25)
+# 	Condition: 25% chance (ai:0 rnd:25)
 # Change 3rd column to Fire orbs, Deal 100% damage
 # [15] ESRandomSpawn(92:7237) -> Flying Kick
-# 	Condition: 25% chance when < 70% hp (ai:0 rnd:25)
+# 	Condition: 25% chance (ai:0 rnd:25)
 # Spawn random 4 Poison orbs, Deal 120% damage
 # [16] ESRowSpawnMulti(79:7238) -> Airborne Heat Breath
-# 	Condition: 25% chance when < 70% hp (ai:0 rnd:25)
+# 	Condition: 25% chance (ai:0 rnd:25)
 # Change 2nd row to Fire orbs, Deal 110% damage
 # [17] ESOrbLock(94:7239) -> Airborne Bite
-# 	Condition: 25% chance when < 70% hp (ai:0 rnd:25)
+# 	Condition: 25% chance (ai:0 rnd:25)
 # Lock 3 random Fire, Water, Wood, Light, Dark, Heal, Jammer, Poison, Mortal Poison orbs, Deal 90% damage
 # [18] ESEndPath(36:26) -> ESEndPath
 # end_turn

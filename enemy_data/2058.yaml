@@ -86,11 +86,10 @@ records:
 ############################################################
 # [1] ESPreemptive(49:318) -> ESPreemptive
 # Enable preempt if level 1
-# [2] ESDeathCry(69:2042) -> *****
+# [2] ESDeathCry(69:2042) -> ケフカ→ケフカ進化
 # 	Condition: On death (ai:0 rnd:0)
-# Show message: Life... Dreams... Hope...  
-# Where do they come from?|Such meaningless things...
-#
+# Show message: 命…　夢…　希望…
+# どこから来て　どこへ行く？|そんなものは…
 # [3] ESBranchFlag(43:10) -> ESBranchFlag
 # Branch on flag & 1, target rnd 8
 # [4] ESFlagOperation(22:12) -> ESFlagOperation

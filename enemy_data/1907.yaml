@@ -25,7 +25,7 @@ records:
 - !SkillRecord
   desc_en: Voids status ailments for 999 turns (Preemptive)
   max_atk_pct: null
-  name_en: マイティガード
+  name_en: Mighty Guard
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -99,7 +99,7 @@ records:
 ############################################################
 # [1] ESPreemptive(49:318) -> ESPreemptive
 # Enable preempt if level 1
-# [2] ESStatusShield(20:188) -> マイティガード
+# [2] ESStatusShield(20:188) -> Mighty Guard
 # Voids status ailments for 999 turns
 # [3] ESSetCounterIf(38:177) -> ESSetCounterIf
 # set counter = 4 if counter == 0

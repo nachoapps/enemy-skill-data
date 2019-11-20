@@ -172,6 +172,6 @@ records:
 # [23] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [24] ESAttackMultihit(15:3131) -> ...Aren't you hot with that on your head?
-# Deal 400% damage (2 hits, 200% each), (if [1118] on team)
+# Deal 400% damage (2 hits, 200% each)
 # [25] ESAttackMultihit(15:3169) -> Why do you resist me?
-# Deal 400% damage (2 hits, 200% each), (if [1119] on team)
+# Deal 400% damage (2 hits, 200% each)

@@ -214,7 +214,7 @@ records:
 # Player -100% HP
 # [21] ESEndPath(36:26) -> ESEndPath
 # end_turn
-# [22] ESResolve(73:1829) -> *****
+# [22] ESResolve(73:1829) -> パッシブ
 # Survive attacks with 1 HP when HP > 50%
 # [23] ESAttributeResist(72:1740) -> Light & Dark Resistance
 # Reduce damage from Light, Dark by 50%

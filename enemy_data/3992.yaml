@@ -4,7 +4,7 @@
 !EntryInfo
 comments: null
 monster_id: 3992
-monster_name_en: ハロウィンガチャドラ
+monster_name_en: Halloween REMDra
 reviewed_by: unreviewed
 warnings: []
 
@@ -18,14 +18,14 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 99 turns (Preemptive)
   max_atk_pct: null
-  name_en: ハッピーハロウィン！
+  name_en: Happy Halloween!
   one_time: 1
   record_type_name: PREEMPT
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 130% damage
   max_atk_pct: 130
-  name_en: ハロウィンガチャパンチ！
+  name_en: Halloween REMDra Punch!
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -41,7 +41,7 @@ records:
   desc_en: Blind orbs in specific positions for 1 turns + Voids status ailments for
     5 turns + Reduce damage from all sources by 75% for 1 turns (Preemptive)
   max_atk_pct: null
-  name_en: ハッピーハロウィン！ + 怪しげなオーラ + さげてね
+  name_en: Happy Halloween! + Suspicious Aura + Pull!
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -55,7 +55,7 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 1 turns, Deal 100% damage
   max_atk_pct: 100
-  name_en: さげてね！
+  name_en: Pull it!
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -69,7 +69,7 @@ records:
 - !SkillRecord
   desc_en: Reduce damage from all sources by 50% for 1 turns, Deal 120% damage
   max_atk_pct: 120
-  name_en: さげてね！！
+  name_en: Come on! Pull!
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -83,49 +83,49 @@ records:
 - !SkillRecord
   desc_en: Do nothing + Bind 1 random subs for 4 turns, Deal 150% damage
   max_atk_pct: null
-  name_en: スナップを効かせている + ジャック・オー・ランタン
+  name_en: It's putting some back into it + Jack-o'-Lantern
   one_time: 0
   record_type_name: ACTION
   usage_pct: 5
 - !SkillRecord
   desc_en: Do nothing + Change all orbs to Water, Dark, Deal 150% damage
   max_atk_pct: null
-  name_en: スナップを効かせている + 祝祭招龍陣・水闇
+  name_en: It's putting some back into it + Holiday Tuning Circle - Water & Dark
   one_time: 0
   record_type_name: ACTION
   usage_pct: 16
 - !SkillRecord
   desc_en: Do nothing + Change 5th row to Dark orbs, Deal 150% damage
   max_atk_pct: null
-  name_en: スナップを効かせている + ミッドナイトスペル
+  name_en: It's putting some back into it + Midnight Spell
   one_time: 0
   record_type_name: ACTION
   usage_pct: 16
 - !SkillRecord
   desc_en: Do nothing + Change Random to Heal, Deal 150% damage
   max_atk_pct: null
-  name_en: スナップを効かせている + 南瓜の時節
+  name_en: It's putting some back into it + Pumpkin Season
   one_time: 0
   record_type_name: ACTION
   usage_pct: 16
 - !SkillRecord
   desc_en: Do nothing + Change Wood to Dark, Deal 150% damage
   max_atk_pct: null
-  name_en: スナップを効かせている + 仮装変化の術・闇
+  name_en: It's putting some back into it + Costume Changing Technique - Dark
   one_time: 0
   record_type_name: ACTION
   usage_pct: 16
 - !SkillRecord
   desc_en: Do nothing + Change all orbs to Wood, Dark, Heal, Deal 150% damage
   max_atk_pct: null
-  name_en: スナップを効かせている + 祝祭調律陣・木闇命
+  name_en: It's putting some back into it + Holiday Tuning Circle - Wood, Dark & Life
   one_time: 0
   record_type_name: ACTION
   usage_pct: 16
 - !SkillRecord
   desc_en: Do nothing + Change all orbs to Water, Dark, Heal, Deal 150% damage
   max_atk_pct: null
-  name_en: スナップを効かせている + ねねの太鼓判
+  name_en: It's putting some back into it + Nene's Seal of Approval
   one_time: 0
   record_type_name: ACTION
   usage_pct: 15
@@ -139,7 +139,7 @@ records:
 - !SkillRecord
   desc_en: Deal 900% damage (3 hits, 300% each)
   max_atk_pct: 900
-  name_en: もっと魔法石食べたい！！
+  name_en: Throw me some more Magic Stones!
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -159,21 +159,21 @@ records:
 # Enable preempt if level 1
 # [2] ESBranchLevel(35:25) -> ESBranchLevel
 # Branch on level > 2, target rnd 5
-# [3] ESDamageShield(74:8382) -> ハッピーハロウィン！
+# [3] ESDamageShield(74:8382) -> Happy Halloween!
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
 # Reduce damage from all sources by 50% for 99 turns
-# [4] ESAttackMultihit(15:8383) -> ハロウィンガチャパンチ！
+# [4] ESAttackMultihit(15:8383) -> Halloween REMDra Punch!
 # Deal 130% damage
 # [5] ESBranchFlag(43:10) -> ESBranchFlag
 # Branch on flag & 1, target rnd 9
 # [6] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b1
 # [7] SkillSet:
-# 	[0] ESBlindStickyFixed(98:8360) -> ハッピーハロウィン！
+# 	[0] ESBlindStickyFixed(98:8360) -> Happy Halloween!
 # 	Blind orbs in specific positions for 1 turns
-# 	[1] ESStatusShield(20:8361) -> 怪しげなオーラ
+# 	[1] ESStatusShield(20:8361) -> Suspicious Aura
 # 	Voids status ailments for 5 turns
-# 	[2] ESDamageShield(74:8362) -> さげてね
+# 	[2] ESDamageShield(74:8362) -> Pull!
 # 	Reduce damage from all sources by 75% for 1 turns
 # [8] ESEndPath(36:26) -> ESEndPath
 # end_turn
@@ -183,9 +183,9 @@ records:
 # Branch on flag & 2, target rnd 13
 # [11] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b11
-# [12] ESDamageShield(74:8364) -> さげてね！
+# [12] ESDamageShield(74:8364) -> Pull it!
 # Reduce damage from all sources by 50% for 1 turns, Deal 100% damage
-# [13] ESDamageShield(74:8365) -> さげてね！！
+# [13] ESDamageShield(74:8365) -> Come on! Pull!
 # Reduce damage from all sources by 50% for 1 turns, Deal 120% damage
 # [14] ESEndPath(36:26) -> ESEndPath
 # end_turn
@@ -193,52 +193,52 @@ records:
 # Branch on hp < 15, target rnd 24
 # [16] SkillSet:
 # 	Condition: 5% chance (ai:0 rnd:5)
-# 	[0] ESInactivity(66:8366) -> スナップを効かせている
+# 	[0] ESInactivity(66:8366) -> It's putting some back into it
 # 	Do nothing
-# 	[1] ESBindAttack(63:8367) -> ジャック・オー・ランタン
+# 	[1] ESBindAttack(63:8367) -> Jack-o'-Lantern
 # 	Bind 1 random subs for 4 turns, Deal 150% damage
 # [17] SkillSet:
 # 	Condition: 16% chance (ai:0 rnd:16)
-# 	[0] ESInactivity(66:8366) -> スナップを効かせている
+# 	[0] ESInactivity(66:8366) -> It's putting some back into it
 # 	Do nothing
-# 	[1] ESBoardChangeAttackBits(85:8368) -> 祝祭招龍陣・水闇
+# 	[1] ESBoardChangeAttackBits(85:8368) -> Holiday Tuning Circle - Water & Dark
 # 	Change all orbs to Water, Dark, Deal 150% damage
 # [18] SkillSet:
 # 	Condition: 16% chance (ai:0 rnd:16)
-# 	[0] ESInactivity(66:8366) -> スナップを効かせている
+# 	[0] ESInactivity(66:8366) -> It's putting some back into it
 # 	Do nothing
-# 	[1] ESRowSpawnMulti(79:8369) -> ミッドナイトスペル
+# 	[1] ESRowSpawnMulti(79:8369) -> Midnight Spell
 # 	Change 5th row to Dark orbs, Deal 150% damage
 # [19] SkillSet:
 # 	Condition: 16% chance (ai:0 rnd:16)
-# 	[0] ESInactivity(66:8366) -> スナップを効かせている
+# 	[0] ESInactivity(66:8366) -> It's putting some back into it
 # 	Do nothing
-# 	[1] ESOrbChangeAttack(48:8370) -> 南瓜の時節
+# 	[1] ESOrbChangeAttack(48:8370) -> Pumpkin Season
 # 	Change Random to Heal, Deal 150% damage
 # [20] SkillSet:
 # 	Condition: 16% chance (ai:0 rnd:16)
-# 	[0] ESInactivity(66:8366) -> スナップを効かせている
+# 	[0] ESInactivity(66:8366) -> It's putting some back into it
 # 	Do nothing
-# 	[1] ESOrbChangeAttack(48:8371) -> 仮装変化の術・闇
+# 	[1] ESOrbChangeAttack(48:8371) -> Costume Changing Technique - Dark
 # 	Change Wood to Dark, Deal 150% damage
 # [21] SkillSet:
 # 	Condition: 16% chance (ai:0 rnd:16)
-# 	[0] ESInactivity(66:8366) -> スナップを効かせている
+# 	[0] ESInactivity(66:8366) -> It's putting some back into it
 # 	Do nothing
-# 	[1] ESBoardChangeAttackBits(85:8372) -> 祝祭調律陣・木闇命
+# 	[1] ESBoardChangeAttackBits(85:8372) -> Holiday Tuning Circle - Wood, Dark & Life
 # 	Change all orbs to Wood, Dark, Heal, Deal 150% damage
 # [22] SkillSet:
 # 	Condition: 15% chance (ai:0 rnd:15)
-# 	[0] ESInactivity(66:8366) -> スナップを効かせている
+# 	[0] ESInactivity(66:8366) -> It's putting some back into it
 # 	Do nothing
-# 	[1] ESBoardChangeAttackBits(85:8373) -> ねねの太鼓判
+# 	[1] ESBoardChangeAttackBits(85:8373) -> Nene's Seal of Approval
 # 	Change all orbs to Water, Dark, Heal, Deal 150% damage
 # [23] ESEndPath(36:26) -> ESEndPath
 # end_turn
-# [24] ESAttackMultihit(15:8357) -> もっと魔法石食べたい！！
+# [24] ESAttackMultihit(15:8357) -> Throw me some more Magic Stones!
 # Deal 900% damage (3 hits, 300% each)
 # [25] ESEndPath(36:26) -> ESEndPath
 # end_turn
-# [26] ESDeathCry(69:6388) -> ガチャドラ死に演出
+# [26] ESDeathCry(69:6388) -> REMDra death performance
 # 	Condition: On death (ai:100 rnd:0)
 # Show death effect

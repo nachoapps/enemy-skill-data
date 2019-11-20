@@ -115,7 +115,7 @@ records:
 # [5] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [6] ESRecoverEnemyAlly(52:1261) -> Ceremony of Rebirth
-# 	Condition: When enemy ally is killed (ai:100 rnd:0)
+# 	Condition: when <= 1 enemies remain (ai:100 rnd:0)
 # Enemy ally recover 50% hp
 # [7] ESAttackMultihit(15:1266) -> Genesis Gleam
 # 	Condition: When < 20% hp (ai:100 rnd:0)

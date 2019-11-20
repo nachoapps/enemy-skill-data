@@ -344,4 +344,4 @@ records:
 # [16] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b11
 # [17] ESRecoverPlayer(55:3655) -> Can you feel the heat, brother?
-# Player recover 100% hp, (if [1424, 1425, 1241, 1242, 1243, 1244] on team)
+# Player recover 100% hp
