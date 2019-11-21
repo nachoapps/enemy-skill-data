@@ -3,8 +3,8 @@
 ############################################################
 !EntryInfo
 comments: null
-monster_id: 1052
-monster_name_en: Solomon Grundy, Born on a Monday
+monster_id: 1053
+monster_name_en: Copperhead
 reviewed_by: unreviewed
 warnings: []
 
@@ -16,31 +16,17 @@ level: 5
 overrides: []
 records:
 - !SkillRecord
-  desc_en: Player -99% HP
+  desc_en: Change Random 5 to Poison
   max_atk_pct: null
-  name_en: Grundy Stomp
+  name_en: Poison Strike
   one_time: 1
   record_type_name: ACTION
-  usage_pct: 100
-- !SkillRecord
-  desc_en: ''
-  max_atk_pct: null
-  name_en: HP < 10
-  one_time: null
-  record_type_name: DIVIDER
-  usage_pct: null
-- !SkillRecord
-  desc_en: Enemy recover 100% hp
-  max_atk_pct: null
-  name_en: Resurrection
-  one_time: 0
-  record_type_name: ACTION
-  usage_pct: 100
+  usage_pct: 50
 
 ############################################################
 ### ES Modifiers
 ############################################################
-# [9] 4 - monster size?
+# [9] 3 - monster size?
 # [52] false - use new AI
 # [53] 1 - starting/max counter
 # [54] 1 - counter increment
@@ -52,9 +38,6 @@ records:
 # Branch on level > 5, target rnd 3
 # [2] ESEndPath(36:26) -> ESEndPath
 # end_turn
-# [3] ESRecoverEnemy(7:816) -> Resurrection
-# 	Condition: When < 10% hp (ai:100 rnd:0)
-# Enemy recover 100% hp
-# [4] ESGravity(50:817) -> Grundy Stomp
-# 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
-# Player -99% HP
+# [3] ESPoisonChangeRandom(60:819) -> Poison Strike
+# 	Condition: One-time use (ai:50 rnd:0) (one-time: 1)
+# Change Random 5 to Poison

@@ -3,8 +3,8 @@
 ############################################################
 !EntryInfo
 comments: null
-monster_id: 670
-monster_name_en: Blazing Apollo
+monster_id: 679
+monster_name_en: Wafer Man
 reviewed_by: unreviewed
 warnings: []
 
@@ -16,38 +16,24 @@ level: 1
 overrides: []
 records:
 - !SkillRecord
-  desc_en: ''
+  desc_en: Do nothing
   max_atk_pct: null
-  name_en: Turn 1
-  one_time: null
-  record_type_name: DIVIDER
-  usage_pct: null
-- !SkillRecord
-  desc_en: Voids status ailments for 999 turns
-  max_atk_pct: null
-  name_en: Flame of Olympus
+  name_en: Wafers are delicious!
   one_time: 0
   record_type_name: ACTION
-  usage_pct: 100
+  usage_pct: 25
 - !SkillRecord
-  desc_en: ''
+  desc_en: Do nothing
   max_atk_pct: null
-  name_en: HP < 50
-  one_time: null
-  record_type_name: DIVIDER
-  usage_pct: null
-- !SkillRecord
-  desc_en: Deal 150% damage (3 hits, 50% each)
-  max_atk_pct: 150
-  name_en: Sunshine Burst
+  name_en: All nature's mystery will be revealed!
   one_time: 0
   record_type_name: ACTION
-  usage_pct: 50
+  usage_pct: 25
 
 ############################################################
 ### ES Modifiers
 ############################################################
-# [9] 5 - monster size?
+# [9] 2 - monster size?
 # [52] false - use new AI
 # [53] 0 - starting/max counter
 # [54] 0 - counter increment
@@ -55,8 +41,9 @@ records:
 ############################################################
 ### Raw Behavior
 ############################################################
-# [1] ESStatusShield(20:280) -> Flame of Olympus
-# Voids status ailments for 999 turns
-# [2] ESAttackMultihit(15:281) -> Sunshine Burst
-# 	Condition: 50% chance when < 50% hp (ai:50 rnd:0)
-# Deal 150% damage (3 hits, 50% each)
+# [1] ESInactivity(16:289) -> Wafers are delicious!
+# 	Condition: 25% chance (ai:0 rnd:25)
+# Do nothing
+# [2] ESInactivity(16:290) -> All nature's mystery will be revealed!
+# 	Condition: 25% chance (ai:0 rnd:25)
+# Do nothing

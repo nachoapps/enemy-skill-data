@@ -4,17 +4,38 @@
 !EntryInfo
 comments: null
 monster_id: 1054
-monster_name_en: Bokkle
+monster_name_en: Venomous Copperhead
 reviewed_by: unreviewed
 warnings: []
 
 ############################################################
-### Data @ 1
+### Data @ 5
 ############################################################
 !SkillRecordListing
-level: 1
+level: 5
 overrides: []
 records:
+- !SkillRecord
+  desc_en: Voids status ailments for 10 turns (Preemptive)
+  max_atk_pct: null
+  name_en: Serpent Scale
+  one_time: 0
+  record_type_name: PREEMPT
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Change Random 5 to Poison
+  max_atk_pct: null
+  name_en: Poison Strike
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 50
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP < 50
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
 - !SkillRecord
   desc_en: ''
   max_atk_pct: null
@@ -23,9 +44,9 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Increase damage to 300% for the next 999 turns (When 1 enemy remains)
+  desc_en: Bind 3 random cards for 1~3 turns
   max_atk_pct: null
-  name_en: Friendly Handshake
+  name_en: Neurotoxin
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -33,14 +54,37 @@ records:
 ############################################################
 ### ES Modifiers
 ############################################################
-# [9] 2 - monster size?
+# [9] 4 - monster size?
 # [52] false - use new AI
-# [53] 0 - starting/max counter
-# [54] 0 - counter increment
+# [53] 1 - starting/max counter
+# [54] 1 - counter increment
 #
 ############################################################
 ### Raw Behavior
 ############################################################
-# [1] ESAttackUPRemainingEnemies(17:286) -> Friendly Handshake
-# 	Condition: when <= 1 enemies remain (ai:100 rnd:0)
-# Increase damage to 300% for the next 999 turns
+# [1] ESPreemptive(49:355) -> ESPreemptive
+# Enable preempt if level 5
+# [2] ESBranchLevel(35:25) -> ESBranchLevel
+# Branch on level > 5, target rnd 4
+# [3] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [4] ESBranchFlag(43:10) -> ESBranchFlag
+# Branch on flag & 1, target rnd 8
+# [5] ESFlagOperation(22:12) -> ESFlagOperation
+# flag SET 0b1
+# [6] ESStatusShield(20:818) -> Serpent Scale
+# Voids status ailments for 10 turns
+# [7] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [8] ESBranchHP(29:19) -> ESBranchHP
+# Branch on hp > 50, target rnd 12
+# [9] ESBranchFlag(43:10) -> ESBranchFlag
+# Branch on flag & 2, target rnd 12
+# [10] ESFlagOperation(22:12) -> ESFlagOperation
+# flag SET 0b11
+# [11] ESBindRandom(1:820) -> Neurotoxin
+# 	Condition: When < 50% hp (ai:100 rnd:0)
+# Bind 3 random cards for 1~3 turns
+# [12] ESPoisonChangeRandom(60:819) -> Poison Strike
+# 	Condition: One-time use (ai:50 rnd:0) (one-time: 1)
+# Change Random 5 to Poison

@@ -3,46 +3,25 @@
 ############################################################
 !EntryInfo
 comments: null
-monster_id: 670
-monster_name_en: Blazing Apollo
+monster_id: 1055
+monster_name_en: Bane
 reviewed_by: unreviewed
 warnings: []
 
 ############################################################
-### Data @ 1
+### Data @ 5
 ############################################################
 !SkillRecordListing
-level: 1
+level: 5
 overrides: []
 records:
 - !SkillRecord
-  desc_en: ''
-  max_atk_pct: null
-  name_en: Turn 1
-  one_time: null
-  record_type_name: DIVIDER
-  usage_pct: null
-- !SkillRecord
-  desc_en: Voids status ailments for 999 turns
-  max_atk_pct: null
-  name_en: Flame of Olympus
+  desc_en: Deal 200% damage
+  max_atk_pct: 200
+  name_en: Brute Strength
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
-- !SkillRecord
-  desc_en: ''
-  max_atk_pct: null
-  name_en: HP < 50
-  one_time: null
-  record_type_name: DIVIDER
-  usage_pct: null
-- !SkillRecord
-  desc_en: Deal 150% damage (3 hits, 50% each)
-  max_atk_pct: 150
-  name_en: Sunshine Burst
-  one_time: 0
-  record_type_name: ACTION
-  usage_pct: 50
 
 ############################################################
 ### ES Modifiers
@@ -55,8 +34,9 @@ records:
 ############################################################
 ### Raw Behavior
 ############################################################
-# [1] ESStatusShield(20:280) -> Flame of Olympus
-# Voids status ailments for 999 turns
-# [2] ESAttackMultihit(15:281) -> Sunshine Burst
-# 	Condition: 50% chance when < 50% hp (ai:50 rnd:0)
-# Deal 150% damage (3 hits, 50% each)
+# [1] ESBranchLevel(35:25) -> ESBranchLevel
+# Branch on level > 5, target rnd 3
+# [2] ESEndPath(36:26) -> ESEndPath
+# end_turn
+# [3] ESAttackMultihit(15:822) -> Brute Strength
+# Deal 200% damage

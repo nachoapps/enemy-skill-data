@@ -3,8 +3,8 @@
 ############################################################
 !EntryInfo
 comments: null
-monster_id: 670
-monster_name_en: Blazing Apollo
+monster_id: 676
+monster_name_en: Bokkle
 reviewed_by: unreviewed
 warnings: []
 
@@ -23,31 +23,17 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Voids status ailments for 999 turns
+  desc_en: Increase damage to 300% for the next 999 turns (When 1 enemy remains)
   max_atk_pct: null
-  name_en: Flame of Olympus
+  name_en: Friendly Handshake
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
-- !SkillRecord
-  desc_en: ''
-  max_atk_pct: null
-  name_en: HP < 50
-  one_time: null
-  record_type_name: DIVIDER
-  usage_pct: null
-- !SkillRecord
-  desc_en: Deal 150% damage (3 hits, 50% each)
-  max_atk_pct: 150
-  name_en: Sunshine Burst
-  one_time: 0
-  record_type_name: ACTION
-  usage_pct: 50
 
 ############################################################
 ### ES Modifiers
 ############################################################
-# [9] 5 - monster size?
+# [9] 2 - monster size?
 # [52] false - use new AI
 # [53] 0 - starting/max counter
 # [54] 0 - counter increment
@@ -55,8 +41,6 @@ records:
 ############################################################
 ### Raw Behavior
 ############################################################
-# [1] ESStatusShield(20:280) -> Flame of Olympus
-# Voids status ailments for 999 turns
-# [2] ESAttackMultihit(15:281) -> Sunshine Burst
-# 	Condition: 50% chance when < 50% hp (ai:50 rnd:0)
-# Deal 150% damage (3 hits, 50% each)
+# [1] ESAttackUPRemainingEnemies(17:286) -> Friendly Handshake
+# 	Condition: when <= 1 enemies remain (ai:100 rnd:0)
+# Increase damage to 300% for the next 999 turns

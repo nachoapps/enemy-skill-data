@@ -4,25 +4,59 @@
 !EntryInfo
 comments: null
 monster_id: 4975
-monster_name_en: Goldar
+monster_name_en: ブシニャン
 reviewed_by: unreviewed
-warnings:
-- Found 2 unused actions
+warnings: []
 
 ############################################################
-### Data @ 4
+### Data @ 1
 ############################################################
 !SkillRecordListing
-level: 4
+level: 1
 overrides: []
 records:
 - !SkillRecord
-  desc_en: Bind active skills for 3 turns (Preemptive)
+  desc_en: Survive attacks with 1 HP when HP > 50%
   max_atk_pct: null
-  name_en: You fools will pay!
+  name_en: Ability
   one_time: 0
+  record_type_name: PASSIVE
+  usage_pct: 100
+- !SkillRecord
+  desc_en: Bind 1 random subs for 3 turns + Player -75% HP (Preemptive)
+  max_atk_pct: null
+  name_en: それがしは　ブシニャン！ + いざ　参るっ！
+  one_time: 2
   record_type_name: PREEMPT
   usage_pct: 100
+- !SkillRecord
+  desc_en: Spawn random 5 Jammer orbs, Deal 90% damage
+  max_atk_pct: 90
+  name_en: お主に　斬れるでござるか？
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 33
+- !SkillRecord
+  desc_en: Deal 105% damage (3 hits, 35% each)
+  max_atk_pct: 105
+  name_en: 閃光斬りっ！
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 33
+- !SkillRecord
+  desc_en: Change Random to Wood, Deal 95% damage
+  max_atk_pct: 95
+  name_en: 旋風斬りっ！！
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 34
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP < 50
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
 - !SkillRecord
   desc_en: ''
   max_atk_pct: null
@@ -31,35 +65,13 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Movetime -1s for 3 turns + Change 3rd, 4th column to Jammer orbs
+  desc_en: Increase damage to 150% for the next 5 turns + Absorb combo <= 5 damage
+    for 5 turns
   max_atk_pct: null
-  name_en: I can finish you off any time I choose! + You're only prolonging the inevitable.
-  one_time: 1
+  name_en: こうなったら　奥の手でござる！ + ぬははは！　勝利はもらった！
+  one_time: 0
   record_type_name: ACTION
   usage_pct: 100
-- !SkillRecord
-  desc_en: ''
-  max_atk_pct: null
-  name_en: HP <= 100
-  one_time: null
-  record_type_name: DIVIDER
-  usage_pct: null
-- !SkillRecord
-  desc_en: Delay active skills by 2 turns, Deal 95% damage
-  max_atk_pct: 95
-  name_en: 'You and your weapons are
-
-    no match for me!'
-  one_time: 0
-  record_type_name: ACTION
-  usage_pct: 50
-- !SkillRecord
-  desc_en: 1x3 cloud appear for 1 turns at random location, Deal 90% damage
-  max_atk_pct: 90
-  name_en: Give up!
-  one_time: 0
-  record_type_name: ACTION
-  usage_pct: 50
 - !SkillRecord
   desc_en: ''
   max_atk_pct: null
@@ -75,95 +87,139 @@ records:
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
-  desc_en: Increase damage to 150% for the next 5 turns
+  desc_en: Bind 4 random subs for 1 turns + Do nothing
   max_atk_pct: null
-  name_en: URRRRAAGHH!
+  name_en: ぶ　武士の情け… + しばし待たれよっ！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
 - !SkillRecord
-  desc_en: Spawn random 5 Poison orbs, Deal 80% damage
-  max_atk_pct: 80
-  name_en: No human's ever defeated Goldar!
+  desc_en: Deal 210% damage (6 hits, 35% each)
+  max_atk_pct: 210
+  name_en: かつおブシ斬り
   one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: When 1 enemy remains
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Increase damage to 200% for the next 1 turns
+  max_atk_pct: null
+  name_en: 精神統一でござる…
+  one_time: 1
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: HP < 50
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Increase damage to 150% for the next 5 turns + Absorb combo <= 5 damage
+    for 5 turns
+  max_atk_pct: null
+  name_en: こうなったら　奥の手でござる！ + ぬははは！　勝利はもらった！
+  one_time: 0
+  record_type_name: ACTION
+  usage_pct: 100
+- !SkillRecord
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 2
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
+- !SkillRecord
+  desc_en: Increase damage to 200% for the next 1 turns
+  max_atk_pct: null
+  name_en: 精神統一でござる…
+  one_time: 1
   record_type_name: ACTION
   usage_pct: 100
 
 ############################################################
-### Unused Actions
-############################################################
-# ESAttackMultihit(15:14841) -> Come and get it,
-# if you're brave enough.
-# 	Condition: 40% chance (ai:40 rnd:0)
-# Deal 110% damage
-# ESOrbChangeAttack(48:14842) -> I intend to destroy the world!
-# 	Condition: 40% chance (ai:40 rnd:0)
-# Change Random to Water, Deal 90% damage
-############################################################
 ### ES Modifiers
 ############################################################
-# [9] 5 - monster size?
+# [9] 4 - monster size?
 # [52] true - use new AI
-# [53] 1 - starting/max counter
+# [53] 3 - starting/max counter
 # [54] 0 - counter increment
 #
 ############################################################
 ### Raw Behavior
 ############################################################
-# [1] ESPreemptive(49:3402) -> ESPreemptive
-# Enable preempt if level 4
-# [2] ESBranchLevel(35:25) -> ESBranchLevel
-# Branch on level > 4, target rnd 4
-# [3] ESEndPath(36:26) -> ESEndPath
+# [1] ESPreemptive(49:318) -> ESPreemptive
+# Enable preempt if level 1
+# [2] SkillSet:
+# 	Condition: One-time use (ai:100 rnd:0) (one-time: 2)
+# 	[0] ESBindRandomSub(65:12018) -> それがしは　ブシニャン！
+# 	Bind 1 random subs for 3 turns
+# 	[1] ESGravity(50:12019) -> いざ　参るっ！
+# 	Player -75% HP
+# [3] ESBranchHP(28:18) -> ESBranchHP
+# Branch on hp < 20, target rnd 14
+# [4] ESBranchHP(28:18) -> ESBranchHP
+# Branch on hp < 50, target rnd 10
+# [5] ESAttackUPRemainingEnemies(17:12023) -> 精神統一でござる…
+# 	Condition: One-time use, when <= 1 enemies remain (ai:100 rnd:0) (one-time: 1)
+# Increase damage to 200% for the next 1 turns
+# [6] ESRandomSpawn(92:12020) -> お主に　斬れるでござるか？
+# 	Condition: 33% chance & when Fire, Water, Wood, Light, Dark, Heal, Poison, Mortal Poison orbs are on the board (ai:0 rnd:33)
+# Spawn random 5 Jammer orbs, Deal 90% damage
+# [7] ESAttackMultihit(15:12021) -> 閃光斬りっ！
+# 	Condition: 33% chance (ai:0 rnd:33)
+# Deal 105% damage (3 hits, 35% each)
+# [8] ESOrbChangeAttack(48:12022) -> 旋風斬りっ！！
+# 	Condition: 34% chance (ai:0 rnd:34)
+# Change Random to Wood, Deal 95% damage
+# [9] ESEndPath(36:26) -> ESEndPath
 # end_turn
-# [4] ESBranchFlag(43:10) -> ESBranchFlag
-# Branch on flag & 1, target rnd 8
-# [5] ESFlagOperation(22:12) -> ESFlagOperation
+# [10] ESBranchFlag(43:10) -> ESBranchFlag
+# Branch on flag & 1, target rnd 5
+# [11] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b1
-# [6] ESBindSkill(14:14840) -> You fools will pay!
-# Bind active skills for 3 turns
-# [7] ESEndPath(36:26) -> ESEndPath
+# [12] SkillSet:
+# 	[0] ESAttackUPRemainingEnemies(17:12025) -> こうなったら　奥の手でござる！
+# 	Increase damage to 150% for the next 5 turns
+# 	[1] ESAbsorbCombo(67:12026) -> ぬははは！　勝利はもらった！
+# 	Absorb combo <= 5 damage for 5 turns
+# [13] ESEndPath(36:26) -> ESEndPath
 # end_turn
-# [8] ESBranchHP(28:18) -> ESBranchHP
-# Branch on hp < 50, target rnd 14
-# [9] ESBranchRemainingEnemies(120:8595) -> ESBranchRemainingEnemies
-# Branch on remaining enemies <= 1, target rnd 13
-# [10] ESAttackMultihit(15:14841) -> Come and get it,
-# if you're brave enough.
-# 	Condition: 40% chance (ai:40 rnd:0)
-# Deal 110% damage
-# [11] ESOrbChangeAttack(48:14842) -> I intend to destroy the world!
-# 	Condition: 40% chance (ai:40 rnd:0)
-# Change Random to Water, Deal 90% damage
-# [12] ESEndPath(36:26) -> ESEndPath
-# end_turn
-# [13] SkillSet:
-# 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
-# 	[0] ESDebuffMovetime(39:14846) -> I can finish you off any time I choose!
-# 	Movetime -1s for 3 turns
-# 	[1] ESColumnSpawnMulti(76:14847) -> You're only prolonging the inevitable.
-# 	Change 3rd, 4th column to Jammer orbs
-# [14] ESBranchHP(28:18) -> ESBranchHP
-# Branch on hp < 20, target rnd 18
-# [15] ESSkillDelay(89:14843) -> You and your weapons are
-# no match for me!
-# 	Condition: 50% chance (ai:0 rnd:50)
-# Delay active skills by 2 turns, Deal 95% damage
-# [16] ESCloud(104:14844) -> Give up!
-# 	Condition: 50% chance (ai:0 rnd:50)
-# 1x3 cloud appear for 1 turns at random location, Deal 90% damage
+# [14] ESBranchFlag(43:10) -> ESBranchFlag
+# Branch on flag & 2, target rnd 18
+# [15] ESFlagOperation(22:12) -> ESFlagOperation
+# flag SET 0b11
+# [16] SkillSet:
+# 	[0] ESBindRandomSub(65:12028) -> ぶ　武士の情け…
+# 	Bind 4 random subs for 1 turns
+# 	[1] ESInactivity(66:12029) -> しばし待たれよっ！
+# 	Do nothing
 # [17] ESEndPath(36:26) -> ESEndPath
 # end_turn
-# [18] ESBranchFlag(43:10) -> ESBranchFlag
-# Branch on flag & 2, target rnd 22
-# [19] ESFlagOperation(22:12) -> ESFlagOperation
-# flag SET 0b11
-# [20] ESAttackUPCooldown(19:14848) -> URRRRAAGHH!
-# Increase damage to 150% for the next 5 turns
-# [21] ESEndPath(36:26) -> ESEndPath
+# [18] ESAttackMultihit(15:12030) -> かつおブシ斬り
+# Deal 210% damage (6 hits, 35% each)
+# [19] ESEndPath(36:26) -> ESEndPath
 # end_turn
-# [22] ESRandomSpawn(92:14849) -> No human's ever defeated Goldar!
-# 	Condition: When fire, water, wood, light, dark, heal, jammer, mortal poison orbs are on the board (ai:100 rnd:0)
-# Spawn random 5 Poison orbs, Deal 80% damage
-# [23] ESEndPath(36:26) -> ESEndPath
-# end_turn
+# [20] ESResolve(73:12045) -> 根性
+# Survive attacks with 1 HP when HP > 50%
