@@ -210,7 +210,7 @@ records:
 # [21] ESAttackMultihit(15:2647) -> おらぁ おらぁ
 # Deal 240% damage (4 hits, 60% each)
 # [22] ESGravity(50:2654) -> なめんじゃねーぞコラッ
-# Player -50% HP, (if [2609, 2610] on team)
+# Player -50% HP
 # [23] SkillSet:
 # 	Condition: On death (ai:100 rnd:0)
 # 	[0] ESOrbChangeSingle(4:2651) -> ぐあっ

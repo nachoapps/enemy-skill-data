@@ -18,7 +18,7 @@ records:
 - !SkillRecord
   desc_en: Spawn random 3 Mortal Poison orbs (Preemptive)
   max_atk_pct: null
-  name_en: Babaan! (I'm here!)
+  name_en: ババ～ン！（アタシが来たよ！）
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
@@ -32,7 +32,7 @@ records:
 - !SkillRecord
   desc_en: Rcv 50% for 5 turns (When 1 enemy remains)
   max_atk_pct: null
-  name_en: Babaan... (It's hard for you too)
+  name_en: ババァン…（アンタも大変だね）
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -46,14 +46,14 @@ records:
 - !SkillRecord
   desc_en: Deal 110% damage
   max_atk_pct: 110
-  name_en: Baba!
+  name_en: ババッ！
   one_time: 0
   record_type_name: ACTION
   usage_pct: 40
 - !SkillRecord
   desc_en: Change Random to Heal, Deal 90% damage
   max_atk_pct: 90
-  name_en: Babaan? (Do you want some tea?)
+  name_en: ババーン？（茶でも飲むかい？）
   one_time: 0
   record_type_name: ACTION
   usage_pct: 40
@@ -74,14 +74,14 @@ records:
 - !SkillRecord
   desc_en: Leader changes to random sub for 1 turns
   max_atk_pct: null
-  name_en: Babaan! (Don't cave in)
+  name_en: ババァーン！（ひっこみな！）
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 200% damage
   max_atk_pct: 200
-  name_en: Loving Slap
+  name_en: 愛のビンタ
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -107,7 +107,7 @@ records:
 # Branch on flag & 1, target rnd 8
 # [5] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b1
-# [6] ESRandomSpawn(92:12064) -> Babaan! (I'm here!)
+# [6] ESRandomSpawn(92:12064) -> ババ～ン！（アタシが来たよ！）
 # 	Condition: When fire, water, wood, light, dark, heal, jammer, poison orbs are on the board (ai:100 rnd:0)
 # Spawn random 3 Mortal Poison orbs
 # [7] ESEndPath(36:26) -> ESEndPath
@@ -116,10 +116,10 @@ records:
 # Branch on hp < 20, target rnd 17
 # [9] ESBranchRemainingEnemies(120:8595) -> ESBranchRemainingEnemies
 # Branch on remaining enemies <= 1, target rnd 13
-# [10] ESAttackMultihit(15:11903) -> Baba!
+# [10] ESAttackMultihit(15:11903) -> ババッ！
 # 	Condition: 40% chance (ai:40 rnd:0)
 # Deal 110% damage
-# [11] ESOrbChangeAttack(48:11904) -> Babaan? (Do you want some tea?)
+# [11] ESOrbChangeAttack(48:11904) -> ババーン？（茶でも飲むかい？）
 # 	Condition: 40% chance (ai:40 rnd:0)
 # Change Random to Heal, Deal 90% damage
 # [12] ESEndPath(36:26) -> ESEndPath
@@ -128,14 +128,14 @@ records:
 # Branch on flag & 2, target rnd 10
 # [14] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b11
-# [15] ESDebuffRCV(105:12065) -> Babaan... (It's hard for you too)
+# [15] ESDebuffRCV(105:12065) -> ババァン…（アンタも大変だね）
 # Rcv 50% for 5 turns
 # [16] ESEndPath(36:26) -> ESEndPath
 # end_turn
-# [17] ESLeaderSwap(75:11907) -> Babaan! (Don't cave in)
+# [17] ESLeaderSwap(75:11907) -> ババァーン！（ひっこみな！）
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
 # Leader changes to random sub for 1 turns
-# [18] ESAttackMultihit(15:11906) -> Loving Slap
+# [18] ESAttackMultihit(15:11906) -> 愛のビンタ
 # Deal 200% damage
 # [19] ESEndPath(36:26) -> ESEndPath
 # end_turn

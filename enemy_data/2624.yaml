@@ -290,7 +290,7 @@ records:
 # [27] ESGravity(50:2667) -> いくぞ
 # Player -99% HP
 # [28] ESRecoverPlayer(55:2673) -> てめーとは後でゆっくり遊んでやる
-# Player recover 100% hp, (if [2601, 2602] on team)
+# Player recover 100% hp
 # [29] SkillSet:
 # 	Condition: On death (ai:100 rnd:0)
 # 	[0] ESSkyfall(68:2670) -> ま まだだ！

@@ -172,7 +172,7 @@ records:
 # 	Reduce damage from all sources by 50% for 1 turns
 # [23] ESRandomSpawn(92:2687) -> 久しぶりだなパルコ
 # 	Condition: When fire, water, light, dark, heal, jammer, poison, mortal poison orbs are on the board (ai:100 rnd:0)
-# Spawn random 8 Wood orbs, (if [2617, 2618] on team)
+# Spawn random 8 Wood orbs
 # [24] SkillSet:
 # 	Condition: On death (ai:100 rnd:0)
 # 	[0] ESSkillSet(83:2685) -> オレも何かを見つけてこようと思う！ + テルの言う光ってやつさ… そしたら…

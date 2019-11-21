@@ -3,8 +3,8 @@
 ############################################################
 !EntryInfo
 comments: null
-monster_id: 104967
-monster_name_en: ムリカベ
+monster_id: 114967
+monster_name_en: Mighty Morphin Pink Ranger
 reviewed_by: unreviewed
 warnings: []
 
@@ -19,21 +19,21 @@ records:
   desc_en: Reduce damage from all sources by 50% for 99 turns + Bind 2 random subs
     for 2 turns (Preemptive)
   max_atk_pct: null
-  name_en: がっちりガード + オレを越えるのは　ムーリー！
+  name_en: Perfect Guard + It's impossible to best me!
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 110% damage
   max_atk_pct: 110
-  name_en: ムリッ！
+  name_en: No Way!
   one_time: 0
   record_type_name: ACTION
   usage_pct: 40
 - !SkillRecord
   desc_en: Change Random to Wood, Deal 90% damage
   max_atk_pct: 90
-  name_en: その効果は　ム～リィ～ッ！
+  name_en: That has no effect!
   one_time: 0
   record_type_name: ACTION
   usage_pct: 40
@@ -54,14 +54,14 @@ records:
 - !SkillRecord
   desc_en: Seal 1st row for 2 turns
   max_atk_pct: null
-  name_en: 動かすのは　ム～リ～！
+  name_en: Try moving those!
   one_time: 1
   record_type_name: ACTION
   usage_pct: 100
 - !SkillRecord
   desc_en: Deal 150% damage
   max_atk_pct: 150
-  name_en: ムゥ～リィ～！！
+  name_en: Nooo Waaaay!
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
@@ -88,26 +88,26 @@ records:
 # [5] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b1
 # [6] SkillSet:
-# 	[0] ESDamageShield(74:12070) -> がっちりガード
+# 	[0] ESDamageShield(74:12070) -> Perfect Guard
 # 	Reduce damage from all sources by 50% for 99 turns
-# 	[1] ESBindRandomSub(65:11920) -> オレを越えるのは　ムーリー！
+# 	[1] ESBindRandomSub(65:11920) -> It's impossible to best me!
 # 	Bind 2 random subs for 2 turns
 # [7] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [8] ESBranchHP(28:18) -> ESBranchHP
 # Branch on hp < 50, target rnd 12
-# [9] ESAttackMultihit(15:11921) -> ムリッ！
+# [9] ESAttackMultihit(15:11921) -> No Way!
 # 	Condition: 40% chance (ai:40 rnd:0)
 # Deal 110% damage
-# [10] ESOrbChangeAttack(48:11922) -> その効果は　ム～リィ～ッ！
+# [10] ESOrbChangeAttack(48:11922) -> That has no effect!
 # 	Condition: 40% chance (ai:40 rnd:0)
 # Change Random to Wood, Deal 90% damage
 # [11] ESEndPath(36:26) -> ESEndPath
 # end_turn
-# [12] ESOrbSealRow(100:11923) -> 動かすのは　ム～リ～！
+# [12] ESOrbSealRow(100:11923) -> Try moving those!
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
 # Seal 1st row for 2 turns
-# [13] ESAttackMultihit(15:11924) -> ムゥ～リィ～！！
+# [13] ESAttackMultihit(15:11924) -> Nooo Waaaay!
 # Deal 150% damage
 # [14] ESEndPath(36:26) -> ESEndPath
 # end_turn

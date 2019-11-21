@@ -199,7 +199,7 @@ records:
 # Increase damage to 200% for the next 3 turns
 # [22] ESRandomSpawn(92:2663) -> おらー どーしたロンゲヤロー！
 # 	Condition: When fire, water, wood, light, heal, jammer, poison, mortal poison orbs are on the board (ai:100 rnd:0)
-# Spawn random 8 Dark orbs, (if [2607, 2608] on team)
+# Spawn random 8 Dark orbs
 # [23] SkillSet:
 # 	Condition: On death (ai:100 rnd:0)
 # 	[0] ESBlind(5:2660) -> まだ お 終わってねーぞ こんなろー

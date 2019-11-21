@@ -3,10 +3,11 @@
 ############################################################
 !EntryInfo
 comments: null
-monster_id: 104969
-monster_name_en: フゥミン
+monster_id: 114969
+monster_name_en: Mighty Morphin Yellow Ranger
 reviewed_by: unreviewed
-warnings: []
+warnings:
+- Found 2 unused actions
 
 ############################################################
 ### Data @ 4
@@ -18,42 +19,42 @@ records:
 - !SkillRecord
   desc_en: Bind active skills for 5 turns (Preemptive)
   max_atk_pct: null
-  name_en: 今夜もねむれナイト
+  name_en: Never Sleep Ever
   one_time: 0
   record_type_name: PREEMPT
   usage_pct: 100
 - !SkillRecord
-  desc_en: Deal 110% damage
-  max_atk_pct: 110
-  name_en: それそれっ！
-  one_time: 0
-  record_type_name: ACTION
-  usage_pct: 40
+  desc_en: ''
+  max_atk_pct: null
+  name_en: Turn 1
+  one_time: null
+  record_type_name: DIVIDER
+  usage_pct: null
 - !SkillRecord
-  desc_en: Change Random to Water, Deal 90% damage
-  max_atk_pct: 90
-  name_en: ほらほら　シャキッとして～♪
-  one_time: 0
+  desc_en: Movetime -2s for 5 turns + Change 3rd, 4th column to Jammer orbs
+  max_atk_pct: null
+  name_en: Humf... Sorry? + Sorry for the intrusion ♪
+  one_time: 1
   record_type_name: ACTION
-  usage_pct: 40
+  usage_pct: 100
 - !SkillRecord
   desc_en: ''
   max_atk_pct: null
-  name_en: HP < 50
+  name_en: HP <= 100
   one_time: null
   record_type_name: DIVIDER
   usage_pct: null
 - !SkillRecord
   desc_en: Delay active skills by 2 turns, Deal 95% damage
   max_atk_pct: 95
-  name_en: もっと　おしゃべりしようよ？
+  name_en: Let's talk some more!
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
 - !SkillRecord
   desc_en: 1x3 cloud appear for 1 turns at random location, Deal 90% damage
   max_atk_pct: 90
-  name_en: モヤモヤさせちゃおっ～と♪
+  name_en: Let's make things a little misty ♪
   one_time: 0
   record_type_name: ACTION
   usage_pct: 50
@@ -74,64 +75,31 @@ records:
 - !SkillRecord
   desc_en: Increase damage to 150% for the next 5 turns
   max_atk_pct: null
-  name_en: がんばっちゃうわぁ～♪
+  name_en: Here I come ♪
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
 - !SkillRecord
   desc_en: Spawn random 5 Poison orbs, Deal 80% damage
   max_atk_pct: 80
-  name_en: うっふ～ん♪
+  name_en: Hahaaah ♪
   one_time: 0
   record_type_name: ACTION
   usage_pct: 100
-- !SkillRecord
-  desc_en: ''
-  max_atk_pct: null
-  name_en: When 1 enemy remains
-  one_time: null
-  record_type_name: DIVIDER
-  usage_pct: null
-- !SkillRecord
-  desc_en: ''
-  max_atk_pct: null
-  name_en: Turn 1
-  one_time: null
-  record_type_name: DIVIDER
-  usage_pct: null
-- !SkillRecord
-  desc_en: Movetime -2s for 5 turns + Change 3rd, 4th column to Jammer orbs
-  max_atk_pct: null
-  name_en: うふっ　ごめんねぇ～？ + おじゃましま～す♪
-  one_time: 1
-  record_type_name: ACTION
-  usage_pct: 100
-- !SkillRecord
-  desc_en: ''
-  max_atk_pct: null
-  name_en: HP <= 100
-  one_time: null
-  record_type_name: DIVIDER
-  usage_pct: null
-- !SkillRecord
-  desc_en: Delay active skills by 2 turns, Deal 95% damage
-  max_atk_pct: 95
-  name_en: もっと　おしゃべりしようよ？
-  one_time: 0
-  record_type_name: ACTION
-  usage_pct: 50
-- !SkillRecord
-  desc_en: 1x3 cloud appear for 1 turns at random location, Deal 90% damage
-  max_atk_pct: 90
-  name_en: モヤモヤさせちゃおっ～と♪
-  one_time: 0
-  record_type_name: ACTION
-  usage_pct: 50
 
+############################################################
+### Unused Actions
+############################################################
+# ESAttackMultihit(15:11909) -> There! There!
+# 	Condition: 40% chance (ai:40 rnd:0)
+# Deal 110% damage
+# ESOrbChangeAttack(48:11910) -> Hey, refreshing ♪
+# 	Condition: 40% chance (ai:40 rnd:0)
+# Change Random to Water, Deal 90% damage
 ############################################################
 ### ES Modifiers
 ############################################################
-# [9] 4 - monster size?
+# [9] 5 - monster size?
 # [52] true - use new AI
 # [53] 1 - starting/max counter
 # [54] 0 - counter increment
@@ -149,7 +117,7 @@ records:
 # Branch on flag & 1, target rnd 8
 # [5] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b1
-# [6] ESBindSkill(14:12066) -> 今夜もねむれナイト
+# [6] ESBindSkill(14:12066) -> Never Sleep Ever
 # Bind active skills for 5 turns
 # [7] ESEndPath(36:26) -> ESEndPath
 # end_turn
@@ -157,26 +125,26 @@ records:
 # Branch on hp < 50, target rnd 14
 # [9] ESBranchRemainingEnemies(120:8595) -> ESBranchRemainingEnemies
 # Branch on remaining enemies <= 1, target rnd 13
-# [10] ESAttackMultihit(15:11909) -> それそれっ！
+# [10] ESAttackMultihit(15:11909) -> There! There!
 # 	Condition: 40% chance (ai:40 rnd:0)
 # Deal 110% damage
-# [11] ESOrbChangeAttack(48:11910) -> ほらほら　シャキッとして～♪
+# [11] ESOrbChangeAttack(48:11910) -> Hey, refreshing ♪
 # 	Condition: 40% chance (ai:40 rnd:0)
 # Change Random to Water, Deal 90% damage
 # [12] ESEndPath(36:26) -> ESEndPath
 # end_turn
 # [13] SkillSet:
 # 	Condition: One-time use (ai:100 rnd:0) (one-time: 1)
-# 	[0] ESDebuffMovetime(39:12068) -> うふっ　ごめんねぇ～？
+# 	[0] ESDebuffMovetime(39:12068) -> Humf... Sorry?
 # 	Movetime -2s for 5 turns
-# 	[1] ESColumnSpawnMulti(76:11915) -> おじゃましま～す♪
+# 	[1] ESColumnSpawnMulti(76:11915) -> Sorry for the intrusion ♪
 # 	Change 3rd, 4th column to Jammer orbs
 # [14] ESBranchHP(28:18) -> ESBranchHP
 # Branch on hp < 20, target rnd 18
-# [15] ESSkillDelay(89:11911) -> もっと　おしゃべりしようよ？
+# [15] ESSkillDelay(89:11911) -> Let's talk some more!
 # 	Condition: 50% chance (ai:0 rnd:50)
 # Delay active skills by 2 turns, Deal 95% damage
-# [16] ESCloud(104:11912) -> モヤモヤさせちゃおっ～と♪
+# [16] ESCloud(104:11912) -> Let's make things a little misty ♪
 # 	Condition: 50% chance (ai:0 rnd:50)
 # 1x3 cloud appear for 1 turns at random location, Deal 90% damage
 # [17] ESEndPath(36:26) -> ESEndPath
@@ -185,11 +153,11 @@ records:
 # Branch on flag & 2, target rnd 22
 # [19] ESFlagOperation(22:12) -> ESFlagOperation
 # flag SET 0b11
-# [20] ESAttackUPCooldown(19:11916) -> がんばっちゃうわぁ～♪
+# [20] ESAttackUPCooldown(19:11916) -> Here I come ♪
 # Increase damage to 150% for the next 5 turns
 # [21] ESEndPath(36:26) -> ESEndPath
 # end_turn
-# [22] ESRandomSpawn(92:11917) -> うっふ～ん♪
+# [22] ESRandomSpawn(92:11917) -> Hahaaah ♪
 # 	Condition: When fire, water, wood, light, dark, heal, jammer, mortal poison orbs are on the board (ai:100 rnd:0)
 # Spawn random 5 Poison orbs, Deal 80% damage
 # [23] ESEndPath(36:26) -> ESEndPath
